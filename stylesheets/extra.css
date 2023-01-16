@@ -1,0 +1,22 @@
+<style>
+for some reason there has to be an extra line here {}
+
+    .button {
+        background-color: lightgrey;
+        border: solid;
+        border-width: 1px;
+        border-radius: 3px;
+        padding: 5px 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    }
+    .button:hover { background-color: grey; }
+
+
+    #banner { width: 800px; height: 115px; }
+    #download { float: right;  width: 25px; height: 28px; }
+    #shebanq { float: right;  margin-right: 10px; width: 25px; height: 30px; }
+    #ubs { float: right;  margin-right: 10px; width: 30px; height: 25px; }
+</style>
