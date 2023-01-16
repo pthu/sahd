@@ -21,11 +21,14 @@ SEMANTIC_FIELDS = SRC / "semantic_fields"
 CONTRIBUTORS = SRC / "contributors"
 MISCELLANEOUS = SRC / "miscellaneous"
 PHOTOS = SRC / "photos"
+PDFS = SRC / "pdfs"
+
 WORDS_DOCS = DOCS / "words"
 SEMANTIC_FIELDS_DOCS = DOCS / "semantic_fields"
 CONTRIBUTORS_DOCS = DOCS / "contributors"
 MISCELLANEOUS_DOCS = DOCS / "miscellaneous"
 PHOTOS_DOCS = DOCS / "images/photos"
+PDFS_DOCS = DOCS / "pdfs"
 
 HEADER = '<html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>\n\n'
 DOWNLOAD = '<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div>'
@@ -34,6 +37,8 @@ UBS = '<div><a id="ubs" title="Word in UBS" href="https://semanticdictionary.org
 
 PHOTO_PATH = r"(.*!\[.*])(\(.*/(.*\.(png|PNG|jpg|JPG|jpeg|JPEG|gif|GIF|tiff|TIFF)))(.*)"
 PHOTO_PATH_REPLACEMENT = r"\1(/sahd/images/photos/\3\5"
+PDF_PATH =  r'(.*src=")(\.\./pdfs/)(.*)'
+PDF_PATH_REPLACEMENT = r"\1/sahd/pdfs/\3"
 
 errors = []
 
@@ -293,6 +298,7 @@ def write_words(shebanq_dict, ubs_dict):
             for line in lines:
                 if second_dashes:
                     line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT, line) # modify possible photo path
+                    line = re.sub(PDF_PATH, PDF_PATH_REPLACEMENT, line) # modify possible pdf path
                     text.append(line)
                 if line.strip() == "---" and not first_dashes:
                     first_dashes = True
@@ -413,6 +419,12 @@ def copy_photos():
     copytree(PHOTOS, PHOTOS_DOCS)
 
 
+def copy_pdfs():
+    if isdir(PDFS_DOCS):
+        rmtree(PDFS_DOCS)
+    copytree(PDFS, PDFS_DOCS)
+
+
 def write_navigation(words_dict, semantic_fields_dict, contributors_dict):
 
     text = []
@@ -445,6 +457,7 @@ def make_docs():
     write_contributors(contributors_dict)
     write_miscellaneous()
     copy_photos()
+    copy_pdfs()
     write_navigation(words_dict, semantic_fields_dict, contributors_dict)
     return not show_errors()
 
