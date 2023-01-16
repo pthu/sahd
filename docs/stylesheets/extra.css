@@ -16,6 +16,7 @@ for some reason there has to be an extra line here {}
 
 
     #banner { width: 800px; height: 115px; }
-    #download { float: right;  width: 25px; height: 30px; }
+    #download { float: right;  width: 25px; height: 28px; }
     #shebanq { float: right;  margin-right: 10px; width: 25px; height: 30px; }
+    #ubs { float: right;  margin-right: 10px; width: 30px; height: 25px; }
 </style>

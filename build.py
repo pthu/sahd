@@ -30,6 +30,7 @@ PHOTOS_DOCS = DOCS / "images/photos"
 HEADER = '<html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>\n\n'
 DOWNLOAD = '<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div>'
 SHEBANQ = '<div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=replace" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div>'
+UBS = '<div><a id="ubs" title="Word in UBS" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=replace&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div>'
 
 PHOTO_PATH = r"(.*!\[.*])(\(.*/(.*\.(png|PNG|jpg|JPG|jpeg|JPEG|gif|GIF|tiff|TIFF)))(.*)"
 PHOTO_PATH_REPLACEMENT = r"\1(/sahd/images/photos/\3\5"
@@ -100,13 +101,40 @@ def get_values(line):
             value_list.append(value.strip())
     return value_list
 
-
 def reverse(word):
     return "".join(reversed(word))
 
 
-def convert_to_id(lex):
-    return "1" + lex.replace(">", "A").replace("<", "O").replace("[", "v").replace("/", "n").replace("=", "i")
+def get_number_of_points(word):
+    points = 0
+    for i in range(len(word)):
+        if ord(word[i]) < 0x5D0:
+            points += 1
+    return points
+
+
+def get_probable_index(word_hebrew, words_list):
+    # word_hebrew = reverse(word_hebrew)
+    # print(word_hebrew)
+    for i in range(len(words_list)):
+        # print(f"{word_hebrew} - {words_list[i]}")
+        if word_hebrew == words_list[i]:
+            # print("here")
+            return i
+
+    points = get_number_of_points(word_hebrew)
+    i = 0
+    for word in words_list:
+        # print(f"points: {points}, points word {get_number_of_points(word)}")
+        if points <= get_number_of_points(word) or i == len(words_list) - 1:
+            break
+        i += 1
+
+    return i
+
+
+def convert_to_id(language, lex):
+    return language + lex.replace(">", "A").replace("<", "O").replace("[", "v").replace("/", "n").replace("=", "i")
 
 
 def create_shebanq_references():
@@ -115,16 +143,19 @@ def create_shebanq_references():
     with open('shebanq_words.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=';')
         for row in csv_reader:
-            word_hebrew = row[1]
-            word_id = convert_to_id(row[0])
+            language = "2" if row[0] == "Aramaic" else "1"
+            word_id = convert_to_id(language, row[1])
+            word_hebrew = row[2]
+            vocal = reverse(row[3])
             key = word_hebrew[0]
             word_hebrew = reverse(word_hebrew)
             if key in shebanq.keys():
-                s = set(shebanq[key].keys())
-                if word_hebrew not in s:
-                    shebanq[key][word_hebrew] = word_id
+                if word_hebrew in shebanq[key]:
+                    shebanq[key][word_hebrew].append((word_id, vocal))
+                else:
+                    shebanq[key][word_hebrew] = [(word_id, vocal)]
             else:
-                shebanq[key] = {word_hebrew: word_id}
+                shebanq[key] = {word_hebrew: [(word_id, vocal)]}
 
     return shebanq
 
@@ -137,7 +168,56 @@ def get_shebanq_id(word_hebrew, shebanq_dict):
     # print(reverse(pointless))
     first_char = pointless[len(pointless) - 1]
     if pointless in shebanq_dict[first_char]:
-        return shebanq_dict[first_char][pointless]
+        # print(len(shebanq_dict[first_char][pointless]))
+        # print(shebanq_dict[first_char][pointless][0][0])
+        index = 0
+        if len(shebanq_dict[first_char][pointless]) > 1:
+            words_list = []
+            for entry in shebanq_dict[first_char][pointless]:
+                words_list.append(entry[1])
+            index = get_probable_index(word_hebrew, words_list)
+            # print(f"shebanq index: {index}")
+        return shebanq_dict[first_char][pointless][index][0]
+    else:
+        return None
+
+
+def create_ubs_references():
+    ubs = {}
+
+    with open('ubs_words.csv') as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=';')
+        for row in csv_reader:
+            word_hebrew = row[0]
+            vocal = row[1]
+            key = word_hebrew[0]
+            word_hebrew = reverse(word_hebrew)
+            if key in ubs.keys():
+                if word_hebrew in ubs[key]:
+                    ubs[key][word_hebrew].append(vocal)
+                else:
+                    ubs[key][word_hebrew] = [vocal]
+            else:
+                ubs[key] = {word_hebrew: [vocal]}
+    return ubs
+
+
+def get_ubs_reference(word_hebrew, ubs_dict):
+    pointless = ""
+    for i in range(len(word_hebrew)):
+        if ord(word_hebrew[i]) >= 0x5D0:
+            pointless += word_hebrew[i]
+    first_char = pointless[len(pointless) - 1]
+    if pointless in ubs_dict[first_char]:
+        # print(len(ubs_dict[first_char][pointless]))
+        # print(ubs_dict[first_char][pointless][0])
+        index = 0
+        if len(ubs_dict[first_char][pointless]) > 1:
+            # print(reverse(word_hebrew))
+            # print(ubs_dict[first_char][pointless])
+            index = get_probable_index(word_hebrew, ubs_dict[first_char][pointless])
+            # print(f"ubs index: {index}")
+        return ubs_dict[first_char][pointless][index]
     else:
         return None
 
@@ -200,7 +280,7 @@ def write_index_file():
         f.write("".join(text))
 
 
-def write_words(shebanq_dict):
+def write_words(shebanq_dict, ubs_dict):
     if isdir(WORDS_DOCS):
         rmtree(WORDS_DOCS)
     os.mkdir(WORDS_DOCS)
@@ -219,7 +299,7 @@ def write_words(shebanq_dict):
                 elif line.startswith("word_english:"):
                     word_english = get_values(line)[0]
                 elif line.startswith("word_hebrew:"):
-                    word_hebrew = get_values(line)[0]
+                    word_hebrew = reverse(get_values(line)[0])
                 elif line.startswith("semantic_fields:"):
                     semantic_fields = get_values(line)
                 elif line.strip() == "---" and not second_dashes:
@@ -227,9 +307,12 @@ def write_words(shebanq_dict):
                     text.append(HEADER)
                     text.append(DOWNLOAD)
                     # print(word_english)
-                    shebanq_id = get_shebanq_id(reverse(word_hebrew), shebanq_dict)
+                    shebanq_id = get_shebanq_id(word_hebrew, shebanq_dict)
                     if shebanq_id:
                         text.append(SHEBANQ.replace("replace", shebanq_id))
+                    ubs_reference = get_ubs_reference(word_hebrew, ubs_dict)
+                    if ubs_reference:
+                        text.append(UBS.replace("replace", ubs_reference))
                     if not word_english or not word_hebrew:
                         error(f"Metadata for {filename} incomplete")
                     text.append(f"# **{word_hebrew} – {word_english.replace('_', ' ')}**\n\n")
@@ -354,9 +437,10 @@ def write_navigation(words_dict, semantic_fields_dict, contributors_dict):
 
 def make_docs():
     shebanq_dict = create_shebanq_references()
+    ubs_dict = create_ubs_references()
     words_dict, semantic_fields_dict, contributors_dict = get_relations()
     write_index_file()
-    write_words(shebanq_dict)
+    write_words(shebanq_dict, ubs_dict)
     write_semantic_fields(semantic_fields_dict)
     write_contributors(contributors_dict)
     write_miscellaneous()
