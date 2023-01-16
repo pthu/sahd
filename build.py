@@ -98,6 +98,10 @@ def capitalize(s):
     return s.replace('_', ' ').title()
 
 
+def capitalize_name(s):
+    return s.title().replace("Van_", "van_").replace("’T_", "'t_").replace("'De_", "'de_").replace("_", " ")
+
+
 def get_values(line):
     value_list = []
     values = line[line.index(":") + 1:].split(",")
@@ -369,12 +373,11 @@ def write_contributors(contributors_dict):
     copytree(CONTRIBUTORS, CONTRIBUTORS_DOCS)
 
     for contributor in contributors_dict:
-        name = contributor.title().replace("_", " ")
         words = contributors_dict[contributor]
 
         if not exists(CONTRIBUTORS_DOCS / f"{contributor}.md"):
             with open(CONTRIBUTORS_DOCS / f"{contributor}.md", 'w') as f:
-                f.write(f'# **{name}**\n\n')
+                f.write(f'# **{capitalize_name(contributor)}**\n\n')
                 f.close()
 
         text = [HEADER]
@@ -442,7 +445,7 @@ def write_navigation(words_dict, semantic_fields_dict, contributors_dict):
                     text.append(f"            - {capitalize(s_field)}: semantic_fields/{s_field}.md\n")
             elif line.replace(" ", "").startswith("-Contributors:"):
                 for contributor in contributors_dict:
-                    text.append(f"            - {capitalize(contributor)}: contributors/{contributor}.md\n")
+                    text.append(f"            - {capitalize_name(contributor)}: contributors/{contributor}.md\n")
     with open("mkdocs.yml", 'w') as f:
         f.write("".join(text))
 
