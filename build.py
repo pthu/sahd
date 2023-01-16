@@ -325,7 +325,7 @@ def write_words(shebanq_dict, ubs_dict):
                         text.append(UBS.replace("replace", ubs_reference))
                     if not word_english or not word_hebrew:
                         error(f"Metadata for {filename} incomplete")
-                    text.append(f"# **{word_hebrew} – {word_english.replace('_', ' ')}**\n\n")
+                    text.append(f"# **{reverse(word_hebrew)} – {word_english.replace('_', ' ')}**\n\n")
                     if len(semantic_fields) > 0:
                         text.append("Semantic Fields:\n")
                         for sf in semantic_fields:
