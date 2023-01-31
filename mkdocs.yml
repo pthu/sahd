@@ -1,6 +1,6 @@
 site_name: SAHD
 site_description: >-
-    Semantics of Ancient Hebrew Database.
+    Semantics of Ancient Hebrew Database
 site_url: 'https://vesaakerman.github.io/sahd/'
 site_author: Vesa Åkerman
 
@@ -13,18 +13,25 @@ nav:
             - ב:
                 - בַּיִת - house: words/house.md
                 - בֶַּקַע - half a shekel: words/half_a_shekel.md
+            - ד:
+                - דֶלֶת - column: words/column.md
+            - ה:
+                - הָעוּשְּׁת - deliverance: words/deliverance.md
             - פ:
                 - פָּלִיט - escapee: words/escapee.md
+                - פָּלִיט - escaped one: words/escaped_one.md
     - Semantic fields:
             - Deliverance: semantic_fields/deliverance.md
             - Something 1: semantic_fields/something_1.md
             - Something 2: semantic_fields/something_2.md
             - Weight: semantic_fields/weight.md
     - Contributors:
+            - Aitken James K: contributors/aitken_james_k.md
             - Beentjes Pancratius: contributors/beentjes_pancratius.md
-            - De Hoop Raymond: contributors/de_hoop_raymond.md
+            - de Hoop Raymond: contributors/de_hoop_raymond.md
             - Korpel Marjo: contributors/korpel_marjo.md
             - Koster Marinus: contributors/koster_marinus.md
+            - van Wieringen A L H M: contributors/van_wieringen_a_l_h_m.md
             - van 't Veld Bertus: contributors/van_’t_veld_bertus.md
             - Williams P J: contributors/williams_p_j.md
     - Partners: 'miscellaneous/partners.md'

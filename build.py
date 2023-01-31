@@ -30,10 +30,12 @@ MISCELLANEOUS_DOCS = DOCS / "miscellaneous"
 PHOTOS_DOCS = DOCS / "images/photos"
 PDFS_DOCS = DOCS / "pdfs"
 
+WORDS_LIST = SAHD_BASE / "word_list.csv"
+
 HEADER = '<html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>\n\n'
 DOWNLOAD = '<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div>'
 SHEBANQ = '<div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=replace" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div>'
-UBS = '<div><a id="ubs" title="Word in UBS" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=replace&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div>'
+UBS = '<div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=replace&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div>'
 
 PHOTO_PATH = r"(.*!\[.*])(\(.*/(.*\.(png|PNG|jpg|JPG|jpeg|JPEG|gif|GIF|tiff|TIFF)))(.*)"
 PHOTO_PATH_REPLACEMENT = r"\1(/sahd/images/photos/\3\5"
@@ -99,7 +101,7 @@ def capitalize(s):
 
 
 def capitalize_name(s):
-    return s.title().replace("Van_", "van_").replace("’T_", "'t_").replace("'De_", "'de_").replace("_", " ")
+    return s.title().replace("Van_", "van_").replace("’T_", "'t_").replace("De_", "de_").replace("_", " ")
 
 
 def get_values(line):
@@ -109,6 +111,7 @@ def get_values(line):
         if value.strip():
             value_list.append(value.strip())
     return value_list
+
 
 def reverse(word):
     return "".join(reversed(word))
@@ -123,12 +126,9 @@ def get_number_of_points(word):
 
 
 def get_probable_index(word_hebrew, words_list):
-    # word_hebrew = reverse(word_hebrew)
-    # print(word_hebrew)
     for i in range(len(words_list)):
         # print(f"{word_hebrew} - {words_list[i]}")
         if word_hebrew == words_list[i]:
-            # print("here")
             return i
 
     points = get_number_of_points(word_hebrew)
@@ -354,6 +354,8 @@ def write_words(shebanq_dict, ubs_dict):
                 if second_dashes:
                     line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT, line) # modify possible photo path
                     line = re.sub(PDF_PATH, PDF_PATH_REPLACEMENT, line) # modify possible pdf path
+                    if line.strip().startswith("<iframe") and DOWNLOAD in text:
+                        text.remove(DOWNLOAD)
                     text.append(line)
                 if line.strip() == "---" and not first_dashes:
                     first_dashes = True
@@ -501,6 +503,15 @@ def write_navigation(words_dict, semantic_fields_dict, contributors_dict):
         f.write("".join(text))
 
 
+def write_word_list(words_dict):
+    f = open(WORDS_LIST, 'w')
+    writer = csv.writer(f)
+    for key in words_dict.keys():
+        for word in words_dict[key]:
+            writer.writerow([word[0], word[1]])
+    f.close()
+
+
 def make_docs():
     shebanq_dict = create_shebanq_references()
     ubs_dict = create_ubs_references()
@@ -513,6 +524,7 @@ def make_docs():
     copy_photos()
     copy_pdfs()
     write_navigation(words_dict, semantic_fields_dict, contributors_dict)
+    write_word_list(words_dict)
     return not show_errors()
 
 
