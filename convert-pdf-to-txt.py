@@ -36,7 +36,8 @@ def convert(input, output, md_formatting):
                 if md_formatting:
                     line = re.sub(r"^\s*([0-9]+).?(\s*↑)(.*)", r"[^\1]: \3", line)        # footnotes
                     line = re.sub(r"^\s*([0-9]+\.\s.*)", r"## \1", line)                  # headers
-                    line = re.sub(r"^\s*([a-zA-Z]?[0-9.]+)(\s.*$)", r"**\1** \2", line)   # sub-headers
+                    line = re.sub(r"^\s*([0-9]\.[0-9])(\s.*$)", r"###\1 \2", line)        # main sub-headers
+                    line = re.sub(r"^\s*([a-zA-Z]?[0-9.]+)(\s.*$)", r"**\1** \2", line)   # other sub-headers
                     if line.strip().lower() == "introduction":
                         line = "##Introduction\n"
                     if line.strip().lower() == "conclusion":
