@@ -25,11 +25,15 @@ def convert(input, output):
                 line = re.sub(r"^\s*([0-9]+\.\s.*)", r"## \1", line)                  # headers
                 line = re.sub(r"^\s*([a-zA-Z]?[0-9.]+)(\s.*$)", r"**\1** \2", line)   # sub-headers
                 if line.strip().lower() == "introduction":
-                    line = "**Introduction**\n"
+                    line = "##Introduction\n"
                 if line.strip().lower() == "conclusion":
-                    line = "**Conclusion**\n"
+                    line = "##Conclusion\n"
                 if line.strip().lower() == "bibliography":
-                    line = "**Bibliography**\n"
+                    line = "##Bibliography\n"
+                if line.strip().lower() == "notes":
+                    line = "##Notes\n"
+                if line.strip().startswith("**"):
+                    line = "\n" + line
                 f.write(line)
 
     print(f"{input} converted to {output}")

@@ -286,6 +286,8 @@ def get_relations():
     words, semantic_fields, contributors = {}, {}, {}
 
     for word in WORDS.glob("*"):
+        if word.name == ".DS_Store":
+            continue
         with open(WORDS / word.name, "r") as f:
             word_english, word_hebrew = "", ""
             lines = f.readlines()
@@ -346,6 +348,8 @@ def write_words(shebanq_dict, ubs_dict):
     os.mkdir(WORDS_DOCS)
 
     for word in WORDS.glob("*"):
+        if word.name == ".DS_Store":
+            continue
         filename = word.name
         text, semantic_fields, word_english, word_hebrew, first_dashes, second_dashes = [], [], "", "", False, False
         with open(WORDS / filename, "r") as f:
