@@ -492,7 +492,7 @@ def write_navigation(words_dict, semantic_fields_dict, contributors_dict):
         lines = f.readlines()
         for line in lines:
             text.append(line)
-            if line.replace(" ", "").startswith("-Words:"):
+            if line.replace(" ", "").startswith("-Lemmas:"):
                 for letter in words_dict:
                     text.append(f"            - {letter}:\n")
                     for word in words_dict[letter]:

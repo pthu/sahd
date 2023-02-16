@@ -1,12 +1,12 @@
 site_name: SAHD
 site_description: >-
-    Semantics of Ancient Hebrew Database.
+    Semantics of Ancient Hebrew Database
 site_url: 'https://vesaakerman.github.io/sahd/'
 site_author: Vesa Åkerman
 
 nav:
     - Home: index.md
-    - Words:
+    - Lemmas:
     - Semantic fields:
     - Contributors:
     - Partners: 'miscellaneous/partners.md'
