@@ -351,7 +351,7 @@ def write_words(shebanq_dict, ubs_dict):
         if word.name == ".DS_Store":
             continue
         filename = word.name
-        text, semantic_fields, word_english, word_hebrew, first_dashes, second_dashes = [], [], "", "", False, False
+        text, semantic_fields, contributors, word_english, word_hebrew, first_dashes, second_dashes = [], [], [], "", "", False, False
         with open(WORDS / filename, "r") as f:
             lines = f.readlines()
             for line in lines:
@@ -369,6 +369,8 @@ def write_words(shebanq_dict, ubs_dict):
                     word_hebrew = reverse(get_values(line)[0])
                 elif line.startswith("semantic_fields:"):
                     semantic_fields = get_values(line)
+                elif line.startswith("contributors:"):
+                    contributors = get_values(line)
                 elif line.strip() == "---" and not second_dashes:
                     second_dashes = True
                     text.append(HEADER)
@@ -382,12 +384,24 @@ def write_words(shebanq_dict, ubs_dict):
                         text.append(UBS.replace("replace", ubs_reference))
                     if not word_english or not word_hebrew:
                         error(f"Metadata for {filename} incomplete")
-                    text.append(f"# **{reverse(word_hebrew)} – {word_english.replace('_', ' ')}**\n\n")
+                    word_english_hebrew = f"{reverse(word_hebrew)} – {word_english.replace('_', ' ')}"
+                    text.append(f"# **{word_english_hebrew}**\n\n")
                     if len(semantic_fields) > 0:
                         text.append("Semantic Fields:\n")
                         for sf in semantic_fields:
                             text.append(f"[{capitalize(sf)}](../semantic_fields/{sf}.md)&nbsp;&nbsp;&nbsp;")
-                        text.append("\n\n")
+                        text.append("<br>")
+                    if len(contributors) > 0:
+                        contributors_text = ""
+                        text.append("Authors:\n")
+                        first = True
+                        for c in contributors:
+                            if not first:
+                                contributors_text += ",&nbsp;"
+                            contributors_text += f"[{capitalize(c)}](../contributors/{c}.md)"
+                            first = False
+                        text.append(contributors_text + "[^*]\n\n")
+            text.append(f"[^*]: This article should be cited as: {contributors_text}, {word_english_hebrew}")
 
         if not second_dashes:
             error(f"Metadata for {filename} incomplete")

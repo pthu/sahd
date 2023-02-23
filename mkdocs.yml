@@ -6,11 +6,12 @@ site_author: Vesa Åkerman
 
 nav:
     - Home: index.md
-    - Words:
+    - Lemmas:
             - א:
                 - אָזֵן - weapon: words/weapon.md
                 - אַח - brazier: words/brazier.md
             - ב:
+                - בֶּקַע - beka half a shekel: words/beka_half_a_shekel.md
                 - בַּיִת - house: words/house.md
                 - בֶַּקַע - half a shekel: words/half_a_shekel.md
             - ד:
@@ -31,6 +32,7 @@ nav:
             - de Hoop Raymond: contributors/de_hoop_raymond.md
             - Korpel Marjo: contributors/korpel_marjo.md
             - Koster Marinus: contributors/koster_marinus.md
+            - van 'T Veld Bertus: contributors/van_'t_veld_bertus.md
             - van Wieringen A L H M: contributors/van_wieringen_a_l_h_m.md
             - van 't Veld Bertus: contributors/van_’t_veld_bertus.md
             - Williams P J: contributors/williams_p_j.md
@@ -47,9 +49,9 @@ markdown_extensions:
     - md_in_html
 
 extra_css:
-   - stylesheets/extra.css
+   - static/stylesheets/extra.css
 
 extra_javascript:
-    - javascripts/extra.js
+    - static/javascripts/extra.js
 
 
