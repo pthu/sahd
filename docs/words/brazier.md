@@ -1,9 +1,10 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=2AXn" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in UBS" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=אַח&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># **אַח – brazier**
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=2AXn" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=אַח&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># **אַח – brazier**
 
 Semantic Fields:
-[Something 2](../semantic_fields/something_2.md)&nbsp;&nbsp;&nbsp;
+[Something 2](../semantic_fields/something_2.md)&nbsp;&nbsp;&nbsp;<br>Authors:
+[Koster Marinus](../contributors/koster_marinus.md)[^*]
 
 
 ## 1. Statistics
@@ -48,3 +49,4 @@ Sequi doloremque sit atque voluptatem est fugit assumenda et soluta asperiores. 
  Dalman,
  AuS 
 , Bd. 4, 10; Bd. 7, 205: ‘Heizherd’ 
+[^*]: This article should be cited as: [Koster Marinus](../contributors/koster_marinus.md), אַח – brazier

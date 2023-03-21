@@ -4,4 +4,4 @@
 
 
 ### Related words
-[פָּלִיט – escapee](../words/escapee.md)<br>
+[הָעוּשְּׁת – deliverance](../words/deliverance.md)<br>[פָּלִיט – escaped one](../words/escaped_one.md)<br>[פָּלִיט – escapee](../words/escapee.md)<br>

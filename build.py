@@ -401,7 +401,7 @@ def write_words(shebanq_dict, ubs_dict):
                             contributors_text += f"[{capitalize(c)}](../contributors/{c}.md)"
                             first = False
                         text.append(contributors_text + "[^*]\n\n")
-            text.append(f"[^*]: This article should be cited as: {contributors_text}, {word_english_hebrew}")
+            text.append(f"\n[^*]: This article should be cited as: {contributors_text}, {word_english_hebrew}")
 
         if not second_dashes:
             error(f"Metadata for {filename} incomplete")

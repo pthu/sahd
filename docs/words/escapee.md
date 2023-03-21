@@ -3,7 +3,8 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1PLJVn" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div># **פָּלִיט – escapee**
 
 Semantic Fields:
-[Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;
+[Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Authors:
+[Williams P J](../contributors/williams_p_j.md)[^*]
 
 
 
@@ -340,3 +341,5 @@ Syntax. Winona Lake, Indiana.
 P.J. Williams
 
 First printed 27 October 1998
+
+[^*]: This article should be cited as: [Williams P J](../contributors/williams_p_j.md), פָּלִיט – escapee

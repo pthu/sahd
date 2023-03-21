@@ -39,6 +39,7 @@ nav:
     - Partners: 'miscellaneous/partners.md'
     - Contribution: 'miscellaneous/contribution.md'
     - Contact: 'miscellaneous/contact.md'
+    - Abbreviations: 'miscellaneous/abbreviations.md'
 
 theme:
     name: material

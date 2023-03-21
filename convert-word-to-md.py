@@ -19,6 +19,34 @@ def read_args():
     return input, output
 
 
+def footnotes(line):
+    superscripts ={0x00B2: 0x0032, 0x00B3: 0x33, 0x00B9: 0x31, 0x2070: 0x30, 0x2074: 0x34, 0x2075: 0x35, 0x2076: 0x36, 0x2077: 0x37, 0x2078: 0x38, 0x2079: 0x39}
+    s = ""
+    i = 0
+    while i < len(line):
+        char = line[i]
+        if 0x2080 <= ord(char) <= 0x2089:
+            # subscript numbers
+            next_char = line[i + 1] if i < len(line) else ""
+            if 0x2080 <= ord(next_char) <= 0x2089:
+                s += f"[^{chr(ord(char) - 0x2050)}{chr(ord(next_char) - 0x2050)}]"
+                i += 1
+            else:
+                s += f"[^{chr(ord(char) - 0x2050)}]"
+        if ord(char) in superscripts:
+            # supercript numbers
+            next_char = line[i + 1] if i < len(line) else ""
+            if ord(next_char) in superscripts:
+                s += f"[^{chr(superscripts[ord(char)])}{chr(superscripts[ord(next_char)])}]"
+                i += 1
+            else:
+                s += f"[^{chr(superscripts[ord(char)])}]"
+        else:
+            s += char
+        i += 1
+    return s
+
+
 def convert(input, output):
 
     headers = ["Introduction", "Root and Comparative Material", "Formal Characteristics", "Syntagmatics", "Versions",
@@ -37,6 +65,7 @@ def convert(input, output):
                     line = "##" + line.strip()
                 if line.strip().startswith("**"):
                     line = "\n" + line
+                line = footnotes(line)
                 f.write(line)
 
     remove(TEMP)

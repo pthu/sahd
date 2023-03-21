@@ -1,9 +1,10 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="ubs" title="Word in UBS" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=בַּיִת&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># **בַּיִת – house**
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=בַּיִת&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># **בַּיִת – house**
 
 Semantic Fields:
-[Something 1](../semantic_fields/something_1.md)&nbsp;&nbsp;&nbsp;
+[Something 1](../semantic_fields/something_1.md)&nbsp;&nbsp;&nbsp;<br>Authors:
+[Korpel Marjo](../contributors/korpel_marjo.md),&nbsp;[Koster Marinus](../contributors/koster_marinus.md)[^*]
 
 
 ## 1. Statistics
@@ -49,3 +50,4 @@ Sequi doloremque sit atque voluptatem est fugit assumenda et soluta asperiores. 
 , vol. 3, 832: ‘tabular soul cases’ – Astley 1929: H.J.D.Astley,
  Biblical Anthropology Compared with and Illustrated by the Folklore of Europe and the Customs of Primitive Peoples 
 , London1929, 79-83 –  
+[^*]: This article should be cited as: [Korpel Marjo](../contributors/korpel_marjo.md),&nbsp;[Koster Marinus](../contributors/koster_marinus.md), בַּיִת – house
