@@ -4,10 +4,10 @@
 
 Semantic Fields:
 [Weight](../semantic_fields/weight.md)&nbsp;&nbsp;&nbsp;<br>Authors:
-[De Hoop Raymond](../contributors/de_hoop_raymond.md),&nbsp;[Van ’T Veld Bertus](../contributors/van_’t_veld_bertus.md)[^*]
+[de Hoop Raymond](../contributors/de_hoop_raymond.md),&nbsp;[van 't Veld Bertus](../contributors/van_'t_veld_bertus.md)[^*]
 
 
 
 <iframe width="100%" height="800" src="/sahd/pdfs/bqo-Eng.pdf"></iframe>
 
-[^*]: This article should be cited as: [De Hoop Raymond](../contributors/de_hoop_raymond.md),&nbsp;[Van ’T Veld Bertus](../contributors/van_’t_veld_bertus.md), בֶַּקַע – half a shekel
+[^*]: This article should be cited as: [de Hoop Raymond](../contributors/de_hoop_raymond.md),&nbsp;[van 't Veld Bertus](../contributors/van_'t_veld_bertus.md), בֶַּקַע – half a shekel

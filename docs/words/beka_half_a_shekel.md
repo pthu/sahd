@@ -4,7 +4,7 @@
 
 Semantic Fields:
 [Weight](../semantic_fields/weight.md)&nbsp;&nbsp;&nbsp;<br>Authors:
-[De Hoop Raymond](../contributors/de_hoop_raymond.md),&nbsp;[Van 'T Veld Bertus](../contributors/van_'t_veld_bertus.md)[^*]
+[de Hoop Raymond](../contributors/de_hoop_raymond.md),&nbsp;[van 't Veld Bertus](../contributors/van_'t_veld_bertus.md)[^*]
 
 ##<span id="I">Introduction</span>
 
@@ -436,4 +436,4 @@ downloaded from:
 [^39]: Kletter  	1998: 70--72.
 [^40]: Thanks are due to Mrs Alice Deken 	(Amsterdam), who was so kind as to correct the English of this paper.
 
-[^*]: This article should be cited as: [De Hoop Raymond](../contributors/de_hoop_raymond.md),&nbsp;[Van 'T Veld Bertus](../contributors/van_'t_veld_bertus.md), בֶּקַע – beka half a shekel
+[^*]: This article should be cited as: [de Hoop Raymond](../contributors/de_hoop_raymond.md),&nbsp;[van 't Veld Bertus](../contributors/van_'t_veld_bertus.md), בֶּקַע – beka half a shekel

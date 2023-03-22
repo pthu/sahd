@@ -29,6 +29,7 @@ hebrew = {"a": "א", "b": "ב", "B": "בּ", "g": "ג", "G": "גּ", "d": "ד", 
           "od": "דֹ", "¿bw": "בֹו", "ub": "בֻ", "Ug": "גֻ", "Ud": "דֻ", "]b": "בְ", "Òg": "גְ", "*j": "חֲ", "Ôj": "חֱ",
           "Õj": "חֳ", "mA": "מ־"
           }
+hebrew_points = {"]": 0x05B0, "<": 0x05B6, "'": 0x05B7, ";": 0x05B8, "A": 0x05BF, "e": 0x05B5, ",": 0x05B6, "A": 0x05BF}
 
 def read_args():
     parser = argparse.ArgumentParser(description='converts TeX file to Markdown text file',
@@ -103,9 +104,10 @@ def replace_hebrew(line):
         if not m:
             m = re.search(r"(.*)\\beginR{\\[sn]mhebr (.*?)}\\endR(.*)", line)
         if m:
-            hbr = reverse(m.group(2))
-            hbr = hbr.replace("\symbol{125}", "*")
+            hbr = m.group(2).replace("\symbol{125}", "*")
+            # print(m.group(2))
             print(hbr)
+            print(line)
             h = ""
             i = 0
             while i < len(hbr):
@@ -119,11 +121,15 @@ def replace_hebrew(line):
                     h += hebrew[two_chars]
                     i += 1
                 else:
-                    h += hebrew[char]
+                    if char in hebrew_points:
+                        h += chr(hebrew_points[char])
+                    else:
+                        h += hebrew[char]
                 i += 1
-            line = m.group(1) + h + m.group(3)
+            line = m.group(1) + reverse(h) + m.group(3)
         else:
             break
+        print(line)
     return line
 
 

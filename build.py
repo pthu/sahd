@@ -101,7 +101,7 @@ def capitalize(s):
 
 
 def capitalize_name(s):
-    return s.title().replace("Van_", "van_").replace("’T_", "'t_").replace("De_", "de_").replace("_", " ")
+    return s.title().replace("Van_", "van_").replace("’T_", "’t_").replace("'T_", "'t_").replace("De_", "de_").replace("_", " ")
 
 
 def get_values(line):
@@ -398,7 +398,7 @@ def write_words(shebanq_dict, ubs_dict):
                         for c in contributors:
                             if not first:
                                 contributors_text += ",&nbsp;"
-                            contributors_text += f"[{capitalize(c)}](../contributors/{c}.md)"
+                            contributors_text += f"[{capitalize_name(c)}](../contributors/{c}.md)"
                             first = False
                         text.append(contributors_text + "[^*]\n\n")
             text.append(f"\n[^*]: This article should be cited as: {contributors_text}, {word_english_hebrew}")
