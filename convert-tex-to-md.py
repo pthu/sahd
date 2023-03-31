@@ -10,26 +10,29 @@ definitions = {}
 greek = {"a": "α", "b": "β", "g": "γ", "d": "δ", "e": "ε", "z": "ζ", "h": "η", "q": "θ", "i": "ι",
          "k": "κ", "l": "λ", "m": "μ", "n": "ν", "x": "ξ", "o": "ο", "p": "π", "r": "ρ", "s": "σ",
          "t": "τ", "u": "υ", "f": "φ", "c": "χ", "y": "ψ", "w": "ω", '"': "ς",
-         "aj": "ἀ", "aJ": "ἁ", "a;": "ὰ", "av": "ά", "a*": "ἅ", "a’": "ᾶ", "a/": "ᾳ", "a[": "ᾰ",
-         "ej": "ἐ", "eJ": "ἑ", "e;": "ὲ", "ev": "έ", "e*": "ἕ",
-         "hj": "ἠ", "hJ": "ἡ", "h;": "ὴ", "hv": "ή", "h*": "ἥ", "h’": "ῆ", "h/": "ῃ",
-         "ij": "ἰ", "iJ": "ἱ", "i;": "ὶ", "iv": "ί", "i*": "ἵ", "i’": "ῖ", "i[": "ῐ",
-         "oj": "ὀ", "oJ": "ὁ", "o;": "ὸ", "ov": "ό", "o*": "ὅ",
-         "uj": "ὐ", "uJ": "ὑ", "u;": "ὺ", "uv": "ύ", "u*": "ὕ", "u’": "ῦ", "u[": "ῠ",
-         "wj": "ὠ", "wJ": "ὡ", "w;": "ὼ", "wv": "ώ", "w*": "ὥ", "w’": "ῶ", "w/": "ῳ",
+         "aj": "ἀ", "aJ": "ἁ", "a;": "ὰ", "av": "ά", "a*": "ἅ", "a’": "ᾶ", "a/": "ᾳ", "a[": "ἄ",
+         "ej": "ἐ", "eJ": "ἑ", "e;": "ὲ", "ev": "έ", "e*": "ἕ", "e[": "ἔ",
+         "hj": "ἠ", "hJ": "ἡ", "h;": "ὴ", "hv": "ή", "h*": "ἥ", "h’": "ῆ", "h/": "ῃ", "h[": "ἤ",
+         "ij": "ἰ", "iJ": "ἱ", "i;": "ὶ", "iv": "ί", "i*": "ἵ", "i’": "ῖ", "i[": "ἴ",
+         "oj": "ὀ", "oJ": "ὁ", "o;": "ὸ", "ov": "ό", "o*": "ὅ", "o[": "ὄ",
+         "uj": "ὐ", "uJ": "ὑ", "u;": "ὺ", "uv": "ύ", "u*": "ὕ", "u’": "ῦ", "u[": "ὔ",
+         "wj": "ὠ", "wJ": "ὡ", "w;": "ὼ", "wv": "ώ", "w*": "ὥ", "w’": "ῶ", "w/": "ῳ", "w[": "ὤ",
          " ": " "
          }
 hebrew = {"a": "א", "b": "ב", "B": "בּ", "g": "ג", "G": "גּ", "d": "ד", "D": "דּ", "h": "ה", "H": "הּ", "w": "ו",
           "W": "וּ", "z": "ז", "Z": "זּ", "j": "ח", "f": "ט", "F": "טּ", "y": "י", "Y": "יּ", "k": "כ", "K": "כּ",
           "û": "ך", "ò": "ךָ", "è": "ךְ", "l": "ל", "L": "לּ", "m": "מ", "M": "מּ", "µ": "ם", "n": "נ", "N": "סּ",
-          "ö": "ן", "s": "ס", "S": "ףּ", "[": "ע", "p": "פ", "P": "צּ", "¹": "ף", "x": "צ", "X": "קּ", "Å": "ץ",
-          "q": "ק", "Q": "רּ", "r": "ר", "R": "שּ", "c": "שׂ", "C": "שּׂ", "v": "שׁ", "V": "שּׁ", "t": "ת", "T": "וֹ",
-          ";b": "בָ", ":g": "גָ", ":d": "דָ", "'b ": "בַ", '"g": "גַ", '"d": "דַ", "eb": "בֵ", "Eg": "גֵ", "Ed": "דֵ",
-          ",b": "בֶ", "<g": "גֶ", "<d": "דֶ", "ib": "בִ", "Ig": "גִ", "Id": "דִ", "ob": "בֹ", "Og": "גֹ", "og": "גֹ",
-          "od": "דֹ", "¿bw": "בֹו", "ub": "בֻ", "Ug": "גֻ", "Ud": "דֻ", "]b": "בְ", "Òg": "גְ", "*j": "חֲ", "Ôj": "חֱ",
-          "Õj": "חֳ", "mA": "מ־"
+          "ö": "ן", "s": "ס", "S": "ףּ", "[": "ע", "p": "פ", "P": "פּּ", "¹": "ף", "x": "צ", "X": "קּ", "Å": "ץ",
+          "q": "ק", "Q": "רּ", "r": "ר", "R": "שּ", "c": "שׂ", "C": "שּׂ", "v": "שׁ", "V": "שּׁ", "t": "ת", "T": "תֹּ",
+          # ";b": "בָ", ":g": "גָ", ":d": "דָ", "'b ": "בַ", '"g": "גַ", '"d": "דַ", "eb": "בֵ", "Eg": "גֵ", "Ed": "דֵ",
+          # ",b": "בֶ", "<g": "גֶ", "<d": "דֶ", "ib": "בִ", "Ig": "גִ", "Id": "דִ", "ob": "בֹ", "Og": "גֹ", "og": "גֹ",
+          # "od": "דֹ", "¿bw": "בֹו", "ub": "בֻ", "Ug": "גֻ", "Ud": "דֻ", "]b": "בְ", "Òg": "גְ", "*j": "חֲ", "Ôj": "חֱ",
+          # "Õj": "חֳ", "mA": "מ־", " ": " "
+          "&": "ף", "A": "&thinsp;־"
           }
-hebrew_points = {"]": 0x05B0, "<": 0x05B6, "'": 0x05B7, ";": 0x05B8, "A": 0x05BF, "e": 0x05B5, ",": 0x05B6, "A": 0x05BF}
+hebrew_points = {"]": 0x05B0, "Ò": 0x05B0, "Ô": 0x05B1, "*": 0x05B2, "Õ": 0x05B3, "i": 0x05B4, "I": 0x05B4,
+                 "e": 0x05B5, "E": 0x05B5, ",": 0x05B6, "<": 0x05B6, "'": 0x05B7, '"': 0x05B7, ";": 0x05B8,
+                 ":": 0x05B8, "o": 0x05B9, "O": 0x05B9, "¿": 0x05B9, "u": 0x05BB, "U": 0x05BB}
 
 def read_args():
     parser = argparse.ArgumentParser(description='converts TeX file to Markdown text file',
@@ -98,40 +101,44 @@ def replace_superscript_2(line):
     return line
 
 
+def replace_hebrew_part(hbr):
+    h = ""
+    i = 0
+    point = False
+    while i < len(hbr):
+        char = hbr[i]
+        if char in hebrew_points:
+            point_char = chr(hebrew_points[char])
+            point = True
+        else:
+            if point:
+                h += hebrew[char] + point_char
+                point = False
+            else:
+                h += hebrew[char]
+        i += 1
+    return '<span dir="rtl">' + h + '</span>'
+
+
 def replace_hebrew(line):
     for i in range(5):
         m = re.search(r"(.*)\\RL{\\Hbr (.*?)}(.*)", line)
         if not m:
+            m = re.search(r"(.*)\\beginR{\\[sn]mhebr *\\beginR{\\[sn]mhebr (.*?)}\\endR}\\endR(.*)", line) # a situation where erroneously double definitions
+        if not m:
             m = re.search(r"(.*)\\beginR{\\[sn]mhebr (.*?)}\\endR(.*)", line)
         if m:
-            hbr = m.group(2).replace("\symbol{125}", "*")
-            # print(m.group(2))
-            print(hbr)
-            print(line)
-            h = ""
-            i = 0
-            while i < len(hbr):
-                char = hbr[i]
-                if i < len(hbr) - 1:
-                    next_char = hbr[i + 1]
-                else:
-                    next_char = ""
-                two_chars = char + next_char
-                if two_chars in hebrew.keys():
-                    h += hebrew[two_chars]
-                    i += 1
-                else:
-                    if char in hebrew_points:
-                        h += chr(hebrew_points[char])
-                    else:
-                        h += hebrew[char]
-                i += 1
-            line = m.group(1) + reverse(h) + m.group(3)
+            hbr = m.group(2).split()
+            i = len(hbr) - 1
+            all_parts = ""
+            while i >= 0:
+                all_parts += replace_hebrew_part(hbr[i]) + " "
+                i -= 1
+            line = m.group(1) + all_parts + m.group(3)
         else:
             break
-        print(line)
+        # print(line)
     return line
-
 
 def replace_greek(line):
     # for i in range(5):
@@ -139,7 +146,7 @@ def replace_greek(line):
     for i in range(5):
         m = re.search(r"(.*){\\[ns]mody (.*)}(.*)", line)
         if m:
-            gr = m.group(2).replace("\symbol{123}", "*")
+            gr = m.group(2)
             if gr.find("\\-") >= 0:
                 gr = gr.replace("\\-", "")
                 print(f"\- removed {gr}")
@@ -344,6 +351,11 @@ def indents(input, output):
 
 
 def replace_special(line):
+    line = line.replace("*", "")
+
+    line = line.replace("\symbol{125}", "*")        # replacement to handle hebrew and greek
+    line = line.replace("\symbol{185}", "&")        # replacement to handle hebrew
+
     line = line.replace("\\nsupscr{$\\prime$}", "′")# ′
     line = line.replace("\\ ", " ")                 # space
     line = line.replace("\\xx", "x")                # x
@@ -404,6 +416,8 @@ def replacements(input, output):
             for line in lines:
                 if line.strip().startswith("%"):
                     continue
+                if line.strip() == "":
+                    line = "\n\n"
 
                 line = replace_special(line)
 
