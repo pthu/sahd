@@ -348,6 +348,8 @@ def write_words(shebanq_dict, ubs_dict):
     os.mkdir(WORDS_DOCS)
 
     for word in WORDS.glob("*"):
+        word_hebrew, word_english, first_published, revised = "", "", "", ""
+        semantic_fields, contributors = [], []
         if word.name == ".DS_Store":
             continue
         filename = word.name
@@ -371,6 +373,10 @@ def write_words(shebanq_dict, ubs_dict):
                     semantic_fields = get_values(line)
                 elif line.startswith("contributors:"):
                     contributors = get_values(line)
+                elif line.startswith("first_published:"):
+                    first_published = get_values(line)[0]
+                elif line.startswith("revised:"):
+                    revised = get_values(line)[0]
                 elif line.strip() == "---" and not second_dashes:
                     second_dashes = True
                     text.append(HEADER)
@@ -400,7 +406,14 @@ def write_words(shebanq_dict, ubs_dict):
                                 contributors_text += ",&nbsp;"
                             contributors_text += f"[{capitalize_name(c)}](../contributors/{c}.md)"
                             first = False
-                        text.append(contributors_text + "[^*]\n\n")
+                        text.append(contributors_text + "[^*]<br>\n")
+                    if first_published:
+                        text.append(f"First published: {first_published}<br>")
+                        if revised:
+                            text.append(f"Revised: {revised}\n\n")
+                        else:
+                            text.append("\n\n")
+
             text.append(f"\n[^*]: This article should be cited as: {contributors_text}, {word_english_hebrew}")
 
         if not second_dashes:
