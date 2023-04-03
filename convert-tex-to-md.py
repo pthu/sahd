@@ -24,10 +24,6 @@ hebrew = {"a": "א", "b": "ב", "B": "בּ", "g": "ג", "G": "גּ", "d": "ד", 
           "û": "ך", "ò": "ךָ", "è": "ךְ", "l": "ל", "L": "לּ", "m": "מ", "M": "מּ", "µ": "ם", "n": "נ", "N": "סּ",
           "ö": "ן", "s": "ס", "S": "ףּ", "[": "ע", "p": "פ", "P": "פּּ", "¹": "ף", "x": "צ", "X": "קּ", "Å": "ץ",
           "q": "ק", "Q": "רּ", "r": "ר", "R": "שּ", "c": "שׂ", "C": "שּׂ", "v": "שׁ", "V": "שּׁ", "t": "ת", "T": "תֹּ",
-          # ";b": "בָ", ":g": "גָ", ":d": "דָ", "'b ": "בַ", '"g": "גַ", '"d": "דַ", "eb": "בֵ", "Eg": "גֵ", "Ed": "דֵ",
-          # ",b": "בֶ", "<g": "גֶ", "<d": "דֶ", "ib": "בִ", "Ig": "גִ", "Id": "דִ", "ob": "בֹ", "Og": "גֹ", "og": "גֹ",
-          # "od": "דֹ", "¿bw": "בֹו", "ub": "בֻ", "Ug": "גֻ", "Ud": "דֻ", "]b": "בְ", "Òg": "גְ", "*j": "חֲ", "Ôj": "חֱ",
-          # "Õj": "חֳ", "mA": "מ־", " ": " "
           "&": "ף", "A": "&thinsp;־"
           }
 hebrew_points = {"]": 0x05B0, "Ò": 0x05B0, "Ô": 0x05B1, "*": 0x05B2, "Õ": 0x05B3, "i": 0x05B4, "I": 0x05B4,
@@ -73,6 +69,7 @@ def replace_bold(line):
 
 def replace_italics(line):
     for i in range(5):
+        line = re.sub(r"(.*)\\textit\\textit{(.*?)}}(.*)", r"\1*\2*\3", line)
         line = re.sub(r"(.*)\\textit{(.*?)}(.*)", r"\1*\2*\3", line)
     return line
 
@@ -90,7 +87,14 @@ def replace_superscript_1(line):
 
 
 def replace_superscript_2(line):
-    conversion = {"G": "LXX", "M": "MT", "A": "αʹ", "Ps": "PsJ", "Sm": "Smr"}
+    conversion = {"A": "αʹ", "AS": "αʹσʹ", "ASTh": "αʹσʹθʹ", "ATh": "αʹθʹ",
+                  "G": "LXX", "GA": "LXXαʹ", "GAS": "LXXαʹσʹ", "GASTh": "LXXαʹσʹθʹ",
+                  "GATh": "LXXαʹθʹ", "GS": "LXXσʹ", "GSTh": "LXXσʹθʹ", "GTh": "LXXθʹ",
+                  "J": "J", "K": "K", "M": "MT", "N": "N", "NSm": "N,Smr", "O": "O",
+                  "ON": "O,N", "ONSm": "O,N,Smr", "OPs": "O,PsJ", "OPsN": "O,PsJ,N",
+                  "OPsNSm": "O,PsJ,N,Smr", "OPsSm": "O,PsJ,Smr", "OSm": "O,Smr",
+                  "Ps": "PsJ", "S": "σʹ", "Sm": "Smr", "STh": "σʹθʹ", "Th": "θʹ"
+                  }
     for i in range(5):
         m = re.search(r"(.*)\\sup([a-zA-Z]*)(|\\|;|.)(.*)", line)
         if m:
@@ -351,7 +355,7 @@ def indents(input, output):
 
 
 def replace_special(line):
-    line = line.replace("*", "")
+    line = line.replace("*", "\*")
 
     line = line.replace("\symbol{125}", "*")        # replacement to handle hebrew and greek
     line = line.replace("\symbol{185}", "&")        # replacement to handle hebrew
@@ -359,6 +363,9 @@ def replace_special(line):
     line = line.replace("\\nsupscr{$\\prime$}", "′")# ′
     line = line.replace("\\ ", " ")                 # space
     line = line.replace("\\xx", "x")                # x
+    line = line.replace("\\&", "&")                # &
+    line = line.replace("$<$", "&lt;")                # &
+    line = line.replace("$>$", "&gt;")                # &
     line = line.replace("\\ldots", "...")           # ...
     line = line.replace("$\\surd$", "√")            # √
     line = line.replace("$\\rightarrow$", "→")      # →
@@ -386,18 +393,37 @@ def replace_special(line):
     line = line.replace("\\'{\\i}", "í")              # í
     line = line.replace("\\b{K}", "Ḵ")              # Ḵ
     line = line.replace("\\ges", "Ges")              # Ges
+
+    line = line.replace("\\mta", "MT<sup>A</sup>") # MTA
+    line = line.replace("\\mtl", "MT<sup>L</sup>") # MTL
+    line = line.replace("\\mtz", "MT<sup>Z</sup>") # MTZ
     line = line.replace("\\mt", "MT")              # MT
+    line = line.replace("\\qum", "Qum.")              # Qum.
     line = line.replace("\\lxx", "LXX")              # LXX
+    line = line.replace("\\septant", "LXX<sup>Ant</sup>") # LXXAnt
+    line = line.replace("\\septa", "LXX<sup>a</sup>") # LXXa
+    line = line.replace("\\septb", "LXX<sup>a</sup>") # LXXb
+    line = line.replace("\\septs", "LXX<sup>s</sup>") # LXXs
+    line = line.replace("{\\sept}", "LXX")         # LXX
     line = line.replace("\\sept", "LXX")              # LXX
-    line = line.replace("\\tg", "T")              # T
-    line = line.replace("\\targ", "T")              # T
-    line = line.replace("{\\peshi}", "S")              # S
-    line = line.replace("\\peshi", "S")              # S
-    line = line.replace("\\sam", "SP")              # SP
-    line = line.replace("\\vulg", "V")              # V
+
     line = line.replace("\\aq", "α´")              # α´
+    line = line.replace("\\orig", "οʹ")              # οʹ
     line = line.replace("\\th", "θ´")              # θ´
     line = line.replace("\\sym", "σ´")              # σ´
+
+    line = line.replace("{\\tg}", "Tg.")         # Tg.
+    line = line.replace("\\tg", "Tg.")              # Tg.
+    line = line.replace("{\\targ}", "Tg.")         # Tg.
+    line = line.replace("\\targ", "Tg.")              # Tg.
+    line = line.replace("{\\peshi}", "Syr.")         # Syr.
+    line = line.replace("\\peshi", "Syr.")              # Syr.
+    line = line.replace("{\\pesh}", "Syr.")         # Syr.
+    line = line.replace("\\pesh", "Syr.")              # Syr.
+    line = line.replace("{\\sam}", "SP")         # SP
+    line = line.replace("\\sam", "SP")              # SP
+    line = line.replace("{\\vulg}", "Vulg.")         # Vulg.
+    line = line.replace("\\vulg", "Vulg.")              # Vulg.
 
     # doubtful
     line = line.replace("\\#\\,", "#")              # #
@@ -415,7 +441,7 @@ def replacements(input, output):
             lines = file.readlines()
             for line in lines:
                 if line.strip().startswith("%"):
-                    continue
+                    continue                    # skip comments
                 if line.strip() == "":
                     line = "\n\n"
 
@@ -465,12 +491,16 @@ def replacements(input, output):
                 if s.startswith("\\pagebreak") or s.startswith("\\setlength") \
                         or s.startswith("\\markboth") or s.startswith("\\vspace") or s.startswith("\\thispagestyle")\
                         or s.startswith("\\setcounter") or s.startswith("\\normalsize") or s.startswith("\\newpage") \
-                        or s.startswith("\\pagestyle") or s.startswith("%"):
+                        or s.startswith("\\pagestyle") \
+                        or s == "}":
                     continue
                 # This needs still to be checked that no relevant information is missed (if we want to make md markings over more lines)
                 if s.startswith("\\begin{") or s.startswith("\\end{"):
                     continue
-
+                if s.startswith("{"):
+                    line = line[1:]
+                if "\\" in line and not line.startswith("\\noindent"):
+                    print(line)
                 f.write(line)
         f.close()
 
