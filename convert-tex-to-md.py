@@ -119,6 +119,12 @@ def replace_superscript_2(line):
     return line
 
 
+def replace_subscript(line):
+    for i in range(5):
+        line = re.sub(r"(.*)\\n?subs{(.*?)}(.*)", r"\1<sub>\2</sub>\3", line)
+    return line
+
+
 def replace_hebrew_part(hbr):
     # print(hbr)
     h = ""
@@ -161,6 +167,8 @@ def replace_hebrew_coded(line):
             m = re.search(r"(.*)\\beginR{\\[sn]mhebr \\[sn]mhebr (.*?)}\\endR(.*)", line) # another erroneous situation
         if not m:
             m = re.search(r"(.*)\\beginR{\\[sn]mhebr (.*?)}\\endR(.*)", line)
+        if not m:
+            m = re.search(r"(.*)\\beginR{→ \\[sn]mhebr (.*?)}\\endR(.*)", line)
         if m:
             hbr = m.group(2).split()
             i = len(hbr) - 1
@@ -185,7 +193,7 @@ def replace_greek(line):
 
 def replace_greek_coded(line):
     # print(line)
-    for i in range(5):
+    for i in range(50):
         m = re.search(r'(.*){\\[ns]mody (.*?)}(.*)', line)
         if m:
             gr = m.group(2)
@@ -398,6 +406,7 @@ def replace_special_characters(line):
     line = line.replace("\\ ", " ")                 # space
     line = line.replace("\\xx", "x")                # x
     line = line.replace("\\&", "&")                 # &
+    line = line.replace("\\#", "#")                 # #
     line = line.replace("$<$", "&lt;")              # <
     line = line.replace("$>$", "&gt;")              # >
     line = line.replace("$/$", "/")                 # /
@@ -413,9 +422,12 @@ def replace_special_characters(line):
     line = line.replace("{\\ain}", "ʿ")             # ʿ
     line = line.replace("\\ain", "ʿ")               # ʿ
     line = line.replace("{\\alef}", "ʾ")            # ʾ
+    line = line.replace("\\alef", "ʾ")              # ʾ
     line = line.replace("{\\ss}", "ß")              # ß
+    line = line.replace("\\ss", "ß")                # ß
     line = line.replace('\\"{A}', "Ä")              # Ä
     line = line.replace('\\"{a}', "ä")              # ä
+    line = line.replace('\\"a', "ä")                # ä
     line = line.replace("\\={a}", "ā")              # ā
     line = line.replace("\\'{a}", "á")              # á
     line = line.replace("\\`{a}", "à")              # à
@@ -423,7 +435,6 @@ def replace_special_characters(line):
     line = line.replace("\\^{e}", "ê")              # ê
     line = line.replace("\\'{e}", "é")              # é
     line = line.replace("\\'{E}", "É")              # É
-    line = line.replace('\\"{O}', "Ö")              # Ö
     line = line.replace("\\'{\\i}", "í")            # í
     line = line.replace('\\={\\i}', "ī")            # ī
     line = line.replace('\\^{\\i}', "î")            # î
@@ -431,6 +442,8 @@ def replace_special_characters(line):
     line = line.replace("\\'{o}", "ó")              # ó
     line = line.replace('\\^{o}', "ô")              # ô
     line = line.replace('\\"{o}', "ö")              # ö
+    line = line.replace('\\"{O}', "Ö")              # Ö
+    line = line.replace('\\"O', "Ö")                # Ö
     line = line.replace('\\"{u}', "ü")              # ü
     line = line.replace('\\"{u*', "ü")              # ü
     line = line.replace('\\^{u}', "û")              # û
@@ -438,6 +451,7 @@ def replace_special_characters(line):
     line = line.replace('\\^{U}', "Û")              # Û
     line = line.replace('\\"{U}', "Ü")              # Û
     line = line.replace("\\v{g}", "ǧ")              # ǧ
+    line = line.replace("\\v{G}", "Ǧ")              # Ǧ
     line = line.replace("{\\sh}", "ḫ")              # ḫ
     line = line.replace("\\s{h}", "ḫ")              # ḫ
     line = line.replace("\\sh ", "ḫ")               # ḫ
@@ -445,15 +459,23 @@ def replace_special_characters(line):
     line = line.replace("\\d{h}", "ḥ")              # ḥ
     line = line.replace("\\d{H}", "Ḥ")              # Ḥ
     line = line.replace("\\b{h}", "ẖ")              # ẖ
+    line = line.replace("\\b{K}","Ḵ")               # Ḵ
     line = line.replace("\\v{s}", "š")              # š
     line = line.replace("\\v{S}", "Š")              # Š
     line = line.replace("\\'{s}", "ś")              # ś
+    line = line.replace("\\d{s}", "ṣ")              # ṣ
     line = line.replace("\\d{t}", "ṭ")              # ṭ
+    line = line.replace("\\b{t}", "ṯ")              # ṯ
     line = line.replace("\\st ", "ṯ")               # ṯ
 
+    line = line.replace("{\\aq}", "α´")             # α´
+    line = line.replace("{\\orig}", "οʹ")           # οʹ
+    line = line.replace("{\\sym}", "σ´")            # σ´
+    line = line.replace("{\\theod}", "θ´")          # θ´
     line = line.replace("\\aq", "α´")               # α´
     line = line.replace("\\orig", "οʹ")             # οʹ
     line = line.replace("\\sym", "σ´")              # σ´
+    line = line.replace("\\theod", "θ´")            # θ´
 
     # doubtful
     line = line.replace("\\#\\,", "#")              # #
@@ -480,6 +502,7 @@ def replace_book_references(line):
     line = line.replace("\\septs", "LXX<sup>s</sup>")     # LXXs
     line = line.replace("{\\sept}", "LXX")                # LXX
     line = line.replace("\\sept", "LXX")                  # LXX
+    line = line.replace("\\ges", "Ges")                   # Ges
 
     line = line.replace("{\\tg}", "Tg.")                  # Tg.
     line = line.replace("\\tg", "Tg.")                    # Tg.
@@ -499,6 +522,7 @@ def replace_book_references(line):
 
 def replace_commands(line):
     line = line.replace("\\item", "  - ")                  #  -
+    line = line.replace("\\prl", "|")                      # |
     line = line.replace("\\linebreak", "<br>")             # <br>
     line = line.replace("\\newline", "<br>")               # <br>
     line = line.replace("\\hspace\\*", "   ")              # spaces
@@ -506,10 +530,12 @@ def replace_commands(line):
     # line = line.replace("\\noindent", "")                # empty
     line = line.replace("\\theendnotes", "")               # empty
     line = line.replace("\\hfill", "")                     # empty
+    line = line.replace("\\vfill", "")                     # empty
     line = line.replace("\\bigskip", "")                   # empty
     line = line.replace("{\\fill}", "")                    # empty
     line = line.replace("\\fill", "")                      # empty
     line = line.replace("\\normalsize", "")                # empty
+    line = line.replace("\\today", "")                     # empty
 
     return line
 
@@ -554,6 +580,7 @@ def replacements(input, output):
                 line = replace_vspace(line)
                 line = replace_superscript_1(line)
                 line = replace_superscript_2(line)
+                line = replace_subscript(line)
                 line = replace_textsc(line)
                 line = replace_footnotesize(line)
                 line = replace_reference(line)
@@ -587,8 +614,9 @@ def replacements(input, output):
                     continue
                 if line.startswith("{"):
                     line = line[1:]
-                # if "\\" in line and not line.startswith("\\noindent") and not "\\textit" in line and not "\\*" in line:
-                #     print(line)
+                if ("\\" in line ) and not line.startswith("\\noindent") and not line.startswith("\\hangindent") \
+                        and not "\\textit" in line and not "\\endnote" in line and not "\\noindent" in line and not "\\*" in line:
+                    print(line)
                 line = final_replacements(line)
                 f.write(line)
         f.close()
