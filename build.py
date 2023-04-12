@@ -104,6 +104,10 @@ def capitalize_name(s):
     return s.title().replace("Van_", "van_").replace("’T_", "’t_").replace("'T_", "'t_").replace("De_", "de_").replace("_", " ")
 
 
+def get_value(line):
+    return line[line.index(":") + 1:]
+
+
 def get_values(line):
     value_list = []
     values = line[line.index(":") + 1:].split(",")
@@ -348,7 +352,7 @@ def write_words(shebanq_dict, ubs_dict):
     os.mkdir(WORDS_DOCS)
 
     for word in WORDS.glob("*"):
-        word_hebrew, word_english, first_published, revised = "", "", "", ""
+        word_hebrew, word_english, title, first_published, revised = "", "", "", "", ""
         semantic_fields, contributors = [], []
         if word.name == ".DS_Store":
             continue
@@ -369,19 +373,20 @@ def write_words(shebanq_dict, ubs_dict):
                     word_english = get_values(line)[0]
                 elif line.startswith("word_hebrew:"):
                     word_hebrew = reverse(get_values(line)[0])
+                elif line.startswith("title:"):
+                    title = get_value(line)
                 elif line.startswith("semantic_fields:"):
                     semantic_fields = get_values(line)
                 elif line.startswith("contributors:"):
                     contributors = get_values(line)
                 elif line.startswith("first_published:"):
                     first_published = get_values(line)[0]
-                elif line.startswith("revised:"):
+                elif line.startswith("revised:") and line.replace("revised:", "").strip() != "":
                     revised = get_values(line)[0]
                 elif line.strip() == "---" and not second_dashes:
                     second_dashes = True
                     text.append(HEADER)
                     text.append(DOWNLOAD)
-                    # print(word_english)
                     shebanq_id = get_shebanq_id(word_hebrew, shebanq_dict)
                     if shebanq_id:
                         text.append(SHEBANQ.replace("replace", shebanq_id))
@@ -390,8 +395,9 @@ def write_words(shebanq_dict, ubs_dict):
                         text.append(UBS.replace("replace", ubs_reference))
                     if not word_english or not word_hebrew:
                         error(f"Metadata for {filename} incomplete")
-                    word_english_hebrew = f"{reverse(word_hebrew)} – {word_english.replace('_', ' ')}"
-                    text.append(f"# **{word_english_hebrew}**\n\n")
+                    title_english = title if title else word_english.replace('_', ' ')
+                    word_english_hebrew = f"{reverse(word_hebrew)} – {title_english}"
+                    text.append(f"# {word_english_hebrew}\n\n")
                     if len(semantic_fields) > 0:
                         text.append("Semantic Fields:\n")
                         for sf in semantic_fields:
