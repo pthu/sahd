@@ -12,7 +12,7 @@ def read_args():
                                      formatter_class=argparse.RawTextHelpFormatter)
     parser.add_argument("input", help="input pdf-file")
     parser.add_argument("output", help="ouput text-file")
-    parser.add_argument("md_formatting", nargs='?', default=False, help="is Markdown formatting applied?")
+    parser.add_argument("md_formatting", nargs='?', default=True, help="is Markdown formatting applied?")
     args = parser.parse_args()
     input = args.input
     output = args.output
