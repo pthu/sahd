@@ -1,7 +1,7 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-# **Tools**
+# **Veenhof Klaas R.**
 
 
-### Related words
-[זק – fiery missile](../words/fiery_missile.md)<br>
+### Contributions
+[פֶּלֶךְ – spindle](../words/spindle.md)<br>

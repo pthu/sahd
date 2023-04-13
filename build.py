@@ -577,7 +577,7 @@ def main():
     elif action == "github":
         if make_docs():
             ship_docs()
-            # commit()
+            commit()
 
 
 main()

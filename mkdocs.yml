@@ -7,16 +7,26 @@ site_author: Vesa Åkerman
 nav:
     - Home: index.md
     - Lemmas:
-            - א:
-                - אַח - brazier: words/brazier.md
-            - ז:
-                - זק - fiery missile: words/fiery_missile.md
+            - ב:
+                - בֶּקַע - beka – half a shekel: words/beka_–_half_a_shekel.md
+            - י:
+                - יָשַׁע - to rescue: words/to_rescue.md
+                - יְשׁוּעָה - protection: words/protection.md
+            - פ:
+                - פֶּלֶךְ - spindle: words/spindle.md
     - Semantic fields:
-            - Something 2: semantic_fields/something_2.md
-            - Tools: semantic_fields/tools.md
+            - Deliverance: semantic_fields/deliverance.md
+            - Utensils: semantic_fields/utensils.md
+            - Weight: semantic_fields/weight.md
     - Contributors:
-            - Korpel Marjo: contributors/korpel_marjo.md
-            - Koster Marinus: contributors/koster_marinus.md
+            - Aitken James K: contributors/aitken_james_k.md
+            - Davies Graham I: contributors/davies_graham_i.md
+            - de Hoop Raymond: contributors/de_hoop_raymond.md
+            - Graham I. Davies: contributors/graham_i._davies.md
+            - James K. Aitken: contributors/james_k._aitken.md
+            - Sanders Paul: contributors/sanders_paul.md
+            - van ’t Veld Bertus: contributors/van_’t_veld_bertus.md
+            - Veenhof Klaas R.: contributors/veenhof_klaas_r..md
     - Partners: 'miscellaneous/partners.md'
     - Contribution: 'miscellaneous/contribution.md'
     - Contact: 'miscellaneous/contact.md'

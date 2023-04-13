@@ -1,9 +1,11 @@
+
+
 Most abbreviations of series, handbooks and journals used in
 this database are according to:
 <i>The SBL Handbook of Style: for Biblical Studies and Related Disciplines</i>, 
-Atlanta (GA): SBL Press, <sup>2</sup>2014.
+Atlanta (GA): SBL Press, <sup>2</sup>2014.  
 
-
+## Abbreviations Biblical Books
 
 <style>
 table, th, td {
@@ -12,16 +14,14 @@ table, th, td {
 }
 td:nth-child(odd) {
   text-align: left;
-  width:15%
+  width:15%;
 }
 th:nth-child(even),td:nth-child(even) {
   background-color: #D6EEEE;
   text-align: left;
-  width:35%
+  width:35%;
 }
 </style>
-
-# Abbreviations Biblical Books
 
 <table style="width:100%">
 <colgroup>
@@ -76,7 +76,7 @@ th:nth-child(even),td:nth-child(even) {
   </tr>   
   <tr>
   	<td> 1-2 Kgdms </td>
-  	<td> 1-2 Kingdoms (<small>LXX</small>) </td>
+  	<td> 1-2 Kingdoms (LXX) </td>
   	<td> Job</td>
   	<td>   Job</td>   
   </tr>   
@@ -88,21 +88,21 @@ th:nth-child(even),td:nth-child(even) {
   </tr>   
   <tr>
   	<td> 3-4 Kgdms </td>
-  	<td> 3-4 Kingdoms (<small>LXX</small>) </td>
+  	<td> 3-4 Kingdoms (LXX) </td>
   	<td> Ruth </td>
   	<td>   Ruth </td>   
   </tr>   
   <tr>
   	<td> Isa </td>
   	<td> Isaiah </td>
-  	<td> Cant / Song </td>
-  	<td> Canticles / Song of Songs </td>   
+  	<td> Cant/ Song </td>
+  	<td>Canticles/&nbsp;Song&nbsp;of&nbsp;Songs</td>   
   </tr>   
   <tr>
   	<td> Jer </td>
   	<td> Jeremiah </td>
-  	<td> Eccl / Qoh </td>
-  	<td>  Ecclesiastes / Qohelet </td>   
+  	<td> Eccl/ Qoh </td>
+  	<td>  Ecclesiastes/ Qohelet </td>   
   </tr>   
   <tr>
   	<td> Ezek </td>
@@ -125,12 +125,12 @@ th:nth-child(even),td:nth-child(even) {
   <tr>
   	<td> Amos </td>
   	<td> Amos </td>
-  	<td> Ezra</td>
+<td>Ezra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   	<td>   Ezra </td>   
   </tr>   
   <tr>
-  	<td> Obad </td>
-  	<td> Obadiah </td>
+<td>Obad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  	<td> Obadiah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   	<td> Neh</td>
   	<td>   Nehemiah </td>   
   </tr>   
@@ -142,56 +142,67 @@ th:nth-child(even),td:nth-child(even) {
   </tr>
 </table>
 
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td:nth-child(odd) {
+  text-align: left;
+  width:15%;
+}
+th:nth-child(even),td:nth-child(even) {
+  background-color: #D6EEEE;
+  text-align: left;
+  width:35%;
+}
+</style>
 
 <table style="width:100%">
 <colgroup>
 	<th colspan="4"><i>Deuterocanonical and Pseudepigraphical Literature</i>
 	</th>  
   <tr>
-  	<td> AddDan  </td>
-  	<td>  Additions to Daniel  </td>
+  	<td>AddDan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>Additions&nbsp;to&nbsp;Daniel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   	<td>  Jdt  </td>
   	<td>  Judith </td>   
   </tr>   
   <tr>
-  	<td> 
-PrAzar  </td>
+  	<td> PrAzar  </td>
   	<td>  Prayer of Azariah  </td>
   	<td>  Jub  </td>
   	<td>  Jubilees </td>   
   </tr>   
   <tr>
-  	<td> 
-Bel  </td>
+  	<td> Bel  </td>
   	<td>  Bel and the Dragon  </td>
   	<td>  1-4 Macc  </td>
   	<td>  1-4 Maccabees </td>   
   </tr>   
   <tr>
-  	<td> 
-SgThree  </td>
-  	<td>  Song of the Three Young Men  </td>
+  	<td> SgThree  </td>
+  	<td>Song&nbsp;of&nbsp;the&nbsp;3&nbsp;Young&nbsp;Men</td>
   	<td>  Odes  </td>
   	<td>  Odes of Solomon </td>   
   </tr>   
   <tr>
-  	<td> 
-Sus  </td>
+  	<td> Sus  </td>
   	<td>  Susanna  </td>
   	<td>  PrMan  </td>
   	<td>  Prayer of Manasseh </td>   
   </tr>   
   <tr>
   	<td> AddEst </td>
-  	<td>    Additions to Esther  </td>
-  	<td> PssSol  </td>
+  	<td> Additions to Esther </td>
+  	<td>PssSol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   	<td>  Psalms of Solomon </td>   
   </tr>   
   <tr>
   	<td> Bar  </td>
   	<td>  Baruch  </td>
   	<td>  Sir   </td>
-  	<td>  Ben Sira/Ecclesiasticus </td>   
+  	<td>Ben&nbsp;Sira/&nbsp;Ecclesiasticus&nbsp;&nbsp;</td>   
   </tr>   
   <tr>
   	<td> 1-2 Esd  </td>
@@ -200,25 +211,35 @@ Sus  </td>
   	<td>  Tobit </td>   
   </tr>   
   <tr>
-  	<td> 
-EpJer  </td>
+  	<td> EpJer  </td>
   	<td>  Epistle of Jeremiah  </td>
   	<td>  Wis  </td>
   	<td>  Wisdom of Solomon </td>   
-  </tr>   
-</table>
+  </tr>   </table>
 
-
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td:nth-child(odd) {
+  text-align: left;
+  width:15%;}
+th:nth-child(even),td:nth-child(even) {
+  background-color: #D6EEEE;
+  text-align: left;
+  width:35%;}
+</style>
 
 <table style="width:100%">
 <colgroup>
 	<th colspan="4"><i>New Testament</i>
 	</th>  
   <tr>
-  	<td> Matt </td>
+  	<td>Matt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   	<td> Matthew </td>
-  	<td> 1-2 Thess</td>
-  	<td> 1-2 Thessalonians</td>   
+  	<td> 1-2&nbsp;Thess</td>
+  	<td> 1-2&nbsp;	Thessalonians</td>   
   </tr>   
   <tr>
   	<td> Mark </td>
@@ -235,7 +256,7 @@ EpJer  </td>
   <tr>
   	<td> John </td>
   	<td>   John </td>
-  	<td> Phlm</td>
+  	<td> Phlm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   	<td>   Philemon</td>   
   </tr>   
   <tr>
@@ -251,7 +272,7 @@ EpJer  </td>
   	<td>   James</td>   
   </tr>   
   <tr>
-  	<td> 1-2 Cor </td>
+  	<td>1-2&nbsp;Cor</td>
   	<td> 1-2 Corinthians </td>
   	<td> 1-2 Pet</td>
   	<td> 1-2 Peter</td>   
@@ -259,7 +280,7 @@ EpJer  </td>
   <tr>
   	<td> Gal </td>
   	<td>   Galatians </td>
-  	<td> 1-3 John</td>
+  	<td>1-3&nbsp;John</td>
   	<td> 1-3 John</td>   
   </tr>   
   <tr>
@@ -270,117 +291,144 @@ EpJer  </td>
   </tr>   
   <tr>
   	<td> Phil </td>
-  	<td>   Philippians </td>
-  	<td> Rev </td>
-  	<td> Revelation</td>   
+<td>Philippians&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  	<td>Rev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td>Revelation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>   
   </tr>   
   <tr>
   	<td> Col </td>
-  	<td>   Colossians </td>
+  	<td> Colossians </td>
   	<td> </td>
-  	<td></td>   
+  	<td> </td>   
   </tr>   
  </table>
 
 
-# Abbreviations for the Versions
+## Abbreviations for the Versions
 
-
+<style>
+<!--table, th, td {-->
+table, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td:nth-child(odd) {
+  text-align: left;
+  width:15%;
+}
+<!--th:nth-child(even),td:nth-child(even) {
+  background-color: #D6EEEE;
+  text-align: left;
+  width:35%;
+}
+<colgroup>
+	<th colspan="4"><i></i>
+	</th> 
+-->
+</style>
 <table style="width:100%">
+	<colgroup>
+	<th colspan="4"><i></i>
+	</th> 
+  </tr>	
   <tr>
   	<td> αʹ </td>
   	<td> Aquila </td>
-  	<td> <small>T</small> </td>
-  	<td> Targum</td>   
+  	<td> Tg(s) </td>
+  	<td> Targum(s)</td>   
+  </tr>	
+  <tr>
+  	<td> θʹ </td>
+  	<td> Theodotion</td>
+  	<td>Tg<sup>J</sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  	<td> Targum Jonathan</td> 
+  </tr>	
+  <tr>
+  </tr>	
+  	<td> σʹ </td>
+  	<td>  Symmachus </td>
+  	<td> Tg<sup>K</sup> </td>
+  	<td> Targum of the K<sup>e</sup>tubim</td>
+  <tr>
+  	<td>CGen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  	<td> Cairo Geniza </td>  
+  	<td> Tg<sup>N</sup> </td>
+  	<td> Targum Neofiti</td>    
   </tr>   
   <tr>
-  	<td>CGen </td>
-  	<td> Cairo Geniza </td>
-  	<td> <small>T<sup>J</sup></small> </td>
-  	<td> Targum Jonathan</td>   
+  	<td> LXX </td>
+  	<td> Septuagint </td>   
+  	<td> Tg<sup>O</sup> </td>
+  	<td> Targum Onqelos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>   
   </tr>   
   <tr>
-  	<td> <small>LXX</small> </td>
-  	<td> Septuagint </td>
-  	<td> <small>T<sup>K</sup></small> </td>
-  	<td> Targum of the K<sup>e</sup>tubim</td>   
-  </tr>   
-  <tr>
-  	<td> <small>LXX<sup>a</sup></small></td>
+  	<td> LXX<sup>a</sup></td>
   	<td> Codex Alexandrinus </td>
-  	<td> <small>T<sup>N</sup></small> </td>
-  	<td> Targum Neofiti</td>   
+  	<td>  Tg<sup>PsJ</sup> </td>
+  	<td> Targum Pseudo-Jonathan</td>
   </tr>   
   <tr>
-  	<td><small>LXX<sup>Ant</sup></small> </td>
+  	<td>LXX<sup>Ant</sup> </td>
   	<td>  Antiochene text of  
-  	      <small>LXX</small><a href="#footnote-1"><sup>1</sup></a></td>
-  	<td> <small>T<sup>O</sup></small> </td>
-  	<td> Targum Onqelos</td>   
+  	      LXX<a href="#footnote-1"><sup>1</sup></a></td>
+  	<td>  Tg<sup>Smr</sup> </td>
+  	<td>  Targum SP</td>
   </tr>   
   <tr>
-  	<td> <small>LXX<sup>b</sup></small> </td>
+  	<td> LXX<sup>b</sup> </td>
   	<td> Codex Vaticanus </td>
-  	<td>  <small>T<sup>PsJ</sup></small> </td>
-  	<td> Targum Pseudo-Jonathan</td>   
+  	<td> Tg<sup>Smr1</sup> </td>
+  	<td> Tg<sup>Smr</sup>, version 1<a href="#footnote-2"><sup>2</sup></a></td>
   </tr>   
   <tr>
-  	<td> <small>LXX<sup>s</sup></small> </td>
+  	<td> LXX<sup>s</sup> </td>
   	<td> Codex Sinaiticus </td>
-  	<td>  <small>T<sup>Smr</sup></small> </td>
-  	<td>  Targum <small>SP</small></td>   
+  	<td> Tg<sup>Smr2</sup> </td>
+  	<td> Tg<sup>Smr</sup>, version 2</td> 
   </tr>   
   <tr>
-  	<td> <small>MT</small> </td>
+  	<td> MT </td>
   	<td> Masoretic Text </td>
-  	<td> <small>T<sup>Smr1</sup></small> </td>
-  	<td> <small>T<sup>Smr</sup></small>, version 1<a href="#footnote-2"><sup>2</sup></a></td>   
+  	<td>  Vg </td>
+  	<td> Vulgate</td>
+  </tr>   
+  <tr>
+  	<td> Pesh </td>
+  	<td> Peshitta </td>
+  	<td> Vg<sup>PsG</sup> 
+		</td>
+  	<td> Vg, Gallican Psalter<a href="#footnote-3"><sup>3</sup></a></td>
   </tr>   
   <tr>
   	<td> Qum </td>
-  	<td> Texts Judean Desert / Qumran </td>
-  	<td> <small>T<sup>Smr2</sup></small> </td>
-  	<td> <small>T<sup>Smr</sup></small>, version 2</td>   
+  	<td>Texts&nbsp;Judean&nbsp;Desert/&nbsp;Qumran</td>
+  	<td> Vg<sup>PsH</sup> </td>
+  	<td> Vg, Hebrew Psalter<a href="#footnote-4"><sup>4</sup></a></td>
   </tr>   
-  <tr>
-  	<td> <small>S</small> </td>
-  	<td> Peshitta </td>
-  	<td> θʹ </td>
-  	<td> Theodotion</td>   
-  </tr>   
-  <tr>
-  	<td> <small>SP</small> </td>
+  <tr>  	<td> SP </td>
   	<td> Samaritan Pentateuch </td>
-  	<td>  <small>V</small>  </td>
-  	<td> Vulgate</td>   
+  	<td>  </td>
+  	<td>  </td> 
   </tr>   
   <tr>
-  	<td>Syh </td>
+  	<td> Syh </td>
   	<td> Syrohexapla </td>
-  	<td> <small>V<sup>PsG</sup></small> 
-		</td>
-  	<td> Vulgate, Gallican Psalter<a href="#footnote-3"><sup>3</sup></a></td>   
-  </tr>   
-  <tr>
-  	<td> σʹ </td>
-  	<td>  Symmachus </td>
-  	<td> <small>V<sup>PsH</sup></small> 
-		</td>
-  	<td> Vulgate, Hebrew Psalter<a href="#footnote-4"><sup>4</sup></a></td>   
+  	<td>   </td>
+  	<td>   </td>
   </tr>   
  </table>
 
-<p id="footnote-1"><sup>1</sup> Also known as <small>LXX<sup><i>L</i></sup></small> (Lucianic recension).</p>
-<p id="footnote-2"><sup>2</sup> For the differentiation between versions 1 and 2 of <small>T<sup>Smr</sup></small> see <i>THB</i>, 1<small>A</small>, 235-38
+<p id="footnote-1"><sup>1</sup> Also known as LXX<sup><i>L</i></sup> (Lucianic recension).</p>
+<p id="footnote-2"><sup>2</sup> For the differentiation between versions 1 and 2 of Tg.<sup>Smr</sup> see <i>THB</i>, 1A, 235-38
 	and 239-62.
 </p>
-<p id="footnote-3"><sup>3</sup> <small>VG<sup>PsG</sup></small>= <i>Psalmi iuxta Septuaginta emendati</i>= ``Ga'' in 
+<p id="footnote-3"><sup>3</sup> Vulg.<sup>PsG</sup>= <i>Psalmi iuxta Septuaginta emendati</i>= ``Ga'' in 
 	<i>BHS</i> and <i>BHQ</i>.
 </p>
-<p id="footnote-4"><sup>4</sup> <small>VG<sup>PsH</sup></small>= <i>Psalmi iuxta Hebraicum translati</i>= ``Hier'' in <i>BHS</i>-Psalms; ``Hbrs'' in <i>BHQ</i>.
+<p id="footnote-4"><sup>4</sup> Vulg.<sup>PsH</sup>= <i>Psalmi iuxta Hebraicum translati</i>= ``Hier'' in <i>BHS</i>-Psalms; ``Hbrs'' in <i>BHQ</i>.
 </p>
 
-# General abbreviations
+## General abbreviations
 
 <table style="width:100%">
   <tr>
@@ -428,14 +476,14 @@ Assyr. </td>
   	<td> manuscript(s)</td>   
   </tr>   
   <tr>
-  	<td>BHeb. </td>
-  	<td>  biblical Hebrew </td>
+  	<td>BAram. </td>
+  	<td> Biblical Aramaic</td>
   	<td> n.d. </td>
   	<td> no date</td>   
   </tr>   
   <tr>
-  	<td>BAram. </td>
-  	<td> Biblical Aramaic </td>
+  	<td>BHeb. </td>
+  	<td> Biblical Hebrew </td>
   	<td> niph. </td>
   	<td>  niph`al</td>   
   </tr>   
@@ -614,40 +662,46 @@ Assyr. </td>
   	<td> verb<br> 
  	</td>   
   </tr>   
+  <tr>
+  	<td> MHeb. </td>
+  	<td> Middle Hebrew </td>
+  	<td>  </td>
+  	<td> <br> 
+ 	</td>   
+  </tr>   
  </table>
 
 
  
-# Bibliographical Abbreviations
+## Bibliographical Abbreviations
 
 
-<a id="footnote-a-ref" href="#footnote-a">A</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-b-ref" href="#footnote-b">B</a>&nbsp;&nbsp;&nbsp;
-<a id="footnote-c-ref" href="#footnote-c">C</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-d-ref" href="#footnote-d">D</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-e-ref" href="#footnote-e">E</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-f-ref" href="#footnote-f">F</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-g-ref" href="#footnote-g">G</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-h-ref" href="#footnote-h">H</a>&nbsp;&nbsp;&nbsp;
-<a id="footnote-i-ref" href="#footnote-i">I</a>&nbsp;&nbsp;&nbsp;
-<a id="footnote-j-ref" href="#footnote-j">J</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-k-ref" href="#footnote-k">K</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-l-ref" href="#footnote-l">L</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-m-ref" href="#footnote-m">M</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-n-ref" href="#footnote-n">N</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-o-ref" href="#footnote-o">O</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-p-ref" href="#footnote-p">P</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-r-ref" href="#footnote-r">R</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-s-ref" href="#footnote-s">S</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-t-ref" href="#footnote-t">T</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-u-ref" href="#footnote-u">U</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-v-ref" href="#footnote-v">V</a>&nbsp;&nbsp;&nbsp; 
-<a id="footnote-w-ref" href="#footnote-w">W</a>&nbsp;&nbsp;&nbsp; 
+<a id="footnote-a-ref" href="#footnote-a">A</a>&nbsp;&nbsp;
+<a id="footnote-b-ref" href="#footnote-b">B</a>&nbsp;&nbsp;
+<a id="footnote-c-ref" href="#footnote-c">C</a>&nbsp;&nbsp; 
+<a id="footnote-d-ref" href="#footnote-d">D</a>&nbsp;&nbsp; 
+<a id="footnote-e-ref" href="#footnote-e">E</a>&nbsp;&nbsp; 
+<a id="footnote-f-ref" href="#footnote-f">F</a>&nbsp;&nbsp; 
+<a id="footnote-g-ref" href="#footnote-g">G</a>&nbsp;&nbsp; 
+<a id="footnote-h-ref" href="#footnote-h">H</a>&nbsp;&nbsp;
+<a id="footnote-i-ref" href="#footnote-i">I</a>&nbsp;&nbsp;
+<a id="footnote-j-ref" href="#footnote-j">J</a>&nbsp;&nbsp; 
+<a id="footnote-k-ref" href="#footnote-k">K</a>&nbsp;&nbsp; 
+<a id="footnote-l-ref" href="#footnote-l">L</a>&nbsp;&nbsp; 
+<a id="footnote-m-ref" href="#footnote-m">M</a>&nbsp;&nbsp; 
+<a id="footnote-n-ref" href="#footnote-n">N</a>&nbsp;&nbsp; 
+<a id="footnote-o-ref" href="#footnote-o">O</a>&nbsp;&nbsp; 
+<a id="footnote-p-ref" href="#footnote-p">P</a>&nbsp;&nbsp; 
+<a id="footnote-r-ref" href="#footnote-r">R</a>&nbsp;&nbsp; 
+<a id="footnote-s-ref" href="#footnote-s">S</a>&nbsp;&nbsp; 
+<a id="footnote-t-ref" href="#footnote-t">T</a>&nbsp;&nbsp; 
+<a id="footnote-u-ref" href="#footnote-u">U</a>&nbsp;&nbsp; 
+<a id="footnote-v-ref" href="#footnote-v">V</a>&nbsp;&nbsp; 
+<a id="footnote-w-ref" href="#footnote-w">W</a>&nbsp;&nbsp; 
 <a id="footnote-z-ref" href="#footnote-z">Z</a>
 
 
-## <p id="footnote-a">A. <a href="#footnote-a-ref">&#8617;</a>
-
+### <p id="footnote-a">A.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>AALA</i><br>
@@ -669,6 +723,17 @@ AB<br>
 <i>ABD</i><br>
 	David N. Freedman (ed.), <i>The Anchor Bible Dictionary</i>,
 	New York 1992
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+<i>AbrN</i> (later: <i>ANES</i>) <br>
+	<i>Abr-Nahrain: an Annual under the Auspices of the Department of Semitic 
+	Studies, University of Melbourne</i> (Leiden: Brill/ Leuven: Peeters)
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+AbrNSup (later: ANESSup)<br>
+	Abr-Nahrain Supplements (Leuven: Peeters)
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -706,7 +771,7 @@ Adrados, <i>DGE</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>AEAD</i><br>
-	Simo Parpola <i>et al.</i> (eds.), <i>Assyrian-English-Assyrian Dictionary</i>, 
+	Simo Parpola <i>et al.</i> (eds), <i>Assyrian-English-Assyrian Dictionary</i>, 
 	Helsinki 2007
 </div>
 
@@ -718,7 +783,7 @@ Adrados, <i>DGE</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>AEMT</i><br>
-	Paul T. Nicholson, Ian Shaw, & Fekri A. Hassan (eds.),
+	Paul T. Nicholson, Ian Shaw, & Fekri A. Hassan (eds),
 	<i>Ancient Egyptian Materials and Technology</i>,
 	Cambridge 2000
 </div>
@@ -786,10 +851,25 @@ James B. Pritchard (ed.), <i>The Ancient Near East in Pictures
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
+<i>ANES</i> (formerly: <i>AbrN</i>) <br>
+	<i>Ancient Near Eastern Studies</i> (Leuven: Peeters)
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+ANESSup (formerly: AbrNSup)<br>
+	Ancient Near Eastern Studies Supplements Series (Leuven: Peeters)
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
 <i>ANET</i><br>
 James B. Pritchard (ed.), <i>Ancient Near Eastern Texts
           Relating to the Old Testament</i>, 
           Princeton (NJ): Princeton University Press, <sup>3</sup>1969 
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+<i>ASTI</i><br>
+	Annual of the Swedish Theological Institute (Leiden: Brill)
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -827,7 +907,7 @@ Avitzur<br>
 </div>
 
 
-## <p id="footnote-b">B. <a href="#footnote-b-ref">&#8617;</a>
+### <p id="footnote-b">B. 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>BA</i><br>
@@ -860,10 +940,17 @@ BDB<br>
 	Lexicon of the Old Testament</i>, Oxford 1907
 </div>
 
+<div style="padding-left: 22px; text-indent: -22px;">
+Beentjes, <i>BBSH</i><br>
+Pancratius C. Beentjes, <i>The Book of Ben Sira in Hebrew: A Text Edition of
+all Extant Hebrew Manuscripts and a Synopsis of all Parallel Hebrew Ben
+Sira Texts</i> (VTS, 68), Leiden: Brill 1997
+</div>
+
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>BHH</i><br>
-	Bo Reicke & Leonhard Rost (eds.), <i>Biblisch-historisches Handwörterbuch</i>, 4 vols.,
+	Bo Reicke & Leonhard Rost (eds), <i>Biblisch-historisches Handwörterbuch</i>, 4 vols.,
 		Göttingen 1962-79
 </div>
 
@@ -885,7 +972,7 @@ BDB<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>BHQ</i><br>
-	Adrian Schenker <i>et al.</i> (eds.), <i>Biblia Hebraica Quinta editione
+	Adrian Schenker <i>et al.</i> (eds), <i>Biblia Hebraica Quinta editione
 	cum apparatu critico novis curis elaborato</i>, Stuttgart: Deutsche Bibelgesellschaft,  2004-
 </div>
 
@@ -907,7 +994,7 @@ BDB<br>
 <i>BHQ</i> 5<br>
 	<i>Biblia Hebraica Quinta editione cum apparatu critico novis curis elaborato</i>,
 	Fascicle 5: <i>Deuteronomy</i>, prep. by Carmel McCarthy,
-	Stuttgart: Deutsche Bibelgesellschaft,  2007
+	Stuttgart: Deutsche Bibelgesellschaft,  2007g
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -949,7 +1036,7 @@ BDB<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>BHS</i><br>
-	Karl Elliger  & Wilhelm Rudolph (eds.), <i>Biblia Hebraica Stuttgartensia</i>,
+	Karl Elliger  & Wilhelm Rudolph (eds), <i>Biblia Hebraica Stuttgartensia</i>,
 	Stuttgart: Deutsche Bibelgesellschaft,  1967-77
 </div>
 
@@ -996,7 +1083,7 @@ BL<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>BNP</i><br>
-	Hubert Cançik <i>et al.</i> (eds.), <i>Brill's New Pauly: Encyclopaedia of the Ancient World</i>,
+	Hubert Cançik <i>et al.</i> (eds), <i>Brill's New Pauly: Encyclopaedia of the Ancient World</i>,
 	vol. 1-, Leiden: Brill, 2002-
 </div>
 
@@ -1028,12 +1115,18 @@ BZAW<br>
 	 (Berlin: De Gruyter)
 </div>
 
-## <p id="footnote-c">C. <a href="#footnote-c-ref">&#8617;</a>
+### <p id="footnote-c">C.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>CAD</i><br>
 	<i>The Assyrian Dictionary of the Oriental Institute of the University of Chicago</i>,
 	vol. 1-, Chicago: The Oriental Institute of the University of Chicago, 1956-
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+<i>CAL</i><br>
+	Stephen A. Kaufman, <i>et al.</i>, <i>The Comprehensive Aramaic Lexicon</i>
+	(<a href="https://cal.huc.edu">https://cal.huc.edu</a>)
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1097,7 +1190,7 @@ CBQMS<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>COS</i><br>
-	William W. Hallo & K. Lawson Younger (eds.),
+	William W. Hallo & K. Lawson Younger (eds),
 	<i>The Context of Scripture</i>, 4 vols., Leiden: Brill,  1997-2016
 </div>
 
@@ -1155,7 +1248,7 @@ COuT<br>
 </div>
 
 
-## <p id="footnote-d">D. <a href="#footnote-d-ref">&#8617;</a>
+### <p id="footnote-d">D. 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>DAC</i><br>
@@ -1207,7 +1300,7 @@ Français-Arabe</i>,
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>DBHast</i><br>
-	James Hastings <i>et al.</i> (eds.), <i>A Dictionary of the Bible</i>, 4 vols.,
+	James Hastings <i>et al.</i> (eds), <i>A Dictionary of the Bible</i>, 4 vols.,
 	Edinburgh: T & T Clark, 1889-1902
 </div>
 
@@ -1220,13 +1313,13 @@ Français-Arabe</i>,
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>DBImag</i><br>
-	Leland Ryken <i>et al.</i> (eds.), <i>Dictionary of Biblical Imagery</i>,
+	Leland Ryken <i>et al.</i> (eds), <i>Dictionary of Biblical Imagery</i>,
 	Downers Grove (IL): Inter Varsity Press, 1998
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>DB.S</i><br>
-	Louis Pirot <i>et al.</i> (eds.), <i>Dictionnaire
+	Louis Pirot <i>et al.</i> (eds), <i>Dictionnaire
 	de la Bible: Supplément</i>, t. 1-, Paris: Letouzey et Ané, 1928-
 </div>
 
@@ -1244,13 +1337,13 @@ Français-Arabe</i>,
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>DDD</i><br> Karel van der Toorn <i>et al.</i> (eds.),
+<i>DDD</i><br> Karel van der Toorn <i>et al.</i> (eds),
 	<i>Dictionary of Deities and Demons in the Bible</i>, Leiden: Brill,  1995
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>DDD</i><sup> 2</sup><br> 
-Karel van der Toorn <i>et al.</i> (eds.),
+Karel van der Toorn <i>et al.</i> (eds),
 	<i>Dictionary of Deities and Demons in the Bible</i>,
 	Leiden: Brill/Grand Rapids (MI) <sup>2</sup>1999
 </div>
@@ -1275,7 +1368,7 @@ DJD<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>DNP</i><br>
-	Hubert Cançik <i>et al.</i> (eds.), <i>Der Neue Pauly: Enzyklopädie der Antike</i>,
+	Hubert Cançik <i>et al.</i> (eds), <i>Der Neue Pauly: Enzyklopädie der Antike</i>,
 	16 vols., Stuttgart: J.B. Metzler 1996-2003
 </div>
 
@@ -1333,7 +1426,7 @@ DJD<br>
 	  transl. Wilfred G.E. Watson, 2 vols., Leiden: Brill, <sup>3</sup>2015
 </div>
 
-## <p id="footnote-e">E. <a href="#footnote-e-ref">&#8617;</a>
+### <p id="footnote-e">E. 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>EFP</i><br>
@@ -1349,13 +1442,13 @@ DJD<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>EncB</i><br>
-	 Thomas K. Cheyne & John Sutherland Black (eds.), <i>Encyclopaedia Biblica</i>,
+	 Thomas K. Cheyne & John Sutherland Black (eds), <i>Encyclopaedia Biblica</i>,
 	 4 vols., London: Black, 1899-1907
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>EncM</i><br>
-	Eleazar L. Sukenik & Umberto Cassuto (eds.),
+	Eleazar L. Sukenik & Umberto Cassuto (eds),
 	 אנציקלופדיה מקראית: אוצר הידיעות על המקרא ותקופתו
 	 (<i>Biblical Encyclopaedia: Thesaurus of the Bible and its Periods</i>),
 	 9 vols., Jerusalem: Mosad Bialik / Hebrew University Jerusalem, 1950-88
@@ -1367,11 +1460,11 @@ DJD<br>
 	to the Hebrew Lexicon</i> (UCPSP, 20), Berkeley (CA): University of California Press, 1958
 </div>
 
-## <p id="footnote-f">F. <a href="#footnote-f-ref">&#8617;</a>
+### <p id="footnote-f">F. 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>Feasting</i><br>
-	 Peter Altmann & Janling Fu (eds.),
+	 Peter Altmann & Janling Fu (eds),
 	 <i>Feasting in the Archaeology and Texts of the Bible and the
 	 Ancient Near East</i>, Winona Lake (IN): Eisenbrauns, 2014
 </div>
@@ -1405,7 +1498,7 @@ Field<sup>II</sup><br>
 	Old Testament: Their Origin and Etymology</i>, London: Luzac, 1962
 </div>
 
-## <p id="footnote-g">G. <a href="#footnote-g-ref">&#8617;</a>
+### <p id="footnote-g">G. 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 GB<br>
@@ -1422,7 +1515,7 @@ GB<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ges<sup>18</sup><br>
-	Herbert Donner <i>et al.</i> (eds.), <i>Wilhelm
+	Herbert Donner <i>et al.</i> (eds), <i>Wilhelm
 	Gesenius Hebräisches und Aramäisches Handwörterbuch
 	über das Alte Testament</i>, 6 Lieferungen mit Supplementband,
 	Heidelberg: Springer Verlag,
@@ -1483,11 +1576,11 @@ GNTB<br>
 </div>
 
 
-## <p id="footnote-h">H. <a href="#footnote-h-ref">&#8617;</a>
+### <p id="footnote-h">H. 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>HAAIB</i><br>
-	 Assaf Yasur-Landau, Laura B. Mazow & Jennie R. Ebeling (eds.), 
+	 Assaf Yasur-Landau, Laura B. Mazow & Jennie R. Ebeling (eds), 
 	 <i>Household Archaeology in Ancient Israel and Beyond</i> (CHANE, 50), 
 	 Leiden: Brill, 2011
 </div>
@@ -1562,7 +1655,7 @@ HerBSt<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>HI</i><br>
-	 Frederick W. Dobbs-Alsopp <i>et al.</i> (eds.), <i>Hebrew Inscriptions:
+	 Frederick W. Dobbs-Alsopp <i>et al.</i> (eds), <i>Hebrew Inscriptions:
 	 Texts from the Biblical Period of the Monarchy with Concordance</i>, 
 	 New Haven (CT): Yale University Press, 2004
 </div>
@@ -1641,11 +1734,11 @@ HRCS<br>
 </div>
 
 
-## <p id="footnote-i">I. <a href="#footnote-i-ref">&#8617;</a>
+### <p id="footnote-i">I.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>IBD</i><br>
-	  James D. Douglas <i>et al.</i> (eds.), 
+	  James D. Douglas <i>et al.</i> (eds), 
 	  <i>The Illustrated Bible Dictionary</i>, 4 vols., 
 	  Leicester: Inter-Varsity Press, 1980
 </div>
@@ -1694,7 +1787,7 @@ ICC<br>
 	 Grand Rapids (MI): Eerdmans, <sup>3</sup>1979-88
 </div>
 
-## <p id="footnote-j">J. <a href="#footnote-j-ref">&#8617;</a>
+### <p id="footnote-j">J. 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>JAEI</i><br>
@@ -1752,7 +1845,12 @@ JSOTSup<br>
 	Sheffield Academic Press)
 </div>
 
-## <p id="footnote-k">K. <a href="#footnote-k-ref">&#8617;</a>
+<div style="padding-left: 22px; text-indent: -22px;">
+<i>JSS</i><br> 
+	<i>Journal of Semitic Studies</i> (Oxford: Oxford University Press)
+</div>
+
+### <p id="footnote-k">K.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>KAHAL</i><br>
@@ -1834,7 +1932,7 @@ KJV<br>
 	 (Elementa Linguarum Orientis, 4), Wiesbaden: Harrassowitz, 2008
 </div>
 
-## <p id="footnote-l">L. <a href="#footnote-l-ref">&#8617;</a>
+### <p id="footnote-l">L. 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>LÄ</i><br>
@@ -1851,8 +1949,8 @@ KJV<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Lane<br>
-	Edward W. Lane, <i>An Arabic-English Lexicon</i>, 8 vols., London
-	1863-93 (repr. New York 1955-56)
+	Edward W. Lane, <i>An Arabic-English Lexicon</i>, 8 vols., London: 
+	Williams and Norgate 1863-93
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1956,7 +2054,7 @@ LXX.H<br>
 	Handbuch zur Septuaginta (Gütersloh: Gütersloher Verlagshaus)
 </div>
 
-## <p id="footnote-m">M. <a href="#footnote-m-ref">&#8617;</a>
+### <p id="footnote-m">M. 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>MCB</i><br>
@@ -2004,7 +2102,7 @@ Montanari, <i>BDAG</i><br>
 	Leiden: Brill,  2015
 </div>
 
-## <p id="footnote-n">N. <a href="#footnote-n-ref">&#8617;</a>
+### <p id="footnote-n">N. 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 NASB<br> 
@@ -2033,7 +2131,7 @@ NEB<br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>NETS</i><br> Albert Pietersma & Benjamin G. Wright (eds.),
+<i>NETS</i><br> Albert Pietersma & Benjamin G. Wright (eds),
 	<i>A New English Translation of the Septuagint and the Other
 	Greek Translations Traditionally Included under That Title</i>,
 	New York: Oxford University Press, 2007
@@ -2071,11 +2169,11 @@ NRSV<br>
 	New Revised Standard Version (1989)
 </div>
 
-## <p id="footnote-o">O. <a href="#footnote-o-ref">&#8617;</a>
+### <p id="footnote-o">O. 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>OLD</i><br>
-	 Peter G.W. Glare <i>et al.</i> (eds.), <i>Oxford Latin Dictionary</i>,
+	 Peter G.W. Glare <i>et al.</i> (eds), <i>Oxford Latin Dictionary</i>,
 	Oxford: Clarendon,  1982
 </div>
 
@@ -2084,7 +2182,7 @@ OTS<br>
 	Oudtestamentische Studiën (Leiden: Brill) 
 </div>
 
-## <p id="footnote-p">P. <a href="#footnote-p-ref">&#8617;</a>
+### <p id="footnote-p">P. 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Payne Smith, <i>CSD</i><br>
@@ -2129,7 +2227,7 @@ PredOT<br>
 	 De Prediking van het Oude Testament (Nijkerk: Callenbach/Kampen: Kok)
 </div>
 
-## <p id="footnote-r">R. <a href="#footnote-r-ref">&#8617;</a>
+### <p id="footnote-r">R.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 REB<br>
@@ -2138,7 +2236,7 @@ REB<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>RLA</i><br>
-	 Erich Ebeling <i>et al.</i> (eds.),
+	 Erich Ebeling <i>et al.</i> (eds),
 	<i>Reallexikon der Assyriologie</i>, Bd. 1-,
 	Berlin: de Gruyter, 1928-
 </div>
@@ -2157,7 +2255,7 @@ RSV<br>
 	Revised Standard Version (1952, 1971)
 </div>
 
-## <p id="footnote-s">S. <a href="#footnote-s-ref">&#8617;</a>
+### <p id="footnote-s">S.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 SAA<br> 
@@ -2226,6 +2324,17 @@ Salonen, <i>Vögel</i><br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
+<i>SBLDS</i><br>
+	 Society of Biblical Literature Dissertation Series 
+	 (Atlanta: Society of Biblical Literature)
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+<i>SBT</i><br>
+	 Studies in Biblical Theology (London: SCM Press Ltd)
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
 <i>SD</i><br>
 	 Alfred F.L. Beeston, <i>Sabaic Dictionary</i>, 
 	 Louvain-la-Neuve: Peeters/ Beyrouth: Librairie du Liban,  1982
@@ -2291,6 +2400,11 @@ Sokoloff, <i>SLB</i><br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
+SSN<br>
+	Studia Semitica Neerlandica (Assen: Van Gorcum; Leiden: Brill)
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
 <i>STOT</i><br>
 	Dominique Barthélemy, <i>Studies in the Text of the Old Testament:
 	An Introduction to the Hebrew Old Testament Text Project</i>
@@ -2332,7 +2446,7 @@ SVT<br>
 	 and Third Intermediate Period</i>, Princeton (NJ): Princeton University Press,  1994
 </div>
 
-## <p id="footnote-t">T. <a href="#footnote-t-ref">&#8617;</a>
+### <p id="footnote-t">T.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>TA</i><br>
@@ -2368,14 +2482,14 @@ Tal, <i>DSA</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>TDNT</i><br>
-	 Gerhard Kittel <i>et al.</i> (eds.), <i>Theological Dictionary of the New Testament</i>,
+	 Gerhard Kittel <i>et al.</i> (eds), <i>Theological Dictionary of the New Testament</i>,
 	 10 vols., tr. and ed. by Geoffrey W. Bromiley,
 	 Grand Rapids (MI): Eerdmans Publishing, 1964-76
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>TDOT</i><br>
-	 G. Johannes Botterweck <i>et al.</i> (eds.),
+	 G. Johannes Botterweck <i>et al.</i> (eds),
 	<i>Theological Dictionary of the Old Testament</i>,
 	16 vols., tr. by John T. Willis,
 	Grand Rapids (MI): Eerdmans Publishing, 1974-2018
@@ -2383,7 +2497,7 @@ Tal, <i>DSA</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>THAT</i><br>
-	 Ernst Jenni & Claus Westermann (eds.), 
+	 Ernst Jenni & Claus Westermann (eds), 
 	 <i>Theologisches Handwörterbuch
 	 zum Alten Testament</i>, 2 vols., 
 	 München: Chr. Kaiser Verlag, 1971-76
@@ -2391,7 +2505,7 @@ Tal, <i>DSA</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>THB</i><br> 
-	Armin Lange & Emanuel Tov (eds.),
+	Armin Lange & Emanuel Tov (eds),
 	<i>Textual History of the Bible: The Hebrew Bible</i>,
 	Volumes 1<small>A-C</small>,
 	Leiden: Brill,  2016-17
@@ -2399,15 +2513,20 @@ Tal, <i>DSA</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>ThWAT</i><br>
-	 G. Johannes Botterweck <i>et al.</i> (eds.),
+	 G. Johannes Botterweck <i>et al.</i> (eds),
 	<i>Theologisches Wörterbuch zum Alten Testament</i>, 10 vols.,
-	Stuttgart: Kohlhammer, 1973-2015.
+	Stuttgart: Kohlhammer, 1973-2015
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>ThWNT</i><br>
-	 Gerhard Kittel <i>et al.</i> (eds.), <i>Theologisches Wörterbuch zum Neuen Testament</i>,
-	 10~vols., Stuttgart: Kohlhammer, 1933-79
+	 Gerhard Kittel <i>et al.</i> (eds), <i>Theologisches Wörterbuch zum Neuen Testament</i>,
+	 10 vols., Stuttgart: Kohlhammer, 1933-79
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+<i>ThWQ</i><br>
+Heinz-Josef Fabry & Ulrich Dahmen (eds), <i>Theologisches Wörterbuch zu den Qumrantexten</i>, 3 vols., Stuttgart: Kohlhammer, 2011-16
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2422,18 +2541,18 @@ Tal, <i>DSA</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>TUAT</i><br> 
-	Otto Kaiser (Hrsg.), <i>Texte aus der Umwelt des Alten Testaments</i>, 
+	Otto Kaiser (ed.), <i>Texte aus der Umwelt des Alten Testaments</i>, 
 	Gütersloh: Mohn, 1984-2001
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>TUAT.NF</i><br> 
-	Otto Kaiser, Bernd Janowski & Gernot Wilhelm (Hrsg.),
+	Otto Kaiser <	i>et al.</i> (eds),
 	<i>Texte aus der Umwelt des Alten Testaments: Neue Folge</i>, 
 	Gütersloh: Mohn, 2004-
 </div>
 
-## <p id="footnote-u">U. <a href="#footnote-u-ref">&#8617;</a>
+### <p id="footnote-u">U.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>UF</i><br>
@@ -2452,7 +2571,7 @@ Tal, <i>DSA</i><br>
 	Cyrus H. Gordon, <i>Ugaritic Textbook</i> (AnOr, 38), Rome: Pontifical Biblical Institute, 1965
 </div>
 
-## <p id="footnote-v">V. <a href="#footnote-v-ref">&#8617;</a>
+### <p id="footnote-v">V.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Vogt<br>
@@ -2475,7 +2594,7 @@ VHB<br> Verklaring van de Hebreeuwse Bijbel (Nijkerk: Callenbach/Kampen: Kok)
 	<i>Vetus Testamentum</i> (Leiden: Brill)
 </div>
 
-## <p id="footnote-w">W. <a href="#footnote-w-ref">&#8617;</a>
+### <p id="footnote-w">W.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>WÄS</i><br>
@@ -2557,7 +2676,7 @@ WYC<br>
 	 Wycliffe's Bible (1392/ 2011)
 </div>
 
-## <p id="footnote-z">Z. <a href="#footnote-z-ref">&#8617;</a>
+### <p id="footnote-z">Z.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>ZA</i><br>
@@ -2585,7 +2704,7 @@ WYC<br>
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>ZIBBC</i><br>
 	 John H. Walton (ed.), <i>Zondervan Illustrated Bible Backgrounds Commentary</i>,
-	 5 vols., Grand Rapids (MI): Zondervan, 2009</div>
+	 5 vols., Grand Rapids (MI): Zondervan, 2009
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2593,5 +2712,4 @@ Zorell<br>
 	 Franz Zorell, <i>Lexicon Hebraicum et Aramaicum
 	Veteris Testamenti</i>, Roma: Pontifical Biblical Institute, 1968
 </div>
-
 
