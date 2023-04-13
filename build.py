@@ -105,7 +105,7 @@ def capitalize_name(s):
 
 
 def get_value(line):
-    return line[line.index(":") + 1:]
+    return line[line.index(":") + 1:].strip()
 
 
 def get_values(line):
