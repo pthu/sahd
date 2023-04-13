@@ -445,9 +445,9 @@ def replace_special_characters(line):
     line = line.replace('\\"{O}', "Ö")              # Ö
     line = line.replace('\\"O', "Ö")                # Ö
     line = line.replace('\\"{u}', "ü")              # ü
-    line = line.replace('\\"{u*', "ü")              # ü
     line = line.replace('\\^{u}', "û")              # û
     line = line.replace('\\={u}', "ū")              # ū
+    line = line.replace("\\'{u}", "ú")              # ú
     line = line.replace('\\^{U}', "Û")              # Û
     line = line.replace('\\"{U}', "Ü")              # Û
     line = line.replace("\\v{g}", "ǧ")              # ǧ
