@@ -614,9 +614,9 @@ def replacements(input, output):
                     continue
                 if line.startswith("{"):
                     line = line[1:]
-                if ("\\" in line ) and not line.startswith("\\noindent") and not line.startswith("\\hangindent") \
-                        and not "\\textit" in line and not "\\endnote" in line and not "\\noindent" in line and not "\\*" in line:
-                    print(line)
+                # if ("\\" in line ) and not line.startswith("\\noindent") and not line.startswith("\\hangindent") \
+                #         and not "\\textit" in line and not "\\endnote" in line and not "\\noindent" in line and not "\\*" in line:
+                #     print(line)
                 line = final_replacements(line)
                 f.write(line)
         f.close()
