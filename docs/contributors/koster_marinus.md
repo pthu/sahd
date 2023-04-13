@@ -3,4 +3,4 @@
 # **Dr. M.D. Koster**
 
 ### Contributions
-[אַח – brazier](../words/brazier.md)<br>[בַּיִת – house](../words/house.md)<br>
+[אַח – brazier](../words/brazier.md)<br>

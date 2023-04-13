@@ -1,7 +1,7 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-# **van Wieringen A L H M**
+# **Tools**
 
 
-### Contributions
-[דֶלֶת – column](../words/column.md)<br>
+### Related words
+[זק – fiery missile](../words/fiery_missile.md)<br>

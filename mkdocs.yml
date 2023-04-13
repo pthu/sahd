@@ -8,33 +8,15 @@ nav:
     - Home: index.md
     - Lemmas:
             - א:
-                - אָזֵן - weapon: words/weapon.md
                 - אַח - brazier: words/brazier.md
-            - ב:
-                - בֶּקַע - beka half a shekel: words/beka_half_a_shekel.md
-                - בַּיִת - house: words/house.md
-                - בֶַּקַע - half a shekel: words/half_a_shekel.md
-            - ד:
-                - דֶלֶת - column: words/column.md
-            - ה:
-                - הָעוּשְּׁת - deliverance: words/deliverance.md
-            - פ:
-                - פָּלִיט - escapee: words/escapee.md
-                - פָּלִיט - escaped one: words/escaped_one.md
+            - ז:
+                - זק - fiery missile: words/fiery_missile.md
     - Semantic fields:
-            - Deliverance: semantic_fields/deliverance.md
-            - Something 1: semantic_fields/something_1.md
             - Something 2: semantic_fields/something_2.md
-            - Weight: semantic_fields/weight.md
+            - Tools: semantic_fields/tools.md
     - Contributors:
-            - Aitken James K: contributors/aitken_james_k.md
-            - Beentjes Pancratius: contributors/beentjes_pancratius.md
-            - de Hoop Raymond: contributors/de_hoop_raymond.md
             - Korpel Marjo: contributors/korpel_marjo.md
             - Koster Marinus: contributors/koster_marinus.md
-            - van 't Veld Bertus: contributors/van_'t_veld_bertus.md
-            - van Wieringen A L H M: contributors/van_wieringen_a_l_h_m.md
-            - Williams P J: contributors/williams_p_j.md
     - Partners: 'miscellaneous/partners.md'
     - Contribution: 'miscellaneous/contribution.md'
     - Contact: 'miscellaneous/contact.md'
