@@ -27,10 +27,12 @@ nav:
             - Sanders Paul: contributors/sanders_paul.md
             - van ’t Veld Bertus: contributors/van_’t_veld_bertus.md
             - Veenhof Klaas R.: contributors/veenhof_klaas_r..md
-    - Partners: 'miscellaneous/partners.md'
-    - Contribution: 'miscellaneous/contribution.md'
-    - Contact: 'miscellaneous/contact.md'
-    - Abbreviations: 'miscellaneous/abbreviations.md'
+    - Miscellaneous:
+            - Overview Deliverance: miscellaneous/overview_deliverance.md
+    - Partners: 'other/partners.md'
+    - Contribution: 'other/contribution.md'
+    - Contact: 'other/contact.md'
+    - Abbreviations: 'other/abbreviations.md'
 
 theme:
     name: material

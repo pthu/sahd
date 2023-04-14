@@ -20,6 +20,7 @@ WORDS = SRC / "words"
 SEMANTIC_FIELDS = SRC / "semantic_fields"
 CONTRIBUTORS = SRC / "contributors"
 MISCELLANEOUS = SRC / "miscellaneous"
+OTHER = SRC / "other"
 PHOTOS = SRC / "photos"
 PDFS = SRC / "pdfs"
 
@@ -27,6 +28,7 @@ WORDS_DOCS = DOCS / "words"
 SEMANTIC_FIELDS_DOCS = DOCS / "semantic_fields"
 CONTRIBUTORS_DOCS = DOCS / "contributors"
 MISCELLANEOUS_DOCS = DOCS / "miscellaneous"
+OTHER_DOCS = DOCS / "other"
 PHOTOS_DOCS = DOCS / "images/photos"
 PDFS_DOCS = DOCS / "pdfs"
 
@@ -486,12 +488,12 @@ def write_contributors(contributors_dict):
 
 def write_miscellaneous_file(filename):
     text = [HEADER]
-    with open(MISCELLANEOUS / f"{filename}.md", 'r') as f:
+    with open(MISCELLANEOUS / filename, 'r') as f:
         lines = f.readlines()
         for line in lines:
             text.append(line)
 
-    with open(f"{MISCELLANEOUS_DOCS / filename}.md", 'w') as f:
+    with open(f"{MISCELLANEOUS_DOCS / filename}", 'w') as f:
         f.write("".join(text))
 
 
@@ -500,10 +502,30 @@ def write_miscellaneous():
         rmtree(MISCELLANEOUS_DOCS)
     copytree(MISCELLANEOUS, MISCELLANEOUS_DOCS)
 
-    write_miscellaneous_file("contact")
-    write_miscellaneous_file("contribution")
-    write_miscellaneous_file("partners")
-    write_miscellaneous_file("project_description")
+    for filename in os.listdir(MISCELLANEOUS):
+        write_miscellaneous_file(filename)
+
+
+def write_other_file(filename):
+    text = [HEADER]
+    with open(OTHER / f"{filename}.md", 'r') as f:
+        lines = f.readlines()
+        for line in lines:
+            text.append(line)
+
+    with open(f"{OTHER_DOCS / filename}.md", 'w') as f:
+        f.write("".join(text))
+
+
+def write_other():
+    if isdir(OTHER_DOCS):
+        rmtree(OTHER_DOCS)
+    copytree(OTHER, OTHER_DOCS)
+
+    write_other_file("contact")
+    write_other_file("contribution")
+    write_other_file("partners")
+    write_other_file("project_description")
 
 
 def copy_photos():
@@ -536,6 +558,10 @@ def write_navigation(words_dict, semantic_fields_dict, contributors_dict):
             elif line.replace(" ", "").startswith("-Contributors:"):
                 for contributor in contributors_dict:
                     text.append(f"            - {capitalize_name(contributor)}: contributors/{contributor}.md\n")
+            elif line.replace(" ", "").startswith("-Miscellaneous:"):
+                for article in os.listdir(MISCELLANEOUS):
+                    article_name = article[0:article.find(".md")]
+                    text.append(f"            - {capitalize_name(article_name)}: miscellaneous/{article}\n")
     with open("mkdocs.yml", 'w') as f:
         f.write("".join(text))
 
@@ -558,6 +584,7 @@ def make_docs():
     write_semantic_fields(semantic_fields_dict)
     write_contributors(contributors_dict)
     write_miscellaneous()
+    write_other()
     copy_photos()
     copy_pdfs()
     write_navigation(words_dict, semantic_fields_dict, contributors_dict)

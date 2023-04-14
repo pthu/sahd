@@ -215,7 +215,8 @@ th:nth-child(even),td:nth-child(even) {
   	<td>  Epistle of Jeremiah  </td>
   	<td>  Wis  </td>
   	<td>  Wisdom of Solomon </td>   
-  </tr>   </table>
+  </tr>   
+</table>
 
 <style>
 table, th, td {
