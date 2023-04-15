@@ -20,7 +20,7 @@ WORDS = SRC / "words"
 SEMANTIC_FIELDS = SRC / "semantic_fields"
 CONTRIBUTORS = SRC / "contributors"
 MISCELLANEOUS = SRC / "miscellaneous"
-OTHER = SRC / "other"
+STORE = SRC / "store"
 PHOTOS = SRC / "photos"
 PDFS = SRC / "pdfs"
 
@@ -28,7 +28,7 @@ WORDS_DOCS = DOCS / "words"
 SEMANTIC_FIELDS_DOCS = DOCS / "semantic_fields"
 CONTRIBUTORS_DOCS = DOCS / "contributors"
 MISCELLANEOUS_DOCS = DOCS / "miscellaneous"
-OTHER_DOCS = DOCS / "other"
+STORE_DOCS = DOCS / "store"
 PHOTOS_DOCS = DOCS / "images/photos"
 PDFS_DOCS = DOCS / "pdfs"
 
@@ -506,26 +506,26 @@ def write_miscellaneous():
         write_miscellaneous_file(filename)
 
 
-def write_other_file(filename):
+def write_store_file(filename):
     text = [HEADER]
-    with open(OTHER / f"{filename}.md", 'r') as f:
+    with open(STORE / f"{filename}.md", 'r') as f:
         lines = f.readlines()
         for line in lines:
             text.append(line)
 
-    with open(f"{OTHER_DOCS / filename}.md", 'w') as f:
+    with open(f"{STORE_DOCS / filename}.md", 'w') as f:
         f.write("".join(text))
 
 
-def write_other():
-    if isdir(OTHER_DOCS):
-        rmtree(OTHER_DOCS)
-    copytree(OTHER, OTHER_DOCS)
+def write_store():
+    if isdir(STORE_DOCS):
+        rmtree(STORE_DOCS)
+    copytree(STORE, STORE_DOCS)
 
-    write_other_file("contact")
-    write_other_file("contribution")
-    write_other_file("partners")
-    write_other_file("project_description")
+    write_store_file("contact")
+    write_store_file("contribution")
+    write_store_file("partners")
+    write_store_file("project_description")
 
 
 def copy_photos():
@@ -584,7 +584,7 @@ def make_docs():
     write_semantic_fields(semantic_fields_dict)
     write_contributors(contributors_dict)
     write_miscellaneous()
-    write_other()
+    write_store()
     copy_photos()
     copy_pdfs()
     write_navigation(words_dict, semantic_fields_dict, contributors_dict)

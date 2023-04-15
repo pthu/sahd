@@ -29,10 +29,10 @@ nav:
             - Veenhof Klaas R.: contributors/veenhof_klaas_r..md
     - Miscellaneous:
             - Overview Deliverance: miscellaneous/overview_deliverance.md
-    - Partners: 'other/partners.md'
-    - Contribution: 'other/contribution.md'
-    - Contact: 'other/contact.md'
-    - Abbreviations: 'other/abbreviations.md'
+    - Partners: 'store/partners.md'
+    - Contribution: 'store/contribution.md'
+    - Contact: 'store/contact.md'
+    - Abbreviations: 'store/abbreviations.md'
 
 theme:
     name: material
