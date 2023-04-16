@@ -1,7 +1,7 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-# **Aitken James K**
+# **Paul Sanders**
 
 
 ### Contributions
-[יְשׁוּעָה – protection](../words/protection.md)<br>
+[פֶּלֶךְ – spindle](../words/spindle.md)<br>

@@ -4,7 +4,7 @@
 
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Authors:
-[Veenhof Klaas R.](../contributors/veenhof_klaas_r..md),&nbsp;[Sanders Paul](../contributors/sanders_paul.md)[^*]<br>
+[Klaas R. Veenhof](../contributors/klaas_r._veenhof.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)[^*]<br>
 
 
 
@@ -1131,4 +1131,4 @@ Klaas R. Veenhof, Paul Sanders, ‘פֶּלֶךְ - spindle’
 consulted on: 
 <a href="https://pthu.github.io/sahd/words/spindle">https://pthu.github.io/sahd/words/spindle</a>
 -->
-[^*]: This article should be cited as: [Veenhof Klaas R.](../contributors/veenhof_klaas_r..md),&nbsp;[Sanders Paul](../contributors/sanders_paul.md), פֶּלֶךְ – spindle
+[^*]: This article should be cited as: [Klaas R. Veenhof](../contributors/klaas_r._veenhof.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md), פֶּלֶךְ – spindle

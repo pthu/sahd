@@ -2,7 +2,7 @@
 word_english: protection  
 word_hebrew: יְשׁוּעָה  
 semantic_fields: deliverance  
-contributors: aitken_james_k, davies_graham_i 
+contributors: james_k._aitken, graham_i._davies
  
 ---
 

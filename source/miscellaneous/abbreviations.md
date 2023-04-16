@@ -524,6 +524,12 @@ Assyr. </td>
   	<td> New Testament</td>   
   </tr>   
   <tr>
+  	<td>ESA </td>
+  	<td>  </td>
+  	<td>  OAram. </td>
+  	<td>  old Aramaic</td>   
+  </tr>   
+  <tr>
   	<td>ET </td>
   	<td> English translation </td>
   	<td>  OSArab. </td>

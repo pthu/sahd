@@ -19,14 +19,12 @@ nav:
             - Utensils: semantic_fields/utensils.md
             - Weight: semantic_fields/weight.md
     - Contributors:
-            - Aitken James K: contributors/aitken_james_k.md
-            - Davies Graham I: contributors/davies_graham_i.md
             - de Hoop Raymond: contributors/de_hoop_raymond.md
             - Graham I. Davies: contributors/graham_i._davies.md
             - James K. Aitken: contributors/james_k._aitken.md
-            - Sanders Paul: contributors/sanders_paul.md
+            - Klaas R. Veenhof: contributors/klaas_r._veenhof.md
+            - Paul Sanders: contributors/paul_sanders.md
             - van ’t Veld Bertus: contributors/van_’t_veld_bertus.md
-            - Veenhof Klaas R.: contributors/veenhof_klaas_r..md
     - Partners: 'miscellaneous/partners.md'
     - Contribution: 'miscellaneous/contribution.md'
     - Contact: 'miscellaneous/contact.md'

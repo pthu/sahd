@@ -4,7 +4,7 @@
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Authors:
-[Aitken James K](../contributors/aitken_james_k.md),&nbsp;[Davies Graham I](../contributors/davies_graham_i.md)[^*]<br>
+[James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)[^*]<br>
 
 For fuller discussion of the lexical field as a whole see on this site the 
 <a href="/sahd/semantic_fields/overview_deliverance">‘Overview
@@ -495,4 +495,4 @@ University of Cambridge
 
 Revised 2016-2017
 
-[^*]: This article should be cited as: [Aitken James K](../contributors/aitken_james_k.md),&nbsp;[Davies Graham I](../contributors/davies_graham_i.md), יְשׁוּעָה – protection
+[^*]: This article should be cited as: [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md), יְשׁוּעָה – protection

@@ -1,6 +1,6 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-# **Veenhof Klaas R.**
+# **Klaas R. Veenhof**
 
 
 ### Contributions

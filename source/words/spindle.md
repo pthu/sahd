@@ -2,7 +2,7 @@
 word_english: spindle  
 word_hebrew: פֶּלֶךְ  
 semantic_fields: utensils  
-contributors: veenhof_klaas_r., sanders_paul  
+contributors: klaas_r._veenhof, paul_sanders 
  
 ---
 
