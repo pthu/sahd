@@ -509,13 +509,13 @@ Hiphil:
 \[[εἰσακούω]], 'to give ear':[^9] Ps 55[54]:17;  
 ἐλεέω, 'to have pity on':[^10] Sir 33:1;  
 ἐξαιρέω, 'to take (out)':[^11] Josh 10:6; Sir 4:9;  
-λυτρόω, '':[^12] Sir 48:20; 49:10;  
-ποιέω, '' \[+ σωτηρίαν = <span dir="rtl" lang="he">תְּשׁוּעָה</span>]:[^13] 1&nbsp;Chr 11:14;  
-ῥύομαι, '':[^14] Exod 2:17; 14:30; Josh 22:22; Isa 49:25, 26; 63:5; Ezek 37:23;  
-σωτήρ, '':[^15] Judg 3:9, 15; 1&nbsp;Sam 10:19; Isa 45:15, 21; Neh 9:27;  
-σωτηρία, '':[^16] 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; Isa 38:20; 47:15; 63:8;  
-σωτήριον, '':[^17] Isa 63:1;  
-σώζω, '':[^18] Judg 2:16, 18; 3:9, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22; 10:1,
+λυτρόω, 'to redeem':[^12] Sir 48:20; 49:10;  
+ποιέω, 'to make, to bring about' \[+ σωτηρίαν, 'deliverance' = <span dir="rtl" lang="he">תְּשׁוּעָה</span>]:[^13] 1&nbsp;Chr 11:14;  
+ῥύομαι, 'to rescue':[^14] Exod 2:17; 14:30; Josh 22:22; Isa 49:25, 26; 63:5; Ezek 37:23;  
+σωτήρ, 'saviour, deliverer':[^15] Judg 3:9, 15; 1&nbsp;Sam 10:19; Isa 45:15, 21; Neh 9:27;  
+σωτηρία, 'deliverance, salvation':[^16] 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; Isa 38:20; 47:15; 63:8;  
+σωτήριον, 'deliverance, salvation':[^17] Isa 63:1;  
+σώζω, 'to save, to keep alive':[^18] Judg 2:16, 18; 3:9, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22; 10:1,
 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam 4:3; 7:8; 9:16; 10:27; 11:3; 14:6, 23,
 39; 17:47; 23:2, 5; 25:26, 31 [+χεῖρα], 33; 2&nbsp;Sam 3:18; 8:6, 14; 10:11,
 19; 14:4; 22:3, 8; 2&nbsp;Kgs 6:26, 27 [2x]; 16:7; 19:19; Isa 19:20; 33:22;
@@ -540,13 +540,13 @@ Hiphil:
 [^9]: <i>GELS</i>, 198; LEH<sup>3</sup>, 175. 
 [^10]: <i>GELS</i>, ; LEH<sup>3</sup>, 192.
 [^11]: <i>GELS</i>, ; LEH<sup>3</sup>, 209.
-[^12]: <i>GELS</i>, ; LEH<sup>3</sup>, .
-[^13]: <i>GELS</i>, ; LEH<sup>3</sup>, .
-[^14]: <i>GELS</i>, ; LEH<sup>3</sup>, .
-[^15]: <i>GELS</i>, ; LEH<sup>3</sup>, .
-[^16]: <i>GELS</i>, ; LEH<sup>3</sup>, .
-[^17]: <i>GELS</i>, ; LEH<sup>3</sup>, .
-[^18]: <i>GELS</i>, ; LEH<sup>3</sup>, .
+[^12]: <i>GELS</i>, ; LEH<sup>3</sup>, 378.
+[^13]: <i>GELS</i>, ; LEH<sup>3</sup>, 501, 603; cf. <i>NETS</i>.
+[^14]: <i>GELS</i>, ; LEH<sup>3</sup>, 544.
+[^15]: <i>GELS</i>, ; LEH<sup>3</sup>, 603.
+[^16]: <i>GELS</i>, ; LEH<sup>3</sup>, 603.
+[^17]: <i>GELS</i>, ; LEH<sup>3</sup>, 603.
+[^18]: <i>GELS</i>, ; LEH<sup>3</sup>, 602.
 
 Omitted: 2&nbsp;Kgs 19:34; Isa 25:9; Job 26:2?; Sir 34:6.  
 
@@ -1310,8 +1310,3 @@ James D.W. Watts, <i>Isaiah 34–66</i> (WBC, 25), Waco, Tex.: Word Books.
 Westermann 1969<br>   
 Claus Westermann, <i>Isaiah 40-66</i>, London: SCM.
 	</div>
-
-
-James K. Aitken and Graham Davies
-
-University of Cambridge
