@@ -5,7 +5,6 @@ semantic_fields: deliverance
 contributors: james_k._aitken, graham_i._davies
  
 ---
-html body { font-family: Arial !important }
 
 
 [BOTH THE HIPHIL AND THE RARER NIPHAL ARE DEALT WITH HERE.]

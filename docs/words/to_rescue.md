@@ -5,7 +5,7 @@
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Authors:
 [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)[^*]<br>
-html body { font-family: Arial !important }
+<style="font-family: Arial !important">
 
 
 [BOTH THE HIPHIL AND THE RARER NIPHAL ARE DEALT WITH HERE.]
