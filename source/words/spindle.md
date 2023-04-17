@@ -165,7 +165,7 @@ Sokoloff, <i>DJBA</i>, 913;
 cf. Jastrow, <i>DTT</i>, 1182). 
 However, the spelling פילכא in part of the manuscripts and editions reflects the interpretation as the noun פִּילְכָא. 
 
-[^3a]: The noun is wrongly translated as ‘distaff’ in Sokoloff, <i>DJPA</i>, 322 s.v. מעזל, p.&nbsp;401 s.v. עזל, p.&nbsp;436, s.v. פלכה.
+[^3a]: The noun is wrongly translated as ‘distaff’ in Sokoloff, <i>DJPA</i>, 322 s.v. <span dir="rtl" lang="he">מעזל</span>; 401 s.v. <span dir="rtl" lang="he">עזל</span>; 436, s.v. <span dir="rtl" lang="he">פלכה</span>.
 
 
 <a id="Arabic"></a><b>A.7</b> <i>Arabic</i>:  Several BHebr. dictionaries[^4a] 
@@ -209,7 +209,7 @@ Prov 31:19<small><sup>LXX</sup></small>;
 2 Sam 3:29<small><sup>LXX</sup></small>.
 
 [^5]: LSJ, 272; <i>GELS</i>, 101.
-[^6]: Field I, 552. 
+[^6]: Field<sup>I</sup>, 552. 
 [^7]: LSJ, 1617; <i>GELS</i>, 628.
 
 <b>b.</b>  Peshitta (Pesh)  
@@ -221,14 +221,14 @@ Prov 31:19<small><sup>LXX</sup></small>;
 
 <b>c.</b>  Targum (Tg: J/K)  
 אַגְרָא,
- ‘wages’, ‘reward’, ‘profit’:[^9] 2 Sam 3:29<sup>J</sup>.[^10]   
+ ‘wages’, ‘reward’, ‘profit’:[^9] 2 Sam 3:29<sup>J</sup>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff’, ‘crutch’, ‘pole’[^10] is questionable (Van Staalduine-Sulman 2002: 499-500).   
 מעזלא,
 derivative of עזל,
 ‘to spin’,
 probably either ‘spindle’ or ‘spun wool/yarn’:[^11] Prov 31:19<sup>K</sup>. 
 
 [^9]: Jastrow, <i>DTT</i>, 14; Sokoloff, <i>DJBA</i>, 80-81; <i>DJPA</i>, 34-35.
-[^10]: The emendation of אגר to אגד, ‘long staff’, ‘crutch’, ‘pole’ (Jastrow, <i>DTT</i>, 10; Sokoloff, </i>DJBA</i>, 78, mentions only ‘carrying pole’ [with uncertain etymology] as a possible meaning) is questionable (Van Staalduine-Sulman 2002: 499-500).   
+[^10]: Jastrow, <i>DTT</i>, 10. Sokoloff, </i>DJBA</i>, 78, mentions only ‘carrying pole’ (with uncertain etymology) as a possible meaning.   
 [^11]: Cf. Sokoloff, <i>DJPA</i>, 322; Jastrow, <i>DTT</i>, 814. Since in Prov 31:19 מעזלא is the object of Aram. לבך, ‘to grasp’, the word must denote something tangible.
 
 
@@ -359,15 +359,15 @@ was regarded as a severe curse seems quite likely
 against the background of ancient Near Eastern texts, in which the spindle is a symbol of effeminacy
 (see Hillers 1964: 66-68) and feminised warriors are regarded as weak (Bergmann 2007: 664-68).
 In Hittite texts, both spindle 
-(<small><sup>GIŠ</sup></small><i>ḫuešaš</i>, <sup>GIŠ</sup><small>BAL</small>)
+(<small><sup>GIŠ</sup></small><i>ḫuešaš</i>, <small><sup>GIŠ</sup>BAL</small>)
 and distaff (<small><sup>GIŠ</sup></small><i>ḫulali</i>) are symbols of femininity.
 In a Hittite prayer, the goddess Ištar is asked to deprive the enemies of their manliness including their weapons and to give them 
 a woman’s distaff and spindle instead (<i>CTH</i> 716; see
-<i>COS</i> I: 164-65, § 8). 
+<i>COS</i> I: 164-65, §8). 
 The First Soldiers’ Oath threatens soldiers with loss of their manliness if they transgress the oath, 
 which is illustrated by a ritual indicating that their weapons will be replaced by a distaff and a spindle and other symbols of femininity
 (<i>CTH</i> 427; see
-<i>COS</i> I: 165-67, § 9).
+<i>COS</i> I: 165-67, §9).
 A ritual against the sexual impotence of a man includes placing a spindle and distaff in the man’s hand 
 and, consequently, replacing it by a bow and arrows
 (<i>CTH</i> 406; see Hoffner 1987: 272, 277, 283). 
@@ -392,7 +392,7 @@ The following curse in Esarhaddon’s Succession Treaty may indicate that also i
 a spindle was regarded as a disgrace to men:
 ‘May they (the gods) make you whirl(?)[^15]
 like a spindle (<small><sup>GIŠ</sup></small></i>pilaqqu</i>), may they make you like a woman 
-before your enemy’ (SAA 2, 56, text 6, § 91). 
+before your enemy’ (SAA 2, 56, text 6, §91). 
 Brigitte Groneberg (1986: 190-91)
 assumed that the reference to the movements of the spindle reflects the dancing of transvestites in the cult of Ištar.
 She interpreted the curse as 
@@ -421,7 +421,7 @@ while other dictionaries (GB, 643; Zorell, 651;
 <i>DCH</i> VI, 696)
 suppose that פֶּלֶךְ denotes the entire spindle.
 Except for the late cognate in Arab., the cognates in other Sem. languages designate the spindle in its entirety. 
-Even if the derivation of  פֶּלֶךְ from a root meaning ‘to be(come) round’ is correct (see section <a href="#Arabic">1 A.7</a>), 
+Even if the derivation of<span dir="rtl" lang="he">פֶּלֶךְ</span> from a root meaning ‘to be(come) round’ is correct (see section <a href="#Arabic">1 A.7</a>), 
 the word can still designate the entire spindle just as well as the whorl of the spindle, since both the whorl and the shaft of the spindle were round.
 Moreover, the fact that the two contexts in which פֶּלֶךְ occurs indicate explicitly that it was held
 (2 Sam 3:29: חזק hiph. with בְּ; 
@@ -585,10 +585,7 @@ Internet: <a href="https://www.hittitemonuments.com/maras/maras10.htm">Funerary 
 
 </small>
 
-Several Mesopotamian 
-<!-- genoemd in CAD P 372 rechts; female Mesopotamian demon.
--->
-amulets depict the female demon Lamaštu with a spindle and a comb, typical feminine paraphernalia 
+Several Mesopotamian <!-- genoemd in CAD P 372 rechts; female Mesopotamian demon.--> amulets depict the female demon Lamaštu with a spindle and a comb, typical feminine paraphernalia 
 (Farber 2014: 4-6 with fig. 3, 6; see also figs. 15, 19, 20, 22). 
 The Lamaštu texts suppose that a spindle (<small><sup>GIŠ</sup>BAL</small> = <i>pilaqqu</i>) is a gift that pleases this demon;
 e.g., Lam. I: 197, Lam. II: 99, 173 (Farber 2014: 91, 110, 123, 158, 172, 178; cf. <i>CAD</i> P, 372).
@@ -665,11 +662,7 @@ but many are relatively heavy, with weights up to 200 grams (Shamir 1996: 149-52
 
 In her description of the ancient spinning methods,
 Eva Andersson Strand  reports on recent spinning tests with modern reconstructions of ancient spindles. The tests demonstrated that, 
-contrary to earlier assumptions, 
-<!--
-% Olofsson in Tools 32-33, niet noemen! Rahmstorf 5.
--->
-even very light whorls could be used to spin yarn. 
+contrary to earlier assumptions, <!-- Olofsson in Tools 32-33, niet noemen!Rahmstorf 5.--> even very light whorls could be used to spin yarn. 
 The spindles with lighter whorls 
 appeared to produce thin yarn, while the spindles with heavier whorls produced coarser, thicker yarn
 (Andersson Strand 2015: 44-48; similarly 
@@ -700,7 +693,7 @@ However, the spindle full of yarn could also be used as a shuttle during weaving
 moving the woof yarn between the threads of the warp yarn (Rahmstorf 2015: 11). 
 Note that <small>BAL</small>, 
 the logographic equivalent of Akk.  <i>pilakku</i>, 
-was also used for Akk.  <i>nabalkutu</i>, ‘to cross over’ (<i>CAD</i> N<small>I</small>, 11-20).
+was also used for Akk.  <i>nabalkutu</i>, ‘to cross over’ (<i>CAD</i> N<small>1</small>, 11-20).
 
 
 Spindles were not only used for producing individual strands of yarn, but also for plying 
@@ -1003,7 +996,7 @@ in: M. Harlow, C. Michel, M.-L. Nosch (eds), <i>Prehistoric, Ancient Near Easter
 Shamir 1996<br>
 Orit Shamir, ‘Loomweights and Whorls’,
 in: D.T. Ariel, A. de Groot (eds), 
-<i>Excavations at the City of David 1978--1985 Directed by Yigal Shiloh</i>, Volume IV: 
+<i>Excavations at the City of David 1978–1985 Directed by Yigal Shiloh</i>, Volume IV: 
 <i>Various Reports</i> (Qedem, 35),
 Jerusalem: Hebrew University,  135-70.
 	</div>
@@ -1021,7 +1014,7 @@ Jerusalem: W.F. Albright Institute of Archaeological Research & Israel Explorati
 <div style="padding-left: 22px; text-indent: -22px;">
 Sitry & Langgut 2019<br>
 Yigal Sitry, Dafna Langgut,
-‘Wooden Objects from the Colt Collection -- Shivta’,
+‘Wooden Objects from the Colt Collection – Shivta’,
 <i>Michmanim</i> 28, 31*-46*.
 	</div>
 	
@@ -1072,7 +1065,7 @@ Wolfram von Soden, ‘Zum hebräischen Wörterbuch’, <i>UF</i> 13, 157-64.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Watson 2007<br>
-Wilfred G.E. Watson, ‘Bathing in the Briny: Notes on KTU 1.4 ii 3--7’, <i>UF</i> 39, 673-81.
+Wilfred G.E. Watson, ‘Bathing in the Briny: Notes on KTU 1.4 ii 3–7’, <i>UF</i> 39, 673-81.
 	</div>
 	
 
@@ -1100,17 +1093,15 @@ Younger 1998<br>
 K. Lawson Younger, Jr., ‘The Phoenician Inscription of Azatiwada: An Integrated Reading’, 
 <i>JSS</i> 43/1, 11-47.
 	</div>
+	
 
-
+## Notes
 
 <small>
 Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023; 
 professor emeritus Protestant Theological University, Kampen)
 and Benjamin Bogerd (Veenendaal) for their valuable suggestions.
 </small>
-
-
-## Notes
 
 
 <!--

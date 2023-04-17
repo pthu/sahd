@@ -95,8 +95,8 @@ is a <i>qatl</i> formation – the most common noun pattern
 (almost a quarter of all nouns)[^11]
 – of √בקע, a root tertiae gutturalis.[^12]
 
-[^11]:  BL, 455, § 61.iʹ.
-[^12]:  BL, 456, § 61.kʹγ.
+[^11]:  BL, 455, §61.iʹ.
+[^12]:  BL, 456, §61.kʹγ.
 
 ## 3. Syntagmatics
 

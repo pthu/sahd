@@ -68,7 +68,7 @@ sufficient reason for emending.
 
 <b>B.2</b>  Although the NAB (cited by Clines 1989) reads the verb יָשַׁע at Job 5:11,
 the MT reading of the noun יֵשַׁע can be regarded as correct, if
-understood as an adverbial accusative (GKC:§ 188 q). See יֵשַׁע Text
+understood as an adverbial accusative (GKC: §188 q). See יֵשַׁע Text
 Doubtful B.3, Syntagmatics A.3.
 
 
