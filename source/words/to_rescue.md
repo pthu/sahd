@@ -1036,7 +1036,7 @@ the synchronic evidence more than the diachronic.
 ## Bibliography
 
 For the abbreviations see: 
-<a href="/sahd/miscellaneous/abbreviations">List of Abbreviations</a>.
+<a href="/sahd/store/abbreviations">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">

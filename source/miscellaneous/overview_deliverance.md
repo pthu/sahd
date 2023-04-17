@@ -1441,7 +1441,8 @@ th:nth-child(even),td:nth-child(even) {
 
 ## Bibliography
 
-For the abbreviations see the <a href="/sahd/miscellaneous/abbreviations">List of Abbreviations</a>.
+For the abbreviations see:
+<a href="/sahd/store/abbreviations">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">

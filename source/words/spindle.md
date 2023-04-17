@@ -794,7 +794,8 @@ Several modern translations rightly reflect the interpretation of פֶּלֶךְ
 
 ## Bibliography
 
-For the abbreviations see: [List of Abbreviations](/sahd/miscellaneous/abbreviations).
+For the abbreviations see:
+<a href="/sahd/store/abbreviations">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
