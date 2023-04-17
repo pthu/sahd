@@ -327,7 +327,7 @@ def get_relations():
     # sort dictionaries
     words_dict, semantic_fields_dict, contributors_dict = {}, {}, {}
     for i in sorted(words):
-        words_dict[i] = sorted(words[i], reverse=True)
+        words_dict[i] = sorted(words[i])
     for i in sorted(semantic_fields):
         semantic_fields_dict[i] =  sorted(semantic_fields[i])
     for i in sorted(contributors):
@@ -503,6 +503,8 @@ def write_miscellaneous():
     copytree(MISCELLANEOUS, MISCELLANEOUS_DOCS)
 
     for filename in os.listdir(MISCELLANEOUS):
+        if filename == ".DS_Store":
+            continue
         write_miscellaneous_file(filename)
 
 
