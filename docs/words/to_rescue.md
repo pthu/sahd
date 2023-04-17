@@ -68,7 +68,7 @@ sufficient reason for emending.
 
 <b>B.2</b>  Although the NAB (cited by Clines 1989) reads the verb יָשַׁע at Job 5:11,
 the MT reading of the noun יֵשַׁע can be regarded as correct, if
-understood as an adverbial accusative (GKC:§ 188 q). See יֵשַׁע Text
+understood as an adverbial accusative (GKC: §188 q). See יֵשַׁע Text
 Doubtful B.3, Syntagmatics A.3.
 
 
@@ -179,7 +179,7 @@ Palestine is <i>yašuia</i>, a probable example of a name with the verbal root
 (Knudtzon 1915: II, 319).
 
 
-<b>A.7</b>  The Aram. name <i>hdysʿy</i> (Akk. <i>adad-it-ʾi</i>) in ll. 1, 6 and 12 of
+<b>A.7</b> The Aram. name <i>hdysʿy</i> (Akk. <i>adad-it-ʾi</i>) in ll. 1, 6 and 12 of
 the Tell Fekheriye bilingual inscription, probably of the mid-ninth
 century, can plausibly be associated with the root <i>yṯʿ</i>/ישׁע (see
 initially Abou-Assaf <i>et al.</i> 1982: 43-44, 80: more recent bibliography in
@@ -413,7 +413,7 @@ the participle
 <span dir="rtl" lang="he">מֶלֶךְ</span> ‘king’ (2&nbsp;Kgs 16:7).
 
 
-<b>A.7</b>  
+<b>A.7</b> 
 <span dir="rtl" lang="he">ישׁע</span> hiphil is followed by the preposition 
 <span dir="rtl" lang="he">לְ</span> (Josh 10:6; Judg 10:14; 
 2&nbsp;Sam 10:11; Ezek 34:22; Ps 72:4; 86:16; 116:6; Prov. 20:22; 1&nbsp;Chr 18:6;
@@ -442,7 +442,7 @@ preposition <span dir="rtl" lang="he">בְּ</span> ‘in’ (2&nbsp;Sam 8:6, 14
 and <span dir="rtl" lang="he">בברית</span> ‘by covenant’ (4Q183 1 ii 3).
 
 
-<b>A.9</b>  
+<b>A.9</b> 
 <span dir="rtl" lang="he">ישׁע</span> hiphil is followed by the prepositions 
 <span dir="rtl" lang="he">בעבור</span> ‘for the sake of’ (1QM 11:3-4),
 <span dir="rtl" lang="he">כְּ</span> ‘according to’ (Ps 109:26) and 
@@ -467,20 +467,20 @@ it is the predicate of and <span dir="rtl" lang="he">יהוה</span>
 (Josh 10:6).
 
 
-<b>A.12</b>  
+<b>A.12</b> 
 <span dir="rtl" lang="he">ישׁע</span> hiphil is joined by <i>waw</i> to
 <span dir="rtl" lang="he">בּוא</span> ‘to go’ (Isa 35:4), 
 <span dir="rtl" lang="he">גָאַל</span> part. (Isa 60:16). 
 
 
-<b>A.13</b>  
+<b>A.13</b> 
 <span dir="rtl" lang="he">ישׁע</span> niphal has as subjects 
 <span dir="rtl" lang="he">עַם</span> ‘people’ (Deut 33:29), 
  <span dir="rtl" lang="he">יִשְׂרָאֵל</span> ‘Israel’ (Isa 45:17; CD 5:19: implied Ps 80:4, 8, 20; 1QM 10:8 [citing Num
 10:9]), the king (Ps 18:4; 33:16) or the psalmist (Ps 119:117).
 
 
-<b>A.14</b> 
+<b>A.14</b>
 <span dir="rtl" lang="he">ישׁע</span> niphal is followed by 
 <span dir="rtl" lang="he">מִן</span> ‘from’ + 
 <span dir="rtl" lang="he">אוֹיֵב</span> pl. ‘enemies’ (Num 10:9 [and hence 1QM 10:8]; 2&nbsp;Sam 22:4=Ps 18:4), and 
@@ -500,22 +500,22 @@ it is the predicate of and <span dir="rtl" lang="he">יהוה</span>
 <b>a.</b> Septuagint (LXX) and other Greek versions  
 
 Hiphil:   
-ἀμύνομαι: Isa 59:16;  
-ἀνασώζω: Zech 8:7;  
-\[[ἀπόλλυμι]]: Job 5:15;  
-βοηθέω: Deut 22:27; 28:29, 31; Prov 20:22; 1&nbsp;Chr 19:19;  
-βοηθός: 2&nbsp;Sam 22:42;  
-διασώζω: Deut 20:4; Hos 13:10; Zech 8:13;  
-\[[εἰσακούω]]: Ps 55[54]:17;  
-ἐλεέω: Sir 33:1;  
-ἐξαιρέω: Josh 10:6; Sir 4:9;  
-λυτρόω: Sir 48:20; 49:10;  
-ποιέω \[+ σωτηρίαν = תְּשׁוּעָה]: 1&nbsp;Chr 11:14;  
-ῥύομαι: Exod 2:17; 14:30; Josh 22:22; Isa 49:25, 26; 63:5; Ezek 37:23;  
-σωτήρ: Judg 3:9, 15; 1&nbsp;Sam 10:19; Isa 45:15, 21; Neh 9:27;  
-σωτηρία: 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; Isa 38:20; 47:15; 63:8;  
-σωτήριον: Isa 63:1;  
-σώζω: Judg 2:16, 18; 3:9, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22; 10:1,
+ἀμύνομαι, 'to help and defend':[^3] Isa 59:16;  
+ἀνασώζω, 'to rescue':[^4] Zech 8:7;  
+\[[ἀπόλλυμι]], 'to destroy':[^5] Job 5:15;  
+βοηθέω, 'to aid, to help':[^6] Deut 22:27; 28:29, 31; Prov 20:22; 1&nbsp;Chr 19:19;  
+βοηθός:, 'helper, help'[^7] 2&nbsp;Sam 22:42;  
+διασώζω, 'to preserve, to save':[^8] Deut 20:4; Hos 13:10; Zech 8:13;  
+\[[εἰσακούω]], 'to give ear':[^9] Ps 55[54]:17;  
+ἐλεέω, 'to have pity on':[^10] Sir 33:1;  
+ἐξαιρέω, 'to take (out)':[^11] Josh 10:6; Sir 4:9;  
+λυτρόω, 'to redeem':[^12] Sir 48:20; 49:10;  
+ποιέω, 'to make, to bring about' \[+ σωτηρίαν, 'deliverance' = <span dir="rtl" lang="he">תְּשׁוּעָה</span>]:[^13] 1&nbsp;Chr 11:14;  
+ῥύομαι, 'to rescue':[^14] Exod 2:17; 14:30; Josh 22:22; Isa 49:25, 26; 63:5; Ezek 37:23;  
+σωτήρ, 'saviour, deliverer':[^15] Judg 3:9, 15; 1&nbsp;Sam 10:19; Isa 45:15, 21; Neh 9:27;  
+σωτηρία, 'deliverance, salvation':[^16] 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; Isa 38:20; 47:15; 63:8;  
+σωτήριον, 'deliverance, salvation':[^17] Isa 63:1;  
+σώζω, 'to save, to keep alive':[^18] Judg 2:16, 18; 3:9, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22; 10:1,
 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam 4:3; 7:8; 9:16; 10:27; 11:3; 14:6, 23,
 39; 17:47; 23:2, 5; 25:26, 31 [+χεῖρα], 33; 2&nbsp;Sam 3:18; 8:6, 14; 10:11,
 19; 14:4; 22:3, 8; 2&nbsp;Kgs 6:26, 27 [2x]; 16:7; 19:19; Isa 19:20; 33:22;
@@ -530,6 +530,23 @@ Hiphil:
 107[106]:13, 19; 108[107]:7; 109[108]:26, 31; 116[114]:6; 118[117]:25;
 119[118]:94, 146; 138[137]:7; 145[144]:19; Job 22:29; 40:14; Lam 4:17; Neh
 9:27; 1&nbsp;Chr 16:35; 18:6, 13; 19:12; 2&nbsp;Chr 20:9; 32:22.  
+
+[^3]: <i>GELS</i>, 33; LEH<sup>3</sup>: 34.
+[^4]: <i>GELS</i>, 46; LEH<sup>3</sup>: 44.
+[^5]: <i>GELS</i>, 78; LEH<sup>3</sup>: 70, 'let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves'. 
+[^6]: <i>GELS</i>, 119; LEH<sup>3</sup>: 109.
+[^7]: <i>GELS</i>, ; LEH<sup>3</sup>: 109.
+[^8]: <i>GELS</i>, ; LEH<sup>3</sup>: 147.
+[^9]: <i>GELS</i>, 198; LEH<sup>3</sup>, 175. 
+[^10]: <i>GELS</i>, ; LEH<sup>3</sup>, 192.
+[^11]: <i>GELS</i>, ; LEH<sup>3</sup>, 209.
+[^12]: <i>GELS</i>, ; LEH<sup>3</sup>, 378.
+[^13]: <i>GELS</i>, ; LEH<sup>3</sup>, 501, 603; cf. <i>NETS</i>.
+[^14]: <i>GELS</i>, ; LEH<sup>3</sup>, 544.
+[^15]: <i>GELS</i>, ; LEH<sup>3</sup>, 603.
+[^16]: <i>GELS</i>, ; LEH<sup>3</sup>, 603.
+[^17]: <i>GELS</i>, ; LEH<sup>3</sup>, 603.
+[^18]: <i>GELS</i>, ; LEH<sup>3</sup>, 602.
 
 Omitted: 2&nbsp;Kgs 19:34; Isa 25:9; Job 26:2?; Sir 34:6.  
 
@@ -1293,10 +1310,5 @@ James D.W. Watts, <i>Isaiah 34–66</i> (WBC, 25), Waco, Tex.: Word Books.
 Westermann 1969<br>   
 Claus Westermann, <i>Isaiah 40-66</i>, London: SCM.
 	</div>
-
-
-James K. Aitken and Graham Davies
-
-University of Cambridge
 
 [^*]: This article should be cited as: [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md), יָשַׁע – to rescue
