@@ -503,9 +503,8 @@ def write_miscellaneous():
     copytree(MISCELLANEOUS, MISCELLANEOUS_DOCS)
 
     for filename in os.listdir(MISCELLANEOUS):
-        if filename == ".DS_Store":
-            continue
-        write_miscellaneous_file(filename)
+        if filename != ".DS_Store":
+            write_miscellaneous_file(filename)
 
 
 def write_store_file(filename):
@@ -562,8 +561,9 @@ def write_navigation(words_dict, semantic_fields_dict, contributors_dict):
                     text.append(f"            - {capitalize_name(contributor)}: contributors/{contributor}.md\n")
             elif line.replace(" ", "").startswith("-Miscellaneous:"):
                 for article in os.listdir(MISCELLANEOUS):
-                    article_name = article[0:article.find(".md")]
-                    text.append(f"            - {capitalize_name(article_name)}: miscellaneous/{article}\n")
+                    if article != ".DS_Store":
+                        article_name = article[0:article.find(".md")]
+                        text.append(f"            - {capitalize_name(article_name)}: miscellaneous/{article}\n")
     with open("mkdocs.yml", 'w') as f:
         f.write("".join(text))
 
