@@ -1,3 +1,5 @@
+<html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
+
 # Overview of SAHD Entries for ‘Deliverance’ Words
 
 Author: Graham Davies

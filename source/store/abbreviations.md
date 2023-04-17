@@ -215,7 +215,8 @@ th:nth-child(even),td:nth-child(even) {
   	<td>  Epistle of Jeremiah  </td>
   	<td>  Wis  </td>
   	<td>  Wisdom of Solomon </td>   
-  </tr>   </table>
+  </tr>   
+</table>
 
 <style>
 table, th, td {
@@ -426,6 +427,7 @@ td:nth-child(odd) {
 	<i>BHS</i> and <i>BHQ</i>.
 </p>
 <p id="footnote-4"><sup>4</sup> Vulg.<sup>PsH</sup>= <i>Psalmi iuxta Hebraicum translati</i>= ``Hier'' in <i>BHS</i>-Psalms; ``Hbrs'' in <i>BHQ</i>.
+<<<<<<< HEAD:docs/miscellaneous/abbreviations.md
 </p>
 
 ## General abbreviations
@@ -675,6 +677,251 @@ Assyr. </td>
   	<td> <br> 
  	</td>   
   </tr>   
+=======
+</p>
+
+## General abbreviations
+
+<table style="width:100%">
+  <tr>
+  	<td> adj. </td>
+  	<td>  adjective </td>
+  	<td> LMHeb. </td>
+  	<td>  late Hebrew (mishnaic)</td>   
+  </tr>   
+  <tr>
+  	<td>Akk. </td>
+  	<td> Akkadian </td>
+  	<td> LN(N) </td>
+  	<td>  locative name(s)</td>   
+  </tr>   
+  <tr>
+  	<td>Amor. </td>
+  	<td> Amorite </td>
+  	<td> loc. </td>
+  	<td> locative</td>   
+  </tr>   
+  <tr>
+  	<td>Arab. </td>
+  	<td> Arabic </td>
+  	<td> masc. </td>
+  	<td>  masculine </td>   
+  </tr>   
+  <tr>
+  	<td>
+Aram. </td>
+  	<td> Aramaic </td>
+  	<td>  m.pl. </td>
+  	<td> masc.plural </td>   
+  </tr>   
+  <tr>
+  	<td> 
+Assyr. </td>
+  	<td> Assyrian </td>
+  	<td>  m.sg. </td>
+  	<td> masc.singular</td>   
+  </tr>   
+  <tr>
+  	<td>Bab.  </td>
+  	<td> Babylonian </td>
+  	<td> ms(s) </td>
+  	<td> manuscript(s)</td>   
+  </tr>   
+  <tr>
+  	<td>BAram. </td>
+  	<td> Biblical Aramaic</td>
+  	<td> n.d. </td>
+  	<td> no date</td>   
+  </tr>   
+  <tr>
+  	<td>BHeb. </td>
+  	<td> Biblical Hebrew </td>
+  	<td> niph. </td>
+  	<td>  niph`al</td>   
+  </tr>   
+  <tr>
+  	<td>deriv. </td>
+  	<td> derivative </td>
+  	<td> n.f. </td>
+  	<td> feminine noun</td>   
+  </tr>   
+  <tr>
+  	<td>det. </td>
+  	<td>  determinative </td>
+  	<td> n.m. </td>
+  	<td> masculin noun</td>   
+  </tr>   
+  <tr>
+  	<td>DN(N) </td>
+  	<td>  divine name(s) </td>
+  	<td> NN </td>
+  	<td>  <i>nomen nescio</i>, name unknown</td>   
+  </tr>   
+  <tr>
+  	<td>E </td>
+  	<td>  Elohist source </td>
+  	<td> n(n). </td>
+  	<td>  note(s)</td>   
+  </tr>   
+  <tr>
+  	<td>Eg. </td>
+  	<td> Egyptian </td>
+  	<td> NS </td>
+  	<td> new series</td>   
+  </tr>   
+  <tr>
+  	<td>EHeb. </td>
+  	<td>  epigraphical Hebrew </td>
+  	<td> NT </td>
+  	<td> New Testament</td>   
+  </tr>   
+  <tr>
+  	<td>ET </td>
+  	<td> English translation </td>
+  	<td>  OSArab. </td>
+  	<td>  old south Arabic</td>   
+  </tr>   
+  <tr>
+  	<td>Eth. </td>
+  	<td>  Ethiopic </td>
+  	<td> OT </td>
+  	<td> Old Testament</td>   
+  </tr>   
+  <tr>
+  	<td>fem. </td>
+  	<td>  feminine </td>
+  	<td>  P </td>
+  	<td>  Priestly source</td>   
+  </tr>   
+  <tr>
+  	<td>f.pl. </td>
+  	<td> fem.plural </td>
+  	<td> part. </td>
+  	<td>  participle</td>   
+  </tr>   
+  <tr>
+  	<td>f.sg. </td>
+  	<td> fem.singular </td>
+  	<td>  pass. </td>
+  	<td>  passive</td>   
+  </tr>   
+  <tr>
+  	<td>frag. </td>
+  	<td> fragment </td>
+  	<td> PBHeb. </td>
+  	<td> Postbiblical Hebrew</td>   
+  </tr>   
+  <tr>
+  	<td>FS </td>
+  	<td> Festschrift </td>
+  	<td> pers. </td>
+  	<td> person</td>   
+  </tr>   
+  <tr>
+  	<td>GN(N) </td>
+  	<td>  geographical name(s) </td>
+  	<td> pf./perf. </td>
+  	<td> perfective</td>   
+  </tr>   
+  <tr>
+  	<td>Gk. </td>
+  	<td>  Greek </td>
+  	<td> Phoen. </td>
+  	<td> Phoenician</td>   
+  </tr>   
+  <tr>
+  	<td>HB </td>
+  	<td> Hebrew Bible </td>
+  	<td> pl. </td>
+  	<td> plural</td>   
+  </tr>   
+  <tr>
+  	<td>Heb. </td>
+  	<td> Hebrew </td>
+  	<td>   PN(N) </td>
+  	<td>  personal name(s)</td>   
+  </tr>   
+  <tr>
+  	<td>hiph. </td>
+  	<td>  hiph`il </td>
+  	<td> prep. </td>
+  	<td>  preposition, prepositional</td>   
+  </tr>   
+  <tr>
+  	<td>hithp. </td>
+  	<td>  hithpa`el </td>
+  	<td> Q </td>
+  	<td>  Qere</td>   
+  </tr>   
+  <tr>
+  	<td>Hitt. </td>
+  	<td> Hittite </td>
+  	<td> <i>s.a.</i> </td>
+  	<td>  <i>sine anno</i></td>   
+  </tr>   
+  <tr>
+  	<td>hoph. </td>
+  	<td>  hoph`al </td>
+  	<td> Sam. </td>
+  	<td> Samaritan</td>   
+  </tr>   
+  <tr>
+  	<td>Hur. </td>
+  	<td> Hurrian </td>
+  	<td> Sem. </td>
+  	<td> Semitic</td>   
+  </tr>   
+  <tr>
+  	<td>impv. </td>
+  	<td>  imperative </td>
+  	<td> sg. </td>
+  	<td> singular</td>   
+  </tr>   
+  <tr>
+  	<td>impf. </td>
+  	<td>  imperfective </td>
+  	<td> subst. </td>
+  	<td> substantive, substantival</td>   
+  </tr>   
+  <tr>
+  	<td> inf.cstr. </td>
+  	<td> infinitive construct </td>
+  	<td> <i>s.v.</i> </td>
+  	<td>  <i>sub voce</i></td>   
+  </tr>   
+  <tr>
+  	<td>J </td>
+  	<td>  Yahwist source </td>
+  	<td> Syr. </td>
+  	<td>  Syriac</td>   
+  </tr>   
+  <tr>
+  	<td>JAram. </td>
+  	<td> Jewish Aramaic </td>
+  	<td> TN(N) </td>
+  	<td>  tribal name(s)</td>   
+  </tr>   
+  <tr>
+  	<td>K </td>
+  	<td>  Ketib </td>
+  	<td> Ug. </td>
+  	<td> Ugaritic</td>   
+  </tr>   
+  <tr>
+  	<td> LBHeb. </td>
+  	<td> late biblical Hebrew </td>
+  	<td> vb </td>
+  	<td> verb<br> 
+ 	</td>   
+  </tr>   
+  <tr>
+  	<td> MHeb. </td>
+  	<td> Middle Hebrew </td>
+  	<td>  </td>
+  	<td> <br> 
+ 	</td>   
+  </tr>   
+>>>>>>> 628160e06619339d322f31ca288002565cd6feed:source/store/abbreviations.md
  </table>
 
 

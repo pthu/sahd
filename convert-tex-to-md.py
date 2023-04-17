@@ -174,7 +174,8 @@ def replace_hebrew_coded(line):
             i = len(hbr) - 1
             all_parts = ""
             while i >= 0:
-                all_parts += replace_hebrew_part(hbr[i]) + " "
+                all_parts += replace_hebrew_part(hbr[i])
+                if i > 0: all_parts += " "
                 i -= 1
             line = m.group(1) + all_parts + m.group(3)
         else:
@@ -504,18 +505,18 @@ def replace_book_references(line):
     line = line.replace("\\sept", "LXX")                  # LXX
     line = line.replace("\\ges", "Ges")                   # Ges
 
-    line = line.replace("{\\tg}", "Tg.")                  # Tg.
-    line = line.replace("\\tg", "Tg.")                    # Tg.
-    line = line.replace("{\\targ}", "Tg.")                # Tg.
-    line = line.replace("\\targ", "Tg.")                  # Tg.
-    line = line.replace("{\\peshi}", "Syr.")              # Syr.
-    line = line.replace("\\peshi", "Syr.")                # Syr.
-    line = line.replace("{\\pesh}", "Syr.")               # Syr.
-    line = line.replace("\\pesh", "Syr.")                 # Syr.
+    line = line.replace("{\\tg}", "Tg")                   # Tg
+    line = line.replace("\\tg", "Tg")                     # Tg
+    line = line.replace("{\\targ}", "Tg")                 # Tg
+    line = line.replace("\\targ", "Tg")                   # Tg
+    line = line.replace("{\\peshi}", "Pesh")              # Pesh
+    line = line.replace("\\peshi", "Pesh")                # Pesh
+    line = line.replace("{\\pesh}", "Pesh")               # Pesh
+    line = line.replace("\\pesh", "Pesh")                 # Pesh
     line = line.replace("{\\sam}", "SP")                  # SP
     line = line.replace("\\sam", "SP")                    # SP
-    line = line.replace("{\\vulg}", "Vulg.")              # Vulg.
-    line = line.replace("\\vulg", "Vulg.")                # Vulg.
+    line = line.replace("{\\vulg}", "Vg")                 # Vg
+    line = line.replace("\\vulg", "Vg")                   # Vg
 
     return line
 

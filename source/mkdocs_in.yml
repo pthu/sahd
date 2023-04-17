@@ -9,10 +9,11 @@ nav:
     - Lemmas:
     - Semantic fields:
     - Contributors:
-    - Partners: 'miscellaneous/partners.md'
-    - Contribution: 'miscellaneous/contribution.md'
-    - Contact: 'miscellaneous/contact.md'
-    - Abbreviations: 'miscellaneous/abbreviations.md'
+    - Miscellaneous:
+    - Partners: 'store/partners.md'
+    - Contribution: 'store/contribution.md'
+    - Contact: 'store/contact.md'
+    - Abbreviations: 'store/abbreviations.md'
 
 theme:
     name: material
