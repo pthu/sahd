@@ -165,7 +165,7 @@ Sokoloff, <i>DJBA</i>, 913;
 cf. Jastrow, <i>DTT</i>, 1182). 
 However, the spelling פילכא in part of the manuscripts and editions reflects the interpretation as the noun פִּילְכָא. 
 
-[^3a]: The noun is wrongly translated as ‘distaff’ in Sokoloff, <i>DJPA</i>, 322 s.v. מעזל, p.&nbsp;401 s.v. עזל, p.&nbsp;436, s.v. פלכה.
+[^3a]: The noun is wrongly translated as ‘distaff’ in Sokoloff, <i>DJPA</i>, 322 s.v. <span dir="rtl" lang="he">מעזל</span>; 401 s.v. <span dir="rtl" lang="he">עזל</span>; 436, s.v. <span dir="rtl" lang="he">פלכה</span>.
 
 
 <a id="Arabic"></a><b>A.7</b> <i>Arabic</i>:  Several BHebr. dictionaries[^4a] 
@@ -221,14 +221,14 @@ Prov 31:19<small><sup>LXX</sup></small>;
 
 <b>c.</b>  Targum (Tg: J/K)  
 אַגְרָא,
- ‘wages’, ‘reward’, ‘profit’:[^9] 2 Sam 3:29<sup>J</sup>.[^10]   
+ ‘wages’, ‘reward’, ‘profit’:[^9] 2 Sam 3:29<sup>J</sup>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff’, ‘crutch’, ‘pole’[^10] is questionable (Van Staalduine-Sulman 2002: 499-500).   
 מעזלא,
 derivative of עזל,
 ‘to spin’,
 probably either ‘spindle’ or ‘spun wool/yarn’:[^11] Prov 31:19<sup>K</sup>. 
 
 [^9]: Jastrow, <i>DTT</i>, 14; Sokoloff, <i>DJBA</i>, 80-81; <i>DJPA</i>, 34-35.
-[^10]: The emendation of אגר to אגד, ‘long staff’, ‘crutch’, ‘pole’ (Jastrow, <i>DTT</i>, 10; Sokoloff, </i>DJBA</i>, 78, mentions only ‘carrying pole’ [with uncertain etymology] as a possible meaning) is questionable (Van Staalduine-Sulman 2002: 499-500).   
+[^10]: Jastrow, <i>DTT</i>, 10. Sokoloff, </i>DJBA</i>, 78, mentions only ‘carrying pole’ (with uncertain etymology) as a possible meaning.   
 [^11]: Cf. Sokoloff, <i>DJPA</i>, 322; Jastrow, <i>DTT</i>, 814. Since in Prov 31:19 מעזלא is the object of Aram. לבך, ‘to grasp’, the word must denote something tangible.
 
 
@@ -359,7 +359,7 @@ was regarded as a severe curse seems quite likely
 against the background of ancient Near Eastern texts, in which the spindle is a symbol of effeminacy
 (see Hillers 1964: 66-68) and feminised warriors are regarded as weak (Bergmann 2007: 664-68).
 In Hittite texts, both spindle 
-(<small><sup>GIŠ</sup></small><i>ḫuešaš</i>, <sup>GIŠ</sup><small>BAL</small>)
+(<small><sup>GIŠ</sup></small><i>ḫuešaš</i>, <small><sup>GIŠ</sup>BAL</small>)
 and distaff (<small><sup>GIŠ</sup></small><i>ḫulali</i>) are symbols of femininity.
 In a Hittite prayer, the goddess Ištar is asked to deprive the enemies of their manliness including their weapons and to give them 
 a woman’s distaff and spindle instead (<i>CTH</i> 716; see
@@ -421,7 +421,7 @@ while other dictionaries (GB, 643; Zorell, 651;
 <i>DCH</i> VI, 696)
 suppose that פֶּלֶךְ denotes the entire spindle.
 Except for the late cognate in Arab., the cognates in other Sem. languages designate the spindle in its entirety. 
-Even if the derivation of  פֶּלֶךְ from a root meaning ‘to be(come) round’ is correct (see section <a href="#Arabic">1 A.7</a>), 
+Even if the derivation of<span dir="rtl" lang="he">פֶּלֶךְ</span> from a root meaning ‘to be(come) round’ is correct (see section <a href="#Arabic">1 A.7</a>), 
 the word can still designate the entire spindle just as well as the whorl of the spindle, since both the whorl and the shaft of the spindle were round.
 Moreover, the fact that the two contexts in which פֶּלֶךְ occurs indicate explicitly that it was held
 (2 Sam 3:29: חזק hiph. with בְּ; 
@@ -693,7 +693,7 @@ However, the spindle full of yarn could also be used as a shuttle during weaving
 moving the woof yarn between the threads of the warp yarn (Rahmstorf 2015: 11). 
 Note that <small>BAL</small>, 
 the logographic equivalent of Akk.  <i>pilakku</i>, 
-was also used for Akk.  <i>nabalkutu</i>, ‘to cross over’ (<i>CAD</i> N<small>I</small>, 11-20).
+was also used for Akk.  <i>nabalkutu</i>, ‘to cross over’ (<i>CAD</i> N<small>1</small>, 11-20).
 
 
 Spindles were not only used for producing individual strands of yarn, but also for plying 
@@ -794,7 +794,8 @@ Several modern translations rightly reflect the interpretation of פֶּלֶךְ
 
 ## Bibliography
 
-For the abbreviations see: [List of Abbreviations](/sahd/miscellaneous/abbreviations).
+For the abbreviations see:
+<a href="/sahd/store/abbreviations">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">

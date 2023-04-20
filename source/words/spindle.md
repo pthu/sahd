@@ -35,7 +35,7 @@ However, פֶּלֶךְ <small>II</small> is undoubtedly a geographic designatio
 ‘ruler of the פֶּלֶךְ of Mizpah’ (Neh 3:15), 
 with פֶּלֶךְ apparently designating the area around Mizpah (Williamson 1985: 206).
 
-[^1]: <i>CAD</i> P, 373-74 s.v. <i>pilku</i> A; cf. KBL, 763; <i>DCH</i> VI, 696; Ges<sup>18</sup>, 1056.
+[^1]: <i>CAD</i> P, 373-74 s.v. <i>pilku</i> A; cf. KBL, 763; <i>DCH</i> VI, 696; Ges<small><sup>18</sup></small>, 1056.
 [^2]: <i>CAD</i> P, 374-75 s.v. <i>pilku</i> B. See also <i>DCH</i> VI, 696-97 s.v. פֶּלֶךְ <small>III</small> ;  cf. section <a href="#corvee">6.1 B.1</a> for Holloway 1987.
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
@@ -90,7 +90,7 @@ spindle boxes made of wood or copper
 The Baal myth contains the following lines with regard to the goddess Athiratu: 
 <i>ʾaḫdt.plkh </i>[.<i>bydh </i>] / <i>plk.tʿlt.bymnh</i> (<i>KTU</i> 1.4:II.3-4). 
 The noun <i>plk</i>, which occurs in each of the two lines, 
-is usually interpreted as ‘spindle’ (Watson 2007: 673-77; <i>DULAT</i><sup> 3</sup>, 661)
+is usually interpreted as ‘spindle’ (Watson 2007: 673-77; <i>DULAT</i><small><sup> 3</sup></small>, 661)
 and the lines can be translated as follows: ‘She took 
 her spindle [in her hand], an exalted spindle in her right hand’ (Smith & Pitard 2009: 434).
 Watson (2007: 678) proposed to interpret <i>plk</i> as ‘perfume’, ‘soap’.
@@ -176,7 +176,7 @@ The Arab. noun  <i>falkat<sup> un</sup></i>/ <i>filkat<sup> un</sup></i>,
 ‘thus called because of its roundness’ (Lane, 2444). 
 However, <i>falaka</i> can also be a denominative verb.
 
-[^4a]: E.g., Gesenius, <i>TPC</i> II, 1105; KBL, 763; <i>HALOT</i>, 933; Ges<sup>18</sup>, 1056.
+[^4a]: E.g., Gesenius, <i>TPC</i> II, 1105; KBL, 763; <i>HALOT</i>, 933; Ges<small><sup>18</sup></small>, 1056.
 
 
 ## 2. Formal Characteristics
@@ -209,7 +209,7 @@ Prov 31:19<small><sup>LXX</sup></small>;
 2 Sam 3:29<small><sup>LXX</sup></small>.
 
 [^5]: LSJ, 272; <i>GELS</i>, 101.
-[^6]: Field<sup>I</sup>, 552. 
+[^6]: Field<small><sup>I</sup></small>, 552. 
 [^7]: LSJ, 1617; <i>GELS</i>, 628.
 
 <b>b.</b>  Peshitta (Pesh)  
@@ -221,11 +221,11 @@ Prov 31:19<small><sup>LXX</sup></small>;
 
 <b>c.</b>  Targum (Tg: J/K)  
 אַגְרָא,
- ‘wages’, ‘reward’, ‘profit’:[^9] 2 Sam 3:29<sup>J</sup>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff’, ‘crutch’, ‘pole’[^10] is questionable (Van Staalduine-Sulman 2002: 499-500).   
+ ‘wages’, ‘reward’, ‘profit’:[^9] 2 Sam 3:29<small><sup>J</sup></small>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff’, ‘crutch’, ‘pole’[^10] is questionable (Van Staalduine-Sulman 2002: 499-500).   
 מעזלא,
 derivative of עזל,
 ‘to spin’,
-probably either ‘spindle’ or ‘spun wool/yarn’:[^11] Prov 31:19<sup>K</sup>. 
+probably either ‘spindle’ or ‘spun wool/yarn’:[^11] Prov 31:19<small><sup>K</sup></small>. 
 
 [^9]: Jastrow, <i>DTT</i>, 14; Sokoloff, <i>DJBA</i>, 80-81; <i>DJPA</i>, 34-35.
 [^10]: Jastrow, <i>DTT</i>, 10. Sokoloff, </i>DJBA</i>, 78, mentions only ‘carrying pole’ (with uncertain etymology) as a possible meaning.   
@@ -240,7 +240,7 @@ probably either ‘spindle’ or ‘spun wool/yarn’:[^11] Prov 31:19<sup>K</su
 
 
 <b>A.2</b>
-It has been suggested that in 2 Sam 3:29 not only LXX but also Tg<sup>J</sup> supports the interpretation of פֶּלֶךְ
+It has been suggested that in 2 Sam 3:29 not only LXX but also Tg<small><sup>J</sup></small> supports the interpretation of פֶּלֶךְ
 as a walking stick or crutch. 
 However, this is dubious; see section <a href="#lame">6.1 A.2</a>.
 It is true that the Talmud interprets the expression 
@@ -248,12 +248,12 @@ It is true that the Talmud interprets the expression
 but it is uncertain whether in LXX σκυτάλη already denotes a walking stick or crutch.
 The Greek word might even denote the rod of a spindle, which would correspond with 
 the interpretation of פֶּלֶךְ as a spindle in αʹ, σʹ, Pesh and Vg
-In Tg<sup>J</sup>, the rendering of מַחֲזִיק בַּפֶּלֶךְ 
+In Tg<small><sup>J</sup></small>, the rendering of מַחֲזִיק בַּפֶּלֶךְ 
 by מתקיף באגר, ‘one who grasps wages’, may be interpretative, 
 ‘indicating that a man who needs to spin must have fallen to poverty’
 (Van Staalduine-Sulman 2002: 500).
 This means that the word אגרא 
-may imply that Tg<sup>J</sup> also interpreted פֶּלֶךְ as a spindle. 
+may imply that Tg<small><sup>J</sup></small> also interpreted פֶּלֶךְ as a spindle. 
 
 
 ## 5. Lexical/Semantic Fields
@@ -308,11 +308,11 @@ the
 פֶּלֶךְ,
 a man falling by the sword (נֹפֵל בַּחֶרֶב),
 and a man in want of bread (חֲסַר לָחֶם).
-The reading מַחֲזִיק בַּפֶּלֶךְ is undisputed and is supported by 4QSam<sup>a</sup>
+The reading מַחֲזִיק בַּפֶּלֶךְ is undisputed and is supported by 4QSam<small><sup>a</sup></small>
 (<span dir="rtl" lang="he">ומ̊ח̊ז̊[יק ב]פלך</span>; DJD XVII, 112).
 
 <a id="lame"></a>The <a href="#AVM">LXX</a> understood the expression מַחֲזִיק בַּפֶּלֶךְ as 
- κρατῶν σκυτάλης	, ‘holder of a staff’ (cf. emendation Tg<sup>J</sup>), 
+ κρατῶν σκυτάλης, ‘holder of a staff’ (cf. emendation Tg<small><sup>J</sup></small>), 
 seemingly interpreting this expression as referring to a lame or cripple who needed a walking stick or crutch. 
 A similar interpretation is found in the Talmud,
 which regards the curse concerning the מַחֲזִיק בַּפֶּלֶךְ
@@ -352,7 +352,7 @@ connects the expression with the ill treatment of King Joash by the Arameans
 וְהָיוּ מְעַנִּין בּוֹ כְּדֶרֶךְ שֶׁמְּעַנִּין אֶת הָאִשָּׁה,
  ‘they violated him as they violate a woman’ (y.&nbsp;Qiddushin 1, 61a). 
 
-[^dic]: BDB, 813; GB, 643; <i>HAWAT</i>, 364; KBL, 763; <i>HALOT</i>, 933; Ges<sup>18</sup>, 1056.
+[^dic]: BDB, 813; GB, 643; <i>HAWAT</i>, 364; KBL, 763; <i>HALOT</i>, 933; Ges<small><sup>18</sup></small>, 1056.
 
 That having a ‘(male) holder of a spindle’ in a family with military commanders 
 was regarded as a severe curse seems quite likely
@@ -372,7 +372,7 @@ A ritual against the sexual impotence of a man includes placing a spindle and di
 and, consequently, replacing it by a bow and arrows
 (<i>CTH</i> 406; see Hoffner 1987: 272, 277, 283). 
 For the relevant Hittite texts and terminology, see also 
-<i>HW </i><sup> 2</sup> III/2, 632-33, 690-91. 
+<i>HW </i><small><sup> 2</sup></small> III/2, 632-33, 690-91. 
 
 
 Akk.  texts refer to men with female apparel and implements who play a role in specific contexts: 
@@ -485,7 +485,7 @@ made it possible to cultivate flax also there (Shamir 1996: 142), but
 from those areas no relevant pictorial evidence remains.
 Flax and wool have different properties and, consequently, their fibres had to be processed differently before they could be spun.[^17a]
 
-[^17a]: <i>BRL</i><sup>2</sup>, 311-12; Barber 1991: 11-15, 20-22; Andersson Strand 2015: 40-44.  
+[^17a]: <i>BRL</i><small><sup>2</sup></small>, 311-12; Barber 1991: 11-15, 20-22; Andersson Strand 2015: 40-44.  
 
 
 <a id="Exe-Eg"></a><b>A.2</b> 
@@ -711,13 +711,13 @@ In Tell el-Ḥammah, in the central Jordan valley, a spindle with linen threads 
 (Shamir 1996: 142). 
 Unfortunately, figures and more details of this find are not available.
 
-[^17e]: <i>BRL</i><sup>2</sup>, 312-13; Andersson Strand 2015: 47; Skals <i>et al</i>. 2015: 62, 64, 67. See also  → שׁזר, and  →  טוה.
+[^17e]: <i>BRL</i><small><sup>2</sup></small>, 312-13; Andersson Strand 2015: 47; Skals <i>et al</i>. 2015: 62, 64, 67. See also  → שׁזר, and  →  טוה.
 
 
 Ancient spindles entirely or partially made of precious materials, such as
 copper, bronze, silver, gold, or ivory, have been discovered mainly in graves of women, but sometimes in domestic contexts.[^17f]
  References to spindles made of such costly materials occur in several texts 
-(Hittite: <i>HW</i><sup> 2</sup> III/2, 632;
+(Hittite: <i>HW</i><small><sup> 2</sup></small> III/2, 632;
 El-Amarna: <a href="#EA25">EA 25</a>).
 Such precious spindles probably represent status symbols 
 rather than being tools of everyday use (Spinazzi-Lucchesi 2018: 30). 
@@ -738,7 +738,7 @@ These Egyptian spinning bowls were made of either clay or stone.
 The spinning bowls discovered in Israel/Palestine
 date from the Late Bronze Age until the middle of the first millennium and are made of clay.
 
-[^18]: Dothan 1963; <i>BRL</i><sup>2</sup>, 312-13, with fig. 81:11, 12; Barber 1991: 70-76; Rahmstorf 2015: 10-11; Spinazzi-Lucchesi 2018: 48-50, 116-18. 
+[^18]: Dothan 1963; <i>BRL</i><sup>2</sup></small>, 312-13, with fig. 81:11, 12; Barber 1991: 70-76; Rahmstorf 2015: 10-11; Spinazzi-Lucchesi 2018: 48-50, 116-18. 
 
 
 <a id="Nav"></a>A peculiar jar from Israel/Palestine, presumably dating from late Roman or Byzantine times, was published and discussed by Joseph Naveh 
@@ -794,7 +794,7 @@ Several modern translations rightly reflect the interpretation of פֶּלֶךְ
 
 ## Bibliography
 
-For the abbreviations see:
+For the abbreviations see: 
 <a href="/sahd/store/abbreviations">List of Abbreviations</a>.
 
 

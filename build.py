@@ -8,6 +8,7 @@ from subprocess import run, Popen
 import csv
 from datetime import datetime
 import re
+from ivsort import ivsort
 
 SAHD_BASE = Path(".")
 
@@ -49,8 +50,8 @@ errors = []
 
 def read_args():
     parser = argparse.ArgumentParser(description='build.py',
-        usage='use "%(prog)s --help" for more information',
-        formatter_class=argparse.RawTextHelpFormatter)
+                                     usage='use "%(prog)s --help" for more information',
+                                     formatter_class=argparse.RawTextHelpFormatter)
     parser.add_argument("action", help="make - compiles Markdown files from the source files "
                                        "\ndocs - does `make` and then serves the docs locally and shows them in your browser"
                                        "\ngithub - does `make`, and pushes the whole site to GitHub"
@@ -218,7 +219,7 @@ def create_shebanq_references():
 
 def get_shebanq_id(word_hebrew, shebanq_dict):
     first_char = word_hebrew[len(word_hebrew) - 1]
-    if word_hebrew in shebanq_dict[first_char]:
+    if first_char in shebanq_dict.keys() and word_hebrew in shebanq_dict[first_char]:
         return shebanq_dict[first_char][word_hebrew]
     else:
         return None
@@ -258,13 +259,16 @@ def create_ubs_references():
 #             else:
 #                 ubs[key] = [word_hebrew]
 #     return ubs
-
-
-def get_ubs_reference(word_hebrew, ubs_dict):
+def get_pointless(word_hebrew):
     pointless = ""
     for i in range(len(word_hebrew)):
         if ord(word_hebrew[i]) >= 0x5D0:
             pointless += word_hebrew[i]
+    return pointless
+
+
+def get_ubs_reference(word_hebrew, ubs_dict):
+    pointless = get_pointless(word_hebrew)
     first_char = pointless[len(pointless) - 1]
     if pointless in ubs_dict[first_char]:
         # print(len(ubs_dict[first_char][pointless]))
@@ -278,6 +282,37 @@ def get_ubs_reference(word_hebrew, ubs_dict):
         return ubs_dict[first_char][pointless][index]
     else:
         return None
+
+
+def sort_contributors(contributors_dict):
+    prefixes = ["de", "den", "der", "'t", "’t", "te", "ten", "ter", "van", "von"]
+    sort_dict = {}
+    target_dict = {}
+    for key in contributors_dict:
+        parts = key.split("_")
+        surname_key = ""
+        for i in range(len(parts)):
+            if parts[i] in prefixes or i == len(parts) - 1:
+                surname_key += parts[i]
+        sort_dict[surname_key] = key
+    for key in sorted(sort_dict):
+        name = sort_dict[key]
+        target_dict[name] = contributors_dict[name]
+
+    return target_dict
+
+
+def hebrew_alphabet_order(source_dict, contributors=False):
+    target_dict = {}
+    sorted_dict = sort_contributors(source_dict) if contributors else sorted(source_dict)
+    for key in sorted_dict:
+        for item in ivsort(source_dict[key].keys()):
+            if key in target_dict.keys():
+                target_dict[key] = target_dict[key] + [(item, source_dict[key][item])]
+            else:
+                target_dict[key] = [(item, source_dict[key][item])]
+
+    return target_dict
 
 
 # def get_ubs_reference(word_hebrew, ubs_dict):
@@ -299,14 +334,14 @@ def get_relations():
             lines = f.readlines()
             for line in lines:
                 if line.startswith("word_english:"):
-                    word_english = get_values(line)[0]
+                    word_english = get_value(line)
                 elif line.startswith("word_hebrew:"):
-                    word_hebrew = get_values(line)[0]
-                    key = word_hebrew[0]
+                    word_hebrew = get_value(line)
+                    key = get_pointless(word_hebrew)[0]
                     if key in words.keys():
-                        words[key] = words[key] + [(word_hebrew, word_english)]
+                        words[key][word_hebrew] =  word_english
                     else:
-                        words[key] = [(word_hebrew, word_english)]
+                        words[key] = {word_hebrew: word_english}
                 elif line.startswith("semantic_fields:") or line.startswith("contributors:"):
                     if not word_english or not word_hebrew:
                         error(f"english and/or hebrew word in {word.name} metadata not given")
@@ -315,23 +350,19 @@ def get_relations():
                     for key in keys:
                         if line.startswith("semantic_fields:"):
                             if key in semantic_fields.keys():
-                                semantic_fields[key] = semantic_fields[key] + [(word_english, word_hebrew)]
+                                semantic_fields[key][word_hebrew] = word_english
                             else:
-                                semantic_fields[key] = [(word_english, word_hebrew)]
+                                semantic_fields[key] = {word_hebrew: word_english}
                         else:
                             if key in contributors.keys():
-                                contributors[key] = contributors[key] + [(word_english, word_hebrew)]
+                                contributors[key][word_hebrew] = word_english
                             else:
-                                contributors[key] = [(word_english, word_hebrew)]
+                                contributors[key] = {word_hebrew: word_english}
 
     # sort dictionaries
-    words_dict, semantic_fields_dict, contributors_dict = {}, {}, {}
-    for i in sorted(words):
-        words_dict[i] = sorted(words[i], reverse=True)
-    for i in sorted(semantic_fields):
-        semantic_fields_dict[i] =  sorted(semantic_fields[i])
-    for i in sorted(contributors):
-        contributors_dict[i] =  sorted(contributors[i])
+    words_dict = hebrew_alphabet_order(words)
+    semantic_fields_dict = hebrew_alphabet_order(semantic_fields)
+    contributors_dict = hebrew_alphabet_order(contributors, True)
 
     return words_dict, semantic_fields_dict, contributors_dict
 
@@ -453,7 +484,7 @@ def write_semantic_fields(semantic_fields_dict):
                 text.append(line)
             text.append("\n### Related words\n")
             for word in words:
-                text.append(f"[{word[1]} – {word[0].replace('_', ' ')}](../words/{word[0]}.md)<br>")
+                text.append(f"[{word[0]} – {word[1].replace('_', ' ')}](../words/{word[1]}.md)<br>")
 
         with open(SEMANTIC_FIELDS_DOCS / f"{s_field}.md", 'w') as f:
             f.write("".join(text))
@@ -480,7 +511,7 @@ def write_contributors(contributors_dict):
                 text.append(line)
             text.append("\n### Contributions\n")
             for word in words:
-                text.append(f"[{word[1]} – {word[0].replace('_', ' ')}](../words/{word[0]}.md)<br>")
+                text.append(f"[{word[0]} – {word[1].replace('_', ' ')}](../words/{word[1]}.md)<br>")
 
         with open(CONTRIBUTORS_DOCS / f"{contributor}.md", 'w') as f:
             f.write("".join(text))
@@ -503,7 +534,8 @@ def write_miscellaneous():
     copytree(MISCELLANEOUS, MISCELLANEOUS_DOCS)
 
     for filename in os.listdir(MISCELLANEOUS):
-        write_miscellaneous_file(filename)
+        if filename != ".DS_Store":
+            write_miscellaneous_file(filename)
 
 
 def write_store_file(filename):
@@ -560,8 +592,9 @@ def write_navigation(words_dict, semantic_fields_dict, contributors_dict):
                     text.append(f"            - {capitalize_name(contributor)}: contributors/{contributor}.md\n")
             elif line.replace(" ", "").startswith("-Miscellaneous:"):
                 for article in os.listdir(MISCELLANEOUS):
-                    article_name = article[0:article.find(".md")]
-                    text.append(f"            - {capitalize_name(article_name)}: miscellaneous/{article}\n")
+                    if article != ".DS_Store":
+                        article_name = article[0:article.find(".md")]
+                        text.append(f"            - {capitalize_name(article_name)}: miscellaneous/{article}\n")
     with open("mkdocs.yml", 'w') as f:
         f.write("".join(text))
 
@@ -608,3 +641,5 @@ def main():
 
 
 main()
+
+
