@@ -19,28 +19,18 @@ nav:
             - Utensils: semantic_fields/utensils.md
             - Weight: semantic_fields/weight.md
     - Contributors:
-            - Bertus van ’t Veld: contributors/bertus_van_’t_veld.md
-            - Graham I. Davies: contributors/graham_i._davies.md
             - James K. Aitken: contributors/james_k._aitken.md
-<<<<<<< HEAD
-            - Klaas R. Veenhof: contributors/klaas_r._veenhof.md
-            - Paul Sanders: contributors/paul_sanders.md
+            - Graham I. Davies: contributors/graham_i._davies.md
             - Raymond de Hoop: contributors/raymond_de_hoop.md
-    - Partners: 'miscellaneous/partners.md'
-    - Contribution: 'miscellaneous/contribution.md'
-    - Contact: 'miscellaneous/contact.md'
-    - Abbreviations: 'miscellaneous/abbreviations.md'
-=======
-            - Sanders Paul: contributors/sanders_paul.md
-            - van ’t Veld Bertus: contributors/van_’t_veld_bertus.md
-            - Veenhof Klaas R.: contributors/veenhof_klaas_r..md
+            - Paul Sanders: contributors/paul_sanders.md
+            - Bertus van ’t Veld: contributors/bertus_van_’t_veld.md
+            - Klaas R. Veenhof: contributors/klaas_r._veenhof.md
     - Miscellaneous:
             - Overview Deliverance: miscellaneous/overview_deliverance.md
     - Partners: 'store/partners.md'
     - Contribution: 'store/contribution.md'
     - Contact: 'store/contact.md'
     - Abbreviations: 'store/abbreviations.md'
->>>>>>> 628160e06619339d322f31ca288002565cd6feed
 
 theme:
     name: material
