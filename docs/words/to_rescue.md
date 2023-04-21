@@ -496,25 +496,26 @@ it is the predicate of and <span dir="rtl" lang="he">יהוה</span>
 
 ## 4. Ancient Versions
 
-<b>a.</b> Septuagint (LXX) and other Greek versions  
+### <b>a.</b> Septuagint (LXX) and other Greek versions  
 
 Hiphil:   
-ἀμύνομαι, 'to help and defend':[^3] Isa 59:16;  
-ἀνασώζω, 'to rescue': Zech 8:7;  
-\[[ἀπόλλυμι]], 'to destroy':[^4] Job 5:15;  
-βοηθέω, 'to aid, to help': Deut 22:27; 28:29, 31; Prov 20:22; 1&nbsp;Chron 19:19;  
-βοηθός:, 'helper, help': 2&nbsp;Sam 22:42;  
-διασώζω, 'to preserve, to save': Deut 20:4; Hos 13:10; Zech 8:13;  
-\[[εἰσακούω]], 'to give ear': Ps 55[54]:17;  
-ἐλεέω, 'to have pity on': Sir 33:1;  
-ἐξαιρέω, 'to take (out)': Josh 10:6; Sir 4:9;  
-λυτρόω, 'to redeem': Sir 48:20; 49:10;  
-ποιέω, 'to make, to bring about' \[+ σωτηρίαν, 'deliverance' = <span dir="rtl" lang="he">תְּשׁוּעָה</span>]:[^5] 1&nbsp;Chron 11:14;  
-ῥύομαι, 'to rescue': Exod 2:17; 14:30; Josh 22:22; Isa 49:25, 26; 63:5; Ezek 37:23;  
-σωτήρ, 'saviour, deliverer': Judg 3:9, 15; 1&nbsp;Sam 10:19; Isa 45:15, 21; Neh 9:27;  
-σωτηρία, 'deliverance, salvation': 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; Isa 38:20; 47:15; 63:8;  
-σωτήριον, 'deliverance, salvation': Isa 63:1;  
-σώζω, 'to save, to keep alive': Judg 2:16, 18; 3:9, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam 4:3; 7:8; 9:16; 10:27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26, 31 [+χεῖρα], 33; 2&nbsp;Sam 3:18; 8:6, 14; 10:11, 19; 14:4; 22:3, 8; 2&nbsp;Kgs 6:26, 27 [2x]; 16:7; 19:19; Isa 19:20; 33:22; 35:4; 37:20, 35; 43:3, 11, 12; 45:20 [pl]; 46:7; 47:13; 59:1; 60:16; 63:9; Jer 2:27, 28; 11:12 [1x]; 14:8, 9; 15:20; 17:14; 31[38]:7; 42[49]:11; 46[26]:27; Ezek 34:22; 36:29; Hos 1:7 [2x]; 13:4; 14:4; Obad 1:21 [passive]; Hab 1:2; Zeph 3:17, 19; Zech 9:16; 10:6; 12:7; Pss 3:8; 6:5; 7:2,
+
+* ἀμύνομαι, 'to help and defend':[^3] Isa 59:16;  
+* ἀνασώζω, 'to rescue': Zech 8:7;  
+* \[[ἀπόλλυμι]], 'to destroy':[^4] Job 5:15;  
+* βοηθέω, 'to aid, to help': Deut 22:27; 28:29, 31; Prov 20:22; 1&nbsp;Chron 19:19;  
+* βοηθός:, 'helper, help': 2&nbsp;Sam 22:42;  
+* διασώζω, 'to preserve, to save': Deut 20:4; Hos 13:10; Zech 8:13;  
+* \[[εἰσακούω]], 'to give ear': Ps 55[54]:17;  
+* ἐλεέω, 'to have pity on': Sir 33:1;  
+* ἐξαιρέω, 'to take (out)': Josh 10:6; Sir 4:9;  
+* λυτρόω, 'to redeem': Sir 48:20; 49:10;  
+* ποιέω, 'to make, to bring about' \[+ σωτηρίαν, 'deliverance' = <span dir="rtl" lang="he">תְּשׁוּעָה</span>]:[^5] 1&nbsp;Chron 11:14;  
+* ῥύομαι, 'to rescue': Exod 2:17; 14:30; Josh 22:22; Isa 49:25, 26; 63:5; Ezek 37:23;  
+* σωτήρ, 'saviour, deliverer': Judg 3:9, 15; 1&nbsp;Sam 10:19; Isa 45:15, 21; Neh 9:27;  
+* σωτηρία, 'deliverance, salvation': 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; Isa 38:20; 47:15; 63:8;  
+* σωτήριον, 'deliverance, salvation': Isa 63:1;  
+* σώζω, 'to save, to keep alive': Judg 2:16, 18; 3:9, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam 4:3; 7:8; 9:16; 10:27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26, 31 [+χεῖρα], 33; 2&nbsp;Sam 3:18; 8:6, 14; 10:11, 19; 14:4; 22:3, 8; 2&nbsp;Kgs 6:26, 27 [2x]; 16:7; 19:19; Isa 19:20; 33:22; 35:4; 37:20, 35; 43:3, 11, 12; 45:20 [pl]; 46:7; 47:13; 59:1; 60:16; 63:9; Jer 2:27, 28; 11:12 [1x]; 14:8, 9; 15:20; 17:14; 31[38]:7; 42[49]:11; 46[26]:27; Ezek 34:22; 36:29; Hos 1:7 [2x]; 13:4; 14:4; Obad 1:21 [passive]; Hab 1:2; Zeph 3:17, 19; Zech 9:16; 10:6; 12:7; Pss 3:8; 6:5; 7:2,
 11; 12[11]:2; 17[16]:7; 18[17]:28, 42; 20[19]:7, 10; 22[21]:22;
 28[27]:9; 31[30]:3, 17; 34[33]:7, 19; 36[35]:7; 37[36]:40; 44[43]:4, 7,
 8; 54[53]:3; 57[56]:4; 59[58]:3; 60[59]:7; 69[68]:2, 36; 71[70]:2, 3;
@@ -572,10 +573,10 @@ stray’ could imply the reading נפשׁע ‘we have erred’ (Westermann
 emendation נרשׁע ‘we have become wicked’ (e.g. Cheyne 1899: 73, 171; <i>BHS</i>),
 although others have followed the MT (e.g. Watts 1987: 238).
 
-<b>b.</b> Peshitta:
+### <b>b.</b> Peshitta (Pesh)
 
-Hiphil:  
-<!--(<i>ṭābāʾ</i>), :--><span dir="rtl" lang="-">ܥܒܕ ܦܘܪܩܢܐ</span>
+Hiphil:  <!--(<i>ṭābāʾ</i>), :-->   
+<span dir="rtl" lang="-">ܥܒܕ ܦܘܪܩܢܐ</span>
 (<i>ʿbad purqānāʾ</i>), 'to bring salvation': 2&nbsp;Sam 3:18;  
 <span dir="rtl" lang="-">ܥܒܕ ܢܨܚܢܐ</span>
 (<i>ʿbad</i>) \[+ <i>neṣḥānāʾ</i> = תְּשׁוּעָה], to bring victory': in: 1&nbsp;Chron 11:14 [cf. LXX];  
@@ -641,18 +642,19 @@ in the action of the verb, but this equivalent also appears only once.
 most part to render the ptc.
 <span dir="rtl" lang="he">מוֹשִׁיעַ</span>.
 
-<b>c.</b> Targum:
+### <b>c.</b> Targum (Tg: O/J/K)
 
 Hiphil:  
-<span dir="rtl" lang="he">פְּרַק</span>: O – Exod 2:17; 14:30; Deut 20:4; 22:27; 28:29, 31; Josh 10:6; 22:22;
+<span dir="rtl" lang="he">פְּרַק</span>: O – Exod 2:17; 14:30; 
+Deut 20:4; 22:27; 28:29, 31; Josh 10:6; 22:22;
 Judg 2:16, 18; 3:9 [2x], 15, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22;
-10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam 4:3; 7:8; 9:16; 10:19, 27; 11:3;
-14:6, 23, 39; 17:47; 23:2, 5; 25:26, 31, 33; 2&nbsp;Sam 3:18; 8:6, 14; 10:11,
-19; 14:4; 22:3, 28, 42; 2&nbsp;Kgs 6:26, 27; 13:5; 14:27; 16:7; 19:19, 34; Is
-19:20; 25:9; 33:22; 35:4; 37:20, 35; 38:20; 43:3, 11, 12; 45:15, 20, 21;
-46:7; 47:13, 15; 49:25, 26; 59:1, 16; 60:16; 63:1, 5, 8, 9; Jer 2:27, 28;
-11:12 [1x]; 14:8, 9; 15:20; 17:14; 30:10, 11; 31:7; 42:11; 46:27; Ezk
-34:22; 36:29; 37:23; Hos 13:4, 10; 14:4; Hab 1:2; Zeph 3:17, 19; Zech 8:7, 13;
+10:1, 12, 13, 14; 12:2, 3; 13:5; 
+1&nbsp;Sam 4:3; 7:8; 9:16; 10:19, 27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26, 31, 33; 
+2&nbsp;Sam 3:18; 8:6, 14; 10:11, 19; 14:4; 22:3, 28, 42; 
+2&nbsp;Kgs 6:26, 27; 13:5; 14:27; 16:7; 19:19, 34; 
+Is 19:20; 25:9; 33:22; 35:4; 37:20, 35; 38:20; 43:3, 11, 12; 45:15, 20, 21; 46:7; 47:13, 15; 49:25, 26; 59:1, 16; 60:16; 63:1, 5, 8, 9; 
+Jer 2:27, 28; 11:12 [1x]; 14:8, 9; 15:20; 17:14; 30:10, 11; 31:7; 42:11; 46:27; 
+Ezk 34:22; 36:29; 37:23; Hos 13:4, 10; 14:4; Hab 1:2; Zeph 3:17, 19; Zech 8:7, 13;
 9:16; 10:6; 12:7; 1&nbsp;Chron 11:14; 16:35; 18:6, 13; 19:12, 19; 2&nbsp;Chron 20:9;
 32:22;  
 Af פרק: Hos 1:7;  
