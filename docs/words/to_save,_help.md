@@ -1,6 +1,6 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># יָשַׁע – 'to save, help'
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># יָשַׁע – ‘to save, help’
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Authors:
@@ -137,7 +137,7 @@ languages. The Ug evidence attests to the second consonant being <i>ṯ</i>
 interpretations based on Arab (see B.1). The main arguments outlined by
 Sawyer (1975) are the evidence of proper names in NWSem (A.3, A.4,
 B.3), the collocation of <i>yṯʿ</i> terms with deities’ names (as with ישׁע;
-see A.1, 3, 5, 7-10; also Syntagmatics A.1), chronological evidence (see
+see A.1, 3, 5, 7-10; also <a href="#3.A.1">Syntagmatics&nbsp;A.1</a>), chronological evidence (see
 A.5, 7-10) and phonological equivalence (B.1). Earlier KBL (412, along
 with <i>wasiʿa</i>), Huffmon (1965: 215) and Stolz (1971: 786, citing Sawyer
 1965: 475-76, 485) had supported this view; and at the conference where
@@ -239,7 +239,7 @@ another (Judg 10:14; Isa 46:7; 63:9; Jer 14:8; 30:7; Ps 34:7; Neh 9:27; 2&nbsp;C
 that a possible alternative etymology, from Proto-Semitic \*<i>yṯʿ</i>, has
 come to light, it turns out that the phonological argument is not as
 decisive as it previously seemed (on the possible problem of the initial
- <i>y</i> in *<i>yṯʿ</i> see below on Formal Characteristics A.1). Secondly, there
+ <i>y</i> in *<i>yṯʿ</i> see below on <a href="#2.A.1">Formal Characteristics&nbsp;A.1</a>). Secondly, there
 is in fact no actual overlap in meanings between the attested uses of
 יָשַׁע
  and those of <i>wasiʿa</i>: יָשַׁע never means ‘be wide’ or ‘make
@@ -287,7 +287,7 @@ Huffmon 1965: 215).
 
 ## 2. Formal Characteristics
 
-
+<a id="2.A.1"></a>
 <b>A.1</b>  From a synchronic point of view ישׁע appears to be a pe-yodh</i> root (in
 view of some of its nominal derivatives, יֵשַׁע and יְשׁוּעָה). But
 historically classification either as <i>pe-yodh</i> or as <i>pe-waw</i> is possible,
@@ -319,7 +319,7 @@ verbs, is that of Joüon), but this is an unsatisfactory approach to the
 evidence. Whichever approach is preferred, יָשַׁע with <i>ytʿ</i>&nbsp; as its
 older form could be explained in the same way as יבשׁ.
 
-<b>A.3</b>  See BL: 229f for the form at 1&nbsp;Sam 17:47 and Ps 116:6.
+<b>A.3</b>  See BL, 229f for the form at 1&nbsp;Sam 17:47 and Ps 116:6.
 
 <a id="2.B.1"></a>
 <b>B.1</b>  The form משִׁיעַ is the hiphil participle, although Sawyer notes that
@@ -330,7 +330,7 @@ A.5).
 ## 3. Syntagmatics 
 <b>Examples from narrative books, Isaiah, Psalms and Qumran</b>
 
-
+<a id="3.A.1"></a>
 <b>A.1</b>  ישׁע hiphil has human agents as subject: מֹשֶׁה ‘Moses’ (Exod 2:17),
 שַׁמְגָר Shamgar (Judg 3:31), אִישׁ ‘a man’ (1&nbsp;Sam 9:16), דָּוִד ‘David’ (1&nbsp;Sam
 23:2, 5), אֲדֹנִי ‘my lord’ = David (1&nbsp;Sam 25:31), סכת דויד ‘the hut of
@@ -504,22 +504,22 @@ it is the predicate of and <span dir="rtl" lang="he">יהוה</span>
 
 Hiphil:   
 
-* ἀμύνομαι, 'to help and defend':[^3] Isa 59:16;  
-* ἀνασώζω, 'to rescue': Zech 8:7;  
-* \[[ἀπόλλυμι]], 'to destroy':[^4] Job 5:15;  
-* βοηθέω, 'to aid, to help': Deut 22:27; 28:29, 31; Prov 20:22; 1&nbsp;Chron 19:19;  
-* βοηθός:, 'helper, help': 2&nbsp;Sam 22:42;  
-* διασώζω, 'to preserve, to save': Deut 20:4; Hos 13:10; Zech 8:13;  
-* \[[εἰσακούω]], 'to give ear': Ps 55[54]:17;  
-* ἐλεέω, 'to have pity on': Sir 33:1;  
-* ἐξαιρέω, 'to take (out)': Josh 10:6; Sir 4:9;  
-* λυτρόω, 'to redeem': Sir 48:20; 49:10;  
-* ποιέω, 'to make, to bring about' \[+ σωτηρίαν, 'deliverance' = <span dir="rtl" lang="he">תְּשׁוּעָה</span>]:[^5] 1&nbsp;Chron 11:14;  
-* ῥύομαι, 'to rescue': Exod 2:17; 14:30; Josh 22:22; Isa 49:25, 26; 63:5; Ezek 37:23;  
-* σωτήρ, 'saviour, deliverer': Judg 3:9, 15; 1&nbsp;Sam 10:19; Isa 45:15, 21; Neh 9:27;  
-* σωτηρία, 'deliverance, salvation': 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; Isa 38:20; 47:15; 63:8;  
-* σωτήριον, 'deliverance, salvation': Isa 63:1;  
-* σώζω, 'to save, to keep alive': Judg 2:16, 18; 3:9, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam 4:3; 7:8; 9:16; 10:27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26, 31 [+χεῖρα], 33; 2&nbsp;Sam 3:18; 8:6, 14; 10:11, 19; 14:4; 22:3, 8; 2&nbsp;Kgs 6:26, 27 [2x]; 16:7; 19:19; Isa 19:20; 33:22; 35:4; 37:20, 35; 43:3, 11, 12; 45:20 [pl]; 46:7; 47:13; 59:1; 60:16; 63:9; Jer 2:27, 28; 11:12 [1x]; 14:8, 9; 15:20; 17:14; 31[38]:7; 42[49]:11; 46[26]:27; Ezek 34:22; 36:29; Hos 1:7 [2x]; 13:4; 14:4; Obad 1:21 [passive]; Hab 1:2; Zeph 3:17, 19; Zech 9:16; 10:6; 12:7; Pss 3:8; 6:5; 7:2,
+* ἀμύνομαι, ‘to help and defend’:[^3] Isa 59:16;  
+* ἀνασώζω, ‘to rescue’: Zech 8:7;  
+* \[[ἀπόλλυμι]], ‘to destroy’:[^4] Job 5:15;  
+* βοηθέω, ‘to aid, to help’: Deut 22:27; 28:29, 31; Prov 20:22; 1&nbsp;Chron 19:19;  
+* βοηθός:, ‘helper, help’: 2&nbsp;Sam 22:42;  
+* διασώζω, ‘to preserve, to save’: Deut 20:4; Hos 13:10; Zech 8:13;  
+* \[[εἰσακούω]], ‘to give ear’: Ps 55[54]:17;  
+* ἐλεέω, ‘to have pity on’: Sir 33:1;  
+* ἐξαιρέω, ‘to take (out)’: Josh 10:6; Sir 4:9;  
+* λυτρόω, ‘to redeem’: Sir 48:20; 49:10;  
+* ποιέω, ‘to make, to bring about’ \[+ σωτηρίαν, ‘deliverance’ = <span dir="rtl" lang="he">תְּשׁוּעָה</span>]:[^5] 1&nbsp;Chron 11:14;  
+* ῥύομαι, ‘to rescue’: Exod 2:17; 14:30; Josh 22:22; Isa 49:25, 26; 63:5; Ezek 37:23;  
+* σωτήρ, ‘saviour, deliverer’: Judg 3:9, 15; 1&nbsp;Sam 10:19; Isa 45:15, 21; Neh 9:27;  
+* σωτηρία, ‘deliverance, salvation’: 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; Isa 38:20; 47:15; 63:8;  
+* σωτήριον, ‘deliverance, salvation’: Isa 63:1;  
+* σώζω, ‘to save, to keep alive’: Judg 2:16, 18; 3:9, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam 4:3; 7:8; 9:16; 10:27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26, 31 [+χεῖρα], 33; 2&nbsp;Sam 3:18; 8:6, 14; 10:11, 19; 14:4; 22:3, 8; 2&nbsp;Kgs 6:26, 27 [2x]; 16:7; 19:19; Isa 19:20; 33:22; 35:4; 37:20, 35; 43:3, 11, 12; 45:20 [pl]; 46:7; 47:13; 59:1; 60:16; 63:9; Jer 2:27, 28; 11:12 [1x]; 14:8, 9; 15:20; 17:14; 31[38]:7; 42[49]:11; 46[26]:27; Ezek 34:22; 36:29; Hos 1:7 [2x]; 13:4; 14:4; Obad 1:21 [passive]; Hab 1:2; Zeph 3:17, 19; Zech 9:16; 10:6; 12:7; Pss 3:8; 6:5; 7:2,
 11; 12[11]:2; 17[16]:7; 18[17]:28, 42; 20[19]:7, 10; 22[21]:22;
 28[27]:9; 31[30]:3, 17; 34[33]:7, 19; 36[35]:7; 37[36]:40; 44[43]:4, 7,
 8; 54[53]:3; 57[56]:4; 59[58]:3; 60[59]:7; 69[68]:2, 36; 71[70]:2, 3;
@@ -529,7 +529,7 @@ Hiphil:
 9:27; 1&nbsp;Chron 16:35; 18:6, 13; 19:12; 2&nbsp;Chron 20:9; 32:22.  
 
 [^3]: The English rendering of the Greek words is based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>.
-[^4]: <i>GELS</i>, 78; LEH<small><sup>3</sup></small>: 70, 'let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves'. 
+[^4]: <i>GELS</i>, 78; LEH<small><sup>3</sup></small>: 70, ‘let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves’. 
 [^5]: <i>GELS</i>, ; LEH<small><sup>3</sup></small>, 501, 603; cf. <i>NETS</i>.
 
 Omitted: 2&nbsp;Kgs 19:34; Isa 25:9; Job 26:2?; Sir 34:6.    
@@ -582,17 +582,17 @@ although others have followed the MT (e.g. Watts 1987: 238).
 Hiphil:  <!--(<i>ṭābāʾ</i>), :-->   
 
 * <span dir="rtl" lang="-">ܥܒܕ ܦܘܪܩܢܐ</span>
-(<i>ʿbad purqānāʾ </i>), 'to bring salvation': 2&nbsp;Sam 3:18;  
+(<i>ʿbad purqānāʾ </i>), ‘to bring salvation’: 2&nbsp;Sam 3:18;  
 * <span dir="rtl" lang="-">ܥܒܕ ܢܨܚܢܐ</span>
-(<i>ʿbad</i>) \[+ <i>neṣḥānāʾ</i> = תְּשׁוּעָה], to bring victory': in: 1&nbsp;Chron 11:14 [cf. LXX];  
+(<i>ʿbad</i>) \[+ <i>neṣḥānāʾ</i> = תְּשׁוּעָה], to bring victory’: in: 1&nbsp;Chron 11:14 [cf. LXX];  
 * <span dir="rtl" lang="-">ܥܕܪ</span>
-(<i>ʿdar</i>), 'to help, to aid': 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19;  
+(<i>ʿdar</i>), ‘to help, to aid’: 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19;  
 * <span dir="rtl" lang="-">ܢܦܩ</span>
-(<i>npq</i>) Aphel, 'to bring out': Ps 107:19;  
+(<i>npq</i>) Aphel, ‘to bring out’: Ps 107:19;  
 * <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
-(<i>pṣy</i>/<i>pṣʾ </i>) Pael \`to save, to deliver': Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
+(<i>pṣy</i>/<i>pṣʾ </i>) Pael \`to save, to deliver’: Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
 * <span dir="rtl" lang="-">ܦܪܩ</span>
-(<i>prq</i>), 'to save, to liberate': Exod 2:17; 14:30; Deut 20:4; 28:29; Josh 22:22; Judg 2:16, 18; 3:9,
+(<i>prq</i>), ‘to save, to liberate’: Exod 2:17; 14:30; Deut 20:4; 28:29; Josh 22:22; Judg 2:16, 18; 3:9,
 31; 6:14, 15, 36, 37; 7:7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam
 4:3; 7:8; 9:16; 10:19, 27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26,
 33; 2&nbsp;Sam 8:6, 14; 14:4; 22:3, 28; 2&nbsp;Kgs 6:26, 27 [2x]; 14:27; 16:7; 19:19,
@@ -606,24 +606,24 @@ Hiphil:  <!--(<i>ṭābāʾ</i>), :-->
 40:14; Prov 20:22; 1&nbsp;Chron 16:35; 18:6, 13; 2&nbsp;Chron 20:9; 32:22; 
 Sir 34:6; 48:20; 49:10;  
 * <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
-(<i>pārōqāʾ </i>), 'saviour, liberator': Judg 3:9, 15; 2&nbsp;Sam 22:42; 2&nbsp;Kgs 13:5; Isa 19:20; 43:3; 45:15, 21; 49:26; 60:16; 63:8; Zeph 3:17; Pss 17:7; 18:42;  
+(<i>pārōqāʾ </i>), ‘saviour, liberator’: Judg 3:9, 15; 2&nbsp;Sam 22:42; 2&nbsp;Kgs 13:5; Isa 19:20; 43:3; 45:15, 21; 49:26; 60:16; 63:8; Zeph 3:17; Pss 17:7; 18:42;  
 * <span dir="rtl" lang="-">ܫܘܙܒ</span>
-(<i>šwzb</i>), 'to save, deliver, preserve': Sir 51:3;   
+(<i>šwzb</i>), ‘to save, deliver, preserve’: Sir 51:3;   
 * <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
-(<i>zky</i>܇<i>zkʾ </i>) Pael, `to make victorious': Judg 7:2.
+(<i>zky</i>܇<i>zkʾ </i>) Pael, `to make victorious’: Judg 7:2.
 
 Omitted: 1&nbsp;Sam 25:31; Josh 10:6; Isa 43:11.  
 
 Niphal:  
 
 * <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
-(<i>pārōqāʾ</i>), 'saviour, liberator': Zech 9:9;  
+(<i>pārōqāʾ</i>), ‘saviour, liberator’: Zech 9:9;  
 * <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span>
-(<i>purqānāʾ </i>), 'salvation': Deut 33:29; Isa 45:17;  
+(<i>purqānāʾ </i>), ‘salvation’: Deut 33:29; Isa 45:17;  
 * <span dir="rtl" lang="-">ܦܪܩ</span>
-(<i>prq</i>) Ethpe. 'to be saved': 2&nbsp;Sam 22:4; Isa 30:15; 45:22; 64:4; Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18;  
+(<i>prq</i>) Ethpe. ‘to be saved’: 2&nbsp;Sam 22:4; Isa 30:15; 45:22; 64:4; Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18;  
 * <span dir="rtl" lang="-">ܦܨܝ</span>
-(<i>pṣʾ </i>) Ethpa., 'to be saved': Num 10:9.  
+(<i>pṣʾ </i>) Ethpa., ‘to be saved’: Num 10:9.  
 
 
 <b>A.1</b>  The Pesh, as the Tg (see below), has a preference for the verb
@@ -904,7 +904,7 @@ deliverance from the Exile (e.g.Isa 49:25; Jer 30:7; cf. acts of history
 in A.2). It often seems to be a call for help when in danger (Isa 37:20)
 or for healing from sickness (e.g. of Hezekiah at Isa 38:20).
 
-
+<a id="6.A.8"></a>
 <b>A.8</b>  ישׁע appears most frequently in the book of Psalms (57x) in addition
 to 13 psalm-like passages elsewhere in the OT (for the latter see
 Sawyer 1082: 1055 [1990: 459]). 
@@ -1018,7 +1018,7 @@ enemies.
 
 <b>A.4</b>  In its breadth of application ישׁע is particularly close to עָזַר
 among the words for deliverance and as a result the translation ‘help’
-has sometimes been preferred (compare Exegesis A.8). But ישׁע also
+has sometimes been preferred (compare <a href="#6.A.8">Exegesis&nbsp;A.8</a>). But ישׁע also
 remains close to other words in the group such as הציל, as the
 (moderate) frequency of its use with מן attests, hence the continuing
 popularity of the rendering ‘save’ (and compare the Versions). The
@@ -1039,7 +1039,8 @@ victory. As such it came to occupy the original domain of עָזַר, ‘help’
 as well.
 
 
-<b>A.5</b>  It has also been suggested above (Exegesis A.8) that, while עָזַר
+<b>A.5</b>  It has also been suggested above 
+(<a href="#6.A.8">Exegesis&nbsp;A.8</a>) that, while עָזַר
 refers to the action done in its relational aspect, ישׁע refers to its
 effect or result.
 
@@ -1105,7 +1106,7 @@ Dallas, Tex.: Word Books.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dohmen 2013<br>   
-C. Dohmen,  Article on ישׁע <i>yšʿ</i> in <i>ThWQ</i>, vol. 2, 309-18.
+C. Dohmen,  ‘ישׁע <i>yšʿ</i>’, <i>ThWQ</i>, vol. 2: 309-18.
 	</div>
 
 
@@ -1124,9 +1125,9 @@ Basil Blackwell.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Fohrer 1964<br>   
-Georg Fohrer, “σῴζω und σωτηρία im Alten Testament” in: <i>ThWNT</i>
-vol. 7: 970-81.
+Fohrer 1964 [1971]<br>   
+Georg Fohrer, ‘σῴζω und σωτηρία im Alten Testament’, <i>ThWNT</i>
+vol. 7: 970-81 (ET 1971: <i>TDNT</i>, vol. 7: 970-980).
 	</div>
 
 
@@ -1154,7 +1155,7 @@ Pohl, 1) Rom: Päpstliches Bibelinstitut.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Hubbard 1997<br>   
-R.L. Hubbard, Article on ישׁע in: <i>NIDOTTE</i>, vol. 2: 556–62.
+R.L. Hubbard, ‘<span dir="rtl" lang="he">ישׁע</span>’, <i>NIDOTTE</i>, vol. 2: 556–62.
 	</div>
 
 
@@ -1174,27 +1175,27 @@ Erläuterungen</i>, 2 vols. (Vorderasiatische Bibliothek, 2/1, 2) Leipzig.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Kraus 1978<br>   
-Hans-Joachim Kraus, <i>Psalmen</i> (BKAT 000; 5th ed.), 
+Hans-Joachim Kraus, <i>Psalmen</i> (BKAT XV/1-2; 5th ed.), 
 Neukirchen: Neukirchener Verlag.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Lohse 1971<br>   
-Eduard Lohse, <i>Die Texte aus Qumran. Hebräisch und Deutsch</i> (2nd ed.),
+Eduard Lohse, <i>Die Texte aus Qumran. Hebräisch und Deutsch</i> (2nd ed.), 
 Munich: Kösel Verlag.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Milik 1956<br>   
-J.T. Milik, ‘Prière de Nabonide’ et autres écrits d’un cycle de
-Daniel: fragments araméens de Qumran 4, <i>RB</i> 63, 407–15.
+J.T. Milik, ‘ “Prière de Nabonide” et autres écrits d’un cycle de
+Daniel: fragments araméens de Qumran 4’, <i>RB</i> 63: 407–15.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Millard 2000<br>   
-A.R. Millard,  Article ‘Hadad-yithʿi (2:34)’, in: <i>CoS</i>, 
+A.R. Millard,  ‘Hadad-yithʿi (2:34)’, <i>CoS</i>, 
 vol. 2:  153–54.
 	</div>
 
@@ -1209,23 +1210,23 @@ Orientalium, 6), Wiesbaden: Harrassowitz.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Müller 1963 <br>   
-W.W. Müller, Altsüdarabische Beiträge zum hebräischen Lexikon,
-<i>ZAW</i> 75, 304-16.
+W.W. Müller, ‘Altsüdarabische Beiträge zum hebräischen Lexikon’,
+<i>ZAW</i> 75: 304-16.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Müller 1979 <br>   
-W.W. Müller, Abyataʿ und andere mit ytʿ gebildete Namen im
-Frühnordarabischen und Altsüdarabischen, <i>Die Welt des Orients</i>
-10, 23-29.
+W.W. Müller, ‘Abyataʿ und andere mit ytʿ gebildete Namen im
+Frühnordarabischen und Altsüdarabischen’, <i>Die Welt des Orients</i>
+10: 23-29.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Naveh & Magen 1997<br>   
-J. Naveh & Y. Magen, Aramaic and Hebrew inscriptions of the
-second-century BCE at Mount Gerizim. <i>Atiqot</i> 32, 37–56 [Hebrew], 9*–17*.
+J. Naveh & Y. Magen, ‘Aramaic and Hebrew inscriptions of the
+second-century BCE at Mount Gerizim’, <i>Atiqot</i> 32: 37–56 [Hebrew], 9*–17*.
 	</div>
 
 
@@ -1238,8 +1239,8 @@ Gemeinsemitischen Namengebung</i>. [BzWAT, 3/10] (Stuttgart: Kohlhammer).
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ryckmans 1934–35. <br>   
-G. Ryckmans, <i>Les noms propres sud-sémitiques</i>. [Bibliothèque
-du Muséon 2] (Louvain: Bureaux du Muséon).
+G. Ryckmans, <i>Les noms propres sud-sémitiques</i> (Bibliothèque
+du Muséon, 2), Louvain: Bureaux du Muséon.
 	</div>
 
 
@@ -1260,22 +1261,21 @@ John F.A. Sawyer, ‘Spaciousness. An Important Feature of Language about Salvat
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1972
 <br>
-John F.A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining Hebrew Words for Salvation</i>, (SBT 2nd series, 24), London: SCM Press.
+John F.A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining Hebrew Words for Salvation</i>, (SBT 2nd series, 24), London: SCM.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Sawyer 1975
-<br>
+Sawyer 1975<br>
 John F.A. Sawyer, ‘A Historical Description of the Hebrew Root <i>yšʿ</i>’, in: 
 James and Theodora Bynon (eds.),
 <i>Hamito-Semitica: Proceedings of a Colloquium Held by the Historical Section of the Linguistics Association (Great Britain) at the School of Oriental and African Studies, University of London, March 1970</i>
-(Janua Linguarum. Series Practica, 200), The Hague: Mouton,  75-84.
+(Janua Linguarum. Series Practica, 200), The Hague: Mouton, 75-84.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1982 [1990]
 <br>
-John F.A. Sawyer, 'ישׁע', in: <i>ThWAT</i>, vol. 3: 1035–59 
+John F.A. Sawyer, ‘ישׁע’, in: <i>ThWAT</i>, vol. 3: 1035–59 
 (ET 1990: <i>TDOT</i>, vol. 6: 441-63). 
 </div>
 
@@ -1290,8 +1290,8 @@ ed.), Leiden: Luchtmans and Le Mair.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Segert 1961<br>   
-Stanislav Segert, Die Sprache der moabitischen Königinschrift, 
-<i>Archiv Orientálni</i> 29, 197–268.
+Stanislav Segert, ‘Die Sprache der moabitischen Königinschrift’, 
+<i>Archiv Orientálni</i> 29: 197–268.
 	</div>
 
 
@@ -1299,12 +1299,12 @@ Stanislav Segert, Die Sprache der moabitischen Königinschrift,
 Smolar & Aberbach 1983<br>   
 L. Smolar, & M. Aberbach, <i>Studies in Targum Jonathan to the
 Prophets</i>. (The Library of Biblical Studies), 
-New York: Ktav Pub. House: Baltimore Hebrew College.
+New York: Ktav and Baltimore: Hebrew College.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Stolz 1971<br>   
-Stolz, F. 1971. ‘ישׁע <i>jšʿ</i> hi. Helfen’ in <i>THAT</i> vol. 1: 785-90.
+Stolz, F. 1971. ‘ישׁע <i>jšʿ</i> hi. Helfen’, <i>THAT</i> vol. 1: 785-90.
 	</div>
 
 
@@ -1317,7 +1317,7 @@ Fortress Press; Assen: Van Gorcum.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Watts 1987 <br>   
-James D.W. Watts, <i>Isaiah 34–66</i> (WBC, 25), Waco, Tex.: Word Books.
+James D.W. Watts, <i>Isaiah 34–66</i> (WBC, 25), Waco (TX): Word.
 	</div>
 
 
@@ -1330,4 +1330,4 @@ Claus Westermann, <i>Isaiah 40-66</i>, London: SCM.
 ## Notes
 
 
-[^*]: This article should be cited as: [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md), יָשַׁע – 'to save, help'
+[^*]: This article should be cited as: [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md), יָשַׁע – ‘to save, help’
