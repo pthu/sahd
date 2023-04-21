@@ -54,8 +54,11 @@ It is important to say that we are dealing with words that have such a
 <i>meaning</i>. There are other words which can <i>refer to</i> actions 
 of such a
 kind, although their meaning is somewhat different: for example, הוציא,
-‘bring out’, or העלה, ‘bring up’, with reference to the Exodus, שׁפט,
-‘judge’ and רפא, ‘heal’. We do not include them. There are also various
+‘bring out’, or העלה, ‘bring up’, with reference to the Exodus, 
+<span dir="rtl" lang="he">שׁפט</span>,
+‘judge’, and 
+<span dir="rtl" lang="he">רפא</span>,
+‘heal’. We do not include them. There are also various
 metaphors that may be used to represent deliverance, especially when the
 trouble is itself described metaphorically, as in Ps 18:17:
 
@@ -269,7 +272,7 @@ Their articles on the words studied here will be briefly
 surveyed, with special reference to controversial issues, before an
 overview of the SAHD entries themselves is given.
 
-[^7]: G.J. Botterweck, <i>et al.</i> (eds), <i>Theologisches Wörterbuch zum Alten Testament</i> (Stuttgart: Kohlhammer, 1970ff.) (<i>ThWAT</i> / <i>TDOT</i>); E. Jenni & C. Westermann (eds), <i>Theologisches Handwörterbuch zum Alten Testament</i> (Munich: Chr. Kaiser, and Zürich: Theologischer Verlag, 1971, 1976) (<i>THAT</i> / <i>TLOT</i>); W.A. VanGemeren (ed.), <i>New International Dictionary of Old Testament Theology and Exegesis</i> (Carlisle: Paternoster, 1996) (<i>NIDOTTE</i>). The occurrences in the Qumran texts are now much more fully treated in H.-J. Fabry & U. Dahmen (eds), <i>Theologisches Wörterbuch zu den Qumrantexten</i>, (Stuttgart: Kohlhammer, 2011-16) (<i>ThWQ</i>).
+[^7]: The occurrences in the Qumran texts are now much more fully treated in <i>ThWQ</i>.
 
 
 
@@ -335,7 +338,8 @@ subsequent action (or is it a summary word?). The distinction between
 all three articles, though <i>THAT</i> (Ruprecht 1978) 
 claims that there is no distinction of
 meaning when they are used in parallel, and <i>NIDOTTE</i> finds evidence of
-both ‘from’ and ‘to’ with פלט . For מלט it suggests ‘slip away safely’
+both ‘from’ and ‘to’ with <span dir="rtl" lang="he">פלט</span>.
+For מלט it suggests ‘slip away safely’
 as basic. The idea of ‘escape’ is central, but this is obscured by 
 LXX’s use of σῴζω.
 
@@ -349,7 +353,7 @@ The nuance of ‘force’ is well recognised in <i>ThWAT</i> (Reiterer 1989) and
 <i>NIDOTTE</i> and <!-- NB Check stijl!!!-->
 helps to distinguish it. There is no entry for it in <i>THAT</i>. <i>NIDOTTE</i>
 also sees ‘separation’ as involved in some cases (nouns in 1 Samuel 4 and
-Obad. 14; also the Daniel 4 BAram. occurrence).
+Obad 14; also the Daniel 4 BAram. occurrence).
 
 
 <u>8. גאל.</u>   
@@ -383,7 +387,10 @@ of Sawyer’s inner ‘lexical group’, plus
 and 
 <span dir="rtl" lang="he">פרק</span>. Among the less
 frequent members of the inner group we have not (yet) dealt with חלץ and
-פצה , but we recently decided to include פרק , mainly because of the
+<span dir="rtl" lang="he">פצה</span>,
+but we recently decided to include
+<span dir="rtl" lang="he">פרק</span>,
+mainly because of the
 widespread use of its Aramaic cognate to render various members of the
 lexical group in the Targums and the Peshitta. גאל and פדה were placed
 by Sawyer in the wider ‘associative’ field of words for salvation, but
@@ -493,7 +500,7 @@ account for the great majority of the occurrences. The Qal, Niphal (only
 at Qumran) and Hiphil are all rare. Williams argues that, as partly
 observed in earlier studies, the meaning is overwhelmingly ‘bring to
 safety’ (so that LXX σῴζω is a very appropriate equivalent; 
-Williams 2002).  <!--[^10] -->  
+Williams 2002). 
 He observes that the process of rescue from danger or trouble is reflected
 in what may be imagined as a semantic ‘line’, with the idea of escape
 from hostile forces at one end and arrival at a place of safety at the
@@ -567,7 +574,9 @@ makes the meanings of the two verbs clearly distinct.
 one in BAram.) belong to the semantic field of
 salvation/deliverance. In the majority of its uses it refers to the
 violent removal of an object, or part of an object, not a person: so
-‘tear off’. The noun פֶּרֶק, ‘plunder’ is clearly related to this
+‘tear off’. The noun
+<span dir="rtl" lang="he">פֶּרֶק</span>, 
+‘plunder’, is clearly related to this
 meaning. Other nouns refer to bones or joints, probably as ‘broken’
 parts of the body of a human or an animal. Where the verb is used with a
 personal object, the idea of violent removal could still be present,
@@ -623,25 +632,25 @@ account of what they may have to offer in this particular case.
 σῴζω is the clear preference for הושׁיע etc. and מלט (the latter
 especially with the Niphal). It also appears occasionally for 
 <span dir="rtl" lang="he">עזר</span>,
-<span dir="rtl" lang="he">הציל</span>, 
+<span dir="rtl" lang="he">הציל</span> 
 (esp. with the Niphal), פלט (where it is preferred by the Three) and
-פדה.  
+<span dir="rtl" lang="he">פדה</span>.
 It has a wide range of meaning, including ‘save from death’, ‘keep safe’
 and in the passive ‘be healed’ and ‘escape’. The associated nouns are
-often used in a religious sense.
+often used in a religious sense. 
 
-βοηθέω is regularly used for עזר etc., but also for הושׁיע.  
+βοηθέω is regularly used for עזר etc., but also for הושׁיע. 
 It means ‘help’, but also sometimes ‘come to the rescue’.
 
 ἐξαιρέω is one of the common equivalents for הציל, and it is also used
-for מלט and פלט.  
+for מלט and פלט. 
 It means ‘take out, take from’, and also ‘remove’, often in a negative
 sense but also (in the middle acc. LSJ) for ‘set free’.
 
 <span lang="el">ῥύομαι</span> is the other main equivalent for הציל and it is preferred for
 פלט. It sometimes appears as a rendering for הושׁיע and מלט, and
-occasionally for גאל (mainly in Isaiah where the subject is God) and
-פדה.  
+occasionally for גאל (mainly in Isaiah where the subject is God) and 
+<span dir="rtl" lang="he">פדה</span>.
 Its meaning in classical and later Greek is mainly ‘rescue, set free’
 and even ‘redeem’ (the sense ‘protect, defend’ is virtually confined to
 Homer). Unlike ἐξαιρέω, therefore, it is entirely used of a positive
@@ -651,7 +660,7 @@ outcome.
 difference that ἀγχιστεύω, ‘to be next of kin’, is also frequently used
 for גאל but not for פדה. λυτρόω/ομαι is also used for the cases of פרק
 which have a personal object, no doubt because of the sense ‘redeem’
-which that verb had in Aramaic.  
+which that verb had in Aramaic. 
 The meaning is ‘release on receipt of a ransom’ in the active and
 ‘release by the payment of a ransom, redeem’ in the middle.
 
@@ -677,7 +686,8 @@ recognises that this is not universal and the examples of ἀγχιστεύω 
 גאל help to identify a linguistic component that distinguishes these two
 verbs.
 
-[Our data on the <i>Jewish revisers</i> are unfortunately still patchy (with
+[Our data on the <i>Jewish revisers</i> (Aquila, Theodotion, Symmachus) 
+are unfortunately still patchy (with
 none at all on הושׁיע and הציל; but for the latter they tend towards
 ῥύομαι rather than ἐξαιρέω).[^12] The distinction between גאל and פדה by
 the use of ἀγχιστεύω for the former is more frequent in them. For פלט
@@ -694,9 +704,9 @@ notable differences.
 
 <i>salvo</i> is regularly used for הושׁיע and for the Piel forms not only of
 מלט but of פלט (see below on the renderings of other instances of these
-roots).  
+roots). 
 It is a late Latin word, derived from the classical adjective <i>salvus</i>,
-‘safe, sound’ and it is used in preference to the older <i>servo</i> (which
+‘safe, sound’, and it is used in preference to the older <i>servo</i> (which
 seems to mean ‘keep’ in the Vulgate).[^13] Perhaps it conveys a stronger
 sense of the normal state of well-being to which a person or group is
 being restored.
@@ -706,12 +716,11 @@ being restored.
 
 <i>auxilium/adiutorium</i> are used for the nouns from the root עזר, and the
 related verbs were often used for the verb, alongside a number of
-nominal renderings. They are sometimes found for הושׁיע too.  
-Lewis & Short, <i>LD</i> (p. 38) say that <i>adiuvo</i> is the general word, while <i>auxilior</i> is
-aid for the weak.
+nominal renderings. They are sometimes found for הושׁיע too. 
+Lewis & Short, <i>LD</i> (p. 38) say that <i>adiuvo</i> is the general word, while <i>auxilior</i> is aid for the weak.
 
 <i>eruo</i> is one of two common equivalents for הציל, but it seems not to be
-widely used otherwise (occasionally for פדה).  
+widely used otherwise (occasionally for פדה). 
 This verb, unlike ῥύομαι in Greek (and more like ἐξαιρέω), frequently
 has a neutral or even negative sense (like other compounds of <i>ruo</i>),
 but the positive use is also well attested: ‘rescue, release’. Still its
@@ -721,21 +730,20 @@ words in the lexical group.
 <i>libero</i> is also commonly used for הציל (especially the Niphal) and it
 appears occasionally for פדה and quite often for הושׁיע, though not as
 often as <i>salvo</i>. The neutral or negative senses of הציל are represented
-by various other words which mean ‘remove’ or ‘plunder’.  
+by various other words which mean ‘remove’ or ‘plunder’. 
 <i>libero</i>, from its association with <i>liber</i>, ‘free’, etc. has the
 primary sense of ‘free, release from slavery’, but it was also used much
 more widely of release from e.g. an obligation or a difficulty. It
 emphasises the cessation of trouble in the verbs it is used to
 translate.
 
-Words for ‘escape’ or ‘flee’ like <i>(ef)fugio</i> and <i>evado</i> are common as
-renderings of the Niphal of מלט and nouns derived from פלט.
+Words for ‘escape’ or ‘flee’ like <i>(ef)fugio</i> and <i>evado</i> are common as renderings of the Niphal of מלט and nouns derived from פלט.
 
 <i>redimo</i> is the most common equivalent for both גאל and פדה, but they
 are distinguished by the number of cases in which <i>propinquus</i> (in the
 sense ‘close relative’) is used for גאל and (phrases using) <i>pretium</i>
 for פדה, and not vice versa. פרק is also rendered by <i>redimo</i> in two of
-the three places where a person is the object.  
+the three places where a person is the object. 
 <i>redimo</i> means ‘buy back’ and particularly to ‘ransom’ a slave. The
 element of ‘recovery’ is, however, not always present and it could be
 used more generally for either ‘purchase’ or ‘acquire’.
@@ -757,7 +765,10 @@ Gen 32:31[30]) of <i>salvo</i> for הציל.
 The renderings of גאל and פדה (and פרק) again reflect both their
 similarity and difference.
 
-<b>Targums</b>: סְעַד and סיע (but not עדר) are naturally used for עזר, but
+
+
+<b>Targums</b>:  
+ סְעַד and סיע (but not עדר) are naturally used for עזר, but
 interestingly they are not used for הושׁיע.  
 The meaning of סְעַד according to Jastrow (<i>DTT</i>, 1009)
 is normally ‘assist, help’,
@@ -776,7 +787,7 @@ But there are two instances of נצחנא, ‘victory’, for הושׁיע, and f
 גאל
  there are two instances of קרב, indicating family relationship,
 while in the ‘vengeance’ passages גאל is retained as a loan-word in
-Tg<sup>O</sup> and Tg<sup>J</sup> and תְּבַע, ‘seek, claim’, is used in the
+Tg<small><sup>O</sup></small> and Tg<small><sup>J</sup></small> and תְּבַע, ‘seek, claim’, is used in the
 Palestinian Tgs. 
 The extensive use of פרק is made possible by its wide range of meaning
 in Aramaic (on this see further 1. Root and Comparative Material A.2 in
@@ -790,12 +801,14 @@ Targumic renderings.
  is the other expression that is frequently used. It is the
 regular equivalent for הציל (though רוק is used for the Piel and עדי for
 the Hithpael, and פְּצָא frequently appears in Psalms, Job and Proverbs),
-מלט and פלט, and it sometimes appears for גאל.  
-The meaning of 
-שֵׁיזֵ(י)ב
+<span dir="rtl" lang="he">מלט</span> and <span dir="rtl" lang="he">פלט</span>,
+and it sometimes appears for <span dir="rtl" lang="he">גאל</span>. The meaning of <span dir="rtl" lang="he">שֵׁיזֵ(י)ב</span>
 is ‘release, save’ (Jastrow, <i>DTT</i>, 1558), ‘save’ (CAL).
 
-פְּלַט is occasionally used for מלט and פלט.  
+
+<span dir="rtl" lang="he">פְּלַט</span> 
+is occasionally used for <span dir="rtl" lang="he">מלט</span> 
+and <span dir="rtl" lang="he">פלט</span>. 
 In Aramaic פְּלַט has the meanings ‘discharge (from the body)’ and
 ‘escape’ (Jastrow, <i>DTT</i>, 1179): CAL attributes the meanings ‘eject’ and 
 ‘escape’ to
@@ -805,8 +818,8 @@ use of Latin <i>effugio</i>), but not for others, since it lacks an active
 transitive use for ‘deliver’.
 
 פְּצָא
- is occasionally used. It is not found in Tg<sup>O</sup>, Tg<sup>J</sup>,
-Tg<sup>PsJ</sup> or apparently in the Palestinian Tgs. But it is
+ is occasionally used. It is not found in Tg<small><sup>O</sup></small>, Tg<small><sup>J</sup></small>,
+Tg<small><sup>PsJ</sup></small> or apparently in the Palestinian Tgs. But it is
 frequent in the Pss, Job and Proverbs, especially for הציל. This may be
 connected with the frequency of <i>pṣā</i> in the Peshitta (see below).
 
@@ -832,7 +845,7 @@ Targums, but there are some notable differences in the words employed.
 
 <i>ʿdar</i> is generally used for עזר, instead of סְעַד and סיע. The absence
 of the latter is the more surprising, as it exists in Syriac in the same
-sense. <i>ʿdar</i> is also very rarely used for הושׁיע.  
+sense. <i>ʿdar</i> is also very rarely used for הושׁיע. 
 The meaning of <i>ʿdr</i> is ‘help, assist’.
 
 <i>praq</i> is again the main equivalent for 
@@ -841,7 +854,7 @@ The meaning of <i>ʿdr</i> is ‘help, assist’.
 <span dir="rtl" lang="he">פדה</span>, 
 and Heb. <span dir="rtl" lang="he">פרק</span>.
 In the case of הושׁיע this extends to renderings of שׁוֹעַ and שׁוּעַ (cf.
-Vg x1, Tg x1). There are again two instances of הושׁיע being
+Vg 1x, Tg 1x). There are again two instances of הושׁיע being
 rendered by <i>nṣḥnʾ</i>, ‘victory’. For גאל <i>tbaʿ</i> again occurs in the
 ‘vengeance’ passages, but more surprisingly also in Ruth; and there are
 three instances of <i>qrab</i> being used to mark the ‘family’ dimension.
@@ -849,7 +862,7 @@ three instances of <i>qrab</i> being used to mark the ‘family’ dimension.
 
 <i>pṣā</i> is also widely used: it is the main equivalent for הציל and the
 Piel and Niphal forms of מלט and פלט (but not so prominently for the
-nouns). It is also found occasionally for הושׁיע and פדה.  
+nouns). It is also found occasionally for הושׁיע and פדה. 
 The meaning of <i>pṣā</i> is given as ‘deliver, set free’ by 
 Payne Smith (<i>CSD</i>, 454); CAL (under <i>pṣy</i>) gives ‘save’. 
 The latter’s citations
@@ -860,14 +873,14 @@ judge at least from our Peshitta data) it has largely displaced <i>šyzb</i>.
 
 <i>šyzb</i> is used for noun-forms from פלט and some instances of מלט and
 פדה,
-but not at all apparently for הציל.  
+but not at all apparently for הציל. 
 Payne Smith (<i>CSD</i>, 304–05) cites some derivatives,
 referring them to the root <i>yzb</i>, but its entry for the verb is as
 <i>šwzb</i> on p. 564. From the derivatives it looks as though it acquired a
 strongly (Christian) theological meaning in Syriac. It is given the
 meaning ‘save’ in CAL.
 
-<i>plṭ</i> is found occasionally for פלט and more frequently for מלט.  
+<i>plṭ</i> is found occasionally for פלט and more frequently for מלט. 
 In Syriac <i>plṭ</i> means ‘escape, slip away’ and in the Pael both ‘save’
 and ‘eject, vomit’.
 
@@ -919,7 +932,7 @@ other members of the group (but see above on הושׁיע).
 
 הציל.
 First, it may be noted that the minority sense ‘remove’ is
-recognised in some renderings of LXX (σκυλεύω), Vg and Tg The use
+recognised in some renderings of LXX (σκυλεύω), Vg and Tg. The use
 of ἐξαιρέω and <i>eruo</i> alongside ῥύομαι and <i>libero</i> might also be a
 reflection of this aspect of the word’s meaning: they are less common
 (though ἐξαιρέω at least does appear) as renderings of מלט and פלט,
@@ -932,7 +945,7 @@ strongly present in the regular renderings of
 and also 
 <span dir="rtl" lang="he">מלט</span>
 into Aramaic (Tg generally שׁיזב, but some cases of פצי in the
-Tg<sup>K</sup>; Pesh generally <i>pṣy</i>, but also <i>šyzb</i>).
+Tg<small><sup>K</sup></small>; Pesh generally <i>pṣy</i>, but also <i>šyzb</i>).
 
 מלט and פלט.
  LXX marks a distinction between these words (and
@@ -955,7 +968,7 @@ clear, from the use of ἀγχιστεύω and words like <i>propinquus</i> (t
 dimension appears only infrequently, it seems, in Tg and Pesh). In Tg
 and Pesh the reference to vengeance is marked either by the retention of
 גאל
- as a loanword (in Tg<sup>O</sup> and Tg<sup>J</sup>) or by the use of 
+ as a loanword (in Tg<small><sup>O</sup></small> and Tg<small><sup>J</sup></small>) or by the use of 
 <span dir="rtl" lang="he">תבע</span>/<i>tbʿ</i>
 (Palestinian Tgs and Pesh). 
 In Pesh <i>tbʿ</i> is, more surprisingly, also
@@ -964,7 +977,7 @@ someone. The wider sense of ‘deliverance’ is also recognised in some
 uses of ῥύομαι, <i>libero</i> and שׁיזב.
 
 פדה. See above on גאל and also on הושׁיע. The idea of payment is
-sometimes reinforced by <i>pretium</i> in Vg References to family
+sometimes reinforced by <i>pretium</i> in Vg. References to family
 connections do not appear in the Versions’ renderings. A more general
 meaning ‘deliver’ appears in the use of ῥύομαι or σῴζω, <i>libero</i> or
 <i>eruo</i> and <i>pṣy</i> or <i>šyzb</i>.
@@ -993,7 +1006,7 @@ and its links with הושׁיע are also reflected in the Versions.
 On the other hand our survey has exposed a tendency to blur the
 differences between the lexemes by the use of a restricted number of
 equivalents for them. This is particularly noticeable in the Tg and Pesh
-where two Aramaic words predominate in each case (the Tg<sup>K</sup> 
+where two Aramaic words predominate in each case (the Tg<small><sup>K</sup></small> 
 side with Pesh for some reason in the specific vocabulary used)
 and divide the group (with the exception of עזר) into two broad
 divisions. The Versions’ renderings also leave the position of הושׁיע
@@ -1475,25 +1488,25 @@ Biblical Hebrew’, in: John Barton (ed.), <i>Bible and Interpretation: The Coll
 <div style="padding-left: 22px; text-indent: -22px;">
 Barth 1977
 <br>
-Ch. Barth, 'חלץ', in: <i>ThWAT</i>, vol. 2: 1003–08.
+Ch. Barth, ‘חלץ’, in: <i>ThWAT</i>, vol. 2: 1003–08.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Bergmann 1978a
 <br>
-U. Bergmann, 'נצל hi. – retten', in: <i>THAT</i>, vol. 2: 96–99. 
+U. Bergmann, ‘נצל hi. – retten’, in: <i>THAT</i>, vol. 2: 96–99. 
 </div> 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Bergmann 1978b
 <br>
-U. Bergmann, 'עזר – helfen', in: <i>THAT</i>, vol. 2: 256–59. 
+U. Bergmann, ‘עזר – helfen’, in: <i>THAT</i>, vol. 2: 256–59. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Cazelles 1989
 <br>
-Henri Cazelles, 'פָּדָה', in: <i>ThWAT</i>, vol. 6: 514—22.
+Henri Cazelles, ‘פָּדָה’, in: <i>ThWAT</i>, vol. 6: 514—22.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1520,25 +1533,25 @@ Alison R. Gray, <i>Psalm 18 in Words and Pictures: A Reading through Metaphor</i
 <div style="padding-left: 22px; text-indent: -22px;">
 Hasel 1989
 <br>
-G.F. Hasel, 'פָּלַט', in: <i>ThWAT</i>, vol. 6: 589–606.
+G.F. Hasel, ‘פָּלַט’, in: <i>ThWAT</i>, vol. 6: 589–606.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Hossfeld and Kalthoff 1986
 <br>
-F.L. Hossfeld, and B. Kalthoff, 'נצל', in: <i>ThWAT</i>, vol. 5: 570–77.
+F.L. Hossfeld, and B. Kalthoff, ‘נצל’, in: <i>ThWAT</i>, vol. 5: 570–77.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 King 2012
 <br>
-Phillip D. King, <i>Surrounded by Bitterness: Image Schemas and Metaphors for Conceptualising Distress in Classical Hebrew</i> Eugene: Pickwick Publications.
+Phillip D. King, <i>Surrounded by Bitterness: Image Schemas and Metaphors for Conceptualising Distress in Classical Hebrew</i>, Eugene: Pickwick Publications.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Lipiński and Fabry 1989
 <br>
-Edward Lipiński, and Heinz-Josef Fabry, 'עזר', in: <i>ThWAT</i>, vol. 6: 14–21.
+Edward Lipiński, and Heinz-Josef Fabry, ‘עזר’, in: <i>ThWAT</i>, vol. 6: 14–21.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1549,7 +1562,7 @@ Leuven: Peeters.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Muraoka 1995b<br>
-Takamitsu Muraoka, ‘The Semantics of the LXX and its Role in Clarifying Ancient Hebrew Semantics’, in: Muraoka 1995, 19-32.
+Takamitsu Muraoka, ‘The Semantics of the LXX and its Role in Clarifying Ancient Hebrew Semantics’, in: Muraoka 1995a, 19-32.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1560,19 +1573,19 @@ Takamitsu Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> (AbrNSup, 6), Leuven
 <div style="padding-left: 22px; text-indent: -22px;">
 Reiterer 1989  
 <br>
-F. Reiterer, 'פָּרַק', in: <i>ThWAT</i>, vol. 6: 770—73.
+F. Reiterer, ‘פָּרַק’, in: <i>ThWAT</i>, vol. 6: 770—73.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ringgren 1973
 <br>
-Helmer Ringgren, 'גָּאַל', in: <i>ThWAT</i>, vol. 1: 884–90.
+Helmer Ringgren, ‘גָּאַל’, in: <i>ThWAT</i>, vol. 1: 884–90.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ruprecht 1978
 <br>
-E. Ruprecht, 'פלט pi. – retten', in: <i>THAT</i>, vol. 2: 420–27. 
+E. Ruprecht, ‘פלט pi. – retten’, in: <i>THAT</i>, vol. 2: 420–27. 
 </div> 
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1596,7 +1609,7 @@ John F. A. Sawyer, ‘Spaciousness. An Important Feature of Language about Salva
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1972
 <br>
-John F. A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining Hebrew Words for Salvation</i>, (SBT 2nd series, 24), London: SCM Press.
+John F. A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining Hebrew Words for Salvation</i> (SBT 2nd series, 24), London: SCM Press.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1611,7 +1624,7 @@ James and Theodora Bynon (eds.),
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1982
 <br>
-John F. A. Sawyer, 'ישׁע', in: <i>ThWAT</i>, vol. 3: 1035–59 (ET 1990: <i>TDOT</i>, 
+John F. A. Sawyer, ‘ישׁע’, in: <i>ThWAT</i>, vol. 3: 1035–59 (ET 1990: <i>TDOT</i>, 
 vol. 6: 441-63). 
 </div>
 
@@ -1624,19 +1637,19 @@ Johann J. Stamm, <i>Erlösen und Vergeben im Alten Testament</i>, Bern: Francke-
 <div style="padding-left: 22px; text-indent: -22px;">
 Stamm 1978a
 <br>
-Johann J. Stamm, 'גאל – erlösen', in: <i>THAT</i>, vol. 1: 383–94. 
+Johann J. Stamm, ‘גאל – erlösen’, in: <i>THAT</i>, vol. 1: 383–94. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Stamm 1978b
 <br>
-Johann J. Stamm, 'פדה – auslösen, befreien', in: <i>THAT</i>, vol. 2: 389–406.  
+Johann J. Stamm, ‘פדה – auslösen, befreien’, in: <i>THAT</i>, vol. 2: 389–406.  
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Stolz 1978
 <br>
-F. Stolz, 'ישׁע hi. – helfen', in: <i>THAT</i>, vol. 1: 785–90. 
+F. Stolz, ‘ישׁע hi. – helfen’, in: <i>THAT</i>, vol. 1: 785–90. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1654,14 +1667,14 @@ Francesco Zanella, <i>The Lexical Field of the Substantives of “Gift” in Anc
 <div style="padding-left: 22px; text-indent: -22px;">
 Zatelli 1979
 <br>
-Ida Zatelli, "L’ebraico biblico in alcune tendenze dell’attuale ricerca linguistica", <i>Henoch</i> 1: 246–71.
+Ida Zatelli, ‘L’ebraico biblico in alcune tendenze dell’attuale ricerca linguistica", <i>Henoch</i> 1: 246–71.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Zatelli 1995
 <br>
 Ida Zatelli, ‘Functional Languages and their Importance in the Semantics of Ancient Hebrew’, in: Muraoka 1995a, 55-64.
-</div>
+</div> 
 
 <!--
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1677,7 +1690,7 @@ Author, Title, etc.
 </div>
 -->
 
-### Notes
+## Notes
 
 
 

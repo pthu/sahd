@@ -346,7 +346,7 @@ td:nth-child(odd) {
   <tr>
   </tr>	
   	<td> σʹ </td>
-  	<td>  Symmachus </td>
+  	<td>  Symmachus</td>
   	<td> Tg<sup>K</sup> </td>
   	<td> Targum of the K<sup>e</sup>tubim</td>
   <tr>
@@ -434,26 +434,26 @@ td:nth-child(odd) {
   <tr>
   	<td> adj. </td>
   	<td>  adjective </td>
-  	<td> LMHeb. </td>
-  	<td>  late Hebrew (mishnaic)</td>   
-  </tr>   
-  <tr>
-  	<td>Akk. </td>
-  	<td> Akkadian </td>
   	<td> LN(N) </td>
   	<td>  locative name(s)</td>   
   </tr>   
   <tr>
-  	<td>Amor. </td>
-  	<td> Amorite </td>
+  	<td>Akk. </td>
+  	<td> Akkadian </td>
   	<td> loc. </td>
   	<td> locative</td>   
   </tr>   
   <tr>
-  	<td>Arab. </td>
-  	<td> Arabic </td>
+  	<td>Amor. </td>
+  	<td> Amorite </td>
   	<td> masc. </td>
   	<td>  masculine </td>   
+  </tr>   
+  <tr>
+  	<td>Arab. </td>
+  	<td> Arabic </td>
+  	<td> MHeb. </td>
+  	<td> Middle Hebrew </td>
   </tr>   
   <tr>
   	<td>
@@ -669,8 +669,8 @@ Assyr. </td>
  	</td>   
   </tr>   
   <tr>
-  	<td> MHeb. </td>
-  	<td> Middle Hebrew </td>
+  	<td> LMHeb. </td>
+  	<td>  late Hebrew (mishnaic)</td>   
   	<td>  </td>
   	<td> <br> 
  	</td>   

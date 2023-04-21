@@ -10,11 +10,9 @@ Semantic Fields:
 [BOTH THE HIPHIL AND THE RARER NIPHAL ARE DEALT WITH HERE.]
 
 For fuller discussion of the lexical field as a whole see on this site the 
-<a href="/sahd/semantic_fields/overview_deliverance">‘Overview
+<a href="/sahd/miscellaneous/overview_deliverance">‘Overview
 of SAHD entries for ‘Deliverance’ words</a>.
-<!--
-<a href="https://pthu.github.io/sahd/semantic_fields/overview_deliverance">‘Overview
--->
+
 
 ## Introduction
 
@@ -29,9 +27,9 @@ Occurrences: 205x HB (hiph.: 6/110/67; niph.: 2/12/7); 6x (or 7x?) Sir; 27x Qum.
 * Nebiim – niphal: 2 Sam 22:4; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16; Zech  9:9.
 * Ketubim - hiphil: Pss 3:8; 6:5; 7:2, 11; 12:2; 17:7; 18:28, 42; 20:7, 10; 22:22; 28:9; 31:3, 17; 34:7, 19; 36:7; 37:40; 44:4, 7, 8; 54:3; 55:17; 57:4; 59:3; 60:7; 69:2, 36; 71:2, 3; 72:4, 13; 76:10; 86:2, 16; 98:1; 106:8, 10, 21, 47; 107:13, 19; 108:7; 109:26, 31; 116:6; 118:25; 119:94, 146; 138:7; 145:19; Job 5:15; 22:29; 26:2; 40:14; Prov 20:22; Lam 4:17; Neh 9:27 (2x); 1 Chron 11:14; 16:35; 18:6, 13; 19:12, 19; 2 Chron 20:9; 32:22. 
 * Ketubim – niphal: Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18.
-* Sir: 4:9; add 13:6 (cf. DCH, Ges<sup>18</sup>)?; 33:1; 34:6; 48:20; 49:10; 51:3.
+* Sir: 4:9; add 13:6 (cf. DCH, Ges<small><sup>18</sup></small>)?; 33:1; 34:6; 48:20; 49:10; 51:3.
 * Qum: CD 5:19(A) (dupl. in 4Q267 2:2 and 6Q15 3:2); 9:9(A), 10(A);
-1QH<sup>a</sup> 10:25; (?) 11:6 (DCH = Sukenik 3:6); 1QM 10:4, 8; 11:3; 1QS
+1QH<small><sup>a</sup></small> 10:25; (?) 11:6 (DCH = Sukenik 3:6); 1QM 10:4, 8; 11:3; 1QS
 6:27; 4Q166 2:14; 4Q171 4:21; 4Q174 1:13; 4Q183 2:3; 4Q288 1:5; 4Q365 6a
 ii + 6c 3; 4Q372 1:16; 4Q380 1 ii 4; 4Q381 15:2; 31:2; 4Q385a 18 ii 10;
 4Q389 1 ii 3 (= 4Q387a 3 ii 11); 4Q417 22:2; 4Q511 10:9; 11QT 59:8, 11,
@@ -89,7 +87,7 @@ most frequently in Psalms and could be an alternative reading here to
 the noun.
 
 
-<b>B.5</b>  In 1QH<sup>a</sup> 11:6 <i>DCH</i> iv, 336 and <i>ThWQ</i> (vol. II, col. 316) read 
+<b>B.5</b>  In 1QH<small><sup>a</sup></small> 11:6 <i>DCH</i> iv, 336 and <i>ThWQ</i> (vol. II, col. 316) read 
 <span dir="rtl" lang="he">[הוש]עתה נפש[י]</span>, 
 recalling the language of 10:25. But many scholars do not adopt this
 conjecture (e.g. Dupont-Sommer 1961: 207, Lohse 1971: 120 [1QH 3:6]) and the <i>DSS.SE</i>, 164–65
@@ -143,7 +141,7 @@ with <i>wasiʿa</i>), Huffmon (1965: 215) and Stolz (1971: 786, citing Sawyer
 Sawyer originally presented his paper T.L. Fenton and H.W.F. Saggs had
 indicated their strong agreement with it (Sawyer 1975: 83-84).
 Significantly this view was adopted in the latest Hebrew lexicon to
-incorporate philological data (Ges<sup>18</sup>, 510 [1995]). Unfortunately the
+incorporate philological data (Ges<small><sup>18</sup></small>, 510 [1995]). Unfortunately the
 occurrences of <i>yṯʿ</i> do not give an independent indication of its
 meaning.
 
@@ -251,7 +249,7 @@ suggesting that the association may well be due to semantic
 considerations rather than related underlying etymologies (cf. Sawyer
 1965: 475 n. 5).
 
-[^1]: <i>Pace</i> Gesenius, <i>TPC</i>, 640, <span dir="rtl" lang="he">בְּיֵשַׁע</span> in Ps 12:6 need not mean ‘in a wide space’.
+[^1]: <i>Pace</i> Gesenius (<i>TPC</i>, 640), <span dir="rtl" lang="he">בְּיֵשַׁע</span> in Ps 12:6 need not mean ‘in a wide space’.
 [^2]: On such problems in general see Barr 1968: 86-91.
 
 
@@ -368,7 +366,7 @@ in spirit’ (Ps 34:19), אָדָם וּבְהֵמָה ‘man and beast’ (Ps 3
 צִיּוֹן ‘Zion’ (Ps 69:36), עֲנִיֵּי־עָם ‘the afflicted among the people’
 (Ps 72:4), נַפְשׁוֹת אֶבְיוֹנִים ‘the lives of the poor’ (Ps 72:13),
 כָּל־עַנְוֵי־אֶרֶץ ‘all the humble of the earth’ (Ps 76:10), עַבְדְּךָ
-‘your servant’ (Ps 86:2), בֶּן־אֲמָתְךָ ‘the son of your handmaid’ (Ps 86:16  [cf. 4Q381 15:2]), נפשי ‘my life’ (1QH<sup>a</sup> 10:23/25), היחד ‘the
+‘your servant’ (Ps 86:2), בֶּן־אֲמָתְךָ ‘the son of your handmaid’ (Ps 86:16  [cf. 4Q381 15:2]), נפשי ‘my life’ (1QH<small><sup>a</sup></small> 10:23/25), היחד ‘the
 community’ (4Q171 4:21), יוסף ‘Joseph’ (4Q372 1:16).
 
 
@@ -437,7 +435,7 @@ preposition <span dir="rtl" lang="he">בְּ</span> ‘in’ (2&nbsp;Sam 8:6, 14
 <span dir="rtl" lang="he">בְּרַב אוֹ בִמְעָט</span> 
 ‘by great or by little’(1&nbsp;Sam 14:6), 
 <span dir="rtl" lang="he">בְּחֶרֶב וּבַחֲנִית</span> ‘by sword and by spear’ (1&nbsp;Sam 17:47), 
-<span dir="rtl" lang="he">בְחַסְדֶּךָ</span> ‘by your loyalty’ (Ps 31:17; pl. in 1QH<sup>a</sup> 10:23/25), 
+<span dir="rtl" lang="he">בְחַסְדֶּךָ</span> ‘by your loyalty’ (Ps 31:17; pl. in 1QH<small><sup>a</sup></small> 10:23/25), 
 <span dir="rtl" lang="he">בְּצִדְקָתְךָ</span> ‘by your righteousness’ (Ps 71:2), 
 and <span dir="rtl" lang="he">בברית</span> ‘by covenant’ (4Q183 1 ii 3).
 
@@ -462,9 +460,8 @@ it is the predicate of and <span dir="rtl" lang="he">יהוה</span>
 
 
 <b>A.11</b> 
-<span dir="rtl" lang="he">ישׁע</span> hiphil is followed by <i>waw</i> +  
-<span dir="rtl" lang="he">עָזַר</span>
-(Josh 10:6).
+<span dir="rtl" lang="he">ישׁע</span> hiphil is followed by <i>waw</i> + 
+<span dir="rtl" lang="he">עָזַר</span> (Josh 10:6).
 
 
 <b>A.12</b> 
@@ -493,7 +490,7 @@ it is the predicate of and <span dir="rtl" lang="he">יהוה</span>
 <b>A.15</b> 
 <span dir="rtl" lang="he">ישׁע</span> niphal is joined by <i>waw</i> to 
 <span dir="rtl" lang="he">פָנָה</span> ‘to turn’ (Isa 45:22), 
-<span dir="rtl" lang="he">עָמַד</span> ‘to stand’ (Isa 47:13: cf. 1QH<sup>a</sup> 10:22-23).
+<span dir="rtl" lang="he">עָמַד</span> ‘to stand’ (Isa 47:13: cf. 1QH<small><sup>a</sup></small> 10:22-23).
 
 ## 4. Ancient Versions
 
@@ -501,28 +498,21 @@ it is the predicate of and <span dir="rtl" lang="he">יהוה</span>
 
 Hiphil:   
 ἀμύνομαι, 'to help and defend':[^3] Isa 59:16;  
-ἀνασώζω, 'to rescue':[^4] Zech 8:7;  
-\[[ἀπόλλυμι]], 'to destroy':[^5] Job 5:15;  
-βοηθέω, 'to aid, to help':[^6] Deut 22:27; 28:29, 31; Prov 20:22; 1&nbsp;Chr 19:19;  
-βοηθός:, 'helper, help'[^7] 2&nbsp;Sam 22:42;  
-διασώζω, 'to preserve, to save':[^8] Deut 20:4; Hos 13:10; Zech 8:13;  
-\[[εἰσακούω]], 'to give ear':[^9] Ps 55[54]:17;  
-ἐλεέω, 'to have pity on':[^10] Sir 33:1;  
-ἐξαιρέω, 'to take (out)':[^11] Josh 10:6; Sir 4:9;  
-λυτρόω, 'to redeem':[^12] Sir 48:20; 49:10;  
-ποιέω, 'to make, to bring about' \[+ σωτηρίαν, 'deliverance' = <span dir="rtl" lang="he">תְּשׁוּעָה</span>]:[^13] 1&nbsp;Chr 11:14;  
-ῥύομαι, 'to rescue':[^14] Exod 2:17; 14:30; Josh 22:22; Isa 49:25, 26; 63:5; Ezek 37:23;  
-σωτήρ, 'saviour, deliverer':[^15] Judg 3:9, 15; 1&nbsp;Sam 10:19; Isa 45:15, 21; Neh 9:27;  
-σωτηρία, 'deliverance, salvation':[^16] 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; Isa 38:20; 47:15; 63:8;  
-σωτήριον, 'deliverance, salvation':[^17] Isa 63:1;  
-σώζω, 'to save, to keep alive':[^18] Judg 2:16, 18; 3:9, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22; 10:1,
-12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam 4:3; 7:8; 9:16; 10:27; 11:3; 14:6, 23,
-39; 17:47; 23:2, 5; 25:26, 31 [+χεῖρα], 33; 2&nbsp;Sam 3:18; 8:6, 14; 10:11,
-19; 14:4; 22:3, 8; 2&nbsp;Kgs 6:26, 27 [2x]; 16:7; 19:19; Isa 19:20; 33:22;
-35:4; 37:20, 35; 43:3, 11, 12; 45:20 [pl]; 46:7; 47:13; 59:1; 60:16;
-63:9; Jer 2:27, 28; 11:12 [1x]; 14:8, 9; 15:20; 17:14; 31[38]:7;
-42[49]:11; 46[26]:27; Ezek 34:22; 36:29; Hos 1:7 [2x]; 13:4; 14:4; Obad 1:21
-[passive]; Hab 1:2; Zeph 3:17, 19; Zech 9:16; 10:6; 12:7; Ps 3:8; 6:5; 7:2,
+ἀνασώζω, 'to rescue': Zech 8:7;  
+\[[ἀπόλλυμι]], 'to destroy':[^4] Job 5:15;  
+βοηθέω, 'to aid, to help': Deut 22:27; 28:29, 31; Prov 20:22; 1&nbsp;Chr 19:19;  
+βοηθός:, 'helper, help': 2&nbsp;Sam 22:42;  
+διασώζω, 'to preserve, to save': Deut 20:4; Hos 13:10; Zech 8:13;  
+\[[εἰσακούω]], 'to give ear': Ps 55[54]:17;  
+ἐλεέω, 'to have pity on': Sir 33:1;  
+ἐξαιρέω, 'to take (out)': Josh 10:6; Sir 4:9;  
+λυτρόω, 'to redeem': Sir 48:20; 49:10;  
+ποιέω, 'to make, to bring about' \[+ σωτηρίαν, 'deliverance' = <span dir="rtl" lang="he">תְּשׁוּעָה</span>]:[^5] 1&nbsp;Chr 11:14;  
+ῥύομαι, 'to rescue': Exod 2:17; 14:30; Josh 22:22; Isa 49:25, 26; 63:5; Ezek 37:23;  
+σωτήρ, 'saviour, deliverer': Judg 3:9, 15; 1&nbsp;Sam 10:19; Isa 45:15, 21; Neh 9:27;  
+σωτηρία, 'deliverance, salvation': 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; Isa 38:20; 47:15; 63:8;  
+σωτήριον, 'deliverance, salvation': Isa 63:1;  
+σώζω, 'to save, to keep alive': Judg 2:16, 18; 3:9, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam 4:3; 7:8; 9:16; 10:27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26, 31 [+χεῖρα], 33; 2&nbsp;Sam 3:18; 8:6, 14; 10:11, 19; 14:4; 22:3, 8; 2&nbsp;Kgs 6:26, 27 [2x]; 16:7; 19:19; Isa 19:20; 33:22; 35:4; 37:20, 35; 43:3, 11, 12; 45:20 [pl]; 46:7; 47:13; 59:1; 60:16; 63:9; Jer 2:27, 28; 11:12 [1x]; 14:8, 9; 15:20; 17:14; 31[38]:7; 42[49]:11; 46[26]:27; Ezek 34:22; 36:29; Hos 1:7 [2x]; 13:4; 14:4; Obad 1:21 [passive]; Hab 1:2; Zeph 3:17, 19; Zech 9:16; 10:6; 12:7; Ps 3:8; 6:5; 7:2,
 11; 12[11]:2; 17[16]:7; 18[17]:28, 42; 20[19]:7, 10; 22[21]:22;
 28[27]:9; 31[30]:3, 17; 34[33]:7, 19; 36[35]:7; 37[36]:40; 44[43]:4, 7,
 8; 54[53]:3; 57[56]:4; 59[58]:3; 60[59]:7; 69[68]:2, 36; 71[70]:2, 3;
@@ -531,22 +521,9 @@ Hiphil:
 119[118]:94, 146; 138[137]:7; 145[144]:19; Job 22:29; 40:14; Lam 4:17; Neh
 9:27; 1&nbsp;Chr 16:35; 18:6, 13; 19:12; 2&nbsp;Chr 20:9; 32:22.  
 
-[^3]: <i>GELS</i>, 33; LEH<sup>3</sup>: 34.
-[^4]: <i>GELS</i>, 46; LEH<sup>3</sup>: 44.
-[^5]: <i>GELS</i>, 78; LEH<sup>3</sup>: 70, 'let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves'. 
-[^6]: <i>GELS</i>, 119; LEH<sup>3</sup>: 109.
-[^7]: <i>GELS</i>, ; LEH<sup>3</sup>: 109.
-[^8]: <i>GELS</i>, ; LEH<sup>3</sup>: 147.
-[^9]: <i>GELS</i>, 198; LEH<sup>3</sup>, 175. 
-[^10]: <i>GELS</i>, ; LEH<sup>3</sup>, 192.
-[^11]: <i>GELS</i>, ; LEH<sup>3</sup>, 209.
-[^12]: <i>GELS</i>, ; LEH<sup>3</sup>, 378.
-[^13]: <i>GELS</i>, ; LEH<sup>3</sup>, 501, 603; cf. <i>NETS</i>.
-[^14]: <i>GELS</i>, ; LEH<sup>3</sup>, 544.
-[^15]: <i>GELS</i>, ; LEH<sup>3</sup>, 603.
-[^16]: <i>GELS</i>, ; LEH<sup>3</sup>, 603.
-[^17]: <i>GELS</i>, ; LEH<sup>3</sup>, 603.
-[^18]: <i>GELS</i>, ; LEH<sup>3</sup>, 602.
+[^3]: The English rendering of the Greek words is based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>.
+[^4]: <i>GELS</i>, 78; LEH<small><sup>3</sup></small>: 70, 'let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves'. 
+[^5]: <i>GELS</i>, ; LEH<small><sup>3</sup></small>, 501, 603; cf. <i>NETS</i>.
 
 Omitted: 2&nbsp;Kgs 19:34; Isa 25:9; Job 26:2?; Sir 34:6.  
 
@@ -580,33 +557,34 @@ the noun ἔλεος in the LXX for translating the nouns
 <span dir="rtl" lang="he">יְשׁוּעָה</span> (Sir).
 
 
-<b>A.3</b>  For the active of σώζω to translate the Niphal at Zech 9:9, see
-Targum.
+<b>A.3</b>  For the active of σώζω to translate the Niphal at Zech 9:9, see Tg.
 
-
-<b>B.1</b>  ἀπόλλυμι at Job 5:15 is probably an attempt to explain a difficult
-syntax, or arose from a corruption to יגוע ‘to let perish’ 
-(LEH<sup>1</sup>: 53).
+<b>B.1</b>  ἀπόλλυμι at Job 5:15 is probably an attempt to explain a difficult syntax, or arose from a corruption to יגוע ‘to let perish’ 
+(LEH<small><sup>1</sup></small>, 53; LEH<small><sup>3</sup></small>, 70).
 
 
 <b>B.2</b>  The MT reading of נושׁע at Isa 64:4 has been confirmed by the text of
-1QIs<sup>a</sup> (cf. Pesh, Tg and Vg), although the LXX πλανάομαι ‘to wander,
+1QIs<small><sup>a</sup></small> (cf. Pesh, Tg and Vg), although the LXX πλανάομαι ‘to wander,
 stray’ could imply the reading נפשׁע ‘we have erred’ (Westermann
-1969: 391; LEH<sup>1</sup>: 378). Some scholars have indeed suggested the
+1969: 391; LEH<small><sup>1</sup></small>: 378). Some scholars have indeed suggested the
 emendation נרשׁע ‘we have become wicked’ (e.g. Cheyne 1899: 73, 171; <i>BHS</i>),
 although others have followed the MT (e.g. Watts 1987: 238).
 
 <b>b.</b> Peshitta:
 
 Hiphil:  
-<i>ṭābāʾ</i>: Isa 43:11;  
-<i>ʿbad pōrqānāʾ</i>: 2&nbsp;Sam 3:18;
-<i>ʿbad</i> \[+ <i>neṣḥānāʾ</i> = תְּשׁוּעָה]: in: 1&nbsp;Chr 11:14 [cf. LXX];  
-<i>ʿdar</i>: 2&nbsp;Sam 10:11, 19; 1&nbsp;Chr 19:19;  
-Aphel <i>npq</i>: Ps 107:19;  
-<i>pṣʾ</i>: Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3; Hab 1:2; Ps 34:7; 119:94; 1&nbsp;Chr
-19:12;  
-<i>praq</i>: Exod 2:17; 14:30; Deut 20:4; 28:29; Josh 22:22; Judg 2:16, 18; 3:9,
+<!--(<i>ṭābāʾ</i>), :--><span dir="rtl" lang="-">ܥܒܕ ܦܘܪܩܢܐ</span>
+(<i>ʿbad purqānāʾ</i>), 'to bring salvation': 2&nbsp;Sam 3:18;  
+<span dir="rtl" lang="-">ܥܒܕ ܢܨܚܢܐ</span>
+(<i>ʿbad</i>) \[+ <i>neṣḥānāʾ</i> = תְּשׁוּעָה], to bring victory': in: 1&nbsp;Chr 11:14 [cf. LXX];  
+<span dir="rtl" lang="-">ܥܕܪ</span>
+(<i>ʿdar</i>), 'to help, to aid': 2&nbsp;Sam 10:11, 19; 1&nbsp;Chr 19:19;  
+<span dir="rtl" lang="-">ܢܦܩ</span>
+(<i>npq</i>) Aphel, 'to bring out': Ps 107:19;  
+<span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
+(<i>pṣy</i>/<i>pṣʾ</i>) Pael \`to save, to deliver': Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3; Hab 1:2; Ps 34:7; 119:94; 1&nbsp;Chr 19:12;  
+<span dir="rtl" lang="-">ܦܪܩ</span>
+(<i>prq</i>), 'to save, to liberate': Exod 2:17; 14:30; Deut 20:4; 28:29; Josh 22:22; Judg 2:16, 18; 3:9,
 31; 6:14, 15, 36, 37; 7:7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam
 4:3; 7:8; 9:16; 10:19, 27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26,
 33; 2&nbsp;Sam 8:6, 14; 14:4; 22:3, 28; 2&nbsp;Kgs 6:26, 27 [2x]; 14:27; 16:7; 19:19,
@@ -619,34 +597,47 @@ Aphel <i>npq</i>: Ps 107:19;
 109:26, 31; 116:6; 118:25; 119:146; 138:7; 145:19; Job 5:15; 22:29; 26:2;
 40:14; Prov 20:22; 1&nbsp;Chr 16:35; 18:6, 13; 2&nbsp;Chr 20:9; 32:22; 
 Sir 34:6; 48:20; 49:10;  
-<i>pārōqāʾ</i>: Judg 3:9, 15; 2&nbsp;Sam 22:42; 2&nbsp;Kgs 13:5; Isa 19:20; 43:3; 45:15,
-21; 49:26; 60:16; 63:8; Zeph 3:17; Ps 17:7; 18:42;  
-<i>šzb</i>: Sir 51:3;  
-<i>zkāʾ</i>: Judg 7:2.
+<span dir="rtl" lang="-">ܦܪܘܩܐ</span>
+(<i>pārōqāʾ</i>), 'saviour, liberator': Judg 3:9, 15; 2&nbsp;Sam 22:42; 2&nbsp;Kgs 13:5; Isa 19:20; 43:3; 45:15, 21; 49:26; 60:16; 63:8; Zeph 3:17; Ps 17:7; 18:42;  
+<span dir="rtl" lang="-">ܫܘܙܒ</span>
+(<i>šwzb</i>), 'to save, deliver, preserve': Sir 51:3;   
+<span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
+(<i>zky</i>܇<i>zkʾ</i>) Pael, `to make victorious': Judg 7:2.
 
-Omitted: 1&nbsp;Sam 25:31; Josh 10:6.  
+Omitted: 1&nbsp;Sam 25:31; Josh 10:6; Isa 43:11.  
 
 Niphal:  
-<i>pārōqāʾ</i>: Zech 9:9;  
-<i>pōrqānāʾ</i>: Deut 33:29; Isa 45:17;  
-Ethpe. <i>prq</i>: 2&nbsp;Sam 22:4; Isa 30:15; 45:22; 64:4; Ps 18:4; 33:16; 80:4, 8,
-20; 119:117; Prov 28:18;  
-Ethpe. <i>pṣʾ</i>: Num 10:9.  
+<span dir="rtl" lang="-">ܦܪܘܩܐ</span>
+(<i>pārōqāʾ</i>), 'saviour, liberator': Zech 9:9;  
+<span dir="rtl" lang="-">ܦܘܪܩܢܐ</span>
+(<i>purqānāʾ</i>), 'salvation': Deut 33:29; Isa 45:17;  
+<span dir="rtl" lang="-">ܦܪܩ</span>
+(<i>prq</i>) Ethpe. 'to be saved': 2&nbsp;Sam 22:4; Isa 30:15; 45:22; 64:4; Ps 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18;  
+<span dir="rtl" lang="-">ܦܪܘܩܐ</span>
+(<i>pṣʾ</i>) Ethpe., 'to be saved': Num 10:9.  
 
 
 <b>A.1</b>  The Pesh, as the Tg (see below), has a preference for the verb
-<i>praq</i>. The rendering <i>šzb</i>, popular with some lexemes in the semantic
-field, is found only once (Sir 51:3). <i>pṣʾ</i> appears slightly more
+<span dir="rtl" lang="-">ܦܪܩ</span>
+(<i>prq</i>). The rendering <span dir="rtl" lang="-">ܫܘܙܒ</span>
+(<i>šwzb</i>), popular with some lexemes in the semantic
+field, is found only once (Sir 51:3). 
+<span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
+(<i>pṣy</i>/<i>pṣʾ</i>) appears slightly more
 frequently, but is still an infrequent equivalent.
 
-<b>A.2</b>  The Aphel <i>npq</i> ‘to bring forth’ (Ps 107:19) denotes some movement
+<b>A.2</b>  <span dir="rtl" lang="-">ܢܦܩ</span>
+(<i>npq</i>) Aphel, ‘to bring out’ (Ps 107:19) denotes some movement
 in the action of the verb, but this equivalent also appears only once.
 
 <b>A.3</b>  The meaning of bringing assistance is found in the translations
-<i>zkāʾ</i> (Judg 7:2) and <i>ʿdar</i> (2&nbsp;Sam 10:11, 19; 1&nbsp;Chr 19:19).
+<span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
+<i>zky</i>܇<i>zkʾ</i> Pael (Judg 7:2) and <span dir="rtl" lang="-">ܥܕܪ</span> (<i>ʿdar</i>; 2&nbsp;Sam 10:11, 19; 1&nbsp;Chr 19:19).
 
-<b>A.4</b>  The translation <i>pārōqāʾ</i> ‘saviour’ is found frequently, for the
-most part to render the ptc. מוֹשִׁיעַ.
+<b>A.4</b>  The translation <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
+(<i>pārōqāʾ</i>), ‘saviour’, is found frequently, for the
+most part to render the ptc.
+<span dir="rtl" lang="he">מוֹשִׁיעַ</span>.
 
 <b>c.</b> Targum:
 
@@ -663,12 +654,11 @@ Judg 2:16, 18; 3:9 [2x], 15, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22;
 9:16; 10:6; 12:7; 1&nbsp;Chr 11:14; 16:35; 18:6, 13; 19:12, 19; 2&nbsp;Chr 20:9;
 32:22;  
 Af פרק: Hos 1:7;  
-    פורקנא
-    : 2&nbsp;Sam 22:3?)  
-  שׁיזב: Obad 1:21.
+<span dir="rtl" lang="he">פורקנא</span>: 2&nbsp;Sam 22:3(?);  
+<span dir="rtl" lang="he">שׁיזב</span>: Obad 21.
 
 Niphal:  
-  פרק: 2&nbsp;Sam 22:4; Zech 9:9;
+<span dir="rtl" lang="he">פרק</span>: 2&nbsp;Sam 22:4; Zech 9:9;  
 Af פרק: O – Num 10:9; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14;
 23:6; 30:7; 33:16;  
   פורקנא: O – Deut 33:29)``.
@@ -760,7 +750,7 @@ liberabat</i> will be the rendering of והושׁיעם (cf. v. 16).
 <b>A.1</b>  Both in the Bible and at Qumran ישׁע is often found in parallelism or
 close association with other members of the deliverance’ group: e.g. נצל
 (Ps 7:2; 4Q171 4:21), פלט (Ps 37:40), עזר (Ps 37:40), פדה (Ps 55:17;
-11QT<sup>a</sup> 59:11), גאל (Isa 49:26; Ps 106:10), מלט (Ps 107:19; 4Q183 1 ii
+11QT<small><sup>a</sup></small> 59:11), גאל (Isa 49:26; Ps 106:10), מלט (Ps 107:19; 4Q183 1 ii
 3), and also חלץ (Ps 6:5; 34:7; 60:7=108:7).
 
 
@@ -934,7 +924,7 @@ elsewhere (CD 5:19; 4Q372 1:16; 4Q385a 18 ii 10; 4Q389 1 ii 3). The
 reuse of the idiom discussed in A.4 suggests its continued use in
 everyday speech, but ישׁע hiph is not a prominent expression of
 contemporary prayer or liturgy: there is only one secure occurrence in
-1QH<sup>a</sup> and three more in other texts (4Q380 1 ii 4; 4Q381 31:2; 4Q511
+1QH<small><sup>a</sup></small> and three more in other texts (4Q380 1 ii 4; 4Q381 31:2; 4Q511
 10:9). The contrast with the biblical psalms could not be greater, and
 perhaps reflects its infrequency in LBH and as a loan-word in Aramaic
 other than Samaritan Aramaic (Sawyer 1975:80). But the seven occurrences

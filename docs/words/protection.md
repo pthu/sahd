@@ -7,11 +7,9 @@ Semantic Fields:
 [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)[^*]<br>
 
 For fuller discussion of the lexical field as a whole see on this site the 
-<a href="/sahd/semantic_fields/overview_deliverance">‘Overview
+<a href="/sahd/miscellaneous/overview_deliverance">‘Overview
 of SAHD entries for ‘Deliverance’ words</a>.
-<!--
-<a href="https://pthu.github.io/sahd/semantic_fields/overview_deliverance">‘Overview
--->
+
 
 ## Introduction
 
@@ -28,16 +26,16 @@ Occurrences: 79x HB (4/25/50); 1x Sir; 23x (+ 6 pars.) Qum.;, 0x inscr. (Total: 
 69:30; 70:5; 74:12; 78:22; 80:3; 88:2; 89:27; 91:16; 96:2; 98:2, 3;
 106:4; 116:13; 118:14, 15, 21; 119:123, 155, 166, 174; 140:8; 149:4; Job
 13:16; 30:15; 1 Chron 16:23; 2 Chron 20:17. 78.
-* Qum.: CD 20:34; 1QH<sup>a</sup> 6:5; 7:19; 19:23 (= 4QH<sup>a</sup> 1:5); 20:3 (=
-4QH<sup>a</sup>3:2-3); 26:10 (= 4QH<sup>a</sup> 7 i 14); 1QS 1:19; 10:17 (= 4QS<sup>b</sup> 20:6;
-4QS<sup>f</sup> 4:4); 11:12; 1QM 1:5; 4:13; 13:13; 14:5; 18:7; 4Q185 2:13; 4Q381 15:9; 4Q438 4 ii+5:3; 4Q491 (4QM<sup>a</sup>) 11 ii 17 (cf. 1QM 16:16ff.); 15:7; 4Q503 48-50:6; 4Q511 1:5; 10:8.  
+* Qum.: CD 20:34; 1QH<small><sup>a</sup></small> 6:5; 7:19; 19:23 (= 4QH<small><sup>a</sup></small> 1:5); 20:3 (=
+4QH<small><sup>a</sup></small>3:2-3); 26:10 (= 4QH<small><sup>a</sup></small> 7 i 14); 1QS 1:19; 10:17 (= 4QS<small><sup>b</sup></small> 20:6;
+4QS<small><sup>f</sup></small> 4:4); 11:12; 1QM 1:5; 4:13; 13:13; 14:5; 18:7; 4Q185 2:13; 4Q381 15:9; 4Q438 4 ii+5:3; 4Q491 (4QM<small><sup>a</sup></small>) 11 ii 17 (cf. 1QM 16:16ff.); 15:7; 4Q503 48-50:6; 4Q511 1:5; 10:8.  
 No context: 4Q511 38:3.
 * Sir.: 32:25(B) (Beentjes, <i>BBSH</i>, 35:25)
 * Text doubtful: —
 
 
 <b>B.1</b>  <i>ThWQ</i>: 315 assumes the restoration עתי אשר תרים למצער[ישו ] in
-1QH<sup>a</sup> 14:10-11 (its numbering: ll. 7-8 in the <i>DSS.SE</i>). 
+1QH<small><sup>a</sup></small> 14:10-11 (its numbering: ll. 7-8 in the <i>DSS.SE</i>). 
 <!-- CHECK numbering-->
 It is not clear how אשר can be
 fitted into this restoration: the alternative (in Lohse as well as the
@@ -63,7 +61,7 @@ with both stative (גְּבוּרָה, מְלוּכָה) and passive (שְׁבו�
 meanings. Other such formations seem to be related to the qal stem,
 which is not attested in BH for ישׁע.
 
-<b>A.2</b>  12x in plural in OT (9x Ps, 2x Is, 1x 2Sm), 8x in Qum (1QH<sup>a</sup>
+<b>A.2</b>  12x in plural in OT (9x Ps, 2x Is, 1x 2Sm), 8x in Qum (1QH<small><sup>a</sup></small>
 19:23; 1QS 1:19; 1QM 4:13; 18:7; 4Q185 2:13; 4Q438 4 ii+5:3; 4Q511 1:5;
 10:8).
 
@@ -94,19 +92,19 @@ make known’ (Ps 98:2).
 <b>A.3</b>  יְשׁוּעָה is governed by קוה piel + לְ to await’ (Gn 49:18; Is
 59:11), שָׂמַח + בְּ ‘to rejoice in’ (1Sm 2:1; Is 25:9; Sir 32/35:25),
 גִיל + בְּ ‘to rejoice in’ (Ps 9:15; 13:6; 21:2; 4Q511 1:5), רנן piel +
-בְּ ‘to shout about’ (Ps 20:6; 1QH<sup>a</sup> 26:10; 1QS 10:17), שׂוּשׂ + בְּ ‘to
-rejoice in’ (Ps 35:9; 1QM 13:13), זמר + בְּ ‘to sing of’ (1QH<sup>a</sup>
+בְּ ‘to shout about’ (Ps 20:6; 1QH<small><sup>a</sup></small> 26:10; 1QS 10:17), שׂוּשׂ + בְּ ‘to
+rejoice in’ (Ps 35:9; 1QM 13:13), זמר + בְּ ‘to sing of’ (1QH<small><sup>a</sup></small>
 19:23), בָּטַח + בְּ ‘to trust in’ (Ps 78:22), הָלַךְ + לְ ‘to come to’
 (Ps 80:3), ראה + בְּ ‘to see’ (CD 20:34), ראה hiph + בְּ ‘to cause to
 see’ (Ps 91:16), שׂבר piel + לְ ‘to hope for’ (Ps 119:166), תָּאַב + לְ
-‘to long for’ (Ps 119:174), and צָפָה + לְ ‘to look for’ (1QH<sup>a</sup> 6:5).
+‘to long for’ (Ps 119:174), and צָפָה + לְ ‘to look for’ (1QH<small><sup>a</sup></small> 6:5).
 It is also the indirect object of פאר piel + בְּ ‘to adorn with’ (Ps
 149:4).
 
 
 <b>A.4</b>  יְשׁוּעָה is nomen regens of יהוה ‘Lord’ (Exod 14:13; 2Ch 20:17),
 אֱלֹהִים ‘God’ (Is 52:10; Ps 98:3), יִשְׂרָאֵל ‘Israel’ (Ps 14:7), and of
-עולם ‘eternity’ (1QH<sup>a</sup> 7:19). The plural of יְשׁוּעָה is nomen regens
+עולם ‘eternity’ (1QH<small><sup>a</sup></small> 7:19). The plural of יְשׁוּעָה is nomen regens
 of מֶלֶךְ ‘king’ (2Sm 22:51), מָשִׁיחַ ‘anointed’ (Ps 28:8 [with
 מָעוֹז]), פנה ‘face’ (Ps 42:6, 12; 43:5), יַעֲקוֹב Jacob (Ps 44:5),
 יִשְׂרָאֵל ‘Israel’ (Ps 53:7 [contrast Ps 14:7]).
@@ -121,9 +119,9 @@ of מֶלֶךְ ‘king’ (2Sm 22:51), מָשִׁיחַ ‘anointed’ (Ps 28:8 
 ‘stronghold’ (Ps 28:8), inf cstr of יָדַע ‘to know’ (Ps 67:3), כּוֹס
 ‘cup’ (Ps 116:13), אל ‘God’ (1QS 1:19; 1QM 4:13), שׁער ‘gate’ (1QM 18:7),
 רוח ‘spirit’ (4Q438 4 ii+5:3), רנה ‘jubilation’ (4Q511 1:5), and כנור
-harp’ (1QH<sup>a</sup> 19:23; 4Q511 10:8). Although יְשׁוּעָה is often used of
+harp’ (1QH<small><sup>a</sup></small> 19:23; 4Q511 10:8). Although יְשׁוּעָה is often used of
 God (referred to by a suffix in (e.g.) Is 51:6; Ps 98:2; at Qumran CD
-20:34; 1QH<sup>a</sup> 6:5; 1QS 10:17; 1QM 13:13; 4Q 185 2:13; 4Q381 15:9; Sir
+20:34; 1QH<small><sup>a</sup></small> 6:5; 1QS 10:17; 1QM 13:13; 4Q 185 2:13; 4Q381 15:9; Sir
 32/35:25[?]), it is very rarely the nomen rectum of אֱלֹהִים, which is a
 significant contrast to יֵשַׁע. In view of the number of occurrences of
 יְשׁוּעָה it is surprising how rarely it ever serves as nomen rectum. In
@@ -134,7 +132,7 @@ significant contrast to יֵשַׁע. In view of the number of occurrences of
 <b>A.6</b>  יְשׁוּעָה is found in a nominal clause withבְּעֵת צָרָה ‘in the time
 of distress’ (Is 33:2), לַיהוה ‘to the Lord’ (Jn 2:10; Ps 3:9), אֲני ‘I
 [= God]’ (Ps 35:3), מִמֶּנּוּ ‘from him’ (Ps 62:2), לִי ‘for me’ (Jb
-13:16), and לעמו ‘for his [God’s] people’ (4Q491(4QM<sup>a</sup>) 11 ii 17;
+13:16), and לעמו ‘for his [God’s] people’ (4Q491(4QM<small><sup>a</sup></small>) 11 ii 17;
 15:7).
 
 
@@ -322,8 +320,8 @@ are often thought to mean ‘deliverance’ or ‘vindication’ in such cases)
 and occasionally words for justice (מִשְׁפָּט [Is 59:11]) or revenge
 (נָקָם [Is 59:17]) and the expression שׁוּב שְׁבוּת (Is 52:7; Ps
 14:7=52:7: ‘restoration’?); at Qumran additionally כפר ‘atone’ (CD
-20:34); שׁלום עד ‘everlasting peace’ (1QH<sup>a</sup> 7:19; cf. 1QM 13:13; 4Q503
-48-50:6); כבוד ‘glory’ (1QH<sup>a</sup> 20:3); משענה ‘support’ (1QM 4:13); עזר
+20:34); שׁלום עד ‘everlasting peace’ (1QH<small><sup>a</sup></small> 7:19; cf. 1QM 13:13; 4Q503
+48-50:6); כבוד ‘glory’ (1QH<small><sup>a</sup></small> 20:3); משענה ‘support’ (1QM 4:13); עזר
 and עזרה ‘help’ (1QM 4:13; 13:13); נצח ‘victory’ (1QM 4:13); פלא
 ‘wonder’ (1QM 18:7); רחמי אל ‘the mercies of God’ (4Q511 10:8); and in
 Sir ריב ב[רי] ‘maintain the cause’ (32/35:25).
@@ -370,11 +368,11 @@ regard. It may be that the shorter form was more adept to this use.
 
 
 <b>A.5</b>  At Qumran יְשׁוּעָה takes on a strongly eschatological aspect,
-especially in CD 20:34, 1QH<sup>a</sup> and of course 1QM. This is also attested
+especially in CD 20:34, 1QH<small><sup>a</sup></small> and of course 1QM. This is also attested
 in Sir 32/35:25. In some passages, however, it seems to be used of the
 present experience of the righteous whose worship brings them into
-fellowship with heavenly beings (1QH<sup>a</sup> 20:3 = 4QH<sup>a</sup> 3:2-3; 26:10 =
-4QH<sup>a</sup> 7 i 14; 4Q511 10:8: cf. Ringgren:127-32; Dahmen, <i>ThWQ</i> 2:312)
+fellowship with heavenly beings (1QH<small><sup>a</sup></small> 20:3 = 4QH<small><sup>a</sup></small> 3:2-3; 26:10 =
+4QH<small><sup>a</sup></small> 7 i 14; 4Q511 10:8: cf. Ringgren:127-32; Dahmen, <i>ThWQ</i> 2:312)
 
 
 <b>B.1</b>  BDB indicate that יְשׁוּעָה is synonymous with תְּשׁוּעָה (447, 448;
