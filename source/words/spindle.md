@@ -202,10 +202,11 @@ which indicates that the פֶּלֶךְ is grasped.
 <b>A.1</b> The noun פֶּלֶךְ is rendered as follows in the ancient translations.
 
 <b>a.</b> Septuagint (LXX) and other Greek versions:  
- ἄτρακτος, ‘spindle’:[^5] 
+
+* ἄτρακτος, ‘spindle’:[^5] 
 2 Sam 3:29<sup>αʹσʹ</sup>;[^6] 
 Prov 31:19<small><sup>LXX</sup></small>;  
-σκυτάλη, ‘staff’, ‘cudgel’, ‘club’:[^7]
+* σκυτάλη, ‘staff’, ‘cudgel’, ‘club’:[^7]
 2 Sam 3:29<small><sup>LXX</sup></small>.
 
 [^5]: LSJ, 272; <i>GELS</i>, 101.
@@ -213,16 +214,18 @@ Prov 31:19<small><sup>LXX</sup></small>;
 [^7]: LSJ, 1617; <i>GELS</i>, 628.
 
 <b>b.</b>  Peshitta (Pesh)  
-ܡܘܥܙܠܐ
+
+* <span dir="rtl" lang="-">ܡܘܥܙܠܐ</span>
 (<i>mu‘zālā</i>), ‘spindle’:[^8] 2 Sam 3:29; Prov 31:19.
 
 [^8]: Sokoloff, <i>SLB</i>, 727 (cf. 800: ܡܥܙܠܐ, ‘spindle’); derivative of  ܥܙܠ, ‘to spin’ (<i>SLB</i>, 1090).
 
 
 <b>c.</b>  Targum (Tg: J/K)  
-אַגְרָא,
+
+* <span dir="rtl" lang="he">אַגְרָא</span>,
  ‘wages’, ‘reward’, ‘profit’:[^9] 2 Sam 3:29<small><sup>J</sup></small>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff’, ‘crutch’, ‘pole’[^10] is questionable (Van Staalduine-Sulman 2002: 499-500).   
-מעזלא,
+* <span dir="rtl" lang="he">מעזלא</span>,
 derivative of עזל,
 ‘to spin’,
 probably either ‘spindle’ or ‘spun wool/yarn’:[^11] Prov 31:19<small><sup>K</sup></small>. 
@@ -233,7 +236,8 @@ probably either ‘spindle’ or ‘spun wool/yarn’:[^11] Prov 31:19<small><su
 
 
 <b>d.</b>  Vulgate (Vg)  
-<i>fusus</i>, ‘spindle’:[^14]
+
+* <i>fusus</i>, ‘spindle’:[^14]
 2 Sam 3:29; Prov 31:19. 
 
 [^14]: Lewis & Short, <i>LD</i>, 798;  <i>OLD</i>, 751.

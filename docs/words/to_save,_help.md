@@ -1,17 +1,20 @@
----
-word_english: to_rescue  
-word_hebrew: יָשַׁע  
-semantic_fields: deliverance  
-contributors: james_k._aitken, graham_i._davies
- 
----
+<html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
+
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># יָשַׁע – 'to save, help'
+
+Semantic Fields:
+[Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Authors:
+[James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)[^*]<br>
+First published: 2016-01-01<br>
+
+
 
 
 [BOTH THE HIPHIL AND THE RARER NIPHAL ARE DEALT WITH HERE.]
 
-For fuller discussion of the lexical field as a whole see on this site the 
+For fuller discussion of the lexical field as a whole see on this site:   
 <a href="/sahd/miscellaneous/overview_deliverance">‘Overview
-of SAHD entries for ‘Deliverance’ words</a>.
+of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
 ## Introduction
@@ -231,7 +234,7 @@ support in the fact that there is an antonym in Heb., צָרַר I, ‘be
 in/cause distress’, with cognate nouns and an adjective, with another
 meaning ‘narrowness’, as already noted by Schultens (9), and
 occasionally occurrences of the two roots are directly related to one
-another (Judg 10:14; Isa 46:7; 63:9; Jer 14:8; 30:7; Ps 34:7; Neh 9:27; 2&nbsp;Chr
+another (Judg 10:14; Isa 46:7; 63:9; Jer 14:8; 30:7; Ps 34:7; Neh 9:27; 2&nbsp;Chron
 20:9). There are difficulties, however, with these arguments. First, now
 that a possible alternative etymology, from Proto-Semitic \*<i>yṯʿ</i>, has
 come to light, it turns out that the phonological argument is not as
@@ -246,7 +249,7 @@ deliver, help’ (Lane 8[supplement], 3052-53).[^2] Thirdly, while צָרַר I 
 ‘narrowness’ is the basic meaning from which ‘distress’ is derived. In
 fact ‘narrow’ in the physical sense is a rather rare meaning of the
 root. Finally, while יָשַׁע and צרר do sometimes occur together, this
-is also true of נצל and צרר (1 Sm 26:24; Pss 34:18; 54:9; Job 5:19),
+is also true of נצל and צרר (1&nbsp;Sam 26:24; Pss 34:18; 54:9; Job 5:19),
 suggesting that the association may well be due to semantic
 considerations rather than related underlying etymologies (cf. Sawyer
 1965: 475 n. 5).
@@ -318,6 +321,7 @@ older form could be explained in the same way as יבשׁ.
 
 <b>A.3</b>  See BL: 229f for the form at 1&nbsp;Sam 17:47 and Ps 116:6.
 
+<a id="2.B.1"></a>
 <b>B.1</b>  The form משִׁיעַ is the hiphil participle, although Sawyer notes that
 it has lost its participial and verbal characteristics, being used as
 the object of verbs of sending or appointing (1965: 477; cf. Syntagmatics
@@ -329,7 +333,7 @@ A.5).
 
 <b>A.1</b>  ישׁע hiphil has human agents as subject: מֹשֶׁה ‘Moses’ (Exod 2:17),
 שַׁמְגָר Shamgar (Judg 3:31), אִישׁ ‘a man’ (1&nbsp;Sam 9:16), דָּוִד ‘David’ (1&nbsp;Sam
-23:2, 5), אֲדֹנִי ‘my lord’ = David (1 Sm 25:31), סכת דויד ‘the hut of
+23:2, 5), אֲדֹנִי ‘my lord’ = David (1&nbsp;Sam 25:31), סכת דויד ‘the hut of
 David’ (4Q174 1:13), 3p. m.sg. denoting מֶלֶךְ ‘the king’ (Ps 72:4, 13),
 הגואים ‘the nations’ (4Q166 2:14), פסילי הגוים ‘the carved images of the
 nations’ (4Q385a 18 ii 10) הבר qal m.pl. part. ‘to study astrology’ (Is
@@ -413,7 +417,7 @@ the participle
 <span dir="rtl" lang="he">מֶלֶךְ</span> ‘king’ (2&nbsp;Kgs 16:7).
 
 
-<b>A.7</b> 
+<a id="3.A.7"></a><b>A.7</b> 
 <span dir="rtl" lang="he">ישׁע</span> hiphil is followed by the preposition 
 <span dir="rtl" lang="he">לְ</span> (Josh 10:6; Judg 10:14; 
 2&nbsp;Sam 10:11; Ezek 34:22; Pss 72:4; 86:16; 116:6; Prov. 20:22; 1&nbsp;Chron 18:6;
@@ -496,7 +500,7 @@ it is the predicate of and <span dir="rtl" lang="he">יהוה</span>
 
 ## 4. Ancient Versions
 
-### <b>a.</b> Septuagint (LXX) and other Greek versions  
+<b>a.</b> Septuagint (LXX) and other Greek versions  
 
 Hiphil:   
 
@@ -528,17 +532,16 @@ Hiphil:
 [^4]: <i>GELS</i>, 78; LEH<small><sup>3</sup></small>: 70, 'let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves'. 
 [^5]: <i>GELS</i>, ; LEH<small><sup>3</sup></small>, 501, 603; cf. <i>NETS</i>.
 
-Omitted: 2&nbsp;Kgs 19:34; Isa 25:9; Job 26:2?; Sir 34:6.  
-
+Omitted: 2&nbsp;Kgs 19:34; Isa 25:9; Job 26:2?; Sir 34:6.    
 Large omission: Jer 30:10, 11.  
 
 Niphal:  
-βοηθέω passive: Prov 28:18;  
-διασώζω passive: Num 10:9; Jer 8:20;  
-\[[πλανάομαι]]: Isa 64:4;  
-σώζω active: Zech 9:9;  
-σώζω passive: Deut 33:29; 2&nbsp;Sam 22:4; Isa 30:15; 45:17, 22; Jer 4:14; 17:14;
-23:6; 30[37]:7; Pss 18[17]:4; 33[32]:16; 80[79]:4, 8, 20; 119[119]:117.  
+
+* βοηθέω passive: Prov 28:18;  
+* διασώζω passive: Num 10:9; Jer 8:20;  
+* \[[πλανάομαι]]: Isa 64:4;  
+* σώζω active: Zech 9:9;  
+* σώζω passive: Deut 33:29; 2&nbsp;Sam 22:4; Isa 30:15; 45:17, 22; Jer 4:14; 17:14; 23:6; 30[37]:7; Pss 18[17]:4; 33[32]:16; 80[79]:4, 8, 20; 119[119]:117.  
 
 Large omission: Jer 33:16.  
 
@@ -571,22 +574,24 @@ the noun ἔλεος in the LXX for translating the nouns
 stray’ could imply the reading נפשׁע ‘we have erred’ (Westermann
 1969: 391; LEH<small><sup>1</sup></small>: 378). Some scholars have indeed suggested the
 emendation נרשׁע ‘we have become wicked’ (e.g. Cheyne 1899: 73, 171; <i>BHS</i>),
-although others have followed the MT (e.g. Watts 1987: 238).
+although others have followed the MT (e.g. Watts 1987: 238).  
 
-### <b>b.</b> Peshitta (Pesh)
+
+<b>b.</b> Peshitta (Pesh)
 
 Hiphil:  <!--(<i>ṭābāʾ</i>), :-->   
-<span dir="rtl" lang="-">ܥܒܕ ܦܘܪܩܢܐ</span>
-(<i>ʿbad purqānāʾ</i>), 'to bring salvation': 2&nbsp;Sam 3:18;  
-<span dir="rtl" lang="-">ܥܒܕ ܢܨܚܢܐ</span>
+
+* <span dir="rtl" lang="-">ܥܒܕ ܦܘܪܩܢܐ</span>
+(<i>ʿbad purqānāʾ </i>), 'to bring salvation': 2&nbsp;Sam 3:18;  
+* <span dir="rtl" lang="-">ܥܒܕ ܢܨܚܢܐ</span>
 (<i>ʿbad</i>) \[+ <i>neṣḥānāʾ</i> = תְּשׁוּעָה], to bring victory': in: 1&nbsp;Chron 11:14 [cf. LXX];  
-<span dir="rtl" lang="-">ܥܕܪ</span>
+* <span dir="rtl" lang="-">ܥܕܪ</span>
 (<i>ʿdar</i>), 'to help, to aid': 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19;  
-<span dir="rtl" lang="-">ܢܦܩ</span>
+* <span dir="rtl" lang="-">ܢܦܩ</span>
 (<i>npq</i>) Aphel, 'to bring out': Ps 107:19;  
-<span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
-(<i>pṣy</i>/<i>pṣʾ</i>) Pael \`to save, to deliver': Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
-<span dir="rtl" lang="-">ܦܪܩ</span>
+* <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
+(<i>pṣy</i>/<i>pṣʾ </i>) Pael \`to save, to deliver': Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
+* <span dir="rtl" lang="-">ܦܪܩ</span>
 (<i>prq</i>), 'to save, to liberate': Exod 2:17; 14:30; Deut 20:4; 28:29; Josh 22:22; Judg 2:16, 18; 3:9,
 31; 6:14, 15, 36, 37; 7:7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam
 4:3; 7:8; 9:16; 10:19, 27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26,
@@ -600,24 +605,25 @@ Hiphil:  <!--(<i>ṭābāʾ</i>), :-->
 109:26, 31; 116:6; 118:25; 119:146; 138:7; 145:19; Job 5:15; 22:29; 26:2;
 40:14; Prov 20:22; 1&nbsp;Chron 16:35; 18:6, 13; 2&nbsp;Chron 20:9; 32:22; 
 Sir 34:6; 48:20; 49:10;  
-<span dir="rtl" lang="-">ܦܪܘܩܐ</span>
-(<i>pārōqāʾ</i>), 'saviour, liberator': Judg 3:9, 15; 2&nbsp;Sam 22:42; 2&nbsp;Kgs 13:5; Isa 19:20; 43:3; 45:15, 21; 49:26; 60:16; 63:8; Zeph 3:17; Pss 17:7; 18:42;  
-<span dir="rtl" lang="-">ܫܘܙܒ</span>
+* <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
+(<i>pārōqāʾ </i>), 'saviour, liberator': Judg 3:9, 15; 2&nbsp;Sam 22:42; 2&nbsp;Kgs 13:5; Isa 19:20; 43:3; 45:15, 21; 49:26; 60:16; 63:8; Zeph 3:17; Pss 17:7; 18:42;  
+* <span dir="rtl" lang="-">ܫܘܙܒ</span>
 (<i>šwzb</i>), 'to save, deliver, preserve': Sir 51:3;   
-<span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
-(<i>zky</i>܇<i>zkʾ</i>) Pael, `to make victorious': Judg 7:2.
+* <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
+(<i>zky</i>܇<i>zkʾ </i>) Pael, `to make victorious': Judg 7:2.
 
 Omitted: 1&nbsp;Sam 25:31; Josh 10:6; Isa 43:11.  
 
 Niphal:  
-<span dir="rtl" lang="-">ܦܪܘܩܐ</span>
+
+* <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
 (<i>pārōqāʾ</i>), 'saviour, liberator': Zech 9:9;  
-<span dir="rtl" lang="-">ܦܘܪܩܢܐ</span>
-(<i>purqānāʾ</i>), 'salvation': Deut 33:29; Isa 45:17;  
-<span dir="rtl" lang="-">ܦܪܩ</span>
+* <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span>
+(<i>purqānāʾ </i>), 'salvation': Deut 33:29; Isa 45:17;  
+* <span dir="rtl" lang="-">ܦܪܩ</span>
 (<i>prq</i>) Ethpe. 'to be saved': 2&nbsp;Sam 22:4; Isa 30:15; 45:22; 64:4; Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18;  
-<span dir="rtl" lang="-">ܦܪܘܩܐ</span>
-(<i>pṣʾ</i>) Ethpe., 'to be saved': Num 10:9.  
+* <span dir="rtl" lang="-">ܦܨܝ</span>
+(<i>pṣʾ </i>) Ethpa., 'to be saved': Num 10:9.  
 
 
 <b>A.1</b>  The Pesh, as the Tg (see below), has a preference for the verb
@@ -626,7 +632,7 @@ Niphal:
 (<i>šwzb</i>), popular with some lexemes in the semantic
 field, is found only once (Sir 51:3). 
 <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
-(<i>pṣy</i>/<i>pṣʾ</i>) appears slightly more
+(<i>pṣy</i>/<i>pṣʾ </i>) appears slightly more
 frequently, but is still an infrequent equivalent.
 
 <b>A.2</b>  <span dir="rtl" lang="-">ܢܦܩ</span>
@@ -635,17 +641,18 @@ in the action of the verb, but this equivalent also appears only once.
 
 <b>A.3</b>  The meaning of bringing assistance is found in the translations
 <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
-<i>zky</i>܇<i>zkʾ</i> Pael (Judg 7:2) and <span dir="rtl" lang="-">ܥܕܪ</span> (<i>ʿdar</i>; 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19).
+(<i>zky</i>܇<i>zkʾ </i>) Pael (Judg 7:2) and <span dir="rtl" lang="-">ܥܕܪ</span> (<i>ʿdar</i>; 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19).
 
 <b>A.4</b>  The translation <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
-(<i>pārōqāʾ</i>), ‘saviour’, is found frequently, for the
+(<i>pārōqāʾ </i>), ‘saviour’, is found frequently, for the
 most part to render the ptc.
 <span dir="rtl" lang="he">מוֹשִׁיעַ</span>.
 
-### <b>c.</b> Targum (Tg: O/J/K)
+<b>c.</b> Targum (Tg: O/J/K)
 
 Hiphil:  
-<span dir="rtl" lang="he">פְּרַק</span>: O – Exod 2:17; 14:30; 
+
+* <span dir="rtl" lang="he">פְּרַק</span>: O – Exod 2:17; 14:30; 
 Deut 20:4; 22:27; 28:29, 31; Josh 10:6; 22:22;
 Judg 2:16, 18; 3:9 [2x], 15, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22;
 10:1, 12, 13, 14; 12:2, 3; 13:5; 
@@ -657,15 +664,15 @@ Jer 2:27, 28; 11:12 [1x]; 14:8, 9; 15:20; 17:14; 30:10, 11; 31:7; 42:11; 46:27;
 Ezk 34:22; 36:29; 37:23; Hos 13:4, 10; 14:4; Hab 1:2; Zeph 3:17, 19; Zech 8:7, 13;
 9:16; 10:6; 12:7; 1&nbsp;Chron 11:14; 16:35; 18:6, 13; 19:12, 19; 2&nbsp;Chron 20:9;
 32:22;  
-Af פרק: Hos 1:7;  
-<span dir="rtl" lang="he">פורקנא</span>: 2&nbsp;Sam 22:3(?);  
-<span dir="rtl" lang="he">שׁיזב</span>: Obad 21.
+* <span dir="rtl" lang="he">פרק</span> Af.: Hos 1:7;  
+* <span dir="rtl" lang="he">פורקנא</span>: 2&nbsp;Sam 22:3(?);  
+* <span dir="rtl" lang="he">שׁיזב</span>: Obad 21.
 
-Niphal:  
-<span dir="rtl" lang="he">פרק</span>: 2&nbsp;Sam 22:4; Zech 9:9;  
-Af פרק: O – Num 10:9; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14;
-23:6; 30:7; 33:16;  
-<span dir="rtl" lang="he">פורקנא</span>: O – Deut 33:29.
+Niphal:
+
+* <span dir="rtl" lang="he">פרק</span>: 2&nbsp;Sam 22:4; Zech 9:9;  
+* <span dir="rtl" lang="he">פרק</span> Af.: O – Num 10:9; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16;  
+* <span dir="rtl" lang="he">פורקנא</span>: O – Deut 33:29.
 
 
 <b>A.1</b>  There is nothing exceptional in the renderings of the Pesh or Tg, both translating the verb by the same words as they do for many others
@@ -687,25 +694,26 @@ Niphal in the MT. LXX, Pesh and Vg all render as active too. Comparison
 may be made with Ps 33:16 where in the Tg נושׁע is rendered מתפריק
 (Cathcart & Gordon 1989:205).
 
-<b>d.</b> Vulgate (Vg.):
+<b>d.</b> Vulgate (Vg)
 
 Hiphil:  
-<i>adiuvo</i>: Deut 28:31; 1&nbsp;Chron 18:6;  
-<i>auxilior</i>: 2&nbsp;Sam 10:11;  
-<i>custodio</i>: Josh 22:22;  
-<i>do</i> \[+ <i>salutem</i> = תְּשׁוּעָה]: in: 1&nbsp;Chron 11:14;  
-<i>defendo</i>: Exod 2:17; Judg 3:31; 1&nbsp;Sam 11:3;  
-<i>dux</i>: Judg 10:1;  
-<i>eruo</i>: Deut 20:4; Judg 10:12;  
-<i>libero</i>: Exod 14:30; Deut 22:27; 28:29; Josh 10:6; Judg 2:16, 18; 3:9; 6:14,
+
+* <i>adiuvo</i>: Deut 28:31; 1&nbsp;Chron 18:6;  
+* <i>auxilior</i>: 2&nbsp;Sam 10:11;  
+* <i>custodio</i>: Josh 22:22;  
+* <i>do</i> \[+ <i>salutem</i> = תְּשׁוּעָה]: in: 1&nbsp;Chron 11:14;  
+* <i>defendo</i>: Exod 2:17; Judg 3:31; 1&nbsp;Sam 11:3;  
+* <i>dux</i>: Judg 10:1;  
+* <i>eruo</i>: Deut 20:4; Judg 10:12;  
+* <i>libero</i>: Exod 14:30; Deut 22:27; 28:29; Josh 10:6; Judg 2:16, 18; 3:9; 6:14,
 15, 37; 7:2[pass], 7; 8:22; 10:13, 14; 13:5; 2&nbsp;Sam 22:3; Jer 2:27, 28;
 11:12; Prov 20:22;  
-<i>praebeo auxilium</i>: Judg 12:2; 2&nbsp;Sam 10:19; 1&nbsp;Chron 19:19;  
-<i>pugno</i>: Judg 6:31;  
-<i>salvator</i>: Judg 3:9, 15; 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; 16:7; Isa 19:20;
+* <i>praebeo auxilium</i>: Judg 12:2; 2&nbsp;Sam 10:19; 1&nbsp;Chron 19:19;  
+* <i>pugno</i>: Judg 6:31;  
+* <i>salvator</i>: Judg 3:9, 15; 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; 16:7; Isa 19:20;
 43:3, 11; 45:15; 63:8; 14:8; Hos 13:4; Obad 1:21; Pss 17[16]:7; 106[105]:21;
 Neh 9:27;  
-<i>salvo</i>: 1&nbsp;Sam 4:3; 7:8; 9:16; 10:19, 27; 14:6, 23, 39; 17:47; 23:2, 5;
+* <i>salvo</i>: 1&nbsp;Sam 4:3; 7:8; 9:16; 10:19, 27; 14:6, 23, 39; 17:47; 23:2, 5;
 25:26; 2&nbsp;Sam 3:18; 22:42; 2&nbsp;Kgs 6:26, 27[2x]; 19:34; Isa 25:9; 33:22; 35:4;
 37:20, 35; 43:12; 45:20, 21; 46:7; 47:13, 15; 49:25, 26; 59:1, 16;
 60:16; 63:1, 5, 9; Jer 11:12; 14:9; 15:20; 30:10, 11; 31:7; Ezek 34:22;
@@ -717,25 +725,25 @@ Neh 9:27;
 107[106]:13, 19; 108[107]:7; 109[108]:26, 31; 116[114]:6; 118[117]:25;
 119[118]:94; 138[137]:7; 145[144]:19; Job 22:29 [passive]; 40:14[9]; La
 4:17; Neh 9:27; 1&nbsp;Chron 16:35; 18:13; 2&nbsp;Chron 32:22;  
-<i>salvus</i>: Judg 6:36;  
-<i>salvum facio</i>: 2&nbsp;Sam 22:28; 2&nbsp;Kgs 19:19; Isa 38:20; Jer 17:14; 42:11; 46:27;
-Ezek 37:23; Pss 3:8[7]; 36[35]:7; 76[75]:10; 119[118]:146; Job 5:15; 2&nbsp;Chr
-20:9;  
-<i>servo</i>: 2&nbsp;Sam 8:6, 14; 14:4;  
-<i>sum in praesidium</i>: 1&nbsp;Chron 19:12;  
-<i>sustineo</i>: ?Job 26:2; ‘to preserve’?  
-<i>ulciscor</i>: 1&nbsp;Sam 25:31, 33;  
+* <i>salvus</i>: Judg 6:36;  
+* <i>salvum facio</i>: 2&nbsp;Sam 22:28; 2&nbsp;Kgs 19:19; Isa 38:20; Jer 17:14; 42:11; 46:27;
+Ezek 37:23; Pss 3:8[7]; 36[35]:7; 76[75]:10; 119[118]:146; Job 5:15; 2&nbsp;Chron 20:9;  
+* <i>servo</i>: 2&nbsp;Sam 8:6, 14; 14:4;  
+* <i>sum in praesidium</i>: 1&nbsp;Chron 19:12;  
+* <i>sustineo</i>: ?Job 26:2; ‘to preserve’?  
+* <i>ulciscor</i>: 1&nbsp;Sam 25:31, 33;  
 
 Omitted: Judg 12:3
 
 Niphal:  
-<i>eruo</i> passive: Num 10:9;  
-<i>salvator</i>: Zech 9:9;  
-<i>salvo</i> passive: Deut 33:29; 2&nbsp;Sam 22:4; Isa 30:15; 45:17, 22; 64:4; Jer 8:20;
+
+* <i>eruo</i> passive: Num 10:9;  
+* <i>salvator</i>: Zech 9:9;  
+* <i>salvo</i> passive: Deut 33:29; 2&nbsp;Sam 22:4; Isa 30:15; 45:17, 22; 64:4; Jer 8:20;
 23:6; 30:7; 33:16; Pss 33[32]:16; 80[79]:4, 8, 20; 119[118]:117; Pr
 28:18;  
-<i>salvus fio</i>: Jer 4:14;  
-<i>salvus</i> <i>sum</i>: Jer 17:14; Ps 18[17]:4.
+* <i>salvus fio</i>: Jer 4:14;  
+* <i>salvus</i> <i>sum</i>: Jer 17:14; Ps 18[17]:4.
 
 
 <b>A.1</b>  Although <i>salvo</i> and <i>libero</i> are the two most frequent renderings
@@ -755,29 +763,45 @@ close association with other members of the deliverance’ group: e.g. נצל
 11QT<small><sup>a</sup></small> 59:11), גאל (Isa 49:26; Ps 106:10), מלט (Ps 107:19; 4Q183 1 ii
 3), and also חלץ (Pss 6:5; 34:7; 60:7=108:7).
 
-
-<b>A.2</b>  Related words which are not strictly synonyms are also associated
-with ישׁע, such as שׁפט and דין (Pss 7:11; 54:3; 72:4; 76:10), שׁמר (Ps
-12:2; 17:7; 34:19; 86:2; 145:19), זכר (1QM 10:8), and אור פנים (Ps
-31:17; 80:4, 8, 20).
-
-
-<b>A.3</b>  Other words specify the action denoted by ישׁע in particular cases
-more precisely, such as שׁלח (Ps 44:4), קבץ (Ps 106:47), רפא (Ps 107:19),
-סעד (Ps 119:117), עלה (4Q381 31:2) and more surprisingly ירשׁ (Ps 44:4;
-69:36) and בנה (Ps 69:36).
-
-
-<b>A.4</b>  ישׁע Hiphil is found in parallelism with נתן ביד ‘to give into the
-hand’ (Judg 7:7). The Hiph ptc is in parallelism with ‘refuge’ מנוס (2&nbsp;Sam
-22:3), and with the verb ענה ‘to answer’ (2&nbsp;Sam 22:42).
+<a id="5.A.2"></a>
+<b>A.2</b>  Related words which are not strictly synonyms are also associated with <span dir="rtl" lang="he">ישׁע</span>, such as
+<span dir="rtl" lang="he">שׁפט</span>
+and 
+<span dir="rtl" lang="he">דין</span>
+(Pss 7:11; 54:3; 72:4; 76:10),
+<span dir="rtl" lang="he">שׁמר</span>
+(Pss 12:2; 17:7; 34:19; 86:2; 145:19), 
+<span dir="rtl" lang="he">זכר</span> (1QM 10:8), 
+and <span dir="rtl" lang="he">אור פנים</span> 
+(Pss&nbsp;31:17; 80:4, 8, 20).
 
 
-<b>B.1</b>  One of the most common words to occur with ישׁע in the Psalms (also
-in Isa 46:7) is ענה, ‘answer’, and synonyms such as שׁמע, ‘hear’ and נטה
-hiph + אזן, ‘incline the ear’ (Pss 31:3; 71:2; 86:2). These should
-probably not be regarded as members of the lexical field, as their use
-is related not to the meaning of ישׁע as such but to the fact that, in
+<b>A.3</b>  Other words specify the action denoted by
+<span dir="rtl" lang="he">זכר</span>
+ ישׁע in particular cases
+more precisely, such as 
+<span dir="rtl" lang="he">שׁלח</span> (Ps 44:4), <span dir="rtl" lang="he">קבץ</span> (Ps 106:47), 
+<span dir="rtl" lang="he">רפא</span> (Ps 107:19), 
+<span dir="rtl" lang="he">סעד</span> (Ps 119:117), 
+<span dir="rtl" lang="he">עלה</span>  (4Q381 31:2), 
+and more surprisingly, 
+<span dir="rtl" lang="he">ירשׁ</span> (Pss 44:4; 69:36), and 
+<span dir="rtl" lang="he">בנה</span> (Ps 69:36).
+
+
+<b>A.4</b> <span dir="rtl" lang="he">ישׁע</span> Hiphil is found in parallelism with <span dir="rtl" lang="he">נתן ביד</span> ‘to give into the hand’ (Judg 7:7). 
+The hiph. ptc. is in parallelism with <span dir="rtl" lang="he">מנוס</span> ‘refuge’  (2&nbsp;Sam 22:3), and with the verb <span dir="rtl" lang="he">ענה</span> ‘to answer’ (2&nbsp;Sam 22:42).
+
+
+<b>B.1</b>  One of the most common words to occur with
+<span dir="rtl" lang="he">ישׁע</span> in the Psalms (also
+in Isa 46:7) is 
+<span dir="rtl" lang="he">ענה</span>,
+‘answer’, and synonyms such as 
+<span dir="rtl" lang="he">שׁמע</span>, ‘hear’ and 
+<span dir="rtl" lang="he">נטה</span> hiph. + <span dir="rtl" lang="he">אזן</span>, ‘incline the ear’ (Pss 31:3; 71:2; 86:2). 
+These should probably not be regarded as members of the lexical field, as their use is related not to the meaning of
+<span dir="rtl" lang="he">ישׁע</span> as such but to the fact that, in
 the Psalms at least, it is so frequently used (21x) in the imperative
 form to express a request.
 
@@ -798,12 +822,12 @@ military contexts apply the verb both to the acts of God (1&nbsp;Sam 17:47) and
 to those of military heroes (e.g. Judg 6:14–15; 1&nbsp;Sam 9:16).
 
 
-<b>A.3</b>  ישׁע is found in forensic contexts , but this need not be the
+<b>A.3</b>  ישׁע is found in forensic contexts, but this need not be the
 original meaning (see B.1 below). Although it is primarily found with
 the noun מוֹשִׁיעַ (e.g. Deut 28:29, 31) it may be implied with this sense
-in the appeal of the women of Tekoa to David to help her in her case
-(2&nbsp;Sam 14:4) (Hubbard 1997:557) and in some Psalms. The implication is
-that the King can dispense justice in the same manner that God does in
+in the appeal of the woman of Tekoa to David to help her in her case
+(2&nbsp;Sam 14:4; Hubbard 1997: 557) and in some Psalms. The implication is
+that the king can dispense justice in the same manner that God does in
 the Psalms. The examples are few and the argumentation is tentative. In
 each of these instances one could argue that the verb ישׁע means merely
 ‘to save’ and that the context indicates the saving will be forensic.
@@ -816,34 +840,37 @@ this is probably a developed sense from the general meaning.
 exercising justice oneself (with the implication that someone else has
 done or should do it). In Judg 7:2 God warns the Israelites that they
 might boast of executing the victory on their own part rather than
-giving credit to God (cf. Job 40:14). As already noted (Syntagmatics A.7)
-ישׁע hiph is quite frequently followed by לְ instead of the more common
+giving credit to God (cf. Job 40:14). As already noted 
+(<a href="#3.A.7">Syntagmatics A.7</a>) 
+<span dir="rtl" lang="he">ישׁע</span> hiph. is quite frequently followed 
+by לְ instead of the more common
 direct object. This does not generally seem to be because the texts
 concerned are late (GK §117n), though the substitution of לְ for אֶת־ in
 1&nbsp;Chron 18:6 (cf. 2&nbsp;Sam 8:6) could be explained in this way. More likely the
 variation is related to the use of לְ with Hiphils of some intransitive
 verbs, where it has been suggested that the expression is ‘properly (as
-it seems) a <i>dat. commodi</i>’ (BDB, p. 511). Alternatively (or
+it seems) a <i>dat. commodi </i>’ (BDB, 511). Alternatively (or
 additionally), one might associate it with the exceptional frequency of
 nouns cognate with ישׁע (such as יֵשַׁע and יְשׁוּעָה), which is a
 distinctive feature of ישׁע among the words for ‘deliverance’: the verb
 may in these cases have been thought of as a kind of denominative
 equivalent to ‘bring יֵשַׁע/ יְשׁוּעָה <i>to</i> a person or group (see further 
-7. Conclusion). A special group is constituted by instances where the
+<a href="#Conclusion">7.&nbsp;Conclusion</a>).  
+A special group is constituted by instances where the
 subject of the verb is יָד (or a similar word like זְרוֹעַ or יָמִין)
 with a pronominal suffix and the ‘beneficiary’ is denoted by לְ with the
 same suffix. The meaning is thus reflexive: someone’s own ‘hand’ brings
 him the success or victory denoted by ישׁע hiph. A sequence of examples
-occurs in 1 Sm 25:26, 31 (where many commentators insert יד before אדני
+occurs in 1 Sam 25:26, 31 (where many commentators insert יד before אדני
 with LXX) and 33, in the dialogue between Abigail and David about how
 David is to respond to Nabal’s insults (vv. 10-11). The fact that in all
 three places the phrase is associated with incurring bloodguilt could be
 taken as evidence, in isolation, that it means specifically a judicial
-misdeed (so Sawyer, <i>TDOT</i> 6, pp. 454, 457). But this is improbable in
+misdeed (so Sawyer 1982: 1049 [1990: 454, 457]). But this is improbable in
 the light of the full range of occurrences of this idiom, especially
 those in which it is applied to God in a wholly positive sense (Is
 59:16; 63:5 and probably Ps 98:1). The data were assembled already by
-Driver (<i>Samuel</i><small><sup> 2</sup></small>, pp. 200-02),<!--CHECK --> who concluded that יד (and its synonyms)
+Driver (1890: 200-02), who concluded that יד (and its synonyms)
 referred to the use of one’s own power (‘force’) to achieve one’s aims.
 When God does this, it redounds to his glory. But human beings must, in
 a widespread biblical view, rely on God to help them, for they cannot
@@ -880,7 +907,8 @@ or for healing from sickness (e.g. of Hezekiah at Isa 38:20).
 
 <b>A.8</b>  ישׁע appears most frequently in the book of Psalms (57x) in addition
 to 13 psalm-like passages elsewhere in the OT (for the latter see
-Sawyer, <i>TDOT</i>, 6, p. 459). The occurrences in the Psalms relate to all
+Sawyer 1082: 1055 [1990: 459]). 
+The occurrences in the Psalms relate to all
 the varied kinds of situation that have already been mentioned:
 deliverance in past history (Pss 44:4 [cf. vv. 2-3]; 98:1; 106:8, 10, 21;
 107:13, 19), war (18:4, 28, 42; 20:7, 10; 33:16; 44:7-8; 60:7=108:7; 
@@ -895,18 +923,18 @@ sickness (107:19; perhaps 6:5). Here especially the generality of the
 word is very evident. Most often it presupposes a situation of distress,
 but it is accompanied by מן in only about one-fifth of its occurrences
 and the military uses do not all arise out of the danger of defeat (note
-118:28, with the parallel צלח, ‘succeed’). ישׁע hiph overlaps with עזר in
+118:28, with the parallel צלח, ‘succeed’). ישׁע hiph. overlaps with עזר in
 the breadth of its usage (and they are associated in 109:26 [cf. Josh
 10:6; Isa 63:5; Job 26:2]), but they are complementary rather than
 synonymous: עזר is more focused on the relational aspect of the action,
-while its effect and result is more prominent in ישׁע hiph, whether it
+while its effect and result is more prominent in ישׁע hiph., whether it
 refers to deliverance or the bestowal of success and victory. The
 subject in the great majority of cases is God and his wonderful, mighty
 power is sometimes explicitly mentioned (98:1; 106:21). But so is his
 חסד, ‘loyalty’, in associated prepositional phrases (6:5; 31:17; 109:26:
 cf. 57:4), as are related words like צדקה, ‘righteousness’ (71:2), and
 שׁם, ‘name’ (54:3; 106:8). The most distinctive feature of the use of ישׁע
-hiph here is the high frequency of the imperative, often in its emphatic
+hiph. here is the high frequency of the imperative, often in its emphatic
 form, in the appeals to God which are so characteristic of the numerous
 laments in the Psalter (3:8; 6:5: over twenty times in all).
 
@@ -921,36 +949,33 @@ perhaps the biblical usage in military contexts (A.2), and four times in
 the Temple Scroll, mainly in historical references. These also appear
 elsewhere (CD 5:19; 4Q372 1:16; 4Q385a 18 ii 10; 4Q389 1 ii 3). The
 reuse of the idiom discussed in A.4 suggests its continued use in
-everyday speech, but ישׁע hiph is not a prominent expression of
+everyday speech, but ישׁע hiph. is not a prominent expression of
 contemporary prayer or liturgy: there is only one secure occurrence in
 1QH<small><sup>a</sup></small> and three more in other texts (4Q380 1 ii 4; 4Q381 31:2; 4Q511
 10:9). The contrast with the biblical psalms could not be greater, and
 perhaps reflects its infrequency in LBH and as a loan-word in Aramaic
-other than Samaritan Aramaic (Sawyer 1975:80). But the seven occurrences
+other than Samaritan Aramaic (Sawyer 1975: 80). But the seven occurrences
 preserved in the Heb. of Sirach (if 13:6 is included) give a rather
 different impression, especially when compared with the rarity of ישׁע
-hiph in the biblical wisdom literature.
+hiph. in the biblical wisdom literature.
 
 
 <b>B.1</b>  Whilst ישׁע can be found in forensic contexts in the Hebrew Bible
 (see A.3 above), its origin as a forensic term, later developing from
 this technical to a non-technical sense, as advocated by Sawyer
-(1972:94-95; 1975:80), is uncertain. Scepticism regarding this origin
+(1972: 94-95; 1975: 80), is uncertain. Scepticism regarding this origin
 was first expressed in 1970 by participants at the conference where
 Sawyer presented his findings (recorded in Sawyer 1975:83–84), and
 Sawyer himself admits that the question must remain open until a wider
-range of contexts is available (1975:80). The main pieces of evidence
+range of contexts is available (1975: 80). The main pieces of evidence
 marshalled by him are:
 
-a) its use in forensic situations in the Bible (see A.3 above);
-
-b) a forensic origin explains the use of מוֹשִׁיעַ (e.g. at Deut 22:27), if
+* a) its use in forensic situations in the Bible (see A.3 above);
+* b) a forensic origin explains the use of מוֹשִׁיעַ (e.g. at Deut 22:27), if
 it means originally ‘counsel for the defence’ (see Sawyer 1965; B.2);
-
-c) the verb’s parallelism with other words that may denote legal terms
-(see Lexical/Semantic Field(s) A.2);
-
-d) the appearance of legal terms in proper names in Semitic languages.
+* c) the verb’s parallelism with other words that may denote legal terms
+(see <a href="#5.A.2">Lexical/Semantic Fields&nbsp;A.2</a>);
+* d) the appearance of legal terms in proper names in Semitic languages.
 
 The last of these is the weakest. For a) the evidence can be interpreted
 in either direction. It may have had a non-technical sense and developed
@@ -965,10 +990,11 @@ non-technical sense.
 <b>B.2</b>  In his study of מוֹשִׁיעַ Sawyer is careful not to read too much into
 one word (1965: 486), but expresses conviction that the evidence points
 to his interpretation. He sees the form מוֹשִׁיעַ (which he takes to be a
-noun; see Formal Characteristics B.1) as denoting a specific legal
+noun; see <a href="#2.B.1">Formal Characteristics&nbsp;B.1</a>) as denoting a specific legal
 office of ‘advocate’ or ‘witness for the defence’, for which there is no
 other word in Hebrew but there would have been a need for one.
 
+<a id="Conclusion"></a>
 ## 7. Conclusion
 
 
@@ -1247,7 +1273,7 @@ James and Theodora Bynon (eds.),
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Sawyer 1982
+Sawyer 1982 [1990]
 <br>
 John F.A. Sawyer, 'ישׁע', in: <i>ThWAT</i>, vol. 3: 1035–59 
 (ET 1990: <i>TDOT</i>, vol. 6: 441-63). 
@@ -1298,4 +1324,10 @@ James D.W. Watts, <i>Isaiah 34–66</i> (WBC, 25), Waco, Tex.: Word Books.
 <div style="padding-left: 22px; text-indent: -22px;">
 Westermann 1969<br>   
 Claus Westermann, <i>Isaiah 40-66</i>, London: SCM.
-	</div>
+	</div>  
+
+
+## Notes
+
+
+[^*]: This article should be cited as: [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md), יָשַׁע – 'to save, help'
