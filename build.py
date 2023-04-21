@@ -8,7 +8,6 @@ from subprocess import run, Popen
 import csv
 from datetime import datetime
 import re
-from ivsort import ivsort
 
 SAHD_BASE = Path(".")
 
@@ -306,7 +305,7 @@ def hebrew_alphabet_order(source_dict, contributors=False):
     target_dict = {}
     sorted_dict = sort_contributors(source_dict) if contributors else sorted(source_dict)
     for key in sorted_dict:
-        for item in ivsort(source_dict[key].keys()):
+        for item in sorted(source_dict[key].keys()):
             if key in target_dict.keys():
                 target_dict[key] = target_dict[key] + [(item, source_dict[key][item])]
             else:
