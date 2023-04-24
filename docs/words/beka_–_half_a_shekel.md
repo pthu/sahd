@@ -133,25 +133,27 @@ occurs in apposition:
 <b>A.1</b> The noun בֶּקַע is rendered as follows in the ancient translations.
 
 
-<b> a.</b> Septuagint (LXX) and other Greek versions:  
-δραχμὴ, ‘drachma (weight)’:[^15] 
+<b> a.</b> Septuagint (LXX) and other Greek versions: 
+ 
+* δραχμὴ, ‘drachma (weight)’:[^15] 
 Gen 24:22<small><sup>LXX</sup></small>; 
 Exod 39:3<small><sup>LXX</sup></small> 
 (38:26<small><sup>MT</sup></small>);  
-δίδραχμον, ‘coin of two drachmas’:[^16]
+* δίδραχμον, ‘coin of two drachmas’:[^16]
 Exod 39:3<sup>α’</sup> (38:26<small><sup>MT</sup></small>).
 
 [^15]:  LEH<small><sup>3</sup></small>, 161; <i>GELS</i>, 178.
 [^16]:  LEH<small><sup>3</sup></small>, 151; <i>GELS</i>, 164.  Remarkably LEH<small><sup>3</sup></small>, 151, has in addition to ‘coin of two drachmas’ also ‘half-shekel’, which suggests that δίδραχμον equals ‘half-shekel’. Apparently ‘half-shekel’ was intended as a definition for <i>one</i> drachma, because a δίδραχμον equals always a shekel (see Gen 23:15, 16; Exod 21:32).
 
 <b> b.</b> Targumim (Tg.: O/N/PsJ/Smr):  
-דרכמון,
+
+* <span dir="rtl" lang="he">דרכמון</span>,
  ‘drachma’:[^17] Gen 24:22<small><sup>PsJ</sup></small>; Exod 38:26<small><sup>PsJ</sup></small>;  
-טבי/ טבע,
- ‘half-shekel, coin’:[^18] Gen 24:22<small><sup>N,Smr</sup></small>; Exod 38:26<small><sup>Smr</sup></small>;  
-תקלא,
+* <span dir="rtl" lang="he">טבע</span>/* <span dir="rtl" lang="he">טבי</span>,
+ ‘half-shekel, coin’:[^18] Gen 24:22<small><sup>N,Smr</sup></small>; Exod 38:26<small><sup>Smr</sup></small>;
+* <span dir="rtl" lang="he">תקלא</span>,
 ‘shekel’:[^19] Gen 24:22<small><sup>O</sup></small>; Exod 38:26<small><sup>O</sup></small>;  
-No rendering: Exod 38:26<small><sup>N</sup></small>.[^20]
+* No rendering: Exod 38:26<small><sup>N</sup></small>.[^20]
 
 [^17]:  Levy, <i>CWT</i>, vol. I, 188: ‘<i>Dareicos</i>, eine persische Goldmünze = einem gemeinen Shekel’; Jastrow, <i>DTT</i>, 324: ‘(late b.h.) = דַּרְכּוֹן (= <i>Daric</i>, <i>ad loc.</i>); Dalman, <i>ANHT</i>, 105: ‘(δραχμή) Drachme’; Sokoloff, <i>DJPA</i>, 156.
 [^18]:  Tal, <i>DSA</i>, 302 s.v.  טבע; Levy, <i>CWT</i>, vol. I, 294: ‘1. <i>geprägte Münze</i>, … bes. die Hälfte eines heiligen Sekel’. Jastrow, <i>DTT</i>, 519: ‘<i>Teb‛a</i>, a coin equal to half a Sela’. Dalman, <i>ANHT</i>, 166: ‘1. Münze; 2. eine bestimmte Münze (ein halber Sela)’.
@@ -159,16 +161,19 @@ No rendering: Exod 38:26<small><sup>N</sup></small>.[^20]
 [^20]: Only in the marginalia of Tg.<small><sup>N</sup></small> an equivalent טבע for MT בֶּקַע is found.
 
 <b> c.</b> Peshitta (Pesh.):   
-ܡܬܩܠܐ   (<i>maṯqālā</i>),
+
+* <span dir="rtl" lang="-">ܡܬܩܠܐ</span>
+(<i>maṯqālā</i>),
 ‘weight, scale, shekel’:[^21] Gen 24:22; Exod 38:26.
 
 [^21]: Payne Smith, <i>CSD</i>, 321; Sokoloff, <i>SLB</i>, 875.
 
 
 <b> d.</b> Vulgate (Vulg.):  
-<i>siclos duos</i>, ‘two shekel’:[^22]
+
+* <i>siclos duos</i>, ‘two shekel’:[^22]
 Gen 24:22.  
-No rendering: Exod 38:26.[^23]
+* No rendering: Exod 38:26.[^23]
 
 [^22]:  <i>LD</i>, 1693: ‘a shekel’.
 [^23]: The whole phrase of MT in Exod 38:26, in which the word בֶּקַע is applied, was not rendered in Vulg.
