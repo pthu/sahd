@@ -385,7 +385,7 @@ def write_words(shebanq_dict, ubs_dict):
 
     for word in WORDS.glob("*"):
         word_hebrew, word_english, title, first_published, revised = "", "", "", "", ""
-        semantic_fields, contributors = [], []
+        shebanq, ubs = True, True
         if word.name == ".DS_Store":
             continue
         filename = word.name
@@ -402,9 +402,9 @@ def write_words(shebanq_dict, ubs_dict):
                 if line.strip() == "---" and not first_dashes:
                     first_dashes = True
                 elif line.startswith("word_english:"):
-                    word_english = get_values(line)[0]
+                    word_english = get_value(line)
                 elif line.startswith("word_hebrew:"):
-                    word_hebrew = reverse(get_values(line)[0])
+                    word_hebrew = reverse(get_value(line))
                 elif line.startswith("title:"):
                     title = get_value(line)
                 elif line.startswith("semantic_fields:"):
@@ -412,19 +412,25 @@ def write_words(shebanq_dict, ubs_dict):
                 elif line.startswith("contributors:"):
                     contributors = get_values(line)
                 elif line.startswith("first_published:"):
-                    first_published = get_values(line)[0]
+                    first_published = get_value(line)
+                elif line.startswith("shebanq:"):
+                    shebanq = not (get_value(line).lower() == "off")
+                elif line.startswith("ubs:"):
+                    ubs =  not (get_value(line).lower() == "off")
                 elif line.startswith("revised:") and line.replace("revised:", "").strip() != "":
                     revised = get_values(line)[0]
                 elif line.strip() == "---" and not second_dashes:
                     second_dashes = True
                     text.append(HEADER)
                     text.append(DOWNLOAD)
-                    shebanq_id = get_shebanq_id(word_hebrew, shebanq_dict)
-                    if shebanq_id:
-                        text.append(SHEBANQ.replace("replace", shebanq_id))
-                    ubs_reference = get_ubs_reference(word_hebrew, ubs_dict)
-                    if ubs_reference:
-                        text.append(UBS.replace("replace", ubs_reference))
+                    if shebanq:
+                        shebanq_id = get_shebanq_id(word_hebrew, shebanq_dict)
+                        if shebanq_id:
+                            text.append(SHEBANQ.replace("replace", shebanq_id))
+                    if ubs:
+                        ubs_reference = get_ubs_reference(word_hebrew, ubs_dict)
+                        if ubs_reference:
+                            text.append(UBS.replace("replace", ubs_reference))
                     if not word_english or not word_hebrew:
                         error(f"Metadata for {filename} incomplete")
                     title_english = title if title else word_english.replace('_', ' ')
