@@ -178,8 +178,8 @@ shortened form of <i>yṯʿil</i> (Sawyer 1975: 78).
 
 <b>A.6</b>  The name <i>Yašuya</i> in Amarna letter EA 256 (line 18: <small><sup>m</sup></small><i>ya-šu-ia</i>) has been identified with the Biblical name
 <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span>,
- `Joshua’ (Olmstead 1931: 188, 197; 
-Ges<small><sup>18</sup></small>, 499; cf. Knudtzon 1915: II, 1319). The name <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> is seen as a combination of a form of <span dir="rtl" lang="he">יהוה</span> and a noun derived from 
+ `Joshua’ (Olmstead 1931: 188, 197; cf. Knudtzon 1915: II, 1319; 
+Ges<small><sup>18</sup></small>, 449). The name <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> is seen as a combination of a form of <span dir="rtl" lang="he">יהוה</span> and a noun derived from 
 <span dir="rtl" lang="he">ישׁע</span>
 (Ges<small><sup>18</sup></small>, 449).[^EA] 
 The identification of the name Yašuya with <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> was rejected by Albright (1943: 12 n. 27), arguing that the Akk. form
