@@ -224,7 +224,7 @@ Prov 31:19<small><sup>LXX</sup></small>;
 <b>c.</b>  Targum (Tg: J/K)  
 
 * <span dir="rtl" lang="he">אַגְרָא</span>,
- ‘wages’, ‘reward’, ‘profit’:[^9] 2 Sam 3:29<small><sup>J</sup></small>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff’, ‘crutch’, ‘pole’[^10] is questionable (Van Staalduine-Sulman 2002: 499-500).   
+ ‘wages’, ‘reward’, ‘profit’:[^9] 2 Sam 3:29<small><sup>J</sup></small>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff’, ‘crutch’, ‘pole’,[^10] is questionable (Van Staalduine-Sulman 2002: 499-500).   
 * <span dir="rtl" lang="he">מעזלא</span>,
 derivative of עזל,
 ‘to spin’,

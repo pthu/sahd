@@ -12,7 +12,7 @@ First published: 2016-01-01<br>
 
 [BOTH THE HIPHIL AND THE RARER NIPHAL ARE DEALT WITH HERE.]
 
-For fuller discussion of the lexical field as a whole see on this site the   
+For fuller discussion of the lexical field as a whole see on this site the 
 <a href="/sahd/miscellaneous/overview_deliverance/" target="_blank" rel="noopener noreferrer">‘Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies
 (opens in a new tab/window).
@@ -176,11 +176,16 @@ in the names <i>yṯʿd</i> (Gröndahl 1967: 47) and perhaps <i>yṯil</i>, if i
 shortened form of <i>yṯʿil</i> (Sawyer 1975: 78).
 
 
-<b>A.6</b>  In an Amarna letter (EA 256, line 18) the name of a 
-leader in the revolt in southern Palestine is 
-<small><sup>m</sup></small>ya-šu-ia = <i>Yašuya</i>, 
-a possible example of a name with the verbal root 
-(Knudtzon 1915, II: 1319; <i>HALOT</i>, 397).
+<b>A.6</b>  The name <i>Yašuya</i> in Amarna letter EA 256 (line 18: <small><sup>m</sup></small><i>ya-šu-ia</i>) has been identified with the Biblical name
+<span dir="rtl" lang="he">יְהוֹשֻׁעַ</span>,
+ `Joshua’ (Olmstead 1931: 188, 197; 
+Ges<small><sup>18</sup></small>, 499; cf. Knudtzon 1915: II, 1319). The name <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> is seen as a combination of a form of <span dir="rtl" lang="he">יהוה</span> and a noun derived from 
+<span dir="rtl" lang="he">ישׁע</span>
+(Ges<small><sup>18</sup></small>, 449).[^EA] 
+The identification of the name Yašuya with <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> was rejected by Albright (1943: 12 n. 27), arguing that the Akk. form
+should have been *<i>Ya-ẖu-šu-uẖ</i>.
+
+[^EA]: <i>HAL</i>, 379; <i>HALOT</i>, 397 assumes the combination of <span dir="rtl" lang="he">יהוה</span> and <span dir="rtl" lang="he">שׁוע</span>, ‘Yhwh is help’.
 
 
 <b>A.7</b> The Aram. name <i>hdysʿy</i> (Akk. <i>adad-it-ʾi</i>) in ll. 1, 6 and 12 of
@@ -1061,6 +1066,14 @@ inscription bilingue assyro-araméenne</i>
 (Études Assyriologiques Cahiers, 7.) 
 Paris: Editions Recherche sur les civilisations.
 	</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">s
+Albright 1943
+W.F. Albright, `Two Little Understood Amarna Letters from the Middle Jordan Valley’, BASOR 89, 7-17.
+
+Olmstead 1931
+History of Palestine and Syria to the Macedonian Conquest, New York & London: Charles Scribner’s Sons. 
+
 
 
 <div style="padding-left: 22px; text-indent: -22px;">

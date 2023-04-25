@@ -8,7 +8,7 @@ Semantic Fields:
 First published: 2011-01-01<br>Revised: 2017-01-01
 
 
-For fuller discussion of the lexical field as a whole see on this site the  
+For fuller discussion of the lexical field as a whole see on this site the 
 <a href="/sahd/miscellaneous/overview_deliverance/" target="_blank" rel="noopener noreferrer">‘Overview
 of SAHD entries for ‘Deliverance’ words</a>  by Graham I. Davies
 (opens in a new tab/window).
@@ -18,29 +18,29 @@ of SAHD entries for ‘Deliverance’ words</a>  by Graham I. Davies
 
 Grammatical Type: n.f.
 
-Occurrences: 79x HB (4/25/50); 1x Sir; 23x (+ 6 pars.) Qum.; 0x inscr. (Total: 103).   
+Occurrences: 79x HB (4/25/50); 1x Sir; 23x (+ 6 pars.) Qum; 0x inscr. (Total: 103).   
 
 * Torah: Gen 49:18; Exod 14:13; 15:2; Deut 32:15.
 * Nebiim: 1 Sam 2:1; 14:45; 2 Sam 10:11; 22:51; Isa 12:2 (2x), 3; 25:9;
 26:1, 18; 33:2, 6; 49:6, 8; 51:6, 8; 52:7, 10; 56:1; 59:11, 17; 60:18;
-62:1; Jonah 2:10; Hab 3:8.
+62:1; Jon 2:10; Hab 3:8.
 * Ketubim: Pss 3:3, 9; 9:15; 13:6; 14:7; 18:51; 20:6; 21:2, 6; 22:2;
 28:8; 35:3, 9; 42:6, 12; 43:5; 44:5; 53:7; 62:2, 3, 7; 67:3; 68:20;
 69:30; 70:5; 74:12; 78:22; 80:3; 88:2; 89:27; 91:16; 96:2; 98:2, 3;
 106:4; 116:13; 118:14, 15, 21; 119:123, 155, 166, 174; 140:8; 149:4; Job
 13:16; 30:15; 1 Chron 16:23; 2 Chron 20:17, 78.
-* Qum.: CD 20:34; 1QH<small><sup>a</sup></small> 6:5; 7:19; 19:23 (= 4QH<small><sup>a</sup></small> 1:5); 20:3 (=
+* Sir: 32:25(B) (Beentjes, <i>BBSH</i>, 35:25).
+* Qum: CD 20:34; 1QH<small><sup>a</sup></small> 6:5; 7:19; 19:23 (= 4QH<small><sup>a</sup></small> 1:5); 20:3 (=
 4QH<small><sup>a</sup></small>3:2-3); 26:10 (= 4QH<small><sup>a</sup></small> 7 i 14); 1QS 1:19; 10:17 (= 4QS<small><sup>b</sup></small> 20:6;
 4QS<small><sup>f</sup></small> 4:4); 11:12; 1QM 1:5; 4:13; 13:13; 14:5; 18:7; 4Q185 2:13; 4Q381 15:9; 4Q438 4 ii+5:3; 4Q491 (4QM<small><sup>a</sup></small>) 11 ii 17 (cf. 1QM 16:16ff.); 15:7; 4Q503 48-50:6; 4Q511 1:5; 10:8.  
 No context: 4Q511 38:3.
-* Sir.: 32:25(B) (Beentjes, <i>BBSH</i>, 35:25)
 * Text doubtful: —
 
 
 <b>B.1</b> Dahmen (2013: 315) assumes the restoration 
 <span dir="rtl" lang="he">[&nbsp;&nbsp;&nbsp;ישׁו]עתי אשר תרים למצער</span>
 in
-1QH<small><sup>a</sup></small> 14:10-11 (its numbering: ll. 7-8 in the <i>DSS.SE</i>).<!-- CHECK numbering--> It is not clear how אשר can be
+1QH<small><sup>a</sup></small> 14:10-11 (its numbering: ll. 7-8 in the <i>DSS.SE</i> ).<!-- CHECK numbering--> It is not clear how אשר can be
 fitted into this restoration: the alternative (in Lohse as well as the
 <i>DSS.SE</i>) which restores
 <span dir="rtl" lang="he">[כי יד]עתי</span>
@@ -53,49 +53,47 @@ Qere/Ketiv: none.
 
 ## 1. Root and Comparative Material
 
-<b>A.1</b>  See <a href="https://pthu.github.io/sahd/words/to_save%2C_help/#1-root-and-comparative-material" target="_blank" rel="noopener noreferrer">ישׁע</a> (opens in a new tab/window).
-<!--
-<a href="https://pthu.github.io/sahd/words/rescue"> ישׁע</a>.
--->
+<b>A.1</b>  See <a href="/sahd/words/to_save%2C_help/#1-root-and-comparative-material" target="_blank" rel="noopener noreferrer"><span dir="rtl" lang="he">ישׁע</span>, 1. Root and Comparative Material</a> (opens in a new tab/window).
 
 
 ## 2. Formal Characteristics
 
-<b>A.1</b>  The pattern is <i>qatūlat</i> (BL:471-72), for which there are examples
-with both stative (גְּבוּרָה, מְלוּכָה) and passive (שְׁבוּעָה, שְׁמוּעָה)
+<b>A.1</b>  The pattern is <i>qatūlat</i> (BL, 471-72), for which there are examples with both stative 
+(<span dir="rtl" lang="he">גְּבוּרָה</span>, <span dir="rtl" lang="he">מְלוּכָה</span>) and passiv
+(<span dir="rtl" lang="he">שְׁבוּעָה</span>, <span dir="rtl" lang="he">שְׁמוּעָה</span>)
 meanings. Other such formations seem to be related to the qal stem,
 which is not attested in BH for ישׁע.
 
-<b>A.2</b>  12x in plural in OT (9x Ps, 2x Is, 1x 2Sm), 8x in Qum (1QH<small><sup>a</sup></small>
+<b>A.2</b>  12x in plural in OT (9x Psalms, 2x Isaiah, 1x 2&nbsp;Samuel), 8x in Qum (1QH<small><sup>a</sup></small>
 19:23; 1QS 1:19; 1QM 4:13; 18:7; 4Q185 2:13; 4Q438 4 ii+5:3; 4Q511 1:5;
 10:8).
 
 
 <b>A.3</b>  Even if gender represents a difference in meaning between יְשׁוּעָה
-and יֵשַׁע (see Exegesis A.4 and Conclusion A.4), it still could be
-employed for poetical reasons (Watson 1980:339). Is 62:1b exhibits what
-Watson calls a ‘reversed pattern’, with m. צֶדֶק corresponding to f.
+and יֵשַׁע (see <a href="#6.A.4">Exegesis&nbsp;A.4</a> and <a href="#7.A.4">Conclusion&nbsp;A.4</a>), it still could be
+employed for poetical reasons (Watson 1980: 339). Isa 62:1b exhibits what
+Watson calls a ‘reversed pattern’, with masc. צֶדֶק corresponding to fem.
 יְשׁוּעָה.
 
 ## 3. Syntagmatics
 
 
-<b>A.1</b>  יְשׁוּעָה is the subject of the verbs הָיָה ‘to be’(Is 51:6) + לְ (Is
-49:6), יָצָא ‘to go out’ (Is 62:1), שׂגב piel (Ps 69:30), and עָבַר ‘to
+<b>A.1</b>  יְשׁוּעָה is the subject of the verbs הָיָה ‘to be’ (Isa 51:6) + לְ (Isa
+49:6), יָצָא ‘to go out’ (Isa 62:1), שׂגב piel (Ps 69:30), and עָבַר ‘to
 pass over’ (Jb 30:15).
 
 
 <b>A.2</b>  יְשׁוּעָה is the direct object of the verbs רָאָה ‘to see’ (Exod 14:13;
-Is 52:10; Ps 98:3; 2Ch 20:17), עָשָׂה ‘to do’ (1Sm 14:45; Is 26:18 [of
-pl]), גדל hiph ‘to magnify’ (2Sm 22:51=Ps 18:51), שִׁית ‘to set up’ (Is
-26:1), שׁמע hiph ‘to announce’ (Is 52:7), נָתַן ‘to give’ (Ps 14:7; 53:7
+Isa 52:10; Ps 98:3; 2Ch 20:17), עָשָׂה ‘to do’ (1&nbsp;Sam 14:45; Isa 26:18 [of
+pl]), גדל hiph ‘to magnify’ (2&nbsp;Sam 22:51=Ps 18:51), שִׁית ‘to set up’ (Isa
+26:1), שׁמע hiph ‘to announce’ (Isa 52:7), נָתַן ‘to give’ (Ps 14:7; 53:7
 [of pl]), צוה piel ‘to command’ (Ps 44:5), פָּעַל ‘to make’ (Ps 74:12
 [of pl]), בשׂר piel ‘to report’ (Ps 96:2; 1Ch 16:23), and יָדַע hiph ‘to
 make known’ (Ps 98:2).
 
 
-<b>A.3</b>  יְשׁוּעָה is governed by קוה piel + לְ to await’ (Gn 49:18; Is
-59:11), שָׂמַח + בְּ ‘to rejoice in’ (1Sm 2:1; Is 25:9; Sir 32/35:25),
+<b>A.3</b>  יְשׁוּעָה is governed by קוה piel + לְ to await’ (Gen 49:18; Isa
+59:11), שָׂמַח + בְּ ‘to rejoice in’ (1&nbsp;Sam 2:1; Isa 25:9; Sir 32/35:25),
 גִיל + בְּ ‘to rejoice in’ (Ps 9:15; 13:6; 21:2; 4Q511 1:5), רנן piel +
 בְּ ‘to shout about’ (Ps 20:6; 1QH<small><sup>a</sup></small> 26:10; 1QS 10:17), שׂוּשׂ + בְּ ‘to
 rejoice in’ (Ps 35:9; 1QM 13:13), זמר + בְּ ‘to sing of’ (1QH<small><sup>a</sup></small>
@@ -108,16 +106,16 @@ It is also the indirect object of פאר piel + בְּ ‘to adorn with’ (Ps
 
 
 <b>A.4</b>  יְשׁוּעָה is nomen regens of יהוה ‘Lord’ (Exod 14:13; 2Ch 20:17),
-אֱלֹהִים ‘God’ (Is 52:10; Ps 98:3), יִשְׂרָאֵל ‘Israel’ (Ps 14:7), and of
+אֱלֹהִים ‘God’ (Isa 52:10; Ps 98:3), יִשְׂרָאֵל ‘Israel’ (Ps 14:7), and of
 עולם ‘eternity’ (1QH<small><sup>a</sup></small> 7:19). The plural of יְשׁוּעָה is nomen regens
-of מֶלֶךְ ‘king’ (2Sm 22:51), מָשִׁיחַ ‘anointed’ (Ps 28:8 [with
+of מֶלֶךְ ‘king’ (2&nbsp;Sam 22:51), מָשִׁיחַ ‘anointed’ (Ps 28:8 [with
 מָעוֹז]), פנה ‘face’ (Ps 42:6, 12; 43:5), יַעֲקוֹב Jacob (Ps 44:5),
 יִשְׂרָאֵל ‘Israel’ (Ps 53:7 [contrast Ps 14:7]).
 
 
 <b>A.5</b>  יְשׁוּעָה is nomen rectum of צוּר ‘rock’ (Dt 32:15; Ps 89:27),
-מַעְיָנִים ‘springs’ (Is 12:3), חֹסֶן ‘treasure’ (Is 33:6), יוֹם ‘day’
-(Is 49:8), כֹּבַע ‘helmet’ (Is 59:17), pl ptc אָהַב ‘to love’ (Ps 70:5),
+מַעְיָנִים ‘springs’ (Isa 12:3), חֹסֶן ‘treasure’ (Isa 33:6), יוֹם ‘day’
+(Isa 49:8), כֹּבַע ‘helmet’ (Isa 59:17), pl ptc אָהַב ‘to love’ (Ps 70:5),
 אֱלֹהִים ‘God’ (Ps 88:2), קוֹל ‘sound’ (Ps 118:15), עֹז ‘strength’ (Ps
 140:8), אהל ‘tent’ (1QH 20:3; 26:10), עת ‘time’ (1QM 1:5), and תעודות
 ‘pledges’ (1QM 14:5). The plural of יְשׁוּעָה is nomen rectum of מָעוֹז
@@ -125,7 +123,7 @@ of מֶלֶךְ ‘king’ (2Sm 22:51), מָשִׁיחַ ‘anointed’ (Ps 28:8 
 ‘cup’ (Ps 116:13), אל ‘God’ (1QS 1:19; 1QM 4:13), שׁער ‘gate’ (1QM 18:7),
 רוח ‘spirit’ (4Q438 4 ii+5:3), רנה ‘jubilation’ (4Q511 1:5), and כנור
 harp’ (1QH<small><sup>a</sup></small> 19:23; 4Q511 10:8). Although יְשׁוּעָה is often used of
-God (referred to by a suffix in (e.g.) Is 51:6; Ps 98:2; at Qumran CD
+God (referred to by a suffix in (e.g.) Isa 51:6; Ps 98:2; at Qumran CD
 20:34; 1QH<small><sup>a</sup></small> 6:5; 1QS 10:17; 1QM 13:13; 4Q 185 2:13; 4Q381 15:9; Sir
 32/35:25[?]), it is very rarely the nomen rectum of אֱלֹהִים, which is a
 significant contrast to יֵשַׁע. In view of the number of occurrences of
@@ -135,23 +133,23 @@ significant contrast to יֵשַׁע. In view of the number of occurrences of
 
 
 <b>A.6</b>  יְשׁוּעָה is found in a nominal clause withבְּעֵת צָרָה ‘in the time
-of distress’ (Is 33:2), לַיהוה ‘to the Lord’ (Jn 2:10; Ps 3:9), אֲני ‘I
+of distress’ (Isa 33:2), לַיהוה ‘to the Lord’ (Jn 2:10; Ps 3:9), אֲני ‘I
 [= God]’ (Ps 35:3), מִמֶּנּוּ ‘from him’ (Ps 62:2), לִי ‘for me’ (Jb
 13:16), and לעמו ‘for his [God’s] people’ (4Q491(4QM<small><sup>a</sup></small>) 11 ii 17;
 15:7).
 
 
-<b>A.7</b>  יְשׁוּעָה is the predicate of אֵל ‘God’ (Is 12:2; Ps 68:20), יהוה
+<b>A.7</b>  יְשׁוּעָה is the predicate of אֵל ‘God’ (Isa 12:2; Ps 68:20), יהוה
 ‘Lord’ (Ps 28:8), הוּא ‘He [=God]’ (Ps 62:3, 7), אַתָּה ‘you =[God]’ (Ps
 89:27).
 
 
-<b>A.8</b>  יְשׁוּעָה is modified by the adjectives גָּדוֹל ‘great’ (1Sm 14:45),
-קָרוֹב ‘near’ (Is 56:1).
+<b>A.8</b>  יְשׁוּעָה is modified by the adjectives גָּדוֹל ‘great’ (1&nbsp;Sam 14:45),
+קָרוֹב ‘near’ (Isa 56:1).
 
 
 <b>A.9</b>  יְשׁוּעָה is preceded by the preposition לְ after the verb הָיָה ‘to
-be’ (Exod 15:2; 2Sm 10:11; Is 12:2; Ps 118:14, 21), the particle אֵין
+be’ (Exod 15:2; 2&nbsp;Sam 10:11; Isa 12:2; Ps 118:14, 21), the particle אֵין
 ‘not’ (Ps 3:3), רָחוֹק + מִן ‘far from’ (Ps 22:2; 119:155).
 
 
@@ -159,14 +157,14 @@ be’ (Exod 15:2; 2Sm 10:11; Is 12:2; Ps 118:14, 21), the particle אֵין
 7).
 
 
-<b>A.11</b>  יְשׁוּעָה is in apposition to חוֹמָה ‘wall’ (Is 60:18), יהוה‘Lord’
+<b>A.11</b>  יְשׁוּעָה is in apposition to חוֹמָה ‘wall’ (Isa 60:18), יהוה‘Lord’
 (Ps 140:8)
 
 
-<b>B.1</b>  In the parallel verses 2Sm 22:51 and Ps 18:51 the pl. יְשׁוּעוֹת is
-preceded by a word that is read מַגְדִּיל in the K of 2Sm and in the Q
+<b>B.1</b>  In the parallel verses 2&nbsp;Sam 22:51 and Ps 18:51 the pl. יְשׁוּעוֹת is
+preceded by a word that is read מַגְדִּיל in the K of 2&nbsp;Sam and in the Q
 of Ps 18, but מִגדּוֹל, ‘tower’ (a unique form of the noun), in the Q of
-2Sm. The K of Ps 18 could be read either as a defective writing of
+2&nbsp;Sam. The K of Ps 18 could be read either as a defective writing of
 מַגְדִּיל or as מִגְדֹּל (or indeed מִגְדָּל, the normal form). The
 Versions uniformly presuppose מַגְדִּיל in both places and Luther and
 most modern EVV follow suit. But KJV followed the Q in each verse and
@@ -199,21 +197,21 @@ already made יְשׁוּעָה into an attribute of מַרְכְּבֹתֶיךָ
 paraphrase to get round the problem of a nomen rectum following a
 suffixed form. As Rudolph (who translates: ‘mit deinen siegreichen
 Wagen’ [1975:231]) points out, GK §131r allows for a noun to be attached
-adverbially in ‘apposition in the wider sense’ (cf. Ez 16:27; 24:13; 2Sm
+adverbially in ‘apposition in the wider sense’ (cf. Ez 16:27; 24:13; 2&nbsp;Sam
 22:33; Ps 71:7): cf. A.11 above.
 
 ## 4. Ancient Versions
 
 <b>a.</b> Septuagint (LXX) and other Greek versions  
-σωτήρ (Dt. 32:15; Is 12:2a; Ps 62[61]:3, 7);  
-σωτηρία (Gn 49:18; Exod 14:13; 15:2; 1Sm 2:1; 14:45; 2Sm 10:11; 22:51; Is
+σωτήρ (Dt. 32:15; Isa 12:2a; Ps 62[61]:3, 7);  
+σωτηρία (Gen 49:18; Exod 14:13; 15:2; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 10:11; 22:51; Isa
 12:2b; 25:9; 26:18 [pl for s]; 33:2, 6 [pl for s]; 49:6, 8; 52:7, 10;
 59:11; Hb 3:8; Ps 3:3, 9; 18[17]:51; 22[21]:2; 35[34]:3; 42[41]:12 [s
 for pl]; 44[43]:5 [s for pl]; 69[68]:30; 74[73]:12 [s for pl]; 88[87]:2;
 89[88]:27; 118[117]:14, 15, 21; 119[118]:155; 140[139]:8; 149:4; Jb
 13:16; 30:15; 1Ch 16:23; 2Ch 20:17);
 
-σωτήριον (Is 12:3; 26:1; 51:6, 8; 56:1; 59:17; 60:18; 62:1; Jn 2:10; Ps
+σωτήριον (Isa 12:3; 26:1; 51:6, 8; 56:1; 59:17; 60:18; 62:1; Jn 2:10; Ps
 9:15; 13[12]:6, 7; 20[19]:6; 21[20]:2, 6; 28[27]:8; 35[34]:9; 42[41]:6
 [s for pl]; 43[42]:5 [s for pl]; 53[52]:7 [s for pl]; 62[61]:2;
 67[66]:3; 68[67]:20; 70[69]:5; 78[77]:22; 91[90]:16; 96[95]:2; 98[97]:2,
@@ -226,24 +224,24 @@ Minor Greek Versions [MRN]:
 
 
 <b>b.</b> Peshitta (Pesh.)  
-<i>pwrqnʾ</i> (Gn 49:18; Exod 14:13; 15:2; Dt 32:15; 1Sm 2:1;
-14:45; 2Sm 22:51; Is 12:2 [2x], 3; 25:9; 26:1, 18; 33:2, 6; 49:6, 8;
+<i>pwrqnʾ</i> (Gen 49:18; Exod 14:13; 15:2; Dt 32:15; 1&nbsp;Sam 2:1;
+14:45; 2&nbsp;Sam 22:51; Isa 12:2 [2x], 3; 25:9; 26:1, 18; 33:2, 6; 49:6, 8;
 51:6, 8; 52:7, 10; 56:1; 59:11, 17; 60:18; 62:1; Hb 3:8; Ps 3:3, 9;
 9:15; 13:6; 14:7; 18:51; 20:6; 21:2, 6; 22:2; 28:8; 35:3, 9; 42:6, 12;
 43:5; 44:5; 53:7; 62:2, 3, 7; 67:3; 68:20; 69:30; 70:5; 74:12; 78:22;
 80:3; 88:2; 89:27; 91:16; 96:2; 98:2, 3; 106:4; 116:13; 118:14, 15, 21;
 119:123, 155, 166, 174; 140:8; 149:4; Jb 13:16; 30:15; 1Ch 16:23; 2Ch
 20:17);  
-<i>mʿdrnʾ</i> (2Sm 10:11);  
+<i>mʿdrnʾ</i> (2&nbsp;Sam 10:11);  
 [[<i>pwrʿnʾ</i> (Jn 2:10)]].
 
 
 
 <b>c.</b> Targum (Tg.)  
 פרק
- (Exod 15:2; 2Sm 10:11; Is 12:2; Ps 35:3; 118:14, 21);  
+ (Exod 15:2; 2&nbsp;Sam 10:11; Isa 12:2; Ps 35:3; 118:14, 21);  
 פורקנא
- (Gn 49:18; Exod 14:13; 1Sm 2:1; 14:45; 2Sm 22:51; Is 12:2; 25:9;
+ (Gen 49:18; Exod 14:13; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 22:51; Isa 12:2; 25:9;
 26:1, 18; 33:2; 49:6, 8; 51:6, 8; 52:7, 10; 56:1; 59:11, 17; 60:18;
 62:1; Jn 2:10; Ps 3:3, 9; 9:15; 13:6; 14:7; 18:51; 20:6; 21:2, 6; 22:2;
 28:8; 35. 9; 42:6, 12; 43:5; 44:5; 53:7; 62:2, 3, 7; 67:3; 68:20 [with
@@ -253,29 +251,29 @@ expansion]; 69:30; 70:5; 74:12; 78:22; 88:2; 89:27; 91:16; 96:2; 98:2,
 פרק
  (part.: Dt 32:15; inf.: Ps 80:3);  
 צדקא
- (Is 12:3);  
+ (Isa 12:3);  
 תקוף ופרקן
- (Is 33:6; Hb 3:8).
+ (Isa 33:6; Hb 3:8).
 
 
 
 <b>d.</b> Vulgate: (Vulg.)  
-<i>adiutorium</i> (2Sm 10:11);  
+<i>adiutorium</i> (2&nbsp;Sam 10:11);  
 <i>auxilium</i> (2Ch 20:17);  
 <i>Iesus</i> (Ps 149:4);  
-[[<i>iustitia</i> (Is 51:8)]];  
+[[<i>iustitia</i> (Isa 51:8)]];  
 <i>magnalia</i> (Exod 14:13);  
-<i>salus</i> (Exod 15:2; 1Sm 14:45; 2Sm 22:51; Is 12:2b; 26:18; 33:2, 6; 49:6,
+<i>salus</i> (Exod 15:2; 1&nbsp;Sam 14:45; 2&nbsp;Sam 22:51; Isa 12:2b; 26:18; 33:2, 6; 49:6,
 8; 51:6; 52:7; 56:1; 59:11, 17; 60:18; Jn 2:10; Ps 3:3, 9; 14[13]:7;
 18[17]:51; 22[21]:2; 35[34]:3, 9; 42[41]:12; 43[42]:5; 44[43]:5;
 62[61]:2, 3, 7; 67[66]:3; 68[67]:20; 69[68]:30; 74[73]:12; 88[87]:2;
 89[88]:27; 116[115]:13; 118[117]:14, 15, 21; 119[118]:155; 140[139]:8;
 Jb 30:15);  
-<i>salutaris</i> (Gn 49:18; Dt 32:15; 1Sm 2:1; Is 25:9; 52:10; Ps 9:15; Ps
+<i>salutaris</i> (Gen 49:18; Dt 32:15; 1&nbsp;Sam 2:1; Isa 25:9; 52:10; Ps 9:15; Ps
 13[12]:6; 20[19]:6; 21[20]:6; 28[27]:8; 42[41]:6; 53[52]:7; 70[69]:5;
 78[77]:22; 91[90]:16; 96[92]:2; 98[97]:2, 3; 106[105]:4; 119[118]:123,
 166, 174; 1Ch 16:23);  
-<i>salvator</i> (Is 12:2a, 3; 26:1; 62:1; Jb 13:16);  
+<i>salvator</i> (Isa 12:2a, 3; 26:1; 62:1; Jb 13:16);  
 <i>salvatio</i> (Hb 3:8);  
 <i>salvum facio</i> (Ps 80[79]:3).
 
@@ -283,7 +281,7 @@ Jb 30:15);
 <b>A.1</b>  The Versions in general choose the same translation equivalents as
 those of the cognate noun יֵשַׁע. What is striking in comparison with
 יֵשַׁע is the rarity of translations denoting a ‘saviour’, since the LXX
-only gives the rendering σωτήρ on four occasions (Dt. 32:15; Is 12:2a;
+only gives the rendering σωτήρ on four occasions (Dt. 32:15; Isa 12:2a;
 Ps 62[61]:3, 7), Tg פרק part. once (Dt 32:15) and the Vg <i>Iesus</i> once
 (Ps 149:4).
 
@@ -293,37 +291,37 @@ the equivalent of words like נָקָם and גְּמוּל, is based on its
 understanding of the context, not the meaning.
 
 
-<b>B.2</b>  In Is 51:8 Vg has <i>iustitia</i> for ישׁועה just after using <i>salus</i> for
+<b>B.2</b>  In Isa 51:8 Vg has <i>iustitia</i> for ישׁועה just after using <i>salus</i> for
 צדקה. It is clear that the regular equivalents have been inverted,
 following the order of the Heb. words in v. 6.
 
 ## 5. Lexical/Semantic Fields 
 
-<b>A.1</b>  [See in general ישׁע, 5. Lexical Fields]
+<b>A.1</b> See in general <a href="sahd/words/to_save%2C_help/#5-lexicalsemantic-fields" target="_blank" rel="noopener noreferrer"><span dir="rtl" lang="he">ישׁע</span>, 5. Lexical/Semantic Fields</a> (opens in a new tab/window).
 
 
 <b>A.2</b>  With a word which has all but four of its 78 biblical occurrences in
 poetry (see below 6. Exegesis A.1) parallelism offers some important
 clues to its meaning (with some support from close associations of other
 kinds). Surprisingly, there are hardly any matches with the
-‘deliverance’ word-group: only with the <i>verb</i> עָזַר in Is. 49:8. The
+‘deliverance’ word-group: only with the <i>verb</i> עָזַר in Isa 49:8. The
 shortage of frequent nouns from other roots in this group may well have
 contributed to this. In any case the parallel or related nouns fall into
 a number of other groups: words for success or blessing (רָמָה קֶרֶן
-‘horn exalted’ [1Sm 2:1], אוֹר ‘light’ [Is 49:6], אֹרֶךְ יָמִים ‘length
+‘horn exalted’ [1&nbsp;Sam 2:1], אוֹר ‘light’ [Isa 49:6], אֹרֶךְ יָמִים ‘length
 of days’ [Ps 91:16], בְּרָכָה ‘blessing’ [Ps 3:9], נְדָבָה ‘honour’ [Jb
 30:15]), words for power (עֹז ‘strength’ [Exod 15:2 par.; Ps 21:2; 28:8;
-140:8], זְרוֹעַ ‘arm’ [Is 33:2: reading זְרֹעֵנוּ with Vss], גְּבוּרָה
+140:8], זְרוֹעַ ‘arm’ [Isa 33:2: reading זְרֹעֵנוּ with Vss], גְּבוּרָה
 ‘might’ [Ps 86:3]; 1QS 10:17; 1QM 13:13), relational words (חֶסֶד
-‘kindness’ [2Sm 22:51 par.; Ps 13:6; Ps 98:3; 1QS 10:17 (cf. 11:12);
-4Q185 2:13], אֱמוּנָה ‘faithfulness’ [Is 33:6; Ps 98:3]), words for
+‘kindness’ [2&nbsp;Sam 22:51 par.; Ps 13:6; Ps 98:3; 1QS 10:17 (cf. 11:12);
+4Q185 2:13], אֱמוּנָה ‘faithfulness’ [Isa 33:6; Ps 98:3]), words for
 protection (זִמְרָת ‘protection’ [Exod 15:2 par.]; מָעוֹז ‘refuge’ [Ps
 28:8], צוּר ‘rock’ [Ps 62:3; 89:27]), words for praise (תְּהִלָּה
 ‘praise’ [Ps 62:18], רִנָּה ‘jubilation’ [Ps 118:15]), the related words
-צְדָקָה [Is 51:6, 8; 56:1; 59:17; Ps 98:2] and צֶדֶק [Ps 62:1] (which
+צְדָקָה [Isa 51:6, 8; 56:1; 59:17; Ps 98:2] and צֶדֶק [Ps 62:1] (which
 are often thought to mean ‘deliverance’ or ‘vindication’ in such cases)
-and occasionally words for justice (מִשְׁפָּט [Is 59:11]) or revenge
-(נָקָם [Is 59:17]) and the expression שׁוּב שְׁבוּת (Is 52:7; Ps
+and occasionally words for justice (מִשְׁפָּט [Isa 59:11]) or revenge
+(נָקָם [Isa 59:17]) and the expression שׁוּב שְׁבוּת (Isa 52:7; Ps
 14:7=52:7: ‘restoration’?); at Qumran additionally כפר ‘atone’ (CD
 20:34); שׁלום עד ‘everlasting peace’ (1QH<small><sup>a</sup></small> 7:19; cf. 1QM 13:13; 4Q503
 48-50:6); כבוד ‘glory’ (1QH<small><sup>a</sup></small> 20:3); משענה ‘support’ (1QM 4:13); עזר
@@ -333,7 +331,7 @@ Sir ריב ב[רי] ‘maintain the cause’ (32/35:25).
 
 
 <b>A.3</b>  Where יְשׁוּעָה is found in parallelism with צְדָקָה and a suffix is
-added to the feminine ending (Is 51:6, 8; 56:1; Ps 98:2), the
+added to the feminine ending (Isa 51:6, 8; 56:1; Ps 98:2), the
 association is emphasised by assonance, which in Ps 98:2 becomes
 end-rhyme (Watson 1984:229-33). This is a distinct poetic device from
 the feature noted in 2. Formal Characteristics A.2.
@@ -341,8 +339,8 @@ the feature noted in 2. Formal Characteristics A.2.
 ## 6. Exegesis
 
 
-<b>A.1</b>  יְשׁוּעָה is found only four times in biblical prose (Exod 14:13; 1Sm
-14:45; 2Sm 10:11; 2Ch 20:17), all in military contexts where ‘victory,
+<b>A.1</b>  יְשׁוּעָה is found only four times in biblical prose (Exod 14:13; 1&nbsp;Sam
+14:45; 2&nbsp;Sam 10:11; 2Ch 20:17), all in military contexts where ‘victory,
 success’ might be appropriate interpretations of the meaning. Most other
 occurrences are in Isaiah (19x) or Psalms (45x): no other book has more
 than two. By contrast one-third of the (33) occurrences of תְּשׁוּעָה are
@@ -353,17 +351,17 @@ in prose.
 that ‘salvation, deliverance’ is not central to the meaning of יְשׁוּעָה.
 Various kinds of ‘success’ secured by divine acts of power and
 faithfulness can be denoted by the word. An association with moral
-factors is important in Is 40-66 and Ps 98 (which are related in some
+factors is important in Isaiah 40-66 and Psalm 98 (which are related in some
 way) but not elsewhere.
 
 
-<b>A.3</b>  In Is 26:1 יְשׁוּעָה forms part of the picture of a strong, well
+<b>A.3</b>  In Isa 26:1 יְשׁוּעָה forms part of the picture of a strong, well
 defended city with ‘walls and bulwark’ (חוֹמוֹת וָחֵל). The verb יָשִׁית
 ‘sets up’ might be understood to have God as its subject, but an
 indefinite subject equivalent to a passive is perhaps more likely (cf.
 Tg, Vulg).
 
-
+<a id="6.A.4"></a>
 <b>A.4</b>  That יְשׁוּעָה is used of God’s acts but very rarely of God himself
 (in contrast to יֵשַׁע) is an overlooked semantic differentiation. Ben
 Asher, for example, sees no semantic differentiation between non-animate
@@ -397,7 +395,7 @@ reference to God’s ‘acts’ (see A.4 below).
 
 
 <b>A.2</b>  יְשׁוּעָה has a stative connotation, perhaps denoting ‘protection’,
-which is especially brought out by Is 26:1 where יְשׁוּעָה is set up like
+which is especially brought out by Isa 26:1 where יְשׁוּעָה is set up like
 walls and ramparts. Verbs of motion are rare with יְשׁוּעָה (Syntagmatics
 A.1) and it is much more common with verbs of feeling (Syntagmatics
 A.3), speaking or seeing (Syntagmatics A.2). Verbs of positioning are
@@ -409,7 +407,7 @@ power or protection (Syntagmatics A.5) and this is similar to the
 meaning of יֵשַׁע, although יְשׁוּעָה is not found so often with this
 sense.
 
-
+<a id="7.A.4"></a>
 <b>A.4</b>  The distinction between the masculine noun יֵשַׁע and the feminine
 יְשׁוּעָה is seen in part to be merely that of poetic variation.
 Synonymous parallelism has a preference for matching nouns of the same
