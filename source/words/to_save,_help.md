@@ -14,9 +14,10 @@ revised:
 
 [BOTH THE HIPHIL AND THE RARER NIPHAL ARE DEALT WITH HERE.]
 
-For fuller discussion of the lexical field as a whole see on this site:   
-<a href="/sahd/miscellaneous/overview_deliverance">‘Overview
-of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
+For fuller discussion of the lexical field as a whole see on this site the 
+<a href="/sahd/miscellaneous/overview_deliverance/" target="_blank" rel="noopener noreferrer">‘Overview
+of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies
+(opens in a new tab/window).
 
 
 ## Introduction
@@ -32,9 +33,9 @@ Occurrences: 205x HB (hiph.: 6/110/67; niph.: 2/12/7); 6x (or 7x?) Sir; 27x Qum.
 * Nebiim – niphal: 2 Sam 22:4; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16; Zech  9:9.
 * Ketubim - hiphil: Pss 3:8; 6:5; 7:2, 11; 12:2; 17:7; 18:28, 42; 20:7, 10; 22:22; 28:9; 31:3, 17; 34:7, 19; 36:7; 37:40; 44:4, 7, 8; 54:3; 55:17; 57:4; 59:3; 60:7; 69:2, 36; 71:2, 3; 72:4, 13; 76:10; 86:2, 16; 98:1; 106:8, 10, 21, 47; 107:13, 19; 108:7; 109:26, 31; 116:6; 118:25; 119:94, 146; 138:7; 145:19; Job 5:15; 22:29; 26:2; 40:14; Prov 20:22; Lam 4:17; Neh 9:27 (2x); 1 Chron 11:14; 16:35; 18:6, 13; 19:12, 19; 2 Chron 20:9; 32:22. 
 * Ketubim – niphal: Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18.
-* Sir: 4:9; add 13:6 (cf. DCH, Ges<small><sup>18</sup></small>)?; 33:1; 34:6; 48:20; 49:10; 51:3.
+* Sir: 4:9; add 13:6 (cf. <i>DCH</i> iv: 336, Ges<small><sup>18</sup></small>, 510)?; 33:1; 34:6; 48:20; 49:10; 51:3.
 * Qum: CD 5:19(A) (dupl. in 4Q267 2:2 and 6Q15 3:2); 9:9(A), 10(A);
-1QH<small><sup>a</sup></small> 10:25; (?) 11:6 (DCH = Sukenik 3:6); 1QM 10:4, 8; 11:3; 1QS
+1QH<small><sup>a</sup></small> 10:25; (?) 11:6 (<i>DCH</i> iv: 336 = Sukenik 3:6); 1QM 10:4, 8; 11:3; 1QS
 6:27; 4Q166 2:14; 4Q171 4:21; 4Q174 1:13; 4Q183 2:3; 4Q288 1:5; 4Q365 6a
 ii + 6c 3; 4Q372 1:16; 4Q380 1 ii 4; 4Q381 15:2; 31:2; 4Q385a 18 ii 10;
 4Q389 1 ii 3 (= 4Q387a 3 ii 11); 4Q417 22:2; 4Q511 10:9; 11QT 59:8, 11,
@@ -48,7 +49,7 @@ amenable to semantic analysis: 4Q226 5:1; 4Q372 8:3; 4Q374 2 ii 10;
 
 <b>A.1</b>  The phrase at 1&nbsp;Chron 11:14, וַיּוֹשַׁע יְהוָה תְּשׁוּעָה גְדוֹלָה ‘and
 the Lord saved a great victory’, corresponds to the wording at 2&nbsp;Sam
-23:12, which differs only in the verb (2&nbsp;Sam reads ויעשׂ ‘and he made’). A
+23:12, which differs only in the verb (2&nbsp;Samuel reads ויעשׂ ‘and he made’). A
 metathesis of the two letters, <i>‘ayin</i> and <i>shin</i>/ <i>sin</i>, in the verb has
 probably occurred in transmission, but it is difficult to say which was
 the original reading (see Tov 1992: 250). The frequency of the verb עשׂה,
@@ -78,9 +79,10 @@ Doubtful B.3, Syntagmatics A.3.
 <b>B.3</b>  The reading at D–1.008:4 is badly damaged and is doubted (see 
 <i>HAE</i>, 429).
 
-<b>B.4</b>  The three letters ישׁע (with the <i>yodh</i> uncertain) appear on a late
-third-century/early second-century inscription from Mount Gerizim (Naveh
-& Magen 1997: 43, text D). Since the inscription is broken off
+<b>B.4</b>  The three letters ישׁע 
+(with the <i>yodh</i> uncertain) appear on a late
+third-century/early second-century inscription from Mount Gerizim 
+(Naveh & Magen 1997: 43, text D). Since the inscription is broken off
 immediately before these letters, it is not possible to determine
 whether this is a whole word or part of it. It may be significant to
 note that the context suggests some form of dedicatory prayer, and the
@@ -92,10 +94,10 @@ most frequently in Psalms and could be an alternative reading here to
 the noun.
 
 
-<b>B.5</b>  In 1QH<small><sup>a</sup></small> 11:6 <i>DCH</i> iv, 336 and <i>ThWQ</i> (vol. II, col. 316) read 
+<b>B.5</b>  In 1QH<small><sup>a</sup></small> 11:6 <i>DCH</i> iv: 336 and Dahmen (2013: 316) read 
 <span dir="rtl" lang="he">[הוש]עתה נפש[י]</span>, 
 recalling the language of 10:25. But many scholars do not adopt this
-conjecture (e.g. Dupont-Sommer 1961: 207, Lohse 1971: 120 [1QH 3:6]) and the <i>DSS.SE</i>, 164–65
+conjecture (e.g. Dupont-Sommer 1961: 207, Lohse 1971: 120 [numbering acc. to Sukenik: 3:6]) and the <i>DSS.SE</i> (164–65)
 prints עתה as
 a complete word (‘Now’) preceded by a <i>vacat</i>. This ‘occurrence’ is best
 omitted from consideration.
@@ -165,8 +167,7 @@ frequent in Amorite names in comparison with some of the other NWSem.
 evidence.
 
 
-<b>A.4</b>  The verb appears in the Moabite inscription (line 4) in the
-expression <i>hšʿny mkl hšlkn</i>, ‘he delivered me from all assaults’ (Segert
+<b>A.4</b>  The verb appears in the Moabite inscription (KAI 181: line 4) in the expression <i>hšʿny mkl hšlkn</i>, ‘he delivered me from all assaults’ (Segert
 1961; Gibson 1971: 77–78). The noun might also appear in lines 3–4 –
  <i>bmt</i> [ <i>y</i>] <i>šʿ</i> ‘in the high place of salvation’. For an alternative
 reading to <i>bmt</i> see Gibson 1971:78.
@@ -177,15 +178,20 @@ in the names <i>yṯʿd</i> (Gröndahl 1967: 47) and perhaps <i>yṯil</i>, if i
 shortened form of <i>yṯʿil</i> (Sawyer 1975: 78).
 
 
-<b>A.6</b>  In an Amarna letter (EA 256, line 18) the name of a 
-leader in the revolt in southern Palestine is 
-<small><sup>m</sup></small>ya-šu-ia = <i>Yašuya</i>, 
-a possible example of a name with the verbal root 
-(Knudtzon 1915, II: 1319; <i>HALOT</i>, 397).
+<b>A.6</b>  The name <i>Yašuya</i> in Amarna letter EA 256 (line 18: <small><sup>m</sup></small><i>ya-šu-ia</i>) has been identified with the Biblical name
+<span dir="rtl" lang="he">יְהוֹשֻׁעַ</span>,
+ `Joshua’ (Olmstead 1931: 188, 197; 
+Ges<small><sup>18</sup></small>, 499; cf. Knudtzon 1915: II, 1319). The name <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> is seen as a combination of a form of <span dir="rtl" lang="he">יהוה</span> and a noun derived from 
+<span dir="rtl" lang="he">ישׁע</span>
+(Ges<small><sup>18</sup></small>, 449).[^EA] 
+The identification of the name Yašuya with <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> was rejected by Albright (1943: 12 n. 27), arguing that the Akk. form
+should have been *<i>Ya-ẖu-šu-uẖ</i>.
+
+[^EA]: <i>HAL</i>, 379; <i>HALOT</i>, 397 assumes the combination of <span dir="rtl" lang="he">יהוה</span> and <span dir="rtl" lang="he">שׁוע</span>, ‘Yhwh is help’.
 
 
 <b>A.7</b> The Aram. name <i>hdysʿy</i> (Akk. <i>adad-it-ʾi</i>) in ll. 1, 6 and 12 of
-the Tell Fekheriye bilingual inscription, probably of the mid-ninth
+the Tell Fekheriye bilingual inscription (KAI 309), probably of the mid-ninth
 century, can plausibly be associated with the root <i>yṯʿ</i>/ישׁע (see
 initially Abou-Assaf <i>et al.</i> 1982: 43-44, 80: more recent bibliography in
 Millard 2000: 154). ישׁע is a loan-word in Aramaic found in the Prayer of
@@ -275,8 +281,7 @@ far) unique to this inscription, where it occurs in some other words
 (Abou-Assaf <i>et al.</i> 1982: 44).
 
 
-<b>B.3</b>  It has been suggested that the Moabite name Mesha on the Moabite
-stone (cf. 2&nbsp;Kgs 3:4) was probably originally <i>mōšaʿ</i> (cf. LXX μωσα;
+<b>B.3</b>  It has been suggested that the Moabite name Mesha on the Moabite stone (KAI 181; cf. 2&nbsp;Kgs 3:4) was probably originally <i>mōšaʿ</i> (cf. LXX μωσα;
 Segert 1961: 246), but this seems unlikely. The verbal form also appears
 in the Moabite stone with the god Chemosh as subject. Gibson argues for
 a double base in proto-Semitic, one with the first consonant <i>y</i>- and
@@ -502,7 +507,7 @@ it is the predicate of and <span dir="rtl" lang="he">יהוה</span>
 
 ## 4. Ancient Versions
 
-<b>a.</b> Septuagint (LXX) and other Greek versions  
+<b>a.</b> Septuagint (LXX)
 
 Hiphil:   
 
@@ -547,8 +552,6 @@ Niphal:
 
 Large omission: Jer 33:16.  
 
-Minor Greek Versions [MRN]:
-
 
 <b>A.1</b>  Although the primary translation of ישׁע in the LXX is σώζω and its
 compounds (for both the hiphil and the niphal), there are some
@@ -586,7 +589,7 @@ Hiphil:  <!--(<i>ṭābāʾ</i>), :-->
 * <span dir="rtl" lang="-">ܥܒܕ ܦܘܪܩܢܐ</span>
 (<i>ʿbad purqānāʾ </i>), ‘to bring salvation’: 2&nbsp;Sam 3:18;  
 * <span dir="rtl" lang="-">ܥܒܕ ܢܨܚܢܐ</span>
-(<i>ʿbad</i>) \[+ <i>neṣḥānāʾ</i> = תְּשׁוּעָה], to bring victory’: in: 1&nbsp;Chron 11:14 [cf. LXX];  
+(<i>ʿbad</i>) \[+ <i>neṣḥānāʾ</i> = תְּשׁוּעָה], to bring victory’: 1&nbsp;Chron 11:14 [cf. LXX];  
 * <span dir="rtl" lang="-">ܥܕܪ</span>
 (<i>ʿdar</i>), ‘to help, to aid’: 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19;  
 * <span dir="rtl" lang="-">ܢܦܩ</span>
@@ -612,7 +615,7 @@ Sir 34:6; 48:20; 49:10;
 * <span dir="rtl" lang="-">ܫܘܙܒ</span>
 (<i>šwzb</i>), ‘to save, deliver, preserve’: Sir 51:3;   
 * <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
-(<i>zky</i>܇<i>zkʾ </i>) Pael, `to make victorious’: Judg 7:2.
+(<i>zky</i>/<i>zkʾ </i>) Pael, `to make victorious’: Judg 7:2.
 
 Omitted: 1&nbsp;Sam 25:31; Josh 10:6; Isa 43:11.  
 
@@ -624,8 +627,8 @@ Niphal:
 (<i>purqānāʾ </i>), ‘salvation’: Deut 33:29; Isa 45:17;  
 * <span dir="rtl" lang="-">ܦܪܩ</span>
 (<i>prq</i>) Ethpe. ‘to be saved’: 2&nbsp;Sam 22:4; Isa 30:15; 45:22; 64:4; Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18;  
-* <span dir="rtl" lang="-">ܦܨܝ</span>
-(<i>pṣʾ </i>) Ethpa., ‘to be saved’: Num 10:9.  
+* <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
+(<i>pṣy</i>/<i>pṣʾ </i>) Ethpa., ‘to be saved’: Num 10:9.  
 
 
 <b>A.1</b>  The Pesh, as the Tg (see below), has a preference for the verb
@@ -643,7 +646,7 @@ in the action of the verb, but this equivalent also appears only once.
 
 <b>A.3</b>  The meaning of bringing assistance is found in the translations
 <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
-(<i>zky</i>܇<i>zkʾ </i>) Pael (Judg 7:2) and <span dir="rtl" lang="-">ܥܕܪ</span> (<i>ʿdar</i>; 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19).
+(<i>zky</i>/<i>zkʾ </i>) Pael (Judg 7:2) and <span dir="rtl" lang="-">ܥܕܪ</span> (<i>ʿdar</i>; 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19).
 
 <b>A.4</b>  The translation <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
 (<i>pārōqāʾ </i>), ‘saviour’, is found frequently, for the
@@ -868,7 +871,7 @@ with LXX) and 33, in the dialogue between Abigail and David about how
 David is to respond to Nabal’s insults (vv. 10-11). The fact that in all
 three places the phrase is associated with incurring bloodguilt could be
 taken as evidence, in isolation, that it means specifically a judicial
-misdeed (so Sawyer 1982: 1049 [1990: 454, 457]). But this is improbable in
+misdeed (so Sawyer 1982: 1049, 1052 [1990: 454, 457]). But this is improbable in
 the light of the full range of occurrences of this idiom, especially
 those in which it is applied to God in a wholly positive sense (Is
 59:16; 63:5 and probably Ps 98:1). The data were assembled already by
@@ -1053,75 +1056,87 @@ the synchronic evidence more than the diachronic.
 
 ## Bibliography
 
-For the abbreviations see: 
-<a href="/sahd/store/abbreviations">List of Abbreviations</a>.
+For the abbreviations see the 
+<a href="/sahd/store/abbreviations/" target="_blank" rel="noopener noreferrer">List of Abbreviations</a>
+(opens in a new tab/window).
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Abou-Assaf 1982<br>   
-A. Abou-Assaf,  <i>et al.</i> <i>Lam Statue de Tell Fekherye et son
-inscription bilingue assyro-araméenne.</i> (Paris: Editions Recherche sur
-les civilisations).
+Ali Abou-Assaf,  <i>et al.</i> <i>La Statue de Tell Fekherye et son
+inscription bilingue assyro-araméenne</i>
+(Études Assyriologiques Cahiers, 7.) 
+Paris: Editions Recherche sur les civilisations.
 	</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">s
+Albright 1943
+W.F. Albright, `Two Little Understood Amarna Letters from the Middle Jordan Valley’, BASOR 89, 7-17.
+
+Olmstead 1931
+History of Palestine and Syria to the Macedonian Conquest, New York & London: Charles Scribner’s Sons. 
+
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Barr 1968<br>   
 James Barr, <i>Comparative Philology and the Text of the Old
-Testament,</i> (Oxford: Oxford University Press).
+Testament,</i> Oxford: Oxford University Press.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Buccellatti 1966<br>   
-G. Buccellatti, <i>The Amorites of the Ur III Period</i> (Naples).
+Giorgio Buccellatti, <i>The Amorites of the Ur III Period</i>, 
+Naples: Istituto Orientale di Napoli.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Cantineau 1930–32<br>   
-J. Cantineau, <i>Le nabatéen</i>, 2 vols. (Paris: Librairie Ernest
-Leroux).
+Jean Cantineau, <i>Le Nabatéen</i>, 2 vols., 
+Paris: Librairie Ernest Leroux.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Cathcart & Gordon 1989<br>   
-K.J. Cathcart & R.P. Gordon, <i>The Targum of the Minor Prophets,
+Kevin J. Cathcart & Robert P. Gordon, <i>The Targum of the Minor Prophets,
 translated, with a critical introduction, apparatus, and notes</i> (The
 Aramaic Bible, 14) Edinburgh: T&T Clark.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Cheyne	1899<br>   
-T.K. Cheyne, <i>The Book of the Prophet Isaiah:
-Critical Edition of the Hebrew Text.</i> (SBOT), Leipzig: J.C. Hinrichs.
+Thomas K. Cheyne, <i>The Book of the Prophet Isaiah:
+Critical Edition of the Hebrew Text.</i> (SBOT), 
+Leipzig: J.C. Hinrichs.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Clines 1989<br>   
 David J.A. Clines, 1989. <i>Job 1–20</i>. (WBC, 17), 
-Dallas, Tex.: Word Books.
+Dallas (TX): Word.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dohmen 2013<br>   
-C. Dohmen,  ‘ישׁע <i>yšʿ</i>’, <i>ThWQ</i>, vol. 2: 309-18.
+Ulrich Dahmen,  ‘ישׁע <i>yšʿ</i>’, <i>ThWQ</i>, vol. 2: 309-18.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Driver 1890<br>   
-S.R. Driver, <i>Notes on the Hebrew Text of the Books of Samuel</i>,
+Samuel R. Driver, <i>Notes on the Hebrew Text of the Books of Samuel</i>,
 Oxford Clarendon Press.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dupont-Sommer 1961<br>   
-A. Dupont-Sommer, <i>The Essene Writings from Qumran</i>, Oxford:
+André Dupont-Sommer, <i>The Essene Writings from Qumran</i>, Oxford:
 Basil Blackwell.
 	</div>
 
@@ -1143,7 +1158,7 @@ Leipzig: F.C.W. Vogel.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Gibson 1971<br>   
-J.C.L. Gibson, <i>Textbook of Syrian Semitic inscriptions: vol:1,
+John C.L. Gibson, <i>Textbook of Syrian Semitic inscriptions: vol:1,
 Hebrew and Moabite inscriptions</i>, Oxford: Clarendon Press.
 	</div>
 
@@ -1157,20 +1172,20 @@ Pohl, 1) Rom: Päpstliches Bibelinstitut.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Hubbard 1997<br>   
-R.L. Hubbard, ‘<span dir="rtl" lang="he">ישׁע</span>’, <i>NIDOTTE</i>, vol. 2: 556–62.
+Robert L. Hubbard, ‘<span dir="rtl" lang="he">ישׁע</span>’, <i>NIDOTTE</i>, vol. 2: 556–62.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Huffmon 1965<br>   
-H.B. Huffmon, <i>Amorite Personal Names in the Mari Texts: A
+Herbert B. Huffmon, <i>Amorite Personal Names in the Mari Texts: A
 Structural and Lexical Study</i>, Baltimore: John Hopkins Press.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Knudtzon 1915<br>   
-J.A. Knudtzon, <i>Die El-Amarna-Tafeln, mit Einleitungen und
+Jörgen A. Knudtzon, <i>Die El-Amarna-Tafeln, mit Einleitungen und
 Erläuterungen</i>, 2 vols. (Vorderasiatische Bibliothek, 2/1, 2) Leipzig.
 	</div>
 
@@ -1190,21 +1205,21 @@ Munich: Kösel Verlag.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Milik 1956<br>   
-J.T. Milik, ‘ “Prière de Nabonide” et autres écrits d’un cycle de
+Józef T. Milik, ‘ “Prière de Nabonide” et autres écrits d’un cycle de
 Daniel: fragments araméens de Qumran 4’, <i>RB</i> 63: 407–15.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Millard 2000<br>   
-A.R. Millard,  ‘Hadad-yithʿi (2:34)’, <i>CoS</i>, 
+Alan R. Millard,  ‘Hadad-yithʿi (2:34)’, <i>CoS</i>, 
 vol. 2:  153–54.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Moscati 1964<br>   
-S. Moscati, <i>et al.</i>, <i>An Introduction to the Comparative Grammar of
+Sabatino Moscati, <i>et al.</i>, <i>An Introduction to the Comparative Grammar of
 the Semitic Languages. Phonology and Morphology</i>, (Porta Linguarum
 Orientalium, 6), Wiesbaden: Harrassowitz.
 	</div>
@@ -1212,14 +1227,14 @@ Orientalium, 6), Wiesbaden: Harrassowitz.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Müller 1963 <br>   
-W.W. Müller, ‘Altsüdarabische Beiträge zum hebräischen Lexikon’,
+Walter W. Müller, ‘Altsüdarabische Beiträge zum hebräischen Lexikon’,
 <i>ZAW</i> 75: 304-16.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Müller 1979 <br>   
-W.W. Müller, ‘Abyataʿ und andere mit ytʿ gebildete Namen im
+Walter W. Müller, ‘Abyataʿ und andere mit ytʿ gebildete Namen im
 Frühnordarabischen und Altsüdarabischen’, <i>Die Welt des Orients</i>
 10: 23-29.
 	</div>
@@ -1227,7 +1242,7 @@ Frühnordarabischen und Altsüdarabischen’, <i>Die Welt des Orients</i>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Naveh & Magen 1997<br>   
-J. Naveh & Y. Magen, ‘Aramaic and Hebrew inscriptions of the
+Joseph Naveh & Yitzhak Magen, ‘Aramaic and Hebrew inscriptions of the
 second-century BCE at Mount Gerizim’, <i>Atiqot</i> 32: 37–56 [Hebrew], 9*–17*.
 	</div>
 
@@ -1241,7 +1256,7 @@ Gemeinsemitischen Namengebung</i>. [BzWAT, 3/10] (Stuttgart: Kohlhammer).
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ryckmans 1934–35. <br>   
-G. Ryckmans, <i>Les noms propres sud-sémitiques</i> (Bibliothèque
+Gonzague Ryckmans, <i>Les noms propres sud-sémitiques</i> (Bibliothèque
 du Muséon, 2), Louvain: Bureaux du Muséon.
 	</div>
 
@@ -1277,14 +1292,14 @@ James and Theodora Bynon (eds.),
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1982 [1990]
 <br>
-John F.A. Sawyer, ‘ישׁע’, in: <i>ThWAT</i>, vol. 3: 1035–59 
+John F.A. Sawyer, ‘ישׁע’, <i>ThWAT</i>, vol. 3: 1035–59 
 (ET 1990: <i>TDOT</i>, vol. 6: 441-63). 
 </div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Schultens 1761<br>   
-A. Schultens, <i>Origines Hebraeae sive Hebraeae linguae
+Albert Schultens, <i>Origines Hebraeae sive Hebraeae linguae
 antiquissima natura et indoles ex Arabiae penetralibus revocata</i> (2nd
 ed.), Leiden: Luchtmans and Le Mair.
 	</div>
@@ -1299,14 +1314,14 @@ Stanislav Segert, ‘Die Sprache der moabitischen Königinschrift’,
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Smolar & Aberbach 1983<br>   
-L. Smolar, & M. Aberbach, <i>Studies in Targum Jonathan to the
+Leivy Smolar, & Moses Aberbach, <i>Studies in Targum Jonathan to the
 Prophets</i>. (The Library of Biblical Studies), 
 New York: Ktav and Baltimore: Hebrew College.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Stolz 1971<br>   
-Stolz, F. 1971. ‘ישׁע <i>jšʿ</i> hi. Helfen’, <i>THAT</i> vol. 1: 785-90.
+Fritz Stolz, ‘ישׁע <i>jšʿ</i> hi. – helfen’, <i>THAT</i> vol. 1: 785-90.
 	</div>
 
 

@@ -1456,8 +1456,9 @@ th:nth-child(even),td:nth-child(even) {
 
 ## Bibliography
 
-For the abbreviations see:
-<a href="/sahd/store/abbreviations">List of Abbreviations</a>.
+For the abbreviations see the 
+<a href="/sahd/store/abbreviations/" target="_blank" rel="noopener noreferrer">List of Abbreviations</a>
+(opens in a new tab/window).
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1486,27 +1487,26 @@ Biblical Hebrew’, in: John Barton (ed.), <i>Bible and Interpretation: The Coll
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Barth 1977
+Barth 1977 [1981]
 <br>
-Ch. Barth, ‘חלץ’, in: <i>ThWAT</i>, vol. 2: 1003–08.
+Christoph Barth, ‘חלץ’, <i>ThWAT</i>, vol. 2: 1003–08 (ET 1981: <i>TDOT</i>, vol. 4: 436–41).
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Bergmann 1978a
 <br>
-U. Bergmann, ‘נצל hi. – retten’, in: <i>THAT</i>, vol. 2: 96–99. 
+U. Bergmann, ‘נצל hi. – retten’, <i>THAT</i>, vol. 2: 96–99. 
 </div> 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Bergmann 1978b
 <br>
-U. Bergmann, ‘עזר – helfen’, in: <i>THAT</i>, vol. 2: 256–59. 
+U. Bergmann, ‘עזר – helfen’, <i>THAT</i>, vol. 2: 256–59. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Cazelles 1989
-<br>
-Henri Cazelles, ‘פָּדָה’, in: <i>ThWAT</i>, vol. 6: 514—22.
+Cazelles 1989 [2001]<br>
+Henri Cazelles, ‘פָּדָה’, <i>ThWAT</i>, vol. 6: 514—22 (ET 2001: <i>TDOT</i>, vol. 11: 483–90).
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1531,15 +1531,15 @@ Alison R. Gray, <i>Psalm 18 in Words and Pictures: A Reading through Metaphor</i
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Hasel 1989
+Hasel 1989 [2001]
 <br>
-G.F. Hasel, ‘פָּלַט’, in: <i>ThWAT</i>, vol. 6: 589–606.
+G.F. Hasel, ‘פָּלַט’, <i>ThWAT</i>, vol. 6: 589–606 (ET 2001: <i>TDOT</i>, vol. 11: 551–67).
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Hossfeld and Kalthoff 1986
+Hossfeld and Kalthoff 1986 [1998]
 <br>
-F.L. Hossfeld, and B. Kalthoff, ‘נצל’, in: <i>ThWAT</i>, vol. 5: 570–77.
+Frank-Lothar Hossfeld, and B. Kalthoff, ‘נצל’, <i>ThWAT</i>, vol. 5: 570–77 (ET 1998: <i>TDOT</i>, vol. 9: 533–40).
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1549,9 +1549,9 @@ Phillip D. King, <i>Surrounded by Bitterness: Image Schemas and Metaphors for Co
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Lipiński and Fabry 1989
+Lipiński and Fabry 1989 [2001]
 <br>
-Edward Lipiński, and Heinz-Josef Fabry, ‘עזר’, in: <i>ThWAT</i>, vol. 6: 14–21.
+Edward Lipiński, and Heinz-Josef Fabry, ‘עזר’, <i>ThWAT</i>, vol. 6: 14–21 (ET 2001: <i>TDOT</i>, vol. 11: 12-18).
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1571,21 +1571,19 @@ Takamitsu Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> (AbrNSup, 6), Leuven
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Reiterer 1989  
-<br>
-F. Reiterer, ‘פָּרַק’, in: <i>ThWAT</i>, vol. 6: 770—73.
+Reiterer 1989 [2003]<br>
+Friedrich Reiterer, ‘פָּרַק’, <i>ThWAT</i>, vol. 6: 770—73 (ET 2003: <i>TDOT</i>, vol. 12: 111–14).
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Ringgren 1973
-<br>
-Helmer Ringgren, ‘גָּאַל’, in: <i>ThWAT</i>, vol. 1: 884–90.
+Ringgren 1973 [1975]<br>
+Helmer Ringgren, ‘גָּאַל’, <i>ThWAT</i>, vol. 1: 884–90 (ET 1975: <i>TDOT</i>, vol. 2: 350–55).
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ruprecht 1978
 <br>
-E. Ruprecht, ‘פלט pi. – retten’, in: <i>THAT</i>, vol. 2: 420–27. 
+E. Ruprecht, ‘פלט pi. – retten’, <i>THAT</i>, vol. 2: 420–27. 
 </div> 
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1624,7 +1622,7 @@ James and Theodora Bynon (eds.),
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1982
 <br>
-John F. A. Sawyer, ‘ישׁע’, in: <i>ThWAT</i>, vol. 3: 1035–59 (ET 1990: <i>TDOT</i>, 
+John F. A. Sawyer, ‘ישׁע’, <i>ThWAT</i>, vol. 3: 1035–59 (ET 1990: <i>TDOT</i>, 
 vol. 6: 441-63). 
 </div>
 
@@ -1637,19 +1635,19 @@ Johann J. Stamm, <i>Erlösen und Vergeben im Alten Testament</i>, Bern: Francke-
 <div style="padding-left: 22px; text-indent: -22px;">
 Stamm 1978a
 <br>
-Johann J. Stamm, ‘גאל – erlösen’, in: <i>THAT</i>, vol. 1: 383–94. 
+Johann J. Stamm, ‘גאל – erlösen’, <i>THAT</i>, vol. 1: 383–94. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Stamm 1978b
 <br>
-Johann J. Stamm, ‘פדה – auslösen, befreien’, in: <i>THAT</i>, vol. 2: 389–406.  
+Johann J. Stamm, ‘פדה – auslösen, befreien’, <i>THAT</i>, vol. 2: 389–406.  
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Stolz 1978
 <br>
-F. Stolz, ‘ישׁע hi. – helfen’, in: <i>THAT</i>, vol. 1: 785–90. 
+Fritz Stolz, ‘ישׁע hi. – helfen’, <i>THAT</i>, vol. 1: 785–90. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">

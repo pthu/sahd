@@ -5,17 +5,20 @@
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Authors:
 [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)[^*]<br>
+First published: 2011-01-01<br>Revised: 2017-01-01
 
-For fuller discussion of the lexical field as a whole see on this site the 
-<a href="/sahd/miscellaneous/overview_deliverance">‘Overview
-of SAHD entries for ‘Deliverance’ words</a>.
+
+For fuller discussion of the lexical field as a whole see on this site the  
+<a href="/sahd/miscellaneous/overview_deliverance/" target="_blank" rel="noopener noreferrer">‘Overview
+of SAHD entries for ‘Deliverance’ words</a>  by Graham I. Davies
+(opens in a new tab/window).
 
 
 ## Introduction
 
 Grammatical Type: n.f.
 
-Occurrences: 79x HB (4/25/50); 1x Sir; 23x (+ 6 pars.) Qum.;, 0x inscr. (Total: 103).   
+Occurrences: 79x HB (4/25/50); 1x Sir; 23x (+ 6 pars.) Qum.; 0x inscr. (Total: 103).   
 
 * Torah: Gen 49:18; Exod 14:13; 15:2; Deut 32:15.
 * Nebiim: 1 Sam 2:1; 14:45; 2 Sam 10:11; 22:51; Isa 12:2 (2x), 3; 25:9;
@@ -25,7 +28,7 @@ Occurrences: 79x HB (4/25/50); 1x Sir; 23x (+ 6 pars.) Qum.;, 0x inscr. (Total: 
 28:8; 35:3, 9; 42:6, 12; 43:5; 44:5; 53:7; 62:2, 3, 7; 67:3; 68:20;
 69:30; 70:5; 74:12; 78:22; 80:3; 88:2; 89:27; 91:16; 96:2; 98:2, 3;
 106:4; 116:13; 118:14, 15, 21; 119:123, 155, 166, 174; 140:8; 149:4; Job
-13:16; 30:15; 1 Chron 16:23; 2 Chron 20:17. 78.
+13:16; 30:15; 1 Chron 16:23; 2 Chron 20:17, 78.
 * Qum.: CD 20:34; 1QH<small><sup>a</sup></small> 6:5; 7:19; 19:23 (= 4QH<small><sup>a</sup></small> 1:5); 20:3 (=
 4QH<small><sup>a</sup></small>3:2-3); 26:10 (= 4QH<small><sup>a</sup></small> 7 i 14); 1QS 1:19; 10:17 (= 4QS<small><sup>b</sup></small> 20:6;
 4QS<small><sup>f</sup></small> 4:4); 11:12; 1QM 1:5; 4:13; 13:13; 14:5; 18:7; 4Q185 2:13; 4Q381 15:9; 4Q438 4 ii+5:3; 4Q491 (4QM<small><sup>a</sup></small>) 11 ii 17 (cf. 1QM 16:16ff.); 15:7; 4Q503 48-50:6; 4Q511 1:5; 10:8.  
@@ -34,12 +37,14 @@ No context: 4Q511 38:3.
 * Text doubtful: —
 
 
-<b>B.1</b>  <i>ThWQ</i>: 315 assumes the restoration עתי אשר תרים למצער[ישו ] in
-1QH<small><sup>a</sup></small> 14:10-11 (its numbering: ll. 7-8 in the <i>DSS.SE</i>). 
-<!-- CHECK numbering-->
-It is not clear how אשר can be
+<b>B.1</b> Dahmen (2013: 315) assumes the restoration 
+<span dir="rtl" lang="he">[&nbsp;&nbsp;&nbsp;ישׁו]עתי אשר תרים למצער</span>
+in
+1QH<small><sup>a</sup></small> 14:10-11 (its numbering: ll. 7-8 in the <i>DSS.SE</i>).<!-- CHECK numbering--> It is not clear how אשר can be
 fitted into this restoration: the alternative (in Lohse as well as the
-<i>DSS.SE</i>) which restores עתי[יד כי] is better, understanding אשר
+<i>DSS.SE</i>) which restores
+<span dir="rtl" lang="he">[כי יד]עתי</span>
+is better, understanding אשר
 according to its occasional equivalence to כי. In any case the text is
 too damaged at this point to play any part in a semantic study.
 
@@ -48,7 +53,7 @@ Qere/Ketiv: none.
 
 ## 1. Root and Comparative Material
 
-<b>A.1</b>  See <a href="https://pthu.github.io/sahd/words/rescue/#1-root-and-comparative-material">ישׁע</a>.
+<b>A.1</b>  See <a href="https://pthu.github.io/sahd/words/to_save%2C_help/#1-root-and-comparative-material" target="_blank" rel="noopener noreferrer">ישׁע</a> (opens in a new tab/window).
 <!--
 <a href="https://pthu.github.io/sahd/words/rescue"> ישׁע</a>.
 -->
@@ -423,74 +428,68 @@ in comparison to the use of תְּשׁוּעָה.
 
 ## Bibliography
 
-For the abbreviations see: 
-<a href="/sahd/store/abbreviations">List of Abbreviations</a>.
+For the abbreviations see the 
+<a href="/sahd/store/abbreviations/" target="_blank" rel="noopener noreferrer">List of Abbreviations</a>
+(opens in a new tab/window).
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ben-Asher 1978<br>   
-M. Ben-Asher, The gender of nouns in Biblical Hebrew, <i>Semitics</i>
-6, 1–14.
+Mordechai Ben-Asher, ‘The Gender of Nouns in Biblical Hebrew’, <i>Semitics</i> 6: 1–14. 
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dahmen 2013<br>   
-U. Dahmen, Article ישׁע in: <i>ThWQ</i>, vol. 2: 309-18.
+Ulrich Dahmen, ‘<span dir="rtl" lang="he">ישׁע</span>’, <i>ThWQ</i>, vol. 2: 309-18.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Lohse 1971<br>   
-E. Lohse, <i>Die Texte aus Qumran. Hebräisch und Deutsch</i> (2nd ed.),
+Eduard Lohse, <i>Die Texte aus Qumran. Hebräisch und Deutsch</i> (2nd ed.),
 Munich: Kösel Verlag.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ringgren 1963. <br>   
-Helmer Ringgren, <i>The Faith of Qumran: Theology of the Dead Sea
-Scrolls</i>, Philadelphia: Fortress.
+Helmer Ringgren, <i>The Faith of Qumran: Theology of the Dead Sea Scrolls</i>, Philadelphia: Fortress.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Rudolph 1975<br>   
-Wilhelm Rudolph, <i>Micha-Nahum-Habakuk-Zephanja.</i> (KAT),
-Gütersloh: Gerd Mohn.
+Wilhelm Rudolph, <i>Micha-Nahum-Habakuk-Zephanja.</i> (KAT), Gütersloh: Gerd Mohn.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Sawyer 1972
-<br>
-John F. A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining Hebrew Words for Salvation</i>, (SBT 2nd series, 24), London: SCM Press.
+Sawyer 1972 <br>
+John F. A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining Hebrew Words for Salvation</i>, (SBT 2nd series, 24), London: SCM.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Sawyer 1982
+Sawyer 1982 [1990]
 <br>
-John F. A. Sawyer, 'ישׁע', in: <i>ThWAT</i>, vol. 3: 1035–59 
+John F. A. Sawyer, ‘ישׁע’, <i>ThWAT</i>, vol. 3: 1035–59 
 (ET 1990: <i>TDOT</i>, vol. 6: 441-63). 
 </div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Watson 1980<br>   
-Wilfred G.E. Watson, Gender-matched synonymous parallelism in the OT.
-<i>JBL</i> 99:321–41.
+Wilfred G.E. Watson, ‘Gender-matched synonymous parallelism in the OT’, <i>JBL</i> 99: 321–41.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Watson 1984<br>   
-Wilfred G.E. Watson, <i>Classical Hebrew Poetry: A Guide to its Techniques</i> (JSOT Supp, 26), Sheffield: JSOT Press.
+Wilfred G.E. Watson, <i>Classical Hebrew Poetry: A Guide to its Techniques</i> (JSOTSup, 26), Sheffield: JSOT Press.
 	</div>
 
 
-James K. Aitken and Graham Davies
+## Notes
 
-University of Cambridge
 
-Revised 2016-2017
 
 [^*]: This article should be cited as: [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md), יְשׁוּעָה – protection

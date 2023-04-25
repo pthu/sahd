@@ -7,10 +7,6 @@ Semantic Fields:
 [Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Bertus van ’t Veld](../contributors/bertus_van_’t_veld.md)[^*]<br>
 
 
-<!-- DEZE REGELS WORDEN NIET GEZIEN IN DE OUTPUT
-# בֶּקַע – beka (a half shekel)
--->
-
 
 ## Introduction
 
@@ -115,7 +111,7 @@ occurs in a nominal clause:
 וְכֶסֶף פְּקוּדֵי הָעֵדָה … בֶּקַע לַגֻּלְגֹּלֶת,
 ‘the silver of the counted ones of the congregation was … a <i>beka</i> per head’, Exod 38:25–26.[^13]
 
-[^13]:  <i>DCH</i>, vol. 2, 249.
+[^13]:  <i>DCH</i> ii: 249.
 
 
 <b> A.3</b> 
@@ -124,7 +120,7 @@ occurs in apposition:
 בֶּקַע … מַחֲצִית הַשֶּׁקֶל,
 ‘a <i>beka</i> … half a shekel’, Exod 38:26.[^14]  
 
-[^14]:  <i>DCH</i>, vol. 2, 249.
+[^14]:  <i>DCH</i> ii: 249.
 
 
 
@@ -205,7 +201,7 @@ and in Exod 38:26 it is a ‘part’ (from two parts) of a
 shekel.[^26]
 
 [^25]:  Gesenius, <i>TPC</i>, vol. 1, 232; BDB, 132; KBL,  144: ‘Teil, Stück <i>part, piece</i>’; Zorell, 124; <i>HAL</i>, 144; <i>HALOT</i>, 150; Ges<small><sup>18</sup></small>, 169. 
-[^26]:  Gesenius, <i>TPC</i> vol. 1, 232: ‘pars dimidia, a findendo dicta (...), nonnisi spec. dimidius siclus’; <i>HAWAT</i>,  46: ‘1/2  Šeqel: ca. acht Gramm’; BDB, 132: ‘fraction, half, i.e. half-shekel, a weight’; <i>GB</i>,  111: ‘halber Sekel’; Zorell, 124: ‘… sec. Ex 38 26 dimidia pars sicli sacri (= 8,18 gr. nostri ponderis…)’; <i>HAL</i>, 144: ‘e. Gewicht als Metallwert 1/2 שֶׁקֶל; Halbschekel’. <i>DCH</i>, vol. 2, 249: ‘half a shekel’. Ges<small><sup>18</sup></small>, 169: ‘GBdtg Abgespaltenes, bzw. Teil, i. MT Beka, Halbschekel 1. Gewicht (...) = ca. 6 g. m. lok. Abweichungen’.
+[^26]:  Gesenius, <i>TPC</i> vol. 1, 232: ‘pars dimidia, a findendo dicta (...), nonnisi spec. dimidius siclus’; <i>HAWAT</i>,  46: ‘1/2  Šeqel: ca. acht Gramm’; BDB, 132: ‘fraction, half, i.e. half-shekel, a weight’; <i>GB</i>,  111: ‘halber Sekel’; Zorell, 124: ‘… sec. Ex 38 26 dimidia pars sicli sacri (= 8,18 gr. nostri ponderis…)’; <i>HAL</i>, 144: ‘e. Gewicht als Metallwert 1/2 שֶׁקֶל; Halbschekel’. <i>DCH</i> ii: 249: ‘half a shekel’. Ges<small><sup>18</sup></small>, 169: ‘GBdtg Abgespaltenes, bzw. Teil, i. MT Beka, Halbschekel 1. Gewicht (...) = ca. 6 g. m. lok. Abweichungen’.
 
 
 <b> A.2</b> 
@@ -296,8 +292,9 @@ of Exod 38:26, unlike that of Gen 24:22, the standard of the ‘sanctuary shekel
 
 ## Bibliography
 
-For the abbreviations see: 
-<a href="/sahd/store/abbreviations">List of Abbreviations</a>.
+For the abbreviations see the 
+<a href="/sahd/store/abbreviations/" target="_blank" rel="noopener noreferrer">List of Abbreviations</a>
+(opens in a new tab/window).
 
 <div style="padding-left: 22px; text-indent: -22px;">Barrois 1953<br>   
 	Augustin-Georges Barrois, 
