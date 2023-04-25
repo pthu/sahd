@@ -1069,14 +1069,10 @@ inscription bilingue assyro-araméenne</i>
 Paris: Editions Recherche sur les civilisations.
 	</div>
 
-<div style="padding-left: 22px; text-indent: -22px;">s
-Albright 1943
+<div style="padding-left: 22px; text-indent: -22px;">
+Albright 1943<br>
 W.F. Albright, `Two Little Understood Amarna Letters from the Middle Jordan Valley’, BASOR 89, 7-17.
-
-Olmstead 1931
-History of Palestine and Syria to the Macedonian Conquest, New York & London: Charles Scribner’s Sons. 
-
-
+	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Barr 1968<br>   
@@ -1246,13 +1242,16 @@ Joseph Naveh & Yitzhak Magen, ‘Aramaic and Hebrew inscriptions of the
 second-century BCE at Mount Gerizim’, <i>Atiqot</i> 32: 37–56 [Hebrew], 9*–17*.
 	</div>
 
-
 <div style="padding-left: 22px; text-indent: -22px;">
 Noth 1928<br>   
 Martin Noth, <i>Die Israelitischen Personennamen im Rahmen der
 Gemeinsemitischen Namengebung</i>. [BzWAT, 3/10] (Stuttgart: Kohlhammer).
 	</div>
 
+<div style="padding-left: 22px; text-indent: -22px;">
+Olmstead 1931<br>
+History of Palestine and Syria to the Macedonian Conquest, New York & London: Charles Scribner’s Sons. 
+	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ryckmans 1934–35. <br>   
