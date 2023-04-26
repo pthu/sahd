@@ -293,8 +293,7 @@ of Exod 38:26, unlike that of Gen 24:22, the standard of the ‘sanctuary shekel
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/" target="_blank" rel="noopener noreferrer">List of Abbreviations</a>
-(opens in a new tab/window).
+<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">Barrois 1953<br>   
 	Augustin-Georges Barrois, 
@@ -314,7 +313,7 @@ For the abbreviations see the
 	Amanda Borschel-Dan, 
 	‘Tiny First Temple stone weight unearthed in Jerusalem’,  
 	<i>Times of Israel</i>, 21 November 2018
-	(<a href="https://www.timesofisrael.com/straight-from-the-bible-tiny-first-temple-stone-weight-unearthed-in-jerusalem/">Borschel-Dan 2018</a>).
+	(<a href="https://www.timesofisrael.com/straight-from-the-bible-tiny-first-temple-stone-weight-unearthed-in-jerusalem/" target="_blank" rel="noopener noreferrer">Borschel-Dan 2018</a> [opens in a new tab/window]).
 	</div>
 	
 <div style="padding-left: 22px; text-indent: -22px;">Cook 1988  <br>
