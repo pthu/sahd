@@ -271,7 +271,7 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 
 <b>c.</b> Targum (Tg):  
 
-* <span dir="rtl" lang="he">פרק</span>,
+* <span dir="rtl" lang="he">פרק</span>, 'to redeem':[^3]
  Exod 15:2; 2&nbsp;Sam 10:11; Isa 12:2; Pss 35:3; 118:14, 21;  
 * <span dir="rtl" lang="he">פורקנא</span>,
  Gen 49:18; Exod 14:13; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 22:51; Isa 12:2; 25:9;
@@ -288,6 +288,7 @@ expansion]; 69:30; 70:5; 74:12; 78:22; 88:2; 89:27; 91:16; 96:2; 98:2,
 * <span dir="rtl" lang="he">תקוף ופרקן</span>,
 Isa 33:6; Hab 3:8.
 
+[^3]: The English rendering of the Aramaic words is based on Sokoloff, <i>DJBA</i>, <i>s.v.</i>
 
 
 <b>d.</b> Vulgate (Vg):  
