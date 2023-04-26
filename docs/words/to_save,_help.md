@@ -13,9 +13,8 @@ First published: 2016-01-01<br>
 [BOTH THE HIPHIL AND THE RARER NIPHAL ARE DEALT WITH HERE.]
 
 For fuller discussion of the lexical field as a whole see on this site the 
-<a href="/sahd/miscellaneous/overview_deliverance/" target="_blank" rel="noopener noreferrer">‘Overview
-of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies
-(opens in a new tab/window).
+<a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
+of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
 ## Introduction
@@ -1055,8 +1054,7 @@ the synchronic evidence more than the diachronic.
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/" target="_blank" rel="noopener noreferrer">List of Abbreviations</a>
-(opens in a new tab/window).
+<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">

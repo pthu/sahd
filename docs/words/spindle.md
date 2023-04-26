@@ -1,6 +1,6 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1PLKin" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div># פֶּלֶךְ – spindle
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1PLKn" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div># פֶּלֶךְ – spindle
 
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Authors:
@@ -35,8 +35,8 @@ However, פֶּלֶךְ <small>II</small> is undoubtedly a geographic designatio
 ‘ruler of the פֶּלֶךְ of Mizpah’ (Neh 3:15), 
 with פֶּלֶךְ apparently designating the area around Mizpah (Williamson 1985: 206).
 
-[^1]: <i>CAD</i> P, 373-74 s.v. <i>pilku</i> A; cf. KBL, 763; <i>DCH</i> vi: 696; Ges<small><sup>18</sup></small>, 1056.
-[^2]: <i>CAD</i> P, 374-75 s.v. <i>pilku</i> B. See also <i>DCH</i> vi: 696-97 s.v. פֶּלֶךְ <small>III</small> ;  cf. section <a href="#corvee">6.1 B.1</a> for Holloway 1987.
+[^1]: <i>CAD</i> P, 373-74, s.v. <i>pilku</i> A; cf. KBL, 763; <i>DCH</i> vi: 696; Ges<small><sup>18</sup></small>, 1056.
+[^2]: <i>CAD</i> P, 374-75, s.v. <i>pilku</i> B. See also <i>DCH</i> vi: 696-97, s.v. פֶּלֶךְ <small>III</small> ;  cf. section <a href="#corvee">6.1 B.1</a> for Holloway 1987.
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
@@ -101,7 +101,7 @@ Translating <i>plk</i> as ‘spindle’ is also quite likely in view of
 a quadrilingual glossary from Ugarit,
 in which Sumerian <small>BAL</small>, Akk. <i>pí-la-ak-ku</i>, Hurrian <i>te-a-ri</i>, and 
 Ug.  <i>pí-la-ku</i> 
-are equated (RS 20.123+; <i>Ugaritica</i> 5, 137 II:22’).
+are equated (RS 20.123+; <i>Ugaritica</i> 5: 137 II:22’).
 Interestingly, in a damaged passage at the beginning of 
 the story of Elkunirša, Athiratu’s counterpart 
 Ašertu seems to use a spindle as a weapon (<i>CTH</i> 342; see <i>COS</i> I: 149;
@@ -112,7 +112,7 @@ text partially reconstructed).
 The Azatiwada Inscription (8th cent. <small>BCE</small>) shows the following phrase: 
 <i>wbymty ʾnk ʾšt tk lḥdy dl plkm</i> (KAI 26 A II:5-6). 
 Its interpretation  is disputed. 
-<i>DNWSI</i> (915-16 s.v. <i>plk</i><small><sub>1</sub></small>), 
+<i>DNWSI</i> (915-16, s.v. <i>plk</i><small><sub>1</sub></small>), 
 takes difficult <i>dl plkm</i> as ‘with spindles’, but lists various other 
 interpretations. Younger (1998: 32-33) also lists deviating interpretations, but points out that the parallel Hieroglyphic Luwian text includes
 the logogram ‘FUSUS’, 
@@ -126,27 +126,27 @@ He translates the phrase as follows:
 
 <b>A.5</b> <i>Postbiblical Hebrew</i>:
 The noun פֶּלֶךְ does not occur in Ben Sira and the non-biblical Dead Sea Scrolls, but still occurs in living usage in rabbinic literature. 
-b.&nbsp;Ketubbot 72b refers to a woman using a פֶּלֶךְ (in the same passage also Aram. פִּילְכָא) for spinning (→ <span dir="rtl" lang="he">טוה</span>). 
-t.&nbsp;Kelim Bava Batra 1:6 includes the expression
+bKetubbot 72b refers to a woman using a פֶּלֶךְ (in the same passage also Aram. פִּילְכָא) for spinning (→ <span dir="rtl" lang="he">טוה</span>). 
+tKelim Bava Batra 1:6 includes the expression
 טָווּי שֶעַל גַּבֵּי הַפֶּלֶך,
  ‘spun (wool) which is on the spindle’. 
 The פֶּלֶךְ is regarded as an instrument typically used by women: 
 אֵין חׇכְמָה לָאִשָּׁה אֶלָּא בְּפֶלֶךְ,
-‘a woman has no wisdom except at a spindle’ (b.&nbsp;Yoma 66b, with reference to the spinning [→ <span dir="rtl" lang="he">טוה</span>]
+‘a woman has no wisdom except at a spindle’ (bYoma 66b, with reference to the spinning [→ <span dir="rtl" lang="he">טוה</span>]
  of women in Exod 35:25a).[^postH] 
 
-[^postH]: See also the references in Jastrow, <i>DTT</i>, 1182 s.v. פֶּלֶךְ; Dalman, <i>AuS</i> V, 49.
+[^postH]: See also the references in Jastrow, <i>DTT</i>, 1182, s.v. פֶּלֶךְ; Dalman, <i>AuS</i> V, 49.
 
 <b>A.6</b>  <i>Jewish Aramaic</i>:
 The JAram. cognate is פִּילְכָא, ‘spindle’ (Jastrow, <i>DTT</i>, 1182; Sokoloff, <i>DJBA</i>, 900-01).
 The Aram. counterpart of the PBHeb. phrase
 אֵין חׇכְמָה לָאִשָּׁה אֶלָּא בְּפֶלֶךְ
-(b.&nbsp;Yoma 66b)
+(bYoma 66b)
 is 
 אין חכמתה של אשה אלא בפילכה,
  ‘a woman has no wisdom except at a spindle’
-(y.&nbsp;Soṭah 3, 19a). 
-b.&nbsp;Bava Batra 13b refers to a woman 
+(ySoṭah 3, 19a). 
+bBava Batra 13b refers to a woman 
 יָדְעָא פִּילְכָא וְנַוְולָא,
 ‘who knows (how to use) the spindle and the loom’. 
 <a id="QR"></a>Qohelet Rabba (ad 7:9) presupposes the emphatic 
@@ -155,7 +155,7 @@ which is also interpreted as ‘spindle’:[^3a]
 <span dir="rtl" lang="he">הֵכְמָא דְּמַעֲזֵלָא עָזֵיל עַל פְּלַכְתֵּיהּ כֵּן סָלֵיק לֵיהּ בִּפְלַכְתֵּיהּ הוּא נָסֵיב</span>, ‘just as the spinner (masc.) spins upon his spindle, so he manages 
 to take by means of his spindle’. 
 For a jar with the inscription פלכה שמעון, see section <a href="#Nav">6.3 A.2</a>.
-In b.&nbsp;Megillah 14b,
+In bMegillah 14b,
 the word פלכא has been interpreted as a form of a denominative verb that apparently occurs only here: 
 אתתא בהדי שותא פלכא,
 ‘during a conversation a woman <i>is spinning</i>’ 
@@ -165,10 +165,10 @@ Sokoloff, <i>DJBA</i>, 913;
 cf. Jastrow, <i>DTT</i>, 1182). 
 However, the spelling פילכא in part of the manuscripts and editions reflects the interpretation as the noun פִּילְכָא. 
 
-[^3a]: The noun is wrongly translated as ‘distaff’ in Sokoloff, <i>DJPA</i>, 322 s.v. <span dir="rtl" lang="he">מעזל</span>; 401 s.v. <span dir="rtl" lang="he">עזל</span>; 436, s.v. <span dir="rtl" lang="he">פלכה</span>.
+[^3a]: The noun is wrongly translated as ‘distaff’ in Sokoloff, <i>DJPA</i>, 322, s.v. <span dir="rtl" lang="he">מעזל</span>; 401, s.v. <span dir="rtl" lang="he">עזל</span>; 436, s.v. <span dir="rtl" lang="he">פלכה</span>.
 
 
-<a id="Arabic"></a><b>A.7</b> <i>Arabic</i>:  Several BHebr. dictionaries[^4a] 
+<a id="Arabic"></a><b>A.7</b> <i>Arabic</i>:  Several BHeb. dictionaries[^4a] 
 present an etymology by referring to the Arab. verb <i>falaka</i>, ‘to be(come) round’ 
 (Lane, 2443).
 The Arab. noun  <i>falkat<sup> un</sup></i>/ <i>filkat<sup> un</sup></i>,
@@ -264,7 +264,7 @@ may imply that Tg<small><sup>J</sup></small> also interpreted פֶּלֶךְ as 
 
 
 <b>A.1</b> 
-In BHebr., the semantic field of spinning includes the verb → 
+In BHeb., the semantic field of spinning includes the verb → 
 <span dir="rtl" lang="he">טוה</span>,
  ‘to spin’ (Exod 35:25-26) and its derivative מַטְוֶה,
  ‘spun yarn’ 
@@ -320,7 +320,7 @@ The reading מַחֲזִיק בַּפֶּלֶךְ is undisputed and is supported
 seemingly interpreting this expression as referring to a lame or cripple who needed a walking stick or crutch. 
 A similar interpretation is found in the Talmud,
 which regards the curse concerning the מַחֲזִיק בַּפֶּלֶךְ
-as fulfilled with King Asa’s foot disease (b.&nbsp;Sanhedrin 48b, with reference to 1 Kgs 15:23). 
+as fulfilled with King Asa’s foot disease (bSanhedrin 48b, with reference to 1 Kgs 15:23). 
 Some Heb. dictionaries (Gesenius, <i>TPC</i> II, 1105; Zorell, 651)
 also suppose that in 2 Sam 3:29 פֶּלֶךְ designates 
 the stick of an ill person, although they affirm that it designates a spindle in Prov 31:19. 
@@ -354,7 +354,7 @@ where a comment attributed to Rabbi Ishmael (early 2nd cent. <small>CE</small>)
 connects the expression with the ill treatment of King Joash by the Arameans 
 (2 Chron 24:24). The comment interprets this treatment as sexual violation, as if Joash were a woman: 
 וְהָיוּ מְעַנִּין בּוֹ כְּדֶרֶךְ שֶׁמְּעַנִּין אֶת הָאִשָּׁה,
- ‘they violated him as they violate a woman’ (y.&nbsp;Qiddushin 1, 61a). 
+ ‘they violated him as they violate a woman’ (yQiddushin 1, 61a). 
 
 [^dic]: BDB, 813; GB, 643; <i>HAWAT</i>, 364; KBL, 763; <i>HALOT</i>, 933; Ges<small><sup>18</sup></small>, 1056.
 
@@ -376,17 +376,17 @@ A ritual against the sexual impotence of a man includes placing a spindle and di
 and, consequently, replacing it by a bow and arrows
 (<i>CTH</i> 406; see Hoffner 1987: 272, 277, 283). 
 For the relevant Hittite texts and terminology, see also 
-<i>HW </i><small><sup> 2</sup></small> III/2, 632-33, 690-91. 
+<i>x </i><small><sup> 2</sup></small> III/2: 632-33, 690-91. 
 
 
 Akk.  texts refer to men with female apparel and implements who play a role in specific contexts: 
 the cult of the goddess Inana/Ištar, who could alter a person’s sex (Hillers 1964: 66-67), 
-and the cult of goddesses associated with her (cf. <i>CAD</i> K, 557-59 s.v. <i>kurgarrû</i>). 
+and the cult of goddesses associated with her (cf. <i>CAD</i> K, 557-59, s.v. <i>kurgarrû</i>). 
 The <i>kurgarrû</i> men (<small>LÚ.KUR.RA.MEŠ</small>) performing in the cult of the goddess Nanaya
-are said to make use of a spindle (<i>pilakku</i>),  a whip, etc. (SAA 3, 13, text 4; <i>CAD</i> K, 558).
+are said to make use of a spindle (<i>pilakku</i>),  a whip, etc. (SAA 3: 13, text 4; <i>CAD</i> K, 558).
 A male servant of the goddess Dilbat reports to the king that he carries (<i>anašši</i>) 
 a spindle (<small><sup>GIŠ</sup></small><i>pilaqqu</i>) for the goddess 
-(SAA 10, 69, text 92).
+(SAA 10: 69, text 92).
 After categories of temple personnel, a lexical list mentions a
 <small>LÚ-GIŠ-BAL-ŠU-DU<sub>7</sub></small> = <i>nāš pilaqqi</i>, 
 ‘(male) carrier of a spindle’ (<i>MSL</i> 12, 103: 217; 135: 198a). 
@@ -396,7 +396,7 @@ The following curse in Esarhaddon’s Succession Treaty may indicate that also i
 a spindle was regarded as a disgrace to men:
 ‘May they (the gods) make you whirl(?)[^15]
 like a spindle (<small><sup>GIŠ</sup></small></i>pilaqqu</i>), may they make you like a woman 
-before your enemy’ (SAA 2, 56, text 6, §91). 
+before your enemy’ (SAA 2: 56, text 6, §91). 
 Brigitte Groneberg (1986: 190-91)
 assumed that the reference to the movements of the spindle reflects the dancing of transvestites in the cult of Ištar.
 She interpreted the curse as 
@@ -405,7 +405,7 @@ The idea that depriving soldiers of their masculinity and turning them into wome
 in the treaty of Aššur-Nerari V with King Mati’-Ilu of Arpad (<i>COS</i> IV: 151-52; V:8-15) and
 other Akk.  texts (Bergmann 2007: 666-67).
 
-[^15]: <i>lušaṣbirukunu</i> (<i>ṣabārum</i> š stem) is translated as ‘may (the gods) make you whirl(?)’ in <i>CAD</i> P, 372, as ‘may (the gods) have you oscillate’ in <i>CAD</i> Ṣ, 4, and as ‘may (the gods) spin you around’ in SAA 2, 56 (cf. <i>COS</i> IV: 165).
+[^15]: <i>lušaṣbirukunu</i> (<i>ṣabārum</i> š stem) is translated as ‘may (the gods) make you whirl(?)’ in <i>CAD</i> P, 372, as ‘may (the gods) have you oscillate’ in <i>CAD</i> Ṣ, 4, and as ‘may (the gods) spin you around’ in SAA 2: 56 (cf. <i>COS</i> IV: 165).
 
 In view of all this extra-biblical evidence, David’s use of the 
 expression מַחֲזִיק בַּפֶּלֶךְ, 
@@ -508,7 +508,7 @@ The spinners, mostly women, drew these thin threads from spinning bowls in which
 The spindles were not used to produce threads from unconnected fibres
 but merely to add twist to already-formed threads, often two or more threads that were twisted together
 to produce thicker, stronger threads.
-Elizabeth Barber suggests that the BHebr. verb  → שׁזר
+Elizabeth Barber suggests that the BHeb. verb  → שׁזר
 (see שֵׁשׁ מָשְׁזָר, ‘twisted linen’; Exod 26:1, 31, 36, etc.) refers to the same method of making linen threads (Barber: 1991: 50, 72).
 With regard to certain depictions of only a single thread per spindle, she observes (Barber 1991: 48):
 
@@ -531,7 +531,7 @@ of adding a strengthening twist to the fine ‘single’ yarns …
 Spinning and weaving scene from the tomb of Khnumhotep II.</small>   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Beni Hasan, Middle Egypt, ca. 1900 <small>BCE</small> 
 (picture: Rogers Fund, 1933;
-<a href="https://www.metmuseum.org/art/collection/search/548575">Metropolitan Museum</a>)
+<a href="https://www.metmuseum.org/art/collection/search/548575" target="_blank" rel="noopener noreferrer">Metropolitan Museum</a>)
 <!-- Alamy rechten geldig tot 15 aug 2026
 -->
 
@@ -560,7 +560,7 @@ One of these reliefs displays a woman with yarn wound onto her spindle; see <a h
 <a id="Maraş"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/sahd/images/photos/Marash.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;3:&nbsp;&nbsp; Detail of neo-Hittite monument from Maraş, 9th to 8th cent. <small>BCE</small>  </small>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Internet: <a href="https://vici.org/vici/42226/?lang=nl">Maraş Stele</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Internet: <a href="https://vici.org/vici/42226/?lang=nl" target="_blank" rel="noopener noreferrer">Maraş Stele</a>
 
 </small>
 
@@ -585,7 +585,7 @@ Of course, the representation of high-class women with spindles and distaffs sug
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;4:&nbsp;&nbsp; Neo-Hittite funerary stele of Tarhuntiwasti from Maraş, 9th to 8th cent. <small>BCE</small></small>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Two women, each with a spindle or distaff in the hand in the foreground. 
-Internet: <a href="https://www.hittitemonuments.com/maras/maras10.htm">Funerary Stele</a>
+Internet: <a href="https://www.hittitemonuments.com/maras/maras10.htm" target="_blank" rel="noopener noreferrer">Funerary Stele</a>
 
 </small>
 
@@ -721,7 +721,7 @@ Unfortunately, figures and more details of this find are not available.
 Ancient spindles entirely or partially made of precious materials, such as
 copper, bronze, silver, gold, or ivory, have been discovered mainly in graves of women, but sometimes in domestic contexts.[^17f]
  References to spindles made of such costly materials occur in several texts 
-(Hittite: <i>HW</i><small><sup> 2</sup></small> III/2, 632;
+(Hittite: <i>HW</i><small><sup> 2</sup></small> III/2: 632;
 El-Amarna: <a href="#EA25">EA 25</a>).
 Such precious spindles probably represent status symbols 
 rather than being tools of everyday use (Spinazzi-Lucchesi 2018: 30). 
@@ -799,8 +799,7 @@ Several modern translations rightly reflect the interpretation of פֶּלֶךְ
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/" target="_blank" rel="noopener noreferrer">List of Abbreviations</a>
-(opens in a new tab/window).
+<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1110,22 +1109,5 @@ and Benjamin Bogerd (Veenendaal) for their valuable suggestions.
 </small>
 
 
-<!--
-K<small>LAAS</small> R. V<small>EENHOF</small>  
-Professor emeritus of Assyriology  
-Leiden University 
 
-P<small>AUL</small> S<small>ANDERS</small>  
-Assistant professor of Old Testament  
-Protestant Theological University, Amsterdam
-
-First published: 8th November  2021
-<!--Last update: \today
-
-
-This article should be cited as:  
-Klaas R. Veenhof, Paul Sanders, ‘פֶּלֶךְ - spindle’   
-consulted on: 
-<a href="https://pthu.github.io/sahd/words/spindle">https://pthu.github.io/sahd/words/spindle</a>
--->
 [^*]: This article should be cited as: [Klaas R. Veenhof](../contributors/klaas_r._veenhof.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md), פֶּלֶךְ – spindle
