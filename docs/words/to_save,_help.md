@@ -1,6 +1,6 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># יָשַׁע – ‘to save, help’
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># ישׁע – ‘to save, help’
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Authors:
@@ -157,17 +157,17 @@ Hebrew personal names and as a verb with primarily God as the subject.
 The root-morpheme <i>yṯʿ</i> is attested relatively frequently in proper
 names in Amorite. It is the only Sem. language from the early second
 millennium B.C. in which the root appears. The earliest occurrence is
-the name <i>lašuil</i> in a legal document from c. 2048 B.C. (Buccellati
-1966: 165). The verbal form derived from this is <i>yašuḫ</i>, found also in
+the name <i>lašuil</i> in a legal document from c. 2048 B.C. (Buccellati
+1966: 165). The verbal form derived from this is <i>yašuḫ</i>, found also in
 eight names from Mari (Huffmon 1965:215–16). The root appears to be
 frequent in Amorite names in comparison with some of the other NWSem.
 evidence.
 
 
-<b>A.4</b>  The verb appears in the Moabite inscription (KAI 181: line 4) in the expression <i>hšʿny mkl hšlkn</i>, ‘he delivered me from all assaults’ (Segert
+<b>A.4</b>  The verb appears in the Moabite inscription (KAI 181: line 4) in the expression <i>hšʿny mkl hšlkn</i>, ‘he delivered me from all assaults’ (Segert
 1961; Gibson 1971: 77–78). The noun might also appear in lines 3–4 –
- <i>bmt</i> [ <i>y</i>] <i>šʿ</i> ‘in the high place of salvation’. For an alternative
-reading to <i>bmt</i> see Gibson 1971:78.
+ <i>bmt</i> [<i>y</i>]<i>šʿ</i>, ‘in the high place of salvation’. For an alternative
+reading to <i>bmt</i> see Gibson 1971: 78.
 
 
 <b>A.5</b>  The root <i>yṯʿ</i> is attested in proper names in Ugaritic. It is found
@@ -175,14 +175,15 @@ in the names <i>yṯʿd</i> (Gröndahl 1967: 47) and perhaps <i>yṯil</i>, if i
 shortened form of <i>yṯʿil</i> (Sawyer 1975: 78).
 
 
-<b>A.6</b>  The name <i>Yašuya</i> in Amarna letter EA 256 (line 18: <small><sup>m</sup></small><i>ya-šu-ia</i>) has been identified with the Biblical name
+<b>A.6</b>  The name <i>Yašuya</i> in Amarna letter EA 256 (line 18: <small><sup>m</sup></small><i>ya-šu-ia</i>) has been identified with the Biblical name
 <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span>,
- `Joshua’ (Olmstead 1931: 188, 197; cf. Knudtzon 1915: II, 1319; 
+`Joshua’ (Olmstead 1931: 188, 197; cf. Knudtzon 
+1915<sup>II</sup>: 1319; 
 Ges<small><sup>18</sup></small>, 449). The name <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> is seen as a combination of a form of <span dir="rtl" lang="he">יהוה</span> and a noun derived from 
 <span dir="rtl" lang="he">ישׁע</span>
 (Ges<small><sup>18</sup></small>, 449).[^EA] 
-The identification of the name Yašuya with <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> was rejected by Albright (1943: 12 n. 27), arguing that the Akk. form
-should have been *<i>Ya-ẖu-šu-uẖ</i>.
+This identification of the name <i>Yašuya</i> with the name <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> was rejected by Albright (1943: 12 n. 27), arguing that the Akk. form
+should have been *<i>Ya-ḫu-šu-uḫ</i>.
 
 [^EA]: <i>HAL</i>, 379; <i>HALOT</i>, 397 assumes the combination of <span dir="rtl" lang="he">יהוה</span> and <span dir="rtl" lang="he">שׁוע</span>, ‘Yhwh is help’.
 
@@ -212,7 +213,7 @@ Müller (1963: 310; cf. <i>HAL</i>: 427) suggested associating יָשַׁע with 
  <i>wsʿ</i> = ‘reichlich geben, reichlich versorgen mit’, but this does not
 seem to have been widely adopted. Many North Arabian personal names also
 include the element <i>yṯʿ</i> (see Müller 1979, who proposed an association
-of it with a different root <i>yšʿ</i> = ‘be high’).
+of it with a different root <i>yšʿ</i> = ‘be high’).
 
 
 <b>B.1</b>  The connection with Arab. <i>wasiʿa</i>&nbsp; ‘to be spacious’, which in the
@@ -278,14 +279,14 @@ far) unique to this inscription, where it occurs in some other words
 (Abou-Assaf <i>et al.</i> 1982: 44).
 
 
-<b>B.3</b>  It has been suggested that the Moabite name Mesha on the Moabite stone (KAI 181; cf. 2&nbsp;Kgs 3:4) was probably originally <i>mōšaʿ</i> (cf. LXX μωσα;
+<b>B.3</b>  It has been suggested that the Moabite name Mesha on the Moabite stone (KAI 181; cf. 2&nbsp;Kgs 3:4) was probably originally <i>mōšaʿ</i> (cf. LXX μωσα;
 Segert 1961: 246), but this seems unlikely. The verbal form also appears
 in the Moabite stone with the god Chemosh as subject. Gibson argues for
 a double base in proto-Semitic, one with the first consonant <i>y</i>- and
 one with <i>w</i>- (1971: 77).
 
 
-<b>B.4</b>  Although it is possible that the element <i>išḫi</i>- in 10 personal
+<b>B.4</b>  Although it is possible that the element <i>išḫi</i>- in 10 personal
 names from Mari is related, some argue that it is non-Amorite (see
 Huffmon 1965: 215).
 
@@ -610,7 +611,7 @@ Sir 34:6; 48:20; 49:10;
 * <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
 (<i>pārōqāʾ </i>), ‘saviour, liberator’: Judg 3:9, 15; 2&nbsp;Sam 22:42; 2&nbsp;Kgs 13:5; Isa 19:20; 43:3; 45:15, 21; 49:26; 60:16; 63:8; Zeph 3:17; Pss 17:7; 18:42;  
 * <span dir="rtl" lang="-">ܫܘܙܒ</span>
-(<i>šwzb</i>), ‘to save, deliver, preserve’: Sir 51:3;   
+(<i>šwzb</i>), ‘to save, deliver, preserve’: Sir 51:3;   
 * <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
 (<i>zky</i>/<i>zkʾ </i>) Pael, `to make victorious’: Judg 7:2.
 
@@ -631,7 +632,7 @@ Niphal:
 <b>A.1</b>  The Pesh, as the Tg (see below), has a preference for the verb
 <span dir="rtl" lang="-">ܦܪܩ</span>
 (<i>prq</i>). The rendering <span dir="rtl" lang="-">ܫܘܙܒ</span>
-(<i>šwzb</i>), popular with some lexemes in the semantic
+(<i>šwzb</i>), popular with some lexemes in the semantic
 field, is found only once (Sir 51:3). 
 <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
 (<i>pṣy</i>/<i>pṣʾ </i>) appears slightly more
@@ -1115,7 +1116,7 @@ Dallas (TX): Word.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dohmen 2013<br>   
-Ulrich Dahmen,  ‘ישׁע <i>yšʿ</i>’, <i>ThWQ</i>, vol. 2: 309-18.
+Ulrich Dahmen,  ‘ישׁע <i>yšʿ</i>’, <i>ThWQ</i>, vol. 2: 309-18.
 	</div>
 
 
@@ -1316,7 +1317,7 @@ New York: Ktav and Baltimore: Hebrew College.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Stolz 1971<br>   
-Fritz Stolz, ‘ישׁע <i>jšʿ</i> hi. – helfen’, <i>THAT</i> vol. 1: 785-90.
+Fritz Stolz, ‘ישׁע <i>jšʿ</i> hi. – helfen’, <i>THAT</i> vol. 1: 785-90.
 	</div>
 
 
@@ -1342,4 +1343,4 @@ Claus Westermann, <i>Isaiah 40-66</i>, London: SCM.
 ## Notes
 
 
-[^*]: This article should be cited as: [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md), יָשַׁע – ‘to save, help’
+[^*]: This article should be cited as: [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md), ישׁע – ‘to save, help’
