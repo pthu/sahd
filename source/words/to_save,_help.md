@@ -34,7 +34,7 @@ Occurrences: 205x HB (hiph.: 6/110/67; niph.: 2/12/7); 6x (or 7x?) Sir; 27x Qum.
 * Ketubim – niphal: Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18.
 * Sir: 4:9; add 13:6 (cf. <i>DCH</i> iv: 336, Ges<small><sup>18</sup></small>, 510)?; 33:1; 34:6; 48:20; 49:10; 51:3.
 * Qum: CD 5:19(A) (dupl. in 4Q267 2:2 and 6Q15 3:2); 9:9(A), 10(A);
-1QH<small><sup>a</sup></small> 10:25; (?) 11:6 (<i>DCH</i> iv: 336 = Sukenik 3:6); 1QM 10:4, 8; 11:3; 1QS
+1QH<small><sup>a</sup></small> 10:25; (?)11:6 (<i>DCH</i> iv: 336 = Sukenik 3:6); 1QM 10:4, 8; 11:3; 1QS
 6:27; 4Q166 2:14; 4Q171 4:21; 4Q174 1:13; 4Q183 2:3; 4Q288 1:5; 4Q365 6a
 ii + 6c 3; 4Q372 1:16; 4Q380 1 ii 4; 4Q381 15:2; 31:2; 4Q385a 18 ii 10;
 4Q389 1 ii 3 (= 4Q387a 3 ii 11); 4Q417 22:2; 4Q511 10:9; 11QT 59:8, 11,
@@ -589,13 +589,13 @@ Hiphil:  <!--(<i>ṭābāʾ</i>), :-->
 * <span dir="rtl" lang="-">ܥܒܕ ܦܘܪܩܢܐ</span>
 (<i>ʿbd purqānā</i>), ‘to bring salvation’:[^7] 2&nbsp;Sam 3:18;  
 * <span dir="rtl" lang="-">ܥܒܕ ܢܨܚܢܐ</span>
-(<i>ʿbd</i>) \[+ <i>neṣḥānā</i> = תְּשׁוּעָה], to bring victory’: 1&nbsp;Chron 11:14 [cf. LXX];  
+(<i>ʿbd</i>) \[+ <i>neṣḥānā</i> = תְּשׁוּעָה], to bring victory’: 1&nbsp;Chron 11:14 [cf. LXX];  
 * <span dir="rtl" lang="-">ܥܕܪ</span>
 (<i>ʿdr</i>), ‘to help, to aid’: 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19;  
 * <span dir="rtl" lang="-">ܢܦܩ</span>
 (<i>npq</i>) Aphel, ‘to bring out’: Ps 107:19;  
 * <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
-(<i>pṣy</i>/<i>pṣʾ </i>) Pael \`to save, to deliver’: Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
+(<i>pṣy</i>/<i>pṣʾ </i>) Pael \`to save, to deliver’: Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
 * <span dir="rtl" lang="-">ܦܪܩ</span>
 (<i>prq</i>), ‘to save, to liberate’: Exod 2:17; 14:30; Deut 20:4; 28:29; Josh 22:22; Judg 2:16, 18; 3:9,
 31; 6:14, 15, 36, 37; 7:7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam
@@ -631,7 +631,7 @@ Niphal:
 * <span dir="rtl" lang="-">ܦܪܩ</span>
 (<i>prq</i>) Ethpe. ‘to be saved’: 2&nbsp;Sam 22:4; Isa 30:15; 45:22; 64:4; Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18;  
 * <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
-(<i>pṣy</i>/<i>pṣʾ </i>) Ethpa., ‘to be saved’: Num 10:9.  
+(<i>pṣy</i>/<i>pṣʾ </i>) Ethpa., ‘to be saved’: Num 10:9.  
 
 
 <b>A.1</b>  The Pesh, as the Tg (see below), has a preference for the verb
@@ -640,7 +640,7 @@ Niphal:
 (<i>šwzb</i>), popular with some lexemes in the semantic
 field, is found only once (Sir 51:3). 
 <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
-(<i>pṣy</i>/<i>pṣʾ </i>) appears slightly more
+(<i>pṣy</i>/<i>pṣʾ </i>) appears slightly more
 frequently, but is still an infrequent equivalent.
 
 <b>A.2</b>  <span dir="rtl" lang="-">ܢܦܩ</span>
@@ -652,7 +652,7 @@ in the action of the verb, but this equivalent also appears only once.
 (<i>zky</i>/<i>zkʾ </i>) Pael (Judg 7:2) and <span dir="rtl" lang="-">ܥܕܪ</span> (<i>ʿdr</i>; 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19).
 
 <b>A.4</b>  The translation <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
-(<i>pārōqāʾ </i>), ‘saviour’, is found frequently, for the
+(<i>pārōqā</i>), ‘saviour’, is found frequently, for the
 most part to render the ptc.
 <span dir="rtl" lang="he">מוֹשִׁיעַ</span>.
 
@@ -673,7 +673,7 @@ Ezk 34:22; 36:29; 37:23; Hos 13:4, 10; 14:4; Hab 1:2; Zeph 3:17, 19; Zech 8:7, 1
 9:16; 10:6; 12:7; 1&nbsp;Chron 11:14; 16:35; 18:6, 13; 19:12, 19; 2&nbsp;Chron 20:9;
 32:22;  
 * <span dir="rtl" lang="he">פרק</span> Af.: Hos 1:7;  
-* <span dir="rtl" lang="he">פורקנא</span>: 2&nbsp;Sam 22:3(?);  `
+* <span dir="rtl" lang="he">פורקנא</span>: 2&nbsp;Sam 22:3(?);   
 * <span dir="rtl" lang="he">שׁיזב</span>: Obad 21.
 
 
@@ -1269,7 +1269,7 @@ du Muséon, 2), Louvain: Bureaux du Muséon.
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1965
 <br>
-John F.A. Sawyer, ‘What was a <i>mošiaʿ</i>?’, <i>VT</i> 15: 475-86.
+John F.A. Sawyer, ‘What was a <i>mošiaʿ </i>?’, <i>VT</i> 15: 475-86.
 </div>
 
 
@@ -1288,7 +1288,7 @@ John F.A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining Heb
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1975<br>
-John F.A. Sawyer, ‘A Historical Description of the Hebrew Root <i>yšʿ</i>’, in: 
+John F.A. Sawyer, ‘A Historical Description of the Hebrew Root <i>yšʿ </i>’, in: 
 James and Theodora Bynon (eds.),
 <i>Hamito-Semitica: Proceedings of a Colloquium Held by the Historical Section of the Linguistics Association (Great Britain) at the School of Oriental and African Studies, University of London, March 1970</i>
 (Janua Linguarum. Series Practica, 200), The Hague: Mouton, 75-84.
