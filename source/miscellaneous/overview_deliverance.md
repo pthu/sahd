@@ -819,7 +819,7 @@ transitive use for ‘deliver’.
  is occasionally used. It is not found in Tg<small><sup>O</sup></small>, Tg<small><sup>J</sup></small>,
 Tg<small><sup>PsJ</sup></small> or apparently in the Palestinian Tgs. But it is
 frequent in the Pss, Job and Proverbs, especially for הציל. This may be
-connected with the frequency of <i>pṣā</i> in the Peshitta (see below).
+connected with the frequency of <i>pṣʾ</i> in the Peshitta (see below).
 
 The concentration on two equivalents in the Targums may have tended to
 blur distinctions within the lexical group. But it would be interesting
@@ -868,11 +868,11 @@ three instances of <span dir="rtl" lang="-">ܩܪܒ</span>
 (<i>prq</i>) is also occasionally used for <span dir="rtl" lang="he">הציל</span>.
 
 ܦܨܐ
-(<i>pṣā</i>) is also widely used: it is the main equivalent for הציל and the
+(<i>pṣʾ</i>) is also widely used: it is the main equivalent for הציל and the
 Piel and Niphal forms of מלט and פלט (but not so prominently for the
 nouns). It is also found occasionally for הושׁיע and פדה. 
 The meaning of ܦܨܐ
-(<i>pṣā</i>) is given as ‘deliver, set free’ by 
+(<i>pṣʾ</i>) is given as ‘deliver, set free’ by 
 Payne Smith (<i>CSD</i>, 454); CAL (under <i>pṣy</i>) gives ‘save’. 
 The latter’s citations
 imply that it is found in Jewish Aramaic [JBA presumably = ‘Jewish
@@ -903,9 +903,9 @@ In Syriac <span dir="rtl" lang="-">ܦܠܛ</span>
 Of the major variations from Targumic renderings in the Peshitta the use of 
 <span dir="rtl" lang="he">ܥܕܪ</span> (<i>ʿdr</i>) instead of 
 <span dir="rtl" lang="he">ܣܥܕ</span> (<i>sʿd</i>) is readily explicable by dialectal differences. The extensive substitution of 
-<span dir="rtl" lang="he">ܦܨܐ</span> (<i>pṣā</i>) for 
+<span dir="rtl" lang="he">ܦܨܐ</span> (<i>pṣʾ</i>) for 
 <span dir="rtl" lang="he">ܫܝܙܒ</span> (<i>šyzb</i>) is less easy to understand, since the latter verb certainly existed in Syriac and was sometimes used for members of the lexical group in the Peshitta. Is there again a dialectal difference behind this, or is there some other reason (perhaps a theological one) for the favouring of 
-<span dir="rtl" lang="he">ܦܨܐ</span> (<i>pṣā</i>)? In any 
+<span dir="rtl" lang="he">ܦܨܐ</span> (<i>pṣʾ</i>)? In any 
 case the broad division of the words other than עזר into two groups is again reflected in the Syriac renderings, whatever exactly the perceived difference between them was. It may be noted, among less common equivalents, how the special uses of גאל and nominal/passive forms of <span dir="rtl" lang="he">מלט</span> and 
 <span dir="rtl" lang="he">פלט</span>
 are again identified in the Peshitta.

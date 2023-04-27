@@ -281,7 +281,7 @@ far) unique to this inscription, where it occurs in some other words
 (Abou-Assaf <i>et al.</i> 1982: 44).
 
 
-<b>B.3</b>  It has been suggested that the Moabite name Mesha on the Moabite stone (KAI 181; cf. 2&nbsp;Kgs 3:4) was probably originally <i>mōšaʿ</i> (cf. LXX μωσα;
+<b>B.3</b>  It has been suggested that the Moabite name Mesha on the Moabite stone (KAI 181; cf. 2&nbsp;Kgs 3:4) was probably originally <i>mōšaʿ</i> (cf. LXX μωσα;
 Segert 1961: 246), but this seems unlikely. The verbal form also appears
 in the Moabite stone with the god Chemosh as subject. Gibson argues for
 a double base in proto-Semitic, one with the first consonant <i>y</i>- and
@@ -584,14 +584,14 @@ although others have followed the MT (e.g. Watts 1987: 238).
 
 <b>b.</b> Peshitta (Pesh)
 
-Hiphil:  <!--(<i>ṭābāʾ</i>), :-->   
+Hiphil:  <!--(<i>ṭābāʾ</i>), :-->   
 
 * <span dir="rtl" lang="-">ܥܒܕ ܦܘܪܩܢܐ</span>
-(<i>ʿbad purqānāʾ </i>), ‘to bring salvation’: 2&nbsp;Sam 3:18;  
+(<i>ʿbd purqānā</i>), ‘to bring salvation’:[^7] 2&nbsp;Sam 3:18;  
 * <span dir="rtl" lang="-">ܥܒܕ ܢܨܚܢܐ</span>
-(<i>ʿbad</i>) \[+ <i>neṣḥānāʾ</i> = תְּשׁוּעָה], to bring victory’: 1&nbsp;Chron 11:14 [cf. LXX];  
+(<i>ʿbd</i>) \[+ <i>neṣḥānā</i> = תְּשׁוּעָה], to bring victory’: 1&nbsp;Chron 11:14 [cf. LXX];  
 * <span dir="rtl" lang="-">ܥܕܪ</span>
-(<i>ʿdar</i>), ‘to help, to aid’: 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19;  
+(<i>ʿdr</i>), ‘to help, to aid’: 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19;  
 * <span dir="rtl" lang="-">ܢܦܩ</span>
 (<i>npq</i>) Aphel, ‘to bring out’: Ps 107:19;  
 * <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
@@ -611,20 +611,23 @@ Hiphil:  <!--(<i>ṭābāʾ</i>), :-->
 40:14; Prov 20:22; 1&nbsp;Chron 16:35; 18:6, 13; 2&nbsp;Chron 20:9; 32:22; 
 Sir 34:6; 48:20; 49:10;  
 * <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
-(<i>pārōqāʾ </i>), ‘saviour, liberator’: Judg 3:9, 15; 2&nbsp;Sam 22:42; 2&nbsp;Kgs 13:5; Isa 19:20; 43:3; 45:15, 21; 49:26; 60:16; 63:8; Zeph 3:17; Pss 17:7; 18:42;  
+(<i>pārōqā</i>), ‘saviour, liberator’: Judg 3:9, 15; 2&nbsp;Sam 22:42; 2&nbsp;Kgs 13:5; Isa 19:20; 43:3; 45:15, 21; 49:26; 60:16; 63:8; Zeph 3:17; Pss 17:7; 18:42;  
 * <span dir="rtl" lang="-">ܫܘܙܒ</span>
 (<i>šwzb</i>), ‘to save, deliver, preserve’: Sir 51:3;   
 * <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
 (<i>zky</i>/<i>zkʾ </i>) Pael, `to make victorious’: Judg 7:2.
+
+[^7]: The English rendering of the Syriac words is based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
+
 
 Omitted: 1&nbsp;Sam 25:31; Josh 10:6; Isa 43:11.  
 
 Niphal:  
 
 * <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
-(<i>pārōqāʾ</i>), ‘saviour, liberator’: Zech 9:9;  
+(<i>pārōqā</i>), ‘saviour, liberator’: Zech 9:9;  
 * <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span>
-(<i>purqānāʾ </i>), ‘salvation’: Deut 33:29; Isa 45:17;  
+(<i>purqānā</i>), ‘salvation’: Deut 33:29; Isa 45:17;  
 * <span dir="rtl" lang="-">ܦܪܩ</span>
 (<i>prq</i>) Ethpe. ‘to be saved’: 2&nbsp;Sam 22:4; Isa 30:15; 45:22; 64:4; Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18;  
 * <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
@@ -646,10 +649,10 @@ in the action of the verb, but this equivalent also appears only once.
 
 <b>A.3</b>  The meaning of bringing assistance is found in the translations
 <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
-(<i>zky</i>/<i>zkʾ </i>) Pael (Judg 7:2) and <span dir="rtl" lang="-">ܥܕܪ</span> (<i>ʿdar</i>; 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19).
+(<i>zky</i>/<i>zkʾ </i>) Pael (Judg 7:2) and <span dir="rtl" lang="-">ܥܕܪ</span> (<i>ʿdr</i>; 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19).
 
 <b>A.4</b>  The translation <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
-(<i>pārōqāʾ </i>), ‘saviour’, is found frequently, for the
+(<i>pārōqāʾ </i>), ‘saviour’, is found frequently, for the
 most part to render the ptc.
 <span dir="rtl" lang="he">מוֹשִׁיעַ</span>.
 
@@ -657,7 +660,7 @@ most part to render the ptc.
 
 Hiphil:  
 
-* <span dir="rtl" lang="he">פְּרַק</span>: O – Exod 2:17; 14:30; 
+* <span dir="rtl" lang="he">פְּרַק</span>,''[^8]: O – Exod 2:17; 14:30; 
 Deut 20:4; 22:27; 28:29, 31; Josh 10:6; 22:22;
 Judg 2:16, 18; 3:9 [2x], 15, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22;
 10:1, 12, 13, 14; 12:2, 3; 13:5; 
@@ -670,8 +673,12 @@ Ezk 34:22; 36:29; 37:23; Hos 13:4, 10; 14:4; Hab 1:2; Zeph 3:17, 19; Zech 8:7, 1
 9:16; 10:6; 12:7; 1&nbsp;Chron 11:14; 16:35; 18:6, 13; 19:12, 19; 2&nbsp;Chron 20:9;
 32:22;  
 * <span dir="rtl" lang="he">פרק</span> Af.: Hos 1:7;  
-* <span dir="rtl" lang="he">פורקנא</span>: 2&nbsp;Sam 22:3(?);  
+* <span dir="rtl" lang="he">פורקנא</span>: 2&nbsp;Sam 22:3(?);  `
 * <span dir="rtl" lang="he">שׁיזב</span>: Obad 21.
+
+
+[^8]: The English rendering of the Aramaic words is based on Sokoloff, <i>DJBA</i>, <i>s.v.</i>
+
 
 Niphal:
 
