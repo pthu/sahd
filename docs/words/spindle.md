@@ -35,8 +35,8 @@ However, פֶּלֶךְ <small>II</small> is undoubtedly a geographic designatio
 ‘ruler of the פֶּלֶךְ of Mizpah’ (Neh 3:15), 
 with פֶּלֶךְ apparently designating the area around Mizpah (Williamson 1985: 206).
 
-[^1]: <i>CAD</i> <small>P</small>, 373-74, s.v. <i>pilku</i> A; cf. KBL, 763; <i>DCH</i> vi: 696; Ges<small><sup>18</sup></small>, 1056.
-[^2]: <i>CAD</i> <small>P</small>, 374-75, s.v. <i>pilku</i> B. See also <i>DCH</i> vi: 696-97, s.v. פֶּלֶךְ <small>III</small> ;  cf. section <a href="#corvee">6.1 B.1</a> for Holloway 1987.
+[^1]: <i>CAD</i> P, 373-74, s.v. <i>pilku</i> A; cf. KBL, 763; <i>DCH</i> vi: 696; Ges<small><sup>18</sup></small>, 1056.
+[^2]: <i>CAD</i> P, 374-75, s.v. <i>pilku</i> B. See also <i>DCH</i> vi: 696-97, s.v. פֶּלֶךְ <small>III</small> ;  cf. section <a href="#corvee">6.1 B.1</a> for Holloway 1987.
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
@@ -50,7 +50,7 @@ but this is an unfounded suggestion. The word’s origin is unknown.
 
 <b>A.2</b> 
 <i>Akkadian</i>: The Akk. cognate <i>pilakku</i> (other spellings: <i>pilaqqu</i>, <i>pilaggu</i>) 
-means ‘spindle’ (<i>CAD</i> <small>P</small>, 371-73).
+means ‘spindle’ (<i>CAD</i> P, 371-73).
 The same word is often written as <small>BAL</small>, 
 the logographic equivalent of <i>pilakku</i>. The logogram is often but not always preceded by
 the determinative <small><sup>GIŠ</sup></small> (<small><sup>GIŠ</sup>BAL</small>), which 
@@ -63,9 +63,9 @@ Emar (<small>BAL</small> = <i>palakk/qqu</i>;
 <i>WSEmar</i>, 138; Arnaud 1987: 68). 
 None of the  occurrences demands the meaning 
 ‘spindle whorl’, which is designated as <i>qaqqad pilakki</i>, ‘the head of the 
-spindle’ (<i>CAD</i> <small>P</small>, 373). Lexical texts mention the ‘hooked spindle’ (<i>pilak qarni</i>; <i>CAD</i> <small>P</small>, 372), whose hook probably served to prevent the fibres or yarn from slipping away.  
+spindle’ (<i>CAD</i> P, 373). Lexical texts mention the ‘hooked spindle’ (<i>pilak qarni</i>; <i>CAD</i> P, 372), whose hook probably served to prevent the fibres or yarn from slipping away.  
 The texts refer to spindle whorls made of <i>algamišu</i> stone (probably steatite) 
-as well as spindle whorls made of tamarisk and other kinds of wood (<i>CAD</i> <small>P</small>, 373). <a id="EA25"></a>Large numbers of expensive spindles (<small>BAL.MEŠ</small>), made of gold, silver, lapis lazuli, alabaster, horn,
+as well as spindle whorls made of tamarisk and other kinds of wood (<i>CAD</i> P, 373). <a id="EA25"></a>Large numbers of expensive spindles (<small>BAL.MEŠ</small>), made of gold, silver, lapis lazuli, alabaster, horn,
 etc., were included in the gift which King Tušratta of Mitanni sent 
 to Egypt according to EA 25 III:70-72. 
 The golden spindles are said to have a total weight of 8 shekels 
@@ -80,9 +80,9 @@ spindle boxes made of wood or copper
 (<small><sup>GIŠ/URUDU</sup>É.BAL</small> = 
 <i>bīt pilakki</i>; 
 <small><sup>GIŠ</sup>PISAN.BAL</small>;
-<i>CAD</i> <small>P</small>, 372–73). 
+<i>CAD</i> P, 372–73). 
 
-[^3]: See <i>CAD</i> <small>P</small>, 372; Moran 1992: 79; Cochavi-Rainey 1999: 129.
+[^3]: See <i>CAD</i> P, 372; Moran 1992: 79; Cochavi-Rainey 1999: 129.
 [^4]: Rainey 2015, I: 266-67, II: 1361.
 
 
@@ -299,7 +299,7 @@ The spun yarn was used for the production of cloth fabrics (31:22, 24).
 The woman’s economic independence in Prov&nbsp;31:10-31 corresponds with
 the Akk. reference to a woman who has 
 acquired a slave-girl <i>ina pilakkiša</i>, ‘by (what 
-she earned by) her spindle’ (<i>CAD</i> <small>P</small>, 372). 
+she earned by) her spindle’ (<i>CAD</i> P, 372). 
 
 <b>A.2</b>
 The curse which David pronounces  in 2 Sam 3:29 implies that Joab’s 
@@ -381,9 +381,9 @@ For the relevant Hittite texts and terminology, see also
 
 Akk.  texts refer to men with female apparel and implements who play a role in specific contexts: 
 the cult of the goddess Inana/Ištar, who could alter a person’s sex (Hillers 1964: 66-67), 
-and the cult of goddesses associated with her (cf. <i>CAD</i> <small>K</small>, , 557-59, s.v. <i>kurgarrû</i>). 
+and the cult of goddesses associated with her (cf. <i>CAD</i> K, 557-59, s.v. <i>kurgarrû</i>). 
 The <i>kurgarrû</i> men (<small>LÚ.KUR.RA.MEŠ</small>) performing in the cult of the goddess Nanaya
-are said to make use of a spindle (<i>pilakku</i>),  a whip, etc. (SAA 3: 13, text 4; <i>CAD</i> <small>K</small>, 558).
+are said to make use of a spindle (<i>pilakku</i>),  a whip, etc. (SAA 3: 13, text 4; <i>CAD</i> K, 558).
 A male servant of the goddess Dilbat reports to the king that he carries (<i>anašši</i>) 
 a spindle (<small><sup>GIŠ</sup></small><i>pilaqqu</i>) for the goddess 
 (SAA 10: 69, text 92).
@@ -405,7 +405,7 @@ The idea that depriving soldiers of their masculinity and turning them into wome
 in the treaty of Aššur-Nerari V with King Mati’-Ilu of Arpad (<i>COS</i> iv: 151-52; V:8-15) and
 other Akk.  texts (Bergmann 2007: 666-67).
 
-[^15]: <i>lušaṣbirukunu</i> (<i>ṣabārum</i> š stem) is translated as ‘may (the gods) make you whirl(?)’ in <i>CAD</i> <small>P</small>, 372, as ‘may (the gods) have you oscillate’ in <i>CAD</i> <small>Ṣ</small>, 4, and as ‘may (the gods) spin you around’ in SAA 2: 56 (cf. <i>COS</i> iv: 165).
+[^15]: <i>lušaṣbirukunu</i> (<i>ṣabārum</i> š stem) is translated as ‘may (the gods) make you whirl(?)’ in <i>CAD</i> P, 372, as ‘may (the gods) have you oscillate’ in <i>CAD</i> <small>Ṣ</small>, 4, and as ‘may (the gods) spin you around’ in SAA 2: 56 (cf. <i>COS</i> iv: 165).
 
 In view of all this extra-biblical evidence, David’s use of the 
 expression מַחֲזִיק בַּפֶּלֶךְ, 
@@ -592,7 +592,7 @@ Internet: <a href="https://www.hittitemonuments.com/maras/maras10.htm" target="_
 Several Mesopotamian <!-- genoemd in CAD P 372 rechts; female Mesopotamian demon.--> amulets depict the female demon Lamaštu with a spindle and a comb, typical feminine paraphernalia 
 (Farber 2014: 4-6 with fig. 3, 6; see also figs. 15, 19, 20, 22). 
 The Lamaštu texts suppose that a spindle (<small><sup>GIŠ</sup>BAL</small> = <i>pilaqqu</i>) is a gift that pleases this demon;
-e.g., Lam. I: 197, Lam. II: 99, 173 (Farber 2014: 91, 110, 123, 158, 172, 178; cf. <i>CAD</i> <small>P</small>, 372).
+e.g., Lam. I: 197, Lam. II: 99, 173 (Farber 2014: 91, 110, 123, 158, 172, 178; cf. <i>CAD</i> P, 372).
 
 ### 6.3 Archaeology
 
@@ -697,7 +697,7 @@ However, the spindle full of yarn could also be used as a shuttle during weaving
 moving the woof yarn between the threads of the warp yarn (Rahmstorf 2015: 11). 
 Note that <small>BAL</small>, 
 the logographic equivalent of Akk.  <i>pilakku</i>, 
-was also used for Akk.  <i>nabalkutu</i>, ‘to cross over’ (<i>CAD</i> <small>N1</small>, 11-20).
+was also used for Akk.  <i>nabalkutu</i>, ‘to cross over’ (<i>CAD</i> N<small><sup>I</sup></small>, 11-20).
 
 
 Spindles were not only used for producing individual strands of yarn, but also for plying 
