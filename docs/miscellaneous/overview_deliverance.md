@@ -821,7 +821,7 @@ transitive use for ‘deliver’.
  is occasionally used. It is not found in Tg<small><sup>O</sup></small>, Tg<small><sup>J</sup></small>,
 Tg<small><sup>PsJ</sup></small> or apparently in the Palestinian Tgs. But it is
 frequent in the Pss, Job and Proverbs, especially for הציל. This may be
-connected with the frequency of <i>pṣʾ</i> in the Peshitta (see below).
+connected with the frequency of <i>pṣʾ </i> in the Peshitta (see below).
 
 The concentration on two equivalents in the Targums may have tended to
 blur distinctions within the lexical group. But it would be interesting
@@ -844,22 +844,22 @@ and
 Targums, but there are some notable differences in the words employed.
 
  ܥܕܪ
-(<i>ʿdar</i>) is generally used for עזר, instead of סְעַד and סיע. The absence
+(<i>ʿdr</i>) is generally used for עזר, instead of סְעַד and סיע. The absence
 of the latter is the more surprising, as it exists in Syriac in the same
 sense. ܥܕܪ 
-(<i>ʿdar</i>) is also very rarely used for הושׁיע. 
+(<i>ʿdr</i>) is also very rarely used for הושׁיע. 
 The meaning of ܥܕܪ
-(<i>ʿdar</i>) is ‘help, assist’.
+(<i>ʿdr</i>) is ‘help, assist’.
 
 ܦܪܩ
-(<i>praq</i>) is again the main equivalent for 
+(<i>prq</i>) is again the main equivalent for 
 <span dir="rtl" lang="he">הושׁיע</span>,
 <span dir="rtl" lang="he">גאל</span>,
 <span dir="rtl" lang="he">פדה</span>, 
 and Heb. <span dir="rtl" lang="he">פרק</span>.
 In the case of הושׁיע this extends to renderings of שׁוֹעַ and שׁוּעַ (cf.
 Vg 1x, Tg 1x). There are again two instances of הושׁיע being rendered by ܢܨܚܢܐ
-(<i>nṣḥnʾ </i>), ‘victory’. 
+(<i>neṣḥānā</i>), ‘victory’. 
 For <span dir="rtl" lang="he">גאל</span> 
 <span dir="rtl" lang="-">ܬܒܥ</span> 
 (<i>tbʿ </i>) again occurs in the
@@ -870,11 +870,11 @@ three instances of <span dir="rtl" lang="-">ܩܪܒ</span>
 (<i>prq</i>) is also occasionally used for <span dir="rtl" lang="he">הציל</span>.
 
 ܦܨܐ
-(<i>pṣʾ</i>) is also widely used: it is the main equivalent for הציל and the
+(<i>pṣʾ </i>) is also widely used: it is the main equivalent for הציל and the
 Piel and Niphal forms of מלט and פלט (but not so prominently for the
 nouns). It is also found occasionally for הושׁיע and פדה. 
 The meaning of ܦܨܐ
-(<i>pṣʾ</i>) is given as ‘deliver, set free’ by 
+(<i>pṣʾ </i>) is given as ‘deliver, set free’ by 
 Payne Smith (<i>CSD</i>, 454); CAL (under <i>pṣy</i>) gives ‘save’. 
 The latter’s citations
 imply that it is found in Jewish Aramaic [JBA presumably = ‘Jewish
@@ -905,9 +905,9 @@ In Syriac <span dir="rtl" lang="-">ܦܠܛ</span>
 Of the major variations from Targumic renderings in the Peshitta the use of 
 <span dir="rtl" lang="he">ܥܕܪ</span> (<i>ʿdr</i>) instead of 
 <span dir="rtl" lang="he">ܣܥܕ</span> (<i>sʿd</i>) is readily explicable by dialectal differences. The extensive substitution of 
-<span dir="rtl" lang="he">ܦܨܐ</span> (<i>pṣʾ</i>) for 
+<span dir="rtl" lang="he">ܦܨܐ</span> (<i>pṣʾ </i>) for 
 <span dir="rtl" lang="he">ܫܝܙܒ</span> (<i>šyzb</i>) is less easy to understand, since the latter verb certainly existed in Syriac and was sometimes used for members of the lexical group in the Peshitta. Is there again a dialectal difference behind this, or is there some other reason (perhaps a theological one) for the favouring of 
-<span dir="rtl" lang="he">ܦܨܐ</span> (<i>pṣʾ</i>)? In any 
+<span dir="rtl" lang="he">ܦܨܐ</span> (<i>pṣʾ </i>)? In any 
 case the broad division of the words other than עזר into two groups is again reflected in the Syriac renderings, whatever exactly the perceived difference between them was. It may be noted, among less common equivalents, how the special uses of גאל and nominal/passive forms of <span dir="rtl" lang="he">מלט</span> and 
 <span dir="rtl" lang="he">פלט</span>
 are again identified in the Peshitta.
@@ -960,7 +960,9 @@ strongly present in the regular renderings of
 and also 
 <span dir="rtl" lang="he">מלט</span>
 into Aramaic (Tg generally שׁיזב, but some cases of פצי in the
-Tg<small><sup>K</sup></small>; Pesh generally <i>pṣy</i>, but also <i>šyzb</i>).
+Tg<small><sup>K</sup></small>; Pesh generally 
+<span dir="rtl" lang="–">ܦܨܝ</span> [<i>pṣy</i>], but also 
+<span dir="rtl" lang="–">ܫܝܙܒ</span> [<i>šyzb</i>]).
 
 מלט and פלט.
  LXX marks a distinction between these words (and
@@ -984,9 +986,9 @@ dimension appears only infrequently, it seems, in Tg and Pesh). In Tg
 and Pesh the reference to vengeance is marked either by the retention of
 גאל
  as a loanword (in Tg<small><sup>O</sup></small> and Tg<small><sup>J</sup></small>) or by the use of 
-<span dir="rtl" lang="he">תבע</span>/<i>tbʿ</i>
+<span dir="rtl" lang="he">תבע</span>/ <span dir="rtl" lang="–">ܬܒܥ</span> (<i>tbʿ </i>)
 (Palestinian Tgs and Pesh). 
-In Pesh <i>tbʿ</i> is, more surprisingly, also
+In Pesh <span dir="rtl" lang="–">ܬܒܥ</span> (<i>tbʿ </i>)&nbsp;is, more surprisingly, also
 used in Ruth, perhaps in the more general sense of ‘making a claim’ for
 someone. The wider sense of ‘deliverance’ is also recognised in some
 uses of ῥύομαι, <i>libero</i> and שׁיזב.
@@ -1000,7 +1002,7 @@ meaning ‘deliver’ appears in the use of ῥύομαι or σῴζω, <i>
 פרק. In LXX and Vg words for ‘redeem’ are used where there is a
 personal object, no doubt as a reflection of this sense in Aramaic;
 elsewhere a variety of words for ‘removal’ are used. In Tg and Pesh the
-use of <span dir="rtl" lang="he">פרק</span>/prq</i> itself occurs more widely as a result of its various
+use of <span dir="rtl" lang="he">פרק</span>/ <span dir="rtl" lang="–">ܦܪܩ</span> (<i>prq</i>) itself occurs more widely as a result of its various
 meanings, which include ‘remove’. 
 
 #### (iii) Summary
@@ -1105,7 +1107,7 @@ Another issue that arises about this lexical field is whether some or
 all of its members have an essential or predominant theological
 component to their meaning. This was maintained by Sawyer for הושׁיע,
 which he suggested was ‘one of a small group of “disinfected” words (cf.
-BARAʾ ‘to create’), properly used only where YHWH or his appointed
+BARAʾ  ‘to create’), properly used only where YHWH or his appointed
 leader is subject’.[^17] Similarly it has been maintained that הציל is
 used ‘overwhelmingly with a divine subject’.[^18] Even within the Old
 Testament corpus this plays down the significance of those places where
@@ -1604,7 +1606,7 @@ E. Ruprecht, ‘פלט pi. – retten’, <i>THAT</i>, vol. 2: 420–27.
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1965
 <br>
-John F. A. Sawyer, ‘What was a <i>mošiaʿ</i>?’, <i>VT</i> 15: 475-86.
+John F. A. Sawyer, ‘What was a <i>mošiaʿ </i>?’, <i>VT</i> 15: 475-86.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1628,7 +1630,7 @@ John F. A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining He
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1975
 <br>
-John F. A. Sawyer, ‘A Historical Description of the Hebrew Root <i>yšʿ</i>’, in: 
+John F. A. Sawyer, ‘A Historical Description of the Hebrew Root <i>yšʿ </i>’, in: 
 James and Theodora Bynon (eds.),
 <i>Hamito-Semitica: Proceedings of a Colloquium Held by the Historical Section of the Linguistics Association (Great Britain) at the School of Oriental and African Studies, University of London, March 1970</i>
 (Janua Linguarum. Series Practica, 200), The Hague: Mouton,  75-84.

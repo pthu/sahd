@@ -376,7 +376,7 @@ A ritual against the sexual impotence of a man includes placing a spindle and di
 and, consequently, replacing it by a bow and arrows
 (<i>CTH</i> 406; see Hoffner 1987: 272, 277, 283). 
 For the relevant Hittite texts and terminology, see also 
-<i>x </i><small><sup> 2</sup></small> III/2: 632-33, 690-91. 
+<i>HW </i><small><sup> 2</sup></small> III/2: 632-33, 690-91. 
 
 
 Akk.  texts refer to men with female apparel and implements who play a role in specific contexts: 
@@ -405,7 +405,7 @@ The idea that depriving soldiers of their masculinity and turning them into wome
 in the treaty of Aššur-Nerari V with King Mati’-Ilu of Arpad (<i>COS</i> iv: 151-52; V:8-15) and
 other Akk.  texts (Bergmann 2007: 666-67).
 
-[^15]: <i>lušaṣbirukunu</i> (<i>ṣabārum</i> š stem) is translated as ‘may (the gods) make you whirl(?)’ in <i>CAD</i> P, 372, as ‘may (the gods) have you oscillate’ in <i>CAD</i> <small>Ṣ</small>, 4, and as ‘may (the gods) spin you around’ in SAA 2: 56 (cf. <i>COS</i> iv: 165).
+[^15]: <i>lušaṣbirukunu</i> (<i>ṣabārum</i> š stem) is translated as ‘may (the gods) make you whirl(?)’ in <i>CAD</i> P, 372, as ‘may (the gods) have you oscillate’ in <i>CAD</i> Ṣ, 4, and as ‘may (the gods) spin you around’ in SAA 2: 56 (cf. <i>COS</i> iv: 165).
 
 In view of all this extra-biblical evidence, David’s use of the 
 expression מַחֲזִיק בַּפֶּלֶךְ, 
