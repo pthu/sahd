@@ -329,8 +329,7 @@ older form could be explained in the same way as יבשׁ.
 <a id="2.B.1"></a>
 <b>B.1</b>  The form משִׁיעַ is the hiphil participle, although Sawyer notes that
 it has lost its participial and verbal characteristics, being used as
-the object of verbs of sending or appointing (1965: 477; cf. Syntagmatics
-A.5).
+the object of verbs of sending or appointing (1965: 477; cf. <a href="#3.A.5">Syntagmatics&nbsp;A.5</a>).
 
 ## 3. Syntagmatics 
 <b>Examples from narrative books, Isaiah, Psalms and Qumran</b>
@@ -387,7 +386,7 @@ suffix (Deut 20:4; Judg 7:7; 10:12, 13), + 3p. m.sg. suffix (Judg 6:31), + 1p. s
 suffix (Ps 34:7; 11QT 59:18), 1p. pl. suffix (Pss 44:8; 106:47), 3p. m.pl.
 suffix (Pss 37:40; 106:8, 10, 21; 107:13, 19; 145:19; 11QT 59:11).
 
-
+<a id="3.A.5"></a>
 <b>A.5</b>  ישׁע hiphil participle is the object of the verbs קום hiphil ‘to
 raise up’ (Judg 3:9, 15), נָתַן ‘to give’ (2&nbsp;Kgs 13:5), and שָׁלַח ‘to send’
 (Isa 19:20).
@@ -519,12 +518,12 @@ Hiphil:
 * ἐλεέω, ‘to have pity on’: Sir 33:1;  
 * ἐξαιρέω, ‘to take (out)’: Josh 10:6; Sir 4:9;  
 * λυτρόω, ‘to redeem’: Sir 48:20; 49:10;  
-* ποιέω, ‘to make, to bring about’ \[+ σωτηρίαν, ‘deliverance’ = <span dir="rtl" lang="he">תְּשׁוּעָה</span>]:[^5] 1&nbsp;Chron 11:14;  
+* ποιέω, ‘to make, to bring about’ (+ σωτηρίαν, ‘deliverance’ = <span dir="rtl" lang="he">תְּשׁוּעָה</span>):[^5] 1&nbsp;Chron 11:14;  
 * ῥύομαι, ‘to rescue’: Exod 2:17; 14:30; Josh 22:22; Isa 49:25, 26; 63:5; Ezek 37:23;  
 * σωτήρ, ‘saviour, deliverer’: Judg 3:9, 15; 1&nbsp;Sam 10:19; Isa 45:15, 21; Neh 9:27;  
 * σωτηρία, ‘deliverance, salvation’: 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; Isa 38:20; 47:15; 63:8;  
 * σωτήριον, ‘deliverance, salvation’: Isa 63:1;  
-* σώζω, ‘to save, to keep alive’: Judg 2:16, 18; 3:9, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam 4:3; 7:8; 9:16; 10:27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26, 31 [+χεῖρα], 33; 2&nbsp;Sam 3:18; 8:6, 14; 10:11, 19; 14:4; 22:3, 8; 2&nbsp;Kgs 6:26, 27 [2x]; 16:7; 19:19; Isa 19:20; 33:22; 35:4; 37:20, 35; 43:3, 11, 12; 45:20 [pl]; 46:7; 47:13; 59:1; 60:16; 63:9; Jer 2:27, 28; 11:12 [1x]; 14:8, 9; 15:20; 17:14; 31[38]:7; 42[49]:11; 46[26]:27; Ezek 34:22; 36:29; Hos 1:7 [2x]; 13:4; 14:4; Obad 1:21 [passive]; Hab 1:2; Zeph 3:17, 19; Zech 9:16; 10:6; 12:7; Pss 3:8; 6:5; 7:2,
+* σώζω, ‘to save, to keep alive’: Judg 2:16, 18; 3:9, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam 4:3; 7:8; 9:16; 10:27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26, 31 [+χεῖρα], 33; 2&nbsp;Sam 3:18; 8:6, 14; 10:11, 19; 14:4; 22:3, 8; 2&nbsp;Kgs 6:26, 27 (2x); 16:7; 19:19; Isa 19:20; 33:22; 35:4; 37:20, 35; 43:3, 11, 12; 45:20 (pl.); 46:7; 47:13; 59:1; 60:16; 63:9; Jer 2:27, 28; 11:12 (1x); 14:8, 9; 15:20; 17:14; 31[38]:7; 42[49]:11; 46[26]:27; Ezek 34:22; 36:29; Hos 1:7 (2x); 13:4; 14:4; Obad 1:21 (pass.); Hab 1:2; Zeph 3:17, 19; Zech 9:16; 10:6; 12:7; Pss 3:8; 6:5; 7:2,
 11; 12[11]:2; 17[16]:7; 18[17]:28, 42; 20[19]:7, 10; 22[21]:22;
 28[27]:9; 31[30]:3, 17; 34[33]:7, 19; 36[35]:7; 37[36]:40; 44[43]:4, 7,
 8; 54[53]:3; 57[56]:4; 59[58]:3; 60[59]:7; 69[68]:2, 36; 71[70]:2, 3;
@@ -555,7 +554,7 @@ Large omission: Jer 33:16.
 compounds (for both the hiphil and the niphal), there are some
 equivalents that express various other nuances corresponding to some of
 the translations for the cognate Hebrew nouns. ἀμύνομαι ‘to ward off
-[danger etc.]’ at Isa 59:16 indicates that ישׁע can denote protection from
+(danger etc.)’ at Isa 59:16 indicates that ישׁע can denote protection from
 danger and not merely ‘deliverance’. Likewise βοηθέω ‘to help, assist’
 and its cognates indicate another connotation of the verb.
 
@@ -586,19 +585,19 @@ Hiphil:  <!--(<i>ṭābāʾ</i>), :-->
 
 * <span dir="rtl" lang="-">ܥܒܕ ܦܘܪܩܢܐ</span>
 (<i>ʿbd purqānā</i>), ‘to bring salvation’:[^7] 2&nbsp;Sam 3:18;  
-* <span dir="rtl" lang="-">ܥܒܕ ܢܨܚܢܐ</span>
-(<i>ʿbd</i>) \[+ <i>neṣḥānā</i> = תְּשׁוּעָה], to bring victory’: 1&nbsp;Chron 11:14 [cf. LXX];  
+* <span dir="rtl" lang="-">ܥܒܕ</span>
+(<i>ʿbd</i>) (+ <span dir="rtl" lang="-">ܢܨܚܢܐ</span> [<i>neṣḥānā</i>]= <span dir="rtl" lang="he">תְּשׁוּעָה</span>), to bring victory’: 1&nbsp;Chron 11:14 (cf. LXX);  
 * <span dir="rtl" lang="-">ܥܕܪ</span>
 (<i>ʿdr</i>), ‘to help, to aid’: 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19;  
 * <span dir="rtl" lang="-">ܢܦܩ</span>
 (<i>npq</i>) Aphel, ‘to bring out’: Ps 107:19;  
 * <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
-(<i>pṣy</i>/<i>pṣʾ </i>) Pael \`to save, to deliver’: Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
+(<i>pṣy</i>/<i>pṣʾ </i>) Pael 'to save, to deliver’: Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
 * <span dir="rtl" lang="-">ܦܪܩ</span>
 (<i>prq</i>), ‘to save, to liberate’: Exod 2:17; 14:30; Deut 20:4; 28:29; Josh 22:22; Judg 2:16, 18; 3:9,
 31; 6:14, 15, 36, 37; 7:7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam
 4:3; 7:8; 9:16; 10:19, 27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26,
-33; 2&nbsp;Sam 8:6, 14; 14:4; 22:3, 28; 2&nbsp;Kgs 6:26, 27 [2x]; 14:27; 16:7; 19:19,
+33; 2&nbsp;Sam 8:6, 14; 14:4; 22:3, 28; 2&nbsp;Kgs 6:26, 27 (2x); 14:27; 16:7; 19:19,
 34; Isa 25:9; 33:22; 35:4; 37:20, 35; 38:20; 43:12; 45:20; 46:7; 47:13,
 15; 49:25; 59:1, 16; 63:1, 5, 9; Ezek 34:22; 36:29; 37:23; Hos 1:7 [2x];
 13:4, 10; 14:4; Obad 1:21; Zeph 3:19; Zech 8:7, 13; 9:16; 10:6; 12:7; Pss 3:8;
@@ -658,7 +657,7 @@ most part to render the ptc.
 
 Hiphil:  
 
-* <span dir="rtl" lang="he">פְּרַק</span>,''[^8]: O – Exod 2:17; 14:30; 
+* <span dir="rtl" lang="he">פּרק</span>, 'to redeem'[^8]: O – Exod 2:17; 14:30; 
 Deut 20:4; 22:27; 28:29, 31; Josh 10:6; 22:22;
 Judg 2:16, 18; 3:9 [2x], 15, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22;
 10:1, 12, 13, 14; 12:2, 3; 13:5; 
@@ -667,51 +666,51 @@ Judg 2:16, 18; 3:9 [2x], 15, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22;
 2&nbsp;Kgs 6:26, 27; 13:5; 14:27; 16:7; 19:19, 34; 
 Is 19:20; 25:9; 33:22; 35:4; 37:20, 35; 38:20; 43:3, 11, 12; 45:15, 20, 21; 46:7; 47:13, 15; 49:25, 26; 59:1, 16; 60:16; 63:1, 5, 8, 9; 
 Jer 2:27, 28; 11:12 [1x]; 14:8, 9; 15:20; 17:14; 30:10, 11; 31:7; 42:11; 46:27; 
-Ezk 34:22; 36:29; 37:23; Hos 13:4, 10; 14:4; Hab 1:2; Zeph 3:17, 19; Zech 8:7, 13;
+Ezk 34:22; 36:29; 37:23; Hos 1:7<sup>1st</sup>; 13:10; 14:4; Hab 1:2; Zeph 3:17, 19; Zech 8:7, 13;
 9:16; 10:6; 12:7; 1&nbsp;Chron 11:14; 16:35; 18:6, 13; 19:12, 19; 2&nbsp;Chron 20:9;
 32:22;  
-* <span dir="rtl" lang="he">פרק</span> Af.: Hos 1:7;  
-* <span dir="rtl" lang="he">פורקנא</span>: 2&nbsp;Sam 22:3(?);   
-* <span dir="rtl" lang="he">שׁיזב</span>: Obad 21.
+* <span dir="rtl" lang="he">פרק</span> Ithpe., 'redeem': Hos 1:7<sup>2nd</sup>;  
+* <span dir="rtl" lang="he">פורקנא</span>, 'redemption, salvation': 2&nbsp;Sam 22:3(?);   
+* <span dir="rtl" lang="he">שׁיזב</span>, 'to release, save': Obad 21.
 
 
-[^8]: The English rendering of the Aramaic words is based on Sokoloff, <i>DJBA</i>, <i>s.v.</i>
+[^8]: The English rendering of the Aramaic words is based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
 
 Niphal:
 
-* <span dir="rtl" lang="he">פרק</span>: 2&nbsp;Sam 22:4; Zech 9:9;  
-* <span dir="rtl" lang="he">פרק</span> Af.: O – Num 10:9; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16;  
-* <span dir="rtl" lang="he">פורקנא</span>: O – Deut 33:29.
+* <span dir="rtl" lang="he">פרק</span>, 'to redeem': 2&nbsp;Sam 22:4; Zech 9:9;  
+* <span dir="rtl" lang="he">פרק</span> Ithpe., 'to be redeemed': O – Num 10:9; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16;  
+* <span dir="rtl" lang="he">פורקנא</span>, 'redemption, salvation': O – Deut 33:29.
 
 
 <b>A.1</b>  There is nothing exceptional in the renderings of the Pesh or Tg, both translating the verb by the same words as they do for many others
 in the semantic field.
 
-<b>A.2</b>  There is a clear preference in the Tg for the verb פְּרַק. Only once
+<b>A.2</b>  There is a clear preference in the Tg for the verb פּרק. Only once
 do we find the equivalent שׁיזב (Obad 21), which is more frequent as a
 translation for other lexemes in the semantic field.
 
 
 <b>A.3</b>  At Tg Hos 1:7, the Targumist avoids presenting God as acting as a
-warrior, and therefore turns the verb into a third person passive
-(Cathcart & Gordon 1989:30; Smolar & Aberbach 1983:148–49).
+warrior, and therefore turns the second verb into a third person passive
+(Cathcart & Gordon 1989: 30; Smolar & Aberbach 1983: 148–49).
 
 
 <b>A.4</b>  In the Tg to Zech 9:9 MS V, printed in Sperber’s edition, has the Peal
 active, although MS Z posits a passive participle, corresponding to the
 Niphal in the MT. LXX, Pesh and Vg all render as active too. Comparison
 may be made with Ps 33:16 where in the Tg נושׁע is rendered מתפריק
-(Cathcart & Gordon 1989:205).
+(Cathcart & Gordon 1989: 205).
 
 <b>d.</b> Vulgate (Vg)
 
 Hiphil:  
 
-* <i>adiuvo</i>: Deut 28:31; 1&nbsp;Chron 18:6;  
-* <i>auxilior</i>: 2&nbsp;Sam 10:11;  
-* <i>custodio</i>: Josh 22:22;  
-* <i>do</i> \[+ <i>salutem</i> = תְּשׁוּעָה]: in: 1&nbsp;Chron 11:14;  
+* <i>adiuvo</i>, 'to give aid to, to help':[^9] Deut 28:31; 1&nbsp;Chron 18:6;  
+* <i>auxilior</i>, 'to give help, aid to': 2&nbsp;Sam 10:11;  
+* <i>custodio</i>, '': Josh 22:22;  
+* <i>do</i> (+ <i>salutem</i> = <span dir="rtl" lang="he">תְּשׁוּעָה</span>): 1&nbsp;Chron 11:14;  
 * <i>defendo</i>: Exod 2:17; Judg 3:31; 1&nbsp;Sam 11:3;  
 * <i>dux</i>: Judg 10:1;  
 * <i>eruo</i>: Deut 20:4; Judg 10:12;  
@@ -742,6 +741,8 @@ Ezek 37:23; Pss 3:8[7]; 36[35]:7; 76[75]:10; 119[118]:146; Job 5:15; 2&nbsp;Chro
 * <i>sum in praesidium</i>: 1&nbsp;Chron 19:12;  
 * <i>sustineo</i>: ?Job 26:2; ‘to preserve’?  
 * <i>ulciscor</i>: 1&nbsp;Sam 25:31, 33;  
+
+[^9]: The English rendering of the Latin words is based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
 
 Omitted: Judg 12:3
 
