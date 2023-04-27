@@ -276,23 +276,20 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 <b>c.</b> Targum (Tg):  
 
 * <span dir="rtl" lang="he">פרק</span>, 'to redeem':[^3]
- Exod 15:2; 2&nbsp;Sam 10:11; Isa 12:2; Pss 35:3; 118:14, 21;  
-* <span dir="rtl" lang="he">פורקנא</span>,
- Gen 49:18; Exod 14:13; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 22:51; Isa 12:2; 25:9;
+ Exod 15:2; Deut 32:15; 2&nbsp;Sam 10:11; Isa 12:2<sup>2nd</sup>; Pss 35:3; 80:3; 118:14, 21;  
+* <span dir="rtl" lang="he">פורקנא</span>, 'redemption, salvation':
+ Gen 49:18; Exod 14:13; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 22:51; Isa 12:2<sup>1st</sup>; 25:9;
 26:1, 18; 33:2; 49:6, 8; 51:6, 8; 52:7, 10; 56:1; 59:11, 17; 60:18;
 62:1; Jon 2:10; Pss 3:3, 9; 9:15; 13:6; 14:7; 18:51; 20:6; 21:2, 6; 22:2;
 28:8; 35. 9; 42:6, 12; 43:5; 44:5; 53:7; 62:2, 3, 7; 67:3; 68:20 [with
 expansion]; 69:30; 70:5; 74:12; 78:22; 88:2; 89:27; 91:16; 96:2; 98:2,
 3; 106:4; 116:13; 118:15; 119:123, 155, 166, 174; 140:8; 149:4; Job
 13:16; 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;  
-* <span dir="rtl" lang="he">פרק</span>,
- part.: Deut 32:15; inf.: Ps 80:3;  
-* <span dir="rtl" lang="he">צדקא</span>,
- Isa 12:3;  
-* <span dir="rtl" lang="he">תקוף ופרקן</span>,
+* <span dir="rtl" lang="he">צדקא</span>, 'righteousness': Isa 12:3;  
+* <span dir="rtl" lang="he">תקוף ופרקן</span>, 'strength and redemption':
 Isa 33:6; Hab 3:8.
 
-[^3]: The English rendering of the Aramaic words is based on Sokoloff, <i>DJBA</i>, <i>s.v.</i>
+[^3]: The English rendering of the Aramaic words is based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
 
 <b>d.</b> Vulgate (Vg):  
