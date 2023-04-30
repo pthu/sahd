@@ -422,10 +422,10 @@ td:nth-child(odd) {
 <p id="footnote-2"><sup>2</sup> For the differentiation between versions 1 and 2 of Tg.<sup>Smr</sup> see <i>THB</i>, 1A, 235-38
 	and 239-62.
 </p>
-<p id="footnote-3"><sup>3</sup> Vulg.<sup>PsG</sup>= <i>Psalmi iuxta Septuaginta emendati</i>= ``Ga'' in 
+<p id="footnote-3"><sup>3</sup> Vulg.<sup>PsG</sup>= <i>Psalmi iuxta Septuaginta emendati</i>= ‘Ga’ in 
 	<i>BHS</i> and <i>BHQ</i>.
 </p>
-<p id="footnote-4"><sup>4</sup> Vulg.<sup>PsH</sup>= <i>Psalmi iuxta Hebraicum translati</i>= ``Hier'' in <i>BHS</i>-Psalms; ``Hbrs'' in <i>BHQ</i>.
+<p id="footnote-4"><sup>4</sup> Vulg.<sup>PsH</sup>= <i>Psalmi iuxta Hebraicum translati</i>= ‘Hier’ in <i>BHS</i>-Psalms; ‘Hbrs’ in <i>BHQ</i>.
 </p>
 
 ## General abbreviations
@@ -1089,7 +1089,7 @@ BL<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>BNP</i><br>
-	Hubert Cançik <i>et al.</i> (eds), <i>Brill's New Pauly: Encyclopaedia of the Ancient World</i>,
+	Hubert Cançik <i>et al.</i> (eds), <i>Brill’s New Pauly: Encyclopaedia of the Ancient World</i>,
 	vol. 1-, Leiden: Brill, 2002-
 </div>
 
@@ -1208,7 +1208,7 @@ COuT<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>CTAT</i> 1<br>
-	Dominique Barthélemy, <i>Critique Textuelle de l'Ancient Testament</i>,
+	Dominique Barthélemy, <i>Critique Textuelle de l’Ancient Testament</i>,
 	Vol. 1: <i>Josué-Esther</i>
 	(OBO, 50/1), Fribourg: Éditions Universitaires/Göttingen:
 	Vandenhoeck & Ruprecht, 1982
@@ -1216,7 +1216,7 @@ COuT<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>CTAT</i> 2<br>
-	Dominique Barthélemy, <i>Critique Textuelle de l'Ancient Testament</i>,
+	Dominique Barthélemy, <i>Critique Textuelle de l’Ancient Testament</i>,
 	Vol. 2: <i>Isaïe, Jérémie, Lamentations</i>
 	(OBO, 50/2), Fribourg: Éditions Universitaires/Göttingen:
 	Vandenhoeck & Ruprecht, 1986
@@ -1224,7 +1224,7 @@ COuT<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>CTAT</i> 3<br>
-	Dominique Barthélemy, <i>Critique Textuelle de l'Ancient Testament</i>,
+	Dominique Barthélemy, <i>Critique Textuelle de l’Ancient Testament</i>,
 	Vol. 3: <i>Ézéchiel, Daniel et les 12 Prophètes</i>(OBO,50/3),
 	Fribourg: Éditions Universitaires/ Göttingen:
 	Vandenhoeck & Ruprecht, 1992
@@ -1232,7 +1232,7 @@ COuT<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>CTAT</i> 4<br>
-	Dominique Barthélemy, <i>Critique Textuelle de l'Ancient Testament</i>,
+	Dominique Barthélemy, <i>Critique Textuelle de l’Ancient Testament</i>,
 	Vol. 4: <i>Psaumes</i>
 	(OBO,50/4), Fribourg:Éditions Universitaires/Göttingen:
 	Vandenhoeck & Ruprecht, 
@@ -1241,7 +1241,7 @@ COuT<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>CTAT</i> 5<br>
-	Dominique Barthélemy, <i>Critique Textuelle de l'Ancient Testament</i>,
+	Dominique Barthélemy, <i>Critique Textuelle de l’Ancient Testament</i>,
 	Vol.5: <i>Job, Proverbes, Qohélet et Cantique des Cantiques</i>
 	(OBO, 50/5), Fribourg: Éditions Universitaires/Göttingen:
 	Vandenhoeck & Ruprecht, 2016
@@ -1265,7 +1265,7 @@ COuT<br>
 <i>DAC</i><br>
 	Rudolphe Kasser, <i>Dictionnaire auxiliaire, étymologique et complet
 	de la langue copte</i>, fasc. 1-, Genève:
-	Écrits et idiomes de l'Égypte et du Proche-Orient, 1967- 
+	Écrits et idiomes de l’Égypte et du Proche-Orient, 1967- 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1296,7 +1296,7 @@ Dalman, <i>AuS</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>DAPP</i><br>
-	Yohanan Elihai, <i>Dictionnaire de l'Arabe parlé palestinien: 
+	Yohanan Elihai, <i>Dictionnaire de l’Arabe parlé palestinien: 
 Français-Arabe</i>,
 	Paris: Klincksieck, <sup>3</sup>1985
 </div>
@@ -1361,7 +1361,7 @@ Karel van der Toorn <i>et al.</i> (eds),
 
 <div style="padding-left: 22px; text-indent: -22px;">
 De Vaux, <i>IAT</i><br>
-	 Roland de Vaux, <i>Les institutions de l'Ancien Testament</i>, 2 vols., 
+	 Roland de Vaux, <i>Les institutions de l’Ancien Testament</i>, 2 vols., 
 	 Paris: Du Cerf, 1958-60
 </div>
 
@@ -1556,7 +1556,7 @@ GHAL<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>GIAS</i><br>
-	Alexandra Avanzini, <i>Glossaire des inscriptions de l'Arabie du Sud 1950-1973</i>
+	Alexandra Avanzini, <i>Glossaire des inscriptions de l’Arabie du Sud 1950-1973</i>
 	(Quaderni di Semitistica, 3.1/2),
 	2 vols., Firenze: Ist.di Linguistica e di Lingue Orientali, 1977-80
 </div>
@@ -1564,7 +1564,7 @@ GHAL<br>
 <div style="padding-left: 22px; text-indent: -22px;">
 GK<br>
 	 Wilhelm Gesenius & Emil Kautzsch, <i>Wilhelm 
-	 Gesenius' Hebräische Grammatik</i>,
+	 Gesenius’ Hebräische Grammatik</i>,
 	 Leipzig: F.C.G. Vogel, <sup>28</sup>1910
 </div>
 
@@ -1577,7 +1577,7 @@ GK<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 GKC<br>
-	 Wilhelm Gesenius, Emil Kautzsch & Arthur E. Cowley, <i>Gesenius' Hebrew Grammar</i>,
+	 Wilhelm Gesenius, Emil Kautzsch & Arthur E. Cowley, <i>Gesenius’ Hebrew Grammar</i>,
 	 Oxford: Clarendon Press, <sup>2</sup>1910
 </div>
 
@@ -1620,7 +1620,7 @@ GNTB<br>
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>HAWAT</i><br>
 	 Eduard König, <i>Hebräisches und aramäisches Wörterbuch
-	 zum Alten Testament</i>, Leipzig: Dieterich'sche Verlagbuchhandlung, 
+	 zum Alten Testament</i>, Leipzig: Dieterich’sche Verlagbuchhandlung, 
 <sup>2-3</sup>1922
 </div>
 
@@ -1757,7 +1757,7 @@ HRCS<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>IBHS</i><br>
-	 Bruce K. Waltke & Michael O'Connor, 
+	 Bruce K. Waltke & Michael O’Connor, 
 	 <i>An Introduction to Biblical Hebrew Syntax</i>,
 	 Winona Lake (IN): Eisenbrauns, 1990
 </div>
@@ -1770,13 +1770,13 @@ ICC<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>IDB</i><br>
-	 George A. Buttrick (ed.), <i>The Interpreter's Dictionary of the Bible:
+	 George A. Buttrick (ed.), <i>The Interpreter’s Dictionary of the Bible:
 	An Illustrated Encyclopedia</i>, 4 vols., Nashville: Abingdon, 1962
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>IDBSup</i><br>
-	 Keith Crim (ed.), <i>The Interpreter's
+	 Keith Crim (ed.), <i>The Interpreter’s
 	Dictionary of the Bible: An Illustrated Encyclopedia: Supplementary Volume</i>,
 	Nashville: Abingdon, 1976
 </div>
@@ -1832,7 +1832,7 @@ Jastrow, <i>DTT</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Joüon, <i>GHB</i><br>
-	 Paul Joüon, <i>Grammaire de l'hébreu biblique</i>,
+	 Paul Joüon, <i>Grammaire de l’hébreu biblique</i>,
 	 Rome: Institut Biblique Pontifical,  <sup>2</sup>1947
 </div>
 
@@ -1988,7 +1988,7 @@ LEH<sup>2</sup><br>
 Levy, <i>CWT</i><br>
 	Jacob Levy, <i>Chaldäisches Wörterbuch
 	über die Targumim und eine grossen Theil des rabbinischen Schriftthums</i>,
-	2 vols., Leipzig: Baumgärtner's Buchhandlung,
+	2 vols., Leipzig: Baumgärtner’s Buchhandlung,
 	1867-68
 </div>
 
@@ -2162,7 +2162,7 @@ NICOT<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>NIDB</i><br>
-	  Katharine Doob Sakenfeld (ed.), <i>The New Interpreter's Dictionary of the Bible</i>, 5 vols.,
+	  Katharine Doob Sakenfeld (ed.), <i>The New Interpreter’s Dictionary of the Bible</i>, 5 vols.,
 	  Nashville (TN): Abingdon, 2006-09
 </div>
 
@@ -2380,7 +2380,7 @@ Salonen, <i>Vögel</i><br>
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>SLLAe</i><br>
 	 Sylvain Grébaut, <i>Supplément au Lexicon linguae aethiopicae de
-	 August Dillmann (1865) et édition du lexique de Juste d'Urbin (1850-1855)</i>, 
+	 August Dillmann (1865) et édition du lexique de Juste d’Urbin (1850-1855)</i>, 
 	 Paris: Impr. Nationale, 1952
 </div>
 
@@ -2412,7 +2412,7 @@ Sokoloff, <i>DJPA</i><br>
 <div style="padding-left: 22px; text-indent: -22px;">
 Sokoloff, <i>SLB</i><br>
 	 Michael Sokoloff, <i>A Syriac Lexicon: A Translation from the Latin,
-	 Correction, Expansion, and Update of C. Brockelmann's</i> Lexicon Syriacum,
+	 Correction, Expansion, and Update of C. Brockelmann’s</i> Lexicon Syriacum,
 	 Piscataway: Gorgias Press, 2009
 </div>
 
@@ -2690,7 +2690,7 @@ WUNT<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 WYC<br>
-	 Wycliffe's Bible (1392/ 2011)
+	 Wycliffe’s Bible (1392/ 2011)
 </div>
 
 ### <p id="footnote-z">Z.
