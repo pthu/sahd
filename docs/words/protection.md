@@ -5,7 +5,7 @@
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Authors:
 [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)[^*]<br>
-First published: 2011-01-01<br>Revised: 2017-01-01
+First published: 2017-01-01<br>Revised: 2023-04-29
 
 
 For fuller discussion of the lexical field as a whole see on this site the 
@@ -257,7 +257,7 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 3; 106[105]:4; 116[115]:13[4]; 119[118]:123, 166, 174;
 * σώζω, ‘to save’ as articular infinitive: Ps 80[79]:3.
 
-[^1]: The English rendering of the Greek words is based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>.
+[^1]: The English rendering of the Greek is based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>.
 
 
 <b>b.</b> Peshitta (Pesh):  
@@ -268,7 +268,7 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 * <span dir="rtl" lang="-">ܡܥܕܪܢܐ</span> (<i>mʿadrānnā</i>), ‘helper’: 2&nbsp;Sam 10:11;  
 * [[<span dir="rtl" lang="-">ܦܘܪܥܢܐ</span> (<i>purʿānā</i>), ‘recompense, reward’: Jon 2:10]].
 
-[^2]: The English rendering of the Syriac words is based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
+[^2]: The English rendering of the Syriac is based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
 
 <b>c.</b> Targum (Tg):  
@@ -287,23 +287,23 @@ expansion]; 69:30; 70:5; 74:12; 78:22; 88:2; 89:27; 91:16; 96:2; 98:2,
 * <span dir="rtl" lang="he">תקוף ופרקן</span>, ‘strength and redemption’:
 Isa 33:6; Hab 3:8.
 
-[^3]: The English rendering of the Aramaic words is based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
+[^3]: The English rendering of the Aramaic is based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
 
 <b>d.</b> Vulgate (Vg):  
 
-* <i>adiutorium</i>, ‘to help’: 2&nbsp;Sam 10:11;  
+* <i>adiutorium</i>, ‘to help’:[^4] 2&nbsp;Sam 10:11;  
 * <i>auxilium</i>, ‘to help’: 2&nbsp;Chron 20:17;  
 * <i>Iesus</i>, ‘Jesus’: Ps 149:4 (Vg<small><sup>PsH </sup></small>)  
 * [[<i>iustitia</i>, ‘justice, righteousness’: Isa 51:8]];  
 * <i>magnalia</i>, ‘great things, mighty works’: Exod 14:13;  
-* <i>salus</i>, ‘a being safe and sound, welfare’: Exod 15:2; 1&nbsp;Sam 14:45; 2&nbsp;Sam 22:51; Isa 12:2b; 26:18; 33:2, 6; 49:6, 8; 51:6; 52:7; 56:1; 59:11, 17; 60:18; Jon 2:10; Pss 3:3, 9; 14[13]:7 (Vg<small><sup>PsH </sup></small>);[^6] 18[17]:51; 22[21]:2; 35[34]:3, 9; 42[41]:12; 43[42]:5; 44[43]:5; 62[61]:2, 3, 7; 67[66]:3; 68[67]:20; 69[68]:30; 74[73]:12; 88[87]:2; 89[88]:27; 116[115]:13; 118[117]:14, 15, 21; 119[118]:155; 140[139]:8; 149:4 (Vg<small><sup>PsG </sup></small>); Job 30:15;  
+* <i>salus</i>, ‘a being safe and sound, welfare’: Exod 15:2; 1&nbsp;Sam 14:45; 2&nbsp;Sam 22:51; Isa 12:2b; 26:18; 33:2, 6; 49:6, 8; 51:6; 52:7; 56:1; 59:11, 17; 60:18; Jon 2:10; Pss 3:3, 9; 14[13]:7 (Vg<small><sup>PsH </sup></small>); 18[17]:51; 22[21]:2; 35[34]:3, 9; 42[41]:12; 43[42]:5; 44[43]:5; 62[61]:2, 3, 7; 67[66]:3; 68[67]:20; 69[68]:30; 74[73]:12; 88[87]:2; 89[88]:27; 116[115]:13; 118[117]:14, 15, 21; 119[118]:155; 140[139]:8; 149:4 (Vg<small><sup>PsG </sup></small>); Job 30:15;  
 * <i>salutaris</i>, ‘salvation, health’: Gen 49:18; Deut 32:15; 1&nbsp;Sam 2:1; Isa 25:9; 52:10; Pss 9:15[16]; 13[12]:6; 14[13]:7 (Vg<small><sup>PsG </sup></small>); 20[19]:6; 21[20]:6; 28[27]:8; 42[41]:6; 53[52]:7; 70[69]:5; 78[77]:22; 91[90]:16; 96[92]:2; 98[97]:2, 3; 106[105]:4; 119[118]:123, 166, 174; 1&nbsp;Chron 16:23;  
 * <i>salvatio</i>, ‘deliverance’: Hab 3:8;  
 * <i>salvator</i>, ‘savious, redeemer’: Isa 12:2a, 3; 26:1; 62:1; Job 13:16;  
 * <i>salvum facio</i>, ‘to save, to deliver’: Ps 80[79]:3.
 
-
+[^4]: The English rendering of the Latin is based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
 
 <b>A.1</b>  The Versions in general choose the same translation equivalents as
 those of the cognate noun יֵשַׁע. What is striking in comparison with 
@@ -462,7 +462,7 @@ in the plural a few times, which may account for its possible use in
 reference to God’s ‘acts’ (see A.4 below).
 
 
-<b>A.2</b>  <span dir="rtl" lang="he">יְשׁוּעָה</span>  
+<b>A.2</b>  <span dir="rtl" lang="he">יְשׁוּעָה</span> 
 has a stative connotation, perhaps denoting ‘protection’,
 which is especially brought out by Isa 26:1 where 
 <span dir="rtl" lang="he">יְשׁוּעָה</span>  is set up like
