@@ -506,7 +506,7 @@ it is the predicate of and <span dir="rtl" lang="he">יהוה</span>
 
 ## 4. Ancient Versions
 
-<b>a.</b> Septuagint (LXX)
+<b>a. Septuagint (LXX):</b>
 
 Hiphil:   
 
@@ -581,7 +581,7 @@ emendation נרשׁע ‘we have become wicked’ (e.g. Cheyne 1899: 73, 171; <i>
 although others have followed the MT (e.g. Watts 1987: 238).  
 
 
-<b>b.</b> Peshitta (Pesh)
+<b>b. Peshitta (Pesh):</b>
 
 Hiphil:  <!--(<i>ṭābāʾ</i>), :-->   
 
@@ -655,7 +655,7 @@ in the action of the verb, but this equivalent also appears only once.
 most part to render the ptc.
 <span dir="rtl" lang="he">מוֹשִׁיעַ</span>.
 
-<b>c.</b> Targum (Tg: O/J/K)
+<b>c. Targum (Tg: O/J/K):</b>
 
 Hiphil:  
 
@@ -705,7 +705,7 @@ Niphal in the MT. LXX, Pesh and Vg all render as active too. Comparison
 may be made with Ps 33:16 where in the Tg נושׁע is rendered מתפריק
 (Cathcart & Gordon 1989: 205).
 
-<b>d.</b> Vulgate (Vg)
+<b>d. Vulgate (Vg):</b>
 
 Hiphil:  
 
