@@ -534,7 +534,7 @@ Hiphil:
 119[118]:94, 146; 138[137]:7; 145[144]:19; Job 22:29; 40:14; Lam 4:17; Neh
 9:27; 1&nbsp;Chron 16:35; 18:6, 13; 19:12; 2&nbsp;Chron 20:9; 32:22.  
 
-[^3]: The English rendering of the Greek words is based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>.
+[^3]: The English rendering of the Greek is based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>.
 [^4]: <i>GELS</i>, 78; LEH<small><sup>3</sup></small>: 70, ‘let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves’. 
 [^5]: <i>GELS</i>, ; LEH<small><sup>3</sup></small>, 501, 603; cf. <i>NETS</i>.
 
@@ -594,7 +594,7 @@ Hiphil:  <!--(<i>ṭābāʾ</i>), :-->
 * <span dir="rtl" lang="-">ܢܦܩ</span>
 (<i>npq</i>) Aphel, ‘to bring out’: Ps 107:19;  
 * <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
-(<i>pṣy</i>/<i>pṣʾ </i>) Pael 'to save, to deliver’: Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
+(<i>pṣy</i>/<i>pṣʾ </i>) Pael, ‘to save, to deliver’: Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
 * <span dir="rtl" lang="-">ܦܪܩ</span>
 (<i>prq</i>), ‘to save, to liberate’: Exod 2:17; 14:30; Deut 20:4; 28:29; Josh 22:22; Judg 2:16, 18; 3:9,
 31; 6:14, 15, 36, 37; 7:7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam
@@ -616,7 +616,7 @@ Sir 34:6; 48:20; 49:10;
 * <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
 (<i>zky</i>/<i>zkʾ </i>) Pael, `to make victorious’: Judg 7:2.
 
-[^7]: The English rendering of the Syriac words is based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
+[^7]: The English rendering of the Syriac is based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
 
 Omitted: 1&nbsp;Sam 25:31; Josh 10:6; Isa 43:11.  
@@ -659,7 +659,7 @@ most part to render the ptc.
 
 Hiphil:  
 
-* <span dir="rtl" lang="he">פּרק</span>, 'to redeem'[^8]: O – Exod 2:17; 14:30; 
+* <span dir="rtl" lang="he">פּרק</span>, ‘to redeem’:[^8] O – Exod 2:17; 14:30; 
 Deut 20:4; 22:27; 28:29, 31; Josh 10:6; 22:22;
 Judg 2:16, 18; 3:9 [2x], 15, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22;
 10:1, 12, 13, 14; 12:2, 3; 13:5; 
@@ -671,19 +671,19 @@ Jer 2:27, 28; 11:12 [1x]; 14:8, 9; 15:20; 17:14; 30:10, 11; 31:7; 42:11; 46:27;
 Ezk 34:22; 36:29; 37:23; Hos 1:7<sup>1st</sup>; 13:10; 14:4; Hab 1:2; Zeph 3:17, 19; Zech 8:7, 13;
 9:16; 10:6; 12:7; 1&nbsp;Chron 11:14; 16:35; 18:6, 13; 19:12, 19; 2&nbsp;Chron 20:9;
 32:22;  
-* <span dir="rtl" lang="he">פרק</span> Ithpe., 'redeem': Hos 1:7<sup>2nd</sup>;  
-* <span dir="rtl" lang="he">פורקנא</span>, 'redemption, salvation': 2&nbsp;Sam 22:3(?);   
-* <span dir="rtl" lang="he">שׁיזב</span>, 'to release, save': Obad 21.
+* <span dir="rtl" lang="he">פרק</span> Ithpe., ‘redeem’: Hos 1:7<sup>2nd</sup>;  
+* <span dir="rtl" lang="he">פורקנא</span>, ‘redemption, salvation’: 2&nbsp;Sam 22:3(?);   
+* <span dir="rtl" lang="he">שׁיזב</span>, ‘to release, save’: Obad 21.
 
 
-[^8]: The English rendering of the Aramaic words is based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
+[^8]: The English rendering of the Aramaic is based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
 
 Niphal:
 
-* <span dir="rtl" lang="he">פרק</span>, 'to redeem': 2&nbsp;Sam 22:4; Zech 9:9;  
-* <span dir="rtl" lang="he">פרק</span> Ithpe., 'to be redeemed': O – Num 10:9; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16;  
-* <span dir="rtl" lang="he">פורקנא</span>, 'redemption, salvation': O – Deut 33:29.
+* <span dir="rtl" lang="he">פרק</span>, ‘to redeem’: 2&nbsp;Sam 22:4; Zech 9:9;  
+* <span dir="rtl" lang="he">פרק</span> Ithpe., ‘to be redeemed’: O – Num 10:9; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16;  
+* <span dir="rtl" lang="he">פורקנא</span>, ‘redemption, salvation’: O – Deut 33:29.
 
 
 <b>A.1</b>  There is nothing exceptional in the renderings of the Pesh or Tg, both translating the verb by the same words as they do for many others
@@ -709,22 +709,22 @@ may be made with Ps 33:16 where in the Tg נושׁע is rendered מתפריק
 
 Hiphil:  
 
-* <i>adiuvo</i>, 'to give aid to, to help':[^9] Deut 28:31; 1&nbsp;Chron 18:6;  
-* <i>auxilior</i>, 'to give help, aid to': 2&nbsp;Sam 10:11;  
-* <i>custodio</i>, '': Josh 22:22;  
-* <i>do</i> (+ <i>salutem</i> = <span dir="rtl" lang="he">תְּשׁוּעָה</span>): 1&nbsp;Chron 11:14;  
-* <i>defendo</i>: Exod 2:17; Judg 3:31; 1&nbsp;Sam 11:3;  
-* <i>dux</i>: Judg 10:1;  
-* <i>eruo</i>: Deut 20:4; Judg 10:12;  
-* <i>libero</i>: Exod 14:30; Deut 22:27; 28:29; Josh 10:6; Judg 2:16, 18; 3:9; 6:14,
+* <i>adiuvo</i>, ‘to give aid to, to help’:[^9] Deut 28:31; 1&nbsp;Chron 18:6;  
+* <i>auxilior</i>, ‘to give help, aid to’: 2&nbsp;Sam 10:11;  
+* <i>custodio</i>, ‘to watch, to defend’: Josh 22:22;  
+* <i>defendo</i>, ‘to defend, to ward off, to’: Exod 2:17; Judg 3:31; 1&nbsp;Sam 11:3;  
+* <i>do</i> + <i>salutem</i> (= <span dir="rtl" lang="he">תְּשׁוּעָה</span>), ‘to give, to grant safety/ salvation’: 1&nbsp;Chron 11:14;  
+* <i>dux</i>, ‘leader, guide’: Judg 10:1;  
+* <i>eruo</i>, ‘to bring out, to release’: Deut 20:4; Judg 10:12;  
+* <i>libero</i>, ‘to make or to set free’: Exod 14:30; Deut 22:27; 28:29; Josh 10:6; Judg 2:16, 18; 3:9; 6:14,
 15, 37; 7:2[pass], 7; 8:22; 10:13, 14; 13:5; 2&nbsp;Sam 22:3; Jer 2:27, 28;
 11:12; Prov 20:22;  
-* <i>praebeo auxilium</i>: Judg 12:2; 2&nbsp;Sam 10:19; 1&nbsp;Chron 19:19;  
-* <i>pugno</i>: Judg 6:31;  
-* <i>salvator</i>: Judg 3:9, 15; 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; 16:7; Isa 19:20;
+* <i>praebeo auxilium</i>, ‘to offer help’: Judg 12:2; 2&nbsp;Sam 10:19; 1&nbsp;Chron 19:19;  
+* <i>pugno</i>, ‘to fight, to combat’: Judg 6:31;  
+* <i>salvator</i>, ‘saviour, redeemer’: Judg 3:9, 15; 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; 16:7; Isa 19:20;
 43:3, 11; 45:15; 63:8; 14:8; Hos 13:4; Obad 1:21; Pss 17[16]:7; 106[105]:21;
 Neh 9:27;  
-* <i>salvo</i>: 1&nbsp;Sam 4:3; 7:8; 9:16; 10:19, 27; 14:6, 23, 39; 17:47; 23:2, 5;
+* <i>salvo</i>, ‘to save’: 1&nbsp;Sam 4:3; 7:8; 9:16; 10:19, 27; 14:6, 23, 39; 17:47; 23:2, 5;
 25:26; 2&nbsp;Sam 3:18; 22:42; 2&nbsp;Kgs 6:26, 27[2x]; 19:34; Isa 25:9; 33:22; 35:4;
 37:20, 35; 43:12; 45:20, 21; 46:7; 47:13, 15; 49:25, 26; 59:1, 16;
 60:16; 63:1, 5, 9; Jer 11:12; 14:9; 15:20; 30:10, 11; 31:7; Ezek 34:22;
@@ -736,27 +736,25 @@ Neh 9:27;
 107[106]:13, 19; 108[107]:7; 109[108]:26, 31; 116[114]:6; 118[117]:25;
 119[118]:94; 138[137]:7; 145[144]:19; Job 22:29 [passive]; 40:14[9]; La
 4:17; Neh 9:27; 1&nbsp;Chron 16:35; 18:13; 2&nbsp;Chron 32:22;  
-* <i>salvus</i>: Judg 6:36;  
-* <i>salvum facio</i>: 2&nbsp;Sam 22:28; 2&nbsp;Kgs 19:19; Isa 38:20; Jer 17:14; 42:11; 46:27;
-Ezek 37:23; Pss 3:8[7]; 36[35]:7; 76[75]:10; 119[118]:146; Job 5:15; 2&nbsp;Chron 20:9;  
-* <i>servo</i>: 2&nbsp;Sam 8:6, 14; 14:4;  
-* <i>sum in praesidium</i>: 1&nbsp;Chron 19:12;  
-* <i>sustineo</i>: ?Job 26:2; ‘to preserve’?  
-* <i>ulciscor</i>: 1&nbsp;Sam 25:31, 33;  
+* <i>salvum facio</i>, ‘to save, to deliver’: 2&nbsp;Sam 22:28; 2&nbsp;Kgs 19:19; Isa 38:20; Jer 17:14; 42:11; 46:27; Ezek 37:23; Pss 3:8[7]; 36[35]:7; 76[75]:10; 119[118]:146; Job 5:15; 2&nbsp;Chron 20:9;  
+* <i>salvus</i>, ‘saved, unharmed’: Judg 6:36;  
+* <i>servo</i>, ‘to save, to deliver’: 2&nbsp;Sam 8:6, 14; 14:4;  
+* <i>sum in praesidium</i>, ‘to guard, to protect’: 1&nbsp;Chron 19:12;  
+* <i>sustineo</i>, ‘to support’: Job 26:2;  
+* <i>ulciscor</i>, ‘to avenge, to take vengeance’: 1&nbsp;Sam 25:31, 33;  
 
-[^9]: The English rendering of the Latin words is based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
+[^9]: The English rendering of the Latin is based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
 
 Omitted: Judg 12:3
 
 Niphal:  
 
-* <i>eruo</i> passive: Num 10:9;  
-* <i>salvator</i>: Zech 9:9;  
-* <i>salvo</i> passive: Deut 33:29; 2&nbsp;Sam 22:4; Isa 30:15; 45:17, 22; 64:4; Jer 8:20;
-23:6; 30:7; 33:16; Pss 33[32]:16; 80[79]:4, 8, 20; 119[118]:117; Pr
-28:18;  
-* <i>salvus fio</i>: Jer 4:14;  
-* <i>salvus</i> <i>sum</i>: Jer 17:14; Ps 18[17]:4.
+* <i>eruo</i> passive, ‘being released’: Num 10:9;  
+* <i>salvator</i>, ‘saviour, redeemer’: Zech 9:9;  
+* <i>salvo</i> passive, ‘being saved’: Deut 33:29; 2&nbsp;Sam 22:4; Isa 30:15; 45:17, 22; 64:4; Jer 8:20;
+23:6; 30:7; 33:16; Pss 33[32]:16; 80[79]:4, 8, 20; 119[118]:117; Pr 28:18;  
+* <i>salvus fio</i>, ‘being saved’: Jer 4:14;  
+* <i>salvus</i> <i>sum</i>, ‘being saved’: Jer 17:14; Ps 18[17]:4.
 
 
 <b>A.1</b>  Although <i>salvo</i> and <i>libero</i> are the two most frequent renderings
