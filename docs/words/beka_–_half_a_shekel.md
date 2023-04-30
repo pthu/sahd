@@ -129,7 +129,7 @@ occurs in apposition:
 <b>A.1</b> The noun בֶּקַע is rendered as follows in the ancient translations.
 
 
-<b> a.</b> Septuagint (LXX) and other Greek versions: 
+<b> a. Septuagint (LXX) and other Greek versions:</b> 
  
 * δραχμὴ, ‘drachma (weight)’:[^15] 
 Gen 24:22<small><sup>LXX</sup></small>; 
@@ -141,7 +141,7 @@ Exod 39:3<sup>α’</sup> (38:26<small><sup>MT</sup></small>).
 [^15]:  LEH<small><sup>3</sup></small>, 161; <i>GELS</i>, 178.
 [^16]:  LEH<small><sup>3</sup></small>, 151; <i>GELS</i>, 164.  Remarkably LEH<small><sup>3</sup></small>, 151, has in addition to ‘coin of two drachmas’ also ‘half-shekel’, which suggests that δίδραχμον equals ‘half-shekel’. Apparently ‘half-shekel’ was intended as a definition for <i>one</i> drachma, because a δίδραχμον equals always a shekel (see Gen 23:15, 16; Exod 21:32).
 
-<b> b.</b> Targumim (Tg.: O/N/PsJ/Smr):  
+<b> b. Targumim (Tg.: O/N/PsJ/Smr):</b>  
 
 * <span dir="rtl" lang="he">דרכמון</span>,
  ‘drachma’:[^17] Gen 24:22<small><sup>PsJ</sup></small>; Exod 38:26<small><sup>PsJ</sup></small>;  
@@ -156,7 +156,7 @@ Exod 39:3<sup>α’</sup> (38:26<small><sup>MT</sup></small>).
 [^19]:  Levy, <i>CWT</i>, vol. II, 551, ‘<i>Siclus</i>, u.zw. der gemeine Sekel = der Hälfte eines heiligen Sekels oder Sela = Dareikon, ungef. 13 Sgr. nach unserm Gelde’. Jastrow, <i>DTT</i>, 1691: ‘<i>weight</i>, esp. (<i>half a</i>) <i>Shekel</i>’. Dalman, <i>ANHT</i>, 447: ‘II. Sekel (Gewicht u. Münze)".
 [^20]: Only in the marginalia of Tg.<small><sup>N</sup></small> an equivalent טבע for MT בֶּקַע is found.
 
-<b> c.</b> Peshitta (Pesh.):   
+<b> c. Peshitta (Pesh.):</b>   
 
 * <span dir="rtl" lang="-">ܡܬܩܠܐ</span>
 (<i>maṯqālā</i>),
@@ -165,7 +165,7 @@ Exod 39:3<sup>α’</sup> (38:26<small><sup>MT</sup></small>).
 [^21]: Payne Smith, <i>CSD</i>, 321; Sokoloff, <i>SLB</i>, 875.
 
 
-<b> d.</b> Vulgate (Vulg.):  
+<b> d. Vulgate (Vulg.):</b>  
 
 * <i>siclos duos</i>, ‘two shekel’:[^22]
 Gen 24:22.  

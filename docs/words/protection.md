@@ -243,7 +243,7 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 
 ## 4. Ancient Versions
 
-<b>a.</b> Septuagint (LXX):
+<b>a. Septuagint (LXX):</b>
 
 * σωτήρ, ‘saviour’:[^1] Deut 32:15; Isa 12:2a; Ps 62[61]:3, 7;  
 * σωτηρία, ‘rescue, deliverance’: Gen 49:18; Exod 14:13; 15:2; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 10:11; 22:51; Isa 12:2b; 25:9; 26:18 [pl. for sg.]; 33:2, 6 [pl. for sg.]; 49:6, 8; 52:7, 10;
@@ -260,7 +260,7 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 [^1]: The English rendering of the Greek is based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>.
 
 
-<b>b.</b> Peshitta (Pesh):  
+<b>b. Peshitta (Pesh):</b>   
 
 * <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation’:[^2] Gen 49:18; Exod 14:13; 15:2; Deut 32:15; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 22:51; Isa 12:2<sup>2nd</sup>, 
 3; 25:9; 26:1, 18; 33:2, 6; 49:6, 8; 51:6, 8; 52:7, 10; 56:1; 59:11, 17; 60:18; 62:1; Hab 3:8; Pss 3:3, 9; 9:15; 13:6; 14:7; 18:51; 20:6; 21:2, 6; 22:2; 28:8; 35:3, 9; 42:6, 12; 43:5; 44:5; 53:7; 62:2, 3, 7; 67:3; 68:20; 69:30; 70:5; 74:12; 78:22; 80:3; 88:2; 89:27; 91:16; 96:2; 98:2, 3; 106:4; 116:13; 118:14, 15, 21; 119:123, 155, 166, 174; 140:8; 149:4; Job 13:16; 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;
@@ -271,7 +271,7 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 [^2]: The English rendering of the Syriac is based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
 
-<b>c.</b> Targum (Tg):  
+<b>c. Targum (Tg):</b>  
 
 * <span dir="rtl" lang="he">פרק</span>, ‘to redeem’:[^3]
  Exod 15:2; Deut 32:15; 2&nbsp;Sam 10:11; Isa 12:2<sup>2nd</sup>; Pss 35:3; 80:3; 118:14, 21;  
@@ -290,7 +290,7 @@ Isa 33:6; Hab 3:8.
 [^3]: The English rendering of the Aramaic is based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
 
-<b>d.</b> Vulgate (Vg):  
+<b>d. Vulgate (Vg):</b>  
 
 * <i>adiutorium</i>, ‘to help’:[^4] 2&nbsp;Sam 10:11;  
 * <i>auxilium</i>, ‘to help’: 2&nbsp;Chron 20:17;  
