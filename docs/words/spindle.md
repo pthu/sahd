@@ -104,7 +104,7 @@ Ug.  <i>pí-la-ku</i>
 are equated (RS 20.123+; <i>Ugaritica</i> 5: 137 II:22’).
 Interestingly, in a damaged passage at the beginning of 
 the story of Elkunirša, Athiratu’s counterpart 
-Ašertu seems to use a spindle as a weapon (<i>CTH</i> 342; see <i>COS</i> i: 149;
+Ašertu seems to use a spindle as a weapon (<i>CTH</i>, 342; see <i>COS</i> i: 149;
 text partially reconstructed).
 
 
@@ -366,15 +366,15 @@ In Hittite texts, both spindle
 (<small><sup>GIŠ</sup></small><i>ḫuešaš</i>, <small><sup>GIŠ</sup>BAL</small>)
 and distaff (<small><sup>GIŠ</sup></small><i>ḫulali</i>) are symbols of femininity.
 In a Hittite prayer, the goddess Ištar is asked to deprive the enemies of their manliness including their weapons and to give them 
-a woman’s distaff and spindle instead (<i>CTH</i> 716; see
+a woman’s distaff and spindle instead (<i>CTH</i>, 716; see
 <i>COS</i> i: 164-65, §8). 
 The First Soldiers’ Oath threatens soldiers with loss of their manliness if they transgress the oath, 
 which is illustrated by a ritual indicating that their weapons will be replaced by a distaff and a spindle and other symbols of femininity
-(<i>CTH</i> 427; see
+(<i>CTH</i>, 427; see
 <i>COS</i> i: 165-67, §9).
 A ritual against the sexual impotence of a man includes placing a spindle and distaff in the man’s hand 
 and, consequently, replacing it by a bow and arrows
-(<i>CTH</i> 406; see Hoffner 1987: 272, 277, 283). 
+(<i>CTH</i>, 406; see Hoffner 1987: 272, 277, 283). 
 For the relevant Hittite texts and terminology, see also 
 <i>HW </i><small><sup> 2</sup></small> III/2: 632-33, 690-91. 
 

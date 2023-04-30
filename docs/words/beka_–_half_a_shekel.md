@@ -421,9 +421,10 @@ Ephraim Stern,
 	</div>
 
 
-Thanks are due to Mrs Alice Deken (Amsterdam), who was so kind as to correct the English of this paper.
-
 ## Notes
+
+<small>
+Thanks are due to Mrs Alice Deken (Amsterdam), who was  so kind as to correct the English of this paper.</small>
 
 
 

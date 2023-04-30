@@ -245,37 +245,37 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 
 <b>a.</b> Septuagint (LXX):
 
-* σωτήρ, 'saviour':[^1] Deut 32:15; Isa 12:2a; Ps 62[61]:3, 7;  
-* σωτηρία, 'rescue, deliverance': Gen 49:18; Exod 14:13; 15:2; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 10:11; 22:51; Isa 12:2b; 25:9; 26:18 [pl. for sg.]; 33:2, 6 [pl. for sg.]; 49:6, 8; 52:7, 10;
+* σωτήρ, ‘saviour’:[^1] Deut 32:15; Isa 12:2a; Ps 62[61]:3, 7;  
+* σωτηρία, ‘rescue, deliverance’: Gen 49:18; Exod 14:13; 15:2; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 10:11; 22:51; Isa 12:2b; 25:9; 26:18 [pl. for sg.]; 33:2, 6 [pl. for sg.]; 49:6, 8; 52:7, 10;
 59:11; Hab 3:8; Pss 3:3, 9; 18[17]:51; 22[21]:2; 35[34]:3; 42[41]:12 [sg. for pl.]; 44[43]:5 [sg. for pl.]; 69[68]:30; 74[73]:12 [sg. for pl.]; 88[87]:2;
 89[88]:27; 118[117]:14, 15, 21; 119[118]:155; 140[139]:8; 149:4; Job
 13:16; 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;
-* σωτήριον, 'deliverance, security': Isa 12:3; 26:1; 51:6, 8; 56:1; 59:17; 60:18; 62:1; Jon 2:10; Ps
+* σωτήριον, ‘deliverance, security’: Isa 12:3; 26:1; 51:6, 8; 56:1; 59:17; 60:18; 62:1; Jon 2:10; Ps
 9:15; 13[12]:6, 7; 20[19]:6; 21[20]:2, 6; 28[27]:8; 35[34]:9; 42[41]:6
 [s for pl]; 43[42]:5 [s for pl]; 53[52]:7 [s for pl]; 62[61]:2;
 67[66]:3; 68[67]:20; 70[69]:5; 78[77]:22; 91[90]:16; 96[95]:2; 98[97]:2,
 3; 106[105]:4; 116[115]:13[4]; 119[118]:123, 166, 174;
-* σώζω, 'to save' as articular infinitive: Ps 80[79]:3.
+* σώζω, ‘to save’ as articular infinitive: Ps 80[79]:3.
 
 [^1]: The English rendering of the Greek words is based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>.
 
 
 <b>b.</b> Peshitta (Pesh):  
 
-* <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), 'salvation':[^2] Gen 49:18; Exod 14:13; 15:2; Deut 32:15; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 22:51; Isa 12:2<sup>2nd</sup>, 
+* <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation’:[^2] Gen 49:18; Exod 14:13; 15:2; Deut 32:15; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 22:51; Isa 12:2<sup>2nd</sup>, 
 3; 25:9; 26:1, 18; 33:2, 6; 49:6, 8; 51:6, 8; 52:7, 10; 56:1; 59:11, 17; 60:18; 62:1; Hab 3:8; Pss 3:3, 9; 9:15; 13:6; 14:7; 18:51; 20:6; 21:2, 6; 22:2; 28:8; 35:3, 9; 42:6, 12; 43:5; 44:5; 53:7; 62:2, 3, 7; 67:3; 68:20; 69:30; 70:5; 74:12; 78:22; 80:3; 88:2; 89:27; 91:16; 96:2; 98:2, 3; 106:4; 116:13; 118:14, 15, 21; 119:123, 155, 166, 174; 140:8; 149:4; Job 13:16; 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;
-* <span dir="rtl" lang="-">ܦܪܘܩܐ</span> (<i>pārōqā</i>), 'salvation': Isa 12:2<sup>1st</sup>;
-* <span dir="rtl" lang="-">ܡܥܕܪܢܐ</span> (<i>mʿadrānnā</i>), 'helper': 2&nbsp;Sam 10:11;  
-* [[<span dir="rtl" lang="-">ܦܘܪܥܢܐ</span> (<i>purʿānā</i>), 'recompense, reward': Jon 2:10]].
+* <span dir="rtl" lang="-">ܦܪܘܩܐ</span> (<i>pārōqā</i>), ‘salvation’: Isa 12:2<sup>1st</sup>;
+* <span dir="rtl" lang="-">ܡܥܕܪܢܐ</span> (<i>mʿadrānnā</i>), ‘helper’: 2&nbsp;Sam 10:11;  
+* [[<span dir="rtl" lang="-">ܦܘܪܥܢܐ</span> (<i>purʿānā</i>), ‘recompense, reward’: Jon 2:10]].
 
 [^2]: The English rendering of the Syriac words is based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
 
 <b>c.</b> Targum (Tg):  
 
-* <span dir="rtl" lang="he">פרק</span>, 'to redeem':[^3]
+* <span dir="rtl" lang="he">פרק</span>, ‘to redeem’:[^3]
  Exod 15:2; Deut 32:15; 2&nbsp;Sam 10:11; Isa 12:2<sup>2nd</sup>; Pss 35:3; 80:3; 118:14, 21;  
-* <span dir="rtl" lang="he">פורקנא</span>, 'redemption, salvation':
+* <span dir="rtl" lang="he">פורקנא</span>, ‘redemption, salvation’:
  Gen 49:18; Exod 14:13; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 22:51; Isa 12:2<sup>1st</sup>; 25:9;
 26:1, 18; 33:2; 49:6, 8; 51:6, 8; 52:7, 10; 56:1; 59:11, 17; 60:18;
 62:1; Jon 2:10; Pss 3:3, 9; 9:15; 13:6; 14:7; 18:51; 20:6; 21:2, 6; 22:2;
@@ -283,8 +283,8 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 expansion]; 69:30; 70:5; 74:12; 78:22; 88:2; 89:27; 91:16; 96:2; 98:2,
 3; 106:4; 116:13; 118:15; 119:123, 155, 166, 174; 140:8; 149:4; Job
 13:16; 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;  
-* <span dir="rtl" lang="he">צדקא</span>, 'righteousness': Isa 12:3;  
-* <span dir="rtl" lang="he">תקוף ופרקן</span>, 'strength and redemption':
+* <span dir="rtl" lang="he">צדקא</span>, ‘righteousness’: Isa 12:3;  
+* <span dir="rtl" lang="he">תקוף ופרקן</span>, ‘strength and redemption’:
 Isa 33:6; Hab 3:8.
 
 [^3]: The English rendering of the Aramaic words is based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
@@ -292,16 +292,17 @@ Isa 33:6; Hab 3:8.
 
 <b>d.</b> Vulgate (Vg):  
 
-* <i>adiutorium</i> 2&nbsp;Sam 10:11;  
-* <i>auxilium</i> 2&nbsp;Chron 20:17;  
-* <i>Iesus</i> Ps 149:4;  
-* [[<i>iustitia</i> Isa 51:8]];  
-* <i>magnalia</i> Exod 14:13;  
-* <i>salus</i> Exod 15:2; 1&nbsp;Sam 14:45; 2&nbsp;Sam 22:51; Isa 12:2b; 26:18; 33:2, 6; 49:6, 8; 51:6; 52:7; 56:1; 59:11, 17; 60:18; Jon 2:10; Pss 3:3, 9; 14[13]:7; 18[17]:51; 22[21]:2; 35[34]:3, 9; 42[41]:12; 43[42]:5; 44[43]:5; 62[61]:2, 3, 7; 67[66]:3; 68[67]:20; 69[68]:30; 74[73]:12; 88[87]:2; 89[88]:27; 116[115]:13; 118[117]:14, 15, 21; 119[118]:155; 140[139]:8; Job 30:15;  
-* <i>salutaris</i> Gen 49:18; Deut 32:15; 1&nbsp;Sam 2:1; Isa 25:9; 52:10; Pss 9:15; 13[12]:6; 20[19]:6; 21[20]:6; 28[27]:8; 42[41]:6; 53[52]:7; 70[69]:5; 78[77]:22; 91[90]:16; 96[92]:2; 98[97]:2, 3; 106[105]:4; 119[118]:123, 166, 174; 1&nbsp;Chron 16:23;  
-* <i>salvator</i> Isa 12:2a, 3; 26:1; 62:1; Job 13:16;  
-* <i>salvatio</i> Hab 3:8;  
-* <i>salvum facio</i> Ps 80[79]:3.
+* <i>adiutorium</i>, ‘to help’: 2&nbsp;Sam 10:11;  
+* <i>auxilium</i>, ‘to help’: 2&nbsp;Chron 20:17;  
+* <i>Iesus</i>, ‘Jesus’: Ps 149:4 (Vg<small><sup>PsH </sup></small>)  
+* [[<i>iustitia</i>, ‘justice, righteousness’: Isa 51:8]];  
+* <i>magnalia</i>, ‘great things, mighty works’: Exod 14:13;  
+* <i>salus</i>, ‘a being safe and sound, welfare’: Exod 15:2; 1&nbsp;Sam 14:45; 2&nbsp;Sam 22:51; Isa 12:2b; 26:18; 33:2, 6; 49:6, 8; 51:6; 52:7; 56:1; 59:11, 17; 60:18; Jon 2:10; Pss 3:3, 9; 14[13]:7 (Vg<small><sup>PsH </sup></small>);[^6] 18[17]:51; 22[21]:2; 35[34]:3, 9; 42[41]:12; 43[42]:5; 44[43]:5; 62[61]:2, 3, 7; 67[66]:3; 68[67]:20; 69[68]:30; 74[73]:12; 88[87]:2; 89[88]:27; 116[115]:13; 118[117]:14, 15, 21; 119[118]:155; 140[139]:8; 149:4 (Vg<small><sup>PsG </sup></small>); Job 30:15;  
+* <i>salutaris</i>, ‘salvation, health’: Gen 49:18; Deut 32:15; 1&nbsp;Sam 2:1; Isa 25:9; 52:10; Pss 9:15[16]; 13[12]:6; 14[13]:7 (Vg<small><sup>PsG </sup></small>); 20[19]:6; 21[20]:6; 28[27]:8; 42[41]:6; 53[52]:7; 70[69]:5; 78[77]:22; 91[90]:16; 96[92]:2; 98[97]:2, 3; 106[105]:4; 119[118]:123, 166, 174; 1&nbsp;Chron 16:23;  
+* <i>salvatio</i>, ‘deliverance’: Hab 3:8;  
+* <i>salvator</i>, ‘savious, redeemer’: Isa 12:2a, 3; 26:1; 62:1; Job 13:16;  
+* <i>salvum facio</i>, ‘to save, to deliver’: Ps 80[79]:3.
+
 
 
 <b>A.1</b>  The Versions in general choose the same translation equivalents as
@@ -315,8 +316,8 @@ and the Vg <i>Iesus</i> once (Ps 149:4).
 
 <b>B.1</b>  In Jon 2:10 Pesh’s use of 
 <span dir="rtl" lang="-">ܦܘܪܥܢܐ</span> (<i>purʿānā</i>), ‘recompense’, which is usually
-the equivalent of words like <span dir="rtl" lang="he">נָקָם</span>, 'vengeance' and
-<span dir="rtl" lang="he">גְּמוּל</span>, 'requital' is based on its 
+the equivalent of words like <span dir="rtl" lang="he">נָקָם</span>, ‘vengeance’ and
+<span dir="rtl" lang="he">גְּמוּל</span>, ‘requital’ is based on its 
 understanding of the context, not the meaning.
 
 

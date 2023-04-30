@@ -1248,6 +1248,11 @@ COuT<br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
+<i>CTH</i><br>
+	Emmanuel Laroche, <i>Catalogue des textes hittites</i>, Paris: Klincksieck, 1971
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
 <i>CVOT</i><br>
 	James L. Kelso, <i>The Ceramic Vocabulary of the Old Testament</i>
 	(BASOR.S, 5-6), New Haven (CT): American Schools of Oriental Research, 1948
@@ -2106,6 +2111,12 @@ Montanari, <i>BDAG</i><br>
 	Franco Montanari, <i>The Brill Dictionary of Ancient Greek</i>
 	tr. and ed.  Madeleine Goh & Chad Schroeder,
 	Leiden: Brill,  2015
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+<i>MSL</i><br>
+	 <i>Materials for the Sumerian Lexikon</i>, 17 vols.,
+	 Rome: Pontifical Biblical Institute, 1937–2004
 </div>
 
 ### <p id="footnote-n">N. 
