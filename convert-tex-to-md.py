@@ -189,6 +189,8 @@ def replace_hebrew_coded(line):
             m = re.search(r"(.*)\\hebreeuws ?{(.*)}(.*)", line)
         if not m:
             m = re.search(r"(.*){\\heb ?{(.*)}}(.*)", line)
+        if not m:
+            m = re.search(r"(.*)\\heb ?{(.*)}(.*)", line)
         if m:
             hebrew_parts = m.group(2)
             ms = re.search(r"(.*)(\\symbol{.*?})(.*)", hebrew_parts)
@@ -220,9 +222,8 @@ def replace_hebrew(line):
         line = replace_hebrew_coded(line)
     return line
 
+
 def replace_greek_coded(line):
-    for i in range(5):
-        line = re.sub(r"(.*)(\\symbol{.*?})(.*)", r"\1?\3", line)
     for i in range(50):
         m = re.search(r'(.*){\\[ns]mody (.*?)}(.*)', line)
         if not m:
@@ -673,7 +674,8 @@ def final_replacements(line):
     line = line.replace("\\th", "θ´")               # θ´
     line = line.replace("SP<sup>T</sup>}", "SP<sup>T</sup>")
     line = line.replace('\\"u', "ü")                # ü
-    line = line.replace("{\\sym}", " σ´")            # σ´
+    line = line.replace("{\\sym}", " σ´")           # σ´
+    line = line.replace("$\\to", "→")               # →
     # line = line.replace(" \\sym", " σ´")              # σ´
 
     return line
