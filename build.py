@@ -384,12 +384,12 @@ def write_words(shebanq_dict, ubs_dict):
     os.mkdir(WORDS_DOCS)
 
     for word in WORDS.glob("*"):
-        word_hebrew, word_english, title, first_published, revised = "", "", "", "", ""
-        shebanq, ubs = True, True
+        word_hebrew, word_english, title, first_published, last_update = "", "", "", "", ""
+        semantic_fields, contributors = [], []
+        text, first_dashes, second_dashes, shebanq, ubs = [], False, False, True, True
         if word.name == ".DS_Store":
             continue
         filename = word.name
-        text, semantic_fields, contributors, word_english, word_hebrew, first_dashes, second_dashes = [], [], [], "", "", False, False
         with open(WORDS / filename, "r") as f:
             lines = f.readlines()
             for line in lines:
@@ -417,8 +417,8 @@ def write_words(shebanq_dict, ubs_dict):
                     shebanq = not (get_value(line).lower() == "off")
                 elif line.startswith("ubs:"):
                     ubs =  not (get_value(line).lower() == "off")
-                elif line.startswith("revised:") and line.replace("revised:", "").strip() != "":
-                    revised = get_values(line)[0]
+                elif line.startswith("last_update:") and line.replace("last_update:", "").strip() != "":
+                    last_update = get_value(line)
                 elif line.strip() == "---" and not second_dashes:
                     second_dashes = True
                     text.append(HEADER)
@@ -442,23 +442,29 @@ def write_words(shebanq_dict, ubs_dict):
                             text.append(f"[{capitalize(sf)}](../semantic_fields/{sf}.md)&nbsp;&nbsp;&nbsp;")
                         text.append("<br>")
                     if len(contributors) > 0:
-                        contributors_text = ""
-                        text.append("Authors:\n")
+                        contributors_text, contributors_citing = "", ""
+                        text.append("Author(s):\n")
                         first = True
                         for c in contributors:
                             if not first:
                                 contributors_text += ",&nbsp;"
+                                contributors_citing += ",&nbsp;"
                             contributors_text += f"[{capitalize_name(c)}](../contributors/{c}.md)"
+                            contributors_citing += capitalize_name(c)
                             first = False
-                        text.append(contributors_text + "[^*]<br>\n")
+                        text.append(contributors_text + "<br>\n")
                     if first_published:
                         text.append(f"First published: {first_published}<br>")
-                        if revised:
-                            text.append(f"Revised: {revised}\n\n")
-                        else:
-                            text.append("\n\n")
-
-            text.append(f"\n[^*]: This article should be cited as: {contributors_text}, {word_english_hebrew}")
+                        if last_update:
+                            text.append(f"Last update: {last_update}<br>")
+                    text.append(f"Citation: {contributors_citing}, {word_english_hebrew}, <br>\
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd)")
+                    if first_published:
+                        text.append(f", {first_published.split('-')[0]}")
+                        if last_update:
+                            text.append(f" (update: {last_update.split('-')[0]})")
+                    text.append("\n\n")
 
         if not second_dashes:
             error(f"Metadata for {filename} incomplete")
