@@ -1,9 +1,12 @@
 ---
 word_english: beka_–_half_a_shekel  
-word_hebrew: בֶּקַע  
+word_hebrew: בֶּקַע     
+title: 
 semantic_fields: weight  
-contributors: raymond_de_hoop, bertus_van_’t_veld
- 
+contributors: raymond_de_hoop, bertus_van_’t_veld  
+first_published: 2021-02-16    
+last_update_: 2023-05-16  
+
 ---
 
 

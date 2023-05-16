@@ -1,12 +1,13 @@
 ---
 word_english: spindle  
-word_hebrew: פֶּלֶךְ  
+word_hebrew: פֶּלֶךְ   
+title: 
 semantic_fields: utensils  
-contributors: klaas_r._veenhof, paul_sanders 
+contributors: klaas_r._veenhof, paul_sanders  
+first_published: 2021-11-08  
+last_update_: 2023-05-16   
  
 ---
-
-
 
 
 
