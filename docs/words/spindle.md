@@ -3,9 +3,9 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1PLKn" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div># פֶּלֶךְ – spindle
 
 Semantic Fields:
-[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Authors:
-[Klaas R. Veenhof](../contributors/klaas_r._veenhof.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)[^*]<br>
-
+[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Klaas R. Veenhof](../contributors/klaas_r._veenhof.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<br>
+First published: 2021-11-08<br>Citation: Klaas R. Veenhof,&nbsp;Paul Sanders, פֶּלֶךְ – spindle, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2021
 
 
 
@@ -1109,5 +1109,3 @@ and Benjamin Bogerd (Veenendaal) for their valuable suggestions.
 </small>
 
 
-
-[^*]: This article should be cited as: [Klaas R. Veenhof](../contributors/klaas_r._veenhof.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md), פֶּלֶךְ – spindle

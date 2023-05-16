@@ -3,16 +3,12 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># ישׁע – ‘to save, help’
 
 Semantic Fields:
-[Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Authors:
-[James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)[^*]<br>
-First published: 2016-01-01<br>
+[Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)<br>
+First published: 2016-01-01<br>Last update: 2023-05-16<br>Citation: James K. Aitken,&nbsp;Graham I. Davies, ישׁע – ‘to save, help’, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2016 (update: 2023)
 
 
-
-
-[BOTH THE HIPHIL AND THE RARER NIPHAL ARE DEALT WITH HERE.]
-
-For fuller discussion of the lexical field as a whole see on this site the 
+For a fuller discussion of the lexical field ‘Deliverance’ as a whole see on this site the 
 <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
@@ -581,34 +577,48 @@ although others have followed the MT (e.g. Watts 1987: 238).
 
 <b>b. Peshitta (Pesh):</b>
 
-Hiphil:  <!--(<i>ṭābāʾ</i>), :-->   
+Hiphil:   
 
 * <span dir="rtl" lang="-">ܥܒܕ ܦܘܪܩܢܐ</span>
 (<i>ʿbd purqānā</i>), ‘to bring salvation’:[^7] 2&nbsp;Sam 3:18;  
 * <span dir="rtl" lang="-">ܥܒܕ</span>
 (<i>ʿbd</i>) (+ <span dir="rtl" lang="-">ܢܨܚܢܐ</span> [<i>neṣḥānā</i>]= <span dir="rtl" lang="he">תְּשׁוּעָה</span>), to bring victory’: 1&nbsp;Chron 11:14 (cf. LXX);  
 * <span dir="rtl" lang="-">ܥܕܪ</span>
-(<i>ʿdr</i>), ‘to help, to aid’: 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19;  
+(<i>ʿdr</i>) Pael, ‘to help, to aid’: 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19;  
 * <span dir="rtl" lang="-">ܢܦܩ</span>
 (<i>npq</i>) Aphel, ‘to bring out’: Ps 107:19;  
 * <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
-(<i>pṣy</i>/<i>pṣʾ </i>) Pael, ‘to save, to deliver’: Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
+(<i>pṣy</i>/<i>pṣʾ </i>) Pael, ‘to save, to deliver’: Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3<sup>1st</sup>; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
+* <span dir="rtl" lang="-">ܦܩܕ</span>
+(<i>pqd</i>), ‘to search for, to care for’: Zech 12:7;
 * <span dir="rtl" lang="-">ܦܪܩ</span>
-(<i>prq</i>), ‘to save, to liberate’: Exod 2:17; 14:30; Deut 20:4; 28:29; Josh 22:22; Judg 2:16, 18; 3:9,
-31; 6:14, 15, 36, 37; 7:7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam
-4:3; 7:8; 9:16; 10:19, 27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26,
-33; 2&nbsp;Sam 8:6, 14; 14:4; 22:3, 28; 2&nbsp;Kgs 6:26, 27 (2x); 14:27; 16:7; 19:19,
-34; Isa 25:9; 33:22; 35:4; 37:20, 35; 38:20; 43:12; 45:20; 46:7; 47:13,
-15; 49:25; 59:1, 16; 63:1, 5, 9; Ezek 34:22; 36:29; 37:23; Hos 1:7 [2x];
-13:4, 10; 14:4; Obad 1:21; Zeph 3:19; Zech 8:7, 13; 9:16; 10:6; 12:7; Pss 3:8;
-6:5; 7:1; 10; 12:2; 18:28, 20:7, 10; 22:22; 28:9; 31:3, 17; 34:19; 36:7;
+(<i>prq</i>), ‘to save, to liberate’: Exod 2:17; 14:30;
+Deut 20:4; 28:29;
+Josh 22:22;
+Judg 2:16, 18; 3:9<sup>2nd</sup>, 31; 6:14, 15, 36, 37; 7:7; 8:22; 10:1, 12, 13; 12:2, 3; 13:5; 
+1&nbsp;Sam 4:3; 7:8; 9:16; 10:19, 27; 14:6, 23, 39; 17:47; 23:2, 5; 25:26,
+33; 2&nbsp;Sam 8:6, 14; 14:4; 22:28; 2&nbsp;Kgs 6:26, 27 (2x); 14:27; 16:7; 19:19,
+34; Isa 25:9; 35:4; 37:20, 35; 38:20; 43:12; 45:20; 46:7; 47:13,
+15; 49:25; 59:1, 16; 63:1, 5, 9; 
+Jer 2:27, 28; 11:12 (2x); 14:9; 15:20; 17:14; 30:10, 11; 31:7; 42:11; 46:27; 
+Ezek 34:22; 36:29; 37:23; Hos 1:7 (2x);
+13:4, 10; 14:4; Obad 21; Zeph 3:19; Zech 8:7, 13; 9:16; 10:6; 12:7; Pss 3:8;
+6:5; 7:2; 11; 12:2; 18:28, 20:7, 10; 22:22; 28:9; 31:3, 17; 34:19; 36:7;
 37:40; 44:4, 7, 8; 54:3; 55:17; 57:4; 59:3; 60:7; 69:2, 36; 71:2, 3;
 72:4, 13; 76:10; 86:2, 16; 98:1; 106:8, 10, 21, 47; 107:13; 108:7;
-109:26, 31; 116:6; 118:25; 119:146; 138:7; 145:19; Job 5:15; 22:29; 26:2;
-40:14; Prov 20:22; 1&nbsp;Chron 16:35; 18:6, 13; 2&nbsp;Chron 20:9; 32:22; 
-Sir 34:6; 48:20; 49:10;  
+109:26, 31; 116:6; 118:25; 119:146; 138:7; 145:19; Job 5:15; 26:2;
+40:14; 
+Prov 20:22; 
+Lam 4:17; Neh 9:27<sup>2nd</sup>; 
+1&nbsp;Chron 16:35; 18:6, 13; 
+2&nbsp;Chron 20:9; 32:22; 
+Sir 4:9; 31:6; 36:1; 48:20.<!-- 11:20 [Beentjes 11.18];-->  
+* <span dir="rtl" lang="-">ܦܪܩ</span>
+(<i>prq</i>) Ithpeel, ‘to save, to liberate’: Sir 49:10;
+* <span dir="rtl" lang="-">ܦܪܩ</span>
+(<i>prq</i>) Ethpeel, ‘to save, to liberate’: Job 22:29;
 * <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
-(<i>pārōqā</i>), ‘saviour, liberator’: Judg 3:9, 15; 2&nbsp;Sam 22:42; 2&nbsp;Kgs 13:5; Isa 19:20; 43:3; 45:15, 21; 49:26; 60:16; 63:8; Zeph 3:17; Pss 17:7; 18:42;  
+(<i>pārōqā</i>), ‘saviour, liberator’: Judg 3:9<sup>1st</sup>, 15; 10:14; 1 Sam 11:3; 2&nbsp;Sam 22:3<sup>2nd</sup>, 42; 2&nbsp;Kgs 13:5; Isa 19:20; 33:22; 43:3; 45:15, 21; 49:26; 60:16; 63:8; Jer 14:8; Zeph 3:17; Pss 17:7; 18:42; Neh 9:27<sup>1st</sup>;   
 * <span dir="rtl" lang="-">ܫܘܙܒ</span>
 (<i>šwzb</i>), ‘to save, deliver, preserve’: Sir 51:3;   
 * <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
@@ -626,14 +636,14 @@ Niphal:
 * <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span>
 (<i>purqānā</i>), ‘salvation’: Deut 33:29; Isa 45:17;  
 * <span dir="rtl" lang="-">ܦܪܩ</span>
-(<i>prq</i>) Ethpe. ‘to be saved’: 2&nbsp;Sam 22:4; Isa 30:15; 45:22; 64:4; Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18;  
+(<i>prq</i>) Ethpe. ‘to be saved’: 2&nbsp;Sam 22:4; Isa 30:15; 45:22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16; Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18;  
 * <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
 (<i>pṣy</i>/<i>pṣʾ </i>) Ethpa., ‘to be saved’: Num 10:9.  
 
 
 <b>A.1</b>  The Pesh, as the Tg (see below), has a preference for the verb
 <span dir="rtl" lang="-">ܦܪܩ</span>
-(<i>prq</i>). The rendering <span dir="rtl" lang="-">ܫܘܙܒ</span>
+(<i>prq</i>) and its derivatives. The rendering <span dir="rtl" lang="-">ܫܘܙܒ</span>
 (<i>šwzb</i>), popular with some lexemes in the semantic
 field, is found only once (Sir 51:3). 
 <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
@@ -657,31 +667,39 @@ most part to render the ptc.
 
 Hiphil:  
 
+* <span dir="rtl" lang="he">חשׁב</span>, ‘to think’: Ps 18:28;
+* <span dir="rtl" lang="he">פרוק</span>, ‘redeemer’: Hos 13:4;
 * <span dir="rtl" lang="he">פּרק</span>, ‘to redeem’:[^8] O – Exod 2:17; 14:30; 
 Deut 20:4; 22:27; 28:29, 31; Josh 10:6; 22:22;
-Judg 2:16, 18; 3:9 [2x], 15, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22;
+Judg 2:16, 18 (Pa.); 3:9 [2x], 15, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22;
 10:1, 12, 13, 14; 12:2, 3; 13:5; 
 1&nbsp;Sam 4:3; 7:8; 9:16; 10:19, 27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26, 31, 33; 
-2&nbsp;Sam 3:18; 8:6, 14; 10:11, 19; 14:4; 22:3, 28, 42; 
-2&nbsp;Kgs 6:26, 27; 13:5; 14:27; 16:7; 19:19, 34; 
-Is 19:20; 25:9; 33:22; 35:4; 37:20, 35; 38:20; 43:3, 11, 12; 45:15, 20, 21; 46:7; 47:13, 15; 49:25, 26; 59:1, 16; 60:16; 63:1, 5, 8, 9; 
-Jer 2:27, 28; 11:12 [1x]; 14:8, 9; 15:20; 17:14; 30:10, 11; 31:7; 42:11; 46:27; 
-Ezk 34:22; 36:29; 37:23; Hos 1:7<sup>1st</sup>; 13:10; 14:4; Hab 1:2; Zeph 3:17, 19; Zech 8:7, 13;
-9:16; 10:6; 12:7; 1&nbsp;Chron 11:14; 16:35; 18:6, 13; 19:12, 19; 2&nbsp;Chron 20:9;
-32:22;  
-* <span dir="rtl" lang="he">פרק</span> Ithpe., ‘redeem’: Hos 1:7<sup>2nd</sup>;  
-* <span dir="rtl" lang="he">פורקנא</span>, ‘redemption, salvation’: 2&nbsp;Sam 22:3(?);   
-* <span dir="rtl" lang="he">שׁיזב</span>, ‘to release, save’: Obad 21.
-
+2&nbsp;Sam 3:18; 8:6, 14; 10:11, 19; 14:4; 22:3 (Pa., 2x), 28, 42; 
+2&nbsp;Kgs 6:26, 27 (2x); 13:5; 14:27; 16:7; 19:19, 34; 
+Is 19:20; 25:9; 33:22; 35:4; 37:20, 35; 38:20; 43:3, 11, 12; 45:15, 20, 21 (pa.); 46:7; 47:13, 15; 49:25, 26; 59:16; 60:16; 63:1, 5, 8, 9; 
+Jer 2:27, 28; 11:12 [1x]; 14:8, 9; 15:20; 30:10, 11; 31:7; 42:11; 46:27; 
+Ezk 34:22; 36:29; 37:23;
+Hos 1:7<sup>1st</sup>; 13:10; 14:4;
+Hab 1:2; 
+Zeph 3:17, 19; 
+Zech 8:7, 13; 9:16; 10:6; 12:7; 
+Pss 3:8; 6:5; 7:2, 11; 12:2; 17:7; 18:42; 20:7, 10; 22:22; 28:9; 31:3, 17; 34:7,19; 36:7; 37:40; 44:4, 7, 8 (Pa.); 54:3; 57:4; 59:3; 60:7; 69:2, 36; 71:2, 3; 72:4, 13; 76:10; 86:2, 16; 98:1 (Pa.); 106:8, 10, 21, 17; 107:13, 19; 108:7; 109:26, 31; 116:6; 119:94, 146; 138:7; 145:19;
+Job 5:15; 22:29; 40:14;
+Prov 20:22;
+Lam 4:17;
+1&nbsp;Chron 11:14; 16:35; 18:6, 13; 19:12, 19; 2&nbsp;Chron 20:9 (pa.); 32:22;  
+* <span dir="rtl" lang="he">פרק</span> Ithpe., ‘to be redeemed’: Isa 59:1; Jer 17:14; Hos 1:7<sup>2nd</sup>;  
+* <span dir="rtl" lang="he">שׁיזב</span> Shaph., ‘to release, save’: Obad 21.
 
 [^8]: The English rendering of the Aramaic is based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
+Omitted: Ps 118:25; Neh 7:29.
 
 Niphal:
 
-* <span dir="rtl" lang="he">פרק</span>, ‘to redeem’: 2&nbsp;Sam 22:4; Zech 9:9;  
-* <span dir="rtl" lang="he">פרק</span> Ithpe., ‘to be redeemed’: O – Num 10:9; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16;  
 * <span dir="rtl" lang="he">פורקנא</span>, ‘redemption, salvation’: O – Deut 33:29.
+* <span dir="rtl" lang="he">פרק</span>, ‘to redeem’: 2&nbsp;Sam 22:4; Zech 9:9; Ps 18:4; 
+* <span dir="rtl" lang="he">פרק</span> Ithpe., ‘to be redeemed’: O – Num 10:9; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16; Pss 33:16; 80:4, 8, 20; 119:117; Prov 28:18; 
 
 
 <b>A.1</b>  There is nothing exceptional in the renderings of the Pesh or Tg, both translating the verb by the same words as they do for many others
@@ -743,7 +761,7 @@ Neh 9:27;
 
 [^9]: The English rendering of the Latin is based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
 
-Omitted: Judg 12:3
+Omitted: Judg 12:3.
 
 Niphal:  
 
@@ -1348,5 +1366,3 @@ Claus Westermann, <i>Isaiah 40-66</i>, London: SCM.
 
 ## Notes
 
-
-[^*]: This article should be cited as: [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md), ישׁע – ‘to save, help’

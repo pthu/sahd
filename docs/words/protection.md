@@ -3,9 +3,9 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># יְשׁוּעָה – protection
 
 Semantic Fields:
-[Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Authors:
-[James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)[^*]<br>
-First published: 2017-01-01<br>Revised: 2023-04-29
+[Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)<br>
+First published: 2017-01-01<br>Citation: James K. Aitken,&nbsp;Graham I. Davies, יְשׁוּעָה – protection, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2017
 
 
 For fuller discussion of the lexical field as a whole see on this site the 
@@ -262,9 +262,15 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 
 <b>b. Peshitta (Pesh):</b>   
 
-* <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation’:[^2] Gen 49:18; Exod 14:13; 15:2; Deut 32:15; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 22:51; Isa 12:2<sup>2nd</sup>, 
-3; 25:9; 26:1, 18; 33:2, 6; 49:6, 8; 51:6, 8; 52:7, 10; 56:1; 59:11, 17; 60:18; 62:1; Hab 3:8; Pss 3:3, 9; 9:15; 13:6; 14:7; 18:51; 20:6; 21:2, 6; 22:2; 28:8; 35:3, 9; 42:6, 12; 43:5; 44:5; 53:7; 62:2, 3, 7; 67:3; 68:20; 69:30; 70:5; 74:12; 78:22; 80:3; 88:2; 89:27; 91:16; 96:2; 98:2, 3; 106:4; 116:13; 118:14, 15, 21; 119:123, 155, 166, 174; 140:8; 149:4; Job 13:16; 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;
-* <span dir="rtl" lang="-">ܦܪܘܩܐ</span> (<i>pārōqā</i>), ‘salvation’: Isa 12:2<sup>1st</sup>;
+* <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation’:[^2] Gen 49:18; Exod 14:13; 
+1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 22:51; 
+Isa 12:2<sup>2nd</sup>, 3; 25:9; 26:1, 33:6; 49:6, 8; 51:6, 8; 52:7, 10; 56:1; 59:11, 17; 60:18; 62:1; 
+Hab 3:8; 
+Pss 3:3, 9; 9:15; 13:6; 14:7; 18:51; 20:6; 21:2, 6; 22:2; 35:9; 44:5; 53:7; 62:2; 67:3; 69:30; 70:5; 74:12; 78:22; 80:3; 88:2; 91:16; 96:2; 98:2, 3; 106:4; 116:13; 118:15; 119:123, 155, 166, 174; 149:4; 
+Job 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;
+* <span dir="rtl" lang="-">ܦܪܩ</span>
+(<i>prq</i>), ‘to save, to liberate’: Deut 32:15; Isa 26:18; 
+* <span dir="rtl" lang="-">ܦܪܘܩܐ</span> (<i>pārōqā</i>), ‘saviour, liberator’: Exod 15:2; Isa 12:2<sup>1st</sup>; 33:2; Pss 28:8; 35:3; 42:6, 12; 43:5; 62:3, 7; 68:20; 89:27; 118:14, 21; 140:8; Job 13:16; 
 * <span dir="rtl" lang="-">ܡܥܕܪܢܐ</span> (<i>mʿadrānnā</i>), ‘helper’: 2&nbsp;Sam 10:11;  
 * [[<span dir="rtl" lang="-">ܦܘܪܥܢܐ</span> (<i>purʿānā</i>), ‘recompense, reward’: Jon 2:10]].
 
@@ -276,19 +282,22 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 * <span dir="rtl" lang="he">פרק</span>, ‘to redeem’:[^3]
  Exod 15:2; Deut 32:15; 2&nbsp;Sam 10:11; Isa 12:2<sup>2nd</sup>; Pss 35:3; 80:3; 118:14, 21;  
 * <span dir="rtl" lang="he">פורקנא</span>, ‘redemption, salvation’:
- Gen 49:18; Exod 14:13; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 22:51; Isa 12:2<sup>1st</sup>; 25:9;
-26:1, 18; 33:2; 49:6, 8; 51:6, 8; 52:7, 10; 56:1; 59:11, 17; 60:18;
-62:1; Jon 2:10; Pss 3:3, 9; 9:15; 13:6; 14:7; 18:51; 20:6; 21:2, 6; 22:2;
-28:8; 35. 9; 42:6, 12; 43:5; 44:5; 53:7; 62:2, 3, 7; 67:3; 68:20 [with
-expansion]; 69:30; 70:5; 74:12; 78:22; 88:2; 89:27; 91:16; 96:2; 98:2,
-3; 106:4; 116:13; 118:15; 119:123, 155, 166, 174; 140:8; 149:4; Job
-13:16; 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;  
+ Gen 49:18; 
+ Exod 14:13; 
+ 1&nbsp;Sam 2:1; 14:45; 
+ 2&nbsp;Sam 22:51; 
+ Isa 12:2<sup>1st</sup>; 25:9; 26:1, 18; 33:2; 49:6, 8; 51:6, 8; 52:7, 10; 56:1; 59:11, 17; 60:18; 62:1; 
+ Jon 2:10; 
+ Pss 3:3, 9; 9:15; 13:6; 14:7; 18:51; 20:6; 21:2, 6; 22:2; 28:8; 35:9; 42:6, 12; 43:5; 44:5; 53:7; 62:2, 3, 7; 67:3; 68:20 [with expansion]; 69:30; 70:5; 74:12; 78:22; 88:2; 89:27; 91:16; 96:2; 98:2, 3; 106:4; 116:13; <!-- 118:15;--> 
+ 119:123, 155, 166, 174; 140:8; 149:4; 
+ Job 13:16; 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;  
 * <span dir="rtl" lang="he">צדקא</span>, ‘righteousness’: Isa 12:3;  
 * <span dir="rtl" lang="he">תקוף ופרקן</span>, ‘strength and redemption’:
 Isa 33:6; Hab 3:8.
 
 [^3]: The English rendering of the Aramaic is based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
+No rendering: Ps 118:15.
 
 <b>d. Vulgate (Vg):</b>  
 
@@ -570,5 +579,3 @@ Wilfred G.E. Watson, <i>Classical Hebrew Poetry: A Guide to its Techniques</i> (
 ## Notes
 
 
-
-[^*]: This article should be cited as: [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md), יְשׁוּעָה – protection

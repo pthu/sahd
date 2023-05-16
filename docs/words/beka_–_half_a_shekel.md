@@ -3,8 +3,10 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1BQOn" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=בֶּקַע&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># בֶּקַע – beka – half a shekel
 
 Semantic Fields:
-[Weight](../semantic_fields/weight.md)&nbsp;&nbsp;&nbsp;<br>Authors:
-[Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Bertus van ’t Veld](../contributors/bertus_van_’t_veld.md)[^*]<br>
+[Weight](../semantic_fields/weight.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Bertus van ’t Veld](../contributors/bertus_van_’t_veld.md)<br>
+First published: 2021-02-16<br>Citation: Raymond de Hoop,&nbsp;Bertus van ’t Veld, בֶּקַע – beka – half a shekel, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2021
+
 
 
 
@@ -440,5 +442,3 @@ Raymond de Hoop & Bertus van ’t Veld, ‘בֶּקַע –
 beka (a half shekel)’, http://sahd-online.com/.
 -->
 
-
-[^*]: This article should be cited as: [Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Bertus van ’t Veld](../contributors/bertus_van_’t_veld.md), בֶּקַע – beka – half a shekel
