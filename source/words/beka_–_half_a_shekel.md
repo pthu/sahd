@@ -5,7 +5,7 @@ title:
 semantic_fields: weight  
 contributors: raymond_de_hoop, bertus_van_’t_veld  
 first_published: 2021-02-16    
-last_update_: 2023-05-16  
+last_update: 2023-05-16  
 
 ---
 
