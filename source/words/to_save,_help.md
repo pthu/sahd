@@ -1,7 +1,7 @@
 ---
 word_english: to_save,_help  
 word_hebrew:  ישׁע  
-title: ‘to save, help’ 
+title: ‘ישׁע – to save, help’  
 semantic_fields: deliverance  
 contributors: james_k._aitken, graham_i._davies  
 first_published: 2016-01-01  
