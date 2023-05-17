@@ -18,7 +18,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 ## Introduction
 
 Grammatical Type: vb hiph. and niph.  
-Occurrences: 205x HB (hiph.: 6/110/67; niph.: 2/12/7); 6x (or 7x?) Sir; 27x Qum.; 4(?)x inscr. (Total: 242). 
+Occurrences: 205x HB (hiph.: 6/110/67; niph.: 2/12/7); 7x Sir; 27x Qum.; 4(?)x inscr. (Total: 243). 
 
 
 
@@ -28,7 +28,7 @@ Occurrences: 205x HB (hiph.: 6/110/67; niph.: 2/12/7); 6x (or 7x?) Sir; 27x Qum.
 * Nebiim – niphal: 2 Sam 22:4; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16; Zech  9:9.
 * Ketubim - hiphil: Pss 3:8; 6:5; 7:2, 11; 12:2; 17:7; 18:28, 42; 20:7, 10; 22:22; 28:9; 31:3, 17; 34:7, 19; 36:7; 37:40; 44:4, 7, 8; 54:3; 55:17; 57:4; 59:3; 60:7; 69:2, 36; 71:2, 3; 72:4, 13; 76:10; 86:2, 16; 98:1; 106:8, 10, 21, 47; 107:13, 19; 108:7; 109:26, 31; 116:6; 118:25; 119:94, 146; 138:7; 145:19; Job 5:15; 22:29; 26:2; 40:14; Prov 20:22; Lam 4:17; Neh 9:27 (2x); 1 Chron 11:14; 16:35; 18:6, 13; 19:12, 19; 2 Chron 20:9; 32:22. 
 * Ketubim – niphal: Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18.
-* Sir: 4:9; add 13:6 (cf. <i>DCH</i> iv: 336, Ges<small><sup>18</sup></small>, 510)?; 33:1; 34:6; 48:20; 49:10; 51:3.
+* Sir – hiphil: ms A, 4:9; 11:20 (Beentjes, <i>BBSH</i>, 11:18); ms B, 31:6; 36:1; 48:20; 49:10; 51:3.
 * Qum: CD 5:19(A) (dupl. in 4Q267 2:2 and 6Q15 3:2); 9:9(A), 10(A);
 1QH<small><sup>a</sup></small> 10:25; (?)11:6 (<i>DCH</i> iv: 336 = Sukenik 3:6); 1QM 10:4, 8; 11:3; 1QS
 6:27; 4Q166 2:14; 4Q171 4:21; 4Q174 1:13; 4Q183 2:3; 4Q288 1:5; 4Q365 6a
@@ -55,7 +55,7 @@ occasioned by the noun calling to mind the (possibly) cognate verb.
 <b>A.2</b>  At Isa 64:4 the verb should probably be read as וַנִּפְשַׁע.
 
 
-<b>A.3</b>  Ms B at Sir 34:6 reads the niphal inf להושׁע, but B-mg corrects this
+<b>A.3</b>  Ms B at Sir 31:6 reads the niphal inf להושׁע, but B-mg corrects this
 to the hiphil להושׁיע, the error in B being explicable by the easy loss
 of a <i>yodh</i>.
 
@@ -534,7 +534,7 @@ Hiphil:
 [^4]: <i>GELS</i>, 78; LEH<small><sup>3</sup></small>: 70, ‘let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves’. 
 [^5]: <i>GELS</i>, ; LEH<small><sup>3</sup></small>, 501, 603; cf. <i>NETS</i>.
 
-Omitted: 2&nbsp;Kgs 19:34; Isa 25:9; Job 26:2?; Sir 34:6.    
+Omitted: 2&nbsp;Kgs 19:34; Isa 25:9; Job 26:2?; Sir 31:6.    
 Large omission: Jer 30:10, 11.  
 
 Niphal:  
@@ -557,7 +557,7 @@ danger and not merely ‘deliverance’. Likewise βοηθέω ‘to help, ass
 and its cognates indicate another connotation of the verb.
 
 
-<b>A.2</b>  The choice of the verb ἐλεέω at Sir 33:1 corresponds to the use of
+<b>A.2</b>  The choice of the verb ἐλεέω at Sir 36:1 corresponds to the use of
 the noun ἔλεος in the LXX for translating the nouns 
 <span dir="rtl" lang="he">יֵשַׁע</span> (Isa 45:8) and
 <span dir="rtl" lang="he">יְשׁוּעָה</span> (Sir).
@@ -582,11 +582,13 @@ although others have followed the MT (e.g. Watts 1987: 238).
 Hiphil:   
 
 * <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
-(<i>zky</i>/<i>zkʾ </i>) Pael, `to make victorious’: Judg 7:2;
+(<i>zky</i>/<i>zkʾ </i>) Pael, `to make victorious’:[^7] Judg 7:2;
 * <span dir="rtl" lang="-">ܢܦܩ</span>
 (<i>npq</i>) Aphel, ‘to bring out’: Ps 107:19;  
+* <span dir="rtl" lang="-">ܣܡܟ</span>
+(<i>smk</i>) Ithpaal, ‘to be supported’: Ps 107:19;  
 * <span dir="rtl" lang="-">ܥܒܕ ܦܘܪܩܢܐ</span>
-(<i>ʿbd purqānā</i>), ‘to bring salvation’:[^7] 2&nbsp;Sam 3:18;  
+(<i>ʿbd purqānā</i>), ‘to bring salvation’: 2&nbsp;Sam 3:18;  
 * <span dir="rtl" lang="-">ܥܒܕ</span>
 (<i>ʿbd</i>) (+ <span dir="rtl" lang="-">ܢܨܚܢܐ</span> [<i>neṣḥānā</i>]= <span dir="rtl" lang="he">תְּשׁוּעָה</span>), to bring victory’: 1&nbsp;Chron 11:14 (cf. LXX);  
 * <span dir="rtl" lang="-">ܥܕܪ</span>
@@ -985,7 +987,7 @@ contemporary prayer or liturgy: there is only one secure occurrence in
 10:9). The contrast with the biblical psalms could not be greater, and
 perhaps reflects its infrequency in LBH and as a loan-word in Aramaic
 other than Samaritan Aramaic (Sawyer 1975: 80). But the seven occurrences
-preserved in the Heb. of Sirach (if 13:6 is included) give a rather
+preserved in the Heb. of Sirach give a rather
 different impression, especially when compared with the rarity of ישׁע
 hiph. in the biblical wisdom literature.
 
