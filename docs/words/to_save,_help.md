@@ -579,20 +579,22 @@ although others have followed the MT (e.g. Watts 1987: 238).
 
 Hiphil:   
 
+* <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
+(<i>zky</i>/<i>zkʾ </i>) Pael, `to make victorious’: Judg 7:2;
+* <span dir="rtl" lang="-">ܢܦܩ</span>
+(<i>npq</i>) Aphel, ‘to bring out’: Ps 107:19;  
 * <span dir="rtl" lang="-">ܥܒܕ ܦܘܪܩܢܐ</span>
 (<i>ʿbd purqānā</i>), ‘to bring salvation’:[^7] 2&nbsp;Sam 3:18;  
 * <span dir="rtl" lang="-">ܥܒܕ</span>
 (<i>ʿbd</i>) (+ <span dir="rtl" lang="-">ܢܨܚܢܐ</span> [<i>neṣḥānā</i>]= <span dir="rtl" lang="he">תְּשׁוּעָה</span>), to bring victory’: 1&nbsp;Chron 11:14 (cf. LXX);  
 * <span dir="rtl" lang="-">ܥܕܪ</span>
 (<i>ʿdr</i>) Pael, ‘to help, to aid’: 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19;  
-* <span dir="rtl" lang="-">ܢܦܩ</span>
-(<i>npq</i>) Aphel, ‘to bring out’: Ps 107:19;  
 * <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
 (<i>pṣy</i>/<i>pṣʾ </i>) Pael, ‘to save, to deliver’: Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3<sup>1st</sup>; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
 * <span dir="rtl" lang="-">ܦܩܕ</span>
-(<i>pqd</i>), ‘to search for, to care for’: Zech 12:7;
+(<i>pqd</i>) Peal, ‘to search for, to care for’: Zech 12:7;
 * <span dir="rtl" lang="-">ܦܪܩ</span>
-(<i>prq</i>), ‘to save, to liberate’: Exod 2:17; 14:30;
+(<i>prq</i>) Peal, ‘to save, to liberate’: Exod 2:17; 14:30;
 Deut 20:4; 28:29;
 Josh 22:22;
 Judg 2:16, 18; 3:9<sup>2nd</sup>, 31; 6:14, 15, 36, 37; 7:7; 8:22; 10:1, 12, 13; 12:2, 3; 13:5; 
@@ -602,7 +604,7 @@ Judg 2:16, 18; 3:9<sup>2nd</sup>, 31; 6:14, 15, 36, 37; 7:7; 8:22; 10:1, 12, 13;
 15; 49:25; 59:1, 16; 63:1, 5, 9; 
 Jer 2:27, 28; 11:12 (2x); 14:9; 15:20; 17:14; 30:10, 11; 31:7; 42:11; 46:27; 
 Ezek 34:22; 36:29; 37:23; Hos 1:7 (2x);
-13:4, 10; 14:4; Obad 21; Zeph 3:19; Zech 8:7, 13; 9:16; 10:6; 12:7; Pss 3:8;
+13:4, 10; 14:4; Obad 21 (pass.); Zeph 3:19; Zech 8:7, 13; 9:16; 10:6; 12:7; Pss 3:8;
 6:5; 7:2; 11; 12:2; 18:28, 20:7, 10; 22:22; 28:9; 31:3, 17; 34:19; 36:7;
 37:40; 44:4, 7, 8; 54:3; 55:17; 57:4; 59:3; 60:7; 69:2, 36; 71:2, 3;
 72:4, 13; 76:10; 86:2, 16; 98:1; 106:8, 10, 21, 47; 107:13; 108:7;
@@ -612,17 +614,16 @@ Prov 20:22;
 Lam 4:17; Neh 9:27<sup>2nd</sup>; 
 1&nbsp;Chron 16:35; 18:6, 13; 
 2&nbsp;Chron 20:9; 32:22; 
-Sir 4:9; 31:6; 36:1; 48:20.<!-- 11:20 [Beentjes 11.18];-->  
+Sir 4:9; 31:6; 36:1; 48:20;<!-- 11:20 [Beentjes 11.18];-->  
 * <span dir="rtl" lang="-">ܦܪܩ</span>
-(<i>prq</i>) Ithpeel, ‘to save, to liberate’: Sir 49:10;
-* <span dir="rtl" lang="-">ܦܪܩ</span>
-(<i>prq</i>) Ethpeel, ‘to save, to liberate’: Job 22:29;
+(<i>prq</i>) Ithpeel, ‘to save, to liberate’: Job 22:29;
 * <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
 (<i>pārōqā</i>), ‘saviour, liberator’: Judg 3:9<sup>1st</sup>, 15; 10:14; 1 Sam 11:3; 2&nbsp;Sam 22:3<sup>2nd</sup>, 42; 2&nbsp;Kgs 13:5; Isa 19:20; 33:22; 43:3; 45:15, 21; 49:26; 60:16; 63:8; Jer 14:8; Zeph 3:17; Pss 17:7; 18:42; Neh 9:27<sup>1st</sup>;   
 * <span dir="rtl" lang="-">ܫܘܙܒ</span>
 (<i>šwzb</i>), ‘to save, deliver, preserve’: Sir 51:3;   
-* <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
-(<i>zky</i>/<i>zkʾ </i>) Pael, `to make victorious’: Judg 7:2.
+* <span dir="rtl" lang="-">ܬܟܠ</span>
+(<i>tkl</i>) Aphel, ‘to make trust’: Sir 49:10.
+
 
 [^7]: The English rendering of the Syriac is based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
@@ -635,10 +636,10 @@ Niphal:
 (<i>pārōqā</i>), ‘saviour, liberator’: Zech 9:9;  
 * <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span>
 (<i>purqānā</i>), ‘salvation’: Deut 33:29; Isa 45:17;  
-* <span dir="rtl" lang="-">ܦܪܩ</span>
-(<i>prq</i>) Ethpe. ‘to be saved’: 2&nbsp;Sam 22:4; Isa 30:15; 45:22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16; Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18;  
 * <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
-(<i>pṣy</i>/<i>pṣʾ </i>) Ethpa., ‘to be saved’: Num 10:9.  
+(<i>pṣy</i>/<i>pṣʾ </i>) Ethpael, ‘to be saved’: Num 10:9;  
+* <span dir="rtl" lang="-">ܦܪܩ</span>
+(<i>prq</i>) Ithpeel ‘to be saved’: 2&nbsp;Sam 22:4; Isa 30:15; 45:22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16; Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18.
 
 
 <b>A.1</b>  The Pesh, as the Tg (see below), has a preference for the verb

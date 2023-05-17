@@ -28,7 +28,7 @@ Occurrences: 79x HB (4/25/50); 1x Sir; 23x (+ 6 pars.) Qum; 0x inscr. (Total: 10
 69:30; 70:5; 74:12; 78:22; 80:3; 88:2; 89:27; 91:16; 96:2; 98:2, 3;
 106:4; 116:13; 118:14, 15, 21; 119:123, 155, 166, 174; 140:8; 149:4; Job
 13:16; 30:15; 1 Chron 16:23; 2 Chron 20:17, 78.
-* Sir: 32:25(B) (Beentjes, <i>BBSH</i>, 35:25).
+* Sir: 35:25.
 * Qum: CD 20:34; 1QH<small><sup>a</sup></small> 6:5; 7:19; 19:23 (= 4QH<small><sup>a</sup></small> 1:5); 20:3 (=
 4QH<small><sup>a</sup></small>3:2-3); 26:10 (= 4QH<small><sup>a</sup></small> 7 i 14); 1QS 1:19; 10:17 (= 4QS<small><sup>b</sup></small> 20:6;
 4QS<small><sup>f</sup></small> 4:4); 11:12; 1QM 1:5; 4:13; 13:13; 14:5; 18:7; 4Q185 2:13; 4Q381 15:9; 4Q438 4 ii+5:3; 4Q491 (4QM<small><sup>a</sup></small>) 11 ii 17 (cf. 1QM 16:16ff.); 15:7; 4Q503 48-50:6; 4Q511 1:5; 10:8.  
@@ -100,7 +100,7 @@ and <span dir="rtl" lang="he">יָדַע</span> hiph., ‘to make known’ (Ps 9
 
 <a id="3.A.3"></a>
 <b>A.3</b>  <span dir="rtl" lang="he">יְשׁוּעָה</span>  is governed by 
-<span dir="rtl" lang="he">קוה</span> piel + <span dir="rtl" lang="he">לְ</span>, ‘to await’ (Gen 49:18; Isa 59:11); <span dir="rtl" lang="he">שָׂמַח</span> + <span dir="rtl" lang="he">בְּ</span>, ‘to rejoice in’ (1&nbsp;Sam 2:1; Isa 25:9; Sir 32/35:25);
+<span dir="rtl" lang="he">קוה</span> piel + <span dir="rtl" lang="he">לְ</span>, ‘to await’ (Gen 49:18; Isa 59:11); <span dir="rtl" lang="he">שָׂמַח</span> + <span dir="rtl" lang="he">בְּ</span>, ‘to rejoice in’ (1&nbsp;Sam 2:1; Isa 25:9; Sir 35:25);
 <span dir="rtl" lang="he">גִיל</span> + <span dir="rtl" lang="he">בְּ</span>, ‘to rejoice in’ (Pss 9:15; 13:6; 21:2; 4Q511 1:5); 
 <span dir="rtl" lang="he">רנן</span> piel + <span dir="rtl" lang="he">בְּ</span>, ‘to shout about’ (Ps 20:6; 1QH<small><sup>a</sup></small> 26:10; 1QS 10:17); 
 <span dir="rtl" lang="he">שׂוּשׂ</span> + <span dir="rtl" lang="he">בְּ</span>, ‘to
@@ -151,7 +151,7 @@ and <span dir="rtl" lang="he">כנור</span>, ‘harp’ (1QH<small><sup>a</sup
 Although <span dir="rtl" lang="he">יְשׁוּעָה</span>  is often used of
 God (referred to by a suffix in, e.g., Isa 51:6; Ps 98:2; at Qumran CD
 20:34; 1QH<small><sup>a</sup></small> 6:5; 1QS 10:17; 1QM 13:13; 4Q 185 2:13; 4Q381 15:9; Sir
-32/35:25[?]); it is very rarely the nomen rectum of 
+35:25[?]); it is very rarely the nomen rectum of 
 <span dir="rtl" lang="he">אֱלֹהִים</span>, which is a
 significant contrast to <span dir="rtl" lang="he">יֵשַׁע</span>. In view of the number of occurrences of
 <span dir="rtl" lang="he">יְשׁוּעָה</span> it is surprising how rarely it ever serves as nomen rectum. In
@@ -385,7 +385,7 @@ and the expression <span dir="rtl" lang="he">שׁוּב שְׁבוּת</span>, ‘
 <span dir="rtl" lang="he">נצח</span>, ‘victory’ (1QM 4:13); 
 <span dir="rtl" lang="he">פלא</span>, ‘wonder’ (1QM 18:7); 
 <span dir="rtl" lang="he">רחמי אל</span>, ‘the mercies of God’ (4Q511 10:8); 
-* and in Sir <span dir="rtl" lang="he">[רי]ב ריב</span> ‘maintain the cause’ (Sir 32/35:25).
+* and in Sir <span dir="rtl" lang="he">[רי]ב ריב</span> ‘maintain the cause’ (Sir 35:25).
 
 
 <b>A.3</b>  Where <span dir="rtl" lang="he">יְשׁוּעָה</span> 
@@ -441,7 +441,7 @@ regard. It may be that the shorter form was more adept to this use.
 <b>A.5</b>  At Qumran <span dir="rtl" lang="he">יְשׁוּעָה</span>  
 takes on a strongly eschatological aspect,
 especially in CD 20:34, 1QH<small><sup>a</sup></small> and of course 1QM. This is also attested
-in Sir 32/35:25. In some passages, however, it seems to be used of the
+in Sir 35:25. In some passages, however, it seems to be used of the
 present experience of the righteous whose worship brings them into
 fellowship with heavenly beings (1QH<small><sup>a</sup></small> 20:3 =
 4QH<small><sup>a</sup></small> 3:2-3; 26:10 =
