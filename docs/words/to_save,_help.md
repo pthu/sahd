@@ -584,7 +584,7 @@ Hiphil:
 * <span dir="rtl" lang="-">ܢܦܩ</span>
 (<i>npq</i>) Aphel, ‘to bring out’: Ps 107:19;  
 * <span dir="rtl" lang="-">ܣܡܟ</span>
-(<i>smk</i>) Ithpaal, ‘to be supported’: Ps 107:19;  
+(<i>smk</i>) Ithpaal, ‘to be supported’: Sir 11:20;  
 * <span dir="rtl" lang="-">ܥܒܕ ܦܘܪܩܢܐ</span>
 (<i>ʿbd purqānā</i>), ‘to bring salvation’: 2&nbsp;Sam 3:18;  
 * <span dir="rtl" lang="-">ܥܒܕ</span>
@@ -616,7 +616,7 @@ Prov 20:22;
 Lam 4:17; Neh 9:27<sup>2nd</sup>; 
 1&nbsp;Chron 16:35; 18:6, 13; 
 2&nbsp;Chron 20:9; 32:22; 
-Sir 4:9; 31:6; 36:1; 48:20;<!-- 11:20 [Beentjes 11.18];-->  
+Sir 4:9; 31:6; 36:1; 48:20;  
 * <span dir="rtl" lang="-">ܦܪܩ</span>
 (<i>prq</i>) Ithpeel, ‘to save, to liberate’: Job 22:29;
 * <span dir="rtl" lang="-">ܦܪܘܩܐ</span>
@@ -670,9 +670,9 @@ most part to render the ptc.
 
 Hiphil:  
 
-* <span dir="rtl" lang="he">חשׁב</span>, ‘to think’: Ps 18:28;
+* <span dir="rtl" lang="he">חשׁב</span>, ‘to think’:[^8] Ps 18:28;
 * <span dir="rtl" lang="he">פרוק</span>, ‘redeemer’: Hos 13:4;
-* <span dir="rtl" lang="he">פּרק</span>, ‘to redeem’:[^8] O – Exod 2:17; 14:30; 
+* <span dir="rtl" lang="he">פּרק</span>, ‘to redeem’: Exod 2:17; 14:30; 
 Deut 20:4; 22:27; 28:29, 31; Josh 10:6; 22:22;
 Judg 2:16, 18 (Pa.); 3:9 [2x], 15, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22;
 10:1, 12, 13, 14; 12:2, 3; 13:5; 
@@ -700,9 +700,9 @@ Omitted: Ps 118:25; Neh 7:29.
 
 Niphal:
 
-* <span dir="rtl" lang="he">פורקנא</span>, ‘redemption, salvation’: O – Deut 33:29.
+* <span dir="rtl" lang="he">פורקנא</span>, ‘redemption, salvation’: Deut 33:29.
 * <span dir="rtl" lang="he">פרק</span>, ‘to redeem’: 2&nbsp;Sam 22:4; Zech 9:9; Ps 18:4; 
-* <span dir="rtl" lang="he">פרק</span> Ithpe., ‘to be redeemed’: O – Num 10:9; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16; Pss 33:16; 80:4, 8, 20; 119:117; Prov 28:18; 
+* <span dir="rtl" lang="he">פרק</span> Ithpe., ‘to be redeemed’: Num 10:9; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16; Pss 33:16; 80:4, 8, 20; 119:117; Prov 28:18; 
 
 
 <b>A.1</b>  There is nothing exceptional in the renderings of the Pesh or Tg, both translating the verb by the same words as they do for many others
@@ -737,7 +737,7 @@ Hiphil:
 * <i>eruo</i>, ‘to bring out, to release’: Deut 20:4; Judg 10:12;  
 * <i>libero</i>, ‘to make or to set free’: Exod 14:30; Deut 22:27; 28:29; Josh 10:6; Judg 2:16, 18; 3:9; 6:14,
 15, 37; 7:2[pass], 7; 8:22; 10:13, 14; 13:5; 2&nbsp;Sam 22:3; Jer 2:27, 28;
-11:12; Prov 20:22;  
+11:12; Prov 20:22; Sir 4:9; 
 * <i>praebeo auxilium</i>, ‘to offer help’: Judg 12:2; 2&nbsp;Sam 10:19; 1&nbsp;Chron 19:19;  
 * <i>pugno</i>, ‘to fight, to combat’: Judg 6:31;  
 * <i>salvator</i>, ‘saviour, redeemer’: Judg 3:9, 15; 2&nbsp;Sam 22:3; 2&nbsp;Kgs 13:5; 14:27; 16:7; Isa 19:20;
