@@ -5,7 +5,7 @@
 Semantic Fields:
 [Weight](../semantic_fields/weight.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Bertus van ’t Veld](../contributors/bertus_van_’t_veld.md)<br>
-First published: 2021-02-16<br>Citation: Raymond de Hoop,&nbsp;Bertus van ’t Veld, בֶּקַע – beka – half a shekel, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2021
+First published: 2021-02-16<br>Last update: 2023-05-16<br>Citation: Raymond de Hoop,&nbsp;Bertus van ’t Veld, בֶּקַע – beka – half a shekel, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2021 (update: 2023)
 
 
 

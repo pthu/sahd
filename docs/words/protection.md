@@ -5,7 +5,7 @@
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)<br>
-First published: 2017-01-01<br>Citation: James K. Aitken,&nbsp;Graham I. Davies, יְשׁוּעָה – protection, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2017
+First published: 2017-01-01<br>Last update: 2023-05-16<br>Citation: James K. Aitken,&nbsp;Graham I. Davies, יְשׁוּעָה – protection, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2017 (update: 2023)
 
 
 For fuller discussion of the lexical field as a whole see on this site the 
