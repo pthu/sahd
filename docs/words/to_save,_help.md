@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># ישׁע – ‘ישׁע – to save, help’
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># ישׁע – to save, help
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)<br>
-First published: 2016-01-01<br>Last update: 2023-05-16<br>Citation: James K. Aitken,&nbsp;Graham I. Davies, ישׁע – ‘ישׁע – to save, help’, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2016 (update: 2023)
+First published: 2016-01-01<br>Last update: 2023-05-16<br>Citation: James K. Aitken,&nbsp;Graham I. Davies, ישׁע – to save, help, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2016 (update: 2023)
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole see on this site the 
