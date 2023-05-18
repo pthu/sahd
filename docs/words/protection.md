@@ -307,6 +307,7 @@ No rendering: Ps 118:15.
 * <i>Iesus</i>, ‘Jesus’: Ps 149:4 (Vg<small><sup>PsH </sup></small>)  
 * [[<i>iustitia</i>, ‘justice, righteousness’: Isa 51:8]];  
 * <i>magnalia</i>, ‘great things, mighty works’: Exod 14:13;  
+* <i>mmisericordia</i>, ‘pity, compassion’: Sir 35:25;  
 * <i>salus</i>, ‘a being safe and sound, welfare’: Exod 15:2; 1&nbsp;Sam 14:45; 2&nbsp;Sam 22:51; Isa 12:2b; 26:18; 33:2, 6; 49:6, 8; 51:6; 52:7; 56:1; 59:11, 17; 60:18; Jon 2:10; Pss 3:3, 9; 14[13]:7 (Vg<small><sup>PsH </sup></small>); 18[17]:51; 22[21]:2; 35[34]:3, 9; 42[41]:12; 43[42]:5; 44[43]:5; 62[61]:2, 3, 7; 67[66]:3; 68[67]:20; 69[68]:30; 74[73]:12; 88[87]:2; 89[88]:27; 116[115]:13; 118[117]:14, 15, 21; 119[118]:155; 140[139]:8; 149:4 (Vg<small><sup>PsG </sup></small>); Job 30:15;  
 * <i>salutaris</i>, ‘salvation, health’: Gen 49:18; Deut 32:15; 1&nbsp;Sam 2:1; Isa 25:9; 52:10; Pss 9:15[16]; 13[12]:6; 14[13]:7 (Vg<small><sup>PsG </sup></small>); 20[19]:6; 21[20]:6; 28[27]:8; 42[41]:6; 53[52]:7; 70[69]:5; 78[77]:22; 91[90]:16; 96[92]:2; 98[97]:2, 3; 106[105]:4; 119[118]:123, 166, 174; 1&nbsp;Chron 16:23;  
 * <i>salvatio</i>, ‘deliverance’: Hab 3:8;  
