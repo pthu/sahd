@@ -43,7 +43,7 @@ title: optional English title (e.g. empty or 'Sack, Donkey Bag')
 semantic_fields: semantic_field_1, semantic_field_2, ... (e.g. deliverance)
 contributors: author_1, author_2, ... (e.g. jan_smit)
 first_published: date of publishing (e.g. 2023-01-09)
-last_update: last revision date (e.g. 2023-04-11 or empty)
+last_update: last update date (e.g. 2023-04-11 or empty)
 ---
 """
 
@@ -343,8 +343,12 @@ def replace_reference(line):
 
 
 def replace_label(line):
-    line = re.sub(r'(.*)\\pslabel{(.*?)}(.*)', r'\1<span id="\2">\3</span>', line)
-    line = re.sub(r'(.*)\\label{(.*?)}(.*)', r'\1<span id="\2">\3</span>', line)
+    if "\\pslabel" in line:
+        for i in range(5):
+            line = re.sub(r'(.*)\\pslabel{(.*?)}(.*)', r'\1<span id="\2">\3</span>', line)
+    if "\\label" in line:
+        for i in range(5):
+            line = re.sub(r'(.*)\\label{(.*?)}(.*)', r'\1<span id="\2">\3</span>', line)
     return line
 
 
@@ -353,7 +357,13 @@ def replace_enlargethispage(line):
 
 
 def replace_mbox(line):
-    return re.sub(r"(.*)\\mbox{(.*?)}(.*)", r"\1\2\3", line)
+    if "mbox" in line:
+        for i in range(10):
+            line = re.sub(r"(.*)\\mbox{(\\hebf? ?{.*?})}(.*)", r"\1\2\3", line)
+    if "mbox" in line:
+        for i in range(10):
+            line = re.sub(r"(.*)\\mbox{(.*?)}(.*)", r"\1\2\3", line)
+    return line
 
 
 def replace_sil(line):
@@ -449,7 +459,7 @@ def multiline_replacements(input, output):
     with open(output, "w") as f:
         with open(input, 'r') as file:
             text = file.read()
-            print(text)
+            # print(text)
             new_text = ""
             # Footnotes
             while "endnote" in text or "footnote" in text:
@@ -498,9 +508,11 @@ def indents(input, output):
                         tabs += "&emsp;"
                     line = f"{tabs}{line}<br>"
                 f.write(line)
-                if ("\\" in line) and not line.startswith("\\hangindent") \
-                        and not "\\textit" in line and not "\\endnote" in line and not "\\noindent" in line and not "\\*" in line \
-                        and not "includegraphics" in line and not "PDF downloaded from" in line:
+                # if ("\\" in line) and not line.startswith("\\hangindent") \
+                #         and not "\\textit" in line and not "\\endnote" in line and not "\\noindent" in line and not "\\*" in line \
+                #         and not "includegraphics" in line and not "PDF downloaded from" in line:
+                #     print(line)
+                if ("\\" in line) and not "PDF downloaded from" in line:
                     print(line)
         f.close()
 
@@ -617,6 +629,7 @@ def replace_special_characters(line):
     line = line.replace("\\d{t}", "ṭ")              # ṭ
     line = line.replace("\\b{t}", "ṯ")              # ṯ
     line = line.replace("\\st ", "ṯ")               # ṯ
+    line = line.replace("\\d{T}", "Ṭ")              # Ṭ
     line = line.replace("\\d{z}", "ẓ")              # ẓ
 
     line = line.replace('\\"{p}', "p" + chr(0x0308))# p with diaresis
