@@ -305,7 +305,7 @@ the twisting of the linen was performed by the spinning women, as part of the
 work designated by <span dir="rtl" lang="he">טוה</span>,
 or by the craftsmen who took care of the further processing of the materials
 (see <span dir="rtl" lang="he">שֵׁשׁ</span> without <span dir="rtl" lang="he">מָשְׁזָר</span> in 35:35 and 38:23). 
-However, since the twisting of the linen threads was usually performed with a <a href="/sahd/words/spindle/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, ‘spindle’, which was regarded as a women’s instrument,
+However, since the twisting of the linen threads was usually performed with a → <a href="/sahd/words/spindle/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, ‘spindle’, which was regarded as a women’s instrument,
 the twisting was probably also done by the women.
 See also the 
 <a href="#Akkadian">Akk. verb <i>ṭamû</i></a>, which denotes the spinning as well as the twisting of threads.
