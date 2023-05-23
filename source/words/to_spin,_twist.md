@@ -2,7 +2,7 @@
 word_english: to_spin,_twist   
 word_hebrew: טוה  
 title: to spin, twist together  
-semantic_fields: craft, textile production 
+semantic_fields: craft, textile production  
 contributors: paul_sanders  
 first_published: 2021-10-29  
 last_update:  
