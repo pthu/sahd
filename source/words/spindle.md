@@ -128,13 +128,13 @@ He translates the phrase as follows:
 <b>A.5</b> <i>Postbiblical Hebrew</i>:
 The noun פֶּלֶךְ does not occur in Ben Sira and the non-biblical Dead Sea Scrolls, but still occurs in living usage in rabbinic literature. 
 bKetubbot 72b refers to a woman using a פֶּלֶךְ (in the same passage also Aram. פִּילְכָא) for spinning 
-(→ <a href="/sahd/words/spin_twist"><span dir="rtl" lang="he">טוה</span></a>). 
+(→ <a href="/sahd/words/to_spin%2C_twist"><span dir="rtl" lang="he">טוה</span></a>). 
 tKelim Bava Batra 1:6 includes the expression
 טָווּי שֶעַל גַּבֵּי הַפֶּלֶך,
  ‘spun (wool) which is on the spindle’. 
 The פֶּלֶךְ is regarded as an instrument typically used by women: 
 אֵין חׇכְמָה לָאִשָּׁה אֶלָּא בְּפֶלֶךְ,
-‘a woman has no wisdom except at a spindle’ (bYoma 66b, with reference to the spinning [→ <a href="/sahd/words/spin_twist"><span dir="rtl" lang="he">טוה</span></a>]
+‘a woman has no wisdom except at a spindle’ (bYoma 66b, with reference to the spinning [→ <a href="/sahd/words/to_spin%2C_twist"><span dir="rtl" lang="he">טוה</span></a>]
  of women in Exod 35:25a).[^postH] 
 
 [^postH]: See also the references in Jastrow, <i>DTT</i>, 1182, s.v. פֶּלֶךְ; Dalman, <i>AuS</i> V, 49.
@@ -267,7 +267,7 @@ may imply that Tg<small><sup>J</sup></small> also interpreted פֶּלֶךְ as 
 
 <b>A.1</b> 
 In BHeb., the semantic field of spinning includes the verb → 
-<a href="/sahd/words/spin_twist"><span dir="rtl" lang="he">טוה</span></a>,
+<a href="/sahd/words/to_spin%2C_twist"><span dir="rtl" lang="he">טוה</span></a>,
  ‘to spin’ (Exod 35:25-26) and its derivative מַטְוֶה,
  ‘spun yarn’ 
 (Exod 35:25). 
@@ -440,7 +440,7 @@ and <a href="#AV">Ancient Versions</a>.
 
 
 <b>A.4</b> Exod 35:25-26 recounts that women spun 
-(→ <a href="/sahd/words/spin_twist"><span dir="rtl" lang="he">טוה</span></a>)
+(→ <a href="/sahd/words/to_spin%2C_twist"><span dir="rtl" lang="he">טוה</span></a>)
 yarn for the curtains of the tabernacle and the clothing of Aaron and the priests.
 Although the word פֶּלֶךְ does not occur there, the description probably implies that 
 these women, who are said to have spun with their hands (בְּיָדֶיהָ;
@@ -453,7 +453,7 @@ The materials spun by these woman were sheep wool coloured with costly dyes
 <span dir="rtl" lang="he">שָׁנִי</span>, ‘scarlet’),
 fine linen (שֵׁשׁ), 
 and goat hair (עִזִּים).
-See further → <a href="/sahd/words/spin_twist"><span dir="rtl" lang="he">טוה</span></a>.
+See further → <a href="/sahd/words/to_spin%2C_twist"><span dir="rtl" lang="he">טוה</span></a>.
 
 
 <a id="corvee"></a><b>B.1</b> 
@@ -717,7 +717,7 @@ In Tell el-Ḥammah, in the central Jordan valley, a spindle with linen threads 
 (Shamir 1996: 142). 
 Unfortunately, figures and more details of this find are not available.
 
-[^17e]: <i>BRL</i><small><sup>2</sup></small>, 312-13; Andersson Strand 2015: 47; Skals <i>et al</i>. 2015: 62, 64, 67. See also → <a href="/sahd/words/spin_twist"><span dir="rtl" lang="he">טוה</span></a>.
+[^17e]: <i>BRL</i><small><sup>2</sup></small>, 312-13; Andersson Strand 2015: 47; Skals <i>et al</i>. 2015: 62, 64, 67. See also → <a href="/sahd/words/to_spin%2C_twist"><span dir="rtl" lang="he">טוה</span></a>.
 <!-- <span dir="rtl" lang="he">שׁזר</span>, and-->
 
 
@@ -775,7 +775,7 @@ which suggests that the verb is denominative.
 
 <b>A.2</b>
 In biblical Hebrew, the noun פֶּלֶךְ designates a spindle, an instrument consisting of a circular spindle whorl with a perforation in the centre through which
-a rod has been inserted. Spindles were used for spinning (→ <a href="/sahd/words/spin_twist"><span dir="rtl" lang="he">טוה</span></a>), 
+a rod has been inserted. Spindles were used for spinning (→ <a href="/sahd/words/to_spin%2C_twist"><span dir="rtl" lang="he">טוה</span></a>), 
 which implied either forming new yarn from raw fibres, or plying several strands together to form stronger, thicker yarn.
 
 <b>A.3</b>
