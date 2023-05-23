@@ -196,7 +196,7 @@ def replace_hebrew_coded(line):
         if not m:
             m = re.search(r"(.*)\\hebreeuws ?{(.*?)}(.*)", line)
         if not m:
-            m = re.search(r"(.*){\\hebf? ?{(.*?)}}(.*)", line)
+            m = re.search(r"(.*){\\hebf?g? ?{(.*?)}}(.*)", line)
         if not m:
             m = re.search(r"(.*)\\hebf? ?{(.*?)}(.*)", line)
         if m:
@@ -359,6 +359,9 @@ def replace_enlargethispage(line):
 def replace_mbox(line):
     if "mbox" in line:
         for i in range(10):
+            line = re.sub(r"(.*){\\mbox(\\hebf? ?{.*?})}(.*)", r"\1\2\3", line)
+    if "mbox" in line:
+        for i in range(10):
             line = re.sub(r"(.*)\\mbox{(\\hebf? ?{.*?})}(.*)", r"\1\2\3", line)
     if "mbox" in line:
         for i in range(10):
@@ -441,6 +444,20 @@ def remove_small(line):
     return line
 
 
+def remove_textsf(line):
+    if "textsf" in line:
+        for i in range(5):
+            line = re.sub(r"(.*?)\\textsf{(.*?)}(.*)", r"\1\2\3", line)
+    return line
+
+
+def remove_rm(line):
+    if "\\rm" in line:
+        for i in range(5):
+            line = re.sub(r"(.*?){\\rm{(.*?)}}(.*)", r"\1\2\3", line)
+    return line
+
+
 def remove_comment(line):
     if "\\%" in line:
         line = line.replace("\\%", "%")
@@ -466,6 +483,9 @@ def multiline_replacements(input, output):
                 m = re.search(r"([.\s\S]*?)\\(?:endnote|footnote){([.\s\S]*?)}([.\s\S]*)", text)
                 if m:
                     footnote = m.group(2).replace("	", " ") # replace tab with a space
+                    # print("====================================")
+                    # print(footnote)
+                    # print("====================================")
                     footnotes.append(footnote)
                     new_text += m.group(1) + f"[^{i + 1}]"
                     text = m.group(3)
@@ -512,14 +532,16 @@ def indents(input, output):
                 #         and not "\\textit" in line and not "\\endnote" in line and not "\\noindent" in line and not "\\*" in line \
                 #         and not "includegraphics" in line and not "PDF downloaded from" in line:
                 #     print(line)
-                if ("\\" in line) and not "PDF downloaded from" in line:
-                    print(line)
+                l = line
+                l.replace("\\includegraphics", "")
+                if ("\\" in l) and not "PDF downloaded from" in l:
+                    print(l)
         f.close()
 
 
 def replace_special_characters(line):
 
-    line = line.replace("*", "\*")
+    # line = line.replace("*", "\*")
 
     line = line.replace("\symbol{123}", "@")        # replacement to handle greek
     line = line.replace("\symbol{125}", "*")        # replacement to handle hebrew and greek
@@ -533,19 +555,24 @@ def replace_special_characters(line):
     line = line.replace("{\\&}", "&")               # &
     line = line.replace("\\&", "&")                 # &
     line = line.replace("\\#", "#")                 # #
-    line = line.replace("\\}", "}")                 # #
+    line = line.replace("\\}", "}")                 # }
+    line = line.replace("\\[", "[")                 # [
     line = line.replace("$<$", "&lt;")              # <
     line = line.replace("$>$", "&gt;")              # >
     line = line.replace("$[$", "[")                 # [
     line = line.replace("$]$", "]")                 # ]
     line = line.replace("$/$", "/")                 # /
+    line = line.replace("$\pm$", "∓")               # ∓
+    line = line.replace("{\\ast}", "∗")             # ∗
     line = line.replace("{/}", "/")                 # /
+    line = line.replace("\\Sigma", "∑")             # ∑
     line = line.replace("{\\ldots}", "...")         # ...
     line = line.replace("\\ldots", "...")           # ...
     line = line.replace("\\dots", "...")            # ...
     line = line.replace("{$\\surd$}", "√")          # √
     line = line.replace("$\\surd$", "√")            # √
     line = line.replace("$\\rightarrow$", "→")      # →
+    line = line.replace("$\\leftrightarrow$", "↔")  # ↔
     line = line.replace("{\\S\\S\\,}", "§§")        # §§
     line = line.replace("{\\S\\S}", "§§")           # §§
     line = line.replace("\\S\\S", "§§")             # §§
@@ -563,9 +590,12 @@ def replace_special_characters(line):
     line = line.replace('\\"{a}', "ä")              # ä
     line = line.replace('\\"a', "ä")                # ä
     line = line.replace("\\'{a}", "á")              # á
+    line = line.replace("\\d{a}", "ạ")              # ạ
+    line = line.replace("\\v{a}", "ă")              # ă
     line = line.replace("\\^{a}", "â")              # â
     line = line.replace("\\^a", "â")                # â
     line = line.replace("\\ae", "æ")                # æ
+    line = line.replace("\\'{A}", "Á")              # Á
     line = line.replace('\\"{A}', "Ä")              # Ä
     line = line.replace('{\\AA}', "Å")              # Å
     line = line.replace("\\^{A}", "Â")              # Â
@@ -602,10 +632,13 @@ def replace_special_characters(line):
 
     line = line.replace("{\\ss}", "ß")              # ß
     line = line.replace("\\ss", "ß")                # ß
+    line = line.replace("\\c{c}", "ç")              # ç
     line = line.replace("\\b{d}", "ḏ")              # ḏ
+    line = line.replace("\\d{d}", "ḍ")              # ḍ
     line = line.replace("\\v{g}", "ǧ")              # ǧ
     line = line.replace("\\.{g}", "ġ")              # ġ
     line = line.replace("\\v{G}", "Ǧ")              # Ǧ
+    line = line.replace("\\textit{\\sh}", "*ḫ*")    # ḫ
     line = line.replace("{\\sh}", "ḫ")              # ḫ
     line = line.replace("\\s{h}", "ḫ")              # ḫ
     line = line.replace("\\sh", "ḫ")                # ḫ
@@ -631,6 +664,7 @@ def replace_special_characters(line):
     line = line.replace("\\st ", "ṯ")               # ṯ
     line = line.replace("\\d{T}", "Ṭ")              # Ṭ
     line = line.replace("\\d{z}", "ẓ")              # ẓ
+    line = line.replace("\\d{Z}", "Ẓ")              # Ẓ
 
     line = line.replace('\\"{p}', "p" + chr(0x0308))# p with diaresis
 
@@ -749,7 +783,7 @@ def skip_line(line):
             or s.startswith("\\hyperref") or s.startswith("\\phantomsection") or s.startswith("\\newlength") \
             or s.startswith("\\font") or s.startswith("\\refstepcounter") or s.startswith("\\parbox") \
             or s.startswith("\\documentclass") or s.startswith("\\setotherlanguage") \
-            or s.startswith("\\begin{") or s.startswith("\\end{") or s == "}"
+            or s.startswith("\\begin{") or s.startswith("\\end{")
 
 
 def replacements(input, output):
@@ -794,6 +828,8 @@ def replacements(input, output):
                 line = remove_scalebox(line)
                 line = remove_large(line)
                 line = remove_small(line)
+                line = remove_textsf(line)
+                line = remove_rm(line)
                 line = remove_comment(line)     # check occurences!
                 line = remove_renewcommand(line)
 
