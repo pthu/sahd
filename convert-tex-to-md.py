@@ -61,10 +61,6 @@ def read_args():
     return input, output
 
 
-def reverse(word):
-    return "".join(reversed(word))
-
-
 def replace_def(line):
     m = re.search(r"(.*)\\def\\(.*?){(.*?)}(.*)", line)
     if m:
@@ -76,65 +72,6 @@ def replace_def(line):
 def replace_defined_reference(line):
     for d in definitions.keys():
         line = line.replace("\\" + d, definitions[d])
-    return line
-
-
-def replace_bold(line):
-    if "textbf" in line:
-        for i in range(5):
-            line = re.sub(r"(.*)\\textbf{(.*?)}(.*)", r"\1**\2**\3", line)
-    return line
-
-
-def replace_italics(line):
-    if "textit" in line or "textsl" in line:
-        for i in range(5):
-            line = re.sub(r"(.*)\\textit\\textit{{(.*?)}}(.*)", r"\1*\2*\3", line)
-            line = re.sub(r"(.*)\\textit{(.*?)}(.*)", r"\1*\2*\3", line)
-            line = re.sub(r"(.*)\\textsl{(.*?)}(.*)", r"\1*\2*\3", line)
-    return line
-
-
-def replace_vspace(line):
-    if "vspace" in line:
-        for i in range(5):
-            line = re.sub(r"(.*)\\vspace{.*}(.*)", r"\1\2", line)
-    return line
-
-
-def replace_superscript_1(line):
-    if "sups" in line:
-        for i in range(5):
-            line = re.sub(r"(.*?)\\n?sups(?:cr)?{(.*?)}(.*)", r"\1<sup>\2</sup>\3", line)
-            line = re.sub(r"(.*)\\n?sups(?:cr)?{(.*?)}(.*)", r"\1<sup>\2</sup>\3", line)
-    return line
-
-
-def replace_superscript_2(line):
-    conversion = {"A": "αʹ", "AS": "αʹσʹ", "ASTh": "αʹσʹθʹ", "ATh": "αʹθʹ",
-                  "G": "LXX", "GA": "LXXαʹ", "GAS": "LXXαʹσʹ", "GASTh": "LXXαʹσʹθʹ",
-                  "GATh": "LXXαʹθʹ", "GS": "LXXσʹ", "GSTh": "LXXσʹθʹ", "GTh": "LXXθʹ",
-                  "J": "J", "K": "K", "M": "MT", "N": "N", "NSm": "N,Smr", "O": "O",
-                  "ON": "O,N", "ONSm": "O,N,Smr", "OPs": "O,PsJ", "OPsN": "O,PsJ,N",
-                  "OPsNSm": "O,PsJ,N,Smr", "OPsSm": "O,PsJ,Smr", "OSm": "O,Smr",
-                  "Ps": "PsJ", "S": "σʹ", "Sm": "Smr", "STh": "σʹθʹ", "Th": "θʹ"
-                  }
-    if "sup" in line:
-        for i in range(10):
-            m = re.search(r"(.*)\\sup([a-zA-Z]*)(|\\|;|.)(.*)", line)
-            if m:
-                sup = m.group(2)
-                if sup in conversion:
-                    sup = conversion[sup]
-                line = m.group(1) + f"<sup>{sup}</sup>" + m.group(3) + m.group(4)
-    return line
-
-
-def replace_subscript(line):
-    if "subs" in line:
-        for i in range(5):
-            line = re.sub(r"(.*)\\n?subs{(.*?)}(.*)", r"\1<sub>\2</sub>\3", line)
-            line = re.sub(r"(.*)\\n?subscr{(.*?)}(.*)", r"\1<sub>\2</sub>\3", line)
     return line
 
 
@@ -251,7 +188,6 @@ def replace_greek_coded(line):
             m = re.search(r'(.*)\\grf? ?{(.*?)}(.*)', line)
         if m:
             gr = m.group(2)
-            # print(gr)
             ms = re.search(r"(.*)(\\symbol\(.*?\))(.*)", gr)
             while ms:
                 print(f"{ms.group(2)} found in greek word {gr}")
@@ -298,6 +234,65 @@ def replace_syrian(line):
     if "\Syr" in line:
         for i in range(5):
             line = re.sub(r"(.*){\\Syr (.*?)}(.*)", r"\1\2 \3", line)
+    return line
+
+
+def replace_bold(line):
+    if "textbf" in line:
+        for i in range(5):
+            line = re.sub(r"(.*)\\textbf{(.*?)}(.*)", r"\1**\2**\3", line)
+    return line
+
+
+def replace_italics(line):
+    if "textit" in line or "textsl" in line:
+        for i in range(5):
+            line = re.sub(r"(.*)\\textit\\textit{{(.*?)}}(.*)", r"\1*\2*\3", line)
+            line = re.sub(r"(.*)\\textit{(.*?)}(.*)", r"\1*\2*\3", line)
+            line = re.sub(r"(.*)\\textsl{(.*?)}(.*)", r"\1*\2*\3", line)
+    return line
+
+
+def replace_vspace(line):
+    if "vspace" in line:
+        for i in range(5):
+            line = re.sub(r"(.*)\\vspace{.*}(.*)", r"\1\2", line)
+    return line
+
+
+def replace_superscript_1(line):
+    if "sups" in line:
+        for i in range(5):
+            line = re.sub(r"(.*?)\\n?sups(?:cr)?{(.*?)}(.*)", r"\1<sup>\2</sup>\3", line)
+            line = re.sub(r"(.*)\\n?sups(?:cr)?{(.*?)}(.*)", r"\1<sup>\2</sup>\3", line)
+    return line
+
+
+def replace_superscript_2(line):
+    conversion = {"A": "αʹ", "AS": "αʹσʹ", "ASTh": "αʹσʹθʹ", "ATh": "αʹθʹ",
+                  "G": "LXX", "GA": "LXXαʹ", "GAS": "LXXαʹσʹ", "GASTh": "LXXαʹσʹθʹ",
+                  "GATh": "LXXαʹθʹ", "GS": "LXXσʹ", "GSTh": "LXXσʹθʹ", "GTh": "LXXθʹ",
+                  "J": "J", "K": "K", "M": "MT", "N": "N", "NSm": "N,Smr", "O": "O",
+                  "ON": "O,N", "ONSm": "O,N,Smr", "OPs": "O,PsJ", "OPsN": "O,PsJ,N",
+                  "OPsNSm": "O,PsJ,N,Smr", "OPsSm": "O,PsJ,Smr", "OSm": "O,Smr",
+                  "Ps": "PsJ", "S": "σʹ", "Sm": "Smr", "STh": "σʹθʹ", "Th": "θʹ"
+                  }
+    if "sup" in line:
+        for i in range(10):
+            m = re.search(r"(.*)\\sup([a-zA-Z]*)(|\\|;|.)(.*)", line)
+            if m:
+                sup = m.group(2)
+                if sup in conversion:
+                    sup = conversion[sup]
+                line = m.group(1) + f"<sup>{sup}</sup>" + m.group(3) + m.group(4)
+    return line
+
+
+def replace_subscript(line):
+    if "subs" in line:
+        for i in range(5):
+            line = re.sub(r"(.*)\\n?subs{(.*?)}(.*)", r"\1<sub>\2</sub>\3", line)
+            line = re.sub(r"(.*)\\n?subscr{(.*?)}(.*)", r"\1<sub>\2</sub>\3", line)
     return line
 
 
@@ -352,10 +347,6 @@ def replace_label(line):
     return line
 
 
-def replace_enlargethispage(line):
-    return re.sub(r"(.*)\\enlargethispage{(.*?)}(.*)", r"\1\3", line)
-
-
 def replace_mbox(line):
     if "mbox" in line:
         for i in range(10):
@@ -383,12 +374,6 @@ def replace_includegraphics(line):
     return line
 
 
-# def replace_hangindent(line):
-#     for i in range(5):
-#         line = re.sub(r"(.*)\\hangindent ([0-9.]*)cm(.*)", r"\1\3", line)
-#     return line
-#
-
 def replace_href(line):
     if "href" in line:
         for i in range(5):
@@ -411,6 +396,10 @@ def replace_last_backslash(line):
     line = re.sub(r"(.*)\\\\ *$", r"\1<br>", line)
     line = re.sub(r"(.*)\\ *$", r"\1<br>", line)
     return line
+
+
+def remove_enlargethispage(line):
+    return re.sub(r"(.*)\\enlargethispage{(.*?)}(.*)", r"\1\3", line)
 
 
 def remove_hspace(line):
@@ -476,16 +465,12 @@ def multiline_replacements(input, output):
     with open(output, "w") as f:
         with open(input, 'r') as file:
             text = file.read()
-            # print(text)
             new_text = ""
             # Footnotes
             while "endnote" in text or "footnote" in text:
                 m = re.search(r"([.\s\S]*?)\\(?:endnote|footnote){([.\s\S]*?)}([.\s\S]*)", text)
                 if m:
                     footnote = m.group(2).replace("	", " ") # replace tab with a space
-                    # print("====================================")
-                    # print(footnote)
-                    # print("====================================")
                     footnotes.append(footnote)
                     new_text += m.group(1) + f"[^{i + 1}]"
                     text = m.group(3)
@@ -528,20 +513,10 @@ def indents(input, output):
                         tabs += "&emsp;"
                     line = f"{tabs}{line}<br>"
                 f.write(line)
-                # if ("\\" in line) and not line.startswith("\\hangindent") \
-                #         and not "\\textit" in line and not "\\endnote" in line and not "\\noindent" in line and not "\\*" in line \
-                #         and not "includegraphics" in line and not "PDF downloaded from" in line:
-                #     print(line)
-                l = line
-                l.replace("\\includegraphics", "")
-                if ("\\" in l) and not "PDF downloaded from" in l:
-                    print(l)
         f.close()
 
 
 def replace_special_characters(line):
-
-    # line = line.replace("*", "\*")
 
     line = line.replace("\symbol{123}", "@")        # replacement to handle greek
     line = line.replace("\symbol{125}", "*")        # replacement to handle hebrew and greek
@@ -549,7 +524,6 @@ def replace_special_characters(line):
     line = line.replace("\symbol{185}", "&")        # replacement to handle hebrew
     line = line.replace("\symbol{246}", "£")        # replacement to handle hebrew
 
-    # line = line.replace("	", "&emsp;&emsp;")      # tab
     line = line.replace("\\ ", " ")                 # space
     line = line.replace("\\xx", "x")                # x
     line = line.replace("{\\&}", "&")               # &
@@ -675,7 +649,6 @@ def replace_special_characters(line):
     line = line.replace("\\orig", "οʹ")             # οʹ
     line = line.replace("\\theod", "θ´")            # θ´
 
-    # doubtful
     line = line.replace("\\es3", "," + chr(0x0313)) #
     line = line.replace("{?'}", "¿")                # ¿
     line = line.replace("\\#\\,", "#")              # #
@@ -742,7 +715,6 @@ def replace_commands(line):
     line = line.replace("\\newline", "<br>")               # <br>
     line = line.replace("\\hspace\\*", "   ")              # spaces
     line = line.replace("\\hspace", "   ")                 # spaces
-    # line = line.replace("\\noindent", "")                # empty
     line = line.replace("\\theendnotes", "")               # empty
     line = line.replace("\\hfill", "")                     # empty
     line = line.replace("\\vfill", "")                     # empty
@@ -818,19 +790,19 @@ def replacements(input, output):
                 line = replace_introduction(line)
                 line = replace_g_h(line)
                 line = replace_mbox(line)
-                line = replace_enlargethispage(line)
                 line = replace_last_backslash(line)
                 line = replace_hebrew(line)
                 line = replace_greek(line)
                 line = replace_syrian(line)
 
+                line = remove_enlargethispage(line)
                 line = remove_hspace(line)
                 line = remove_scalebox(line)
                 line = remove_large(line)
                 line = remove_small(line)
                 line = remove_textsf(line)
                 line = remove_rm(line)
-                line = remove_comment(line)     # check occurences!
+                line = remove_comment(line)
                 line = remove_renewcommand(line)
 
                 line = replace_def(line)
@@ -844,15 +816,6 @@ def replacements(input, output):
                     continue
                 if line.startswith("{"):
                     line = line[1:]
-                # if ("\\" in line) and not line.startswith("\\hangindent") \
-                #         and not "\\textit" in line and not "\\endnote" in line and not "\\noindent" in line and not "\\*" in line \
-                #         and not "includegraphics" in line and not "PDF downloaded from" in line:
-                #     print(line)
-                if "tatistics" in line:
-                    print("STATISTICS")
-                # if diacritic(line):
-                #     print("DIACRITIC: " + line)
-                        # or "{" in line or "}" in line
                 f.write(line)
         f.close()
 
