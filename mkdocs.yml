@@ -9,13 +9,17 @@ nav:
     - Lemmas:
             - ב:
                 - בֶּקַע - beka – half a shekel: words/beka_–_half_a_shekel.md
+            - ט:
+                - טוה - to spin, twist: words/to_spin,_twist.md
             - י:
                 - יְשׁוּעָה - protection: words/protection.md
                 - ישׁע - to save, help: words/to_save,_help.md
             - פ:
                 - פֶּלֶךְ - spindle: words/spindle.md
     - Semantic fields:
+            - Craft: semantic_fields/craft.md
             - Deliverance: semantic_fields/deliverance.md
+            - Textile Production: semantic_fields/textile production.md
             - Utensils: semantic_fields/utensils.md
             - Weight: semantic_fields/weight.md
     - Contributors:
