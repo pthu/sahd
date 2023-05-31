@@ -39,11 +39,12 @@ metadata = """
 ---
 word_english: name_of_the_document (e.g. beka_half_a_shekel)
 word_hebrew: lemma in hebrew (e.g. אַח)
-title: optional English title (e.g. empty or 'Sack, Donkey Bag')
+title: optional English title (e.g. empty or Sack, Donkey Bag)
 semantic_fields: semantic_field_1, semantic_field_2, ... (e.g. deliverance)
 contributors: author_1, author_2, ... (e.g. jan_smit)
 first_published: date of publishing (e.g. 2023-01-09)
 last_update: last update date (e.g. 2023-04-11 or empty)
+update_info: info about last update(e.g. Jan Smit or empty)
 ---
 """
 

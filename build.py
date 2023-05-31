@@ -1,5 +1,5 @@
 import os
-from os.path import exists, isdir
+from os.path import exists, isdir, isfile
 from shutil import rmtree, copytree
 from pathlib import Path
 import argparse
@@ -384,7 +384,7 @@ def write_words(shebanq_dict, ubs_dict):
     os.mkdir(WORDS_DOCS)
 
     for word in WORDS.glob("*"):
-        word_hebrew, word_english, title, first_published, last_update = "", "", "", "", ""
+        word_hebrew, word_english, title, first_published, last_update, update_info = "", "", "", "", "", ""
         semantic_fields, contributors = [], []
         text, first_dashes, second_dashes, shebanq, ubs = [], False, False, True, True
         if word.name == ".DS_Store":
@@ -419,6 +419,8 @@ def write_words(shebanq_dict, ubs_dict):
                     ubs =  not (get_value(line).lower() == "off")
                 elif line.startswith("last_update:") and line.replace("last_update:", "").strip() != "":
                     last_update = get_value(line)
+                elif line.startswith("update_info:") and line.replace("update_info:", "").strip() != "":
+                    update_info = get_value(line)
                 elif line.strip() == "---" and not second_dashes:
                     second_dashes = True
                     text.append(HEADER)
@@ -456,7 +458,10 @@ def write_words(shebanq_dict, ubs_dict):
                     if first_published:
                         text.append(f"First published: {first_published}<br>")
                         if last_update:
-                            text.append(f"Last update: {last_update}<br>")
+                            text.append(f"Last update: {last_update} ")
+                            if update_info:
+                                text.append(f" - {update_info}")
+                            text.append("<br>")
                     text.append(f"Citation: {contributors_citing}, {word_english_hebrew}, <br>\
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
                     Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd)")
@@ -642,6 +647,9 @@ def main():
         return
     elif action == "make":
         make_docs()
+    elif action == "build":
+        if make_docs():
+            build_docs()
     elif action == "docs":
         if make_docs():
             serve_docs()
