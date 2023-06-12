@@ -459,16 +459,20 @@ def write_words(shebanq_dict, ubs_dict):
                         text.append(f"First published: {first_published}<br>")
                         if last_update:
                             text.append(f"Last update: {last_update} ")
-                            if update_info:
-                                text.append(f" - {update_info}")
+                            # if update_info:
+                            #     text.append(f" - {update_info}")
                             text.append("<br>")
                     text.append(f"Citation: {contributors_citing}, {word_english_hebrew}, <br>\
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
                     Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd)")
                     if first_published:
                         text.append(f", {first_published.split('-')[0]}")
-                        if last_update:
+                        if last_update and not update_info:
                             text.append(f" (update: {last_update.split('-')[0]})")
+                        if last_update and update_info:
+                            text.append(f"<br>\
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+                            (update: {last_update.split('-')[0]} {update_info})")
                     text.append("\n\n")
 
         if not second_dashes:
