@@ -1,4 +1,3 @@
-import os
 from os import listdir, mkdir
 from os.path import isdir
 import argparse
@@ -52,11 +51,11 @@ last_update: last update date (e.g. 2023-04-11 or empty)
 
 
 def read_args():
-    parser = argparse.ArgumentParser(description='converts TeX file to Markdown text file',
+    parser = argparse.ArgumentParser(description='converts TeX files to Markdown text files',
                                      usage='use "%(prog)s --help" for more information',
                                      formatter_class=argparse.RawTextHelpFormatter)
-    parser.add_argument("input", help="input text-file")
-    parser.add_argument("output", help="ouput text-file")
+    parser.add_argument("input", help="input folder")
+    parser.add_argument("output", help="ouput folder")
     args = parser.parse_args()
     input = args.input
     output = args.output
@@ -163,9 +162,9 @@ def replace_hebrew_coded(line):
 def replace_hebrew(line):
     if "{\\Hbr" in line:
         for i in range(5):
-            line = re.sub(r"(.*)\\RL{\\Hbr (.*?)}(.*)", r"\1\2 \3", line)
+            line = re.sub(r'(.*)\\RL{\\Hbr (.*?)}(.*)', r'\1<span dir="rtl">\2</span> \3', line)
         for i in range(5):
-            line = re.sub(r"(.*){\\Hbr (.*?)}(.*)", r"\1\2 \3", line)
+            line = re.sub(r'(.*){\\Hbr (.*?)}(.*)', r'\1<span dir="rtl">\2</span> \3', line)
     elif "\\smhebr" in line or "\\nmhebr" in line or "\\medhebr" in line or "\\heb" in line:
         line = replace_hebrew_coded(line)
     return line
