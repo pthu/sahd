@@ -4,4 +4,4 @@
 
 
 ### Related words
-[יְשׁוּעָה – protection](../words/protection.md)<br>[ישׁע – to save, help](../words/to_save,_help.md)<br>
+[גְּאֻלָּה – to save, help](../words/to_save,_help.md)<br>[גְּאוּלִים – to save, help](../words/to_save,_help.md)<br>[גָּאַל – to save, help](../words/to_save,_help.md)<br>[יְשׁוּעָה – protection](../words/protection.md)<br>[ישׁע – to save, help](../words/to_save,_help.md)<br>

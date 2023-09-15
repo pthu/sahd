@@ -15,8 +15,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
 
-Grammatical Type: n.f.
-
+Grammatical Type: n.f.  
 Occurrences: 79x HB (4/25/50); 1x Sir; 23x (+ 6 pars.) Qum; 0x inscr. (Total: 103).   
 
 * Torah: Gen 49:18; Exod 14:13; 15:2; Deut 32:15.
