@@ -1,12 +1,12 @@
 ---
-word_english: to_save,_help  
+word_english: to_redeem  
 word_hebrew:  גָּאַל  
 title:  
 semantic_fields: deliverance  
-contributors: alison gray  
+contributors: alison_gray  
 first_published: 2007-08-01  
-last_update: 2023-10-01   
-
+last_update: 2023-10-01 
+update_info: raymond_de_hoop
 
 ---
 
@@ -830,8 +830,8 @@ explicitly theophoric, see above, Root and Comparative Material A.1.
 
 
 <b>A.1</b> The meaning of גאל seems to comprise three ‘semantic components’:
-(a) ‘to act (or fulfil one’s duty) as kinsman’; (b) ‘buying’ (cf. the
-parallelism of גאל with קנה, and opposition with מכר) and (c) ‘claiming
+a) ‘to act (or fulfil one’s duty) as kinsman’; b) ‘buying’ (cf. the
+parallelism of גאל with קנה, and opposition with מכר) and c) ‘claiming
 back’. These appear variously in its different uses, as below.
 
 
