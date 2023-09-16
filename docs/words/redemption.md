@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1GAWLJMn" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=גְּאוּלִים&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># גְּאוּלִים – to save, help
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1GAWLJMn" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=גְּאוּלִים&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># גְּאוּלִים – redemption
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Alison Gray](../contributors/alison_gray.md)<br>
-First published: 2007-08-01<br>Last update: 2023-10-01 <br>Citation: Alison Gray, גְּאוּלִים – to save, help, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2007<br>                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            (update: 2023 raymond_de_hoop)
+First published: 2007-08-01<br>Last update: 2023-10-01 <br>Citation: Alison Gray, גְּאוּלִים – redemption, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2007<br>                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            (update: 2023 raymond_de_hoop)
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole see on this site the 
@@ -115,9 +115,7 @@ and Israel itself (cf. Tg).
 ## 6. Exegesis
 
 
-<b>A.1</b>  Marti (1900: 392) compared ‘the year of myגְּאוּלִים ’ to the laws
-on the jubilee year in Lev 25:28-34, 47-55, where the verb גאל is used
-several times.
+<b>A.1</b>  Marti (1900: 392) compared ‘the year of my גְּאוּלִים’ to the laws on the jubilee year in Lev 25:28-34, 47-55, where the verb גאל is used several times.
 
 
 <b>B.1</b>  Merz (1916: 68) introduced a sense based on the idea of the גֹּאֵל
@@ -135,10 +133,7 @@ traditional understanding as an abstract noun (1932: 261).
 
 ## 7. Conclusion
 
-The single occurrence of גְּאוּלִים in BH leaves some doubt as to which
-of the uses of the verb it is related to. A case has been made for
-‘(time of) avenging’ instead of the traditional understanding
-‘redemption’, which sees it as a synonym of גְּאֻלָּהin one of its
+The single occurrence of גְּאוּלִים in BH leaves some doubt as to which of the uses of the verb it is related to. A case has been made for ‘(time of) avenging’ instead of the traditional understanding ‘redemption’, which sees it as a synonym of גְּאֻלָּה in one of its
 senses, but it is not compelling.
 
 ## Bibliography
