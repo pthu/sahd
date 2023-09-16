@@ -6,7 +6,7 @@ semantic_fields: deliverance
 contributors: alison_gray  
 first_published: 2007-08-01  
 last_update: 2023-10-01   
-update_info: raymond_de_hoop
+update_info: 
 
 ---
 
@@ -67,7 +67,7 @@ as throughout Isa 63:1-6, refers to God.
 
 * λύτρωσις, ‘redemption, ransom’:[^2] Isa 63:4.
 
-[^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i> … claim on that which is currently not in one’s possession</i>’. LEH<sup>3</sup>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
+[^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i> … claim on that which is currently not in one’s possession</i>’. LEH<small><sup>3</sup></small>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
 
 <b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of כפר,
@@ -98,10 +98,10 @@ slaves (Procksch and Büchsel 1967: 340).
 
 
 <b>A.1</b>  Both Pesh and Tg prefer the root ܦܪܩ (<i>prq</i>)/ פרק, rather than
-    שׁיזב (Tg<sup>J</sup>) or ܦܨܝ/ܦܨܐ (<i>pṣʾ</i>/<i>pṣy</i>) (Pesh), to render גאל (see
+    שׁיזב (Tg<small><sup>J</sup></small>) or ܦܨܝ/ܦܨܐ (<i>pṣʾ</i>/<i>pṣy</i>) (Pesh), to render גאל (see
     entry on root גאל; cf. ישׁע), with the exception of passages in Ruth
-    (4:6 [Tg<sup>K</sup>, Pesh], 7 [Pesh]) and Jeremiah (32:7 [Tg<sup>J</sup>, Pesh], 8
-    [Tg<sup>J</sup>]), where the choices of (<i>yrtwtʾ</i>) and אחסנתא respectively
+    (4:6 [Tg<small><sup>K</sup></small>, Pesh], 7 [Pesh]) and Jeremiah (32:7 [Tg<small><sup>J</sup></small>, Pesh], 8
+    [Tg<small><sup>J</sup></small>]), where the choices of (<i>yrtwtʾ</i>) and אחסנתא respectively
     emphasise the claim to inheritance.
 
 
