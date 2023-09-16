@@ -205,7 +205,7 @@ occurrence with more specific phrases.
 
 
 <b>A.1</b>  See
-<a href="sahd/words/to_redeem/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">גאל</span>: 5. Lexical/Semantic Fields</a>
+<a href="https://pthu.github.io/sahd/words/to_redeem/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">גאל</span>: 5. Lexical/Semantic Fields</a>.
  
 
 
@@ -215,7 +215,8 @@ confirming that גְּאֻלָּה can denote a ‘<i>right</i> of redemption’
 phrase מִשְׁפַּט הַגְּאֻלָּה in v. 7).
 
 
-<b>A.3</b>  Like the verb גָּאַל (see entry on גאל, Lexical/Semantic Field(s),
+<b>A.3</b>  Like the verb גָּאַל (see entry on 
+<a href="https://pthu.github.io/sahd/words/to_redeem/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">גאל</span>: 5. Lexical/Semantic Fields</a>,
 A.1), גְּאֻלָּה is closely associated with the verb קנה ‘buy’ (Jer
 32:7-8).
 
