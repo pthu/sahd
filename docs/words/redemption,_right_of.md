@@ -62,7 +62,7 @@ examples (DJD ii, 139 n. 2) and discussion in Horbury 2011).
 ## 2. Formal Characteristics
 
 
-<b>A.1</b>  <i>q<sup>e</sup>tullā</i> form (Joüon-Muraoka, <i>GBH</i>, §88Ck). It always occurs in
+<b>A.1</b>  <i>q<small><sup>e</sup></small>tullā</i> form (Joüon-Muraoka, <i>GBH</i>, §88Ck). It always occurs in
 the singular in the OT. This formation is found with a number of other
 legal terms (see further Horst 1961b: 153 n. 21).
 
@@ -119,8 +119,8 @@ sf. ‘you’ referring to Jeremiah (v. 6) (Jer 32:8), לְ + 2 m.sg. sf.
 * παραλαμβάνω, ‘to take over, inherit’: Jer 32:7 (39:7);
 * πρεσβύτερος, ‘’: Jer 32:8 (39:8).
 
-[^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup>3</sup>: <i>s.v.</i>
-[^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i>… claim on that which is currently not in one’s possession</i>’. LEH<sup>3</sup>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
+[^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>
+[^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i>… claim on that which is currently not in one’s possession</i>’. LEH<small><sup>3</sup></small>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
 <b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of כפר,
 גאל and פדה. In Classical Greek λύτρον denotes ‘price of release,
@@ -163,23 +163,24 @@ the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
 <b>c. Targum (Tg: O/N/PsJ/J/K)</b>
 
 * אחסנתא,
-‘’:[^4] Jer 32:7<sup>J</sup> ,8<sup>J</sup>; Ruth 4:6<sup>K</sup>;
+‘’:[^4] Jer 32:7<small><sup>J</sup></small> ,8<small><sup>J</sup></small>; Ruth 4:6<small><sup>K</sup></small>;
 * פורקן,
-‘’: Lev 25:24<sup>O,PsJ</sup>, 26<sup>O,PsJ</sup>, 29 [x2]<sup>O,PsJ</sup>, 31<sup>O,PsJ</sup>, 32<sup>O,PsJ</sup>, 48<sup>O,PsJ</sup>, 51<sup>O,PsJ</sup>, 52<sup>O,PsJ</sup>;
+‘’: Lev 25:24<small><sup>O,PsJ</sup></small>, 26<small><sup>O,PsJ</sup></small>, 29 [x2]<small><sup>O,PsJ</sup></small>, 31<small><sup>O,PsJ</sup></small>, 32<small><sup>O,PsJ</sup></small>, 48<small><sup>O,PsJ</sup></small>, 51<small><sup>O,PsJ</sup></small>, 52<small><sup>O,PsJ</sup></small>;
 * פרקן,
-‘’: Ruth 4:7<sup>K</sup>;
+‘’: Ruth 4:7<small><sup>K</sup></small>;
 * פרקון,
-‘’: Lev 25:24<sup>N</sup>, 26<sup>N</sup>, 29 [x2]<sup>N</sup>, 31<sup>N</sup>, 32<sup>N</sup>,
-48<sup>N</sup>, 51<sup>N</sup>, 52<sup>N</sup>;
+‘’: Lev 25:24<small><sup>N</sup></small>, 26<small><sup>N</sup></small>, 29 [x2]<small><sup>N</sup></small>, 31<small><sup>N</sup></small>, 32<small><sup>N</sup></small>,
+48<small><sup>N</sup></small>, 51<small><sup>N</sup></small>, 52<small><sup>N</sup></small>;
 * קריב,
 ‘’: Ezek 11:15.
 
+[^4]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
 <b>A.1</b>  Both the Peshitta and the Targums prefer the root ܦܪܩ (<i>prq</i>)/ פרק,
-‘to remove, release from, save’, rather than than שׁיזב (Tg<sup>J</sup>) or
+‘to remove, release from, save’, rather than than שׁיזב (Tg<small><sup>J</sup></small>) or
 ܦܨܝ/ܦܨܐ (<i>pṣʾ</i>/</i>pṣy</i>) (Pesh) (see entries on root גאל and ישׁע), with
-the exception of passages in Ruth (4:6 [Tg<sup>K</sup>, Pesh], 7 [Pesh]) and
-Jeremiah (32:7, 8 [Tg<sup>J</sup>, Pesh]), where the choices of ܝܪܬܘܬܐ
+the exception of passages in Ruth (4:6 [Tg<small><sup>K</sup></small>, Pesh], 7 [Pesh]) and
+Jeremiah (32:7, 8 [Tg<small><sup>J</sup></small>, Pesh]), where the choices of ܝܪܬܘܬܐ
 (<i>yrtwtʾ</i>), ܘܠܐ (<i>wlʾ</i>) and אחסנתא respectively emphasise the claim to
 inheritance or possession.
 
@@ -194,6 +195,8 @@ inheritance or possession.
 * <i>propinquitas</i>, ‘’: Jer 32:7;
 * <i>redemptio</i>, ‘’: Lev 25:24;
 * <i>redimo</i>, ‘’: Lev 25:31.
+
+[^5]: The English renderings of the Latin are based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
 
 No rendering: Lev 25:52.
 
@@ -393,6 +396,3 @@ Ezekiel, Chapters 1-24</i> (Hermeneia), Philadelphia: Fortress Press.
 
 ## Notes
 
-[4] The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
-
-[5] The English renderings of the Latin are based on Lewis & Short, <i>LD</i>, <i>s.v.</i>

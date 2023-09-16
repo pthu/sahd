@@ -277,7 +277,7 @@ Job 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;
 [^2]: The English rendering of the Syriac is based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
 
-<b>c. Targum (Tg):</b>  
+<b>c. Targum (Tg: O/J/K):</b>  
 
 * <span dir="rtl" lang="he">פרק</span>, ‘to redeem’:[^3]
  Exod 15:2; Deut 32:15; 2&nbsp;Sam 10:11; Isa 12:2<sup>2nd</sup>; Pss 35:3; 80:3; 118:14, 21;  
@@ -399,7 +399,7 @@ the feature noted in <a href="#2.A.3">2.&nbsp;Formal Characteristics A.3</a>.
 ## 6. Exegesis
 
 <a id="6.A.1"></a>
-<b>A.1</b>  <span dir="rtl" lang="he">יְשׁוּעָה</span>  
+<b>A.1</b>  <span dir="rtl" lang="he">יְשׁוּעָה</span> 
 is found only four times in biblical prose (Exod 14:13; 1&nbsp;Sam
 14:45; 2&nbsp;Sam 10:11; 2&nbsp;Chron 20:17), all in military contexts where ‘victory,
 success’ might be appropriate interpretations of the meaning. Most other

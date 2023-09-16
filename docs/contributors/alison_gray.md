@@ -4,4 +4,4 @@
 
 
 ### Contributions
-[גְּאֻלָּה – right of redemption](../words/right_of_redemption.md)<br>[גְּאוּלִים – redemption](../words/redemption.md)<br>[גָּאַל – to redeem, avenge, reclaim](../words/to_redeem,_avenge,_reclaim.md)<br>
+[גְּאֻלָּה – redemption, right of](../words/redemption,_right_of.md)<br>[גְּאוּלִים – redemption](../words/redemption.md)<br>[גָּאַל – to redeem](../words/to_redeem.md)<br>

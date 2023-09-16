@@ -5,7 +5,7 @@
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Alison Gray](../contributors/alison_gray.md)<br>
-First published: 2007-08-01<br>Last update: 2023-10-01 <br>Citation: Alison Gray, גְּאוּלִים – redemption, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2007<br>                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            (update: 2023 raymond_de_hoop)
+First published: 2007-08-01<br>Last update: 2023-10-01 <br>Citation: Alison Gray, גְּאוּלִים – redemption, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2007 (update: 2023)
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole see on this site the 
@@ -65,7 +65,7 @@ as throughout Isa 63:1-6, refers to God.
 
 * λύτρωσις, ‘redemption, ransom’:[^2] Isa 63:4.
 
-[^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i> … claim on that which is currently not in one’s possession</i>’. LEH<sup>3</sup>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
+[^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i> … claim on that which is currently not in one’s possession</i>’. LEH<small><sup>3</sup></small>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
 
 <b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of כפר,
@@ -96,10 +96,10 @@ slaves (Procksch and Büchsel 1967: 340).
 
 
 <b>A.1</b>  Both Pesh and Tg prefer the root ܦܪܩ (<i>prq</i>)/ פרק, rather than
-    שׁיזב (Tg<sup>J</sup>) or ܦܨܝ/ܦܨܐ (<i>pṣʾ</i>/<i>pṣy</i>) (Pesh), to render גאל (see
+    שׁיזב (Tg<small><sup>J</sup></small>) or ܦܨܝ/ܦܨܐ (<i>pṣʾ</i>/<i>pṣy</i>) (Pesh), to render גאל (see
     entry on root גאל; cf. ישׁע), with the exception of passages in Ruth
-    (4:6 [Tg<sup>K</sup>, Pesh], 7 [Pesh]) and Jeremiah (32:7 [Tg<sup>J</sup>, Pesh], 8
-    [Tg<sup>J</sup>]), where the choices of (<i>yrtwtʾ</i>) and אחסנתא respectively
+    (4:6 [Tg<small><sup>K</sup></small>, Pesh], 7 [Pesh]) and Jeremiah (32:7 [Tg<small><sup>J</sup></small>, Pesh], 8
+    [Tg<small><sup>J</sup></small>]), where the choices of (<i>yrtwtʾ</i>) and אחסנתא respectively
     emphasise the claim to inheritance.
 
 
