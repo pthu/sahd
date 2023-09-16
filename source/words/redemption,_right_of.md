@@ -1,7 +1,7 @@
 ---
 word_english: redemption,_right_of  
 word_hebrew:  גְּאֻלָּה  
-title: redemption (price of –/ right of–)
+title: redemption (price of –/ right of –)
 semantic_fields: deliverance  
 contributors: alison_gray  
 first_published: 2007-08-01  
@@ -70,19 +70,16 @@ legal terms (see further Horst 1961b: 153 n. 21).
 
 ## 3. Syntagmatics
 
-
 <b>A.1</b>  גְּאֻלָּה is several times the subject of verb היה (Lev 25:29 [2x],
 31, 32, 48).
-
 
 <b>A.2</b>  גְּאֻלָּה is the object of verbנתן ‘to give, grant’ (Lev 25:24), מצא
 (Lev 25:26, + כְדֵי), שוב hiph. (Lev 25:51, 52), גאל (Ruth 4:6), חוג
 (4Q504 5ii:4; 4Q506 124:4).
 
-
 <b>A.3</b>  גְּאֻלָּה is nomen regens of עוֹלם ‘the right of redemption for
 ever’ (Lev 25:32); and it occurs with the suffixes ‘his, its’ referring
-to a piece of land (Lev 25:26), a house (Lev 25:29 [x2]) or an enslaved
+to a piece of land (Lev 25:26), a house (Lev 25:29 [2x]) or an enslaved
 person (Lev 25:51, 52), ‘your’ referring to Ezekiel (Ezek 11:15), ‘my’
 referring to the next of kin (Ruth 4:6) and ‘our’ referring to the
 speakers of the ‘The Words of the Luminaries’ (members of the Qumran
@@ -165,16 +162,16 @@ the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
 <b>c. Targum (Tg: O/N/PsJ/J/K)</b>
 
 * אחסנתא,
-‘’:[^4] Jer 32:7<small><sup>J</sup></small> ,8<small><sup>J</sup></small>; Ruth 4:6<small><sup>K</sup></small>;
+‘property, inheritance’:[^4] Jer 32:7<small><sup>J</sup></small> ,8<small><sup>J</sup></small>; Ruth 4:6<small><sup>K</sup></small>;
 * פורקן,
-‘’: Lev 25:24<small><sup>O,PsJ</sup></small>, 26<small><sup>O,PsJ</sup></small>, 29 [x2]<small><sup>O,PsJ</sup></small>, 31<small><sup>O,PsJ</sup></small>, 32<small><sup>O,PsJ</sup></small>, 48<small><sup>O,PsJ</sup></small>, 51<small><sup>O,PsJ</sup></small>, 52<small><sup>O,PsJ</sup></small>;
+‘redemption (money)’: Lev 25:24<small><sup>O,PsJ</sup></small>, 26<small><sup>O,PsJ</sup></small>, 29 (2x)<small><sup>O,PsJ</sup></small>, 31<small><sup>O,PsJ</sup></small>, 32<small><sup>O,PsJ</sup></small>, 48<small><sup>O,PsJ</sup></small>, 51<small><sup>O,PsJ</sup></small>, 52<small><sup>O,PsJ</sup></small>;
 * פרקן,
-‘’: Ruth 4:7<small><sup>K</sup></small>;
+‘redemption’: Ruth 4:7<small><sup>K</sup></small>;
 * פרקון,
-‘’: Lev 25:24<small><sup>N</sup></small>, 26<small><sup>N</sup></small>, 29 [x2]<small><sup>N</sup></small>, 31<small><sup>N</sup></small>, 32<small><sup>N</sup></small>,
+‘redemption (money)’: Lev 25:24<small><sup>N</sup></small>, 26<small><sup>N</sup></small>, 29 (2x)<small><sup>N</sup></small>, 31<small><sup>N</sup></small>, 32<small><sup>N</sup></small>,
 48<small><sup>N</sup></small>, 51<small><sup>N</sup></small>, 52<small><sup>N</sup></small>;
 * קריב,
-‘’: Ezek 11:15.
+‘near, related’: Ezek 11:15.
 
 [^4]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 

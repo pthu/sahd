@@ -90,10 +90,10 @@ slaves (Procksch and Büchsel 1967: 340).
 
 <b>c. Targum (Tg: J):</b>
 
-* פורקן עמי,
-‘tekst’:[^4] Isa 63:4.
+* פורקן (עמי),
+‘redemption (of my people)’:[^4] Isa 63:4.
 
-[^4]: The English rendering of the Aramaic is based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
+[^4]: Jastrow, <i>DTT</i>, 1148; Sokoloff, <i>DJPA</i>, 427.
 
 
 
