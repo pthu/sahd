@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=גֹּאַל&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># גָּאַל – to_redeem,_avenge,_reclaim
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=גֹּאַל&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># גָּאַל – to redeem, avenge, reclaim
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Alison Gray](../contributors/alison_gray.md)<br>
-First published: 2007-08-01<br>Last update: 2023-10-01 <br>Citation: Alison Gray, גָּאַל – to_redeem,_avenge,_reclaim, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2007 (update: 2023)
+First published: 2007-08-01<br>Last update: 2023-10-01 <br>Citation: Alison Gray, גָּאַל – to redeem, avenge, reclaim, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2007 (update: 2023)
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole see on this site the 
@@ -313,7 +313,7 @@ Qal:
 *  ἐκλύω με, ‘to free me’: Job 19:25;
 *  ἐξαιρέω, ‘to take (out)’: Jer 31:11, Isa 60:16;
 *  λυτρωτής, ‘redeemer’: Isa 47:4 <small><sup>σʹ</sup></small>; Ps 19:15; 78:35;
-*  λυτρόω, ‘to redeem’: Exod 6:6; 15:13; Lev 25:25<small><sup>2nd</sup></small>, 33, 38, 48, 49 (2x); 27:13 (2=1), 15, 19 (2=1), 20, 31 (2=1); Isa 35:9; 41:14, 43:1, 14; 44:22, 23, 24; 47:4<small><sup>θʹ</sup></small>; 49:7<small><sup>σʹ</sup></small>, 26<small><sup>σʹ</sup></small>; 62:12; 63:9; Jer 50:34; Hos 13:14; Mic 4:10; Ps 69:19; 72:14; Ps 74:2<small><sup>LXX,αʹσʹ</sup></small>; 77:16; 103:4; 106:10; 107:2 (2x); 119:154; Prov 23:11; Lam 3:58;
+*  λυτρόω middle, ‘to release, redeem’: Exod 6:6; 15:13; Lev 25:25<small><sup>2nd</sup></small>, 33, 38, 48, 49 (2x); 27:13 (2=1), 15, 19 (2=1), 20, 31 (2=1); Isa 35:9; 41:14, 43:1, 14; 44:22, 23, 24; 47:4<small><sup>θʹ</sup></small>; 49:7<small><sup>σʹ</sup></small>, 26<small><sup>σʹ</sup></small>; 62:12; 63:9; Jer 50:34; Hos 13:14; Mic 4:10; Ps 69:19; 72:14; Ps 74:2<small><sup>LXX,αʹσʹ</sup></small>; 77:16; 103:4; 106:10; 107:2 (2x); 119:154; Prov 23:11; Lam 3:58;
 *  μολύνω, ‘to stain, soil’: Job 3:5<small><sup>αʹ</sup></small>;
 *  ῥύομαι, ‘to rescue’: Gen 48:16; Isa Isa 35:9<small><sup>θʹ</sup></small>; 44:6; 47:4; 48:17, 20; 49:7; 51:10 <small><sup>LXX,θʹ</sup></small>; 52:9; 54:5, 8; 59:20; 63:16;
 *  σώζω, ‘to save, keep alive’: Sir 51:8;
@@ -323,8 +323,8 @@ Qal:
 
 Niphal:
 
-* λυτρόω middle, ‘’: Lev 25:49, 27:20, 27, 28;
-* λυτρόω passive, ‘’: Lev 25:30, 54; 27:33; Isa 52:3.
+* λυτρόω middle, ‘to release, redeem’: Lev 25:49, 27:20, 27, 28;
+* λυτρόω passive, ‘to be ransomed, redeemed’: Lev 25:30, 54; 27:33; Isa 52:3.
 
 
 <b>A.1</b> λυτρόω (‘to release on receipt of ransom’, ‘redeem’, LSJ, 1067a) is
@@ -350,7 +350,7 @@ contexts.
 is not expressed in Hebrew, between the present part. ὁ ῥυόμενος (Gen
 48:16; 59:20), with one example anticipating future deliverance, and the
 aorist ὁ ῥυσάμενος (Isa 44:6; 47:4; 48:17; 49:7; 54:5, 8), which seems
-to be a deliberate reference to past deliverance (i.e. the Exodus).
+to be a deliberate reference to past deliverance (i.e. the exodus).
 
 
 <b>A.5</b> The Minor Versions (namely αʹ, σʹ, and θʹ) show a tendency (most
@@ -443,28 +443,26 @@ the right of the kinsman to claim.
 
 Qal:
 
-* גאיל,
-‘’:[^6] Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12; Josh 20:3,5,9; 2 Sam 14:11;
+* גא(י)ל,
+‘avenger’:[^6] Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12; Josh 20:3,5,9; 2 Sam 14:11;
 * פרוק
 (subst.), ‘redeemer’: Lev 25:26<small><sup>N</sup></small>; Num 5:8<small><sup>N</sup></small>;
 * פרק,
 ‘to redeem’: Gen 48:16<small><sup>O,N,PsJ</sup></small>; Exod 6:6<small><sup>O,N,PsJ</sup></small>; 15:13<small><sup>O,N,PsJ,Frg</sup></small>;[^7] Lev 25:25<small><sup>2nd: O,N,PsJ</sup></small>,
-    26<small><sup>N,PsJ</sup></small>, 30, 33<small><sup>O,N,PsJ</sup></small>, 48<small><sup>O,N,PsJ</sup></small>; 27:13<small><sup>O,N,PsJ</sup></small>,
-    15<small><sup>O,N,PsJ</sup></small>, 19<small><sup>O,N,PsJ,Frg</sup></small>, 31<small><sup>O,N,PsJ,Frg</sup></small>; Isa 35:9; 43:1;
-    44:22,23; 48:20; 52:9; 62:12; Mic 4:10; Pss 19:15; 69:19; 72:14;
-    74:2; 77:16; 78:35; 103:4; 106:10; 107:2(2x); 119:154 ; Ruth 2:20;
-    3:9, 12(2x), 13(4x); 4:1(2x), 3, 4(5x), 6(4x), 8(2x), 14; Lam 3:58;
+26<small><sup>N,PsJ</sup></small>, 30, 33<small><sup>O,N,PsJ</sup></small>, 48<small><sup>O,N,PsJ</sup></small>; 27:13<small><sup>O,N,PsJ</sup></small>,
+15<small><sup>O,N,PsJ</sup></small>, 19<small><sup>O,N,PsJ,Frg</sup></small>, 31<small><sup>O,N,PsJ,Frg</sup></small>; Isa 35:9; 43:1;
+44:22,23; 48:20; 52:9; 62:12; Mic 4:10; Pss 19:15; 69:19; 72:14; 74:2; 77:16; 78:35; 103:4; 106:10; 107:2 (2x); 119:154 ; Ruth 2:20; 3:9, 12 (2x), 13 (4x); 4:1 (2x), 3, 4 (5x), 6 (4x), 8 (2x), 14; Lam 3:58;
 * פר(י)ק
-(subst.), ‘’: Lev 25:25<small><sup>1st: O,PsJ</sup></small>, 26; Num 5:8<small><sup>O,PsJ</sup></small>; Isa 41:14; 43:14; 44:6,24; 47:4; 48:17; 49:8; 54:5,8; 59:20; 63:16; Jer 50:34;
+(subst.), ‘redeemer’: Lev 25:25<small><sup>1st: O,PsJ</sup></small>, 26; Num 5:8<small><sup>O,PsJ</sup></small>; Isa 41:14; 43:14; 44:6,24; 47:4; 48:17; 49:8; 54:5,8; 59:20; 63:16; Jer 50:34;
 * קריב
-(adj.), ‘’: Lev 25:25<small><sup>1st: N</sup></small>; 1 Kgs 16:11;
+‘near, related’: Lev 25:25<small><sup>1st: N</sup></small>; 1 Kgs 16:11;
 * שׁיזב
 Shaph., ‘to save, rescue’: Isa 49:26; 51:10; 60:16; 63:9; Jer 31:11; Hos 13:14;
 * תב(ו)ע,
-‘’: Num 35:12<small><sup>N,PsJ</sup></small>, 19<small><sup>N,PsJ</sup></small>, 21<small><sup>N,PsJ</sup></small>, 24<small><sup>N,PsJ</sup></small>, 25<small><sup>N,PsJ</sup></small>, 27<small><sup>N,PsJ</sup></small>; Deut 19:6<small><sup>N,PsJ</sup></small>, 12<small><sup>N,PsJ</sup></small>.
+‘claimant, avenger’: Num 35:12<small><sup>N,PsJ</sup></small>, 19<small><sup>N,PsJ</sup></small>, 21<small><sup>N,PsJ</sup></small>, 24<small><sup>N,PsJ</sup></small>, 25<small><sup>N,PsJ</sup></small>, 27<small><sup>N,PsJ</sup></small>; Deut 19:6<small><sup>N,PsJ</sup></small>, 12<small><sup>N,PsJ</sup></small>.
 
 [^6]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
-[^7]: Tg<small><sup>Frg</sup></small> in Exod 15:13 acc. to mss Paris Bibliotheque nationale Hebr. 110, and Vatican Ebr. 440, Folios 198-227 ; in the other texts only acc. to the latter ms.
+[^7]: Tg<small><sup>Frg</sup></small> is in Exod 15:13 acc. to mss Paris Bibliotheque nationale Hebr. 110, and Vatican Ebr. 440, Folios 198-227; in the other texts only acc. to the latter ms.
 
 Niphal:
 
@@ -537,7 +535,7 @@ the redemption of first-born.
 proximity to גאל, namely פדה ‘to set free’ (Ps 69:19), ישע (hiph.) ‘to
 defend, help’ (Ps 106:10, Isa 63:9), נצל (hiph.) ‘to deliver’ (Exod 6:6,
 Mic 4:10, Sir 51:8, 11Q5 18:17).  
-<b>c)</b> In the context of the Exodus rescue יצא (hiph.) ‘to bring out’ (Exod
+<b>c)</b> In the context of the exodus rescue יצא (hiph.) ‘to bring out’ (Exod
 6:6), נחה ‘to lead’ and נהל ‘to guide’ (Exod 15:13) also occur alongside
 גאל.  
 <b>d)</b> In socio-legal contexts,ריב ‘to plead one’s cause’ (Ps 119:154, Lam
@@ -930,8 +928,7 @@ Robert L. Hubbard, ‘גאל’, <i>NIDOTTE</i>, vol. 1: 789-794.
 <div style="padding-left: 22px; text-indent: -22px;">
 Jepsen 1957
 <br>
-Alfred Jepsen, ‘Die Begriffe des „Erlösens“ im Alten Testament’, in: P.
-Althaus et al. (eds.), <i>Solange es »Heute« heißt: Festgabe für Rudolph
+Alfred Jepsen, ‘Die Begriffe des “Erlösens” im Alten Testament’, in: P. Althaus et al. (eds.), <i>Solange es »Heute« heißt: Festgabe für Rudolph
 Hermann</i>, Berlin: Evangelische Verlagsanstalt, 153-63.
 </div>
 
