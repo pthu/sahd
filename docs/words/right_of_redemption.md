@@ -62,14 +62,14 @@ examples (DJD ii, 139 n. 2) and discussion in Horbury 2011).
 ## 2. Formal Characteristics
 
 
-<b>A.1</b>  <i>q^(e)tullā</i> form (Joüon-Muraoka, <i>GBH</i>, §88Ck). It always occurs in
+<b>A.1</b>  <i>q<sup>e</sup>tullā</i> form (Joüon-Muraoka, <i>GBH</i>, §88Ck). It always occurs in
 the singular in the OT. This formation is found with a number of other
 legal terms (see further Horst 1961b: 153 n. 21).
 
 ## 3. Syntagmatics
 
 
-<b>A.1</b>  גְּאֻלָּה is several times the subject of verb היה (Lev 25:29[2x],
+<b>A.1</b>  גְּאֻלָּה is several times the subject of verb היה (Lev 25:29 [2x],
 31, 32, 48).
 
 
@@ -80,7 +80,7 @@ legal terms (see further Horst 1961b: 153 n. 21).
 
 <b>A.3</b>  גְּאֻלָּה is nomen regens of עוֹלם ‘the right of redemption for
 ever’ (Lev 25:32); and it occurs with the suffixes ‘his, its’ referring
-to a piece of land (Lev 25:26), a house (Lev 25:29[x2]) or an enslaved
+to a piece of land (Lev 25:26), a house (Lev 25:29 [x2]) or an enslaved
 person (Lev 25:51, 52), ‘your’ referring to Ezekiel (Ezek 11:15), ‘my’
 referring to the next of kin (Ruth 4:6) and ‘our’ referring to the
 speakers of the ‘The Words of the Luminaries’ (members of the Qumran
@@ -109,22 +109,18 @@ sf. ‘you’ referring to Jeremiah (v. 6) (Jer 32:8), לְ + 2 m.sg. sf.
 
 ## 4. Ancient Versions:
 
-<i>a.</i> Septuagint (LXX):
+<b>a. Septuagint (LXX):</b>
 
--   ἀγχιστεία, ‘claim as nearest of kin’: [1] Ruth 4:6, 7;
+* ἀγχιστεία, ‘claim as nearest of kin’:[^1] Ruth 4:6, 7;
+* [αἰχμαλωσία, ‘captivity’: Ezek 11:15];
+* λύτρον, ‘sum payable as ransom’: Lev 25:24, 26, 51, 52;
+* λύτρωσις, ‘redemption, ransom’:[^2] Lev 25:29 (2x), 48;
+* λυτρωτός, ‘redeemable’: Lev 25:31, 32;
+* παραλαμβάνω, ‘to take over, inherit’: Jer 32:7 (39:7);
+* πρεσβύτερος, ‘’: Jer 32:8 (39:8).
 
--   [αἰχμαλωσία, ‘captivity’: Ezek 11:15];
-
--   λύτρον, ‘sum payable as ransom’: Lev 25:24, 26, 51, 52;
-
--   λύτρωσις, ‘redemption, ransom’:[2] Lev 25:29[x2], 48;
-
--   λυτρωτός, ‘redeemable’: Lev 25:31, 32;
-
--   παραλαμβάνω, ‘to take over, inherit’: Jer 32:7 [39:7];
-
--   πρεσβύτερος, ‘’: Jer 32:8 [39:8].
-
+[^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup>3</sup>: <i>s.v.</i>
+[^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i>… claim on that which is currently not in one’s possession</i>’. LEH<sup>3</sup>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
 <b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of כפר,
 גאל and פדה. In Classical Greek λύτρον denotes ‘price of release,
@@ -149,58 +145,55 @@ reflects the kinship aspect underlying גְּאֻלָּה (see entry onגאל ).
 <b>A.4</b>  παραλαμβάνω in Jer 32:7 is a generalising rendering which ignores
 the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
 
-<i>b.</i> Peshitta (Pesh):
+<b>b. Peshitta (Pesh):</b>
 
--   ܘܠܐ\ܘܠܝ (<i>wlʾ/ wly</i>), ‘(it is) fitting’:[3] Jer 32:8;
+-   ܘܠܐ\ܘܠܝ
+(<i>wlʾ/ wly</i>), ‘(it is) fitting’:[^3] Jer 32:8;
 
 -   ܝܪܬܘܬܐ (<i>yrtwtʾ</i>), ‘inheritance, heirship’: Jer 32:7; Ruth 4:6, 7;
 
--   ܦܘܪܩܢܐ (<i>pwrqnʾ</i>), ‘saving, salvation, redemption’: Lev 25:24, 26, 29 [2x], 31, 32, 48, 51, 52; Isa 63:4;
+-   ܦܘܪܩܢܐ (<i>pwrqnʾ</i>), ‘saving, salvation, redemption’: Lev 25:24, 26, 29 (2x), 31, 32, 48, 51, 52; Isa 63:4;
 
--   [ܫܒܝܬܐ (<i>šbytʾ</i>), ‘captivity’: Ezek 11:15].
+-   [ܫܒܝܬܐ
+(<i>šbytʾ</i>), ‘captivity’: Ezek 11:15].
 
-<i>c.</i> Targum (Tg: O/N/PsJ/J/K)
+[^3]: The English renderings of the Syriac are based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
--   אחסנתא, ‘’:[4] Jer 32:7^(J) ,8^(J); Ruth 4:6^(K);
 
--   פורקן, ‘’: Lev 25:24^(O,PsJ), 26^(O,PsJ), 29[x2]^(O,PsJ),
-    31^(O,PsJ), 32^(O,PsJ), 48^(O,PsJ), 51^(O,PsJ), 52^(O,PsJ);
+<b>c. Targum (Tg: O/N/PsJ/J/K)</b>
 
--   פרקן, ‘’: Ruth 4:7^(K);
-
--   פרקון, ‘’: Lev 25:24^(N), 26^(N), 29[x2]^(N), 31^(N), 32^(N),
-    48^(N), 51^(N), 52^(N);
-
--   קריב, ‘’: Ezek 11:15.
+* אחסנתא,
+‘’:[^4] Jer 32:7<sup>J</sup> ,8<sup>J</sup>; Ruth 4:6<sup>K</sup>;
+* פורקן,
+‘’: Lev 25:24<sup>O,PsJ</sup>, 26<sup>O,PsJ</sup>, 29 [x2]<sup>O,PsJ</sup>, 31<sup>O,PsJ</sup>, 32<sup>O,PsJ</sup>, 48<sup>O,PsJ</sup>, 51<sup>O,PsJ</sup>, 52<sup>O,PsJ</sup>;
+* פרקן,
+‘’: Ruth 4:7<sup>K</sup>;
+* פרקון,
+‘’: Lev 25:24<sup>N</sup>, 26<sup>N</sup>, 29 [x2]<sup>N</sup>, 31<sup>N</sup>, 32<sup>N</sup>,
+48<sup>N</sup>, 51<sup>N</sup>, 52<sup>N</sup>;
+* קריב,
+‘’: Ezek 11:15.
 
 
 <b>A.1</b>  Both the Peshitta and the Targums prefer the root ܦܪܩ (<i>prq</i>)/ פרק,
-‘to remove, release from, save’, rather than than שׁיזב (Tg^(J)) or
+‘to remove, release from, save’, rather than than שׁיזב (Tg<sup>J</sup>) or
 ܦܨܝ/ܦܨܐ (<i>pṣʾ</i>/</i>pṣy</i>) (Pesh) (see entries on root גאל and ישׁע), with
-the exception of passages in Ruth (4:6 [Tg^(K), Pesh], 7 [Pesh]) and
-Jeremiah (32:7, 8 [Tg^(J), Pesh]), where the choices of ܝܪܬܘܬܐ
+the exception of passages in Ruth (4:6 [Tg<sup>K</sup>, Pesh], 7 [Pesh]) and
+Jeremiah (32:7, 8 [Tg<sup>J</sup>, Pesh]), where the choices of ܝܪܬܘܬܐ
 (<i>yrtwtʾ</i>), ܘܠܐ (<i>wlʾ</i>) and אחסנתא respectively emphasise the claim to
 inheritance or possession.
 
-<i>d.</i> Vulgate (Vg):
+<b>d. Vulgate (Vg):</b>
 
--   <i>licentia redimendi</i>, ‘’:[5] Lev 25:29;
-
--   <i>possum redimi</i>, ‘’: Lev 25:32, 48;
-
--   <i>pretium</i>, ‘’: Lev 25:51;
-
--   <i>pretium ad redimendum</i>, ‘’: Lev 25:26;
-
--   <i>privilegium</i>, ‘’: Ruth 4:6;
-
--   <i>propinquus</i>, ‘’: Ruth 4:7; Jer 32:8; Ezek 11:15;
-
--   <i>propinquitas</i>, ‘’: Jer 32:7;
-
--   <i>redemptio</i>, ‘’: Lev 25:24;
-
--   <i>redimo</i>, ‘’: Lev 25:31.
+* <i>licentia redimendi</i>, ‘’:[^5] Lev 25:29;
+* <i>possum redimi</i>, ‘’: Lev 25:32, 48;
+* <i>pretium</i>, ‘’: Lev 25:51;
+* <i>pretium ad redimendum</i>, ‘’: Lev 25:26;
+* <i>privilegium</i>, ‘’: Ruth 4:6;
+* <i>propinquus</i>, ‘’: Ruth 4:7; Jer 32:8; Ezek 11:15;
+* <i>propinquitas</i>, ‘’: Jer 32:7;
+* <i>redemptio</i>, ‘’: Lev 25:24;
+* <i>redimo</i>, ‘’: Lev 25:31.
 
 No rendering: Lev 25:52.
 
@@ -399,14 +392,6 @@ Ezekiel, Chapters 1-24</i> (Hermeneia), Philadelphia: Fortress Press.
 
 
 ## Notes
-
-[1] The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>;
-LEH^(3): <i>s.v.</i>
-
-[2] <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i>… claim on that which is currently not in one’s possession</i>’. LEH^(3),
-378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
-
-[3] The English renderings of the Syriac are based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
 [4] The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 

@@ -46,6 +46,9 @@ Qere/Ketiv: none.
 §136f-i (on the use of the plural to represent intensity, abstraction or
 action).[^1] Cf. also פְּדוּיִם.
 
+[^1]: Cf. BL, 517y and Köhler 1921: 316.
+
+
 ## 3. Syntagmatics
 
 
@@ -58,9 +61,11 @@ as throughout Isa 63:1-6, refers to God.
 
 ## 4. Ancient Versions:
 
-<i> A.</i> LXX
+<b> a. Septuagint (LXX):</b>
 
 * λύτρωσις, ‘redemption, ransom’:[^2] Isa 63:4.
+
+[^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i> … claim on that which is currently not in one’s possession</i>’. LEH<sup>3</sup>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
 
 <b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of כפר,
@@ -74,22 +79,27 @@ slaves (Procksch and Büchsel 1967: 340).
 λύτρον being used when the emphasis is on a particular sum of money and
 λύτρωσις when the action or right of redemption is being discussed.
 
-<i>b.</i> Peshitta (Pesh):
+<b>b. Peshitta (Pesh):</b>
 
 * ܦܘܪܩܢܐ
 (<i>pwrqnʾ</i>), ‘saving, salvation, redemption’:[^3] Isa 63:4.
 
-<i>c.</i> Targum (Tg: J):
+[^3]: Sokoloff, <i>SLB</i>, 1172 <i>s.v.</i>
+
+<b>c. Targum (Tg: J):</b>
 
 * פורקן עמי,
-‘’:[4^] Isa 63:4.
+‘tekst’:[^4] Isa 63:4.
+
+[^4]: The English rendering of the Aramaic is based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
+
 
 
 <b>A.1</b>  Both Pesh and Tg prefer the root ܦܪܩ (<i>prq</i>)/ פרק, rather than
-    שׁיזב (Tg^(J)) or ܦܨܝ/ܦܨܐ (<i>pṣʾ</i>/<i>pṣy</i>) (Pesh), to render גאל (see
+    שׁיזב (Tg<sup>J</sup>) or ܦܨܝ/ܦܨܐ (<i>pṣʾ</i>/<i>pṣy</i>) (Pesh), to render גאל (see
     entry on root גאל; cf. ישׁע), with the exception of passages in Ruth
-    (4:6 [Tg^(K), Pesh], 7 [Pesh]) and Jeremiah (32:7 [Tg^(J), Pesh], 8
-    [Tg^(J)]), where the choices of (<i>yrtwtʾ</i>) and אחסנתא respectively
+    (4:6 [Tg<sup>K</sup>, Pesh], 7 [Pesh]) and Jeremiah (32:7 [Tg<sup>J</sup>, Pesh], 8
+    [Tg<sup>J</sup>]), where the choices of (<i>yrtwtʾ</i>) and אחסנתא respectively
     emphasise the claim to inheritance.
 
 
@@ -97,9 +107,11 @@ slaves (Procksch and Büchsel 1967: 340).
     involved.
 
 
-<i>d.</i>  Vulgate (Vg):
+<b>d. Vulgate (Vg):</b>
 
 * <i>redemptio</i>, ‘’:[^5] Isa 63:4.
+
+[^5]: The English rendering of the Latin is based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
 
 ## 5. Lexical/Semantic Fields
 
@@ -235,17 +247,6 @@ Roger N. Whybray, <i>Isaiah 40-66</i> (NCB), London: Oliphants.
 
 ## Notes
 
-[1] Cf. BL 517y and Köhler 1921: 316.
 
-[2] <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption”
-<i> … claim on that which is currently not in one’s possession</i>’. LEH[^3],
-378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
-[3] Sokoloff, <i>SLB</i>, 1172 <i>s.v.</i>
 
-[4] The English rendering of the Aramaic is based on Jastrow, <i>DTT</i>,
-<i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff,
-<i> DJPA</i>, <i>s.v.</i>
-
-[5] The English rendering of the Latin is based on Lewis & Short, <i>LD</i>,
-<i>s.v.</i>

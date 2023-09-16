@@ -18,7 +18,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 Grammatical Type: vb qal and niph.  
 Occurrences: 103x[^1] HB (qal: 28/31/36; niph.: 7/1/0); 1(2?)x Sir; 16x Qum; 1(?)x inscr. (Total: 120 [121/122?]).
 
-[^1]: <i>DCH</i> ii: 293 mentions 104x for the HB, and 96x for the qal, but <i>DCH</i>[^2] ii: 315 gives the number of 103x, and 95x for the qal, which is in line with the findings in <i>Accordance</i> and <i>SHEBANQ</i>.
+[^1]: <i>DCH</i> ii: 293 mentions 104x for the HB, and 96x for the qal, but <i>DCH</i><sup>2</sup> ii: 315 gives the number of 103x, and 95x for the qal, which is in line with the findings in <i>Accordance</i> and <i>SHEBANQ</i>.
 
 * Torah – qal: Gen 48:16; Exod 6:6; 15:13; Lev 25:25 (2x), 26, 33, 48, 49 (2x); 27:13 (2x), 15, 19 (2x), 20, 31 (2x); Num 5:8; 35:12, 19, 21, 24, 25, 27 (2x); Deut 19:6, 12.
 * Torah – niph.: Lev 25:30, 49, 54; 27:20, 27, 28, 33.
@@ -292,34 +292,34 @@ understood from l:5.
 
 ## 4. Ancient Versions
 
-<i>a.</i> Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ):[^3]
+<b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ):</b>[^3]
 
 [^3]: The three versions Aquila (αʹ), Symmachus (σʹ), and Theodotion (θʹ) are given according to the most recent authorities, even where there may be suspicion about the attribution. Their testimony is indicated by their sigla (if applicable including a reference to LXX). In all other cases the textual references are to the LXX.
 
 
-Qal:
+Qal:  
 
-*  ἀγχιστεύς, ‘nearest of kin’:[^4] 1 Kgs 16:11; Isa 41:14 ^(θʹ); Job 19:25^(θʹ); Prov 23:11^(θʹ); Ruth 3:9, 12(2x), 4:3, 6, 8, 14; Prov 23:11^(σʹ);
+*  ἀγχιστεύς, ‘nearest of kin’:[^4] 1 Kgs 16:11; Isa 41:14 <sup>θʹ</sup>; Job 19:25<sup>θʹ</sup>; Prov 23:11<sup>θʹ</sup>; Ruth 3:9, 12 (2x), 4:3, 6, 8, 14; Prov 23:11<sup>σʹ</sup>;
 *  ἀγχιστεύς + τοῦ αἷματος, ‘entitled to avenge a kinsman’s death’: 2 Sam 14:11;
-*  ἀγχιστευτής, ‘nearest of kin’: Isa 41:14^(αʹ); 54:5^(αʹ), 8^(αʹ); 60:16^(αʹ); 63:16(?)^(αʹ); Ps 78:35^(αʹ); Prov 23:11^(αʹ); Ruth 4:1;
-*  ἀγχιστεύω(ν), ‘to be near in blood-relationship, to act as nearest of kin’: Gen 48:16^(αʹ); Lev 25:25^(1st), 26; Num 5:8; 35:12, 19, 21, 24, 25, 27 (2x); Deut 19:6, 12; Josh 20:3, 5, 9; Isa 35:9^(αʹσʹ); 47:4^(αʹ); 49:7^(αʹθʹ); 52:3^(αʹ); 59:20^(αʹσʹ), 62:12^(αʹ); 63:16^(αʹ)(?); Jer 31:11^(αʹ); Ps 19:15^(αʹ); 72:14^(αʹ); 103:4^(αʹ); 107:2^(αʹ); 119:154^(αʹ); Job 3:5^(θʹ); Ruth 2:20; 3:13(4x); 4:4(5x), 6(3x);
+*  ἀγχιστευτής, ‘nearest of kin’: Isa 41:14<sup>αʹ</sup>; 54:5<sup>αʹ</sup>, 8<sup>αʹ</sup>; 60:16<sup>αʹ</sup>; 63:16(?)<sup>αʹ</sup>; Ps 78:35<sup>αʹ</sup>; Prov 23:11<sup>αʹ</sup>; Ruth 4:1;
+*  ἀγχιστεύω(ν), ‘to be near in blood-relationship, to act as nearest of kin’: Gen 48:16<sup>αʹ</sup>; Lev 25:25<sup>1st</sup>, 26; Num 5:8; 35:12, 19, 21, 24, 25, 27 (2x); Deut 19:6, 12; Josh 20:3, 5, 9; Isa 35:9<sup>αʹσʹ</sup>; 47:4<sup>αʹ</sup>; 49:7<sup>αʹθʹ</sup>; 52:3<sup>αʹ</sup>; 59:20<sup>αʹσʹ</sup>, 62:12<sup>αʹ</sup>; 63:16<sup>αʹ</sup>(?); Jer 31:11<sup>αʹ</sup>; Ps 19:15<sup>αʹ</sup>; 72:14<sup>αʹ</sup>; 103:4<sup>αʹ</sup>; 107:2<sup>αʹ</sup>; 119:154<sup>αʹ</sup>; Job 3:5<sup>θʹ</sup>; Ruth 2:20; 3:13(4x); 4:4(5x), 6(3x);
 *  ἀγχιστεύω(ν) + τὸ αἷμα / τοῦ αἷματος, ‘the blood-relation entitled to avenge his kinsman’s death’: Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12; Josh 20:3; 2 Sam 14:11; 
 *  A αʹ: ἀγχιστεύω (cf. Lev 25:33 [<i>quicunque affinis est</i>]; 27:15 [<i>affinem fecerit</i>]; 27:33 [<i>affinis non efficietur</i>])
 *  S: ἀγχιστεύω(ν) cf. Lev 25:33 [<i>quicunque affinis est</i>])
 *  ἀαντιλαμβάνομαι, ‘to grasp, help’: Isa 49:26;
-*  ἀντιποιέομαι, ‘to lay claim to’: Job 3:5^(σʹ);
-*  ἐγγίζω, ‘to draw near, be close by’: Jer 50:34^(αʹσʹ); Lam 3:58^(αʹ);
+*  ἀντιποιέομαι, ‘to lay claim to’: Job 3:5<sup>σʹ</sup>;
+*  ἐγγίζω, ‘to draw near, be close by’: Jer 50:34<sup>αʹσʹ</sup>; Lam 3:58<sup>αʹ</sup>;
 *  ἐκλαμβάνω, ‘to welcome’: Job 3:5;
 *  ἐκλύω με, ‘to free me’: Job 19:25;
 *  ἐξαιρέω, ‘to take (out)’: Jer 31:11, Isa 60:16;
-*  λυτρωτής, ‘redeemer’: Isa 47:4 ^(σʹ); Ps 19:15; 78:35;
-*  λυτρόω, ‘to redeem’: Exod 6:6; 15:13; Lev 25:25^(2nd), 33, 38, 48, 49(2x); 27:13 (2=1), 15, 19 (2=1), 20, 31 (2=1); Isa 35:9; 41:14, 43:1, 14; 44:22, 23, 24; 47:4^(θʹ); 49:7^(σʹ), 26^(σʹ); 62:12; 63:9; Jer 50:34; Hos 13:14; Mic 4:10; Ps 69:19; 72:14; Ps 74:2^(LXX,αʹσʹ); 77:16; 103:4; 106:10; 107:2 (2x); 119:154; Prov 23:11; Lam 3:58;
-*  μολύνω, ‘to stain, soil’: Job 3:5^(αʹ);
-*  ῥύομαι, ‘to rescue’: Gen 48:16; Isa Isa 35:9^(θʹ); 44:6; 47:4; 48:17, 20; 49:7; 51:10 ^(LXX,θʹ); 52:9; 54:5, 8; 59:20; 63:16;
+*  λυτρωτής, ‘redeemer’: Isa 47:4 <sup>σʹ</sup>; Ps 19:15; 78:35;
+*  λυτρόω, ‘to redeem’: Exod 6:6; 15:13; Lev 25:25<sup>2nd</sup>, 33, 38, 48, 49 (2x); 27:13 (2=1), 15, 19 (2=1), 20, 31 (2=1); Isa 35:9; 41:14, 43:1, 14; 44:22, 23, 24; 47:4<sup>θʹ</sup>; 49:7<sup>σʹ</sup>, 26<sup>σʹ</sup>; 62:12; 63:9; Jer 50:34; Hos 13:14; Mic 4:10; Ps 69:19; 72:14; Ps 74:2<sup>LXX,αʹσʹ</sup>; 77:16; 103:4; 106:10; 107:2 (2x); 119:154; Prov 23:11; Lam 3:58;
+*  μολύνω, ‘to stain, soil’: Job 3:5<sup>αʹ</sup>;
+*  ῥύομαι, ‘to rescue’: Gen 48:16; Isa Isa 35:9<sup>θʹ</sup>; 44:6; 47:4; 48:17, 20; 49:7; 51:10 <sup>LXX,θʹ</sup>; 52:9; 54:5, 8; 59:20; 63:16;
 *  σώζω, ‘to save, keep alive’: Sir 51:8;
-*  ὑπερμαχέω, ‘to defend, fight on behalf of’: Sir 51:8 ^(σʹ).
+*  ὑπερμαχέω, ‘to defend, fight on behalf of’: Sir 51:8 <sup>σʹ</sup>.
 
-[^4]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH[^3], <i>s.v.</i>
+[^4]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup>3</sup>, <i>s.v.</i>
 
 Niphal:
 
@@ -376,7 +376,7 @@ meaning. It is translated by verbs which emphasise an exchange in the
 ransom, e.g. ἀλλάσσω, ἀπολυτρόω, but it also shares the general sense of
 liberation and rescue from danger, e.g. σώζω.
 
-<i>B.</i> Peshitta (Pesh):
+<b>b. Peshitta (Pesh):</b>
 
 Qal:
 
@@ -389,9 +389,9 @@ Qal:
 * ܦܨܝ/ܦܨܐ
 (<i>pṣʾ</i>/<i>pṣy</i>) Pael, ‘to save, liberate’: Jer 31:11; Hos 13:14; Ps 106:10; 119:154;
 * ܦܪܩ
-(<i>prq</i>), ‘to remove, release from, save’: Gen 48:16; Exod 6:6; 15:13; Lev 25:25^(2nd), 26, 33, 48, 49 (2x); 27:13 (2x), 15, 19 (2x), 20, 31 (2x); Isa 35:9; 41:14; 43:1; 43:14; 44:6, 22, 23, 24; 47:4; 48:17, 20; 49:7, 26; 51:10; 52:9; 54:5, 8; 59:20; 60:16; 62:12; 63:9; Jer 50:34; Mic 4:10; Ps 19:15; 69:19; 72:14; 74:2; 77:16; 78:35; 103:4; 107:2 (2x); Prov 23:11; Job 19:25; Lam 3:58; Sir 51:8;
+(<i>prq</i>), ‘to remove, release from, save’: Gen 48:16; Exod 6:6; 15:13; Lev 25:25<sup>2nd</sup>, 26, 33, 48, 49 (2x); 27:13 (2x), 15, 19 (2x), 20, 31 (2x); Isa 35:9; 41:14; 43:1; 43:14; 44:6, 22, 23, 24; 47:4; 48:17, 20; 49:7, 26; 51:10; 52:9; 54:5, 8; 59:20; 60:16; 62:12; 63:9; Jer 50:34; Mic 4:10; Ps 19:15; 69:19; 72:14; 74:2; 77:16; 78:35; 103:4; 107:2 (2x); Prov 23:11; Job 19:25; Lam 3:58; Sir 51:8;
 * ܩܪܝܒ
-(<i>qryb</i>), ‘near’: Lev 25:25^(1st); Num 5:8; 1 Kgs 16:11;
+(<i>qryb</i>), ‘near’: Lev 25:25<sup>1st</sup>; Num 5:8; 1 Kgs 16:11;
 * ܬܒܥ
 (<i>tbʿ</i>) Peal, ‘to follow, urge, ask’: Ruth 3:13 (4x); 4:4 (5x), 6 (4x), 8, 14;
 * ܬܒܥ
@@ -431,7 +431,7 @@ in BH (cf. Gen 42:22). It is interesting to compare
  ܬܒܥ ܥܝܪܬܐ ܕܡܐ
 (<i>tbʿ ʿyrtʾ dmʾ</i>) with the rendering by
  תבוע אדמא / תבע 
-(Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12) in Tg^(N) and Tg^(PsJ).
+(Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12) in Tg<sup>N</sup> and Tg<sup>PsJ</sup>.
 
 <b>A.4</b> The use of ܚܘܕܬܐ + (ܕܡܐ) (<i>ḥwdtʾ</i> [+<i>dmʾ</i>]) ‘renewal, restoration’ to translate
  גֹּאֵל הַדָּם
@@ -439,52 +439,52 @@ in 2 Sam 14:11 emphasises the restoration of blood required by the family, which
 the right of the kinsman to claim.
 
 
-<b>c.</b> Targum (Tg: O/N/PsJ/Frg/J/K):
+<b>c. Targum (Tg: O/N/PsJ/Frg/J/K):</b> 
 
 Qal:
 
 * גאיל,
 ‘’:[^6] Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12; Josh 20:3,5,9; 2 Sam 14:11;
 * פרוק
-(subst.), ‘redeemer’: Lev 25:26^(N); Num 5:8^(N);
+(subst.), ‘redeemer’: Lev 25:26<sup>N</sup>; Num 5:8<sup>N</sup>;
 * פרק,
-‘to redeem’: Gen 48:16^(O,N,PsJ); Exod 6:6^(O,N,PsJ); 15:13^(O,N,PsJ,Frg);[^7] Lev 25:25^(1st:) , 25^(2nd:\ O,N,PsJ),
-    26^(N,PsJ), 30, 33^(O,N,PsJ), 48^(O,N,PsJ); 27:13^(O,N,PsJ),
-    15^(O,N,PsJ), 19^(O,N,PsJ,Frg), 31^(O,N,PsJ,Frg); Isa 35:9; 43:1;
+‘to redeem’: Gen 48:16<sup>O,N,PsJ</sup>; Exod 6:6<sup>O,N,PsJ</sup>; 15:13<sup>O,N,PsJ,Frg</sup>;[^7] Lev 25:25<sup>2nd: O,N,PsJ</sup>,
+    26<sup>N,PsJ</sup>, 30, 33<sup>O,N,PsJ</sup>, 48<sup>O,N,PsJ</sup>; 27:13<sup>O,N,PsJ</sup>,
+    15<sup>O,N,PsJ</sup>, 19<sup>O,N,PsJ,Frg</sup>, 31<sup>O,N,PsJ,Frg</sup>; Isa 35:9; 43:1;
     44:22,23; 48:20; 52:9; 62:12; Mic 4:10; Pss 19:15; 69:19; 72:14;
     74:2; 77:16; 78:35; 103:4; 106:10; 107:2(2x); 119:154 ; Ruth 2:20;
     3:9, 12(2x), 13(4x); 4:1(2x), 3, 4(5x), 6(4x), 8(2x), 14; Lam 3:58;
 * פר(י)ק
-(subst.), ‘’: Lev 25:25^(1st:\ O,PsJ), 26; Num 5:8^(O,PsJ); Isa 41:14; 43:14; 44:6,24; 47:4; 48:17; 49:8; 54:5,8; 59:20; 63:16; Jer 50:34;
+(subst.), ‘’: Lev 25:25<sup>1st: O,PsJ</sup>, 26; Num 5:8<sup>O,PsJ</sup>; Isa 41:14; 43:14; 44:6,24; 47:4; 48:17; 49:8; 54:5,8; 59:20; 63:16; Jer 50:34;
 * קריב
-(adj.), ‘’: Lev 25:25^(1st:\ N); 1 Kgs 16:11;
+(adj.), ‘’: Lev 25:25<sup>1st: N</sup>; 1 Kgs 16:11;
 * שׁיזב
 Shaph., ‘to save, rescue’: Isa 49:26; 51:10; 60:16; 63:9; Jer 31:11; Hos 13:14;
 * תב(ו)ע,
-‘’: Num 35:12^(N,PsJ), 19^(N,PsJ), 21^(N,PsJ), 24^(N,PsJ), 25^(N,PsJ), 27^(N,PsJ); Deut 19:6^(N,PsJ), 12^(N,PsJ).
+‘’: Num 35:12<sup>N,PsJ</sup>, 19<sup>N,PsJ</sup>, 21<sup>N,PsJ</sup>, 24<sup>N,PsJ</sup>, 25<sup>N,PsJ</sup>, 27<sup>N,PsJ</sup>; Deut 19:6<sup>N,PsJ</sup>, 12<sup>N,PsJ</sup>.
 
 [^6]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
-[^7]: Tg^(Frg) in Exod 15:13 acc. to mss Paris Bibliotheque nationale Hebr. 110, and Vatican Ebr. 440, Folios 198-227 ; in the other texts only acc. to the latter ms.
+[^7]: Tg<sup>Frg</sup> in Exod 15:13 acc. to mss Paris Bibliotheque nationale Hebr. 110, and Vatican Ebr. 440, Folios 198-227 ; in the other texts only acc. to the latter ms.
 
 Niphal:
 
 * פרק
-Ithpe., ‘to be redeemed’: Lev 25:30^(O,N,PsJ), 49^(O,N,PsJ), 54^(O,N,PsJ); 27:20^(O,N,PsJ), 27^(O,N,PsJ,Frg), 28^(O,N,PsJ), 33^(O,N,PsJ,Frg); Isa 52:3.
+Ithpe., ‘to be redeemed’: Lev 25:30<sup>O,N,PsJ</sup>, 49<sup>O,N,PsJ</sup>, 54<sup>O,N,PsJ</sup>; 27:20<sup>O,N,PsJ</sup>, 27<sup>O,N,PsJ,Frg</sup>, 28<sup>O,N,PsJ</sup>, 33<sup>O,N,PsJ,Frg</sup>; Isa 52:3.
 
 
 <b>A.1</b> In the Targums, whenever גאל is juxtaposed with another word for
 ‘liberation’ or ‘rescue’, פרק is used for that verb and גאל is
-consistently translated by שׁיזב (‘to save, rescue’, <i>DJPA</i>[^1], 546), e.g.
+consistently translated by שׁיזב (‘to save, rescue’, <i>DJPA</i><sup>1</sup>, 546), e.g.
 ישׁע hiph. (Isa 49:26; 60:16; 63:9), פדה (Isa 51:10-11; Jer 31:11; Hos
 13:14), with the exception of Ps 69:19, where both גאל and פדה are
 translated by פרק.
 
 
-<b>A.2</b> It is interesting that in Tg^(O) and Tg^(J) the root גאל is only
+<b>A.2</b> It is interesting that in Tg<sup>O</sup> and Tg<sup>J</sup> the root גאל is only
 retained (presumably as a loan-word) in the context of blood vengeance.
 
 
-<b>D.</b> Vulgate (Vg):
+<b>d.Vulgate (Vg):</b> 
 
 Qal:
 
@@ -492,7 +492,7 @@ Qal:
 *  <i>eruo</i>, ‘’: Gen 48:16;
 *  <i>iure propinquitatis emo</i>, ‘’: Ruth 4:4;
 * <i>libero</i>, ‘’: Isa 35:9; 51:10; Jer 31:11; Sir 51:8, Ps 69:19
-    (Vg^(PsG));
+    (Vg<sup>PsG</sup>);
 * <i>propinquus</i>, ‘’: Lev 25:25; 1 Kgs 16:11; Prov 23:11; Ruth 2:20;
     3:9, 12; 4:1, 3, 8;
 * <i>proximus</i>, ‘’: Lev 25:26; Num 5:8;
@@ -603,7 +603,7 @@ must be redeemed (see DJD xxxv, 42 and Levine 1989: 195).
 (Leviticus 25) and in the narrative in Ruth 2-4. The adjective קרוב in
 Ruth 2:20, 3:12 places the emphasis on kinship, which is also reflected
 by the translations of the subst. part. <i>propinquus, proximus</i> (Vg), cf.
-Num 5:8 and 1 Kgs 16:11 (קריב Tg^(J)), where the subst. part. seems to
+Num 5:8 and 1 Kgs 16:11 (קריב Tg<sup>J</sup>), where the subst. part. seems to
 mean little more than ‘relative’. It is in Ruth that we find instances
 of גאל (qal) with an intransitive sense ‘to act as one’s kinsman’ (BDB,
 145) in the context of claiming property as inheritance. Since גֹּאֵל
@@ -630,8 +630,8 @@ c) In a passage about distribution of wealth the Damascus Document 4Q266 10 i 9 
 responsibility or right of the kinsman is to restore the blood of the family which has been lost (Stamm 1971: 386, Johnson 1953: 68). This
 idea is emphasised particularly in the Peshitta 2 Sam 14:11 (see
 Peshitta A.4 above). Thus the avenger is the subject of verbs such as
-מות hiph., רצח and רדף. Tg^(N) and Tg^(PsJ), translate it as תבע אדמא
-(תבע ‘to seek, demand, claim’, <i>DJPA</i>^(1), 574b) and the Peshitta
+מות hiph., רצח and רדף. Tg<sup>N</sup> and Tg<sup>PsJ</sup>, translate it as תבע אדמא
+(תבע ‘to seek, demand, claim’, <i>DJPA</i><sup>1</sup>, 574b) and the Peshitta
 translates it by ܬܒܥ (ܥܝܪܬܐ) 
 (<i>tbʿ</i> [<i>ʿyrtʾ</i>]), ‘seek (vengeance for)’.
 These both emphasise the concepts of family obligation and claiming
@@ -824,7 +824,7 @@ needed rescuing from danger, or protecting from harm (cf. Johnson 1953:
 75-77). For גאל as an element of pre-exilic personal names, most of them
 explicitly theophoric, see above, Root and Comparative Material A.1.
 
-## &. Conclusion
+## 7. Conclusion
 
 
 <b>A.1</b> The meaning of גאל seems to comprise three ‘semantic components’:
