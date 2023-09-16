@@ -144,14 +144,13 @@ the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
 
 <b>b. Peshitta (Pesh):</b>
 
--   ܘܠܐ\ܘܠܝ
+* ܘܠܐ\ܘܠܝ
 (<i>wlʾ/ wly</i>), ‘(it is) fitting’:[^3] Jer 32:8;
-
--   ܝܪܬܘܬܐ (<i>yrtwtʾ</i>), ‘inheritance, heirship’: Jer 32:7; Ruth 4:6, 7;
-
--   ܦܘܪܩܢܐ (<i>pwrqnʾ</i>), ‘saving, salvation, redemption’: Lev 25:24, 26, 29 (2x), 31, 32, 48, 51, 52; Isa 63:4;
-
--   [ܫܒܝܬܐ
+* ܝܪܬܘܬܐ
+(<i>yrtwtʾ</i>), ‘inheritance, heirship’: Jer 32:7; Ruth 4:6, 7;
+* ܦܘܪܩܢܐ
+(<i>pwrqnʾ</i>), ‘saving, salvation, redemption’: Lev 25:24, 26, 29 (2x), 31, 32, 48, 51, 52; Isa 63:4;
+* [ܫܒܝܬܐ
 (<i>šbytʾ</i>), ‘captivity’: Ezek 11:15].
 
 [^3]: The English renderings of the Syriac are based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
@@ -183,15 +182,15 @@ inheritance or possession.
 
 <b>d. Vulgate (Vg):</b>
 
-* <i>licentia redimendi</i>, ‘’:[^5] Lev 25:29;
-* <i>possum redimi</i>, ‘’: Lev 25:32, 48;
-* <i>pretium</i>, ‘’: Lev 25:51;
-* <i>pretium ad redimendum</i>, ‘’: Lev 25:26;
-* <i>privilegium</i>, ‘’: Ruth 4:6;
-* <i>propinquus</i>, ‘’: Ruth 4:7; Jer 32:8; Ezek 11:15;
-* <i>propinquitas</i>, ‘’: Jer 32:7;
-* <i>redemptio</i>, ‘’: Lev 25:24;
-* <i>redimo</i>, ‘’: Lev 25:31.
+* <i>licentia redimendi</i>, ‘freedom to redeem’:[^5] Lev 25:29;
+* <i>possum redimi</i>, ‘to have right to redeem’: Lev 25:32, 48;
+* <i>pretium</i>, ‘value, price’: Lev 25:51;
+* <i>pretium ad redimendum</i>, ‘price to redeem’: Lev 25:26;
+* <i>privilegium</i>, ‘privilege’: Ruth 4:6;
+* <i>propinquus</i>, ‘relative, kinsman’: Ruth 4:7; Jer 32:8; Ezek 11:15;
+* <i>propinquitas</i>, ‘kinsman’: Jer 32:7;
+* <i>redemptio</i>, ‘a buying off, redemption’: Lev 25:24;
+* <i>redimo</i>, ‘to buy back, repurchase’: Lev 25:31.
 
 [^5]: The English renderings of the Latin are based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
 
@@ -205,7 +204,9 @@ occurrence with more specific phrases.
 ## 5. Lexical/Semantic Fields
 
 
-<b>A.1</b>  (see גאל vb)
+<b>A.1</b>  See
+<a href="sahd/words/to_redeem/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">גאל</span>: 5. Lexical/Semantic Fields</a>
+ 
 
 
 <b>A.2</b>  In Jer 32:8 גְּאֻלָּה is conjoined with מִשְׁפַּט הַיְּרֻשָּׁה ‘right
