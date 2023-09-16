@@ -1099,13 +1099,12 @@ Paris: Editions Recherche sur les civilisations.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Albright 1943<br>
-W.F. Albright, `Two Little Understood Amarna Letters from the Middle Jordan Valley’, BASOR 89, 7-17.
+W.F. Albright, `Two Little Understood Amarna Letters from the Middle Jordan Valley’, <i>BASOR</i> 89, 7-17.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Barr 1968<br>   
-James Barr, <i>Comparative Philology and the Text of the Old
-Testament,</i> Oxford: Oxford University Press.
+James Barr, <i>Comparative Philology and the Text of the Old Testament,</i> Oxford: Oxford University Press.
 	</div>
 
 
