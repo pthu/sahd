@@ -506,13 +506,13 @@ Qal:
 
 * <i>cognatus occisi</i>, ‘relative of the killed one’: Num 35:12, 21;
 * <i>propinquus occisi</i>, ‘kinsman of the killed one’: Num 35:19;
-* <i>propinquus</i> <i>sanguinis</i>, ‘kinsman’: Num 35:24;
-* <i>ultor</i> [+ <i>sanguinis</i>], ‘’: Num 35:25, 27; Josh 20:3,5;
-* <i>proximus</i> [+ <i>cuius sanguis</i>], ‘’: Deut 19:6, 12; Josh 20:9; 2 Sam 14:11.
+* <i>propinquus</i> <i>sanguinis</i>, ‘blood relative’: Num 35:24;
+* <i>ultor</i> [+ <i>sanguinis</i>], ‘blood avenger’: Num 35:25, 27; Josh 20:3,5;
+* <i>proximus</i> [+ <i>cuius sanguis</i>], ‘nearest’: Deut 19:6, 12; Josh 20:9; 2 Sam 14:11.
 
 Niphal:
 
-* <i>redimo</i>, ‘’: Lev 25:30, 49, 54; 27. 20, 27, 28, 33; Isa 52:3.
+* <i>redimo</i>, ‘to buy back, repurchase’: Lev 25:30, 49, 54; 27. 20, 27, 28, 33; Isa 52:3.
 
 
 <b>A.1</b> The predominant verb used by the Vg to translate גאל is <i>redimo</i> ‘to buy back, redeem’, although more general terms of liberation and rescue are also used (<i>eruo</i>, <i>libero</i>). It is interesting that the Vg consistently avoids using the familial term <i>propinquus</i>/ <i>proximus</i> for God, preferring <i>redemptor</i>, with the remarkable exception of Prov 23:11. However, Jerome may have followed one of the Minor Versions here, which, as already noted above (LXX A.5), use ἀγχιστεύς of God in this verse.
