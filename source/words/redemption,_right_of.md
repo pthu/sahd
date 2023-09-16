@@ -115,8 +115,8 @@ sf. ‘you’ referring to Jeremiah (v. 6) (Jer 32:8), לְ + 2 m.sg. sf.
 * λύτρον, ‘sum payable as ransom’: Lev 25:24, 26, 51, 52;
 * λύτρωσις, ‘redemption, ransom’:[^2] Lev 25:29 (2x), 48;
 * λυτρωτός, ‘redeemable’: Lev 25:31, 32;
-* παραλαμβάνω, ‘to take over, inherit’: Jer 32:7 (39:7);
-* πρεσβύτερος, ‘’: Jer 32:8 (39:8).
+* παραλαμβάνω, ‘to take over, inherit’: Jer 32:7 (39:7<small><sup>LXX</sup></small>);
+* πρεσβύτερος, ‘older of age’: Jer 32:8 (39:8<small><sup>LXX</sup></small>).
 
 [^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>
 [^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i>… claim on that which is currently not in one’s possession</i>’. LEH<small><sup>3</sup></small>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
@@ -138,10 +138,10 @@ used to translate גאל in Ruth is ἀγχιστεύω ‘to be next of kin�
 with πρεσβύτερος, which is used elsewhere of the eldest child (e.g. Gen
 19:31; 27:1; 44:12) and is here a free rendering assuming the
 equivalence of גְּאֻלָּה to the rights of the firstborn, ἀγχιστεία
-reflects the kinship aspect underlying גְּאֻלָּה (see entry onגאל ).
+reflects the kinship aspect underlying גְּאֻלָּה (see entry on גאל).
 
 
-<b>A.4</b>  παραλαμβάνω in Jer 32:7 is a generalising rendering which ignores
+<b>A.4</b>  παραλαμβάνω in Jer 32:7 (39:7<small><sup>LXX</sup></small>)is a generalising rendering which ignores
 the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
 
 <b>b. Peshitta (Pesh):</b>

@@ -449,13 +449,13 @@ Qal:
 ‘avenger’:[^6] Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12; Josh 20:3,5,9; 2 Sam 14:11;
 * פרוק
 (subst.), ‘redeemer’: Lev 25:26<small><sup>N</sup></small>; Num 5:8<small><sup>N</sup></small>;
+* פר(י)ק
+(subst.), ‘redeemer’: Lev 25:25<small><sup>1st: O,PsJ</sup></small>, 26; Num 5:8<small><sup>O,PsJ</sup></small>; Isa 41:14; 43:14; 44:6,24; 47:4; 48:17; 49:8; 54:5,8; 59:20; 63:16; Jer 50:34;
 * פרק,
 ‘to redeem’: Gen 48:16<small><sup>O,N,PsJ</sup></small>; Exod 6:6<small><sup>O,N,PsJ</sup></small>; 15:13<small><sup>O,N,PsJ,Frg</sup></small>;[^7] Lev 25:25<small><sup>2nd: O,N,PsJ</sup></small>,
 26<small><sup>N,PsJ</sup></small>, 30, 33<small><sup>O,N,PsJ</sup></small>, 48<small><sup>O,N,PsJ</sup></small>; 27:13<small><sup>O,N,PsJ</sup></small>,
 15<small><sup>O,N,PsJ</sup></small>, 19<small><sup>O,N,PsJ,Frg</sup></small>, 31<small><sup>O,N,PsJ,Frg</sup></small>; Isa 35:9; 43:1;
 44:22,23; 48:20; 52:9; 62:12; Mic 4:10; Pss 19:15; 69:19; 72:14; 74:2; 77:16; 78:35; 103:4; 106:10; 107:2 (2x); 119:154 ; Ruth 2:20; 3:9, 12 (2x), 13 (4x); 4:1 (2x), 3, 4 (5x), 6 (4x), 8 (2x), 14; Lam 3:58;
-* פר(י)ק
-(subst.), ‘redeemer’: Lev 25:25<small><sup>1st: O,PsJ</sup></small>, 26; Num 5:8<small><sup>O,PsJ</sup></small>; Isa 41:14; 43:14; 44:6,24; 47:4; 48:17; 49:8; 54:5,8; 59:20; 63:16; Jer 50:34;
 * קריב
 ‘near, related’: Lev 25:25<small><sup>1st: N</sup></small>; 1 Kgs 16:11;
 * שׁיזב
@@ -488,30 +488,25 @@ retained (presumably as a loan-word) in the context of blood vengeance.
 
 Qal:
 
-* <i>do</i>, ‘’:[^8] Lev 27:13;
-*  <i>eruo</i>, ‘’: Gen 48:16;
-*  <i>iure propinquitatis emo</i>, ‘’: Ruth 4:4;
-* <i>libero</i>, ‘’: Isa 35:9; 51:10; Jer 31:11; Sir 51:8, Ps 69:19
-    (Vg<small><sup>PsG</sup></small>);
-* <i>propinquus</i>, ‘’: Lev 25:25; 1 Kgs 16:11; Prov 23:11; Ruth 2:20;
+* <i>do</i>, ‘to give’:[^8] Lev 27:13;
+*  <i>eruo</i>, ‘to rescue, release’: Gen 48:16;
+*  <i>iure propinquitatis emo</i>, ‘right of kindred, buy it’: Ruth 4:4;
+* <i>libero</i>, ‘to make or set free’: Isa 35:9; 51:10; Jer 31:11; Sir 51:8, Ps 69:19 (Vg<small><sup>PsG</sup></small>);
+* <i>propinquus</i>, ‘relative, kinsman’: Lev 25:25; 1 Kgs 16:11; Prov 23:11; Ruth 2:20;
     3:9, 12; 4:1, 3, 8;
-* <i>proximus</i>, ‘’: Lev 25:26; Num 5:8;
-* <i>redemptor</i>, ‘’: Isa 41:14; 43:14; 44:6,24; 47:4; 48:17; 49:8, 26;
-    54:5, 8; 59:20; 60:16; 63:16; Jer 50:34; Ps 19:15; 78:35; Job 19:25;
-    Lam 3:58;
-* <i>redimo</i>, ‘’: Exod 6:6; 15:13; Lev 25:25, 31, 33, 48; 27:15, 19, 31;
-    Isa 43:1; 44:22,23; 48:20; 52:9; 62:12; 63:9; Hos 13:14; Mic 4:10;
-    Ps 69:19; 72:14; 74:2; 77:16; 103:4; 106:10; 107:2; 119:154;
-* <i>successor familiae</i>, ‘’: Ruth 4:14;
-* <i>suscipio</i>, ‘’: Ruth 3:13.
+* <i>proximus</i>, ‘nearer, nigher’: Lev 25:26; Num 5:8;
+* <i>redemptor</i>, ‘one who releases a debtor, redeemer’: Isa 41:14; 43:14; 44:6,24; 47:4; 48:17; 49:8, 26; 54:5, 8; 59:20; 60:16; 63:16; Jer 50:34; Ps 19:15; 78:35; Job 19:25; Lam 3:58;
+* <i>redimo</i>, ‘to buy back, repurchase’: Exod 6:6; 15:13; Lev 25:25, 31, 33, 48; 27:15, 19, 31; Isa 43:1; 44:22,23; 48:20; 52:9; 62:12; 63:9; Hos 13:14; Mic 4:10; Ps 69:19; 72:14; 74:2; 77:16; 103:4; 106:10; 107:2; 119:154;
+* <i>successor familiae</i>, ‘successor in the family’: Ruth 4:14;
+* <i>suscipio</i>, ‘to take up, undertake’: Ruth 3:13.
 
 [^8]: The English renderings of the Latin are based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
 
 גֹּאֵל הַדָּם
 
-* <i>cognatus occisi</i>, ‘’: Num 35:12, 21;
-* <i>propinquus occisi</i>, ‘’: Num 35:19;
-* <i>propinquus</i> <i>sanguinis</i>, ‘’: Num 35:24;
+* <i>cognatus occisi</i>, ‘relative of the killed one’: Num 35:12, 21;
+* <i>propinquus occisi</i>, ‘kinsman of the killed one’: Num 35:19;
+* <i>propinquus</i> <i>sanguinis</i>, ‘kinsman’: Num 35:24;
 * <i>ultor</i> [+ <i>sanguinis</i>], ‘’: Num 35:25, 27; Josh 20:3,5;
 * <i>proximus</i> [+ <i>cuius sanguis</i>], ‘’: Deut 19:6, 12; Josh 20:9; 2 Sam 14:11.
 
