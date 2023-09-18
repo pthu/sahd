@@ -27,16 +27,20 @@ Occurrences: 103x[^1] HB (qal: 28/31/36; niph.: 7/1/0); 1(2?)x Sir; 16x Qum; 1(?
 * Ketubim – qal: Ps 19:15; 69:19; 72:14; 74:2; 77:16; 78:35; 103:4; 106:10; 107:2 (2x); 119:154; Job 3:5; 19:25; Prov 23:11; Ruth 2:20; 3:9, 12 (2x), 13 (4x); 4:1, 3, 4 (5x), 6 (4x), 8, 14; Lam 3:58.
 * Sir – qal: 51:8 (and 12?).
 * Qum: 4Q158 14 i 5; 4Q176 3:2, 8-11:4, 7, 10; 4Q185 1-2 ii 10; 4Q251 14:2, 16:5; 4Q266 10 i 9; 4Q367 3:7 (2x]; 4Q381 24a+b.5, 4Q385 2:1; 4Q411 1 ii 8; 4Q471a 3; 11Q5 18:15.
-* Inscr: 15.006:2 Khirbet Beit Lei Burial Cave Inscription A (uncertain)
-* Text doubtful: Sir 37:19.
-
+* Inscr: 15.006:2 Khirbet Beit Lei Burial Cave Inscription A (uncertain).
+* Text doubtful: Sir 37:19; 51:12(e); CD 14:16; 4Q168 1:4; 
+4Q284a 1:7; 
+4Q420 1a ii-v 6;
+4Q504 22:3.
 
 <b>A.1</b>  Sir 37:19 mss B and C have the qal part. גואל but Bmg and D have יאל
-niph., as follows: יש חכם לרבים נחכם ולנפשו הוא נואל ‘a person may be
+niph., as follows: 
+<span dir="rtl" lang="he">יש חכם לרבים נחכם ולנפשו הוא נואל</span>
+ ‘a person may be
 wise and be a source of wisdom to many, yet for himself be foolish’,
 which may make better sense. This can be explained simply by mss B and C
 misreading נ as ג and could be supported by ἄχρηστος in the LXX,
-although the first part of the verse is different, and similarly by
+although the first part of the verse is different, and similarly by 
 ܣܟܠܐ
 (<i>sklʾ</i>), `fool(ish)' in Pesh. The Vg is different again: <i>vir peritus multos
 erudivit et animae suae suavis est</i> (reading נאוה? Cf. Song 6:3),
@@ -44,12 +48,19 @@ although there are variant readings, <i>insuavis</i> and <i>inutilis</i>. which
 align themselves more with the LXX.
 
 <b>A.2</b>  Qumran:  
-<b>a)</b> CD 14:16 [ואל]ג seems likely and is supported by the
-parallel passage in 4Q266 10:9.  
-<b>b)</b> 4Q168 1:4 לך[יגא] seems to be a citation of Mic 4:10 where 
+
+<div style="padding-left: 22px; text-indent: -0px;">
+<b>a)</b> CD 14:16 
+<span dir="rtl" lang="he">ג[ואל]</span> seems likely and is supported by the
+parallel passage in 4Q266 10:9.  </div>
+<div style="padding-left: 22px; text-indent: -0px;">
+<b>b)</b> 4Q168 1:4 
+<span dir="rtl" lang="he">[יגא]לך</span> seems to be a citation of Mic 4:10 where 
 יהוה 
-is the subject.  
-<b>c)</b> 4Q284a 1:7 is a passage on harvesting and it is unclear whether גאל
+is the subject.  </div>
+<div style="padding-left: 22px; text-indent: -0px;">
+<b>c)</b> 4Q284a 1:7
+is a passage on harvesting and it is unclear whether גאל
 means ‘redeem’ or ‘defile’. Abegg, Bowley, and Cook (2003) list this
 passage under גאל (I) ‘redeem’, which is supported by Martinez and
 Tigchelaar who translate the verse as ‘He may not redeem them with
@@ -59,24 +70,29 @@ argues that the passage describes olive-pressing and the extraction of
 olive oil: ‘let him b[y] no [mean]s defile them by opening them before
 he pours [them into the press].’ The argument is dependent to a large
 extent on the analysis of the previous lines, which are also unclear.
-But the context of this passage does support the idea of purity and the
-issue of insiders and outsiders, which would suggest that this is not a
-case of ‘redeem’.  
-<b>d)</b> 4Q420 1a ii-v 6 seems to be a niph. […ל]נגא occurring with צדק ‘by
+But the context of this passage does support the idea of purity and the issue of insiders and outsiders, which would suggest that this is not a case of ‘redeem’.  </div>
+<div style="padding-left: 22px; text-indent: -0px;">  
+<b>d)</b> 4Q420 1a ii-v 6 
+seems to be a niph. 
+<span dir="rtl" lang="he">נגא[ל ...]</span>
+occurring with צדק ‘by
 righteousness he is redeemed’, the subject being נאמן ‘one who is
-reliable’. From the context this seems likely.  
-<b>e)</b> 4Q504 22:3 is another case where the meaning is indeterminate: [אשר
-גאלה] ‘who redeems/defiles her’ (DJD vii: 166). Both the ה and the ל are
-also partially effaced.
+reliable’. From the context this seems likely.    </div>
+<div style="padding-left: 22px; text-indent: -0px;">
+<b>e)</b> 4Q504 22:3 
+is another case where the meaning is indeterminate: ...]<span dir="rtl" lang="he">אשר גאלה</span>\[...,
+‘who redeems/defiles her’ (DJD vii: 166). Both the ה and the ל are
+also partially effaced.  </div>
 
 
 <b>A.3</b>  It is interesting to note that in Sir 51:12(e) Geniza ms B has an
-instance of גאל ישראל ‘redeemer of Israel’. Although the passage of
+instance of <span dir="rtl" lang="he">גאל ישראל</span>,
+‘redeemer of Israel’. Although the passage of
 which it forms part is not in the Greek, it may nevertheless be ancient
 (cf. Skehan and Di Lella 1987: 569-570).
 
 
-<b>A.4</b>  Frank M. Cross read וגאלתי ירשלם, ‘and I will redeem Jerusalem’, in
+<b>A.4</b><a id="uncertain"></a> Frank M. Cross read <span dir="rtl" lang="he">וגאלתי ירשלם</span>, ‘and I will redeem Jerusalem’, in
 l:2 of Inscription A from Khirbet Beit Lei (Cross 1970: 299-302), but a
 number of scholars read this line differently (see <i>AHI-1</i>, 15.005:2,
 15.006:2; <i>HAE</i>, 242-246 [BLay (7):1]).
@@ -85,16 +101,20 @@ Qere/Ketiv: none
 
 ## 1. Root and Comparative Material
 
-<b>A.1</b>  In the OT גאל is attested in the qal 95x. Of these instances, almost
-half are the active participle as a substantive, twelve of which occur
-as הַדָּם גֹּאֵל, 'avenger of blood'. גאל is also attested in the niphal
-(8x). The nouns גְּאֻלָּה (14x) and גְּאוּלִים (1x) are cognate. There
-are 3 occurrences of a name in the Hebrew Bible that is probably
+<b>A.1</b>  In the OT גאל is attested in the qal 95x. Of these instances, almost half are the active participle as a substantive, twelve of which occur as 
+<span dir="rtl" lang="he">גֹּאֵל הַדָּם</span>, 
+‘avenger of blood'. גאל is also attested in the niphal
+(8x). The nouns <span dir="rtl" lang="he">גְּאֻלָּה</span> 
+(14x) and <span dir="rtl" lang="he">גְּאוּלִים</span>
+(1x) are cognate. There
+are 3 occurrences of a name in the HB that is probably
 cognate, יִגְאָל (Num 13:7, 2 Sam 23:36, 1 Chron 3:22). A further
-PN,גאליהו , which does not appear in the Bible occurs 8 times in
+PN, גאליהו, which does not appear in the HB occurs 8 times in
 pre-exilic Hebrew inscriptions (see <i>AHI-1</i>: 321, <i>AHI-2</i>: 149, for
 references). There is also an uncertain occurrence of the verb in an
-inscription from c. 700 (see above).
+inscription from c. 700 (see
+<a href="#uncertain">Introduction A.4</a>
+above).
 
 
 <b>A.2</b>  The root גאל is peculiar to Hebrew among the Semitic languages and
@@ -102,7 +122,8 @@ became a loan-word in Samaritan Aramaic and post-biblical Jewish Aramaic
 (Stamm 1971: 385).
 
 
-<b>A.1</b>  גאל has a parallel in Babylonian <i>paṭāru</i> (‘to loose, release’), a
+<b>A.1</b>  גאל has a parallel in Babylonian 
+<i>paṭāru</i> (‘to loose, release’), a
 term used in Babylonian law for the duty or obligation to buy back lost
 family property or enslaved people, but also used more generally for
 buying slaves and prisoners (Stamm 1971, 386). The Israelite concept of
@@ -132,67 +153,78 @@ Verb: ʿAyin-Guttural, triliteral root.
 
 ## 3. Syntagmatics
 
-<b>A.1</b> The human subject of גאל qal may be:  
+<b>A.1</b> The human subject of גאל qal may be: 
+
+<div style="padding-left: 22px; text-indent: 0px;">
 <b>a)</b> 
-in a cultic context – אִישׁ ‘a man / someone’ (lev 27:31; 4q367 3:7), הַמַּקְדִּישׁ ‘one who consecrates’ (lev 27:15, 19, 20), subj. not specified (Lev 27:13; 4Q251 14:2),  
+in a cultic context – אִישׁ, ‘a man / someone’ (Lev 27:31; 4Q367 3:7); הַמַּקְדִּישׁ, ‘one who consecrates’ (Lev 27:15, 19, 20); subj. not specified (Lev 27:13; 4Q251 14:2);  
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">
 <b>b)</b> 
-in a socio-legal context - גֹּאֵל ‘next of kin’ (Lev 25:25; Ruth 3:13 [3x], 4:4[4x], 6[2x]), מִן הַלְוִיִּם, ‘(one) of the levites’ (Lev. 25:33: for the superiority of this interpretation to ‘from the levites’ see Milgrom 2001: 2202-03), אָח ‘brother’ (Lev 25:48), דּוֹד ‘paternal uncle’, בֶּן־דּוֹד ‘uncle’s son’ (Lev 25:49), מִשְּׂאֵר בְּשָׂרוֹ מִמִּשְׁפַּחְתּוֹ ‘one of his family of his own flesh’ (Lev 25:49), אָנֹכִי ‘i’ referring to Boaz (Ruth 3:13), אֵין זוּלָתְךָ ‘no-one except you’ + inf. (Ruth 4:4), impv. to Boaz (Ruth 4:6), מֶלֶךְ ‘the king’ (Ps 72:14) understood from v. 1 (in <i>DCH</i> ii: 294 Clines lists this mistakenly under yahweh as subject), חכם, ‘wise man’ (Sir 37:19 acc. mss B and C), subj. not specified (Lev 25:33; Ruth 4:4).
+in a socio-legal context – גֹּאֵל, ‘next of kin’ (Lev 25:25; Ruth 3:13 [3x], 4:4[4x], 6[2x]); <span dir="rtl" lang="he">מִן הַלְוִיִּם</span>, ‘(one) of the levites’ (Lev. 25:33: for the superiority of this interpretation to ‘from the levites’ see Milgrom 2001: 2202-03); אָח, ‘brother’ (Lev 25:48); דּוֹד, ‘paternal uncle’, בֶּן־דּוֹד, ‘uncle’s son’ (Lev 25:49); <span dir="rtl" lang="he">מִשְּׂאֵר בְּשָׂרוֹ מִמִּשְׁפַּחְתּוֹ</span>, ‘one of his family of his own flesh’ (Lev 25:49); אָנֹכִי ‘I’ referring to Boaz (Ruth 3:13); <span dir="rtl" lang="he">אֵין זוּלָתְךָ</span>, ‘no-one except you’ + inf. (Ruth 4:4); impv. to Boaz (Ruth 4:6); מֶלֶךְ, ‘the king’ (Ps 72:14) understood from v. 1 (in <i>DCH</i> ii: 294 Clines lists this mistakenly under yahweh as subject); חכם, ‘wise man’ (Sir 37:19 acc. mss B and C); subj. not specified (Lev 25:33; Ruth 4:4).
+</div>
 
-<b>A.2</b> the direct objects following גאל qal in cultic and socio-legal contexts are: בְּהֵמָה טְמֵאָה ‘unclean animal’ understood from v. 11 (Lev 27:13; 4Q251 14:2), בַּיִת house (Lev 27:15), שָׂדֶה field (Lev 27:19, 20), מִמַּעַשְׂרוֹ some of his tithe (Lev 27:31; 4Q367 3:7),אֵת מִמְכַּר what has been sold (property) (Lev 25:25), אָח ‘brother/kin’ understood from v. 47 (Lev 25:48, 49[2X]), נֶפֶשׁ ‘soul’ (lives/souls of the poor) (PS 72:14), (his own life/soul) (Sir 37:19 acc. mss B and C), 2 f.sg. sf. referring to Ruth (3:13[4X]), חֶלְקָה ‘portion of land’ (Ruth 4:4[5X], 6), גְּאֻלָּה ‘right of redemption’ (Ruth 4:6).
 
-<b>A.3</b> The prepositions in these cases used with גאל qal are:לְ + 1sg. sf.
-‘for myself’ (Naomi’s next-of-kin), לְ + 2sg. sf. ‘for yourself’ (Boaz)
-(Ruth 4:6), מִן ‘from’ + תּוֹךְ ‘injury’ (Ps 72:14), + חָמָס
+<b>A.2</b> the direct objects following גאל qal in cultic and socio-legal contexts are: <span dir="rtl" lang="he">בְּהֵמָה טְמֵאָה</span>, ‘unclean animal’ understood from v. 11 (Lev 27:13; 4Q251 14:2); בַּיִת, ‘house’ (Lev 27:15); שָׂדֶה, ‘field’ (Lev 27:19, 20); מִמַּעַשְׂרוֹ ‘some of his tithe’ (Lev 27:31; 4Q367 3:7); <span dir="rtl" lang="he">אֵת מִמְכַּר</span>,
+`what has been sold’ (property) (Lev 25:25); אָח, ‘brother/kin’ understood from v. 47 (Lev 25:48, 49 [2x]); נֶפֶשׁ, ‘soul’ (lives/souls of the poor) (Ps 72:14), (his own life/soul) (Sir 37:19 acc. mss B and C); 2 f.sg. sf. referring to Ruth (3:13[4x]); חֶלְקָה, ‘portion of land’ (Ruth 4:4[5x], 6); גְּאֻלָּה, ‘right of redemption’ (Ruth 4:6).
+
+<b>A.3</b> The prepositions in these cases used with גאל qal are: <span dir="rtl" lang="he">לְ</span> + 1sg. sf.
+‘for myself’ (Naomi’s next-of-kin); <span dir="rtl" lang="he">לְ</span> + 2sg. sf. ‘for yourself’ (Boaz)
+(Ruth 4:6); מִן ‘from’ + תּוֹךְ, ‘injury’ (Ps 72:14), +
+ ,חָמָס
 ‘violence/wrong’ (Ps 72:14).
 
-<b>A.4</b> גאל qal may also have an abstract subject: וְצַלְמָוֶת
-חֹשֶׁךְ‘darkness and deep darkness’ (Job 3:5). The object in this case is
-יוֹם ‘day’ of Job’s birth in v. 3 (Job 3:5).
+<b>A.4</b> גאל qal may also have an abstract subject: <span dir="rtl" lang="he">חֹשֶׁךְ וְצַלְמָוֶת</span>,
+‘darkness and deep darkness’ (Job 3:5). The object in this case is
+יוֹם,
+ ‘day’ of Job’s birth in v. 3 (Job 3:5).
 
+<b>A.5</b> גאל qal is also used with a divine subject:   
 
-<b>A.5</b> גאל qal is also used with a divine subject:  
-<b>a)</b>  הַמַּלְאָךְ ‘angel’ (Gen 48:16), יהוה understood from context (Ps
-    103:4; 106:10; 107:2, Isa 52:9; 63:9; Jer 31:11; 4Q185 1-2 ii 10;
-    4Q381 24a+b.5), יהוה (Isa 44:23; 48:20; Mic 4:10; 11Q5 18:17; Sir
-    51:8).  
-<b>b)</b>  A divine subject is implied when the speaker is יהוה (Exod 6:6; Isa
-    43:1; 44:22; Hos 13:14; 4Q158 14i:5; 4Q176 3:2), and in speech
-    addressed to God: יהוה (Exod 15:13; Ps 74:2; 77:16; Lam 3:58) and
-    petitions to God (Ps 69:19; 119:154).
+<div style="padding-left: 22px; text-indent: 0px;">  
+<b>a)</b>  הַמַּלְאָךְ ‘angel’ (Gen 48:16); יהוה understood from context (Ps 103:4; 106:10; 107:2, Isa 52:9; 63:9; Jer 31:11; 4Q185 1-2 ii 10; 4Q381 24a+b.5); יהוה (Isa 44:23; 48:20; Mic 4:10; 11Q5 18:17; Sir 51:8).   
+</div>
+<div style="padding-left: 22px; text-indent: 0px;"> 
+<b>b)</b>  A divine subject is implied when the speaker is יהוה (Exod 6:6; Isa 43:1; 44:22; Hos 13:14; 4Q158 14i:5; 4Q176 3:2); and in speech addressed to God: יהוה (Exod 15:13; Ps 74:2; 77:16; Lam 3:58) and petitions to God (Ps 69:19; 119:154).
+</div>
 
-
-<b>A.6</b> In these contexts גאל qal takes as direct objects: אֹתִי ‘me’
-(Jacob) (Gen 48:16), בְּנֵי־יִשְׂרָאֵל ‘sons of Israel’ (Exod 6:6), m.pl.
-sf. ‘Israel’ understood (4Q158 14i:5), עַם ‘people’ (Exod 15:13, Ps
-77:16; 4Q385 2:1), נֶפֶשׁ ‘soul/life’ (Ps 69:19), עֵדָה ‘congregation’
-(Ps 74:2), 3m.pl. sf. referring to אָבוֹת ‘ancestors’ from v. 7 (Ps
-106:10), 3m.pl. sf. referring to יהוה גְּאוּלֵי ‘the redeemed of the
-LORD’ (Ps 107:2), 1sg. sf. referring to the Psalmist (Ps 119:154), m.pl.
-sf. referring to יַעֲקֹב / יִשְׂרָאֵל ‘Jacob’ / Israel’ (Isa 43:1; 4Q176
-3:2), יִשְׂרָאֵל ‘Israel’ (Is 44:22), m.pl. sf. ‘Israel’ understood from
-context (Is 63:9), יַעֲקֹב ‘Jacob’ (Is 44:23; Jer 31:11), עֶבֶד יַעֲקֹב
-‘servant Jacob’ (Is 48:20), יְרוּשָׁלִָם Jerusalem (Isa 52:9; <i>AHI-1</i>
-15.006:2), חַיִּים ‘life’ (Ps 103:4, Lam 3:58), 3m.pl. sf. referring to
-אֶפְרַיִם ‘Ephraim’ understood from v. 12 (Hos 13:14), בַּת־צִיּוֹן
-‘daughter Zion’ (Mic 4:10), כל עמו ‘all his people’ (4Q185 1-2 ii 10),
-יהודה ‘Judah’ (4Q381 24a+b.5), עני ‘the poor/humble’ (11Q5 18:17), m.pl.
-sf. referring to חוסי בו ‘those seeking refuge in him (Yahweh)’ (Sir
-51:8).
+<b>A.6</b> In these contexts גאל qal takes as direct objects: אֹתִי, ‘me’ (Jacob) (Gen 48:16); בְּנֵי־יִשְׂרָאֵל, ‘sons of Israel’ (Exod 6:6); m.pl. sf. ‘Israel’ understood (4Q158 14i:5); עַם, ‘people’ (Exod 15:13, Ps 77:16; 4Q385 2:1); נֶפֶשׁ, ‘soul/life’ (Ps 69:19); עֵדָה, ‘congregation’
+(Ps 74:2); 3m.pl. sf. referring to אָבוֹת, ‘ancestors’ from v. 7 (Ps 106:10); 3m.pl. sf. referring to <span dir="rtl" lang="he">גְּאוּלֵי יהוה</span>, ‘the redeemed of the LORD’ (Ps 107:2); 1sg. sf. referring to the Psalmist (Ps 119:154); m.pl. sf. referring to <span dir="rtl" lang="he">יַעֲקֹב / יִשְׂרָאֵל</span>, ‘Jacob’ / Israel’ (Isa 43:1; 4Q176 3:2); 
+יִשְׂרָאֵל, 
+‘Israel’ (Is 44:22); m.pl. sf. ‘Israel’ understood from
+context (Is 63:9); יַעֲקֹב, ‘Jacob’ (Is 44:23; Jer 31:11); <span dir="rtl" lang="he">עֶבֶד יַעֲקֹב</span>, 
+‘servant Jacob’ (Is 48:20); יְרוּשָׁלִָם, Jerusalem (Isa 52:9; <i>AHI-1</i> 15.006:2); 
+חַיִּים,
+ ‘life’ (Ps 103:4, Lam 3:58); 3m.pl. sf. referring to
+אֶפְרַיִם,
+‘Ephraim’ understood from v. 12 (Hos 13:14); 
+בַּת־צִיּוֹן,
+‘daughter Zion’ (Mic 4:10); כל עמו ‘all his people’ (4Q185 1-2 ii 10);
+יהודה,
+ ‘Judah’ (4Q381 24a+b.5); 
+ עני,
+  ‘the poor/humble’ (11Q5 18:17); m.pl.
+sf. referring to <span dir="rtl" lang="he">חוסי בו</span>, ‘those seeking refuge in him (Yahweh)’ (Sir 51:8).
 
 
 <b>A.7</b> גאל qal with a divine subject takes the preposition לְ introducing
-the object יהודה ‘Judah’ (4Q381 24a+b.5), בְּ ‘with, by means of’
+the object יהודה ‘Judah’ (4Q381 24a+b.5); בְּ ‘with, by means of’
 (instrumental) + וּבְמִשְפָּטִים נְטוּיָּה זְרוֹעַ גְּדֹלִים ‘an
-outstretched arm and mighty acts of judgement’ (Exod 6:6), + זְרוֹעַ
-with a strong arm (Ps 77:16), and בְּ ‘in, with’ (of accompaniment) +
+outstretched arm and mighty acts of judgement’ (Exod 6:6); + זְרוֹעַ
+with a strong arm (Ps 77:16); and בְּ ‘in, with’ (of accompaniment) +
 חֶסֶד
- ‘kindness’/‘mercy’ (Exod 15:13), + אַהֲבָה ‘love’ (Is 63:9), +
-חֶמְלָה‘compassion’ (Is 63:9), or the preposition מִן ‘from’ + מָוֶת
-‘death’ (Hos 13:14), + כָּל־רַע ‘all harm’ (Gen 48:16; Sir 51:8), +
-שַׁחַת ‘pit’ (Ps 103:4), + יַד אוֹיֵב / כַּף ‘hand of enemy’ (Ps 106:10;
-Mic 4:10), + צָר‘trouble’ (Ps 107:2; 4Q381 24a+b.5), + יַד חָזָק
-מִמֶּנוּ ‘the hand of the one stronger than him’ (Jer 31:11), [+ ידם
-‘their hands’ referring to Egyptians (4Q158 14i:5), + [ים]יד זר ‘the
+ ‘kindness’/‘mercy’ (Exod 15:13); + אַהֲבָה ‘love’ (Is 63:9); +
+חֶמְלָה‘compassion’ (Is 63:9); or the preposition מִן ‘from’ + מָוֶת
+‘death’ (Hos 13:14); + כָּל־רַע ‘all harm’ (Gen 48:16; Sir 51:8); +
+שַׁחַת 
+‘pit’ (Ps 103:4); + 
+יַד אוֹיֵב / כַּף
+ ‘hand of enemy’ (Ps 106:10;
+Mic 4:10); + צָר‘trouble’ (Ps 107:2; 4Q381 24a+b.5); 
++ יַד חָזָק מִמֶּנוּ
+ ‘the hand of the one stronger than him’ 
+(Jer 31:11); [+ ידם
+‘their hands’ referring to Egyptians (4Q158 14i:5); + [ים]יד זר ‘the
 hand of the foreigners’ (11Q5 18:17).
 
 
@@ -202,90 +234,118 @@ us’, although in both cases it is likely that the subject is יהוה.
 
 
 <b>A.9</b> A number of times the qal act part. גֹּאֵל is used as a substantive
-for both human and divine subjects:  
+for both human and divine subjects:<br>
+
+<div style="padding-left: 22px; text-indent: 0px;">
 <b>a)</b>  When a human גֹּאֵל is the subject, the following verbs occur with
-    it: בוא ‘to come’ (Lev 25:25), גאל ‘to redeem’ (Lev 25:25), היה ‘to
-    be’ (Lev 25:26), היה [understood] (Num 5:8), מות hiph. ‘to kill’
-    (Num 35:19[2x], 21), פגע ‘to meet’ (Num 35:19, 21), מצא ‘to find’
-    (Num 35:27), רצח ‘to kill’ (Num 35:27), רדף ‘to pursue’ (Deut 19:6,
-    Josh 20:5), עבר ‘to pass by’ (Ruth 4:1), אמר ‘to say’ (Ruth 4:6, 8),
-    שחת pi. ‘to destroy’ (2 Sam 14:11, Ruth 4:6 hiph.),יכל ‘to be able’
-    (Ruth 4:6[2x]), סור ‘to turn aside’ (Ruth 4:1), ישב ‘to sit down’
-    (Ruth 4:1), רבה hiph. ‘to multiply’ (2 Sam 14:11), שלף ‘to take off’
+    it: בוא ‘to come’ (Lev 25:25); גאל ‘to redeem’ (Lev 25:25); היה ‘to
+    be’ (Lev 25:26); היה [understood] (Num 5:8); מות hiph. ‘to kill’
+    (Num 35:19[2x], 21); פגע ‘to meet’ (Num 35:19, 21); מצא ‘to find’
+    (Num 35:27); רצח ‘to kill’ (Num 35:27); רדף ‘to pursue’ (Deut 19:6,
+    Josh 20:5); עבר ‘to pass by’ (Ruth 4:1); אמר ‘to say’ (Ruth 4:6, 8);
+    שחת pi. ‘to destroy’ 
+    (2 Sam 14:11, Ruth 4:6 hiph.);
+    יכל
+‘to be able’
+    (Ruth 4:6[2x]); סור ‘to turn aside’ (Ruth 4:1); ישב ‘to sit down’
+    (Ruth 4:1); רבה hiph. ‘to multiply’ (2 Sam 14:11); שלף ‘to take off’
     (Ruth 4:8).  
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">
 <b>b)</b>  A human גֹּאֵל is the object of the verbs שׁאר hiph. ‘to leave
-    remaining/ spare’ (1 Kgs 16:11), דבר (pi.) ‘to speak’ (Ruth 4:1),
-    and שׁבת hiph. ‘to let be lacking/ withhold’ (Ruth 4:14).  
+    remaining/ spare’ (1 Kgs 16:11); דבר (pi.) ‘to speak’ (Ruth 4:1);
+    and שׁבת hiph. ‘to let be lacking/ withhold’ (Ruth 4:14). 
+</div>
+<div style="padding-left: 22px; text-indent: 0px;"> 
 <b>c)</b>  A human גֹּאֵל occurs as <i>nomen regens</i> with הַדָּם ‘avenger of
     blood’ (Num 35:19, 21, 24, 25, 27[2x]; Deut 19:6, 12; Josh 20:3, 5,
     9; 2 Sam 14:11) and as <i>nomen rectum</i> with מִיַּד ‘from the hand of’
-    (Num 35:25), בְּיַד ‘into the hand of’ (Deut 19:12), ‘by [means of]
+    (Num 35:25); בְּיַד ‘into the hand of’ (Deut 19:12); ‘by [means of]
     the hand of’ (Josh 20:5).  
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">
 <b>d)</b>  A human גֹּאֵל occurs in the following nominal clauses: גֹּאֵל אִם
-    אֵין לָאִישׁ ‘if the man did not have a kinsman’ (Num 5:8), גֹּאֵל
-    אָֽתָּה‘you [Boaz] are next-of-kin’ (Ruth 3:9), גֹּאֵל אָנֹכִי ‘I
-    [Boaz] am a near kinsman’ (Ruth 3:12), יֵשׁ גֹּאֵל ‘there is a
-    kinsman’ (Ruth 3:12), בעל אשׁר אין לא גואל ‘an owner who has no
-    kinsman’ (4Q251 16:5), [ולבתולה אשׁ]ר֯ אי[ן] ל[ה] ג֯ואל ‘and for the
+    אֵין לָאִישׁ ‘if the man did not have a kinsman’ (Num 5:8); גֹּאֵל
+    אָֽתָּה‘you [Boaz] are next-of-kin’ (Ruth 3:9); גֹּאֵל אָנֹכִי ‘I
+    [Boaz] am a near kinsman’ (Ruth 3:12); יֵשׁ גֹּאֵל ‘there is a
+    kinsman’ (Ruth 3:12); בעל אשׁר אין לא גואל ‘an owner who has no
+    kinsman’ (4Q251 16:5); [ולבתולה אשׁ]ר֯ אי[ן] ל[ה] ג֯ואל ‘and for the
     girl who has no redeemer’ (4Q266 10i9).  
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">
 <b>e)</b>  The prepositions used in the above verses are: לְ of possession +
-    3m.sg. sf (Num 35:27), + היה ‘to be’ (Lev 25:26), of direction
-    ‘to’ + אמר ‘to say’ (Ruth 4:3), מִן (of direction) from the גֹּאֵל
-    (Num 35:12 [הַדָּם understood]; Josh 20:3), partitive ‘one of our
-    kinsmen’ (Ruth 2:20), הָאִישׁ + מִגֹּאֲלֵנוּ (partitiveמִן ) ‘a man
-    from (among) our nearest kin’ (Ruth 2:20), מִיַּד ‘from the hand of’
-    (Num 35:25), בְּיַד ‘in the hand of’ (Deut 19:12; Josh 20:5) ‘by the
-    hand of’ (Josh 20:9),בֵּין ‘between’ + גֹּאֵל הַדָּם הַמַכֶּה וּבֵין
-    ‘the slayer and the avenger of blood’ (Num 35:24).  
+    3m.sg. sf (Num 35:27); + היה ‘to be’ (Lev 25:26); of direction
+    ‘to’ + אמר ‘to say’ (Ruth 4:3); מִן (of direction) from the גֹּאֵל
+    (Num 35:12 [הַדָּם understood]; Josh 20:3); partitive ‘one of our
+    kinsmen’ (Ruth 2:20); הָאִישׁ + מִגֹּאֲלֵנוּ (partitive מִן) ‘a man
+    from (among) our nearest kin’ (Ruth 2:20); מִיַּד ‘from the hand of’
+    (Num 35:25); בְּיַד ‘in the hand of’ (Deut 19:12; Josh 20:5) ‘by the
+    hand of’ (Josh 20:9); בֵּין ‘between’ + גֹּאֵל הַדָּם הַמַכֶּה וּבֵין
+    ‘the slayer and the avenger of blood’ (Num 35:24). 
+</div>
+<div style="padding-left: 22px; text-indent: 0px;"> 
 <b>f)</b>  The only adjective used to describe a human גֹּאֵל is קָרוֹב‘near’
-    (Lev 25:25; Ruth 2:20, 3:12).  
+    (Lev 25:25; Ruth 2:20, 3:12). 
+</div>
+<div style="padding-left: 22px; text-indent: 0px;"> 
 <b>g)</b>  When a divine subject is the גֹּאֵל the following verbs occur: קום
-    ‘to stand’ (Job 19:25), ריב ‘to plead/contend’ (Prov 23:11 - subject
-    is presumably God, Jer 50:34), אמר ‘to say’ (Isa 54:8; 4Q176
-    8-11:10), בוא ‘to come’ (Isa 59:20), רחם ‘to have pity’ (4Q176
-    8-11:10), it is the indirect object of ידה hiph. (Sir 51:12).  
+    ‘to stand’ (Job 19:25); ריב ‘to plead/contend’ (Prov 23:11 - subject
+    is presumably God, Jer 50:34); אמר ‘to say’ (Isa 54:8; 4Q176
+    8-11:10); בוא ‘to come’ (Isa 59:20); רחם ‘to have pity’ (4Q176
+    8-11:10); it is the indirect object of ידה hiph. (Sir 51:12).  
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">
 <b>h)</b>  A divine גֹּאֵל occurs as <i>nomen regens</i> only with יִשְׂרֵָאֵל ‘of
-    Israel’ (Isa 49:7; Sir 51:12).  
+    Israel’ (Isa 49:7; Sir 51:12). 
+</div>
+<div style="padding-left: 22px; text-indent: 0px;"> 
 <b>i)</b>  A divine גֹּאֵל occurs in the following nominal clauses: גֹּאֲלֵךְ
     קְדוֹשׁ יִשְׂרֵָאֵל ‘your redeemer is the Holy One of Israel’ (Isa
-    41:14; 54:5; 4Q176 8-11:7), קְדוֹשׁ יִשְׂרֵָאֵל … גֹּאֲלֵנוּ ‘our
-    redeemer… is the Holy One of Israel’ (Isa 47:4), כּי אֲנִי יְהוָה
+    41:14; 54:5; 4Q176 8-11:7); קְדוֹשׁ יִשְׂרֵָאֵל … גֹּאֲלֵנוּ ‘our
+    redeemer… is the Holy One of Israel’ (Isa 47:4); כּי אֲנִי יְהוָה
     מוֹשִׁיעֵךְ גֹּאֲלֵךְ ‘that I am the LORD, your Saviour and your
-    redeemer…’ (Isa 49:26, 60:16), גֹּאֲלָם אֵל עֶלְיוֹן‘the most High
-    God is their redeemer’ (Ps 78:35), יְהוָה צְבָאוֹת ‘the LORD of
-    hosts’ (Isa 44:6; 47:4), גֹּאֲלֵנוּ מֵעוֹלָם שְׁמֶךָ ‘our redeemer
-    from of old is your name’ (Isa 63:16), גֹּאֲלָם חָָזָק ‘their
-    redeemer is strong’ (Prov 23:11; Jer 50:34), גֹּאֲלִי חָי ‘my
+    redeemer…’ (Isa 49:26, 60:16); גֹּאֲלָם אֵל עֶלְיוֹן‘the most High
+    God is their redeemer’ (Ps 78:35); יְהוָה צְבָאוֹת ‘the LORD of
+    hosts’ (Isa 44:6; 47:4); גֹּאֲלֵנוּ מֵעוֹלָם שְׁמֶךָ ‘our redeemer
+    from of old is your name’ (Isa 63:16); גֹּאֲלָם חָָזָק ‘their
+    redeemer is strong’ (Prov 23:11; Jer 50:34); גֹּאֲלִי חָי ‘my
     redeemer is alive’ (Job 19:25).  
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">
 <b>j)</b>  Nouns in apposition to a divine גֹּאֵל are צוּרִי ‘my rock’ (Ps
-    19:15),יהוה ‘the LORD’ (Ps 19:15; Isa 41:14; 43:14; 44:24; 48:17;
-    49:7; 54:8; 63:16), אֲבִיר יַעֲקֹב ‘the mighty one of Jacob’ (Isa
+    19:15); יהוה ‘the LORD’ (Ps 19:15; Isa 41:14; 43:14; 44:24; 48:17;
+    49:7; 54:8; 63:16); אֲבִיר יַעֲקֹב ‘the mighty one of Jacob’ (Isa
     49:26).  
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">
 <b>k)</b>  The passive part. of גאל (גְּאוּלִים) also appears as a substantive
-    in the following cases: as the subject of אמר ‘to say’ (Ps 107:2),
-    הלך ‘to walk’ (Isa 35:9), and עבר ‘to cross over’ (Isa 51:10), as an
-    object ofגאל ‘redeem’ (Ps 107:2), as <i>nomen regens</i> with יהוה ‘the
+    in the following cases: as the subject of אמר ‘to say’ (Ps 107:2);
+    הלך ‘to walk’ (Isa 35:9); and עבר ‘to cross over’ (Isa 51:10); as an
+    object ofגאל ‘redeem’ (Ps 107:2); as <i>nomen regens</i> with יהוה ‘the
     ones redeemed of the LORD’ (Isa 62:12; Ps 107:2) [for גְּאוּלַי in
     Isa 63:4 see the entry for גְּאוּלִים (noun)].
+</div>
 
 
 <b>A.10</b> The subject of גאל niph. may be: הַבַּיִת אֲשֶׁר־בָּעִיר ‘house in a
-walled city’ (Lev 25:30),אָח (from v. 47) ‘brother’ (Lev 25:49 [+
+walled city’ (Lev 25:30); אָח (from v. 47) ‘brother’ (Lev 25:49 [+
 אוֹ־הִשִׂיגָה יָדוֹ ‘if his hand reaches’, i.e. if he is able to redeem
-himself]; 25:54), שָׂדֶה ‘field’ (Lev 27:20), בְּהֵמָה הַטְּמֵאָה
+himself]; 25:54); שָׂדֶה ‘field’ (Lev 27:20); בְּהֵמָה הַטְּמֵאָה
 ‘unclean animal’ referring to בְּכוֹר ‘first-born’ (beast) from previous
-verse (Lev 27:27), כָּל־חֵרֶם אֲשֶׁר יַחֲרִם אִישׁ + לֹא ‘anything devoted
-to the ban’ (Lev 27:28),כָּל־מַעְשַׂר בָּקָר וָצֹאן + לֹא ‘all tithes of
+verse (Lev 27:27); כָּל־חֵרֶם אֲשֶׁר יַחֲרִם אִישׁ + לֹא ‘anything devoted
+to the ban’ (Lev 27:28); כָּל־מַעְשַׂר בָּקָר וָצֹאן + לֹא ‘all tithes of
 cattle and sheep’ (from v. 32) and תְּמוּרָתוֹ ‘its substitute’ (Lev
-27:33), שׁבִי יְרוּשָלָםִ / שׁבִיָּה בַּת־צִיּוֹן ‘captive Jerusalem’ /
+27:33); 
+שׁבִי יְרוּשָלָםִ / שׁבִיָּה בַּת־צִיּוֹן 
+‘captive Jerusalem’ /
 ‘captive daughter of Zion’ understood from v. 2 (Isa 52:3; 4Q176
-8-11:4), and probably נֶאֱמָן ‘a reliable one’ (4Q420 1a ii-v 6),
+8-11:4); and probably נֶאֱמָן ‘a reliable one’ (4Q420 1a ii-v 6),
 understood from l:5.
 
 
 <b>A.11</b> Prepositions used with גאל niph. are בְּ + אֵלֶּה ‘these [ways]’
-(Lev 25:54), and probably + צדק ‘righteousness’ (4Q420 1a ii-v 6), עַד +
-מְלֹאת ‘until the fulfilment’ of the year (Lev 25:30), בְכֶסֶף לֹא
+(Lev 25:54); and probably + צדק ‘righteousness’ (4Q420 1a ii-v 6); עַד +
+מְלֹאת ‘until the fulfilment’ of the year (Lev 25:30); בְכֶסֶף לֹא
 ‘without money’ (Isa 52:3)
 
 
@@ -519,27 +579,47 @@ Niphal:
 
 <b>A.1</b> Verbs found in parallelism with גאל are קנה ‘buy/acquire’ (Ps 74:2) and פדה ‘to set free’ (Jer 31:11, Hos 13:14).
 
-<b>A.2</b> A number of different verbs and phrases are associated with גאל.  
-<b>a)</b> In Ruth 4:8 קנה ‘to buy/acquire’ appears to take the place of
+<b>A.2</b> A number of different verbs and phrases are associated with גאל:
+
+<div style="padding-left: 22px; text-indent: 0px;">  
+<b>a)</b> 
+In Ruth 4:8 קנה ‘to buy/acquire’ appears to take the place of
 גְּאַל־לְךָ אַתָּה אֶת־גְּאֻלָּתִי in v. 6, when Naomi’s next-of-kin
 offers his right of redemption to Boaz (cf. also Ps 74:2 above). קנה
 also corresponds to גאל in Exod 15:13, 16. פדה ‘to ransom’ in Lev 27:27
 is either being used synonymously with גאל or is a particular term for
 the redemption of first-born.  
-<b>b)</b> As one would expect, many other ‘salvation’ words also occur in close
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">
+<b>b)</b> 
+As one would expect, many other ‘salvation’ words also occur in close
 proximity to גאל, namely פדה ‘to set free’ (Ps 69:19), ישע (hiph.) ‘to
 defend, help’ (Ps 106:10, Isa 63:9), נצל (hiph.) ‘to deliver’ (Exod 6:6,
-Mic 4:10, Sir 51:8, 11Q5 18:17).  
-<b>c)</b> In the context of the exodus rescue יצא (hiph.) ‘to bring out’ (Exod
+Mic 4:10, Sir 51:8, 11Q5 18:17).
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">  
+<b>c)</b> 
+In the context of the exodus rescue יצא (hiph.) ‘to bring out’ (Exod
 6:6), נחה ‘to lead’ and נהל ‘to guide’ (Exod 15:13) also occur alongside
 גאל.  
-<b>d)</b> In socio-legal contexts,ריב ‘to plead one’s cause’ (Ps 119:154, Lam
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">
+<b>d)</b> 
+In socio-legal contexts,ריב ‘to plead one’s cause’ (Ps 119:154, Lam
 3:58) is closely related to גאל.  
-<b>e)</b> In passages concerning rescue from oppression, קרב ‘to draw near’ (Ps
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">
+<b>e)</b> 
+In passages concerning rescue from oppression, קרב ‘to draw near’ (Ps
 69:19), נחם (pi.) ‘to comfort’ (Isa 52:9),רחם ‘to have pity’ (4Q176
 8-11:10) are all associated with גאל.  
-<b>f)</b> In a speech by יהוה, גאל is in collocation with קרא ‘to call’ (Isa
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">
+<b>f)</b> 
+In a speech by יהוה, גאל is in collocation with קרא ‘to call’ (Isa
 43:1).
+</div>
+
 
 <b>A.3</b> The nouns associated with גאל are רֵעֵהוּ ‘his friends’ (1 Kgs
 16:11) and גְּאוּלִים in apposition with עַם־הַקֹּדֶשׁ ‘the holy people’
@@ -980,5 +1060,4 @@ Johann J. Stamm, ‘גאל’, <i>THAT</i>, vol. 1: 385-396.
 </div>
 
 ## Notes
-
 
