@@ -1,11 +1,11 @@
 ---
 word_english: redemption,_right_of  
 word_hebrew:  גְּאֻלָּה  
-title: redemption (price of –/ right of –)
+title: (price/right of) redemption 
 semantic_fields: deliverance  
 contributors: alison_gray  
 first_published: 2007-08-01  
-last_update: 2023-10-01   
+last_update: 2023-10-01 (Raymond de Hoop)   
 update_info: 
 
 ---

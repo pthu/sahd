@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=גֹּאַל&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># גָּאַל – to redeem, avenge, reclaim
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1GALiv" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=גאל&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># גאל – to redeem, avenge, reclaim
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Alison Gray](../contributors/alison_gray.md)<br>
-First published: 2007-08-01<br>Last update: 2023-10-01 <br>Citation: Alison Gray, גָּאַל – to redeem, avenge, reclaim, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2007 (update: 2023)
+First published: 2007-08-01<br>Last update: 2023-10-01 (Raymond de Hoop) <br>Citation: Alison Gray, גאל – to redeem, avenge, reclaim, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2007 (update: 2023)
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole see on this site the 
@@ -208,22 +208,9 @@ sf. referring to <span dir="rtl" lang="he">חוסי בו</span>, ‘those seekin
 
 
 <b>A.7</b> גאל qal with a divine subject takes the preposition לְ introducing
-the object יהודה ‘Judah’ (4Q381 24a+b.5); בְּ ‘with, by means of’
-(instrumental) + וּבְמִשְפָּטִים נְטוּיָּה זְרוֹעַ גְּדֹלִים ‘an
-outstretched arm and mighty acts of judgement’ (Exod 6:6); + זְרוֹעַ
-with a strong arm (Ps 77:16); and בְּ ‘in, with’ (of accompaniment) +
-חֶסֶד
- ‘kindness’/‘mercy’ (Exod 15:13); + אַהֲבָה ‘love’ (Is 63:9); +
-חֶמְלָה‘compassion’ (Is 63:9); or the preposition מִן ‘from’ + מָוֶת
-‘death’ (Hos 13:14); + כָּל־רַע ‘all harm’ (Gen 48:16; Sir 51:8); +
-שַׁחַת 
-‘pit’ (Ps 103:4); + 
-יַד אוֹיֵב / כַּף
- ‘hand of enemy’ (Ps 106:10;
-Mic 4:10); + צָר‘trouble’ (Ps 107:2; 4Q381 24a+b.5); 
-+ יַד חָזָק מִמֶּנוּ
- ‘the hand of the one stronger than him’ 
-(Jer 31:11); [+ ידם
+the object יהודה, ‘Judah’ (4Q381 24a+b.5); בְּ, ‘with, by means of’(instrumental) + <span dir="rtl" lang="he">וּבְמִשְפָּטִים נְטוּיָּה זְרוֹעַ גְּדֹלִים</span>, ‘an
+outstretched arm and mighty acts of judgement’ (Exod 6:6); + <span dir="rtl" lang="he">זְרוֹעַ</span>, ’with a strong arm’ (Ps 77:16); and בְּ ‘in, with’ (of accompaniment) + <span dir="rtl" lang="he">חֶסֶד</span>, ‘kindness’/‘mercy’ (Exod 15:13); + <span dir="rtl" lang="he">אַהֲבָה</span>, ‘love’ (Is 63:9); + <span dir="rtl" lang="he">חֶמְלָה</span>, ‘compassion’ (Is 63:9); or the preposition מִן, ‘from’ + <span dir="rtl" lang="he">מָוֶת</span>, ‘death’ (Hos 13:14); + <span dir="rtl" lang="he">כָּל־רַע</span>, ‘all harm’ (Gen 48:16; Sir 51:8); + <span dir="rtl" lang="he">שַׁחַת</span> ‘pit’ (Ps 103:4); + <span dir="rtl" lang="he">כַּף/ יַד אוֹיֵב</span>, ‘hand of enemy’ (Ps 106:10; Mic 4:10); + <span dir="rtl" lang="he">צָר</span>, ‘trouble’ (Ps 107:2; 4Q381 24a+b.5); 
++ <span dir="rtl" lang="he">יַד חָזָק מִמֶּנוּ</span>, ‘the hand of the one stronger than him’ (Jer 31:11); [+ ידם
 ‘their hands’ referring to Egyptians (4Q158 14i:5); + [ים]יד זר ‘the
 hand of the foreigners’ (11Q5 18:17).
 
@@ -234,91 +221,49 @@ us’, although in both cases it is likely that the subject is יהוה.
 
 
 <b>A.9</b> A number of times the qal act part. גֹּאֵל is used as a substantive
-for both human and divine subjects:<br>
+for both human (a–f) and divine (g–k) subjects:
 
 <div style="padding-left: 22px; text-indent: 0px;">
-<b>a)</b>  When a human גֹּאֵל is the subject, the following verbs occur with
-    it: בוא ‘to come’ (Lev 25:25); גאל ‘to redeem’ (Lev 25:25); היה ‘to
-    be’ (Lev 25:26); היה [understood] (Num 5:8); מות hiph. ‘to kill’
-    (Num 35:19[2x], 21); פגע ‘to meet’ (Num 35:19, 21); מצא ‘to find’
-    (Num 35:27); רצח ‘to kill’ (Num 35:27); רדף ‘to pursue’ (Deut 19:6,
-    Josh 20:5); עבר ‘to pass by’ (Ruth 4:1); אמר ‘to say’ (Ruth 4:6, 8);
-    שחת pi. ‘to destroy’ 
-    (2 Sam 14:11, Ruth 4:6 hiph.);
-    יכל
-‘to be able’
-    (Ruth 4:6[2x]); סור ‘to turn aside’ (Ruth 4:1); ישב ‘to sit down’
-    (Ruth 4:1); רבה hiph. ‘to multiply’ (2 Sam 14:11); שלף ‘to take off’
-    (Ruth 4:8).  
+<b>a)</b>  When a <i>human</i> גֹּאֵל is the subject, the following verbs occur with it: בוא, ‘to come’ (Lev 25:25); גאל ‘to redeem’ (Lev 25:25); היה, ‘to be’ (Lev 25:26); היה, [understood] (Num 5:8); מות hiph., ‘to kill’ (Num 35:19[2x], 21); פגע, ‘to meet’ (Num 35:19, 21); מצא, ‘to find’ (Num 35:27); רצח, ‘to kill’ (Num 35:27); רדף ‘to pursue’ (Deut 19:6, Josh 20:5); עבר, ‘to pass by’ (Ruth 4:1); אמר, ‘to say’ (Ruth 4:6, 8);     שחת, pi. ‘to destroy’ (2 Sam 14:11, Ruth 4:6 hiph.);     יכל, ‘to be able’ (Ruth 4:6[2x]); סור, ‘to turn aside’ (Ruth 4:1); ישב, ‘to sit down’ (Ruth 4:1); רבה, hiph. ‘to multiply’ (2 Sam 14:11); שלף, ‘to take off’ (Ruth 4:8).  
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
-<b>b)</b>  A human גֹּאֵל is the object of the verbs שׁאר hiph. ‘to leave
-    remaining/ spare’ (1 Kgs 16:11); דבר (pi.) ‘to speak’ (Ruth 4:1);
-    and שׁבת hiph. ‘to let be lacking/ withhold’ (Ruth 4:14). 
+<b>b)</b>  
+A human גֹּאֵל is the object of the verbs שׁאר, hiph. ‘to leave remaining/ spare’ (1 Kgs 16:11); דבר, (pi.) ‘to speak’ (Ruth 4:1); and שׁבת hiph., ‘to let be lacking/ withhold’ (Ruth 4:14). 
 </div>
 <div style="padding-left: 22px; text-indent: 0px;"> 
-<b>c)</b>  A human גֹּאֵל occurs as <i>nomen regens</i> with הַדָּם ‘avenger of
-    blood’ (Num 35:19, 21, 24, 25, 27[2x]; Deut 19:6, 12; Josh 20:3, 5,
-    9; 2 Sam 14:11) and as <i>nomen rectum</i> with מִיַּד ‘from the hand of’
-    (Num 35:25); בְּיַד ‘into the hand of’ (Deut 19:12); ‘by [means of]
-    the hand of’ (Josh 20:5).  
+<b>c)</b>  
+A human גֹּאֵל occurs as <i>nomen regens</i> with הַדָּם, ‘avenger of blood’ (Num 35:19, 21, 24, 25, 27[2x]; Deut 19:6, 12; Josh 20:3, 5, 9; 2 Sam 14:11) and as <i>nomen rectum</i> with מִיַּד, ‘from the hand of’ (Num 35:25); בְּיַד, ‘into the hand of’ (Deut 19:12), ‘by [means of] the hand of’ (Josh 20:5).  
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
-<b>d)</b>  A human גֹּאֵל occurs in the following nominal clauses: גֹּאֵל אִם
-    אֵין לָאִישׁ ‘if the man did not have a kinsman’ (Num 5:8); גֹּאֵל
-    אָֽתָּה‘you [Boaz] are next-of-kin’ (Ruth 3:9); גֹּאֵל אָנֹכִי ‘I
-    [Boaz] am a near kinsman’ (Ruth 3:12); יֵשׁ גֹּאֵל ‘there is a
-    kinsman’ (Ruth 3:12); בעל אשׁר אין לא גואל ‘an owner who has no
-    kinsman’ (4Q251 16:5); [ולבתולה אשׁ]ר֯ אי[ן] ל[ה] ג֯ואל ‘and for the
-    girl who has no redeemer’ (4Q266 10i9).  
+<b>d)</b>  A human גֹּאֵל occurs in the following nominal clauses: <span dir="rtl" lang="he">אִם אֵין לָאִישׁ גֹּאֵל</span>, ‘if the man did not have a kinsman’ (Num 5:8); <span dir="rtl" lang="he">גֹּאֵל אָֽתָּה</span>, ‘you [Boaz] are next-of-kin’ (Ruth 3:9); <span dir="rtl" lang="he">גֹּאֵל אָנֹכִי</span>, ‘I [Boaz] am a near kinsman’ (Ruth 3:12); 
+<span dir="rtl" lang="he">יֵשׁ גֹּאֵל</span>, ‘there is a kinsman’ (Ruth 3:12); 
+<span dir="rtl" lang="he">בעל אשׁר אין לו גואל</span>, ‘an owner who has no kinsman’ (4Q251 16:5); 
+<span dir="rtl" 
+lang="he">[ולבתולה אש]ר̇ אי[ן] ל[ה] ג̇ואל</span>,
+ ‘and for the girl who has no redeemer’ (4Q266 10i9).  
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
-<b>e)</b>  The prepositions used in the above verses are: לְ of possession +
-    3m.sg. sf (Num 35:27); + היה ‘to be’ (Lev 25:26); of direction
-    ‘to’ + אמר ‘to say’ (Ruth 4:3); מִן (of direction) from the גֹּאֵל
-    (Num 35:12 [הַדָּם understood]; Josh 20:3); partitive ‘one of our
-    kinsmen’ (Ruth 2:20); הָאִישׁ + מִגֹּאֲלֵנוּ (partitive מִן) ‘a man
-    from (among) our nearest kin’ (Ruth 2:20); מִיַּד ‘from the hand of’
-    (Num 35:25); בְּיַד ‘in the hand of’ (Deut 19:12; Josh 20:5) ‘by the
-    hand of’ (Josh 20:9); בֵּין ‘between’ + גֹּאֵל הַדָּם הַמַכֶּה וּבֵין
-    ‘the slayer and the avenger of blood’ (Num 35:24). 
+<b>e)</b>  
+The prepositions used in the above verses are: לְ of possession + 3m.sg. sf (Num 35:27); + היה, ‘to be’ (Lev 25:26); of direction ‘to’ + אמר, ‘to say’ (Ruth 4:3); מִן (of direction) from the <span dir="rtl" lang="he">גֹּאֵל</span> (Num 35:12 [הַדָּם understood]; Josh 20:3); partitive ‘one of our kinsmen’ (Ruth 2:20); <span dir="rtl" lang="he">הָאִישׁ</span> + <span dir="rtl" lang="he">מִגֹּאֲלֵנוּ</span> (partitive מִן) ‘a man from (among) our nearest kin’ (Ruth 2:20); מִיַּד, ‘from the hand of’ (Num 35:25); בְּיַד, ‘in the hand of’ (Deut 19:12; Josh 20:5); ‘by the hand of’ (Josh 20:9); בֵּין, ‘between’ + <span dir="rtl" lang="he">הַמַכֶּה וּבֵין גֹּאֵל הַדָּם</span>, ‘the slayer and the avenger of blood’ (Num 35:24). 
 </div>
 <div style="padding-left: 22px; text-indent: 0px;"> 
-<b>f)</b>  The only adjective used to describe a human גֹּאֵל is קָרוֹב‘near’
-    (Lev 25:25; Ruth 2:20, 3:12). 
+<b>f)</b>  The only adjective used to describe a human גֹּאֵל is קָרוֹב, ‘near’ (Lev 25:25; Ruth 2:20, 3:12). 
 </div>
 <div style="padding-left: 22px; text-indent: 0px;"> 
-<b>g)</b>  When a divine subject is the גֹּאֵל the following verbs occur: קום
-    ‘to stand’ (Job 19:25); ריב ‘to plead/contend’ (Prov 23:11 - subject
-    is presumably God, Jer 50:34); אמר ‘to say’ (Isa 54:8; 4Q176
-    8-11:10); בוא ‘to come’ (Isa 59:20); רחם ‘to have pity’ (4Q176
-    8-11:10); it is the indirect object of ידה hiph. (Sir 51:12).  
+<b>g)</b>  
+When a <i>divine</i> subject is the גֹּאֵל the following verbs occur: קום, ‘to stand’ (Job 19:25); ריב, ‘to plead/contend’ (Prov 23:11 - subject is presumably God, Jer 50:34); אמר, ‘to say’ (Isa 54:8; 4Q176 8-11:10); בוא, ‘to come’ (Isa 59:20); רחם, ‘to have pity’ (4Q176 8-11:10); it is the indirect object of ידה hiph. (Sir 51:12).  
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
-<b>h)</b>  A divine גֹּאֵל occurs as <i>nomen regens</i> only with יִשְׂרֵָאֵל ‘of
-    Israel’ (Isa 49:7; Sir 51:12). 
+<b>h)</b>  A divine גֹּאֵל occurs as <i>nomen regens</i> only with יִשְׂרֵָאֵל, ‘of Israel’ (Isa 49:7; Sir 51:12). 
 </div>
 <div style="padding-left: 22px; text-indent: 0px;"> 
-<b>i)</b>  A divine גֹּאֵל occurs in the following nominal clauses: גֹּאֲלֵךְ
-    קְדוֹשׁ יִשְׂרֵָאֵל ‘your redeemer is the Holy One of Israel’ (Isa
-    41:14; 54:5; 4Q176 8-11:7); קְדוֹשׁ יִשְׂרֵָאֵל … גֹּאֲלֵנוּ ‘our
-    redeemer… is the Holy One of Israel’ (Isa 47:4); כּי אֲנִי יְהוָה
-    מוֹשִׁיעֵךְ גֹּאֲלֵךְ ‘that I am the LORD, your Saviour and your
-    redeemer…’ (Isa 49:26, 60:16); גֹּאֲלָם אֵל עֶלְיוֹן‘the most High
-    God is their redeemer’ (Ps 78:35); יְהוָה צְבָאוֹת ‘the LORD of
-    hosts’ (Isa 44:6; 47:4); גֹּאֲלֵנוּ מֵעוֹלָם שְׁמֶךָ ‘our redeemer
-    from of old is your name’ (Isa 63:16); גֹּאֲלָם חָָזָק ‘their
-    redeemer is strong’ (Prov 23:11; Jer 50:34); גֹּאֲלִי חָי ‘my
-    redeemer is alive’ (Job 19:25).  
+<b>i)</b>  A divine גֹּאֵל occurs in the following nominal clauses: <span dir="rtl" lang="he">גֹּאֲלֵךְ קְדוֹשׁ יִשְׂרֵָאֵל</span>, ‘your redeemer is the Holy One of Israel’ (Isa 41:14; 54:5; 4Q176 8-11:7); <span dir="rtl" lang="he">גֹּאֲלֵנוּ … קְדוֹשׁ יִשְׂרֵָאֵל</span>, ‘our redeemer… is the Holy One of Israel’ (Isa 47:4); <span dir="rtl" lang="he">כּי אֲנִי יְהוָה מוֹשִׁיעֵךְ גֹּאֲלֵךְ</span>, ‘that I am the LORD, your Saviour and your redeemer’ (Isa 49:26, 60:16); <span dir="rtl" lang="he">אֵל עֶלְיוֹן גֹּאֲלָם</span>, ‘the most High God is their redeemer’ (Ps 78:35); <span dir="rtl" lang="he"></span>,<span dir="rtl" lang="he">יְהוָה צְבָאוֹת</span>, ‘the LORD of hosts’ (Isa 44:6; 47:4); <span dir="rtl" lang="he">גֹּאֲלֵנוּ מֵעוֹלָם שְׁמֶךָ</span>, ‘our redeemer from of old is your name’ (Isa 63:16); <span dir="rtl" lang="he">גֹּאֲלָם חָָזָק</span>, ‘their redeemer is strong’ (Prov 23:11; Jer 50:34); <span dir="rtl" lang="he">גֹּאֲלִי חָי</span>, ‘my redeemer is alive’ (Job 19:25).  
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
-<b>j)</b>  Nouns in apposition to a divine גֹּאֵל are צוּרִי ‘my rock’ (Ps
-    19:15); יהוה ‘the LORD’ (Ps 19:15; Isa 41:14; 43:14; 44:24; 48:17;
-    49:7; 54:8; 63:16); אֲבִיר יַעֲקֹב ‘the mighty one of Jacob’ (Isa
-    49:26).  
+<b>j)</b>  Nouns in apposition to a divine גֹּאֵל are צוּרִי, ‘my rock’ (Ps 19:15); <span dir="rtl" lang="he">יהוה</span>, ‘the LORD’ (Ps 19:15; Isa 41:14; 43:14; 44:24; 48:17; 49:7; 54:8; 63:16); <span dir="rtl" lang="he">אֲבִיר יַעֲקֹב</span>, ‘the mighty one of Jacob’ (Isa 49:26).  
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
-<b>k)</b>  The passive part. of גאל (גְּאוּלִים) also appears as a substantive
+<b>k)</b>  The pass.part. of <span dir="rtl" lang="he">גאל</span> (גְּאוּלִים) also appears as a substantive 
     in the following cases: as the subject of אמר ‘to say’ (Ps 107:2);
     הלך ‘to walk’ (Isa 35:9); and עבר ‘to cross over’ (Isa 51:10); as an
     object ofגאל ‘redeem’ (Ps 107:2); as <i>nomen regens</i> with יהוה ‘the
