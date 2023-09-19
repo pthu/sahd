@@ -467,8 +467,7 @@ consistently translated by שׁיזב (‘to save, rescue’, <i>DJPA</i><small><
 translated by פרק.
 
 
-<b>A.2</b> It is interesting that in Tg<small><sup>O</sup></small> and Tg<small><sup>J</sup></small> the root גאל is only
-retained (presumably as a loan-word) in the context of blood vengeance.
+<b>A.2</b> It is interesting that in Tg<small><sup>O</sup></small> and Tg<small><sup>J</sup></small> the root גאל is only retained (presumably as a loan-word) in the context of blood vengeance.
 
 
 <b>d.Vulgate (Vg):</b> 
@@ -512,46 +511,34 @@ Niphal:
 
 <div style="padding-left: 22px; text-indent: 0px;">  
 <b>a)</b> 
-In Ruth 4:8 קנה ‘to buy/acquire’ appears to take the place of
-גְּאַל־לְךָ אַתָּה אֶת־גְּאֻלָּתִי in v. 6, when Naomi’s next-of-kin
-offers his right of redemption to Boaz (cf. also Ps 74:2 above). קנה
-also corresponds to גאל in Exod 15:13, 16. פדה ‘to ransom’ in Lev 27:27
-is either being used synonymously with גאל or is a particular term for
-the redemption of first-born.  
+In Ruth 4:8 קנה, ‘to buy/acquire’ appears to take the place of <span dir="rtl" lang="he">גְּאַל־לְךָ אַתָּה אֶת־גְּאֻלָּתִי</span> in v. 6, when Naomi’s next-of-kin offers his right of redemption to Boaz (cf. also Ps 74:2 above). קנה
+also corresponds to גאל in Exod 15:13, 16. פדה, ‘to ransom’ in Lev 27:27 is either being used synonymously with גאל or is a particular term for the redemption of first-born. 
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
 <b>b)</b> 
-As one would expect, many other ‘salvation’ words also occur in close
-proximity to גאל, namely פדה ‘to set free’ (Ps 69:19), ישע (hiph.) ‘to
-defend, help’ (Ps 106:10, Isa 63:9), נצל (hiph.) ‘to deliver’ (Exod 6:6,
+As one would expect, many other ‘deliverance’ words also occur in close proximity to גאל, namely פדה, ‘to set free’ (Ps 69:19), ישע (hiph.), ‘to defend, help’ (Ps 106:10, Isa 63:9), נצל (hiph.), ‘to deliver’ (Exod 6:6,
 Mic 4:10, Sir 51:8, 11Q5 18:17).
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">  
 <b>c)</b> 
-In the context of the exodus rescue יצא (hiph.) ‘to bring out’ (Exod
-6:6), נחה ‘to lead’ and נהל ‘to guide’ (Exod 15:13) also occur alongside
-גאל.  
+In the context of the exodus rescue יצא (hiph.) ‘to bring out’ (Exod 6:6), נחה, ‘to lead’ and נהל, ‘to guide’ (Exod 15:13) also occur alongside גאל.  
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
 <b>d)</b> 
-In socio-legal contexts,ריב ‘to plead one’s cause’ (Ps 119:154, Lam
-3:58) is closely related to גאל.  
+In socio-legal contexts, ריב, ‘to plead one’s cause’ (Ps 119:154, Lam 3:58) is closely related to גאל.  
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
 <b>e)</b> 
-In passages concerning rescue from oppression, קרב ‘to draw near’ (Ps
-69:19), נחם (pi.) ‘to comfort’ (Isa 52:9),רחם ‘to have pity’ (4Q176
-8-11:10) are all associated with גאל.  
+In passages concerning rescue from oppression, קרב, ‘to draw near’ (Ps 69:19), נחם (pi.), ‘to comfort’ (Isa 52:9),רחם ‘to have pity’ (4Q176 8-11:10) are all associated with גאל.  
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
 <b>f)</b> 
-In a speech by יהוה, גאל is in collocation with קרא ‘to call’ (Isa
+In a speech by <span dir="rtl" lang="he">יהוה</span>, גאל is in collocation with קרא, ‘to call’ (Isa
 43:1).
 </div>
 
 
-<b>A.3</b> The nouns associated with גאל are רֵעֵהוּ ‘his friends’ (1 Kgs
-16:11) and גְּאוּלִים in apposition with עַם־הַקֹּדֶשׁ ‘the holy people’
+<b>A.3</b> The nouns associated with גאל are רֵעֵהוּ, ‘his friends’ (1 Kgs 16:11) and גְּאוּלִים in apposition with עַם־הַקֹּדֶשׁ, ‘the holy people’
 (Isa 62:12).
 
 
