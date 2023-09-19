@@ -289,13 +289,11 @@ Qal:
 *  ἀγχιστεύς, ‘nearest of kin’:[^4] 1 Kgs 16:11; Isa 41:14 <small><sup>θʹ</sup></small>; Job 19:25<small><sup>θʹ</sup></small>; Prov 23:11<small><sup>θʹ</sup></small>; Ruth 3:9, 12 (2x), 4:3, 6, 8, 14; Prov 23:11<small><sup>σʹ</sup></small>;
 *  ἀγχιστεύς + τοῦ αἷματος, ‘entitled to avenge a kinsman’s death’: 2 Sam 14:11;
 *  ἀγχιστευτής, ‘nearest of kin’: Isa 41:14<small><sup>αʹ</sup></small>; 54:5<small><sup>αʹ</sup></small>, 8<small><sup>αʹ</sup></small>; 60:16<small><sup>αʹ</sup></small>; 63:16(?)<small><sup>αʹ</sup></small>; Ps 78:35<small><sup>αʹ</sup></small>; Prov 23:11<small><sup>αʹ</sup></small>; Ruth 4:1;
-*  ἀγχιστεύω(ν), ‘to be near in blood-relationship, to act as nearest of kin’: Gen 48:16<small><sup>αʹ</sup></small>; Lev 25:25<small><sup>1st</sup></small>, 26; Num 5:8; 35:12, 19, 21, 24, 25, 27 (2x); Deut 19:6, 12; Josh 20:3, 5, 9; Isa 35:9<small><sup>αʹσʹ</sup></small>; 47:4<small><sup>αʹ</sup></small>; 49:7<small><sup>αʹθʹ</sup></small>; 52:3<small><sup>αʹ</sup></small>; 59:20<small><sup>αʹσʹ</sup></small>, 62:12<small><sup>αʹ</sup></small>; 63:16<small><sup>αʹ</sup></small>(?); Jer 31:11<small><sup>αʹ</sup></small>; Ps 19:15<small><sup>αʹ</sup></small>; 72:14<small><sup>αʹ</sup></small>; 103:4<small><sup>αʹ</sup></small>; 107:2<small><sup>αʹ</sup></small>; 119:154<small><sup>αʹ</sup></small>; Job 3:5<small><sup>θʹ</sup></small>; Ruth 2:20; 3:13(4x); 4:4(5x), 6(3x);
+*  ἀγχιστεύω(ν),[^Aq] ‘to be near in blood-relationship, to act as nearest of kin’: Gen 48:16<small><sup>αʹ</sup></small>; Lev 25:25<small><sup>1st</sup></small>, 26; Num 5:8; 35:12, 19, 21, 24, 25, 27 (2x); Deut 19:6, 12; Josh 20:3, 5, 9; Isa 35:9<small><sup>αʹσʹ</sup></small>; 47:4<small><sup>αʹ</sup></small>; 49:7<small><sup>αʹθʹ</sup></small>; 52:3<small><sup>αʹ</sup></small>; 59:20<small><sup>αʹσʹ</sup></small>, 62:12<small><sup>αʹ</sup></small>; 63:16<small><sup>αʹ</sup></small>(?); Jer 31:11<small><sup>αʹ</sup></small>; Ps 19:15<small><sup>αʹ</sup></small>; 72:14<small><sup>αʹ</sup></small>; 103:4<small><sup>αʹ</sup></small>; 107:2<small><sup>αʹ</sup></small>; 119:154<small><sup>αʹ</sup></small>; Job 3:5<small><sup>θʹ</sup></small>; Ruth 2:20; 3:13(4x); 4:4(5x), 6(3x);
 *  ἀγχιστεύω(ν) + τὸ αἷμα / τοῦ αἷματος, ‘the blood-relation entitled to avenge his kinsman’s death’: Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12; Josh 20:3; 2 Sam 14:11; 
-*  A αʹ: ἀγχιστεύω (cf. Lev 25:33 [<i>quicunque affinis est</i>]; 27:15 [<i>affinem fecerit</i>]; 27:33 [<i>affinis non efficietur</i>])
-*  S: ἀγχιστεύω(ν) cf. Lev 25:33 [<i>quicunque affinis est</i>])
 *  ἀαντιλαμβάνομαι, ‘to grasp, help’: Isa 49:26;
 *  ἀντιποιέομαι, ‘to lay claim to’: Job 3:5<small><sup>σʹ</sup></small>;
-*  ἐγγίζω, ‘to draw near, be close by’: Jer 50:34<small><sup>αʹσʹ</sup></small>; Lam 3:58<small><sup>αʹ</sup></small>;
+*  ἐγγίζω,[^Aq2] ‘to draw near, be close by’: Jer 50:34<small><sup>αʹσʹ</sup></small>; Lam 3:58<small><sup>αʹ</sup></small>;
 *  ἐκλαμβάνω, ‘to welcome’: Job 3:5;
 *  ἐκλύω με, ‘to free me’: Job 19:25;
 *  ἐξαιρέω, ‘to take (out)’: Jer 31:11, Isa 60:16;
@@ -307,6 +305,10 @@ Qal:
 *  ὑπερμαχέω, ‘to defend, fight on behalf of’: Sir 51:8 <small><sup>σʹ</sup></small>.
 
 [^4]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>, <i>s.v.</i>
+
+[^Aq]: In Lev 25:22<sup>αʹσʹ</sup>; 27:15<sup>αʹ</sup> we may find ἀγχιστεύω according to Field<small><sup>I</sup></small>, 212, n. 47; 217, n. 12, which is a  retroversion of <i>quicunque affinis est</i> (25:33) and <i>affinem fecerit</i> (27:15), based on the testimony of Hesychius, although ἐγγίζω would be possible as well.
+
+[^Aq2]: In Lev 27:33<sup>αʹ</sup> we may find ἐγγίζω as well according to Field<small><sup>I</sup></small>,  218 n. 40, which is a retroversion of <i>affinis non efficietur</i> (27:33), based on the testimony of  Hesychius.
 
 Niphal:
 
