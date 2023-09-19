@@ -9,7 +9,7 @@ First published: 2007-08-01<br>Last update: 2023-10-01 (Raymond de Hoop) <br>Cit
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole see on this site the 
-<a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
+<a href="/sahd/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
@@ -263,35 +263,17 @@ When a <i>divine</i> subject is the גֹּאֵל the following verbs occur: קו
 <b>j)</b>  Nouns in apposition to a divine גֹּאֵל are צוּרִי, ‘my rock’ (Ps 19:15); <span dir="rtl" lang="he">יהוה</span>, ‘the LORD’ (Ps 19:15; Isa 41:14; 43:14; 44:24; 48:17; 49:7; 54:8; 63:16); <span dir="rtl" lang="he">אֲבִיר יַעֲקֹב</span>, ‘the mighty one of Jacob’ (Isa 49:26).  
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
-<b>k)</b>  The pass.part. of <span dir="rtl" lang="he">גאל</span> (גְּאוּלִים) also appears as a substantive 
-    in the following cases: as the subject of אמר ‘to say’ (Ps 107:2);
-    הלך ‘to walk’ (Isa 35:9); and עבר ‘to cross over’ (Isa 51:10); as an
-    object ofגאל ‘redeem’ (Ps 107:2); as <i>nomen regens</i> with יהוה ‘the
-    ones redeemed of the LORD’ (Isa 62:12; Ps 107:2) [for גְּאוּלַי in
-    Isa 63:4 see the entry for גְּאוּלִים (noun)].
+<b>k)</b>  The pass.part. of <span dir="rtl" lang="he">גאל</span> (גְּאוּלִים) also appears as a substantive in the following cases: as the subject of אמר, ‘to say’ (Ps 107:2); הלך, ‘to walk’ (Isa 35:9); and עבר, ‘to cross over’ (Isa 51:10); as an object of גאל, ‘redeem’ (Ps 107:2); as <i>nomen regens</i> with יהוה ‘the ones redeemed of the LORD’ (Isa 62:12; Ps 107:2).  [for גְּאוּלַי in Isa 63:4 see the entry for <a href="https://pthu.github.io/sahd/words/redemption/">גְּאוּלִים</a> (noun).
 </div>
 
 
-<b>A.10</b> The subject of גאל niph. may be: הַבַּיִת אֲשֶׁר־בָּעִיר ‘house in a
-walled city’ (Lev 25:30); אָח (from v. 47) ‘brother’ (Lev 25:49 [+
-אוֹ־הִשִׂיגָה יָדוֹ ‘if his hand reaches’, i.e. if he is able to redeem
-himself]; 25:54); שָׂדֶה ‘field’ (Lev 27:20); בְּהֵמָה הַטְּמֵאָה
-‘unclean animal’ referring to בְּכוֹר ‘first-born’ (beast) from previous
-verse (Lev 27:27); כָּל־חֵרֶם אֲשֶׁר יַחֲרִם אִישׁ + לֹא ‘anything devoted
-to the ban’ (Lev 27:28); כָּל־מַעְשַׂר בָּקָר וָצֹאן + לֹא ‘all tithes of
-cattle and sheep’ (from v. 32) and תְּמוּרָתוֹ ‘its substitute’ (Lev
-27:33); 
-שׁבִי יְרוּשָלָםִ / שׁבִיָּה בַּת־צִיּוֹן 
-‘captive Jerusalem’ /
-‘captive daughter of Zion’ understood from v. 2 (Isa 52:3; 4Q176
-8-11:4); and probably נֶאֱמָן ‘a reliable one’ (4Q420 1a ii-v 6),
-understood from l:5.
+<b>A.10</b> The subject of גאל niph. may be:<span dir="rtl" lang="he">הַבַּיִת אֲשֶׁר־בָּעִיר</span>, ‘house in a
+walled city’ (Lev 25:30); אָח (from v. 47), ‘brother’ (Lev 25:49 [+ <span dir="rtl" lang="he">אוֹ־הִשִׂיגָה יָדוֹ</span>, ‘if his hand reaches’, i.e. if he is able to redeem himself]; 25:54); שָׂדֶה, ‘field’ (Lev 27:20); <span dir="rtl" lang="he">בְּהֵמָה הַטְּמֵאָה</span>, ‘unclean animal’ referring to בְּכוֹר, ‘first-born’ (beast) from previous verse (Lev 27:27); 
+<span dir="rtl" lang="he">לאֹ + כָּל־חֵרֶם אֲשֶׁר יַחֲרִם אִישׁ</span>, ‘anything devoted to the ban’ (Lev 27:28); 
+<span dir="rtl" lang="he">לֹא + כָּל־מַעְשַׂר בָּקָר וָצֹאן</span>,  ‘all tithes of cattle and sheep’ (from v. 32) and תְּמוּרָתוֹ, ‘its substitute’ (Lev 27:33); <span dir="rtl" lang="he">שׁבִי יְרוּשָלָםִ /שׁבִיָּה בַּת־צִיּוֹן </span>, ‘captive Jerusalem’/ ‘captive daughter of Zion’ understood from v. 2 (Isa 52:3; 4Q176 8-11:4); and probably נֶאֱמָן, ‘a reliable one’ (4Q420 1a ii-v 6), understood from l:5.
 
 
-<b>A.11</b> Prepositions used with גאל niph. are בְּ + אֵלֶּה ‘these [ways]’
-(Lev 25:54); and probably + צדק ‘righteousness’ (4Q420 1a ii-v 6); עַד +
-מְלֹאת ‘until the fulfilment’ of the year (Lev 25:30); בְכֶסֶף לֹא
-‘without money’ (Isa 52:3)
+<b>A.11</b> Prepositions used with גאל niph. are <span dir="rtl" lang="he">בְּ</span> + אֵלֶּה ‘these [ways]’ (Lev 25:54); and probably + צדק, ‘righteousness’ (4Q420 1a ii-v 6); <span dir="rtl" lang="he">עַד</span> + מְלֹאת, ‘until the fulfilment’ of the year (Lev 25:30); <span dir="rtl" lang="he">לֹא בְכֶסֶף</span>, ‘without money’ (Isa 52:3).
 
 
 
