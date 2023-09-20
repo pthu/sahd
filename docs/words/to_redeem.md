@@ -619,32 +619,16 @@ of a kinsman, namely the responsibility to protect and help a family member in t
 <b>A.10</b> גאל niph., ‘to be reclaimed’ in Isa 52:3 (cf. 4Q176 8-11:4) is set in response to the community lament in 51:9f. and is a promise of liberation, in preparation for a summons (52:11) to depart from captivity. The legal sense of גאל is being used figuratively here, in opposition to מכר, to mean ‘reclaim’ (cf. Leviticus 25). Since Israel was not ‘sold’ in a proper legal transaction to Babylon, no ransom price is due from God, their rightful owner, for their ‘redemption’. This usage of גאל seems to suggest that its meaning can ‘overlap’ between the socio-legal and theological spheres. Isa 52:3 is a clear case of sharing the meaning of the socio-legal context, but excluding the monetary exchange.
 
 
-<b>A.11</b> The use of מִן with גאל aligns it more closely with other
-‘salvation’ words, e.g. נצל hiph., מלט pi. and חלץ pi.. This use of גאל
-does not seem to be a radical departure in meaning from its meaning in
-references to the exodus, although it is slightly more developed (cf.
-use of מִן with גאל in a passage on the exodus in the Reworked
-Pentateuch, 4Q158 14 i 5). The understanding of God as kinsman, who
-claims Israel and bails them out in times of trouble, is not excluded
-from the meaning of גאל with מִן e.g. Ps 106:10, where גאל seems to
-parallel ישׁע hiph. The other examples of גאל + מִן imply a sense of
-rescue from oppressive powers and threats to life for the people as a
-whole or individuals within it (Jer 31:11; Hos 13:14; Mic 4:10; Ps
-72:14; 103:4; 107:2; 4Q381 24a+b.5; 11Q5 18:17).
+<b>A.11</b> The use of מִן with גאל aligns it more closely with other ‘deliverance’ words, e.g. נצל hiph., מלט pi., and חלץ pi. This use of גאל does not seem to be a radical departure in meaning from its meaning in
+references to the exodus, although it is slightly more developed (cf. use of מִן with גאל in a passage on the exodus in the Reworked Pentateuch, 4Q158 14:i.5). The understanding of God as kinsman, who claims Israel and bails them out in times of trouble, is not excluded
+from the meaning of גאל with מִן e.g. Ps 106:10, where גאל seems to parallel ישׁע hiph. The other examples of גאל + מִן imply a sense of rescue from oppressive powers and threats to life for the people as a whole or individuals within it (Jer 31:11; Hos 13:14; Mic 4:10; Ps 72:14; 103:4; 107:2; 4Q381 24a+b.5; 11Q5 18:17).
 
 
-<b>A.12</b> The use of מִן does perhaps suggest a physical or metaphorical
-removal from trouble, rather than a restoration to the original owner,
-although the idea of liberation from the hand or power (יַד / כַּף) of
-enemies (in all but two instances above) seems to suggest a transference
-of ownership. Hos 13:14 is an early example of גאל and פדה being used
-with מִן (not later than 8th century BCE; see also B.3). This
-contradicts assumptions that the use of מִן with גאל was a later
-development.
+<b>A.12</b> The use of מִן does perhaps suggest a physical or metaphorical removal from trouble, rather than a restoration to the original owner, although the idea of liberation from the hand or power (יַד / כַּף) of
+enemies (in all but two instances above) seems to suggest a transference of ownership. Hos 13:14 is an early example of גאל and פדה being used with מִן (not later than 8th century BCE; see also B.3). This contradicts assumptions that the use of מִן with גאל was a later development.
 
 
-<b>A.13</b> An unusual connection is made in 4QPseudo-Ezekiel between גאל and
-ברית in a speech by יהוה declaring that he is the one who redeemed his
+<b>A.13</b> An unusual connection is made in 4QPseudo-Ezekiel between גאל and ברית in a speech by יהוה, declaring that he is the one who redeemed his
 people לתת להם הברית, which could either be rendered ‘in order to give
 them the covenant’ or ‘by giving them the covenant’. If one compares the
 language of Ezekiel 37:23-28. it seems that God will save (ישׁע hiph., v.
