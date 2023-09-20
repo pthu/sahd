@@ -160,7 +160,7 @@ Verb: ʿAyin-Guttural, triliteral root.
 in a cultic context – אִישׁ, ‘a man / someone’ (Lev 27:31; 4Q367 3:7); הַמַּקְדִּישׁ, ‘one who consecrates’ (Lev 27:15, 19, 20); subj. not specified (Lev 27:13; 4Q251 14:2);  
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
-<b>b)</b> 
+<b>b)</b><a id="Syntagmatics-A1b"></a> 
 in a socio-legal context – גֹּאֵל, ‘next of kin’ (Lev 25:25; Ruth 3:13 [3x], 4:4[4x], 6[2x]); <span dir="rtl" lang="he">מִן הַלְוִיִּם</span>, ‘(one) of the levites’ (Lev. 25:33: for the superiority of this interpretation to ‘from the levites’ see Milgrom 2001: 2202-03); אָח, ‘brother’ (Lev 25:48); דּוֹד, ‘paternal uncle’, בֶּן־דּוֹד, ‘uncle’s son’ (Lev 25:49); <span dir="rtl" lang="he">מִשְּׂאֵר בְּשָׂרוֹ מִמִּשְׁפַּחְתּוֹ</span>, ‘one of his family of his own flesh’ (Lev 25:49); אָנֹכִי ‘I’ referring to Boaz (Ruth 3:13); <span dir="rtl" lang="he">אֵין זוּלָתְךָ</span>, ‘no-one except you’ + inf. (Ruth 4:4); impv. to Boaz (Ruth 4:6); מֶלֶךְ, ‘the king’ (Ps 72:14) understood from v. 1 (in <i>DCH</i> ii: 294 Clines lists this mistakenly under yahweh as subject); חכם, ‘wise man’ (Sir 37:19 acc. mss B and C); subj. not specified (Lev 25:33; Ruth 4:4).
 </div>
 
@@ -422,7 +422,7 @@ in BH (cf. Gen 42:22). It is interesting to compare
  תבוע אדמא / תבע 
 (Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12) in Tg<small><sup>N</sup></small> and Tg<small><sup>PsJ</sup></small>.
 
-<b>A.4</b> The use of ܚܘܕܬܐ + (ܕܡܐ) (<i>ḥwdtʾ</i> [+<i>dmʾ</i>]) ‘renewal, restoration’ to translate
+<b>A.4</b><a id="Peshitta-A4"></a> The use of ܚܘܕܬܐ + (ܕܡܐ) (<i>ḥwdtʾ</i> [+<i>dmʾ</i>]) ‘renewal, restoration’ to translate
  גֹּאֵל הַדָּם
 in 2 Sam 14:11 emphasises the restoration of blood required by the family, which is
 the right of the kinsman to claim.
@@ -538,7 +538,7 @@ In a speech by <span dir="rtl" lang="he">יהוה</span>, גאל is in collocati
 </div>
 
 
-<b>A.3</b> The nouns associated with גאל are רֵעֵהוּ, ‘his friends’ (1 Kgs 16:11) and גְּאוּלִים in apposition with עַם־הַקֹּדֶשׁ, ‘the holy people’ (Isa 62:12).
+<b>A.3</b> The nouns associated with גאל are רֵעֵהוּ, ‘his friends’ (1 Kgs 16:11), and גְּאוּלִים in apposition with עַם־הַקֹּדֶשׁ, ‘the holy people’ (Isa 62:12).
 
 
 <b>A.4</b> The titles of God associated with גאל are <span dir="rtl" lang="he">קְדוֹשׁ יִשְׂרָאֵל</span>, ‘the Holy
@@ -546,167 +546,77 @@ One of Israel’ (Isa 41:14; 43:14; 47:4; 48:17; 54:5; 4Q176 8-11:7); <span dir=
 
 
 <b>A.5</b> Antonyms: מכר, ‘to sell’ occurs several times in both socio-legal (Lev 25:25 [2x], 33; Ruth 4:3) and cultic (Lev 27:20, 27, 28) contexts. גאל is used in contrast with מכר, which confirms the idea of גאל meaning to ‘purchase’ or ‘re-purchase’ something which has been sold. Surprisingly, perhaps, the same word also occurs once in a theological context, in Isa 52:3, where God says to Israel 
-<span dir="rtl" lang="he">חִנָּם נִמְכַּרְתֶּם וְלֹא בְכֶסֶף תִּגָּאֵלוּ</span>, ’You were sold for nothing, and you shall be redeemed without money’. This seems to suggest that גאל usually involves a monetary transaction, but Israel’s case is an exception (see Exegesis below). In 4Q185 1-2 ii 10 (Wisdom literature) גאל is used in opposition to הרג, ‘to kill’ in a warning to those who hate wisdom,
+<span dir="rtl" lang="he">חִנָּם נִמְכַּרְתֶּם וְלֹא בְכֶסֶף תִּגָּאֵלוּ</span>, ’for nothing you were sold and without money you shall be redeemed’. This seems to suggest that גאל usually involves a monetary transaction, but Israel’s case is an exception (see Exegesis below). In 4Q185 1-2:ii.10 (Wisdom literature) גאל is used in opposition to הרג, ‘to kill’ in a warning to those who hate wisdom,
 comparing them to God’s people whom he will save. In 4Q251 14:2, part of the legal commentary based on Lev 27, קרב, ‘to bring near’ (i.e. present as an offering) is used in opposition to גאל in the context of cultic
 sacrifice.
 
 ## 6. Exegesis
 
-<b>A.1 a)</b> גאל ‘to re-purchase, reclaim’ (qal and niph.), in the particular
-context of cultic laws in Leviticus 27 (and related Qumran texts 4Q251
-14:2; 4Q367 3:7), refers to the redemption of gifts to the sanctuary.
-The following may be re-claimed after one fifth has been added to their
-value: unclean animals not fit for sacrifice (v. 13), the first-born of
-an unclean animal (v. 27), a field which has been consecrated (v. 19), a
-house which has been consecrated (v. 15) or a tithe of the land which is
-the Lord’s (v. 31). However, a tithe of herds and flocks (v. 33) and a
-consecrated field which has either been sold or left un-redeemed by the
-original owner (v. 20) may not be redeemed. In addition, anything
-devoted to the ban (חרם) belongs exclusively to God and may not be
-redeemed (v. 28). In each case, the only person who is able to
-‘re-claim’ an offering is the original owner.  
-<b>b)</b> There is an interesting clarification of Lev 27:13 in the legal
-commentary, Halakhah A (4Q251 14:2). Whereas the MT may be regarded as
+<div style="padding-left: 22px; text-indent: -22px;">
+<b>A.1 a)</b> גאל, ‘to re-purchase, reclaim’ (qal and niph.), in the particular context of cultic laws in Leviticus 27 (and related Qumran texts 4Q251 14:2; 4Q367 3:7), refers to the redemption of gifts to the sanctuary. The following may be re-claimed after one fifth has been added to their value: unclean animals not fit for sacrifice (v. 13), the first-born of an unclean animal (v. 27), a field which has been consecrated (v. 19), a house which has been consecrated (v. 15) or a tithe of the land which is the Lord’s (v. 31). However, a tithe of herds and flocks (v. 33) and a consecrated field which has either been sold or left un-redeemed by the original owner (v. 20) may not be redeemed. In addition, anything devoted to the ban (חרם) belongs exclusively to God and may not be redeemed (v. 28). In each case, the only person who is able to ‘re-claim’ an offering is the original owner.  
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">
+<b>b)</b> There is an interesting clarification of Lev 27:13 in the legal commentary, Halakhah A (4Q251 14:2). Whereas the MT may be regarded as
 ambiguous (superficially) as to whether (אִם) an unclean animal may be
 offered for sacrifice, it is made quite clear in the Qumran text that it
 must be redeemed (see DJD xxxv, 42 and Levine 1989: 195).
+</div>   
 
-<b>A.2 a)</b> גאל ‘to reclaim as kinsman’ occurs in the Holiness Code
-(Leviticus 25) and in the narrative in Ruth 2-4. The adjective קרוב in
-Ruth 2:20, 3:12 places the emphasis on kinship, which is also reflected
-by the translations of the subst. part. <i>propinquus, proximus</i> (Vg), cf.
-Num 5:8 and 1 Kgs 16:11 (קריב Tg<small><sup>J</sup></small>), where the subst. part. seems to
-mean little more than ‘relative’. It is in Ruth that we find instances
-of גאל (qal) with an intransitive sense ‘to act as one’s kinsman’ (BDB,
-145) in the context of claiming property as inheritance. Since גֹּאֵל
-appears as a title for someone (e.g. Ruth 3:9, 12, etc.) the relational
-quality seems to assume priority over the verbal aspect of redemption
-and is thus the foundation for the subsequent action. It is the familial
-relationship that provides the basis for the obligation or right to
-claim or acquire property or people, either on behalf of one’s kin or by
-claiming the inheritance for oneself.
 
-<b>b)</b> The people who can act as גֹּאֵל for someone are listed in Lev 25:49:
-a man’s uncle, uncle’s son, or anyone left who is of his flesh in his
-family (i.e. blood-related). It is also possible for a man to be without
-a גֹּאֵל (Lev 25:26, Num 5:8, 4Q251 16:5, cf. CD IX 13-16 based on Num
-5:8 which has בעל rather than גאל), but he may redeem himself (גאל
-niph.: Lev 25:49) if he has acquired the means to do so, כְּדֵי
-גְאֻלָּתוֹ (Lev 25:26).
 
-c) In a passage about distribution of wealth the Damascus Document 4Q266 10 i 9 teaches that the community will provide for the [girl] who has no
+<div style="padding-left: 22px; text-indent: -22px;">
+<b>A.2 a)</b>
+<span dir="rtl" lang="he">גאל</span>, 
+ ‘to reclaim as kinsman’ occurs in the Holiness Code (Leviticus 25) and in the narrative in Ruth 2-4. The adjective קרוב in Ruth 2:20, 3:12 places the emphasis on kinship, which is also reflected by the translations of the subst. part. <i>propinquus, proximus</i> (Vg), cf. Num 5:8 and 1 Kgs 16:11 (<span dir="rtl" lang="he">קריב</span> Tg<small><sup>J</sup></small>), where the subst. part. seems to mean little more than ‘relative’. It is in Ruth that we find instances of גאל (qal) with an intransitive sense ‘to act as one’s kinsman’ (BDB, 145) in the context of claiming property as inheritance. Since גֹּאֵל appears as a title for someone (e.g. Ruth 3:9, 12, etc.) the relational quality seems to assume priority over the verbal aspect of redemption and is thus the foundation for the subsequent action. It is the familial relationship that provides the basis for the obligation or right to claim or acquire property or people, either on behalf of one’s kin or by claiming the inheritance for oneself.
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">
+<b>b)</b> 
+The people who can act as גֹּאֵל for someone are listed in Lev 25:49: a man’s uncle, uncle’s son, or anyone left who is of his flesh in his family (i.e. blood-related). It is also possible for a man to be without a גֹּאֵל (Lev 25:26, Num 5:8, 4Q251 16:5, cf. CD IX 13-16 based on Num
+5:8 which has בעל rather than גאל), but he may redeem himself (גאל niph.: Lev 25:49) if he has acquired the means to do so, <span dir="rtl" lang="he">כְּדֵי גְאֻלָּתוֹ</span>, (Lev 25:26).
+</div>
+<div style="padding-left: 22px; text-indent: 0px;">
+<b>c)</b> In a passage about distribution of wealth the Damascus Document 4Q266 10:i.9 teaches that the community will provide for the [girl] who has no
 גואל.
+</div>
+
+<b>A.3</b> גֹּאֵל הַדָּם is used several times (in the asylum laws in Num 35:19, 21, 24, 25, 27 [2x], and also in Deut 19:6, 12; Josh 20:3, 5, 9; 2 Sam 14:11) and is usually translated as ‘the avenger of blood’ (BDB, 145; NRSV). It seems, therefore, to some scholars, that another
+responsibility or right of the kinsman is to restore the blood of the family which has been lost (Stamm 1971: 386, Johnson 1953: 68). This idea is emphasised particularly in Pesh 2 Sam 14:11 (see 
+<a href="#Peshitta-A4">Peshitta A.4</a> above). Thus the avenger is the subject of verbs such as 
+<span dir="rtl" lang="he">מות</span> hiph., <span dir="rtl" lang="he">רצח</span> and <span dir="rtl" lang="he">רדף</span>. Tg<small><sup>N</sup></small> and Tg<small><sup>PsJ</sup></small>, translate it as <span dir="rtl" lang="he">תבע אדמא</span> (<span dir="rtl" lang="he">תבע</span>, ‘to seek, demand, claim’, <i>DJPA</i><small><sup>1</sup></small>, 574b) and Pesh
+translates it by 
+<span dir="rtl" lang="–">ܬܒܥ (ܥܝܪܬܐ)</span> (<i>tbʿ</i> [<i>ʿyrtʾ</i>]), ‘seek (vengeance for)’. These both emphasise the concepts of family obligation and claiming
+possession which are essential to גאל. When something belongs to someone they have a claim to it, either by themselves or with the help of one’s kinsman (גֹּאֵל).
 
 
-<b>A.3</b> ֹ גֹּאֵל הַָּדם is used several times (in the asylum laws in Num 35:19, 21, 24, 25, 27[2x], and also in Deut 19:6, 12; Josh 20:3, 5, 9; 2 Sam 14:11) and is usually translated as ‘the avenger of blood’ (BDB, 145, NRSV). It seems, therefore, to some scholars, that another
-responsibility or right of the kinsman is to restore the blood of the family which has been lost (Stamm 1971: 386, Johnson 1953: 68). This
-idea is emphasised particularly in the Peshitta 2 Sam 14:11 (see
-Peshitta A.4 above). Thus the avenger is the subject of verbs such as
-מות hiph., רצח and רדף. Tg<small><sup>N</sup></small> and Tg<small><sup>PsJ</sup></small>, translate it as תבע אדמא
-(תבע ‘to seek, demand, claim’, <i>DJPA</i><small><sup>1</sup></small>, 574b) and the Peshitta
-translates it by ܬܒܥ (ܥܝܪܬܐ) 
-(<i>tbʿ</i> [<i>ʿyrtʾ</i>]), ‘seek (vengeance for)’.
-These both emphasise the concepts of family obligation and claiming
-possession which are essential to גאל. When something belongs to someone
-they have a claim to it, either by themselves or with the help of one’s
-kinsman (ֹגֹּאֵל).
+<b>A.4</b> גאל (qal pf.), ‘to act as kinsman’ with God as subject, is used several times in the context of the Exodus (Exod 6:6; 15:13; Isa 51:10; 63:9; Ps 74:2; 77:16; 78:35; 106:10; 4Q158 14i:5) and could be translated in several different ways. In Ps 74:2 גאל is in collocation with קנה, ‘to acquire/buy’ (obj. עדתך), which seems to have overtones of payment and is perhaps more akin to the human socio-legal usage of גאל (Leviticus 25). The same association of גאל with קנה occurs in otherwise identical expressions referring to early Israel in Exod 15:13 and 15:16. Even when payment is not mentioned, the use of גאל for buying someone out of slavery (Lev 25:48) may provide a useful background to the context here of release from slavery in Egypt. God fulfilled the role of Israel’s kinsman at the Exodus, setting them free from slavery. גאל can easily take on the sense ‘to save’ or ‘liberate’ here, although this ignores the connotation of God ‘acquiring’ or ‘claiming’ his people, which may be underlying the choice of גאל rather than (or alongside) ישׁע hiph. or נצל hiph. This does not preclude, however, the possibility that the meaning of גאל could have developed by association with other salvation words.
+
+The use of גאל to describe the king’s action towards the poor in Ps 72:14 needs special attention. It is the only use of the verb with a human subject which lies outside the cultic and socio-legal contexts, and with which the preposition מִן is connected (on Lev 25:33 see 
+<a href="#Syntagmatics-A1b">Syntagmatics A.1.b</a>). Both these characteristics link Ps 72:14 with some of the occurrences of גאל where it has a divine subject (which is not surprising in view of the overlap of royal and divine characteristics in the Bible): e.g. Gen 48:16; Hos 13:14; Ps 103:4; Sir 51:8. The proximity
+of less specific words in the salvation-group should also be noted (נצל hiph. and עזר in Ps 72:12, ישׁע hiph. in 72:13). The same questions as above arise about how far the semantic components of ‘kin’, ‘release from slavery’ and ‘payment’ may be alluded to here. In any case this occurrence of the wider meaning of גאל in a royal psalm (which is presumably pre-exilic) is evidence that it does not represent a late, exilic, development (see also A.11, A.12 and B.3).
 
 
-<b>A.4</b> גאל (qal pf.) ‘to act as kinsman’ with God as subject, is used
-several times in the context of the Exodus (Exod 6:6; 15:13; Isa 51:10;
-63:9; Ps 74:2; 77:16; 78:35; 106:10; 4Q158 14i:5) and could be
-translated in several different ways. In Ps 74:2 גאל is in collocation
-with קנה ‘to acquire/buy’ (obj. עדתך), which seems to have overtones of
-payment and is perhaps more akin to the human socio-legal usage of גאל
-(Lev 25). The same association of גאל with קנה occurs in otherwise
-identical expressions referring to early Israel in Exod 15:13 and 15:16.
-Even when payment is not mentioned, the use of גאל for buying someone
-out of slavery (Lev 25:48) may provide a useful background to the
-context here of release from slavery in Egypt. God fulfilled the role of
-Israel’s kinsman at the Exodus, setting them free from slavery. גאל can
-easily take on the sense ‘to save’ or ‘liberate’ here, although this
-ignores the connotation of God ‘acquiring’ or ‘claiming’ his people,
-which may be underlying the choice of גאל rather than (or alongside) ישׁע
-hiph. or נצל hiph. This does not preclude, however, the possibility that
-the meaning of גאל could have developed by association with other
-salvation words.
-
-The use of גאל to describe the king’s action towards the poor in Ps
-72:14 needs special attention. It is the only use of the verb with a
-human subject which lies outside the cultic and socio-legal contexts,
-and with which the preposition מִן is connected (on Lev 25:33 see
-Syntagmatics A.1 b)). Both these characteristics link Ps 72:14 with some
-of the occurrences of גאל where it has a divine subject (which is not
-surprising in view of the overlap of royal and divine characteristics in
-the Bible): e.g. Gen 48:16; Hos 13:14; Ps 103:4; Sir 51:8. The proximity
-of less specific words in the salvation-group should also be noted (נצל
-hiph. and עזר in Ps 72:12, ישׁע hiph. in 72:13). The same questions as
-above arise about how far the semantic components of ‘kin’, ‘release
-from slavery’ and ‘payment’ may be alluded to here. In any case this
-occurrence of the wider meaning of גאל in a royal psalm (which is
-presumably pre-exilic) is evidence that it does not represent a late,
-exilic, development (see also A.11, A.12 and B.3).
-
-
-<b>A.5</b> גאל seems to have a particular force in Deutero-Isaiah. The subst.
-part. גֹּאֵל is used as a title of God thirteen times. גֹּאֵל also
-occurs alongside other titles of God: יִשְׂרָאֵל קְדוֹשׁ ‘the Holy One of
-Israel’, מֶלֶךְ־יִשְׂרָאֵל ‘the King of Israel’, צְבָאוֹת יהוה ‘the
-LORD of hosts’, קְדוֹשׁוֹ ‘his Holy One’, מוֹשִׁיעֵךְ ‘your saviour’,
-אֲבִיר יַעֲקֹב ‘mighty one of Jacob’. It occurs six times with the
-phrase יהוה אָמַר כֹּה ‘thus says the Lord’ (43:1,14, 44:6,24, 48:17,
-49:7), and six times on the lips of God in promises of help 41:14, of
-redemption from sins (44:22), of triumph over enemies (49:26), of
-compassion (54:8). It is significant that the only instance of גֹּאֵל as
-nomen regens is with Israel (Isa 49:7) – God is exclusively Israel’s
+<b>A.5</b> גאל seems to have a particular force in Deutero-Isaiah. The subst. part. גֹּאֵל is used as a title of God thirteen times. גֹּאֵל also occurs alongside other titles of God: <span dir="rtl" lang="he">קְדוֹשׁ יִשְׂרָאֵל</span>, ‘the Holy One of Israel’; <span dir="rtl" lang="he">מֶלֶךְ־יִשְׂרָאֵל</span>, ‘the King of Israel’; <span dir="rtl" lang="he">יהוה צְבָאוֹת</span>, ‘the LORD of hosts’; קְדוֹשׁוֹ, ‘his Holy One’; מוֹשִׁיעֵךְ, ‘your saviour’; <span dir="rtl" lang="he">אֲבִיר יַעֲקֹב</span>, ‘mighty one of Jacob’. It occurs six times with the phrase 
+<span dir="rtl" lang="he">כֹּה אָמַר יהוה</span>, ‘thus says the Lord’ (Isa 43:1,14; 44:6,24; 48:17; 49:7), and six times on the lips of God in promises of help 41:14, of
+redemption from sins (44:22), of triumph over enemies (49:26), of compassion (54:8). It is significant that the only instance of גֹּאֵל as nomen regens is with Israel (Isa 49:7) – God is exclusively Israel’s
 גֹּאֵל.
 
 
-<b>A.6</b> גאל qal is used in an eschatological hymn of praise (Isa 44:23,
-48:20, 52:9), which suggests the author has made a connection between
-the first exodus, the first ‘redemption’ or liberation, and the
-hoped-for future redemption, as well as hopes for the second liberation
-from the Babylonian exile (cf. Stamm 1971: 390).
+<b>A.6</b> גאל qal is used in an eschatological hymn of praise (Isa 44:23, 48:20, 52:9), which suggests the author has made a connection between the first exodus, the first ‘redemption’ or liberation, and the hoped-for future redemption, as well as hopes for the second liberation from the Babylonian exile (cf. Stamm 1971: 390).
 
 
-<b>A.7</b> Several times God’s ‘redemption’ of Israel and his title ‘Redeemer’
-are linked to creation (43:1, 44:6,24, 54:5) – since God created His
-people, Israel, they belong to him, and so he has the right to redeem
-them, or to claim them back (cf. Stamm 1971: 391). The Qal pass. part.
-גאלים occurs in this context, in Isa 51:9-11. Verse 9 is an appeal to
-God as Creator of the world to rescue them. גאלים in v. 10 refers to
-those who were ‘saved’ at the Red Sea, and is followed by פדוים in v.
-11, looking forward to ‘the redeemed of the Lord’ returning to Zion from
-the Babylonian exile.
+<b>A.7</b> Several times God’s ‘redemption’ of Israel and his title ‘Redeemer’ are linked to creation (43:1, 44:6,24, 54:5) – since God created His people, Israel, they belong to him, and so he has the right to redeem them, or to claim them back (cf. Stamm 1971: 391). In this context the qal pass. part. גאלים occurs in Isa 51:9-11. Verse 9 is an appeal to God as Creator of the world to rescue them. גאלים in v. 10 refers to those who were ‘saved’ at the Red Sea, and is followed by פדוים in v. 11, looking forward to ‘the redeemed of the Lord’ returning to Zion from the Babylonian exile.
 
 
-<b>A.8</b> The occurrences of גאל in Trito-Isaiah have a similar meaning to
-those in Deutero-Isaiah, in the context of future deliverance (59:20,
-60:16). It also occurs in conjunction with אָבִינוּ ‘our father’, with
+<b>A.8</b> The occurrences of גאל in Trito-Isaiah have a similar meaning to those in Deutero-Isaiah, in the context of future deliverance (59:20, 60:16). It also occurs in conjunction with אָבִינוּ, ‘our father’, with
 reference to the past.
 
 
-<b>A.9</b> גאל occurs in several verses in a quasi-forensic context, which seem
-to be related to other socio-legal uses of גאל referring to the actions
-of a kinsman, namely the responsibility to protect and help a family
-member in times of need, including in a court trial (e.g. Job 19:25).
-גאל is used of God four times with ריב ‘to contend, conduct a (legal)
-case’ (BDB, 936) in Jer 50:3; Ps 119:154; Prov 23:11; and Lam 3:58. In
-each case ריב is used with its cognate noun, hence the NRSV rendering
-‘to plead a cause’.
+<b>A.9</b> גאל occurs in several verses in a 
+quasi-forensic context, which seem to be related to other socio-legal uses of גאל referring to the actions
+of a kinsman, namely the responsibility to protect and help a family member in times of need, including in a court trial (e.g. Job 19:25). גאל is used of God four times with ריב, ‘to contend, conduct a (legal) case’ (BDB, 936) in Jer 50:3; Ps 119:154; Prov 23:11; and Lam 3:58. In each case ריב is used with its cognate noun, hence the NRSV rendering ‘to plead a cause’.
 
 
-<b>A.10</b> גאל niph. ‘to be reclaimed’ in Isa 52:3 (cf. 4Q176 8-11:4) is set
-in response to the community lament in 51:9f. and is a promise of
-liberation, in preparation for a summons (52:11) to depart from
-captivity. The legal sense of גאל is being used figuratively here, in
-opposition to מכר, to mean ‘reclaim’ (cf. Leviticus 25). Since Israel
-was not ‘sold’ in a proper legal transaction to Babylon, no ransom price
-is due from God, their rightful owner, for their ‘redemption’. This
-usage of גאל seems to suggest that its meaning can ‘overlap’ between the
-socio-legal and theological spheres. Isa 52:3 is a clear case of sharing
-the meaning of the socio-legal context, but excluding the monetary
-exchange.
+<b>A.10</b> גאל niph., ‘to be reclaimed’ in Isa 52:3 (cf. 4Q176 8-11:4) is set in response to the community lament in 51:9f. and is a promise of liberation, in preparation for a summons (52:11) to depart from captivity. The legal sense of גאל is being used figuratively here, in opposition to מכר, to mean ‘reclaim’ (cf. Leviticus 25). Since Israel was not ‘sold’ in a proper legal transaction to Babylon, no ransom price is due from God, their rightful owner, for their ‘redemption’. This usage of גאל seems to suggest that its meaning can ‘overlap’ between the socio-legal and theological spheres. Isa 52:3 is a clear case of sharing the meaning of the socio-legal context, but excluding the monetary exchange.
 
 
 <b>A.11</b> The use of מִן with גאל aligns it more closely with other
