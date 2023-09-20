@@ -630,14 +630,9 @@ from the meaning of גאל with מִן e.g. Ps 106:10, where גאל seems to par
 enemies (in all but two instances above) seems to suggest a transference of ownership. Hos 13:14 is an early example of גאל and פדה being used with מִן (not later than 8th century BCE; see also B.3). This contradicts assumptions that the use of מִן with גאל was a later development.
 
 
-<b>A.13</b> An unusual connection is made in 4QPseudo-Ezekiel between גאל and ברית in a speech by יהוה, declaring that he is the one who redeemed his
-people לתת להם הברית, which could either be rendered ‘in order to give
-them the covenant’ or ‘by giving them the covenant’. If one compares the
-language of Ezekiel 37:23-28. it seems that God will save (ישׁע hiph., v.
-23) his people in order that his ancient promises of ruler, land,
-covenant and temple may be fulfilled. If it is an instrumental use of
-לְ, it would be a rather surprising development that re-establishing
-covenant had become a vehicle of redemption.
+<b>A.13</b> An unusual connection is made in 4QPseudo-Ezekiel between גאל and ברית in a speech by יהוה, declaring that he is the one who redeemed his people
+<span dir="rtl" lang="he">לתת להם הברית</span>, which could either be rendered ‘in order to give them the covenant’ or ‘by giving them the covenant’. If one compares the language of Ezekiel 37:23-28. it seems that God will save (ישׁע hiph., v. 23) his people in order that his ancient promises of ruler, land, covenant and temple may be fulfilled. If it is an instrumental use of 
+<span dir="rtl" lang="he">לְ</span>, it would be a rather surprising development that re-establishing covenant had become a vehicle of redemption.
 
 
 <b>B.1</b> The role of a man’s גֹּאֵל has been understood by some scholars to be to restore balance and wholeness to his family.[^9] However, although this description fits with a number of examples (e.g. where something is ‘bought back’ for a family member) it seems to ignore the cases where 
