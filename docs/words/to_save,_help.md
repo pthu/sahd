@@ -36,7 +36,7 @@ ii + 6c 3; 4Q372 1:16; 4Q380 1 ii 4; 4Q381 15:2; 31:2; 4Q385a 18 ii 10;
 The following additional instances lack any context and so are not
 amenable to semantic analysis: 4Q226 5:1; 4Q372 8:3; 4Q374 2 ii 10;
 4Q381 42:2.
-* Inscr: D–1.008:4?; D-15.008:1; D-25.003:3; Naveh & Magen 1997:43?.
+* Inscr: D–1.008:4?; D-15.008:1; D-25.003:3; Naveh and Magen 1997:43?.
 * Text doubtful: – 
 
 
@@ -75,7 +75,7 @@ Doubtful B.3, Syntagmatics A.3.
 <b>B.4</b>  The three letters ישׁע 
 (with the <i>yodh</i> uncertain) appear on a late
 third-century/early second-century inscription from Mount Gerizim 
-(Naveh & Magen 1997: 43, text D). Since the inscription is broken off
+(Naveh and Magen 1997: 43, text D). Since the inscription is broken off
 immediately before these letters, it is not possible to determine
 whether this is a whole word or part of it. It may be significant to
 note that the context suggests some form of dedicatory prayer, and the
@@ -715,14 +715,14 @@ translation for other lexemes in the semantic field.
 
 <b>A.3</b>  At Tg Hos 1:7, the Targumist avoids presenting God as acting as a
 warrior, and therefore turns the second verb into a third person passive
-(Cathcart & Gordon 1989: 30; Smolar & Aberbach 1983: 148–49).
+(Cathcart and Gordon 1989: 30; Smolar and Aberbach 1983: 148–49).
 
 
 <b>A.4</b>  In the Tg to Zech 9:9 MS V, printed in Sperber’s edition, has the Peal
 active, although MS Z posits a passive participle, corresponding to the
 Niphal in the MT. LXX, Pesh and Vg all render as active too. Comparison
 may be made with Ps 33:16 where in the Tg נושׁע is rendered מתפריק
-(Cathcart & Gordon 1989: 205).
+(Cathcart and Gordon 1989: 205).
 
 <b>d. Vulgate (Vg):</b>
 
@@ -766,7 +766,7 @@ Neh 9:27;
 * <i>sustineo</i>, ‘to support’: Job 26:2;  
 * <i>ulciscor</i>, ‘to avenge, to take vengeance’: 1&nbsp;Sam 25:31, 33;  
 
-[^9]: The English rendering of the Latin is based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
+[^9]: The English rendering of the Latin is based on Lewis and Short, <i>LD</i>, <i>s.v.</i>
 
 Omitted: Judg 12:3.
 
@@ -1123,8 +1123,8 @@ Paris: Librairie Ernest Leroux.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Cathcart & Gordon 1989<br>   
-Kevin J. Cathcart & Robert P. Gordon, <i>The Targum of the Minor Prophets,
+Cathcart and Gordon 1989<br>   
+Kevin J. Cathcart and Robert P. Gordon, <i>The Targum of the Minor Prophets,
 translated, with a critical introduction, apparatus, and notes</i> (The
 Aramaic Bible, 14) Edinburgh: T&T Clark.
 	</div>
@@ -1264,8 +1264,8 @@ Frühnordarabischen und Altsüdarabischen’, <i>Die Welt des Orients</i>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Naveh & Magen 1997<br>   
-Joseph Naveh & Yitzhak Magen, ‘Aramaic and Hebrew inscriptions of the
+Naveh and Magen 1997<br>   
+Joseph Naveh and Yitzhak Magen, ‘Aramaic and Hebrew inscriptions of the
 second-century BCE at Mount Gerizim’, <i>Atiqot</i> 32: 37–56 [Hebrew], 9*–17*.
 	</div>
 
@@ -1277,7 +1277,7 @@ Gemeinsemitischen Namengebung</i>. [BzWAT, 3/10] (Stuttgart: Kohlhammer).
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Olmstead 1931<br>
-History of Palestine and Syria to the Macedonian Conquest, New York & London: Charles Scribner’s Sons. 
+History of Palestine and Syria to the Macedonian Conquest, New York: Charles Scribner’s Sons. 
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1339,8 +1339,8 @@ Stanislav Segert, ‘Die Sprache der moabitischen Königinschrift’,
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Smolar & Aberbach 1983<br>   
-Leivy Smolar, & Moses Aberbach, <i>Studies in Targum Jonathan to the
+Smolar and Aberbach 1983<br>   
+Leivy Smolar and Moses Aberbach, <i>Studies in Targum Jonathan to the
 Prophets</i>. (The Library of Biblical Studies), 
 New York: Ktav and Baltimore: Hebrew College.
 	</div>
