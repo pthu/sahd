@@ -5,7 +5,7 @@
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)<br>
-First published: 2017-01-01<br>Last update: 2023-05-16 <br>Citation: James K. Aitken,&nbsp;Graham I. Davies, יְשׁוּעָה – protection, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2017 (update: 2023)
+First published: 2017-01-01<br>Last update: 2023-05-16 (Raymond de Hoop and Paul Sanders) <br>Citation: James K. Aitken,&nbsp;Graham I. Davies, יְשׁוּעָה – protection, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2017 (update: 2023)
 
 
 For fuller discussion of the lexical field as a whole see on this site the 
@@ -529,7 +529,7 @@ Mordechai Ben-Asher, ‘The Gender of Nouns in Biblical Hebrew’, <i>Semitics</
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dahmen 2013<br>   
-Ulrich Dahmen, ‘<span dir="rtl" lang="he">ישׁע</span>’, <i>ThWQ</i>, vol. 2: 309-18.
+Ulrich Dahmen, ‘<span dir="rtl" lang="he">ישׁע</span>’, <i>ThWQ</i> 2:309-18.
 	</div>
 
 
@@ -560,8 +560,8 @@ John F. A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining He
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1982 [1990]
 <br>
-John F. A. Sawyer, ‘ישׁע’, <i>ThWAT</i>, vol. 3: 1035–59 
-(ET 1990: <i>TDOT</i>, vol. 6: 441-63). 
+John F. A. Sawyer, ‘ישׁע’, <i>ThWAT</i> 3:1035–59 
+(ET 1990: <i>TDOT</i> 6:441-63). 
 </div>
 
 

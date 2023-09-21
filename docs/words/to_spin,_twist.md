@@ -366,7 +366,7 @@ Ze’ev Ben-Ḥayyim (with assistance from Abraham Tal), <i>A Grammar of Samarit
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Propp 2006 <br>
-William H.C. Propp, <i>Exodus 19-40</i> (AB), New York etc.: Doubleday.
+William H.C. Propp, <i>Exodus 19-40</i> (AB), New York: Doubleday.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">

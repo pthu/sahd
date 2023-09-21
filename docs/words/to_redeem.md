@@ -720,13 +720,13 @@ London: Marshall Pickering.
 <div style="padding-left: 22px; text-indent: -22px;">
 Gray 2011
 <br>
-Alison Gray, ‘גאל’, <i>ThWQ</i>, vol. 1: 556-59.
+Alison Gray, ‘גאל’, <i>ThWQ</i> 1:556-59.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Hubbard 1997
 <br>
-Robert L. Hubbard, ‘גאל’, <i>NIDOTTE</i>, vol. 1: 789-794.
+Robert L. Hubbard, ‘גאל’, <i>NIDOTTE</i> 1:789-94.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -759,7 +759,7 @@ Jacob Milgrom, <i>Leviticus 23-27</i> (AB, 3), New York: Doubleday.
 <div style="padding-left: 22px; text-indent: -22px;">
 Ringgren 1977
 <br>
-Helmer Ringgren, ‘גאל’, <i>TDOT</i>, Vol 2, 350-355.
+Helmer Ringgren, ‘גאל’, <i>TDOT</i> 2:350-55.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -785,7 +785,7 @@ Johann J. Stamm, <i>Erlösen und Vergeben im Alten Testament</i>, Bern: Francke.
 <div style="padding-left: 22px; text-indent: -22px;">
 Stamm 1971
 <br>
-Johann J. Stamm, ‘גאל’, <i>THAT</i>, vol. 1: 385-396.
+Johann J. Stamm, ‘גאל – erlösen’, <i>THAT</i> 1:385-96.
 </div>
 
 ## Notes
