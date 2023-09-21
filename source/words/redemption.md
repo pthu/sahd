@@ -176,13 +176,13 @@ Ruprecht.
 <div style="padding-left: 22px; text-indent: -22px;">
 Gray 2011
 <br>
-Alison Gray, ‘גאל’, <i>ThWQ</i>, vol. 1: 556-59.
+Alison Gray, ‘גאל’, <i>ThWQ</i> 1:556-59.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Hubbard 1997
 <br>
-Robert L. Hubbard, ‘גאל’, <i>NIDOTTE</i>, vol. 1: 789-794.
+Robert L. Hubbard, ‘גאל’, <i>NIDOTTE</i> 1:789-94.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -207,13 +207,13 @@ Hinrichs.
 <div style="padding-left: 22px; text-indent: -22px;">
 Procksch and Büchsel 1967
 <br>
-Otto Procksch and Friedrich Büchsel, ‘λύω etc.’, <i>TDNT</i>, vol. 4: 328-356.
+Otto Procksch and Friedrich Büchsel, ‘λύω etc.’, <i>TDNT</i> 4:328-56.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ringgren 1977
 <br>
-Helmer Ringgren, ‘גאל’, <i>TDOT</i>, Vol 2, 350-355.
+Helmer Ringgren, ‘גאל’, <i>TDOT</i> 2:350-55.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -226,7 +226,7 @@ Francke.
 <div style="padding-left: 22px; text-indent: -22px;">
 Stamm 1971
 <br>
-Johann J. Stamm, ‘גאל’, <i>THAT</i>, vol. 1: 385-396.
+Johann J. Stamm, ‘גאל – erlösen’, <i>THAT</i> 1:385-96.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">

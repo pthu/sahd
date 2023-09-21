@@ -5,7 +5,7 @@ title:
 semantic_fields: deliverance  
 contributors: james_k._aitken, graham_i._davies  
 first_published: 2016-01-01  
-last_update: 2023-05-16   
+last_update: 2023-05-16 (Raymond de Hoop and Paul Sanders)  
 
 
 ---
@@ -1148,7 +1148,7 @@ Dallas (TX): Word.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dohmen 2013<br>   
-Ulrich Dahmen,  ‘ישׁע <i>yšʿ</i>’, <i>ThWQ</i>, vol. 2: 309-18.
+Ulrich Dahmen,  ‘ישׁע <i>yšʿ</i>’, <i>ThWQ</i> 2:309-18.
 	</div>
 
 
@@ -1168,8 +1168,7 @@ Basil Blackwell.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Fohrer 1964 [1971]<br>   
-Georg Fohrer, ‘σῴζω und σωτηρία im Alten Testament’, <i>ThWNT</i>
-vol. 7: 970-81 (ET 1971: <i>TDNT</i>, vol. 7: 970-980).
+Georg Fohrer, ‘σῴζω und σωτηρία im Alten Testament’, <i>ThWNT</i> 7:970-81 (ET 1971: <i>TDNT</i> 7:970-980).
 	</div>
 
 
@@ -1183,7 +1182,7 @@ Leipzig: F.C.W. Vogel.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Gibson 1971<br>   
-John C.L. Gibson, <i>Textbook of Syrian Semitic inscriptions: vol:1,
+John C.L. Gibson, <i>Textbook of Syrian Semitic Inscriptions, Volume 1:
 Hebrew and Moabite inscriptions</i>, Oxford: Clarendon Press.
 	</div>
 
@@ -1197,7 +1196,7 @@ Pohl, 1) Rom: Päpstliches Bibelinstitut.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Hubbard 1997<br>   
-Robert L. Hubbard, ‘<span dir="rtl" lang="he">ישׁע</span>’, <i>NIDOTTE</i>, vol. 2: 556–62.
+Robert L. Hubbard, ‘<span dir="rtl" lang="he">ישׁע</span>’, <i>NIDOTTE</i> 2:556–62.
 	</div>
 
 
@@ -1320,8 +1319,8 @@ James and Theodora Bynon (eds.),
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1982 [1990]
 <br>
-John F.A. Sawyer, ‘ישׁע’, <i>ThWAT</i>, vol. 3: 1035–59 
-(ET 1990: <i>TDOT</i>, vol. 6: 441-63). 
+John F.A. Sawyer, ‘ישׁע’, <i>ThWAT</i> 3:1035–59 
+(ET 1990: <i>TDOT</i> 6:441-63). 
 </div>
 
 
@@ -1349,7 +1348,8 @@ New York: Ktav and Baltimore: Hebrew College.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Stolz 1971<br>   
-Fritz Stolz, ‘ישׁע <i>jšʿ</i> hi. – helfen’, <i>THAT</i> vol. 1: 785-90.
+Fritz Stolz, ‘ישׁע <i>jšʿ</i> hi. – helfen’, 
+<i>THAT</i> 1:785-90.
 	</div>
 
 

@@ -5,7 +5,7 @@ title:
 semantic_fields: deliverance  
 contributors: james_k._aitken, graham_i._davies  
 first_published: 2017-01-01  
-last_update: 2023-05-16   
+last_update: 2023-05-16 (Raymond de Hoop and Paul Sanders)  
 
  
 ---
@@ -531,7 +531,7 @@ Mordechai Ben-Asher, ‘The Gender of Nouns in Biblical Hebrew’, <i>Semitics</
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dahmen 2013<br>   
-Ulrich Dahmen, ‘<span dir="rtl" lang="he">ישׁע</span>’, <i>ThWQ</i>, vol. 2: 309-18.
+Ulrich Dahmen, ‘<span dir="rtl" lang="he">ישׁע</span>’, <i>ThWQ</i> 2:309-18.
 	</div>
 
 
@@ -562,8 +562,8 @@ John F. A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining He
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1982 [1990]
 <br>
-John F. A. Sawyer, ‘ישׁע’, <i>ThWAT</i>, vol. 3: 1035–59 
-(ET 1990: <i>TDOT</i>, vol. 6: 441-63). 
+John F. A. Sawyer, ‘ישׁע’, <i>ThWAT</i> 3:1035–59 
+(ET 1990: <i>TDOT</i> 6:441-63). 
 </div>
 
 

@@ -809,7 +809,7 @@ For the abbreviations see the
 <div style="padding-left: 22px; text-indent: -22px;">
 Andersson Strand 2015<br>
 Eva Andersson Strand, ‘The Basics of Textile Tools and Textile Technology: From Fibre to Fabric’, in:
-Andersson Strand & Nosch 2015: 39-60.
+Andersson Strand & Nosch 2015:39-60.
 	</div>
 	
 
@@ -842,7 +842,8 @@ Reference to the Aegean</i>, Princeton: Princeton University Press.
 <div style="padding-left: 22px; text-indent: -22px;">
 Bergmann 2007<br>
 Claudia Bergmann, ‘We Have Seen the Enemy, and He is Only a “She”:
-The Portrayal of Warriors as Women’, <i>CBQ</i> 69: 651-72.
+The Portrayal of Warriors as Women’, 
+<i>CBQ</i> 69:651-72.
 	</div>
 	
 
@@ -873,13 +874,13 @@ by Christine Lilyquist, Beer-Sheva: Ben-Gurion University of the Negev.
 	
 <div style="padding-left: 22px; text-indent: -22px;">
 Demsky 1983<br>
-Aaron Demsky, ‘</i>Pelekh</i> in Nehemiah 3’, <i>IEJ</i> 33: 242-44.
+Aaron Demsky, ‘</i>Pelekh</i> in Nehemiah 3’, <i>IEJ</i> 33:242-44.
 	</div>
 	
 <div style="padding-left: 22px; text-indent: -22px;">
 Dothan 1963<br>
 Trude Dothan, ‘Spinning Bowls’, <i>IEJ</i> 
-13: 97-112.
+13:97-112.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -899,7 +900,7 @@ An Edition of the Canonical Series of Lamaštu Incantations and Rituals and Rela
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Groneberg 1986<br>
-Brigitte Groneberg, ‘Notes Brèves: <i>ḫabābu-ṣabāru</i>’, <i>RA</i> 80: 189-91.
+Brigitte Groneberg, ‘Notes Brèves: <i>ḫabābu-ṣabāru</i>’, <i>RA</i> 80:189-91.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -918,27 +919,27 @@ Delbert R. Hillers, <i>Treaty-Curses and the Old Testament Prophets</i>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Hoffner 1987<br>
-Harry A. Hoffner, ‘Paskuwatti’s Ritual against Sexual Impotence (CTH 406)’, <i>AuOr</i> 5: 271-87.
+Harry A. Hoffner, ‘Paskuwatti’s Ritual against Sexual Impotence (CTH 406)’, <i>AuOr</i> 5:271-87.
 	</div>
 	
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Holloway 1987<br>
 Steven W. Holloway, ‘Distaff, Crutch or Chain Gang: The Curse of the House of 
-Joab in 2 Samuel III 29’, <i>VT</i> 37: 370-75.
+Joab in 2 Samuel III 29’, <i>VT</i> 37:370-75.
 	</div>
 	
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Krebernik 1983<br>
 Manfred Krebernik, ‘Zu Syllabar und Orthographie der lexikalischen Texte aus Ebla; Teil 2 (Glossar)’, 
-<i>ZA</i> 73: 1-47.
+<i>ZA</i> 73:1-47.
 	</div>
 	
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Layton 1989<br>
-Scott C. Layton, ‘A Chain Gang in 2 Samuel <small>III</small> 29? A Rejoinder’, <i>VT</i> 39: 81-86.
+Scott C. Layton, ‘A Chain Gang in 2 Samuel <small>III</small> 29? A Rejoinder’, <i>VT</i> 39:81-86.
 	</div>
 	
 
@@ -951,7 +952,7 @@ William L. Moran, <i>The Amarna Letters</i>, Baltimore & London: Johns Hopkins U
 <div style="padding-left: 22px; text-indent: -22px;">
 Naveh 1979<br>
 Joseph Naveh, ‘Varia Epigraphica Judaica’, <i>IOS</i> 
-9: 17-31.
+9:17-31.
 	</div>
 	
 
@@ -959,14 +960,14 @@ Joseph Naveh, ‘Varia Epigraphica Judaica’, <i>IOS</i>
 Olofsson <i>et al</i>. 2015<br>
 Linda Olofsson, Eva Andersson Strand, Marie-Louise Nosch,
 ‘Experimental Testing of Bronze Age Testile Tools’,
-in: Andersson Strand & Nosch 2015: 75-100.
+in: Andersson Strand & Nosch 2015:75-100.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Rahmstorf 2015<br>
 Lorenz Rahmstorf, ‘An Introduction to the Investigation of Archaeological Textile Tools’, 
-in: Andersson Strand & Nosch 2015: 1-23.
+in: Andersson Strand & Nosch 2015:1-23.
 	</div>
 	
 
@@ -1024,7 +1025,7 @@ Jerusalem: W.F. Albright Institute of Archaeological Research & Israel Explorati
 Sitry & Langgut 2019<br>
 Yigal Sitry, Dafna Langgut,
 ‘Wooden Objects from the Colt Collection – Shivta’,
-<i>Michmanim</i> 28: 31*-46*.
+<i>Michmanim</i> 28:31*-46*.
 	</div>
 	
 
@@ -1032,7 +1033,7 @@ Yigal Sitry, Dafna Langgut,
 Skals <i>et al</i>. 2015<br>
 Irene Skals, Susan Möller-Wiering, Marie-Louise Nosch,
 ‘Survey of Archaeological Remains from the Aegean and Eastern Mediterranean Area’,
-in: Andersson Strand & Nosch 2015: 61-74.
+in: Andersson Strand & Nosch 2015:61-74.
 	</div>
 	
 
@@ -1068,20 +1069,20 @@ Alla, Jordan</i>, Leiden: University of Leiden, Archaeological Centre, 57-61.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Von Soden 1981<br>
-Wolfram von Soden, ‘Zum hebräischen Wörterbuch’, <i>UF</i> 13: 157-64.
+Wolfram von Soden, ‘Zum hebräischen Wörterbuch’, <i>UF</i> 13:157-64.
 	</div>
 	
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Watson 2007<br>
-Wilfred G.E. Watson, ‘Bathing in the Briny: Notes on KTU 1.4 ii 3–7’, <i>UF</i> 39: 673-81.
+Wilfred G.E. Watson, ‘Bathing in the Briny: Notes on KTU 1.4 ii 3–7’, <i>UF</i> 39:673-81.
 	</div>
 	
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Watson 2018<br>
 Wilfred G.E. Watson, ‘Terms for Textiles, Clothing, Hides, Wool and Accessories in Ugaritic:
-An Etymological Study’, <i>AuOr</i> 36/2: 359-96.
+An Etymological Study’, <i>AuOr</i> 36/2:359-96.
 	</div>
 	
 
@@ -1100,7 +1101,7 @@ Jerusalem: Israel Exploration Society.
 <div style="padding-left: 22px; text-indent: -22px;">
 Younger 1998<br>
 K. Lawson Younger, Jr., ‘The Phoenician Inscription of Azatiwada: An Integrated Reading’, 
-<i>JSS</i> 43/1: 11-47.
+<i>JSS</i> 43/1:11-47.
 	</div>
 	
 

@@ -309,7 +309,7 @@ For the abbreviations see the
 	‘Weights and Measures:
 	Metrological Systems in the Bible and the Ancient Near East’, 
 	<i>Encyclopaedia Judaica</i>, vol. 20, 
-	Jerusalem: Keter Publishing House (2nd. ed.): 700–06.
+	Jerusalem: Keter Publishing House (2nd. ed.), 700–06.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">Borschel-Dan 2018  <br>
@@ -320,19 +320,20 @@ For the abbreviations see the
 	</div>
 	
 <div style="padding-left: 22px; text-indent: -22px;">Cook 1988  <br>
-	Edward M. Cook, ‘Weights and Measures,’ <i>ISBE</i>, vol. 4: 1046–55.
+	Edward M. Cook, ‘Weights and Measures,’ 
+	<i>ISBE</i> 4:1046–55.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">Dever 1985  <br>
 	William G. Dever, ‘Weights and Measures,’ <i>Harper’s Bible Dictionary</i> 
 	(ed. Paul J. Achtemeier), 
-	San Francisco: Harper & Row: 1126–31.
+	San Francisco: Harper & Row, 1126–31.
 	</div> 
 
 <div style="padding-left: 22px; text-indent: -22px;">Dijkstra & Vriezen 2010<br>  
 	Meindert Dijkstra & Karel J.H. Vriezen, ‘Gewichten,’  
 	<i>Bijbelse Encyclopedie</i> (ed. Hendrikus C. Endedijk & Sjoerd D. Heij), 
-	Utrecht: Kok (10th ed.): 286–87.
+	Utrecht: Kok (10th ed.), 286–87.
 	</div> 
 
 <div style="padding-left: 22px; text-indent: -22px;">Diringer 1934<br>  
@@ -343,7 +344,7 @@ For the abbreviations see the
 <div style="padding-left: 22px; text-indent: -22px;">Diringer 1958<br> 
 	David Diringer, ‘Weights,’ in: 
 	<i>Documents from Old Testament Times</i> (ed. D. Winton Thomas), 
-	New York: T. Nelson: 227–32.
+	New York: T. Nelson, 227–32.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">Freedman 1939<br>
@@ -355,7 +356,7 @@ For the abbreviations see the
 
 <div style="padding-left: 22px; text-indent: -22px;">Heltzer 1998<br>
 	Michael Heltzer, ‘An Inscribed Weight in the Reuben and Edit Hecht Museum’, 
-	<i>Michmanim</i> 12, 44*–46*.
+	<i>Michmanim</i> 12:44*–46*.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">Kletter 1998<br>
@@ -365,7 +366,8 @@ For the abbreviations see the
 	</div>
 	
 <div style="padding-left: 22px; text-indent: -22px;">Kletter 2009<br>
-	Raz Kletter,  ‘Weights and Measures,’  <i>NIDB</i>, vol. 5: 831–41.
+	Raz Kletter,  ‘Weights and Measures,’  
+	<i>NIDB</i> 5:831–41.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">Moscati 1951<br> 
@@ -374,29 +376,28 @@ For the abbreviations see the
 		</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">Powell 1992<br> 
-	Marvin A. Powell, ‘Weights and Measures’, <i>ABD</i>, vol. 6,  
-	897-908.
+	Marvin A. Powell, ‘Weights and Measures’, 
+	<i>ABD</i> 6:897-908.
 	</div> 
 
 <div style="padding-left: 22px; text-indent: -22px;">Röllig 2003<br>
 	Wolfgang Röllig, ‘Althebräische Schriftsiegel und Gewichte’, 
-	<i>HAE</i>, vol. II/2, 
-	81–456.
+	<i>HAE</i> II/2:	81–456.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">Scott 1959<br>
-	Robert B.Y. Scott, ‘Weights and Measures of The Bible’, <i>BA</i> 22, 
-	22–40.
+	Robert B.Y. Scott, ‘Weights and Measures of The Bible’, <i>BA</i> 22:22–40.
 	</div> 
 
 <div style="padding-left: 22px; text-indent: -22px;">Sellers 1962<br>
-	Ovid R. Sellers, ‘Weights and Measures’, <i>IDB</i>, vol. IV, 828–39.</div>
+	Ovid R. Sellers, ‘Weights and Measures’, 
+	<i>IDB</i> 4:828–39.</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">Shany 1967<br>
 	Eythan Shany, ‘A New Unpublished ‘Beq‛a’ Weight in the Collection of 
 	the Pontifical 
 		Biblical Institute, Jerusalem, Israel’, 
-		<i>PEQ</i> 99, 54–55; pl. XI.</div>
+		<i>PEQ</i> 99:54–55; pl. XI.</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">Stern 1976<br>
 Ephraim Stern, ‘Weights and Measures’, 
@@ -412,15 +413,17 @@ Ephraim Stern,
 
 
 <div style="padding-left: 22px; text-indent: -22px;">Strobel 1964<br>
-	August Strobel, ‘Maße und Gewichte’, <i>BHH</i>, vol. II:  1159–69.
+	August Strobel, ‘Maße und Gewichte’, 
+	<i>BHH</i> 2:1159–69.
 	</div> 
 
 <div style="padding-left: 22px; text-indent: -22px;">Trinquet 1957<br>
-	Joseph Trinquet, ‘Métrologie biblique  <i>DB.S</i>, vol. V:	 1212–50.
+	Joseph Trinquet, ‘Métrologie biblique  
+	<i>DB.S</i> 5:1212–50.
 	</div> 
 
 <div style="padding-left: 22px; text-indent: -22px;">Weippert 1977<br>
-	Helga Weippert, ‘Gewicht’, <i>BRL</i><small><sup>2</sup></small>:  93–94.
+	Helga Weippert, ‘Gewicht’, <i>BRL</i><small><sup>2</sup></small>,  93–94.
 	</div>
 
 
