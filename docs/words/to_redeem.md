@@ -139,7 +139,7 @@ freed from the Egyptians (Stamm 1971: 386).
 
 <b>B.1</b> It is generally agreed that גאל (I) is totally unrelated to its
 homonym גאל (II) (niph.), meaning ‘to be (ritually) defiled’ (possibly a
-by-form of געל)[^2] 
+by-form of <span dir="rtl" lang="he">געל</span>),[^2] 
 <i>contra</i> Johnson, who suggests that in both words
 there is the basic idea of ‘covering (up) an object’ (1953: 72), the
 first being ‘to protect’ by covering, and the second ‘to cover’ in the
@@ -162,11 +162,11 @@ in a cultic context – אִישׁ, ‘a man / someone’ (Lev 27:31; 4Q367 3:7);
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
 <b>b)</b><a id="Syntagmatics-A1b"></a> 
-in a socio-legal context – גֹּאֵל, ‘next of kin’ (Lev 25:25; Ruth 3:13 [3x], 4:4[4x], 6[2x]); <span dir="rtl" lang="he">מִן הַלְוִיִּם</span>, ‘(one) of the levites’ (Lev. 25:33: for the superiority of this interpretation to ‘from the levites’ see Milgrom 2001: 2202-03); אָח, ‘brother’ (Lev 25:48); דּוֹד, ‘paternal uncle’, בֶּן־דּוֹד, ‘uncle’s son’ (Lev 25:49); <span dir="rtl" lang="he">מִשְּׂאֵר בְּשָׂרוֹ מִמִּשְׁפַּחְתּוֹ</span>, ‘one of his family of his own flesh’ (Lev 25:49); אָנֹכִי ‘I’ referring to Boaz (Ruth 3:13); <span dir="rtl" lang="he">אֵין זוּלָתְךָ</span>, ‘no-one except you’ + inf. (Ruth 4:4); impv. to Boaz (Ruth 4:6); מֶלֶךְ, ‘the king’ (Ps 72:14) understood from v. 1 (in <i>DCH</i> ii: 294 Clines lists this mistakenly under yahweh as subject); חכם, ‘wise man’ (Sir 37:19 acc. mss B and C); subj. not specified (Lev 25:33; Ruth 4:4).
+in a socio-legal context – גֹּאֵל, ‘next of kin’ (Lev 25:25; Ruth 3:13 [3x], 4:4[4x], 6[2x]); <span dir="rtl" lang="he">מִן הַלְוִיִּם</span>, ‘(one) of the levites’ (Lev. 25:33: for the superiority of this interpretation to ‘from the levites’ see Milgrom 2001: 2202-03); אָח, ‘brother’ (Lev 25:48); דּוֹד, ‘paternal uncle’, בֶּן־דּוֹד, ‘uncle’s son’ (Lev 25:49); <span dir="rtl" lang="he">מִשְּׂאֵר בְּשָׂרוֹ מִמִּשְׁפַּחְתּוֹ</span>, ‘one of his family of his own flesh’ (Lev 25:49); אָנֹכִי ‘I’ referring to Boaz (Ruth 3:13); <span dir="rtl" lang="he">אֵין זוּלָתְךָ</span>, ‘no-one except you’ + inf. (Ruth 4:4); impv. to Boaz (Ruth 4:6); מֶלֶךְ, ‘the king’ (Ps 72:14) understood from v. 1 (in <i>DCH</i> ii:294 Clines lists this mistakenly under Yahweh as subject); חכם, ‘wise man’ (Sir 37:19 acc. mss B and C); subj. not specified (Lev 25:33; Ruth 4:4).
 </div>
 
 
-<b>A.2</b> the direct objects following גאל qal in cultic and socio-legal contexts are: <span dir="rtl" lang="he">בְּהֵמָה טְמֵאָה</span>, ‘unclean animal’ understood from v. 11 (Lev 27:13; 4Q251 14:2); בַּיִת, ‘house’ (Lev 27:15); שָׂדֶה, ‘field’ (Lev 27:19, 20); מִמַּעַשְׂרוֹ ‘some of his tithe’ (Lev 27:31; 4Q367 3:7); <span dir="rtl" lang="he">אֵת מִמְכַּר</span>,
+<b>A.2</b> The direct objects following גאל qal in cultic and socio-legal contexts are: <span dir="rtl" lang="he">בְּהֵמָה טְמֵאָה</span>, ‘unclean animal’ understood from v. 11 (Lev 27:13; 4Q251 14:2); בַּיִת, ‘house’ (Lev 27:15); שָׂדֶה, ‘field’ (Lev 27:19, 20); מִמַּעַשְׂרוֹ ‘some of his tithe’ (Lev 27:31; 4Q367 3:7); <span dir="rtl" lang="he">אֵת מִמְכַּר</span>,
 `what has been sold’ (property) (Lev 25:25); אָח, ‘brother/kin’ understood from v. 47 (Lev 25:48, 49 [2x]); נֶפֶשׁ, ‘soul’ (lives/souls of the poor) (Ps 72:14), (his own life/soul) (Sir 37:19 acc. mss B and C); 2 f.sg. sf. referring to Ruth (3:13[4x]); חֶלְקָה, ‘portion of land’ (Ruth 4:4[5x], 6); גְּאֻלָּה, ‘right of redemption’ (Ruth 4:6).
 
 <b>A.3</b> The prepositions in these cases used with גאל qal are: <span dir="rtl" lang="he">לְ</span> + 1sg. sf.
@@ -216,7 +216,7 @@ outstretched arm and mighty acts of judgement’ (Exod 6:6); + <span dir="rtl" l
 hand of the foreigners’ (11Q5 18:17).
 
 
-<b>A.8</b> the subject of גאל qal is unspecified in 4Q411 1 ii 8: [ה]וגאל בצהל
+<b>A.8</b> The subject of גאל qal is unspecified in 4Q411 1 ii 8: [ה]וגאל בצהל
 ‘and redeemed with rejoicing’; and in 4Q471a 3: גאלנו ‘he has redeemed
 us’, although in both cases it is likely that the subject is יהוה.
 
@@ -479,7 +479,7 @@ Qal:
 *  <i>eruo</i>, ‘to rescue, release’: Gen 48:16;
 *  <i>iure propinquitatis emo</i>, ‘right of kindred, buy it’: Ruth 4:4;
 * <i>libero</i>, ‘to make or set free’: Isa 35:9; 51:10; Jer 31:11; Sir 51:8, Ps 69:19 (Vg<small><sup>PsG</sup></small>);
-* <i>obscur0</i>, ‘to hide, conceal, obscure’: Job 3:5;
+* <i>obscuro</i>, ‘to hide, conceal, obscure’: Job 3:5;
 * <i>propinquus</i>, ‘relative, kinsman’: Lev 25:25; 1 Kgs 16:11; Prov 23:11; Ruth 2:20;
     3:9, 12; 4:1, 3, 8;
 * <i>proximus</i>, ‘nearer, nigher’: Lev 25:26; Num 5:8;
@@ -590,7 +590,7 @@ translates it by
 possession which are essential to גאל. When something belongs to someone they have a claim to it, either by themselves or with the help of one’s kinsman (גֹּאֵל).
 
 
-<b>A.4</b> גאל (qal pf.), ‘to act as kinsman’ with God as subject, is used several times in the context of the Exodus (Exod 6:6; 15:13; Isa 51:10; 63:9; Ps 74:2; 77:16; 78:35; 106:10; 4Q158 14i:5) and could be translated in several different ways. In Ps 74:2 גאל is in collocation with קנה, ‘to acquire/buy’ (obj. עדתך), which seems to have overtones of payment and is perhaps more akin to the human socio-legal usage of גאל (Lev 25). The same association of גאל with קנה occurs in otherwise identical expressions referring to early Israel in Exod 15:13 and 15:16. Even when payment is not mentioned, the use of גאל for buying someone out of slavery (Lev 25:48) may provide a useful background to the context here of release from slavery in Egypt. God fulfilled the role of Israel’s kinsman at the Exodus, setting them free from slavery. גאל can easily take on the sense ‘to save’ or ‘liberate’ here, although this ignores the connotation of God ‘acquiring’ or ‘claiming’ his people, which may be underlying the choice of גאל rather than (or alongside) ישׁע hiph. or נצל hiph. This does not preclude, however, the possibility that the meaning of גאל could have developed by association with other salvation words.
+<b>A.4</b> גאל (qal pf.), ‘to act as kinsman’ with God as subject, is used several times in the context of the exodus (Exod 6:6; 15:13; Isa 51:10; 63:9; Ps 74:2; 77:16; 78:35; 106:10; 4Q158 14i:5) and could be translated in several different ways. In Ps 74:2 גאל is in collocation with קנה, ‘to acquire/buy’ (obj. עדתך), which seems to have overtones of payment and is perhaps more akin to the human socio-legal usage of גאל (Lev 25). The same association of גאל with קנה occurs in otherwise identical expressions referring to early Israel in Exod 15:13 and 15:16. Even when payment is not mentioned, the use of גאל for buying someone out of slavery (Lev 25:48) may provide a useful background to the context here of release from slavery in Egypt. God fulfilled the role of Israel’s kinsman at the exodus, setting them free from slavery. גאל can easily take on the sense ‘to save’ or ‘liberate’ here, although this ignores the connotation of God ‘acquiring’ or ‘claiming’ his people, which may be underlying the choice of גאל rather than (or alongside) ישׁע hiph. or נצל hiph. This does not preclude, however, the possibility that the meaning of גאל could have developed by association with other salvation words.
 
 The use of גאל to describe the king’s action towards the poor in Ps 72:14 needs special attention. It is the only use of the verb with a human subject which lies outside the cultic and socio-legal contexts, and with which the preposition מִן is connected (on Lev 25:33 see 
 <a href="#Syntagmatics-A1b">Syntagmatics A.1.b</a>). Both these characteristics link Ps 72:14 with some of the occurrences of גאל where it has a divine subject (which is not surprising in view of the overlap of royal and divine characteristics in the Bible): e.g. Gen 48:16; Hos 13:14; Ps 103:4; Sir 51:8. The proximity
