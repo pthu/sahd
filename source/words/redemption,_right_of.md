@@ -23,7 +23,7 @@ Occurrences: 14x HB (9/3/2); 0x Sir; 2x Qum; 0x inscr. (Total: 16).
 * Nebiim: Jer 32:7, 8; Ezek 11:15.
 * Ketubim: Ruth 4:6, 7.
 * Qum: 4Q504 5 ii 4; 4Q506 124:4.
-* Text doubtful: –
+* Text doubtful: Ezek 11:15; 4Q504 5:ii.4.
 
 
 <b>A.1</b>  אַנְשֵׁי גְאֻלָּתְךָ ‘men of your redemption’ in Ezek 11:15 is
@@ -34,77 +34,49 @@ whereas the Vg has <i>viri propinqui tui</i> ‘your kindred’, and Tg קריב
 ‘your relatives’, agreeing with MT (so BDB, 145). See Exegesis, A.5.
 
 
-<b>A.2</b>  4Q504 5 ii 4 נהגה גאל[תנו —] from a speech addressed to God, has
-been reconstructed using a parallel text 4Q506 124:4 [... נהג]ה֯ גאלתנו
-‘let us/we will celebrate our redemption’.
+<b>A.2</b>  4Q504 5:ii.4 נהגה גאל[תנו —] from a speech addressed to God, has
+been reconstructed using a parallel text 4Q506 124:4 
+<span dir="rtl" lang="he">ׄ[... נהג]ה֯ גאלתנׄו</span>, ‘let us/we will celebrate our redemption’.
 
 Qere/Ketiv: none.
 
 ## 1. Root And Comparative Material
 
 
-<b>A.1</b>  [see גאל]
+<b>A.1</b>  See <a href="https://pthu.github.io/sahd/words/to_redeem/#1-root-and-comparative-material"><span dir="rtl" lang="he">גאל</span>, 1. Root And Comparative Material</a>.
 
 
-<b>A.2</b>  The theological meaning of גְּאֻלָּה ‘redemption’ (political
-liberation and independence) can also be found on ‘Freedom’ and
-‘Redemption’ coins from the First Revolt against Rome (AD 66-70),
-bearing the inscription לגאלת ציון ‘for the redemption of Zion’ and
-coinage from the Bar Kochba revolt (AD 132-5) with the inscription שנת
-אחת לגאלת ישראל ‘year one of the redemption of Israel’ (for detailed
-references see Schürer Vermes and Millar 1973: 605-06). Similar
-expressions (always with ישראל) occur in the dates of legal documents
-from the period of the Second Revolt found in the caves of Wadi
-Murabaʿat (Mur 22 1:1; 24 2:2, 4:2, 5:1; 29 1:1; 30 2:1[8]; very likely
-also in other places where the papyrus is damaged), again corresponding
-to חרות in some similar Aramaic documents (DJD ii, 118-48). <i>DCH</i> ii,
-296, also refers to another occurrence in a 'Bar Kochba IOU' (further
-examples (DJD ii, 139 n. 2) and discussion in Horbury 2011).
+<b>A.2</b>  The theological meaning of גְּאֻלָּה, ‘redemption’ (political liberation and independence) can also be found on ‘Freedom’ and ‘Redemption’ coins from the First Revolt against Rome (AD 66-70), bearing the inscription <span dir="rtl" lang="he">לגאלת ציון</span>, ‘for the redemption of Zion’ and coinage from the Bar Kochba revolt (AD 132-5) with the inscription <span dir="rtl" lang="he">שנת אחת לגאלת ישראל</span> ‘year one of the redemption of Israel’ (for detailed references see Schürer 1973: 605-06). Similar expressions (always with ישראל) occur in the dates of legal documents from the period of the Second Revolt found in the caves of Wadi Murabaʿat (Mur 22 1:1; 24 2:2, 4:2, 5:1; 29 1:1; 30 2:1[8]; very likely also in other places where the papyrus is damaged),  again corresponding to חרות in some similar Aramaic documents (DJD ii:118-48). <i>DCH</i> ii:296, also refers to another occurrence in a 'Bar Kochba IOU' (further examples \[DJD ii:139 n. 2] and discussion in Horbury 2011).
 
 ## 2. Formal Characteristics
 
 
-<b>A.1</b>  <i>q<small><sup>e</sup></small>tullā</i> form (Joüon-Muraoka, <i>GBH</i>, §88Ck). It always occurs in
-the singular in the OT. This formation is found with a number of other
-legal terms (see further Horst 1961b: 153 n. 21).
+<b>A.1</b>  <i>q<small><sup>e</sup></small>tullā</i> form (Joüon-Muraoka, <i>GBH</i>, §88Ck). It always occurs in the singular in the OT. This formation is found with a number of other legal terms (see further Horst 1961b:153 n. 21).
 
 ## 3. Syntagmatics
 
-<b>A.1</b>  גְּאֻלָּה is several times the subject of verb היה (Lev 25:29 [2x],
-31, 32, 48).
+<b>A.1</b>  גְּאֻלָּה is several times the subject of verb היה (Lev 25:29 [2x], 31, 32, 48).
 
-<b>A.2</b>  גְּאֻלָּה is the object of verbנתן ‘to give, grant’ (Lev 25:24), מצא
-(Lev 25:26, + כְדֵי), שוב hiph. (Lev 25:51, 52), גאל (Ruth 4:6), חוג
+<b>A.2</b>  גְּאֻלָּה is the object of verb נתן, ‘to give, grant’ (Lev 25:24); מצא
+(Lev 25:26, + כְדֵי); שוב hiph. (Lev 25:51, 52); 
+<a href="https://pthu.github.io/sahd/words/to_redeem/"><span dir="rtl" lang="he">גאל</span></a> (Ruth 4:6); and חוג
 (4Q504 5ii:4; 4Q506 124:4).
 
-<b>A.3</b>  גְּאֻלָּה is nomen regens of עוֹלם ‘the right of redemption for
-ever’ (Lev 25:32); and it occurs with the suffixes ‘his, its’ referring
-to a piece of land (Lev 25:26), a house (Lev 25:29 [2x]) or an enslaved
-person (Lev 25:51, 52), ‘your’ referring to Ezekiel (Ezek 11:15), ‘my’
-referring to the next of kin (Ruth 4:6) and ‘our’ referring to the
-speakers of the ‘The Words of the Luminaries’ (members of the Qumran
-community? 4Q504 5 ii 4; 4Q506 124:4).
+<b>A.3</b>  גְּאֻלָּה is nomen regens of עוֹלם, ‘the right of redemption for ever’ (Lev 25:32); and it occurs with the suffixes ‘his, its’ referring to a piece of land (Lev 25:26), a house (Lev 25:29 [2x]) or an enslaved person (Lev 25:51, 52); ‘your’ referring to Ezekiel (Ezek 11:15); ‘my’ referring to the next of kin (Ruth 4:6); and ‘our’ referring to the speakers of the ‘the Words of the Luminaries’ (members of the Qumran community? 4Q504 5:ii.4; 4Q506 124:4).
 
 
-<b>A.4</b>  גְּאֻלָּה is nomen rectum of כְּדֵי ‘according to the sufficiency of
-redemption’ (Lev 25:26), מִשְׁפַּט (+ לִקְנוֹת) ‘the right of redemption
-(to buy)’ (Jer 32:7) and, if the text is correct, אַנְשֵׁי ‘men of your
-redemption/kin group’ (Ezek 11:15).
+<b>A.4</b>  גְּאֻלָּה is nomen rectum of כְּדֵי, ‘according to the sufficiency of redemption’ (Lev 25:26); 
+<span dir="rtl" lang="he">מִשְׁפַּט</span>
+<span dir="rtl" lang="he">(לִקְנוֹת +)</span>, ‘the right of redemption (to buy)’ (Jer 32:7); and, if the text is correct, אַנְשֵׁי ‘men of your redemption/kin group’ (Ezek 11:15).
 
 
-<b>A.5</b>  גְּאֻלָּה occurs in the nominal clauses: לְךָ מִשְׁפַּט הַגְּאֻלָּה
-לִקְנוֹת ‘the right of redemption to buy is yours’ (Jer 32:7) and לְךָ
-הַגְּאֻלָּה ‘the right of redemption is yours’ (Jer 32:8).
+<b>A.5</b>  גְּאֻלָּה occurs in the nominal clauses:
+<span dir="rtl" lang="he">לְךָ מִשְׁפַּט הַגְּאֻלָּה לִקְנוֹת</span>, ‘the right of redemption to buy is yours’ (Jer 32:7); and <span dir="rtl" lang="he">לְךָ הַגְּאֻלָּה</span>, ‘the right of redemption is yours’ (Jer 32:8).
 
 
-<b>A.6</b>  גְּאֻלָּה is followed by the prepositions: לְ ‘to’ of possession + 3
-m.sg. sf. ‘it’ referring to the house(s) earlier in the verse (Lev
-25:31), לְ + לְוִיִּם ‘the Levites’ (Lev 25:32), לְ + 3 m.sg. sf. ‘him’
-referring to one’s brother (אָח) from v. 47 (Lev 25:48), לְ + 2 m.sg.
-sf. ‘you’ referring to Jeremiah (v. 6) (Jer 32:8), לְ + 2 m.sg. sf.
-‘you’ (referring to Boaz, v. 5) (Ruth 4:6), לְ + הָאָרֶץ ‘for the land’
-(Lev 25:24), מִן ‘part of’ + כֶּסֶף מִקְנָתוֹ ‘price of the sale’ (Lev
-25:51).
+<b>A.6</b>  גְּאֻלָּה is followed by the prepositions: לְ, ‘to’ of possession + 3 m.sg. sf. ‘it’, referring to the house(s) earlier in the verse (Lev 25:31), <span dir="rtl" lang="he">לְ</span> + לְוִיִּם, ‘the Levites’ (Lev 25:32); <span dir="rtl" lang="he">לְ</span> + 3 m.sg. sf. ‘him’, referring to one’s brother (אָח) from v. 47 (Lev 25:48); <span dir="rtl" lang="he">לְ</span> + 2 m.sg. sf. ‘you’, referring to Jeremiah (v. 6) (Jer 32:8); <span dir="rtl" lang="he">לְ</span> + 2 m.sg. sf. ‘you’, referring to Boaz (v. 5) (Ruth 4:6);
+ <span dir="rtl" lang="he">לְ</span> + הָאָרֶץ ‘for the land’ (Lev 25:24); מִן ‘part of’ +
+<span dir="rtl" lang="he">כֶּסֶף מִקְנָתוֹ</span>, ‘price of the sale’ (Lev 25:51).
 
 ## 4. Ancient Versions:
 
@@ -121,25 +93,13 @@ sf. ‘you’ referring to Jeremiah (v. 6) (Jer 32:8), לְ + 2 m.sg. sf.
 [^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>
 [^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i>… claim on that which is currently not in one’s possession</i>’. LEH<small><sup>3</sup></small>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
-<b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of כפר,
-גאל and פדה. In Classical Greek λύτρον denotes ‘price of release,
-ransom’ (LSJ, 1067b), the ‘means of release’ implied by the suffix
-–τρον, and was used for the sum paid to ransom prisoners of war and
-slaves (Procksch and Büchsel 1967: 340).
+<b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of <span dir="rtl" lang="he">כפר</span>, 
+<span dir="rtl" lang="he">גאל</span>, and פדה. In Classical Greek λύτρον denotes ‘price of release, ransom’ (LSJ, 1067b), the ‘means of release’ implied by the suffix –τρον, and was used for the sum paid to ransom prisoners of war and slaves (Procksch and Büchsel 1967: 340).
 
+<b>A.2</b>  The choice of words in the LXX seems to vary according to context, λύτρον being used when the emphasis is on a particular sum of money and λύτρωσις and λυτρωτός when the rights of redemption are being discussed.
 
-<b>A.2</b>  The choice of words in the LXX seems to vary according to context,
-λύτρον being used when the emphasis is on a particular sum of money and
-λύτρωσις and λυτρωτός when the rights of redemption are being discussed.
-
-
-<b>A.3</b>  It is no surprise that ἀγχιστεία appears in Ruth, as the main verb
-used to translate גאל in Ruth is ἀγχιστεύω ‘to be next of kin’. Together
-with πρεσβύτερος, which is used elsewhere of the eldest child (e.g. Gen
-19:31; 27:1; 44:12) and is here a free rendering assuming the
-equivalence of גְּאֻלָּה to the rights of the firstborn, ἀγχιστεία
-reflects the kinship aspect underlying גְּאֻלָּה (see entry on גאל).
-
+<b>A.3</b>  It is no surprise that ἀγχιστεία appears in Ruth, as the main verb used to translate גאל in Ruth is ἀγχιστεύω ‘to be next of kin’. Together with πρεσβύτερος, which is used elsewhere of the eldest child (e.g. Gen 19:31; 27:1; 44:12) and is here a free rendering assuming the equivalence of גְּאֻלָּה to the rights of the firstborn, ἀγχιστεία reflects the kinship aspect underlying גְּאֻלָּה (see entry on
+<a href="https://pthu.github.io/sahd/words/to_redeem/#4-ancient-versions"><span dir="rtl" lang="he">גאל</span>, 4. Ancient Versions</a>).
 
 <b>A.4</b>  παραλαμβάνω in Jer 32:7 (39:7<small><sup>LXX</sup></small>)is a generalising rendering which ignores
 the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
