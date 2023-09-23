@@ -691,6 +691,9 @@ subst. active participle (without a subsequent verb), seems to draw out the intr
 
 ## Bibliography
 
+For the abbreviations see the 
+<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+
 <div style="padding-left: 22px; text-indent: -22px;">
 Abegg, Bowley, and Cook 2003
 <br>

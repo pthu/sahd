@@ -486,8 +486,7 @@ walls and ramparts. Verbs of motion are rare with
 also found (<a href="#3.A.2">Syntagmatics&nbsp;A.2</a>) in contexts of battle.
 
 
-<b>A.3</b>  It is the nomen rectum of nouns denoting, amongst other things,
-power or protection (<a href="#3.A.5">Syntagmatics&nbsp;A.5</a>) 
+<b>A.3</b>  It is the nomen rectum of nouns denoting, amongst other things, power or protection (<a href="#3.A.5">Syntagmatics&nbsp;A.5</a>) 
 and this is similar to the
 meaning of <span dir="rtl" lang="he">יֵשַׁע</span>, although 
 <span dir="rtl" lang="he">יְשׁוּעָה</span> is not found so often with this
@@ -511,9 +510,7 @@ indicate that God is the speaker’s
 more of God’s acts. It may be that the shorter form was more adept to
 this use, involving as it did the addition of a pronominal suffix. 
 <span dir="rtl" lang="he">יֵשַׁע</span>
-also appears to be used frequently as nomen rectum of nouns denoting
-defence or strength.
-
+also appears to be used frequently as nomen rectum of nouns denoting defence or strength.
 
 <b>A.5</b>  Although <span dir="rtl" lang="he">יְשׁוּעָה</span> may have the meaning ‘help’ (cf. Vg), this is rare
 in comparison to the use of <span dir="rtl" lang="he">תְּשׁוּעָה</span>.
