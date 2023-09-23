@@ -9,8 +9,8 @@ First published: 2007-08-01<br>Last update: 2023-10-01 <br>Citation: Alison Gray
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole see on this site the 
-<a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
-of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
+<a href="/sahd/miscellaneous/overview_deliverance/">Overview
+of SAHD Entries for ‘Deliverance’ Words</a> by Graham I. Davies.
 
 ## INTRODUCTION
 
@@ -27,24 +27,23 @@ allowing the nominal parsing as an alternative (DCH ii, 293-94). But
 most modern commentators (so Marti, Volz and recently Blenkinsopp) and
 versions: translations (e.g. RSV, NRSV) treat it as a noun, as do BDB
 (145) and <i>HALOT</i> (168, with ref. to BL 517y and Köhler 1921). The
-parallel נקם and the versional renderings (see below) support this.
+parallel <span dir="rtl" lang="he">נקם</span> and the versional renderings (see below) support this.
 
 <b>B.2</b>  Budde (1909: 661-62; cited by Köhler without reference) proposed the
-emendation גמולי, but it has not found favour with others.
+emendation <span dir="rtl" lang="he">גמולי</span>, but it has not found favour with others.
 
 Qere/Ketiv: none.
 
 ## 1. Root And Comparative Material
 
+<b>A.1</b> 
+See <a href="https://pthu.github.io/sahd/words/to_redeem/#1-root-and-comparative-material"><span dir="rtl" lang="he">גאל</span>, 1. Root And Comparative Material</a>.
 
-<b>A.1</b>  [see גאל]
 
 ## 2. Formal Characteristics
 
-
-<b>A.1</b>  <i>qatūl</i> : Joüon-Muraoka, <i>GBH</i>, §88Ec (abstract or action nouns),
-§136f-i (on the use of the plural to represent intensity, abstraction or
-action).[^1] Cf. also פְּדוּיִם.
+<b>A.1</b>  <i>qatūl</i>: Joüon-Muraoka, <i>GBH</i>, §88Ec (abstract or action nouns),
+§136f-i (on the use of the plural to represent intensity, abstraction or action).[^1] Cf. also <span dir="rtl" lang="he">פְּדוּיִם</span>.
 
 [^1]: Cf. BL, 517y and Köhler 1921: 316.
 
@@ -52,12 +51,9 @@ action).[^1] Cf. also פְּדוּיִם.
 ## 3. Syntagmatics
 
 
-<b>A.1</b>  גְּאוּלִים is <i>nomen rectum</i> of שׁנת, ‘the year of redemption’ and
-the whole phrase is the subject of the verb בוא (Isa 63:4).
+<b>A.1</b>  <span dir="rtl" lang="he">גְּאוּלִים</span> is <i>nomen rectum</i> of <span dir="rtl" lang="he">שׁנת</span>, ‘the year of redemption’ and the whole phrase is the subject of the verb <span dir="rtl" lang="he">בוא</span> (Isa 63:4).
 
-
-<b>A.2</b>  The form attested is גאולי, ‘my redemption’: the 1.sg. pronoun here,
-as throughout Isa 63:1-6, refers to God.
+<b>A.2</b>  The form attested is <span dir="rtl" lang="he">גאולי</span>, ‘my redemption’: the 1.sg. pronoun here, as throughout Isa 63:1-6, refers to God.
 
 ## 4. Ancient Versions:
 
@@ -67,40 +63,32 @@ as throughout Isa 63:1-6, refers to God.
 
 [^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i> … claim on that which is currently not in one’s possession</i>’. LEH<small><sup>3</sup></small>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
+<b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of <span dir="rtl" lang="he">כפר</span>,
+<span dir="rtl" lang="he">גאל</span> and <span dir="rtl" lang="he">פדה</span>. In Classical Greek λύτρον denotes ‘price of release, ransom’ (LSJ, 1067b), the ‘means of release’ implied by the suffix –τρον, and was used for the sum paid to ransom prisoners of war and slaves (Procksch and Büchsel 1967: 340).
 
-<b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of כפר,
-גאל and פדה. In Classical Greek λύτρον denotes ‘price of release,
-ransom’ (LS p.1067b), the ‘means of release’ implied by the suffix
-–τρον, and was used for the sum paid to ransom prisoners of war and
-slaves (Procksch and Büchsel 1967: 340).
-
-
-<b>A.2</b>  The choice of words in the LXX seems to vary according to context,
-λύτρον being used when the emphasis is on a particular sum of money and
-λύτρωσις when the action or right of redemption is being discussed.
+<b>A.2</b>  The choice of words in the LXX seems to vary according to context, λύτρον being used when the emphasis is on a particular sum of money and λύτρωσις when the action or right of redemption is being discussed.
 
 <b>b. Peshitta (Pesh):</b>
 
-* ܦܘܪܩܢܐ
+* <span dir="rtl" lang="–">ܦܘܪܩܢܐ</span>
 (<i>pwrqnʾ</i>), ‘saving, salvation, redemption’:[^3] Isa 63:4.
 
-[^3]: Sokoloff, <i>SLB</i>, 1172 <i>s.v.</i>
+[^3]: Sokoloff, <i>SLB</i>, 1172.
 
 <b>c. Targum (Tg: J):</b>
 
-* פורקן (עמי),
+* <span dir="rtl" lang="he">פורקן (עמי)</span>,
 ‘redemption (of my people)’:[^4] Isa 63:4.
 
 [^4]: Jastrow, <i>DTT</i>, 1148; Sokoloff, <i>DJPA</i>, 427.
 
-
-
-<b>A.1</b>  Both Pesh and Tg prefer the root ܦܪܩ (<i>prq</i>)/ פרק, rather than
-    שׁיזב (Tg<small><sup>J</sup></small>) or ܦܨܝ/ܦܨܐ (<i>pṣʾ</i>/<i>pṣy</i>) (Pesh), to render גאל (see
-    entry on root גאל; cf. ישׁע), with the exception of passages in Ruth
-    (4:6 [Tg<small><sup>K</sup></small>, Pesh], 7 [Pesh]) and Jeremiah (32:7 [Tg<small><sup>J</sup></small>, Pesh], 8
-    [Tg<small><sup>J</sup></small>]), where the choices of (<i>yrtwtʾ</i>) and אחסנתא respectively
-    emphasise the claim to inheritance.
+<b>A.1</b>  Both Pesh and Tg prefer the root ܦܪܩ (<i>prq</i>)/ פרק, rather than <span dir="rtl" lang="he">שׁיזב</span> (Tg<small><sup>J</sup></small>) or <span dir="rtl" lang="–">ܦܨܝ/ܦܨܐ</span> 
+(<i>pṣʾ</i>/<i>pṣy</i>) (Pesh), to render גאל 
+(see entry on root <a href="https://pthu.github.io/sahd/words/to_redeem/"><span dir="rtl" lang="he">גאל</span></a>; cf. <a href="https://pthu.github.io/sahd/words/to_save%2C_help/"><span dir="rtl" lang="he">ישׁע</span></a>), 
+with the exception of passages in Ruth (4:6 [Tg<small><sup>K</sup></small>, Pesh], 7 [Pesh]) and Jeremiah (32:7 [Tg<small><sup>J</sup></small>, Pesh], 8 [Tg<small><sup>J</sup></small>]), where the choices of 
+<span dir="rtl" lang="–">ܝܪܬܘܬܐ</span>
+(<i>yrtwtʾ</i>) 
+and <span dir="rtl" lang="he">אחסנתא</span> respectively emphasise the claim to inheritance.
 
 
 <b>A.2</b>  Here Tg has added עמי to make clear whose ‘redemption’ is
@@ -115,11 +103,11 @@ slaves (Procksch and Büchsel 1967: 340).
 
 ## 5. Lexical/Semantic Fields
 
+<b>A.1</b>  See
+<a href="https://pthu.github.io/sahd/words/to_redeem/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">גאל</span>: 5. Lexical/Semantic Fields</a>.
 
-<b>A.1</b>  (see גאל vb)
 
-
-<b>A.2</b>  גְּאוּלִים occurs in poetic parallelism with נָקָם, ‘vengeance’ (Isa
+<b>A.2</b>  <span dir="rtl" lang="he">גְּאוּלִים</span> occurs in poetic parallelism with <span dir="rtl" lang="he">נָקָם</span>, ‘vengeance’ (Isa
 63:4). The parallelism is not synonymous: the two terms represent the
 different effects of the same action respectively for Israel’s enemies
 and Israel itself (cf. Tg).
@@ -127,28 +115,33 @@ and Israel itself (cf. Tg).
 ## 6. Exegesis
 
 
-<b>A.1</b>  Marti (1900: 392) compared ‘the year of my גְּאוּלִים’ to the laws on the jubilee year in Lev 25:28-34, 47-55, where the verb גאל is used several times.
+<b>A.1</b>  Marti (1900: 392) compared ‘the year of my <span dir="rtl" lang="he">גְּאוּלִים</span>’ to the laws on the jubilee year in Lev 25:28-34, 47-55, where the verb <span dir="rtl" lang="he">גאל</span> is used several times.
 
 
-<b>B.1</b>  Merz (1916: 68) introduced a sense based on the idea of the גֹּאֵל
+<b>B.1</b>  Merz (1916: 68) introduced a sense based on the idea of the <span dir="rtl" lang="he">גֹּאֵל</span>
 as an avenger of blood: ‘(the year of) those to whose avenging I am
 obligated’. Köhler (1921: 316) took this in a more plausible direction
 (‘year of’ is not very likely to be followed by a genitive of the
 person, and the sense which Merz proposed for the part. is forced) by
-comparing נערים and בתולים (cf. also זקנים) as ‘time-words’ formed on
+comparing <span dir="rtl" lang="he">נערים</span> and <span dir="rtl" lang="he">בתולים</span> (cf. also <span dir="rtl" lang="he">זקנים</span>) as ‘time-words’ formed on
 this pattern and proposing ‘time when one acts as an avenger of blood’
 (likewise KB and Westermann 1969: 383). But, although the parallel with
-נָקָם, ‘vengeance’, can be seen as favouring this interpretation, it is
+<span dir="rtl" lang="he">נָקָם</span>, ‘vengeance’, can be seen as favouring this interpretation, it is
 not decisive (see above, 5) and the combination with ‘year’ seems to
 make this temporal dimension of meaning otiose. Volz retains the
 traditional understanding as an abstract noun (1932: 261).
 
 ## 7. Conclusion
 
-The single occurrence of גְּאוּלִים in BH leaves some doubt as to which of the uses of the verb it is related to. A case has been made for ‘(time of) avenging’ instead of the traditional understanding ‘redemption’, which sees it as a synonym of גְּאֻלָּה in one of its
+The single occurrence of <span dir="rtl" lang="he">גְּאוּלִים</span> in BH leaves some doubt as to which of the uses of the verb it is related to. A case has been made for ‘(time of) avenging’ instead of the traditional understanding ‘redemption’, 
+which sees it as a synonym of <span dir="rtl" lang="he">גְּאֻלָּה</span> in one of its
 senses, but it is not compelling.
 
 ## Bibliography
+
+For the abbreviations see the 
+<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Blenkinsopp 2003

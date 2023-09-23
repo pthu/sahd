@@ -99,7 +99,7 @@ Qere/Ketiv: none.
 <b>A.3</b>  It is no surprise that ἀγχιστεία appears in Ruth, as the main verb used to translate גאל in Ruth is ἀγχιστεύω ‘to be next of kin’. Together with πρεσβύτερος, which is used elsewhere of the eldest child (e.g. Gen 19:31; 27:1; 44:12) and is here a free rendering assuming the equivalence of גְּאֻלָּה to the rights of the firstborn, ἀγχιστεία reflects the kinship aspect underlying גְּאֻלָּה (see entry on
 <a href="https://pthu.github.io/sahd/words/to_redeem/#4-ancient-versions"><span dir="rtl" lang="he">גאל</span>, 4. Ancient Versions</a>).
 
-<b>A.4</b>  παραλαμβάνω in Jer 32:7 (39:7<small><sup>LXX</sup></small>)is a generalising rendering which ignores
+<b>A.4</b>  παραλαμβάνω in Jer 32:7 (39:7<small><sup>LXX</sup></small>) is a generalising rendering which ignores
 the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
 
 <b>b. Peshitta (Pesh):</b>
@@ -133,9 +133,12 @@ the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
 [^4]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
 <b>A.1</b>  Both the Peshitta and the Targums prefer the root ܦܪܩ (<i>prq</i>)/ פרק,
-‘to remove, release from, save’, rather than than שׁיזב (Tg<small><sup>J</sup></small>) or
-ܦܨܝ/ܦܨܐ (<i>pṣʾ</i>/</i>pṣy</i>) (Pesh) (see entries on root גאל and ישׁע), with
-the exception of passages in Ruth (4:6 [Tg<small><sup>K</sup></small>, Pesh], 7 [Pesh]) and
+‘to remove, release from, save’, rather than than שׁיזב (Tg<small><sup>J</sup></small>) or <span dir="rtl" lang="–">ܦܨܝ/ܦܨܐ</span> (<i>pṣʾ</i>/</i>pṣy</i>) (Pesh) 
+(see entries on root 
+<a href="https://pthu.github.io/sahd/words/to_redeem/"><span dir="rtl" lang="he">גאל</span></a>
+and 
+<a href="https://pthu.github.io/sahd/words/to_save%2C_help/"><span dir="rtl" lang="he">ישׁע</span></a>), 
+with the exception of passages in Ruth (4:6 [Tg<small><sup>K</sup></small>, Pesh], 7 [Pesh]) and
 Jeremiah (32:7, 8 [Tg<small><sup>J</sup></small>, Pesh]), where the choices of ܝܪܬܘܬܐ
 (<i>yrtwtʾ</i>), ܘܠܐ (<i>wlʾ</i>) and אחסנתא respectively emphasise the claim to
 inheritance or possession.
@@ -261,6 +264,9 @@ redemption’ and ‘price of redemption’ several times, and it may mean
 ‘period of redemption’ and ‘kin-group’ too.
 
 ## Bibliography
+
+For the abbreviations see the 
+<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Cooke 1936
