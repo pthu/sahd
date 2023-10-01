@@ -1,0 +1,1 @@
+Raymond de Hoop is an independent scholar, working as editor for the SAHD-Team. 
