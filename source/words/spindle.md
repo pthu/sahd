@@ -34,16 +34,16 @@ However, פֶּלֶךְ <small>II</small> is undoubtedly a geographic designatio
 ‘ruler of Mizpah’ (Neh 3:19), and
 שַׂר פֶּלֶךְ הַמִּצְפָּה,
 ‘ruler of the פֶּלֶךְ of Mizpah’ (Neh 3:15), 
-with פֶּלֶךְ apparently designating the area around Mizpah (Williamson 1985: 206).
+with פֶּלֶךְ apparently designating the area around Mizpah (Williamson 1985:206).
 
-[^1]: <i>CAD</i> P, 373-74, s.v. <i>pilku</i> A; cf. KBL, 763; <i>DCH</i> vi: 696; Ges<small><sup>18</sup></small>, 1056.
-[^2]: <i>CAD</i> P, 374-75, s.v. <i>pilku</i> B. See also <i>DCH</i> vi: 696-97, s.v. פֶּלֶךְ <small>III</small> ;  cf. section <a href="#corvee">6.1 B.1</a> for Holloway 1987.
+[^1]: <i>CAD</i> P, 373-74, s.v. <i>pilku</i> A; cf. KBL, 763; <i>DCH</i> vi:696; Ges<small><sup>18</sup></small>, 1056.
+[^2]: <i>CAD</i> P, 374-75, s.v. <i>pilku</i> B. See also <i>DCH</i> vi:696-97, s.v. פֶּלֶךְ <small>III</small> ;  cf. section <a href="#corvee">6.1 B.1</a> for Holloway 1987.
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
 <b>A.1</b>  <i>Root</i>:  The noun פֶּלֶךְ has cognates in several Sem. languages,
 namely in Akk., Ug., Phoen., PBHeb., JAram., and Arab.
-Von Soden (1981: 163) 
+Von Soden (1981:163) 
 suggested that פֶּלֶךְ together with its cognates in other Sem. languages 
 is ultimately a loanword from Sumerian, 
 but this is an unfounded suggestion. The word’s origin is unknown.
@@ -59,9 +59,9 @@ indicates that the object is made of wood.
 The word <i>pilakku</i> was widely used and occurs in older as well as younger Akk. texts.
 Lexical texts show that it was also used in Ebla (<small><sup>GIŠ</sup>BAL</small> = 
 <i>bí-a-gu</i>; 
-Krebernik 1983: 16, no. 459) and 
+Krebernik 1983:16, no. 459) and 
 Emar (<small>BAL</small> = <i>palakk/qqu</i>; 
-<i>WSEmar</i>, 138; Arnaud 1987: 68). 
+<i>WSEmar</i>, 138; Arnaud 1987:68). 
 None of the  occurrences demands the meaning 
 ‘spindle whorl’, which is designated as <i>qaqqad pilakki</i>, ‘the head of the 
 spindle’ (<i>CAD</i> P, 373). Lexical texts mention the ‘hooked spindle’ (<i>pilak qarni</i>; <i>CAD</i> P, 372), whose hook probably served to prevent the fibres or yarn from slipping away.  
@@ -83,29 +83,29 @@ spindle boxes made of wood or copper
 <small><sup>GIŠ</sup>PISAN.BAL</small>;
 <i>CAD</i> P, 372–73). 
 
-[^3]: See <i>CAD</i> P, 372; Moran 1992: 79; Cochavi-Rainey 1999: 129.
-[^4]: Rainey 2015, I: 266-67, II: 1361.
+[^3]: See <i>CAD</i> P, 372; Moran 1992:79; Cochavi-Rainey 1999:129.
+[^4]: Rainey 2015, I:266-67, II:1361.
 
 
 <a id="Ugaritic"></a><b>A.3</b> <i>Ugaritic</i>:
 The Baal myth contains the following lines with regard to the goddess Athiratu: 
 <i>ʾaḫdt.plkh </i>[.<i>bydh </i>] / <i>plk.tʿlt.bymnh</i> (<i>KTU</i> 1.4:II.3-4). 
 The noun <i>plk</i>, which occurs in each of the two lines, 
-is usually interpreted as ‘spindle’ (Watson 2007: 673-77; <i>DULAT</i><small><sup> 3</sup></small>, 661)
+is usually interpreted as ‘spindle’ (Watson 2007:673-77; <i>DULAT</i><small><sup> 3</sup></small>, 661)
 and the lines can be translated as follows: ‘She took 
-her spindle [in her hand], an exalted spindle in her right hand’ (Smith & Pitard 2009: 434).
-Watson (2007: 678) proposed to interpret <i>plk</i> as ‘perfume’, ‘soap’.
+her spindle [in her hand], an exalted spindle in her right hand’ (Smith & Pitard 2009:434).
+Watson (2007:678) proposed to interpret <i>plk</i> as ‘perfume’, ‘soap’.
 However, with reference to an Ug. spindle whorl inscribed with the word <i>plk</i> (RS 5.179; <i>KTU</i> 9.2;
 see Sauvage & Hawley 2013; cf. section <a href="#heavy">6.3 A.1</a>),
-he recently adopted the usual interpretation as ‘spindle’ (Watson 2018: 380).
+he recently adopted the usual interpretation as ‘spindle’ (Watson 2018:380).
 Translating <i>plk</i> as ‘spindle’ is also quite likely in view of
 a quadrilingual glossary from Ugarit,
 in which Sumerian <small>BAL</small>, Akk. <i>pí-la-ak-ku</i>, Hurrian <i>te-a-ri</i>, and 
 Ug.  <i>pí-la-ku</i> 
-are equated (RS 20.123+; <i>Ugaritica</i> 5: 137 II:22’).
+are equated (RS 20.123+; <i>Ugaritica</i> 5:137 II:22’).
 Interestingly, in a damaged passage at the beginning of 
 the story of Elkunirša, Athiratu’s counterpart 
-Ašertu seems to use a spindle as a weapon (<i>CTH</i>, 342; see <i>COS</i> i: 149;
+Ašertu seems to use a spindle as a weapon (<i>CTH</i>, 342; see <i>COS</i> i:149;
 text partially reconstructed).
 
 
@@ -115,7 +115,7 @@ The Azatiwada Inscription (8th cent. <small>BCE</small>) shows the following phr
 Its interpretation  is disputed. 
 <i>DNWSI</i> (915-16, s.v. <i>plk</i><small><sub>1</sub></small>), 
 takes difficult <i>dl plkm</i> as ‘with spindles’, but lists various other 
-interpretations. Younger (1998: 32-33) also lists deviating interpretations, but points out that the parallel Hieroglyphic Luwian text includes
+interpretations. Younger (1998:32-33) also lists deviating interpretations, but points out that the parallel Hieroglyphic Luwian text includes
 the logogram ‘FUSUS’, 
 which roughly has the form of a spindle and supports the interpretation of <i>plk</i> as ‘spindle’.
 He translates the phrase as follows: 
@@ -178,7 +178,7 @@ The Arab. noun  <i>falkat<sup> un</sup></i>/ <i>filkat<sup> un</sup></i>,
 ‘thus called because of its roundness’ (Lane, 2444). 
 However, <i>falaka</i> can also be a denominative verb.
 
-[^4a]: E.g., Gesenius, <i>TPC</i> II, 1105; KBL, 763; <i>HALOT</i>, 933; Ges<small><sup>18</sup></small>, 1056.
+[^4a]: E.g., Gesenius, <i>TPC</i> ii:1105; KBL, 763; <i>HALOT</i>, 933; Ges<small><sup>18</sup></small>, 1056.
 
 
 ## 2. Formal Characteristics
@@ -226,7 +226,7 @@ Prov 31:19<small><sup>LXX</sup></small>;
 <b>c. Targum (Tg: J/K):</b>  
 
 * <span dir="rtl" lang="he">אַגְרָא</span>,
- ‘wages’, ‘reward’, ‘profit’:[^9] 2 Sam 3:29<small><sup>J</sup></small>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff’, ‘crutch’, ‘pole’,[^10] is questionable (Van Staalduine-Sulman 2002: 499-500).   
+ ‘wages’, ‘reward’, ‘profit’:[^9] 2 Sam 3:29<small><sup>J</sup></small>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff’, ‘crutch’, ‘pole’,[^10] is questionable (Van Staalduine-Sulman 2002:499-500).   
 * <span dir="rtl" lang="he">מעזלא</span>,
 derivative of עזל,
 ‘to spin’,
@@ -257,7 +257,7 @@ the interpretation of פֶּלֶךְ as a spindle in αʹ, σʹ, Pesh and Vg
 In Tg<small><sup>J</sup></small>, the rendering of מַחֲזִיק בַּפֶּלֶךְ 
 by מתקיף באגר, ‘one who grasps wages’, may be interpretative, 
 ‘indicating that a man who needs to spin must have fallen to poverty’
-(Van Staalduine-Sulman 2002: 500).
+(Van Staalduine-Sulman 2002:500).
 This means that the word אגרא 
 may imply that Tg<small><sup>J</sup></small> also interpreted פֶּלֶךְ as a spindle. 
 
@@ -323,10 +323,10 @@ seemingly interpreting this expression as referring to a lame or cripple who nee
 A similar interpretation is found in the Talmud,
 which regards the curse concerning the מַחֲזִיק בַּפֶּלֶךְ
 as fulfilled with King Asa’s foot disease (bSanhedrin 48b, with reference to 1 Kgs 15:23). 
-Some Heb. dictionaries (Gesenius, <i>TPC</i> II, 1105; Zorell, 651)
+Some Heb. dictionaries (Gesenius, <i>TPC</i> ii:1105; Zorell, 651)
 also suppose that in 2 Sam 3:29 פֶּלֶךְ designates 
 the stick of an ill person, although they affirm that it designates a spindle in Prov 31:19. 
-However,  Steven Holloway (1987: 371) rightly remarks: 
+However,  Steven Holloway (1987:371) rightly remarks: 
 
 <div style="padding-left: 44px; padding-right: 44px; ">
 <small>
@@ -349,7 +349,7 @@ The interpretation as a spindle in 2 Sam 3:29
 is not only in agreement with Prov 31:19, but it is also confirmed by several 
 <a href="#AV">ancient translations</a> 
 (αʹ, σʹ, Pesh, Vg) 
-and the many <a href="#RCM">cognates</a> in other Sem. languages  (see already Driver 1913: 250-51). 
+and the many <a href="#RCM">cognates</a> in other Sem. languages  (see already Driver 1913:250-51). 
 The interpretation of מַחֲזִיק בַּפֶּלֶךְ as ‘(male) holder of a spindle’
 seems to be reflected in Talmud Yerushalmi,
 where a comment attributed to Rabbi Ishmael (early 2nd cent. <small>CE</small>)
@@ -363,51 +363,51 @@ connects the expression with the ill treatment of King Joash by the Arameans
 That having a ‘(male) holder of a spindle’ in a family with military commanders 
 was regarded as a severe curse seems quite likely
 against the background of ancient Near Eastern texts, in which the spindle is a symbol of effeminacy
-(see Hillers 1964: 66-68) and feminised warriors are regarded as weak (Bergmann 2007: 664-68).
+(see Hillers 1964:66-68) and feminised warriors are regarded as weak (Bergmann 2007:664-68).
 In Hittite texts, both spindle 
 (<small><sup>GIŠ</sup></small><i>ḫuešaš</i>, <small><sup>GIŠ</sup>BAL</small>)
 and distaff (<small><sup>GIŠ</sup></small><i>ḫulali</i>) are symbols of femininity.
 In a Hittite prayer, the goddess Ištar is asked to deprive the enemies of their manliness including their weapons and to give them 
 a woman’s distaff and spindle instead (<i>CTH</i>, 716; see
-<i>COS</i> i: 164-65, §8). 
+<i>COS</i> i:164-65, §8). 
 The First Soldiers’ Oath threatens soldiers with loss of their manliness if they transgress the oath, 
 which is illustrated by a ritual indicating that their weapons will be replaced by a distaff and a spindle and other symbols of femininity
 (<i>CTH</i>, 427; see
-<i>COS</i> i: 165-67, §9).
+<i>COS</i> i:165-67, §9).
 A ritual against the sexual impotence of a man includes placing a spindle and distaff in the man’s hand 
 and, consequently, replacing it by a bow and arrows
-(<i>CTH</i>, 406; see Hoffner 1987: 272, 277, 283). 
+(<i>CTH</i>, 406; see Hoffner 1987:272, 277, 283). 
 For the relevant Hittite texts and terminology, see also 
-<i>HW </i><small><sup> 2</sup></small> III/2: 632-33, 690-91. 
+<i>HW </i><small><sup> 2</sup></small> III/2:632-33, 690-91. 
 
 
 Akk.  texts refer to men with female apparel and implements who play a role in specific contexts: 
-the cult of the goddess Inana/Ištar, who could alter a person’s sex (Hillers 1964: 66-67), 
+the cult of the goddess Inana/Ištar, who could alter a person’s sex (Hillers 1964:66-67), 
 and the cult of goddesses associated with her (cf. <i>CAD</i> K, 557-59, s.v. <i>kurgarrû</i>). 
 The <i>kurgarrû</i> men (<small>LÚ.KUR.RA.MEŠ</small>) performing in the cult of the goddess Nanaya
-are said to make use of a spindle (<i>pilakku</i>),  a whip, etc. (SAA 3: 13, text 4; <i>CAD</i> K, 558).
+are said to make use of a spindle (<i>pilakku</i>),  a whip, etc. (SAA 3:13, text 4; <i>CAD</i> K, 558).
 A male servant of the goddess Dilbat reports to the king that he carries (<i>anašši</i>) 
 a spindle (<small><sup>GIŠ</sup></small><i>pilaqqu</i>) for the goddess 
-(SAA 10: 69, text 92).
+(SAA 10:69, text 92).
 After categories of temple personnel, a lexical list mentions a
 <small>LÚ-GIŠ-BAL-ŠU-DU<sub>7</sub></small> = <i>nāš pilaqqi</i>, 
-‘(male) carrier of a spindle’ (<i>MSL</i> 12, 103: 217; 135: 198a). 
+‘(male) carrier of a spindle’ (<i>MSL</i> 12, 103:217; 135:198a). 
 
 
 The following curse in Esarhaddon’s Succession Treaty may indicate that also in Mesopotamia, outside the specific cultic contexts, holding 
 a spindle was regarded as a disgrace to men:
 ‘May they (the gods) make you whirl(?)[^15]
 like a spindle (<small><sup>GIŠ</sup></small></i>pilaqqu</i>), may they make you like a woman 
-before your enemy’ (SAA 2: 56, text 6, §91). 
-Brigitte Groneberg (1986: 190-91)
+before your enemy’ (SAA 2:56, text 6, §91). 
+Brigitte Groneberg (1986:190-91)
 assumed that the reference to the movements of the spindle reflects the dancing of transvestites in the cult of Ištar.
 She interpreted the curse as 
 ‘mögen sie (die Götter) euch surren lassen (d.h. die Transvestie durchführen)’. 
 The idea that depriving soldiers of their masculinity and turning them into women was a curse occurs also 
-in the treaty of Aššur-Nerari V with King Mati’-Ilu of Arpad (<i>COS</i> iv: 151-52; V:8-15) and
-other Akk.  texts (Bergmann 2007: 666-67).
+in the treaty of Aššur-Nerari V with King Mati’-Ilu of Arpad (<i>COS</i> iv:151-52; V:8-15) and
+other Akk.  texts (Bergmann 2007:666-67).
 
-[^15]: <i>lušaṣbirukunu</i> (<i>ṣabārum</i> š stem) is translated as ‘may (the gods) make you whirl(?)’ in <i>CAD</i> P, 372, as ‘may (the gods) have you oscillate’ in <i>CAD</i> Ṣ, 4, and as ‘may (the gods) spin you around’ in SAA 2: 56 (cf. <i>COS</i> iv: 165).
+[^15]: <i>lušaṣbirukunu</i> (<i>ṣabārum</i> š stem) is translated as ‘may (the gods) make you whirl(?)’ in <i>CAD</i> P, 372, as ‘may (the gods) have you oscillate’ in <i>CAD</i> Ṣ, 4, and as ‘may (the gods) spin you around’ in SAA 2:56 (cf. <i>COS</i> iv:165).
 
 In view of all this extra-biblical evidence, David’s use of the 
 expression מַחֲזִיק בַּפֶּלֶךְ, 
@@ -417,14 +417,14 @@ commanders like Joab and his brother Abisai (cf. 1 Sam 26:6-9;
 2 Sam 3:22-27, 39; 16:9-11; 18:5-15; 19:21-22; 20:4-12).
 It corresponds with biblical curses implying that enemies become (like)
 women and, consequently, will be defenceless 
-(Isa 19:16; Jer 50:37; 51:30; Nah 3:13; cf. Bergmann 2007: 668-72).
+(Isa 19:16; Jer 50:37; 51:30; Nah 3:13; cf. Bergmann 2007:668-72).
 
 
 <b>A.3</b>
 Some dictionaries (BDB, 813; KBL, 763; <i>HALOT</i>, 933) 
 assume that פֶּלֶךְ refers to the whorl of the spindle,
 while other dictionaries (GB, 643; Zorell, 651; 
-<i>DCH</i> vi: 696)
+<i>DCH</i> vi:696)
 suppose that פֶּלֶךְ denotes the entire spindle.
 Except for the late cognate in Arab., the cognates in other Sem. languages designate the spindle in its entirety. 
 Even if the derivation of<span dir="rtl" lang="he">פֶּלֶךְ</span> from a root meaning ‘to be(come) round’ is correct (see section <a href="#Arabic">1 A.7</a>), 
@@ -457,7 +457,7 @@ See further → <a href="/sahd/words/to_spin%2C_twist"><span dir="rtl" lang="he"
 
 
 <a id="corvee"></a><b>B.1</b> 
-Steven Holloway (1987: 372) proposed to interpret the expression מַחֲזִיק בַּפֶּלֶךְ 
+Steven Holloway (1987:372) proposed to interpret the expression מַחֲזִיק בַּפֶּלֶךְ 
 in 2 Sam 3:29 as ‘one who makes repairs among the corvée, a corvée-worker’.
 He regarded פֶּלֶךְ in this verse and in Nehemiah 3 as a derivative of 
 Akk.  <i>pilku</i> B, ‘corvée’ (see 
@@ -467,14 +467,14 @@ and pointed out that in Ezek 27:9, 27 and Neh 3:4-32
  hiph. means ‘to repair’.
 However, Scott Layton objected and demonstrated that 
 the combination of חזק hiph. and the preposition -בְּ 
-never means ‘to carry out repairs among’ (Layton 1989: 81).
+never means ‘to carry out repairs among’ (Layton 1989:81).
 He rightly remarked that
 ‘in every occurrence of this verb + preposition idiom,
-the noun which follows the preposition is the person or thing (abstract or concrete) which is grasped or held fast’ (Layton 1989: 82).
+the noun which follows the preposition is the person or thing (abstract or concrete) which is grasped or held fast’ (Layton 1989:82).
 Further, he pointed out that the closest parallels to מַחֲזִיק בַּפֶּלֶךְ 
 occur in Prov 31:19 and the <a href="#Ugaritic">Ugaritic Baal myth</a>, where פֶּלֶךְ/<i>plk</i>
 is the object of verbs meaning ‘to hold/grasp’, תָּמַךְ and 
-<i>ʾḫd</i>, respectively (Layton 1989: 83). 
+<i>ʾḫd</i>, respectively (Layton 1989:83). 
 Of course, the fact that several <a href="#AV">ancient translations</a> interpreted מַחֲזִיק בַּפֶּלֶךְ
 as referring to the holding of a spindle is also significant.
 
@@ -487,11 +487,11 @@ The pictorial material from Egypt relates mainly to the production of linen from
 the fibres of flax (A.2), while the pictorial evidence from the rest of the ancient Near East concerns mainly the production of wool threads (A.3). Since flax needs regular access to water during cultivation, it is not surprising 
 that in Egypt linen was more widely used than in the rest  of the ancient Near East, where the use of wool predominated. The constant presence of water in some areas outside Egypt, for instance near the 
 central Jordan river and in the Beth Shean valley, 
-made it possible to cultivate flax also there (Shamir 1996: 142), but
+made it possible to cultivate flax also there (Shamir 1996:142), but
 from those areas no relevant pictorial evidence remains.
 Flax and wool have different properties and, consequently, their fibres had to be processed differently before they could be spun.[^17a]
 
-[^17a]: <i>BRL</i><small><sup>2</sup></small>, 311-12; Barber 1991: 11-15, 20-22; Andersson Strand 2015: 40-44.  
+[^17a]: <i>BRL</i><small><sup>2</sup></small>, 311-12; Barber 1991:11-15, 20-22; Andersson Strand 2015:40-44.  
 
 
 <a id="Exe-Eg"></a><b>A.2</b> 
@@ -500,19 +500,19 @@ used.[^17b]
 Although several depictions seem to be somewhat schematic, they 
 demonstrate that the processing of flax into linen went differently from the processing of wool.
 
-[^17b]: See the illustrations in <i>ANEP</i>, no. 142, 143; Dothan 1963: 106-09; Barber 1991: 45, 48, 74, 76; Spinazzi-Lucchesi 2018: 190. 
+[^17b]: See the illustrations in <i>ANEP</i>, no. 142, 143; Dothan 1963:106-09; Barber 1991:45, 48, 74, 76; Spinazzi-Lucchesi 2018:190. 
 
 In ancient Egypt, the spindle whorl was placed near the top of the spindle. 
 Before the high-whorl spindles were used, the long flax fibres were spliced into continuous threads by twisting the ends of the fibres together
-(Barber 1991: 46-48; Andersson Strand 2015: 45-46).
+(Barber 1991:46-48; Andersson Strand 2015:45-46).
 The spinners, mostly women, drew these thin threads from spinning bowls in which the threads were apparently wetted to make the flax flexible
-(cf. Olofsson <i>et al</i>. 2015: 81). 
+(cf. Olofsson <i>et al</i>. 2015:81). 
 The spindles were not used to produce threads from unconnected fibres
 but merely to add twist to already-formed threads, often two or more threads that were twisted together
 to produce thicker, stronger threads.
 Elizabeth Barber suggests that the BHeb. verb שׁזר
-(see שֵׁשׁ מָשְׁזָר, ‘twisted linen’; Exod 26:1, 31, 36, etc.) refers to the same method of making linen threads (Barber: 1991: 50, 72).
-With regard to certain depictions of only a single thread per spindle, she observes (Barber 1991: 48):
+(see שֵׁשׁ מָשְׁזָר, ‘twisted linen’; Exod 26:1, 31, 36, etc.) refers to the same method of making linen threads (Barber 1991:50, 72).
+With regard to certain depictions of only a single thread per spindle, she observes (Barber 1991:48):
 
 
 <div style="padding-left: 44px; padding-right: 44px"><small>
@@ -548,9 +548,9 @@ This woman seems to hold a second spindle with a twisted thread attached to it b
 Other ancient Egyptian representations seem to display other spinning techniques.
 For instance, a wall painting in the tomb of Khety (also in Beni Hasan) shows spinners forming threads while 
 holding their spindle with one hand or both hands. One spinner seems to roll the spindle on the thigh, while another 
-draws the thread over a forked stick and apparently twists the thread by revolving the spindle with both hands (Dothan 1963: 105-06). 
-For the procedures and discussions of the Egyptian depictions, see Barber 1991: 44-51, 74;
-Spinazzi-Lucchesi 2018: 27-29, 97-101. 
+draws the thread over a forked stick and apparently twists the thread by revolving the spindle with both hands (Dothan 1963:105-06). 
+For the procedures and discussions of the Egyptian depictions, see Barber 1991:44-51, 74;
+Spinazzi-Lucchesi 2018:27-29, 97-101. 
 
 
 <b>A.3</b> 
@@ -571,16 +571,16 @@ One of these reliefs displays a woman with yarn wound onto her spindle; see <a h
 A funerary stele
 displays two women, each holding a spinning implement with the hand in the foreground, while the woman on the left
 lifts up a beaker with her left hand and the woman on the
-right raises a mirror with her right hand; see <a href="#C33">Figure&nbsp;4</a> (Bonatz 2000:  79-80, 82, 90, 
+right raises a mirror with her right hand; see <a href="#C33">Figure&nbsp;4</a> (Bonatz 2000:79-80, 82, 90, 
 pl. 14 C 33;
 Hawkins 2000, 
 I/1: 273-74, I/3: pl. 124). 
 The older interpretation of the spinning implements as pomegranates must be rejected, since no crowns of small leaves or other
 characteristics of pomegranates are displayed.
 The objects are possibly spindles (Hawkins 2000, I/1: 273), but according to Dominik Bonatz their blunt upper ends suggest that they are
-distaffs (Bonatz 2000: 85-86). 
+distaffs (Bonatz 2000:85-86). 
 Bonatz also interprets an object held by a woman depicted on relief C 60 as a distaff, pointing out that from this object 
-a hand-twisted wool thread runs down to a wool box in which the roving is kept (Bonatz 2000: 79, 85, pl. 21).
+a hand-twisted wool thread runs down to a wool box in which the roving is kept (Bonatz 2000:79, 85, pl. 21).
 Of course, the representation of high-class women with spindles and distaffs suggests that these objects enhanced the status of these women. 
 
 <a id="C33"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/tarhuntiwasti.png)
@@ -592,9 +592,9 @@ Internet: <a href="https://www.hittitemonuments.com/maras/maras10.htm" target="_
 </small>
 
 Several Mesopotamian <!-- genoemd in CAD P 372 rechts; female Mesopotamian demon.--> amulets depict the female demon Lamaštu with a spindle and a comb, typical feminine paraphernalia 
-(Farber 2014: 4-6 with fig. 3, 6; see also figs. 15, 19, 20, 22). 
+(Farber 2014:4-6 with fig. 3, 6; see also figs. 15, 19, 20, 22). 
 The Lamaštu texts suppose that a spindle (<small><sup>GIŠ</sup>BAL</small> = <i>pilaqqu</i>) is a gift that pleases this demon;
-e.g., Lam. I: 197, Lam. II: 99, 173 (Farber 2014: 91, 110, 123, 158, 172, 178; cf. <i>CAD</i> P, 372).
+e.g., Lam. I: 197, Lam. II: 99, 173 (Farber 2014:91, 110, 123, 158, 172, 178; cf. <i>CAD</i> P, 372).
 
 ### 6.3 Archaeology
 
@@ -606,9 +606,9 @@ but their number is quite small.[^17c]
 Much more numerous are the surviving ancient spindle whorls without a rod. 
 Most of them are made of durable materials, such as stone, bone, reworked pottery sherds, or baked clay.
 They have been excavated all over the Near East, including Ugarit, Ebla, Hazor, Megiddo, Masada, and other sites in Israel/Palestine
-(Spinazzi-Lucchesi 2018: 34-48). 
+(Spinazzi-Lucchesi 2018:34-48). 
 
-[^17c]: Barber 1991: 57-65; Sauvage 2014: 186-88, 210-11; Spinazzi-Lucchesi 2018: 30-33.
+[^17c]: Barber 1991:57-65; Sauvage 2014:186-88, 210-11; Spinazzi-Lucchesi 2018:30-33.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/achzib.jpg)
 
@@ -621,23 +621,23 @@ The preservation of so many spindle whorls without a rod is explicable.
 Most of the rods were made of wood, which usually decays in the more humid climate zones.
 However, especially in Egypt many spindles partially or entirely made of wood have survived. 
 In Egypt, not only most of the spindle rods but also numerous spindle whorls were made of wood
-(Spinazzi-Lucchesi 2018: 84-87, 107-15).
+(Spinazzi-Lucchesi 2018:84-87, 107-15).
 While several ancient metal spindles from several parts of the Near East
 show either a groove or a hook near the top for attaching the first fibres (Barber 1991: fig. 2.19, 2.20, 2.22),
 many wooden spindles from Egypt show a groove near the top that was incised for the same reason
-(Spinazzi-Lucchesi 2018: 84-85, 109-10; Barber 1991: fig 2.7). 
-The total number of ancient wooden spindle whorls discovered in Israel/Palestine surpasses sixty (Sitry & Langgut 2019: 44* n. 3).
+(Spinazzi-Lucchesi 2018:84-85, 109-10; Barber 1991: fig 2.7). 
+The total number of ancient wooden spindle whorls discovered in Israel/Palestine surpasses sixty (Sitry & Langgut 2019:44* n. 3).
 Chiara Spinazzi-Lucchesi refers to three very old examples from Jericho, dating from the Middle Bronze Age,
 that have survived thanks to favourable circumstances. She points out 
 that these whorls ‘are very important because they give evidence for the use of wood to make these artefacts and remind us that the amount of spindle whorls at each site is always underestimated, as wooden ones are almost always lost’ 
-(Spinazzi-Lucchesi 2018: 41).
-Several dozens of wooden spindle whorls, presumably dating from the tenth century <small>BCE</small>, were found in Tell el-Ḥammah, in the central Jordan valley (Shamir 2007: 46).
+(Spinazzi-Lucchesi 2018:41).
+Several dozens of wooden spindle whorls, presumably dating from the tenth century <small>BCE</small>, were found in Tell el-Ḥammah, in the central Jordan valley (Shamir 2007:46).
 Wooden spindle whorls as well as a complete wooden spindle from the Early Roman Period were discovered in Wadi Murabba‘at
 and published in 
 DJD&nbsp;II (41-43 with fig. 12:11, planche XIII). 
 The spindle has indentations at the upper end to prevent the fibres or thread from slipping away; see <a href="#Murabb">Figure&nbsp;6</a>.
 In the Cave of the Letters (cave 5-6) in Naḥal Ḥever, three wooden and two stone spindle whorls were found, together with a bundle of dyed, unspun wool and 
-balls of woollen and linen threads, all with 135 <small>CE</small> as the <i>terminus ad quem</i> (Yadin 1963: 35-36, 130-32, 169-88, 252, 256, plates 36, 59, 88).
+balls of woollen and linen threads, all with 135 <small>CE</small> as the <i>terminus ad quem</i> (Yadin 1963:35-36, 130-32, 169-88, 252, 256, plates 36, 59, 88).
 
 
 <a id="Murabb"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/Murabbaat.png)
@@ -658,24 +658,24 @@ its weight helped to keep the fibres taut
 and prevented the spun yarn from tangling and untwisting, while the whorl increased the regularity of the spinning.[^17d] 
 For these reasons, it is no surprise that the use of spindles was so widespread in the world of the Bible.  
 
-[^17d]: Barber 1991: 41-42; Sauvage 2014: 184-85; Spinazzi-Lucchesi 2018: 25-26. 
+[^17d]: Barber 1991:41-42; Sauvage 2014:184-85; Spinazzi-Lucchesi 2018:25-26. 
 
 A vast majority of the excavated objects identified as spindle whorls weighs between 2 and 30 grams, but there are also examples of heavier whorls.
-Illustrative are the Late Bronze Age spindle whorls from Ugarit (Sauvage 2013: 192-95, 200-01), those from Iron Age II unearthed in Tel Miqne-Ekron (Shamir 2007: 45-46), and whorls from the Hellenistic and Early Roman Periods 
-discovered at Gamla (Cassuto 2016: 272-75). 
+Illustrative are the Late Bronze Age spindle whorls from Ugarit (Sauvage 2013:192-95, 200-01), those from Iron Age II unearthed in Tel Miqne-Ekron (Shamir 2007:45-46), and whorls from the Hellenistic and Early Roman Periods 
+discovered at Gamla (Cassuto 2016:272-75). 
 Most of the spindle whorls from Iron Age Jerusalem weigh also less than 30 grams, 
-but many are relatively heavy, with weights up to 200 grams (Shamir 1996: 149-52).
+but many are relatively heavy, with weights up to 200 grams (Shamir 1996:149-52).
 
 In her description of the ancient spinning methods,
 Eva Andersson Strand  reports on recent spinning tests with modern reconstructions of ancient spindles. The tests demonstrated that, 
 contrary to earlier assumptions, <!-- Olofsson in Tools 32-33, niet noemen!Rahmstorf 5.--> even very light whorls could be used to spin yarn. 
 The spindles with lighter whorls 
 appeared to produce thin yarn, while the spindles with heavier whorls produced coarser, thicker yarn
-(Andersson Strand 2015: 44-48; similarly 
-Olofsson <i>et al</i>. 2015: 77-87).
+(Andersson Strand 2015:44-48; similarly 
+Olofsson <i>et al</i>. 2015:77-87).
 While coarser, hard spun wool threads could be used as warp, more loosely spun wool could be selected for the weft.
 Andersson Strand gives the following description of the ways in which the spindles were used for the processing of wool fibres
-(2015: 45):
+(2015:45):
 
 <div style="padding-left: 44px; padding-right: 44px; ">
 <small>
@@ -694,9 +694,9 @@ The hook helps to control the fibres when they are drawn out.
 
 When a certain length of the thread had been spun, the finished part was wound around the rod of the spindle. Thereafter, the spinning was continued
 until the thread was finished or the rod had been filled with thread. Finally, the thread could be wound up on a reel, onto a weft bobbin or into a ball
-(Andersson Strand 2015: 47). 
+(Andersson Strand 2015:47). 
 However, the spindle full of yarn could also be used as a shuttle during weaving,
-moving the woof yarn between the threads of the warp yarn (Rahmstorf 2015: 11). 
+moving the woof yarn between the threads of the warp yarn (Rahmstorf 2015:11). 
 Note that <small>BAL</small>, 
 the logographic equivalent of Akk.  <i>pilakku</i>, 
 was also used for Akk.  <i>nabalkutu</i>, ‘to cross over’ (<i>CAD</i> N<small><sup>I</sup></small>, 11-20).
@@ -709,15 +709,15 @@ either to the right or the left, these threads were usually plied together in th
 without the tendency to twist upon itself.[^17e] 
 <a id="heavy"></a>Spindles with relatively large 
 and heavy whorls, such as the one from Ugarit inscribed with the word <i>plk</i>
-(cf. section <a href="#Ugaritic">1: A.3</a>; Sauvage 2013: 193, 201: 114.2 grams),
-may have been used for plying single threads of wool together (Sauvage & Hawley 2013: 365, 372; Sauvage 2013: 204).
+(cf. section <a href="#Ugaritic">1: A.3</a>; Sauvage 2013:193, 201: 114.2 grams),
+may have been used for plying single threads of wool together (Sauvage & Hawley 2013:365, 372; Sauvage 2013:204).
 For the plying of threads of flax fibres with a spindle, see section 
 <a href="#Exe-Eg">6.2: A.2</a>.
 In Tell el-Ḥammah, in the central Jordan valley, a spindle with linen threads still wrapped around it was found in the 10th-century <small>BCE</small> stratum
-(Shamir 1996: 142). 
+(Shamir 1996:142). 
 Unfortunately, figures and more details of this find are not available.
 
-[^17e]: <i>BRL</i><small><sup>2</sup></small>, 312-13; Andersson Strand 2015: 47; Skals <i>et al</i>. 2015: 62, 64, 67. See also → <a href="/sahd/words/to_spin%2C_twist"><span dir="rtl" lang="he">טוה</span></a>.
+[^17e]: <i>BRL</i><small><sup>2</sup></small>, 312-13; Andersson Strand 2015:47; Skals <i>et al</i>. 2015:62, 64, 67. See also → <a href="/sahd/words/to_spin%2C_twist"><span dir="rtl" lang="he">טוה</span></a>.
 <!-- <span dir="rtl" lang="he">שׁזר</span>, and-->
 
 
@@ -725,12 +725,13 @@ Unfortunately, figures and more details of this find are not available.
 Ancient spindles entirely or partially made of precious materials, such as
 copper, bronze, silver, gold, or ivory, have been discovered mainly in graves of women, but sometimes in domestic contexts.[^17f]
  References to spindles made of such costly materials occur in several texts 
-(Hittite: <i>HW</i><small><sup> 2</sup></small> III/2: 632;
+(Hittite: <i>HW</i><small><sup> 2</sup></small> 
+III/2:632;
 El-Amarna: <a href="#EA25">EA 25</a>).
 Such precious spindles probably represent status symbols 
-rather than being tools of everyday use (Spinazzi-Lucchesi 2018: 30). 
+rather than being tools of everyday use (Spinazzi-Lucchesi 2018:30). 
 
-[^17f]: Barber 1991: 57-65, with figures; Sauvage 2014: 186-88, 210-11, with figures; Spinazzi-Lucchesi 2018: 30-33.
+[^17f]: Barber 1991:57-65, with figures; Sauvage 2014:186-88, 210-11, with figures; Spinazzi-Lucchesi 2018:30-33.
 
 <b>A.2</b> <i>Spinning bowls</i>: 
 Ancient bowls with two (rarely one, three or four) interior handle-like loops have been discovered
@@ -746,11 +747,11 @@ These Egyptian spinning bowls were made of either clay or stone.
 The spinning bowls discovered in Israel/Palestine
 date from the Late Bronze Age until the middle of the first millennium and are made of clay.
 
-[^18]: Dothan 1963; <i>BRL</i><sup>2</sup></small>, 312-13, with fig. 81:11, 12; Barber 1991: 70-76; Rahmstorf 2015: 10-11; Spinazzi-Lucchesi 2018: 48-50, 116-18. 
+[^18]: Dothan 1963; <i>BRL</i><sup>2</sup></small>, 312-13, with fig. 81:11, 12; Barber 1991:70-76; Rahmstorf 2015:10-11; Spinazzi-Lucchesi 2018:48-50, 116-18. 
 
 
 <a id="Nav"></a>A peculiar jar from Israel/Palestine, presumably dating from late Roman or Byzantine times, was published and discussed by Joseph Naveh 
-(1979: 28-30, with plates opposite p. 29). 
+(1979:28-30, with plates opposite p. 29). 
 Unfortunately, the jar’s provenance is unknown, but it carries an inscription with a word that seems to be related to פֶּלֶךְ, namely 
 פלכה שמעון. 
 Naveh interpreted the word פלכה as Aram. and translated פלכה שמעון as ‘spinning vessel (of) Shimeon’ 

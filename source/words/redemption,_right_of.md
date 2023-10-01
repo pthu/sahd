@@ -1,6 +1,6 @@
 ---
 word_english: redemption,_right_of  
-word_hebrew:  גְּאֻלָּה  
+word_hebrew:  גאלה  
 title: (price/right of) redemption 
 semantic_fields: deliverance  
 contributors: alison_gray  
@@ -9,6 +9,8 @@ last_update: 2023-10-01 (Raymond de Hoop)
 update_info: 
 
 ---
+
+גְּאֻלָּה  
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole see on this site the 
 <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
@@ -90,7 +92,7 @@ Qere/Ketiv: none.
 * παραλαμβάνω, ‘to take over, inherit’: Jer 32:7 (39:7<small><sup>LXX</sup></small>);
 * πρεσβύτερος, ‘older of age’: Jer 32:8 (39:8<small><sup>LXX</sup></small>).
 
-[^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>
+[^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>, <i>s.v.</i>
 [^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i>… claim on that which is currently not in one’s possession</i>’. LEH<small><sup>3</sup></small>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
 <b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of <span dir="rtl" lang="he">כפר</span>, 
@@ -295,7 +297,7 @@ Berlin: De Gruyter, 139-52.
 Horst 1953
 <br>
 Friedrich Horst, ‘Exilsgemeinde und Jerusalem in Ez viii-xi. Eine
-literarische Untersuchung’, <i>VT</i> 3: 337-60.
+literarische Untersuchung’, <i>VT</i> 3:337-60.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">

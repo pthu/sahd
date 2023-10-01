@@ -260,7 +260,8 @@ ancient Hebrew inscriptions, the Hebrew text of Ben Sira and the Dead
 Sea Scrolls, which arguably are much more relevant for the study of
 Biblical Hebrew.[^6]
 
-[^6]: I pass by here the important assessment of Sawyer’s work by Zatelli 1979, 261-68, which tends to be appreciative of (some of) Sawyer’s results (e.g. 2017, 267) but more critical of his pragmatic and eclectic methodology.
+[^6]: I pass by here the important assessment of Sawyer’s work by Zatelli 1979:261-68, which tends to be appreciative of (some of) Sawyer’s results (e.g. 
+2017:267) but more critical of his pragmatic and eclectic methodology.
 
 
 A wider range of occurrences of the words in question is reviewed in the
@@ -408,8 +409,8 @@ relationship to ישׁועה and related words certainly deserves
 consideration. Such a study might also make reference to Aitken’s
 entry on ברכה.
 
-[^8]: For a valuable general introduction to the aims and method of the SAHD project and the different parts of the ‘framework’ of entries see Aitken 2007, 23-41.
-[^9]: Sawyer 1972, 54. In his <i>ThWAT</i> article he appears to move away from this view, as noted <a href="#SawyerThWAT">above</a>.
+[^8]: For a valuable general introduction to the aims and method of the SAHD project and the different parts of the ‘framework’ of entries see Aitken 2007:23-41.
+[^9]: Sawyer 1972:54. In his <i>ThWAT</i> article he appears to move away from this view, as noted <a href="#SawyerThWAT">above</a>.
 
 
 
@@ -619,7 +620,7 @@ Hebrew Bible itself, and the warnings of Aitken (2007, 30-31)
 need to be noted. What follows is only a preliminary and provisional
 account of what they may have to offer in this particular case.
 
-[^11]: Cf. Aitken 2007, 30-37. He refers to Muraoka’s essay (1995b), as a rare predecessor, and also to Grabbe 1977.
+[^11]: Cf. Aitken 2007:30-37. He refers to Muraoka’s essay (1995b), as a rare predecessor, and also to Grabbe 1977.
 
 
 
@@ -693,7 +694,7 @@ Aquila has διασῴζω regularly, while Symmachus prefers ῥύομαι
 compounds of φεύγω, none of which appears for מלט in the meagre data
 that we have for it.]
 
-[^12]: For some data on הציל see Davies 1982, 154.
+[^12]: For some data on הציל see Davies 1982:154.
 
 
 <b>Vulgate</b>: The pattern of renderings is very similar to the LXX, quite
@@ -1134,8 +1135,8 @@ instances of the verbs being used with a human subject to show that it
 is not their meaning but their usage that has a strong theological
 dimension there.
 
-[^17]: Sawyer 1972, 103. He seems to have overlooked the occurrences of the Piel of ברא for ‘cut out’ in Josh 17:15, Ezek 21:24, 23:46-47.
-[^18]: R.L. Hubbard, <i>NIDOTTE</i>, 3, 141-47.
+[^17]: Sawyer 1972:103. He seems to have overlooked the occurrences of the Piel of ברא for ‘cut out’ in Josh 17:15, Ezek 21:24, 23:46-47.
+[^18]: R.L. Hubbard, <i>NIDOTTE</i>, 3:141-47.
 
 
 
@@ -1172,7 +1173,7 @@ evenly distributed between prose and poetry, but all the ‘deliverance’
 cases are in poetry, suggesting (as far as the limited evidence goes)
 that this semantic development is a feature of poetic style.
 
-[^19]: As has been very productively done in SAHD entries and other publications prepared in Florence: see on this Zatelli 1995, 55-64; also Zanella 2010, 20-34, 389-413.
+[^19]: As has been very productively done in SAHD entries and other publications prepared in Florence: see on this Zatelli 1995:55-64; also Zanella 2010:20-34, 389-413.
 [^20]: The debates about how prose and poetry are to be distinguished and whether there is a sharp dividing-line between them will be left on one side here.
 [^21]: The figures given are approximate and take only partial account of the fact that some biblical books contain both prose and poetry.
 
@@ -1586,7 +1587,7 @@ Takamitsu Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> (AbrNSup, 6), Leuven
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Reiterer 1989 [2003]<br>
-Friedrich Reiterer, ‘פָּרַק’, <i>ThWAT</i> 6:770—73 (ET 2003: <i>TDOT</i> 12:111–14).
+Friedrich Reiterer, ‘פָּרַק’, <i>ThWAT</i> 6:770–73 (ET 2003: <i>TDOT</i> 12:111–14).
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">

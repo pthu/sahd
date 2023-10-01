@@ -257,7 +257,7 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 3; 106[105]:4; 116[115]:13[4]; 119[118]:123, 166, 174;
 * σώζω, ‘to save’ as articular infinitive: Ps 80[79]:3.
 
-[^1]: The English rendering of the Greek is based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>.
+[^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>.
 
 
 <b>b. Peshitta (Pesh):</b>   
@@ -274,7 +274,7 @@ Job 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;
 * <span dir="rtl" lang="-">ܡܥܕܪܢܐ</span> (<i>mʿadrānnā</i>), ‘helper’: 2&nbsp;Sam 10:11;  
 * [[<span dir="rtl" lang="-">ܦܘܪܥܢܐ</span> (<i>purʿānā</i>), ‘recompense, reward’: Jon 2:10]].
 
-[^2]: The English rendering of the Syriac is based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
+[^2]: The English renderings of the Syriac are based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
 
 <b>c. Targum (Tg: O/J/K):</b>  
@@ -295,7 +295,7 @@ Job 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;
 * <span dir="rtl" lang="he">תקוף ופרקן</span>, ‘strength and redemption’:
 Isa 33:6; Hab 3:8.
 
-[^3]: The English rendering of the Aramaic is based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
+[^3]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
 No rendering: Ps 118:15.
 
@@ -313,7 +313,7 @@ No rendering: Ps 118:15.
 * <i>salvator</i>, ‘savious, redeemer’: Isa 12:2a, 3; 26:1; 62:1; Job 13:16;  
 * <i>salvum facio</i>, ‘to save, to deliver’: Ps 80[79]:3.
 
-[^4]: The English rendering of the Latin is based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
+[^4]: The English renderings of the Latin are based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
 
 <b>A.1</b>  The Versions in general choose the same translation equivalents as
 those of the cognate noun יֵשַׁע. What is striking in comparison with 
@@ -521,7 +521,7 @@ For the abbreviations see the
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ben-Asher 1978<br>   
-Mordechai Ben-Asher, ‘The Gender of Nouns in Biblical Hebrew’, <i>Semitics</i> 6: 1–14. 
+Mordechai Ben-Asher, ‘The Gender of Nouns in Biblical Hebrew’, <i>Semitics</i> 6:1–14. 
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -564,7 +564,7 @@ John F. A. Sawyer, ‘ישׁע’, <i>ThWAT</i> 3:1035–59
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Watson 1980<br>   
-Wilfred G.E. Watson, ‘Gender-matched synonymous parallelism in the OT’, <i>JBL</i> 99: 321–41.
+Wilfred G.E. Watson, ‘Gender-matched synonymous parallelism in the OT’, <i>JBL</i> 99:321–41.
 	</div>
 
 

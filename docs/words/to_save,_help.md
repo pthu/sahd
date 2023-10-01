@@ -218,7 +218,7 @@ is made by many writers (e.g. Driver 1890: 90-91; <i>HAL</i>: 427; Fohrer 1964:
 973; Kraus 1978: 139), although BDB (446) did express doubt in 1908. It
 seems to have first been proposed by Schultens (1761: 7-9; see Sawyer
 1968: 20, nn. 1, 2, but Sawyer’s page ref. is incorrect) and was
-supported by Gesenius (1810: 419 and <i>TPC</i>, 639-40, 1380). A proposed
+supported by Gesenius (1810: 419 and <i>TPC</i> ii:639-40 iii:1380). A proposed
 Proto-Hamito-Semitic root *<i>wsʿ</i>&nbsp; is apparent from Eg. ‘to be wide’,
 Berber <i>usaʿ</i>&nbsp; and Arabic <i>wsʿ</i>&nbsp; ‘to be wide, spacious’, but any semantic
 connection between this and ישׁע seems far-fetched. Sawyer notes that to
@@ -256,8 +256,8 @@ suggesting that the association may well be due to semantic
 considerations rather than related underlying etymologies (cf. Sawyer
 1965: 475 n. 5).
 
-[^1]: <i>Pace</i> Gesenius (<i>TPC</i>, 640), <span dir="rtl" lang="he">בְּיֵשַׁע</span> in Ps 12:6 need not mean ‘in a wide space’.
-[^2]: On such problems in general see Barr 1968: 86-91.
+[^1]: <i>Pace</i> Gesenius (<i>TPC</i> ii:640), <span dir="rtl" lang="he">בְּיֵשַׁע</span> in Ps 12:6 need not mean ‘in a wide space’.
+[^2]: On such problems in general see Barr 1968:86-91.
 
 
 <b>B.2</b>  The possibility that both <i>yṯʿ</i>&nbsp; and Arab. <i>wasiʿa</i> might go back to a
@@ -528,8 +528,8 @@ Hiphil:
 119[118]:94, 146; 138[137]:7; 145[144]:19; Job 22:29; 40:14; Lam 4:17; Neh
 9:27; 1&nbsp;Chron 16:35; 18:6, 13; 19:12; 2&nbsp;Chron 20:9; 32:22.  
 
-[^3]: The English rendering of the Greek is based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>.
-[^4]: <i>GELS</i>, 78; LEH<small><sup>3</sup></small>: 70, ‘let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves’. 
+[^3]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>.
+[^4]: <i>GELS</i>, 78; LEH<small><sup>3</sup></small>, 70, ‘let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves’. 
 [^5]: <i>GELS</i>, ; LEH<small><sup>3</sup></small>, 501, 603; cf. <i>NETS</i>.
 
 Omitted: 2&nbsp;Kgs 19:34; Isa 25:9; Job 26:2?; Sir 31:6.    
@@ -627,7 +627,7 @@ Sir 4:9; 31:6; 36:1; 48:20;
 (<i>tkl</i>) Aphel, ‘to make trust’: Sir 49:10.
 
 
-[^7]: The English rendering of the Syriac is based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
+[^7]: The English renderings of the Syriac are based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
 
 Omitted: 1&nbsp;Sam 25:31; Josh 10:6; Isa 43:11.  
@@ -694,7 +694,7 @@ Lam 4:17;
 * <span dir="rtl" lang="he">פרק</span> Ithpe., ‘to be redeemed’: Isa 59:1; Jer 17:14; Hos 1:7<sup>2nd</sup>;  
 * <span dir="rtl" lang="he">שׁיזב</span> Shaph., ‘to release, save’: Obad 21.
 
-[^8]: The English rendering of the Aramaic is based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
+[^8]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
 Omitted: Ps 118:25; Neh 7:29.
 
@@ -766,7 +766,7 @@ Neh 9:27;
 * <i>sustineo</i>, ‘to support’: Job 26:2;  
 * <i>ulciscor</i>, ‘to avenge, to take vengeance’: 1&nbsp;Sam 25:31, 33;  
 
-[^9]: The English rendering of the Latin is based on Lewis and Short, <i>LD</i>, <i>s.v.</i>
+[^9]: The English renderings of the Latin are based on Lewis and Short, <i>LD</i>, <i>s.v.</i>
 
 Omitted: Judg 12:3.
 
@@ -1099,7 +1099,7 @@ Paris: Editions Recherche sur les civilisations.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Albright 1943<br>
-W.F. Albright, `Two Little Understood Amarna Letters from the Middle Jordan Valley’, <i>BASOR</i> 89, 7-17.
+W.F. Albright, `Two Little Understood Amarna Letters from the Middle Jordan Valley’, <i>BASOR</i> 89:7-17.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1174,7 +1174,7 @@ Georg Fohrer, ‘σῴζω und σωτηρία im Alten Testament’, <i>ThWNT</
 Gesenius 1810 <br>   
 Wilhelm Gesenius, <i>Hebräisch-Deutsches Handwörterbuch über die
 Schriften des Alten Testaments</i>. <i>Erster Teil</i>, 
-Leipzig: F.C.W. Vogel.
+Leipzig: Vogel.
 	</div>
 
 
@@ -1228,14 +1228,14 @@ Munich: Kösel Verlag.
 <div style="padding-left: 22px; text-indent: -22px;">
 Milik 1956<br>   
 Józef T. Milik, ‘ “Prière de Nabonide” et autres écrits d’un cycle de
-Daniel: fragments araméens de Qumran 4’, <i>RB</i> 63: 407–15.
+Daniel: fragments araméens de Qumran 4’, <i>RB</i> 
+63:407–15.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Millard 2000<br>   
-Alan R. Millard,  ‘Hadad-yithʿi (2:34)’, <i>CoS</i>, 
-vol. 2:  153–54.
+Alan R. Millard,  ‘Hadad-yithʿi (2:34)’, <i>CoS</i> 2:153–54.
 	</div>
 
 
@@ -1250,7 +1250,7 @@ Orientalium, 6), Wiesbaden: Harrassowitz.
 <div style="padding-left: 22px; text-indent: -22px;">
 Müller 1963 <br>   
 Walter W. Müller, ‘Altsüdarabische Beiträge zum hebräischen Lexikon’,
-<i>ZAW</i> 75: 304-16.
+<i>ZAW</i> 75:304-16.
 	</div>
 
 
@@ -1258,14 +1258,15 @@ Walter W. Müller, ‘Altsüdarabische Beiträge zum hebräischen Lexikon’,
 Müller 1979 <br>   
 Walter W. Müller, ‘Abyataʿ und andere mit ytʿ gebildete Namen im
 Frühnordarabischen und Altsüdarabischen’, <i>Die Welt des Orients</i>
-10: 23-29.
+10:23-29.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Naveh and Magen 1997<br>   
 Joseph Naveh and Yitzhak Magen, ‘Aramaic and Hebrew inscriptions of the
-second-century BCE at Mount Gerizim’, <i>Atiqot</i> 32: 37–56 [Hebrew], 9*–17*.
+second-century BCE at Mount Gerizim’, <i>Atiqot</i> 
+32:37–56 [Hebrew], 9*–17*.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1289,14 +1290,14 @@ du Muséon, 2), Louvain: Bureaux du Muséon.
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1965
 <br>
-John F.A. Sawyer, ‘What was a <i>mošiaʿ </i>?’, <i>VT</i> 15: 475-86.
+John F.A. Sawyer, ‘What was a <i>mošiaʿ </i>?’, <i>VT</i> 15:475-86.
 </div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1968
 <br>
-John F.A. Sawyer, ‘Spaciousness. An Important Feature of Language about Salvation in the Old Testament’, <i>ASTI</i> 6: 20-34.
+John F.A. Sawyer, ‘Spaciousness. An Important Feature of Language about Salvation in the Old Testament’, <i>ASTI</i> 6:20-34.
 </div>
 
 
@@ -1333,7 +1334,7 @@ ed.), Leiden: Luchtmans and Le Mair.
 <div style="padding-left: 22px; text-indent: -22px;">
 Segert 1961<br>   
 Stanislav Segert, ‘Die Sprache der moabitischen Königinschrift’, 
-<i>Archiv Orientálni</i> 29: 197–268.
+<i>Archiv Orientálni</i> 29:197–268.
 	</div>
 
 
@@ -1366,7 +1367,7 @@ James D.W. Watts, <i>Isaiah 34–66</i> (WBC, 25), Waco (TX): Word.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Westermann 1969<br>   
-Claus Westermann, <i>Isaiah 40-66</i>, London: SCM.
+Claus Westermann, <i>Isaiah 40-66</i> (OTL), London: SCM.
 	</div>  
 
 

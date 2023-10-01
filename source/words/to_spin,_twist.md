@@ -25,10 +25,10 @@ In MT Exod 35:25a, the plural form
 ‘and every woman wise of heart (sg.) – with her (sg.) hands they spun (pl.)’.
 In SP the consonantal text of Exod 35:25a differs from MT: 
 <span dir="rtl" lang="he">וכל אשה חכמת לב בידה טוה</span>
-(Tal & Florentin 2010: 303). 
+(Tal & Florentin 2010:303). 
 With reference to the sg. forms <span dir="rtl" lang="he">יבוא</span> in SP 35:10
 and <span dir="rtl" lang="he">הביא</span> in SP 35:22, 
-William Propp (2006: 642, 662) suggested that the adaptation of the verbal form <span dir="rtl" lang="he">טוו</span> to <span dir="rtl" lang="he">טוה</span>
+William Propp (2006:642, 662) suggested that the adaptation of the verbal form <span dir="rtl" lang="he">טוו</span> to <span dir="rtl" lang="he">טוה</span>
 was due to grammatical adjustment resulting in a more appropriate verbal form (3.f.sg.).
 However, since the expected feminine form would then be 
 <span dir="rtl" lang="he">טותה</span>,
@@ -36,7 +36,7 @@ However, since the expected feminine form would then be
 in SP as a noun (cf. <i>DCH</i> <small>III</small>, 360 s.v. <span dir="rtl" lang="he">טַוָּה</span>), or the 
 <span dir="rtl" lang="he">ה</span>–
 as a possessive suffix (3.f.sg.) and –<span dir="rtl" lang="he">טו</span> as representing a shorter noun
-(Tal & Florentin 2010: 687-88): 
+(Tal & Florentin 2010:687-88): 
 ‘and every woman wise of heart – in her hand was (</i>her</i>?) <i>spun yarn</i>’. 
 This interpretation is confirmed by the rendering in Tg<small><sup>Smr</sup></small> by <span dir="rtl" lang="he">עזלה</span> (var.: <span dir="rtl" lang="he">עזל</span>; <i>STP</i> <small>I</small>, 372-73): <span dir="rtl" lang="he">באדה עזלה</span>,
 ‘in her hand was (</i>her</i>?) <i>spun yarn</i>’. 
@@ -85,7 +85,7 @@ The quoted phrases demonstrate that the verb <i>ṭamû</i>
 was not only used for spinning threads from raw fibres,
 but also for twisting 
 together threads that had already been spun
-(<i>CAD</i> Ṭ, 46; cf. Wisti Lassen 2010: 277):
+(<i>CAD</i> Ṭ, 46; cf. Wisti Lassen 2010:277):
 <i>qê eṣpi taṭammīma</i>, 
 ‘you spin a double-stranded thread’;
 <i>šipāte peṣâte šipāte ṣal</i>[<i>māte</i>] <i>qâ eṣpa ina pilakki iṭme
@@ -136,7 +136,7 @@ Many BHeb. dictionaries suggest that Arab. <i>ṭawā</i>, ‘to fold, wind’, 
 For the Arab. verb, see Lane
 1898-1900 (1900: <i>miṭwān</i>, ‘a thing upon which spun thread is wound’). 
 
-[^4]: Gesenius, <i>TPC</i> <small>I</small>, 546-47; BDB, 376; GB, 274; KBL, 530; <i>HALOT</i>, 372; Ges<small><sup>18</sup></small>, 421.
+[^4]: Gesenius, <i>TPC</i> i:546-47; BDB, 376; GB, 274; KBL, 530; <i>HALOT</i>, 372; Ges<small><sup>18</sup></small>, 421.
 
 
 <b>A.8</b>  <i>Ethiopic</i>: 
@@ -165,7 +165,7 @@ as its grammatical subject.
 In Exod 35:26, <span dir="rtl" lang="he">טָווּ</span>, ‘they spun’, has <span dir="rtl" lang="he">אֶת הָעִזִּים</span>, here ‘goat hair’, 
 as its direct object. The Sam. tradition interpreted <span dir="rtl" lang="he">טוו</span> in SP Exod 35:26 as a pi‘el form 
 (vocalisation: <i>ṭuwwu</i>; see 
-Ben-Ḥayyim 2000: 88, 161), also with 
+Ben-Ḥayyim 2000:88, 161), also with 
 <span dir="rtl" lang="he">את העזים</span> as direct object.
 
 <b>A.3</b> In Exod 35:25
@@ -269,7 +269,7 @@ this certainly does not exclude that they made use of a → <a href="/sahd/words
 the common instrument with which spinning went much faster and easier and which was driven with the hand. 
 In order to perform the spinning properly, the female spinners needed to be ‘wise of heart’ (<span dir="rtl" lang="he">חַכְמַת־לֵב</span>, 35:25; cf. <span dir="rtl" lang="he">בְּחָכְמָה</span>, 35:26).
 After the women had spun the yarn (<span dir="rtl" lang="he">מַטְוֶה</span>),
-it was brought away, apparently by others (<span dir="rtl" lang="he">וַיָּבִיאוּ</span>, 3.m.pl., 35:25; cf. Propp 2006: 662),
+it was brought away, apparently by others (<span dir="rtl" lang="he">וַיָּבִיאוּ</span>, 3.m.pl., 35:25; cf. Propp 2006:662),
 to be processed further.
 Among the craftsmen who made use of the spun yarn were producers of multicoloured cloth (<span dir="rtl" lang="he">רֹקֵם</span>,
 26:36; 27:16; 35:35; 36:37; 38:18, 23; 39:29)
@@ -289,8 +289,8 @@ Other objects were made only of spun
 (26:4; 28:28, 31, 37; 36:11; 39:21, 22)
 or only of spun <span dir="rtl" lang="he">שֵׁשׁ</span>, ‘fine linen’ (27:9, 18; 28:39; 38:9, 16; 39:27-28). 
 
-[^10]: Gesenius, <i>TPC</i> <small>I</small>, 546; BDB, 376; GB, 274; KBL, 530; <i>DCH</i> <small>III</small>, 360; <i>HALOT</i>, 372; Ges<small><sup>18</sup></small>, 421. 
-[^11]: Andersson Strand 2015: 55; Spinazzi-Lucchese 2018: 16-17, 20.
+[^10]: Gesenius, <i>TPC</i> i:546; BDB, 376; GB, 274; KBL, 530; <i>DCH</i> <small>III</small>, 360; <i>HALOT</i>, 372; Ges<small><sup>18</sup></small>, 421. 
+[^11]: Andersson Strand 2015:55; Spinazzi-Lucchese 2018:16-17, 20.
 
 <b>A.2</b> 
 <span id="twisted">In the verses referring to the collection of linen before it was spun (Exod 25:4; 35:6, 23, 25),</span>
@@ -333,7 +333,7 @@ bBerakhot 58a refers to the same sequence of actions as the other rabbinic texts
 ###<span id="Exe-ico">6.2 Pictorial Material and <span id="Exe-ar">Archaeology</span></span>
 
 <b>A.1</b> In the Cave of the Letters (cave 5-6) in Naḥal Ḥever, three wooden and two stone spindle whorls were found, together with a bundle of dyed, unspun wool and 
-balls of woollen and linen threads, all with 135 <small>CE</small> as the <i>terminus ad quem</i> (Yadin 1963: 35-36, 130-32, 169-88, 252, 256, plates 36, 59, 88).
+balls of woollen and linen threads, all with 135 <small>CE</small> as the <i>terminus ad quem</i> (Yadin 1963:35-36, 130-32, 169-88, 252, 256, plates 36, 59, 88).
 See further → <a href="/sahd/words/spindle/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, ‘spindle’.
 
 
