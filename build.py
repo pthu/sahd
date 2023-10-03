@@ -1,5 +1,5 @@
 import os
-from os.path import exists, isdir, isfile
+from os.path import exists, isdir
 from shutil import rmtree, copytree
 from pathlib import Path
 import argparse
@@ -41,7 +41,7 @@ UBS = '<div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" h
 
 PHOTO_PATH = r"(.*!\[.*])(\(.*/(.*\.(png|PNG|jpg|JPG|jpeg|JPEG|gif|GIF|tiff|TIFF)))(.*)"
 PHOTO_PATH_REPLACEMENT = r"\1(/sahd/images/photos/\3\5"
-PDF_PATH =  r'(.*src=")(\.\./pdfs/)(.*)'
+PDF_PATH = r'(.*src=")(\.\./pdfs/)(.*)'
 PDF_PATH_REPLACEMENT = r"\1/sahd/pdfs/\3"
 
 errors = []
@@ -266,6 +266,21 @@ def get_pointless(word_hebrew):
     return pointless
 
 
+def modify_for_sorting(word_hebrew):
+    # This method is called for sorting hebrew words where all the letters
+    # are the same and in same order.  Only the points marking vowels differ.
+    # To sort these words according to the vowel markings we change all letters
+    # to a letter "A", whose Unicode value is smaller than Unicode values of
+    # Hebrew vowel markings.
+    word_to_sort = ""
+    for i in range(len(word_hebrew)):
+        if ord(word_hebrew[i]) >= 0x5D0:
+            word_to_sort += "A"
+        else:
+            word_to_sort += word_hebrew[i]
+    return word_to_sort
+
+
 def get_ubs_reference(word_hebrew, ubs_dict):
     pointless = get_pointless(word_hebrew)
     first_char = pointless[len(pointless) - 1]
@@ -281,6 +296,18 @@ def get_ubs_reference(word_hebrew, ubs_dict):
         return ubs_dict[first_char][pointless][index]
     else:
         return None
+
+
+def sort_hebrew(source_dict):
+    target_dict = {}
+    for key in sorted(source_dict):
+        for item in sorted(source_dict[key].keys()):
+            vocalized_variations = sorted(source_dict[key][item].items(), key=lambda t: modify_for_sorting(t[0]))
+            if key in target_dict.keys():
+                target_dict[key] = target_dict[key] + vocalized_variations
+            else:
+                target_dict[key] = vocalized_variations
+    return target_dict
 
 
 def sort_contributors(contributors_dict):
@@ -301,7 +328,7 @@ def sort_contributors(contributors_dict):
     return target_dict
 
 
-def hebrew_alphabet_order(source_dict, contributors=False):
+def sort_latin(source_dict, contributors=False):
     target_dict = {}
     sorted_dict = sort_contributors(source_dict) if contributors else sorted(source_dict)
     for key in sorted_dict:
@@ -310,7 +337,6 @@ def hebrew_alphabet_order(source_dict, contributors=False):
                 target_dict[key] = target_dict[key] + [(item, source_dict[key][item])]
             else:
                 target_dict[key] = [(item, source_dict[key][item])]
-
     return target_dict
 
 
@@ -336,11 +362,15 @@ def get_relations():
                     word_english = get_value(line)
                 elif line.startswith("word_hebrew:"):
                     word_hebrew = get_value(line)
-                    key = get_pointless(word_hebrew)[0]
+                    pointless = get_pointless(word_hebrew)
+                    key = pointless[0]
                     if key in words.keys():
-                        words[key][word_hebrew] =  word_english
+                        if pointless in words[key].keys():
+                            words[key][pointless].update({word_hebrew: word_english})
+                        else:
+                            words[key][pointless] = {word_hebrew: word_english}
                     else:
-                        words[key] = {word_hebrew: word_english}
+                        words[key] = {pointless: {word_hebrew: word_english}}
                 elif line.startswith("semantic_fields:") or line.startswith("contributors:"):
                     if not word_english or not word_hebrew:
                         error(f"english and/or hebrew word in {word.name} metadata not given")
@@ -359,9 +389,9 @@ def get_relations():
                                 contributors[key] = {word_hebrew: word_english}
 
     # sort dictionaries
-    words_dict = hebrew_alphabet_order(words)
-    semantic_fields_dict = hebrew_alphabet_order(semantic_fields)
-    contributors_dict = hebrew_alphabet_order(contributors, True)
+    words_dict = sort_hebrew(words)
+    semantic_fields_dict = sort_latin(semantic_fields)
+    contributors_dict = sort_latin(contributors, True)
 
     return words_dict, semantic_fields_dict, contributors_dict
 
@@ -486,7 +516,6 @@ def write_semantic_fields(semantic_fields_dict):
     if isdir(SEMANTIC_FIELDS_DOCS):
         rmtree(SEMANTIC_FIELDS_DOCS)
     copytree(SEMANTIC_FIELDS, SEMANTIC_FIELDS_DOCS)
-
     for s_field in semantic_fields_dict:
         name = s_field.capitalize().replace("_", " ")
         words = semantic_fields_dict[s_field]
@@ -602,8 +631,8 @@ def write_navigation(words_dict, semantic_fields_dict, contributors_dict):
             if line.replace(" ", "").startswith("-Lemmas:"):
                 for letter in words_dict:
                     text.append(f"            - {letter}:\n")
-                    for word in words_dict[letter]:
-                        text.append(f"                - {word[0]} - {word[1].replace('_', ' ')}: words/{word[1]}.md\n")
+                    for (hebrew_word, english_word) in words_dict[letter]:
+                        text.append(f"                - {hebrew_word} - {english_word.replace('_', ' ')}: words/{english_word}.md\n")
             elif line.replace(" ", "").startswith("-Semanticfields:"):
                 for s_field in semantic_fields_dict:
                     text.append(f"            - {capitalize(s_field)}: semantic_fields/{s_field}.md\n")
