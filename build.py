@@ -133,14 +133,12 @@ def get_number_of_points(word):
 
 def get_probable_index(word_hebrew, words_list):
     for i in range(len(words_list)):
-        # print(f"{word_hebrew} - {words_list[i]}")
         if word_hebrew == words_list[i]:
             return i
 
     points = get_number_of_points(word_hebrew)
     i = 0
     for word in words_list:
-        # print(f"points: {points}, points word {get_number_of_points(word)}")
         if points <= get_number_of_points(word) or i == len(words_list) - 1:
             break
         i += 1
@@ -152,29 +150,6 @@ def convert_to_id(language, lex):
     return language + lex.replace(">", "A").replace("<", "O").replace("[", "v").replace("/", "n").replace("=", "i")
 
 
-# def create_shebanq_references():
-#     shebanq = {}
-#
-#     with open('shebanq_words.csv') as csv_file:
-#         csv_reader = csv.reader(csv_file, delimiter=';')
-#         for row in csv_reader:
-#             language = "2" if row[0] == "Aramaic" else "1"
-#             word_id = convert_to_id(language, row[1])
-#             word_hebrew = row[2]
-#             vocal = reverse(row[3])
-#             key = word_hebrew[0]
-#             word_hebrew = reverse(word_hebrew)
-#             if key in shebanq.keys():
-#                 if word_hebrew in shebanq[key]:
-#                     shebanq[key][word_hebrew].append((word_id, vocal))
-#                 else:
-#                     shebanq[key][word_hebrew] = [(word_id, vocal)]
-#             else:
-#                 shebanq[key] = {word_hebrew: [(word_id, vocal)]}
-#
-#     return shebanq
-#
-#
 def create_shebanq_references():
     shebanq = {}
 
@@ -192,28 +167,6 @@ def create_shebanq_references():
                 shebanq[key] = {word_hebrew: word_id}
 
     return shebanq
-
-
-# def get_shebanq_id(word_hebrew, shebanq_dict):
-#     pointless = ""
-#     for i in range(len(word_hebrew)):
-#         if ord(word_hebrew[i]) >= 0x5D0:
-#             pointless += word_hebrew[i]
-#     # print(reverse(pointless))
-#     first_char = pointless[len(pointless) - 1]
-#     if pointless in shebanq_dict[first_char]:
-#         # print(len(shebanq_dict[first_char][pointless]))
-#         # print(shebanq_dict[first_char][pointless][0][0])
-#         index = 0
-#         if len(shebanq_dict[first_char][pointless]) > 1:
-#             words_list = []
-#             for entry in shebanq_dict[first_char][pointless]:
-#                 words_list.append(entry[1])
-#             index = get_probable_index(word_hebrew, words_list)
-#             # print(f"shebanq index: {index}")
-#         return shebanq_dict[first_char][pointless][index][0]
-#     else:
-#         return None
 
 
 def get_shebanq_id(word_hebrew, shebanq_dict):
@@ -244,20 +197,6 @@ def create_ubs_references():
     return ubs
 
 
-# def create_ubs_references():
-#     ubs = {}
-#
-#     with open('ubs_words.csv') as csv_file:
-#         csv_reader = csv.reader(csv_file, delimiter=';')
-#         for row in csv_reader:
-#             word_hebrew = row[1]
-#             key = word_hebrew[0]
-#             word_hebrew = reverse(word_hebrew)
-#             if key in ubs.keys():
-#                 ubs[key].append(word_hebrew)
-#             else:
-#                 ubs[key] = [word_hebrew]
-#     return ubs
 def get_pointless(word_hebrew):
     pointless = ""
     for i in range(len(word_hebrew)):
@@ -285,14 +224,9 @@ def get_ubs_reference(word_hebrew, ubs_dict):
     pointless = get_pointless(word_hebrew)
     first_char = pointless[len(pointless) - 1]
     if pointless in ubs_dict[first_char]:
-        # print(len(ubs_dict[first_char][pointless]))
-        # print(ubs_dict[first_char][pointless][0])
         index = 0
         if len(ubs_dict[first_char][pointless]) > 1:
-            # print(reverse(word_hebrew))
-            # print(ubs_dict[first_char][pointless])
             index = get_probable_index(word_hebrew, ubs_dict[first_char][pointless])
-            # print(f"ubs index: {index}")
         return ubs_dict[first_char][pointless][index]
     else:
         return None
@@ -338,14 +272,6 @@ def sort_latin(source_dict, contributors=False):
             else:
                 target_dict[key] = [(item, source_dict[key][item])]
     return target_dict
-
-
-# def get_ubs_reference(word_hebrew, ubs_dict):
-#     first_char = word_hebrew[len(word_hebrew) - 1]
-#     if word_hebrew in ubs_dict[first_char]:
-#         return word_hebrew
-#     else:
-#         return None
 
 
 def get_relations():
@@ -488,8 +414,6 @@ def write_words(shebanq_dict, ubs_dict):
                         text.append(f"First published: {first_published}<br>")
                         if last_update:
                             text.append(f"Last update: {last_update} ")
-                            # if update_info:
-                            #     text.append(f" - {update_info}")
                             text.append("<br>")
                     text.append(f"Citation: {contributors_citing}, {word_english_hebrew}, <br>\
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
