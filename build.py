@@ -340,7 +340,7 @@ def write_words(shebanq_dict, ubs_dict):
     os.mkdir(WORDS_DOCS)
 
     for word in WORDS.glob("*"):
-        word_hebrew, word_english, title, shebanq_id, first_published, last_update, update_info, additional_info = "", "", "", "", "", "", "", ""
+        word_hebrew, word_english, title, shebanq_id, first_published, last_update, additional_info = "", "", "", "", "", "", ""
         semantic_fields, contributors = [], []
         text, first_dashes, second_dashes = [], False, False
         if word.name == ".DS_Store":
@@ -373,8 +373,6 @@ def write_words(shebanq_dict, ubs_dict):
                     shebanq_id = get_value(line)
                 elif line.startswith("last_update:") and line.replace("last_update:", "").strip() != "":
                     last_update = get_value(line)
-                elif line.startswith("update_info:") and line.replace("update_info:", "").strip() != "":
-                    update_info = get_value(line)
                 elif line.startswith("additional_info:"):
                     additional_info = get_value(line)
                 elif line.strip() == "---" and not second_dashes:
@@ -420,12 +418,8 @@ def write_words(shebanq_dict, ubs_dict):
                     Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd)")
                     if first_published:
                         text.append(f", {first_published.split('-')[0]}")
-                        if last_update and not update_info:
+                        if last_update:
                             text.append(f" (update: {last_update.split('-')[0]})")
-                        if last_update and update_info:
-                            text.append(f"<br>\
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
-                            (update: {last_update.split('-')[0]} {update_info})")
                     if additional_info:
                         text.append("\n" + additional_info)
                     text.append("\n\n")
