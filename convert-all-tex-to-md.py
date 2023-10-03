@@ -162,9 +162,9 @@ def replace_hebrew_coded(line):
 def replace_hebrew(line):
     if "{\\Hbr" in line:
         for i in range(5):
-            line = re.sub(r'(.*)\\RL{\\Hbr (.*?)}(.*)', r'\1<span dir="rtl">\2</span> \3', line)
+            line = re.sub(r'(.*)\\RL{\\Hbr (.*?)}(.*)', r'\1<span dir="rtl">\2</span>\3', line)
         for i in range(5):
-            line = re.sub(r'(.*){\\Hbr (.*?)}(.*)', r'\1<span dir="rtl">\2</span> \3', line)
+            line = re.sub(r'(.*){\\Hbr (.*?)}(.*)', r'\1<span dir="rtl">\2</span>\3', line)
     elif "\\smhebr" in line or "\\nmhebr" in line or "\\medhebr" in line or "\\heb" in line:
         line = replace_hebrew_coded(line)
     return line
