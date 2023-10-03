@@ -414,9 +414,9 @@ def write_words(shebanq_dict, ubs_dict):
     os.mkdir(WORDS_DOCS)
 
     for word in WORDS.glob("*"):
-        word_hebrew, word_english, title, first_published, last_update, update_info = "", "", "", "", "", ""
+        word_hebrew, word_english, title, shebanq_id, first_published, last_update, update_info, additional_info = "", "", "", "", "", "", "", ""
         semantic_fields, contributors = [], []
-        text, first_dashes, second_dashes, shebanq, ubs = [], False, False, True, True
+        text, first_dashes, second_dashes, ubs = [], False, False, True
         if word.name == ".DS_Store":
             continue
         filename = word.name
@@ -443,22 +443,24 @@ def write_words(shebanq_dict, ubs_dict):
                     contributors = get_values(line)
                 elif line.startswith("first_published:"):
                     first_published = get_value(line)
-                elif line.startswith("shebanq:"):
-                    shebanq = not (get_value(line).lower() == "off")
+                elif line.startswith("shebanq_id:"):
+                    shebanq_id = get_value(line)
                 elif line.startswith("ubs:"):
                     ubs =  not (get_value(line).lower() == "off")
                 elif line.startswith("last_update:") and line.replace("last_update:", "").strip() != "":
                     last_update = get_value(line)
                 elif line.startswith("update_info:") and line.replace("update_info:", "").strip() != "":
                     update_info = get_value(line)
+                elif line.startswith("additional_info:"):
+                    additional_info = get_value(line)
                 elif line.strip() == "---" and not second_dashes:
                     second_dashes = True
                     text.append(HEADER)
                     text.append(DOWNLOAD)
-                    if shebanq:
+                    if not shebanq_id:
                         shebanq_id = get_shebanq_id(word_hebrew, shebanq_dict)
-                        if shebanq_id:
-                            text.append(SHEBANQ.replace("replace", shebanq_id))
+                    if shebanq_id:
+                        text.append(SHEBANQ.replace("replace", shebanq_id))
                     if ubs:
                         ubs_reference = get_ubs_reference(word_hebrew, ubs_dict)
                         if ubs_reference:
@@ -503,6 +505,8 @@ def write_words(shebanq_dict, ubs_dict):
                             text.append(f"<br>\
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
                             (update: {last_update.split('-')[0]} {update_info})")
+                    if additional_info:
+                        text.append("\n" + additional_info)
                     text.append("\n\n")
 
         if not second_dashes:
