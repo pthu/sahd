@@ -206,11 +206,12 @@ def get_pointless(word_hebrew):
 
 
 def modify_for_sorting(word_hebrew):
-    # This method is called for sorting hebrew words where all the letters
+    # This method is called for sorting Hebrew words where all the letters
     # are the same and in same order.  Only the points marking vowels differ.
     # To sort these words according to the vowel markings we change all letters
     # to a letter "A", whose Unicode value is smaller than Unicode values of
-    # Hebrew vowel markings.
+    # Hebrew vowel markings. This way the Unicode values of vowel markings
+    # define the sort order.
     word_to_sort = ""
     for i in range(len(word_hebrew)):
         if ord(word_hebrew[i]) >= 0x5D0:
