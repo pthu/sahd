@@ -1,6 +1,6 @@
 ---
 word_english: redemption,_right_of  
-word_hebrew:  גאלה  
+word_hebrew:  גְּאֻלָּה    
 title: (price/right of) redemption 
 semantic_fields: deliverance  
 contributors: alison_gray  
@@ -10,7 +10,7 @@ update_info:
 
 ---
 
-גְּאֻלָּה  
+
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole see on this site the 
 <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
