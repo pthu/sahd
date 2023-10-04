@@ -44,6 +44,8 @@ PHOTO_PATH_REPLACEMENT = r"\1(/sahd/images/photos/\3\5"
 PDF_PATH = r'(.*src=")(\.\./pdfs/)(.*)'
 PDF_PATH_REPLACEMENT = r"\1/sahd/pdfs/\3"
 
+PREFIXES = ["de", "den", "der", "'t", "’t", "te", "ten", "ter", "van", "von"]
+
 errors = []
 
 
@@ -103,7 +105,14 @@ def capitalize(s):
 
 
 def capitalize_name(s):
-    return s.title().replace("Van_", "van_").replace("’T_", "’t_").replace("'T_", "'t_").replace("De_", "de_").replace("_", " ")
+    name = ""
+    parts = s.split("_")
+    for part in parts:
+        if part in PREFIXES:
+            name += part + " "
+        else:
+            name += part.title() + " "
+    return name.strip()
 
 
 def get_value(line):
@@ -246,14 +255,13 @@ def sort_hebrew(source_dict):
 
 
 def sort_contributors(contributors_dict):
-    prefixes = ["de", "den", "der", "'t", "’t", "te", "ten", "ter", "van", "von"]
     sort_dict = {}
     target_dict = {}
     for key in contributors_dict:
         parts = key.split("_")
         surname_key = ""
         for i in range(len(parts)):
-            if parts[i] in prefixes or i == len(parts) - 1:
+            if parts[i] in PREFIXES or i == len(parts) - 1:
                 surname_key += parts[i]
         sort_dict[surname_key] = key
     for key in sorted(sort_dict):
@@ -613,5 +621,3 @@ def main():
 
 
 main()
-
-
