@@ -7,14 +7,12 @@ site_author: Vesa Åkerman
 nav:
     - Home: index.md
     - Lemmas:
-            - א:
-                - אוּרִים וְתֻמִּים - Urim Thummim-RdH: words/Urim_Thummim-RdH.md
             - ב:
                 - בֶּקַע - beka – half a shekel: words/beka_–_half_a_shekel.md
             - ג:
-                - גאולים - redemption: words/redemption.md
+                - גְּאוּלִים - redemption: words/redemption.md
                 - גאל - to redeem: words/to_redeem.md
-                - גאלה - redemption, right of: words/redemption,_right_of.md
+                - גְּאֻלָּה - redemption, right of: words/redemption,_right_of.md
             - ט:
                 - טוה - to spin, twist: words/to_spin,_twist.md
             - י:
@@ -23,8 +21,6 @@ nav:
             - פ:
                 - פֶּלֶךְ - spindle: words/spindle.md
     - Semantic fields:
-            -  Cult: semantic_fields/_cult.md
-            -  Divination: semantic_fields/_divination.md
             - Craft: semantic_fields/craft.md
             - Deliverance: semantic_fields/deliverance.md
             - Textile Production: semantic_fields/textile production.md
@@ -34,7 +30,6 @@ nav:
             - James K. Aitken: contributors/james_k._aitken.md
             - Graham I. Davies: contributors/graham_i._davies.md
             - Raymond de Hoop: contributors/raymond_de_hoop.md
-            - Kees Den Hertog: contributors/kees_den_hertog.md
             - Alison Gray: contributors/alison_gray.md
             - Paul Sanders: contributors/paul_sanders.md
             - Bertus van ’t Veld: contributors/bertus_van_’t_veld.md
