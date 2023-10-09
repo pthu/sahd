@@ -92,9 +92,9 @@ and <span dir="rtl" lang="he">אחסנתא</span> respectively emphasise the cla
 
 <b>d. Vulgate (Vg):</b>
 
-* <i>redemptio</i>, ‘’:[^5] Isa 63:4.
+* <i>redemptio</i>, ‘a buying back, redemption’:[^5] Isa 63:4.
 
-[^5]: The English rendering of the Latin is based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
+[^5]: Lewis & Short, <i>LD</i>, 1539.
 
 ## 5. Lexical/Semantic Fields
 
@@ -206,8 +206,7 @@ Helmer Ringgren, ‘גאל’, <i>TDOT</i> 2:350-55.
 <div style="padding-left: 22px; text-indent: -22px;">
 Stamm 1940
 <br>
-Johann J. Stamm, <i>Erlösen und Vergeben im Alten Testament</i>, Bern:
-Francke.
+Johann J. Stamm, <i>Erlösen und Vergeben im Alten Testament</i>, Bern: Francke.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">

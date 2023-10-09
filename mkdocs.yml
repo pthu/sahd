@@ -7,8 +7,6 @@ site_author: Vesa Åkerman
 nav:
     - Home: index.md
     - Lemmas:
-            - א:
-                - אוּרִים וְתֻמִּים - Urim Thummim: words/Urim_Thummim.md
             - ב:
                 - בֶּקַע - beka – half a shekel: words/beka_–_half_a_shekel.md
             - ג:
@@ -24,9 +22,7 @@ nav:
                 - פֶּלֶךְ - spindle: words/spindle.md
     - Semantic fields:
             - Craft: semantic_fields/craft.md
-            - Cult: semantic_fields/cult.md
             - Deliverance: semantic_fields/deliverance.md
-            - Divination: semantic_fields/divination.md
             - Textile Production: semantic_fields/textile production.md
             - Utensils: semantic_fields/utensils.md
             - Weight: semantic_fields/weight.md
@@ -34,7 +30,6 @@ nav:
             - James K. Aitken: contributors/james_k._aitken.md
             - Graham I. Davies: contributors/graham_i._davies.md
             - Raymond de Hoop: contributors/raymond_de_hoop.md
-            - Kees den Hertog: contributors/kees_den_hertog.md
             - Alison Gray: contributors/alison_gray.md
             - Paul Sanders: contributors/paul_sanders.md
             - Bertus van ’t Veld: contributors/bertus_van_’t_veld.md

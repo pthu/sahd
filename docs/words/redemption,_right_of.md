@@ -46,7 +46,7 @@ Qere/Ketiv: none.
 <b>A.1</b>  See <a href="https://pthu.github.io/sahd/words/to_redeem/#1-root-and-comparative-material"><span dir="rtl" lang="he">גאל</span>, 1. Root And Comparative Material</a>.
 
 
-<b>A.2</b>  The theological meaning of גְּאֻלָּה, ‘redemption’ (political liberation and independence) can also be found on ‘Freedom’ and ‘Redemption’ coins from the First Revolt against Rome (AD 66-70), bearing the inscription <span dir="rtl" lang="he">לגאלת ציון</span>, ‘for the redemption of Zion’ and coinage from the Bar Kochba revolt (AD 132-5) with the inscription <span dir="rtl" lang="he">שנת אחת לגאלת ישראל</span> ‘year one of the redemption of Israel’ (for detailed references see Schürer 1973: 605-06). Similar expressions (always with ישראל) occur in the dates of legal documents from the period of the Second Revolt found in the caves of Wadi Murabaʿat (Mur 22 1:1; 24 2:2, 4:2, 5:1; 29 1:1; 30 2:1[8]; very likely also in other places where the papyrus is damaged),  again corresponding to חרות in some similar Aramaic documents (DJD ii:118-48). <i>DCH</i> ii:296, also refers to another occurrence in a 'Bar Kochba IOU' (further examples \[DJD ii:139 n. 2] and discussion in Horbury 2011).
+<b>A.2</b>  The theological meaning of גְּאֻלָּה, ‘redemption’ (political liberation and independence) can also be found on ‘Freedom’ and ‘Redemption’ coins from the First Revolt against Rome (AD 66-70), bearing the inscription <span dir="rtl" lang="he">לגאלת ציון</span>, ‘for the redemption of Zion’ and coinage from the Bar Kochba revolt (AD 132-5) with the inscription <span dir="rtl" lang="he">שנת אחת לגאלת ישראל</span> ‘year one of the redemption of Israel’ (for detailed references see Schürer 1973:605-06). Similar expressions (always with ישראל) occur in the dates of legal documents from the period of the Second Revolt found in the caves of Wadi Murabaʿat (Mur 22 1:1; 24 2:2, 4:2, 5:1; 29 1:1; 30 2:1[8]; very likely also in other places where the papyrus is damaged),  again corresponding to חרות in some similar Aramaic documents (DJD ii:118-48). <i>DCH</i> ii:296, also refers to another occurrence in a 'Bar Kochba IOU' (further examples \[DJD ii:139 n. 2] and discussion in Horbury 2011).
 
 ## 2. Formal Characteristics
 
@@ -94,7 +94,7 @@ Qere/Ketiv: none.
 [^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i>… claim on that which is currently not in one’s possession</i>’. LEH<small><sup>3</sup></small>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
 <b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of <span dir="rtl" lang="he">כפר</span>, 
-<span dir="rtl" lang="he">גאל</span>, and פדה. In Classical Greek λύτρον denotes ‘price of release, ransom’ (LSJ, 1067b), the ‘means of release’ implied by the suffix –τρον, and was used for the sum paid to ransom prisoners of war and slaves (Procksch and Büchsel 1967: 340).
+<span dir="rtl" lang="he">גאל</span>, and פדה. In Classical Greek λύτρον denotes ‘price of release, ransom’ (LSJ, 1067b), the ‘means of release’ implied by the suffix –τρον, and was used for the sum paid to ransom prisoners of war and slaves (Procksch and Büchsel 1967:340).
 
 <b>A.2</b>  The choice of words in the LXX seems to vary according to context, λύτρον being used when the emphasis is on a particular sum of money and λύτρωσις and λυτρωτός when the rights of redemption are being discussed.
 
@@ -216,14 +216,14 @@ redemption’ (cf. JPS for the second occurrence).
 
 <b>A.4</b>  The meaning ‘price of redemption’ is required by the context in Lev.
 25:51-52 (cf. יָשִׁיב, and also LXX and Vg here; likewise BDB and Horst
-1961a: 219).
+1961a:219).
 
 
-<b>A.5</b>  In Ezek 11:15, if MT is correct (Cooke 1936: 127, supports the
+<b>A.5</b>  In Ezek 11:15, if MT is correct (Cooke 1936:127, supports the
 reading גָלוּתְךָ, based on LXX and Pesh), the sense of גְּאֻלָּה must
 be something like ‘family, kin-group’ (cf. Tg, Vg), as representing
 those who would have had the responsibility of ‘redemption’ as
-גֹּאֲלִים. Zimmerli (1979: 261; following Horst 1953: 337-38) defends
+גֹּאֲלִים. Zimmerli (1979:261; following Horst 1953:337-38) defends
 this interpretation and argues for its appropriateness in Ezekiel’s
 exilic situation: it conforms well to the mention, just before, of
 Ezekiel’s ‘brothers’ and the implied interest in the family’s ancestral
@@ -234,10 +234,10 @@ more common meaning ‘(right of) redemption’, but this remains the only
 place where it may be attested.
 
 
-<b>B.1</b>  Horst (1961b: 153) defines the meaning of גְּאֻלָּה as ‘Recht bzw.
+<b>B.1</b>  Horst (1961b:153) defines the meaning of גְּאֻלָּה as ‘Recht bzw.
 Pflicht zur Lösung (zur Rückkauf)’, ‘right or obligation of redemption
-(of repurchase)’, and he is followed by Ringgren (1977: 352) and Stamm
-(1971: 383). This is undoubtedly correct for some passages (above, A.2),
+(of repurchase)’, and he is followed by Ringgren (1977:352) and Stamm
+(1971:383). This is undoubtedly correct for some passages (above, A.2),
 but in others it either does not fit the context or is only one of two
 possibilities (see A.1, A.3-4).
 
@@ -288,14 +288,14 @@ Horbury 2011
 William Horbury, ‘Liberty in the Coin Legends of the Jewish Revolts’,
 in: James K. Aitken, Katharine J. Dell, and Brian A. Mastin (eds.), <i>On
 Stone and Scroll:</i> <i>Essays in Honour of Graham Ivor Davies</i> (BZAW, 420),
-Berlin: De Gruyter, 139-52.
+Berlin: de Gruyter, 139-52.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Horst 1953
 <br>
 Friedrich Horst, ‘Exilsgemeinde und Jerusalem in Ez viii-xi. Eine
-literarische Untersuchung’, <i>VT</i> 3:337-60.
+literarische Untersuchung’, <i>VT</i>&nbsp;3:337-60.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -356,7 +356,7 @@ Johann J. Stamm, ‘גאל – erlösen’, <i>THAT</i> 1:385-96.
 Zimmerli 1979
 <br>
 Walter Zimmerli, <i>Ezekiel 1: A Commentary on the Book of the Prophet
-Ezekiel, Chapters 1-24</i> (Hermeneia), Philadelphia: Fortress Press.
+Ezekiel, Chapters 1-24</i> (Hermeneia), Philadelphia: Fortress.
 </div>
 
 

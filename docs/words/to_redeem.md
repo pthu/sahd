@@ -62,10 +62,10 @@ is the subject.  </div>
 <b>c)</b> 4Q284a 1:7
 is a passage on harvesting and it is unclear whether גאל
 means ‘redeem’ or ‘defile’. Abegg, Bowley, and Cook (2003) list this
-passage under גאל (I) ‘redeem’, which is supported by Martinez and
+passage under גאל (I) ‘redeem’, which is supported by García Martínez and
 Tigchelaar who translate the verse as ‘He may not redeem them with
 [...]’ (<i>DSS.SE</i>, 641). The direct object is also unclear, due to
-missing text, but could be figs (התאנים from line 4). DJD xxxv: 132
+missing text, but could be figs (התאנים from line 4). DJD xxxv:132
 argues that the passage describes olive-pressing and the extraction of
 olive oil: ‘let him b[y] no [mean]s defile them by opening them before
 he pours [them into the press].’ The argument is dependent to a large
@@ -81,7 +81,7 @@ reliable’. From the context this seems likely.    </div>
 <div style="padding-left: 22px; text-indent: -0px;">
 <b>e)</b> 4Q504 22:3 
 is another case where the meaning is indeterminate: ...]<span dir="rtl" lang="he">אשר גאלה</span>\[...,
-‘who redeems/defiles her’ (DJD vii: 166). Both the ה and the ל are
+‘who redeems/defiles her’ (DJD vii:166). Both the ה and the ל are
 also partially effaced.  </div>
 
 
@@ -89,11 +89,11 @@ also partially effaced.  </div>
 instance of <span dir="rtl" lang="he">גאל ישראל</span>,
 ‘redeemer of Israel’. Although the passage of
 which it forms part is not in the Greek, it may nevertheless be ancient
-(cf. Skehan and Di Lella 1987: 569-570).
+(cf. Skehan and Di Lella 1987:569-570).
 
 
 <b>A.4</b><a id="uncertain"></a> Frank M. Cross read <span dir="rtl" lang="he">וגאלתי ירשלם</span>, ‘and I will redeem Jerusalem’, in
-l:2 of Inscription A from Khirbet Beit Lei (Cross 1970: 299-302), but a
+l:2 of Inscription A from Khirbet Beit Lei (Cross 1970:299-302), but a
 number of scholars read this line differently (see <i>AHI-1</i>, 15.005:2,
 15.006:2; <i>HAE</i>, 242-246 [BLay (7):1]).
 
@@ -120,32 +120,32 @@ above).
 
 <b>A.2</b>  The root גאל is peculiar to Hebrew among the Semitic languages and
 became a loan-word in Samaritan Aramaic and post-biblical Jewish Aramaic
-(Stamm 1971: 385).
+(Stamm 1971:385).
 
 
 <b>A.1</b>  גאל has a parallel in Babylonian 
 <i>paṭāru</i> (‘to loose, release’), a
 term used in Babylonian law for the duty or obligation to buy back lost
 family property or enslaved people, but also used more generally for
-buying slaves and prisoners (Stamm 1971, 386). The Israelite concept of
+buying slaves and prisoners (Stamm 1971:386). The Israelite concept of
 ‘redemption’ (buying back people or property in the legal sense) differs
 from the Babylonian in respect of its basis in Israel’s relationship to
 Yahweh. Since all land belongs to Yahweh, it is merely ‘on loan’ to the
 people and they must therefore always retain the right to repurchase it
 (Lev 25:23f.). In the same way, an Israelite must not remain a slave for
 a long time (Lev 25:42) because he is a descendant of those whom Yahweh
-freed from the Egyptians (Stamm 1971: 386).
+freed from the Egyptians (Stamm 1971:386).
 
 
 <b>B.1</b> It is generally agreed that גאל (I) is totally unrelated to its
 homonym גאל (II) (niph.), meaning ‘to be (ritually) defiled’ (possibly a
 by-form of <span dir="rtl" lang="he">געל</span>),[^2] 
 <i>contra</i> Johnson, who suggests that in both words
-there is the basic idea of ‘covering (up) an object’ (1953: 72), the
+there is the basic idea of ‘covering (up) an object’ (1953:72), the
 first being ‘to protect’ by covering, and the second ‘to cover’ in the
 sense of soiling.
 
-[^2]: Cf. Stamm 1971: 385; Ringgren 1977, 351; <i>HALOT</i>, 169b.
+[^2]: Cf. Stamm 1971:385; Ringgren 1977, 351; <i>HALOT</i>, 169b.
 
 
 ## 2. Formal Characteristics
@@ -162,7 +162,7 @@ in a cultic context – אִישׁ, ‘a man / someone’ (Lev 27:31; 4Q367 3:7);
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
 <b>b)</b><a id="Syntagmatics-A1b"></a> 
-in a socio-legal context – גֹּאֵל, ‘next of kin’ (Lev 25:25; Ruth 3:13 [3x], 4:4[4x], 6[2x]); <span dir="rtl" lang="he">מִן הַלְוִיִּם</span>, ‘(one) of the levites’ (Lev. 25:33: for the superiority of this interpretation to ‘from the levites’ see Milgrom 2001: 2202-03); אָח, ‘brother’ (Lev 25:48); דּוֹד, ‘paternal uncle’, בֶּן־דּוֹד, ‘uncle’s son’ (Lev 25:49); <span dir="rtl" lang="he">מִשְּׂאֵר בְּשָׂרוֹ מִמִּשְׁפַּחְתּוֹ</span>, ‘one of his family of his own flesh’ (Lev 25:49); אָנֹכִי ‘I’ referring to Boaz (Ruth 3:13); <span dir="rtl" lang="he">אֵין זוּלָתְךָ</span>, ‘no-one except you’ + inf. (Ruth 4:4); impv. to Boaz (Ruth 4:6); מֶלֶךְ, ‘the king’ (Ps 72:14) understood from v. 1 (in <i>DCH</i> ii:294 Clines lists this mistakenly under Yahweh as subject); חכם, ‘wise man’ (Sir 37:19 acc. mss B and C); subj. not specified (Lev 25:33; Ruth 4:4).
+in a socio-legal context – גֹּאֵל, ‘next of kin’ (Lev 25:25; Ruth 3:13 [3x], 4:4[4x], 6[2x]); <span dir="rtl" lang="he">מִן הַלְוִיִּם</span>, ‘(one) of the levites’ (Lev. 25:33: for the superiority of this interpretation to ‘from the levites’ see Milgrom 2001:2202-03); אָח, ‘brother’ (Lev 25:48); דּוֹד, ‘paternal uncle’, בֶּן־דּוֹד, ‘uncle’s son’ (Lev 25:49); <span dir="rtl" lang="he">מִשְּׂאֵר בְּשָׂרוֹ מִמִּשְׁפַּחְתּוֹ</span>, ‘one of his family of his own flesh’ (Lev 25:49); אָנֹכִי ‘I’ referring to Boaz (Ruth 3:13); <span dir="rtl" lang="he">אֵין זוּלָתְךָ</span>, ‘no-one except you’ + inf. (Ruth 4:4); impv. to Boaz (Ruth 4:6); מֶלֶךְ, ‘the king’ (Ps 72:14) understood from v. 1 (in <i>DCH</i> ii:294 Clines lists this mistakenly under Yahweh as subject); חכם, ‘wise man’ (Sir 37:19 acc. mss B and C); subj. not specified (Lev 25:33; Ruth 4:4).
 </div>
 
 
@@ -561,7 +561,7 @@ sacrifice.
 <b>b)</b> There is an interesting clarification of Lev 27:13 in the legal commentary, Halakhah A (4Q251 14:2). Whereas the MT may be regarded as
 ambiguous (superficially) as to whether (אִם) an unclean animal may be
 offered for sacrifice, it is made quite clear in the Qumran text that it
-must be redeemed (see DJD xxxv, 42 and Levine 1989: 195).
+must be redeemed (see DJD xxxv:42 and Levine 1989:195).
 </div>   
 
 
@@ -582,7 +582,7 @@ The people who can act as גֹּאֵל for someone are listed in Lev 25:49: a ma
 </div>
 
 <b>A.3</b> גֹּאֵל הַדָּם is used several times (in the asylum laws in Num 35:19, 21, 24, 25, 27 [2x], and also in Deut 19:6, 12; Josh 20:3, 5, 9; 2 Sam 14:11) and is usually translated as ‘the avenger of blood’ (BDB, 145; NRSV). It seems, therefore, to some scholars, that another
-responsibility or right of the kinsman is to restore the blood of the family which has been lost (Stamm 1971: 386, Johnson 1953: 68). This idea is emphasised particularly in Pesh 2 Sam 14:11 (see 
+responsibility or right of the kinsman is to restore the blood of the family which has been lost (Stamm 1971:386; Johnson 1953:68). This idea is emphasised particularly in Pesh 2 Sam 14:11 (see 
 <a href="#Peshitta-A4">Peshitta A.4</a> above). Thus the avenger is the subject of verbs such as 
 <span dir="rtl" lang="he">מות</span> hiph., <span dir="rtl" lang="he">רצח</span> and <span dir="rtl" lang="he">רדף</span>. Tg<small><sup>N</sup></small> and Tg<small><sup>PsJ</sup></small>, translate it as <span dir="rtl" lang="he">תבע אדמא</span> (<span dir="rtl" lang="he">תבע</span>, ‘to seek, demand, claim’, <i>DJPA</i><small><sup>1</sup></small>, 574b) and Pesh
 translates it by 
@@ -603,10 +603,10 @@ redemption from sins (44:22), of triumph over enemies (49:26), of compassion (54
 גֹּאֵל.
 
 
-<b>A.6</b> גאל qal is used in an eschatological hymn of praise (Isa 44:23, 48:20, 52:9), which suggests the author has made a connection between the first exodus, the first ‘redemption’ or liberation, and the hoped-for future redemption, as well as hopes for the second liberation from the Babylonian exile (cf. Stamm 1971: 390).
+<b>A.6</b> גאל qal is used in an eschatological hymn of praise (Isa 44:23, 48:20, 52:9), which suggests the author has made a connection between the first exodus, the first ‘redemption’ or liberation, and the hoped-for future redemption, as well as hopes for the second liberation from the Babylonian exile (cf. Stamm 1971:390).
 
 
-<b>A.7</b> Several times God’s ‘redemption’ of Israel and his title ‘Redeemer’ are linked to creation (43:1, 44:6,24, 54:5) – since God created His people, Israel, they belong to him, and so he has the right to redeem them, or to claim them back (cf. Stamm 1971: 391). In this context the qal pass. part. גאלים occurs in Isa 51:9-11. Verse 9 is an appeal to God as Creator of the world to rescue them. גאלים in v. 10 refers to those who were ‘saved’ at the Red Sea, and is followed by פדוים in v. 11, looking forward to ‘the redeemed of the Lord’ returning to Zion from the Babylonian exile.
+<b>A.7</b> Several times God’s ‘redemption’ of Israel and his title ‘Redeemer’ are linked to creation (43:1, 44:6,24, 54:5) – since God created His people, Israel, they belong to him, and so he has the right to redeem them, or to claim them back (cf. Stamm 1971:391). In this context the qal pass. part. גאלים occurs in Isa 51:9-11. Verse 9 is an appeal to God as Creator of the world to rescue them. גאלים in v. 10 refers to those who were ‘saved’ at the Red Sea, and is followed by פדוים in v. 11, looking forward to ‘the redeemed of the Lord’ returning to Zion from the Babylonian exile.
 
 
 <b>A.8</b> The occurrences of גאל in Trito-Isaiah have a similar meaning to those in Deutero-Isaiah, in the context of future deliverance (59:20, 60:16). It also occurs in conjunction with אָבִינוּ, ‘our father’, with
@@ -637,22 +637,22 @@ enemies (in all but two instances above) seems to suggest a transference of owne
 
 <b>B.1</b> The role of a man’s גֹּאֵל has been understood by some scholars to be to restore balance and wholeness to his family.[^9] However, although this description fits with a number of examples (e.g. where something is ‘bought back’ for a family member) it seems to ignore the cases where גאל could mean pre-purchase rather than re-purchase (Ruth 4:3 and Jer 32:7), and also see below on <span dir="rtl" lang="he">גֹּאֵל הַדָּם</span>, where the underlying idea does not seem to be one of ‘Wiederherstellung’.
 
-[^9]: Stamm 1971: 386; Johnson 1953: 70; Jepsen 1957: 158.
+[^9]: Stamm 1971:386; Johnson 1953:70; Jepsen 1957:158.
 
 
 <b>B.2</b> Job 3:5 seems to express the idea of גאל as ‘claiming back’. It is the only example of גאל being used with an abstract subject (‘gloom/darkness’) and some argue either that it is a unique usage of 
 <span dir="rtl" lang="he">גאל</span>, or that it should be read as the homonym גאל (II)/ געל, ‘to soil/ defile’, which may fit better with the rest of the verse. This
 would support Johnson’s argument for a single original root of both גאל (I) and גאל (II)/ געל, meaning ‘to cover’, which is supported by Pesh <span dir="rtl" lang="–">ܟܣܐ</span> (<i>ksʾ</i>) Pael, ‘to cover, hide’ and Vg <i>obscurare</i>, ‘to hide, conceal, obscure’ which seems to contain the idea of ‘cover’ (cf. LXX ἐκλάβοι). However, Stamm points to a different
 ‘core meaning’ of גאל in the idea of something being restored to its rightful owner. He translates it: ‘einfordern sollen ihn Finsternis und Dunkel’ for the forces of darkness and chaos are older than the light
-(cf. Gen 1:2) and therefore have a claim on his life (1971: 390). This view seems to be supported by the previous verse and to be more akin to the idea expressed by <span dir="rtl" lang="he">גֹּאֵל הַדָּם</span> (similarly Blau 1956: 244-45).
+(cf. Gen 1:2) and therefore have a claim on his life (1971:390). This view seems to be supported by the previous verse and to be more akin to the idea expressed by <span dir="rtl" lang="he">גֹּאֵל הַדָּם</span> (similarly Blau 1956:244-45).
 
 
-<b>B.3</b> Verses containing גאל with מִן ‘to rescue from slavery, adversity, death’ with God (or the king) as the subject have been treated by both Stamm (1971: 392-93) and Jepsen (1957: 161-62) as instances of גאל which are outside of the ‘normal’ usage, and show a semantic development away from its ‘original’ meaning (Gen 48:16; Jer 31:11; Hos 13:14; Mic 4:10; Ps 103:4; 106:10; 107:2, and one without מִן in Ps 69:19). The list unaccountably omits Ps 72:14. Even if one follows Stamm and Jepsen in
+<b>B.3</b> Verses containing גאל with מִן ‘to rescue from slavery, adversity, death’ with God (or the king) as the subject have been treated by both Stamm (1971:392-93) and Jepsen (1957:161-62) as instances of גאל which are outside of the ‘normal’ usage, and show a semantic development away from its ‘original’ meaning (Gen 48:16; Jer 31:11; Hos 13:14; Mic 4:10; Ps 103:4; 106:10; 107:2, and one without מִן in Ps 69:19). The list unaccountably omits Ps 72:14. Even if one follows Stamm and Jepsen in
 regarding this group as exhibiting a widening of the meaning of גאל from its original legal context, the development should not be regarded as post-exilic in origin, as a plausible case can be made for an earlier
 date for three of the occurrences concerned. Ps 72 is a royal psalm (see above A.4), Gen 48:16 has generally been assigned to an older layer of the Jacob-narrative (traditionally E) rather than the Priestly layer,
-and Hos 13:14 is part of a judgement oracle which there is no compelling reason to deny to the eighth-century prophet (cf. Davies 1992: 285, 295). In Gen 48:16, which Ringgren (1977: 353) considered to be ‘perhaps the oldest passage using the root <i>gʾl</i>’, גאל also seems to be an unusual choice for ‘rescuing’ or ‘liberating’ from harm, as this is the only occurrence of גאל in Genesis. However, since Jacob had no human 
+and Hos 13:14 is part of a judgement oracle which there is no compelling reason to deny to the eighth-century prophet (cf. Davies 1992:285, 295). In Gen 48:16, which Ringgren (1977:353) considered to be ‘perhaps the oldest passage using the root <i>gʾl</i>’, גאל also seems to be an unusual choice for ‘rescuing’ or ‘liberating’ from harm, as this is the only occurrence of גאל in Genesis. However, since Jacob had no human 
 <span dir="rtl" lang="he">גֹּאֵל</span> when he was in need, it was God who rescued him, both from his uncle (Gen 31) and from his brother (Gen 32-33). The emphasis
-here seems to be on the familial relationship, but under different circumstances from those we find in Leviticus and Ruth. Jacob was not in debt and did not need ‘redeeming’ in the socio-legal sense, but rather needed rescuing from danger, or protecting from harm (cf. Johnson 1953: 75-77). For גאל as an element of pre-exilic personal names, most of them explicitly theophoric, see <a href="#RootComparative-A1">Root and Comparative Material A.1</a> above.
+here seems to be on the familial relationship, but under different circumstances from those we find in Leviticus and Ruth. Jacob was not in debt and did not need ‘redeeming’ in the socio-legal sense, but rather needed rescuing from danger, or protecting from harm (cf. Johnson 1953:75-77). For גאל as an element of pre-exilic personal names, most of them explicitly theophoric, see <a href="#RootComparative-A1">Root and Comparative Material A.1</a> above.
 
 
 ## 7. Conclusion
@@ -702,8 +702,7 @@ Concordance</i>, vol. 1, Leiden: Brill.
 <div style="padding-left: 22px; text-indent: -22px;">
 Blau 1956
 <br>
-Joshua Blau, ‘Über homonyme und angeblich homonyme Wurzeln’, <i>VT</i> 6:
-242-48.
+Joshua Blau, ‘Über homonyme und angeblich homonyme Wurzeln’, <i>VT</i> 6:242-48.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
