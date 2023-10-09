@@ -4,4 +4,4 @@
 
 
 ### Related words
-[פֶּלֶךְ – spindle](../words/spindle.md)<br>
+[אוּרִים וְתֻמִּים – Urim Thummim](../words/Urim_Thummim.md)<br>[פֶּלֶךְ – spindle](../words/spindle.md)<br>
