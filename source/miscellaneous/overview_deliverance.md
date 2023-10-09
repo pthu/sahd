@@ -1,6 +1,11 @@
 # Overview of SAHD Entries for ‘Deliverance’ Words
 
-Author: Graham Davies
+Author: <a href="/sahd/contributors/graham_i._davies//">Graham Davies</a>   
+First published: 2011-01-01  
+Last update: 2023-05-16 (Raymond de Hoop and Paul Sanders)  
+Citation: Graham I. Davies, Overview of SAHD Entries for  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‘Deliverance’ Words (https://pthu.github.io/sahd), 2011 (update: 2023)
+
 
 
 ## Introduction
@@ -52,11 +57,8 @@ It is important to say that we are dealing with words that have such a
 <i>meaning</i>. There are other words which can <i>refer to</i> actions 
 of such a
 kind, although their meaning is somewhat different: for example, הוציא,
-‘bring out’, or העלה, ‘bring up’, with reference to the Exodus, 
-<span dir="rtl" lang="he">שׁפט</span>,
-‘judge’, and 
-<span dir="rtl" lang="he">רפא</span>,
-‘heal’. We do not include them. There are also various
+‘bring out’, or העלה, ‘bring up’, with reference to the Exodus, שׁפט,
+‘judge’ and רפא, ‘heal’. We do not include them. There are also various
 metaphors that may be used to represent deliverance, especially when the
 trouble is itself described metaphorically, as in Ps 18:17:
 
@@ -81,10 +83,10 @@ have reached.[^2]
 An obvious starting-point is the monograph of Sawyer (1972),
 <i>Semantics in Biblical Research: New Methods of Defining Hebrew Words
 for Salvation</i>, together with some related articles of 
-his (Sawyer 1965, 1967, 1968, 1975).[^3] The
+his (Sawyer 1965; 1967; 1968; 1975).[^3] The
 monograph’s title reflects its double aim: in Sawyer’s words ‘what
 started out as an analysis of several biblical terms became, as it were,
-a practical guide to describing the meaning of OT Hebrew’ (p. 2). Here
+a practical guide to describing the meaning of OT Hebrew’ (1972:2). Here
 we are mainly concerned with the former, narrower task, though Sawyer’s
 views about more general issues naturally inform his specific
 discussions and conclusions and will need to be referred to as well.
@@ -94,9 +96,9 @@ examine in detail only occurrences of ‘salvation-words’ in texts which
 directly address God (the prayer ‘register’). These he subdivides
 between six ‘styles’, which are defined initially by their introductory
 verbs and in cases where there is none by similarity of form and content
-(pp. 17-27, with a table on p. 27). Here Sawyer is only concerned with
+(1972:17-27, with a table on p. 27). Here Sawyer is only concerned with
 what he will later call the ‘lexical group’ of salvation-words which are
-‘very closely related to one another (p. 30): 
+‘very closely related to one another (1972:30): 
 <span dir="rtl" lang="he">הושׁיע</span>,
 <span dir="rtl" lang="he">הציל</span>, 
 <span dir="rtl" lang="he">חלץ</span>, 
@@ -114,31 +116,31 @@ to them.
 
 Before examining these words in detail, however, Sawyer devotes
 a chapter to a much wider group of lexemes which he calls ‘the
-associative field of HOŠIAʿ’ (pp. 29-58), an expression derived from the
+associative field of HOŠIAʿ’ (1972:29-58), an expression derived from the
 ideas of F. de Saussure and J. Trier: ‘a word’s associative field
 includes terms related to it at all levels (for instance synonyms,
-opposites, terms that rhyme with it or look like it)’ (p. 30). Sawyer’s
+opposites, terms that rhyme with it or look like it)’ (1972:30). Sawyer’s
 wider group contains some 200 items, which he classifies under 13
 headings derived from the meaning or social context of each item (see
 the table on p. 37): many are words used in a metaphorical sense.
 Although this collection of lexemes is acknowledged to be based largely
-on intuition (pp. 33-35), its value for ‘a general study of OT language
+on intuition (1972:33-35), its value for ‘a general study of OT language
 about salvation’ and its advantages over (as often elsewhere) a focus on
 a single word or root are properly noted. Among the words studied by us
 גאל and פדה have their place within this wider ‘field’, but they are not
 given any particular prominence.
 
-It is in chapters 4, 5 and 6 (pp. 60-101) that Sawyer turns his
+It is in chapters 4, 5 and 6 (1972:60-101) that Sawyer turns his
 attention to the narrower lexical group. Here the ideas of John Lyons’s
 <i>Structural Semantics</i> (1963) and Noam Chomsky’s transformational
-grammar (in the treatment of nouns: see pp. 62-67) are more influential.
+grammar (in the treatment of nouns: see 1972:62-67) are more influential.
 The approaches of the three chapters are clearly distinguished by their
 titles: ‘Synchronic Description’, ‘Historical Description’ and
 ‘Definition’. It is noted that הושׁיע and its related nouns (the latter
 actually outnumbering forms of the verb) are by far the most frequent
 members of the group in the ‘prayer register’, and the only ones to
 appear in prophetic examples of it. They have a wider associative field
-(including metaphors: pp. 54, 68-69) than, for example, הציל, which in
+(including metaphors: 1972:54, 68-69) than, for example, הציל, which in
 this register also has no nominalisations. On the other hand Sawyer
 claims that הושׁיע is less frequently transitive compared with other
 verbs in the group (this might be disputed) and the rarity of a
@@ -148,7 +150,7 @@ on p. 73).
 
 As for paradigmatic relations, Sawyer concentrates on
 reference (i.e. the extra-lingual feature referred to, as indicated by
-the wider context: p. 77) and opposition. Most of the evidence for the
+the wider context: 1972:77) and opposition. Most of the evidence for the
 former is in fact drawn from the words’ syntagmatic relations (subject,
 object etc.). In the prayer register the subject of הושׁיע is always
 Yahweh except in Hos 14:4, and this is generally the case with הציל
@@ -156,7 +158,7 @@ Yahweh except in Hos 14:4, and this is generally the case with הציל
 Of course such a limitation could well be due to the choice of register.
 עזר is used with a human ‘subject’ in Judg 5:23, which is taken to
 indicate its ‘more general application’ – a conclusion which is indeed
-borne out by its usage elsewhere (p. 81), but scarcely by the limited
+borne out by its usage elsewhere (1972:81), but scarcely by the limited
 evidence in the register taken alone. The object is always the speaker
 or his community (again this is not surprising in the register), and
 where specified is sometimes its leadership (though only with הושׁיע, as
@@ -197,21 +199,21 @@ to part of the definition desired.
 The ‘historical description’ in chapter 5 includes some reference to
 wider etymological relations outside Biblical Hebrew, and so represents
 a partial departure from the position of James Barr on this issue
-(see Barr 1961: 107-160; and e.g. Barr 2014a; 2014b.).<!--[^4]-->
+(see Barr 1961:107-160; and e.g. Barr 2014a; 2014b.).<!--[^4]-->
 But this does not extend to an acceptance of the long-popular but now
 generally discarded association of הושׁיע with Arabic <i>wasiʿa</i>, ‘be wide,
 spacious’: Sawyer accepts the evidence from Ugaritic and Epigraphic
 South Arabian that the second consonant of the root was originally <i>t</i>
-and not <i>s</i> (Sawyer 1972, 93-94; 
+and not <i>s</i> (Sawyer 1972:93-94; 
 cf. also Sawyer 1975).<!--[^5] -->
 Unfortunately the extra-biblical occurrences of the root
 are so far all in proper names, so they add nothing significant to our
 understanding of its meaning(s). From an examination of its usage within
 and beyond the prayer register Sawyer concludes that הושׁיע (i) ‘is
 applied almost exclusively to divine intervention or the activity of
-divinely appointed agents such as kings and judges’ (p. 94) and (ii)
+divinely appointed agents such as kings and judges’ (1972:94) and (ii)
 often has a ‘forensic’ meaning, though not necessarily a forensic origin
-(p. 95). These features are also evident in post-biblical Hebrew. הציל
+(1972:95). These features are also evident in post-biblical Hebrew. הציל
 and עזר (for which עדר occasionally occurs as a loan from Aramaic), on
 the other hand, have no special religious connotations, and this
 continues to be the case in later phases of Hebrew. The notion of
@@ -232,9 +234,9 @@ The final chapter on the lexical group (ch. 6, ‘Definition’) helpfully
 identifies the oppositions between different terms as regards frequency,
 nominalisation, transitivity, separation and religious context, and
 presents this information in three different ways, including a series of
-block diagrams (p. 111). The conclusions vary slightly, but according to
+block diagrams (1972:111). The conclusions vary slightly, but according to
 Sawyer not significantly, depending on whether occurrences in the
-register alone (pp. 103-05) or throughout the OT (pp. 105-11) are being
+register alone (1972:103-05) or throughout the OT (1972:105-11) are being
 considered.
 
 Detailed comments on some of Sawyer’s conclusions will follow in the
@@ -260,8 +262,7 @@ ancient Hebrew inscriptions, the Hebrew text of Ben Sira and the Dead
 Sea Scrolls, which arguably are much more relevant for the study of
 Biblical Hebrew.[^6]
 
-[^6]: I pass by here the important assessment of Sawyer’s work by Zatelli 1979:261-68, which tends to be appreciative of (some of) Sawyer’s results (e.g. 
-2017:267) but more critical of his pragmatic and eclectic methodology.
+[^6]: I pass by here the important assessment of Sawyer’s work by Zatelli 1979:261-68, which tends to be appreciative of (some of) Sawyer’s results (e.g. 2017:267) but more critical of his pragmatic and eclectic methodology.
 
 
 A wider range of occurrences of the words in question is reviewed in the
@@ -271,7 +272,7 @@ Their articles on the words studied here will be briefly
 surveyed, with special reference to controversial issues, before an
 overview of the SAHD entries themselves is given.
 
-[^7]: The occurrences in the Qumran texts are now much more fully treated in <i>ThWQ</i>.
+[^7]: G.J. Botterweck, <i>et al.</i> (eds), <i>Theologisches Wörterbuch zum Alten Testament</i> (Stuttgart: Kohlhammer, 1970ff.) (<i>ThWAT</i> / <i>TDOT</i>); E. Jenni & C. Westermann (eds), <i>Theologisches Handwörterbuch zum Alten Testament</i> (Munich: Chr. Kaiser, and Zürich: Theologischer Verlag, 1971, 1976) (<i>THAT</i> / <i>TLOT</i>); W.A. VanGemeren (ed.), <i>New International Dictionary of Old Testament Theology and Exegesis</i> (Carlisle: Paternoster, 1996) (<i>NIDOTTE</i>). The occurrences in the Qumran texts are now much more fully treated in H.-J. Fabry & U. Dahmen (eds), <i>Theologisches Wörterbuch zu den Qumrantexten</i>, (Stuttgart: Kohlhammer, 2011-16) (<i>ThWQ</i>).
 
 
 
@@ -328,7 +329,7 @@ the benefit to the person?).
 The general view is that מלט is a special Hebrew
 derivation from פלט. This conclusion sits a little awkwardly with the
 intra-Hebrew distribution of the words, which makes occurrences of פלט
-mainly ‘late’, as seen by <i>NIDOTTE</i>. <i>ThWAT</i> (Hasel 1989, 598) identifies a
+mainly ‘late’, as seen by <i>NIDOTTE</i>. <i>ThWAT</i> (Hasel 1989:598) identifies a
 distinction from הושׁיע (from Jenni), 
 with the latter being viewed as a
 subsequent action (or is it a summary word?). The distinction between
@@ -337,8 +338,7 @@ subsequent action (or is it a summary word?). The distinction between
 all three articles, though <i>THAT</i> (Ruprecht 1978) 
 claims that there is no distinction of
 meaning when they are used in parallel, and <i>NIDOTTE</i> finds evidence of
-both ‘from’ and ‘to’ with <span dir="rtl" lang="he">פלט</span>.
-For מלט it suggests ‘slip away safely’
+both ‘from’ and ‘to’ with פלט . For מלט it suggests ‘slip away safely’
 as basic. The idea of ‘escape’ is central, but this is obscured by 
 LXX’s use of σῴζω.
 
@@ -352,7 +352,7 @@ The nuance of ‘force’ is well recognised in <i>ThWAT</i> (Reiterer 1989) and
 <i>NIDOTTE</i> and <!-- NB Check stijl!!!-->
 helps to distinguish it. There is no entry for it in <i>THAT</i>. <i>NIDOTTE</i>
 also sees ‘separation’ as involved in some cases (nouns in 1 Samuel 4 and
-Obad 14; also the Daniel 4 BAram. occurrence).
+Obad. 14; also the Daniel 4 BAram. occurrence).
 
 
 <u>8. גאל.</u>   
@@ -386,25 +386,23 @@ of Sawyer’s inner ‘lexical group’, plus
 and 
 <span dir="rtl" lang="he">פרק</span>. Among the less
 frequent members of the inner group we have not (yet) dealt with חלץ and
-<span dir="rtl" lang="he">פצה</span>,
-but we recently decided to include
-<span dir="rtl" lang="he">פרק</span>,
-mainly because of the
+פצה , but we recently decided to include פרק , mainly because of the
 widespread use of its Aramaic cognate to render various members of the
 lexical group in the Targums and the Peshitta. גאל and פדה were placed
 by Sawyer in the wider ‘associative’ field of words for salvation, but
 we have included them because at least some of their uses come very
 close to those of the words in the inner group, as Sawyer himself
-acknowledges (p. 36; cf. p. 57). It is not entirely clear why he
+acknowledges (1972:36; cf. 57). It is not entirely clear why he
 excluded them from the inner group, but he was clearly convinced by the
 view that their general theological use is a metaphorical development
-from originally legal expressions (pp. 54-55) and perhaps this was the
+from originally legal expressions (1972:54-55) and perhaps this was the
 reason. If so, the argument is weakened, for him at least, by the idea
 that הושׁיע itself ‘was originally a forensic term’.[^9] Our own decision
 to include them finds some support in <i>NIDOTTE</i>’s definition of the
-semantic field of ‘salvation’ (5, pp. 165-66): it also includes שָׂרִיד,
+semantic field of ‘salvation’ (5:165-66): it also includes שָׂרִיד,
 ‘remnant’, presumably because of its relationship to nouns from the root
-פלט (though oddly not שְׁאֵרִית), and also שָׁלוֹם, whose semantic
+פלט
+(though oddly not שְׁאֵרִית), and also שָׁלוֹם, whose semantic
 relationship to ישׁועה and related words certainly deserves
 consideration. Such a study might also make reference to Aitken’s
 entry on ברכה.
@@ -438,7 +436,8 @@ earlier suggestion that the ‘forensic’ use is basic should be rejected.
 wealth, and occasionally in the Psalms and elsewhere also to defence,
 i.e. protection in advance from enemy attack. Use with מן is
 comparatively low (c. 23x, 12%) and Sawyer’s conclusion about its low
-‘transitivity’ should be noted (and perhaps re-examined): these features
+‘transitivity’ should be noted (and perhaps 
+re-examined): these features
 suggest that the focus of the verb is on the agent or the action rather
 than the beneficiary or the danger/need.
 
@@ -452,13 +451,13 @@ Their distribution is especially heavy in poetry (whereas the verb has
 over 35% of its occurrences in prose), mainly in the Psalms and Isaiah,
 though 11 of the 37 occurrences of תְּשׁוּעָה are in prose. All of them
 more often refer to a <i>state</i> of security than to an action that brings
-it about, and among them only יְשׁוּעָה exhibits a plural form (12x in
-BHeb.; also the hapax מוֹשָׁעָה). יֵשַׁע is particularly common in
+it about, and among them only יְשׁוּעָה exhibits a plural 
+form (12x in BHeb.; also the hapax מוֹשָׁעָה). יֵשַׁע is particularly common in
 descriptions of God, and it hardly ever refers to an action. תְּשׁוּעָה
 is not used at Qumran, unlike the other two nouns, but it does occur 3x
 in Ben Sira (and also in MHeb.). It is commonly derived from √שׁוּעַ, but
-without good reason: its meaning seems to be indistinguishable from
-יְשׁוּעָה.
+without good reason: its meaning seems to be indistinguishable from 
+<span dir="rtl" lang="he">יְשׁוּעָה</span>.
 The other two nouns (possibly) derived from √שׁוּעַ
  (otherwise
 it occurs only in PNs) seem to mean ‘great man’ (שׁוֹעַ: at least in the
@@ -492,14 +491,14 @@ reasonably deduce a basic sense of ‘remove’, whose prime specialisation
 a much rarer specialisation to ‘recovery’.
 
 
-<a id="Williams"></a><b>d.</b>  מלט and פלט : Our entry on פלט (by Williams) 
+<a id="Williams"></a><b>d.</b>  מלט and פלט: Our entry on פלט (by Williams) 
 points out that it
 is the Piel forms of the verb (34x) and the related nouns (c. 60x) which
 account for the great majority of the occurrences. The Qal, Niphal (only
 at Qumran) and Hiphil are all rare. Williams argues that, as partly
 observed in earlier studies, the meaning is overwhelmingly ‘bring to
 safety’ (so that LXX σῴζω is a very appropriate equivalent; 
-Williams 2002). 
+Williams 2002).  <!--[^10] -->  
 He observes that the process of rescue from danger or trouble is reflected
 in what may be imagined as a semantic ‘line’, with the idea of escape
 from hostile forces at one end and arrival at a place of safety at the
@@ -509,7 +508,7 @@ the opposite end of the line, i.e. the sense ‘escape’ (in the Niphal) or
 of nominal forms and PNs (indicating a settled state) from the root פלט
 in contrast to their rarity with מלט, by the striking difference in the
 proportions of occurrences associated with מן (69% with מלט, but only
-12% with פלט: noted already by Sawyer 1972, 108) and
+12% with פלט: noted already by Sawyer 1972:108) and
 syntagmatic relations with words such as נוס and ברח. These observations
 undermine the common view that the verbs מלט and פלט are ‘complementary’
 but essentially synonymous, with מלט supplying the passive forms and פלט
@@ -573,9 +572,7 @@ makes the meanings of the two verbs clearly distinct.
 one in BAram.) belong to the semantic field of
 salvation/deliverance. In the majority of its uses it refers to the
 violent removal of an object, or part of an object, not a person: so
-‘tear off’. The noun
-<span dir="rtl" lang="he">פֶּרֶק</span>, 
-‘plunder’, is clearly related to this
+‘tear off’. The noun פֶּרֶק, ‘plunder’ is clearly related to this
 meaning. Other nouns refer to bones or joints, probably as ‘broken’
 parts of the body of a human or an animal. Where the verb is used with a
 personal object, the idea of violent removal could still be present,
@@ -616,7 +613,7 @@ renderings has been done.[^11] It should be a valuable approach for the
 study of the Versions themselves, as well as for the semantics of the
 underlying Hebrew. There are of course considerable pitfalls and
 difficulties in the use of the Versions for any kind of study of the
-Hebrew Bible itself, and the warnings of Aitken (2007, 30-31)
+Hebrew Bible itself, and the warnings of Aitken (2007:30-31)
 need to be noted. What follows is only a preliminary and provisional
 account of what they may have to offer in this particular case.
 
@@ -631,25 +628,25 @@ account of what they may have to offer in this particular case.
 σῴζω is the clear preference for הושׁיע etc. and מלט (the latter
 especially with the Niphal). It also appears occasionally for 
 <span dir="rtl" lang="he">עזר</span>,
-<span dir="rtl" lang="he">הציל</span> 
+<span dir="rtl" lang="he">הציל</span>, 
 (esp. with the Niphal), פלט (where it is preferred by the Three) and
-<span dir="rtl" lang="he">פדה</span>.
+פדה.  
 It has a wide range of meaning, including ‘save from death’, ‘keep safe’
 and in the passive ‘be healed’ and ‘escape’. The associated nouns are
-often used in a religious sense. 
+often used in a religious sense.
 
-βοηθέω is regularly used for עזר etc., but also for הושׁיע. 
+βοηθέω is regularly used for עזר etc., but also for הושׁיע.  
 It means ‘help’, but also sometimes ‘come to the rescue’.
 
 ἐξαιρέω is one of the common equivalents for הציל, and it is also used
-for מלט and פלט. 
+for מלט and פלט.  
 It means ‘take out, take from’, and also ‘remove’, often in a negative
 sense but also (in the middle acc. LSJ) for ‘set free’.
 
 <span lang="el">ῥύομαι</span> is the other main equivalent for הציל and it is preferred for
 פלט. It sometimes appears as a rendering for הושׁיע and מלט, and
-occasionally for גאל (mainly in Isaiah where the subject is God) and 
-<span dir="rtl" lang="he">פדה</span>.
+occasionally for גאל (mainly in Isaiah where the subject is God) and
+פדה.  
 Its meaning in classical and later Greek is mainly ‘rescue, set free’
 and even ‘redeem’ (the sense ‘protect, defend’ is virtually confined to
 Homer). Unlike ἐξαιρέω, therefore, it is entirely used of a positive
@@ -659,7 +656,7 @@ outcome.
 difference that ἀγχιστεύω, ‘to be next of kin’, is also frequently used
 for גאל but not for פדה. λυτρόω/ομαι is also used for the cases of פרק
 which have a personal object, no doubt because of the sense ‘redeem’
-which that verb had in Aramaic. 
+which that verb had in Aramaic.  
 The meaning is ‘release on receipt of a ransom’ in the active and
 ‘release by the payment of a ransom, redeem’ in the middle.
 
@@ -685,8 +682,7 @@ recognises that this is not universal and the examples of ἀγχιστεύω 
 גאל help to identify a linguistic component that distinguishes these two
 verbs.
 
-[Our data on the <i>Jewish revisers</i> (Aquila, Theodotion, Symmachus) 
-are unfortunately still patchy (with
+[Our data on the <i>Jewish revisers</i> are unfortunately still patchy (with
 none at all on הושׁיע and הציל; but for the latter they tend towards
 ῥύομαι rather than ἐξαιρέω).[^12] The distinction between גאל and פדה by
 the use of ἀγχιστεύω for the former is more frequent in them. For פלט
@@ -703,9 +699,9 @@ notable differences.
 
 <i>salvo</i> is regularly used for הושׁיע and for the Piel forms not only of
 מלט but of פלט (see below on the renderings of other instances of these
-roots). 
+roots).  
 It is a late Latin word, derived from the classical adjective <i>salvus</i>,
-‘safe, sound’, and it is used in preference to the older <i>servo</i> (which
+‘safe, sound’ and it is used in preference to the older <i>servo</i> (which
 seems to mean ‘keep’ in the Vulgate).[^13] Perhaps it conveys a stronger
 sense of the normal state of well-being to which a person or group is
 being restored.
@@ -715,11 +711,12 @@ being restored.
 
 <i>auxilium/adiutorium</i> are used for the nouns from the root עזר, and the
 related verbs were often used for the verb, alongside a number of
-nominal renderings. They are sometimes found for הושׁיע too. 
-Lewis & Short, <i>LD</i> (p. 38) say that <i>adiuvo</i> is the general word, while <i>auxilior</i> is aid for the weak.
+nominal renderings. They are sometimes found for הושׁיע too.  
+Lewis & Short, <i>LD</i> (p. 38) say that <i>adiuvo</i> is the general word, while <i>auxilior</i> is
+aid for the weak.
 
 <i>eruo</i> is one of two common equivalents for הציל, but it seems not to be
-widely used otherwise (occasionally for פדה). 
+widely used otherwise (occasionally for פדה).  
 This verb, unlike ῥύομαι in Greek (and more like ἐξαιρέω), frequently
 has a neutral or even negative sense (like other compounds of <i>ruo</i>),
 but the positive use is also well attested: ‘rescue, release’. Still its
@@ -729,20 +726,21 @@ words in the lexical group.
 <i>libero</i> is also commonly used for הציל (especially the Niphal) and it
 appears occasionally for פדה and quite often for הושׁיע, though not as
 often as <i>salvo</i>. The neutral or negative senses of הציל are represented
-by various other words which mean ‘remove’ or ‘plunder’. 
+by various other words which mean ‘remove’ or ‘plunder’.  
 <i>libero</i>, from its association with <i>liber</i>, ‘free’, etc. has the
 primary sense of ‘free, release from slavery’, but it was also used much
 more widely of release from e.g. an obligation or a difficulty. It
 emphasises the cessation of trouble in the verbs it is used to
 translate.
 
-Words for ‘escape’ or ‘flee’ like <i>(ef)fugio</i> and <i>evado</i> are common as renderings of the Niphal of מלט and nouns derived from פלט.
+Words for ‘escape’ or ‘flee’ like <i>(ef)fugio</i> and <i>evado</i> are common as
+renderings of the Niphal of מלט and nouns derived from פלט.
 
 <i>redimo</i> is the most common equivalent for both גאל and פדה, but they
 are distinguished by the number of cases in which <i>propinquus</i> (in the
 sense ‘close relative’) is used for גאל and (phrases using) <i>pretium</i>
 for פדה, and not vice versa. פרק is also rendered by <i>redimo</i> in two of
-the three places where a person is the object. 
+the three places where a person is the object.  
 <i>redimo</i> means ‘buy back’ and particularly to ‘ransom’ a slave. The
 element of ‘recovery’ is, however, not always present and it could be
 used more generally for either ‘purchase’ or ‘acquire’.
@@ -764,10 +762,7 @@ Gen 32:31[30]) of <i>salvo</i> for הציל.
 The renderings of גאל and פדה (and פרק) again reflect both their
 similarity and difference.
 
-
-
-<b>Targums</b>:  
- סְעַד and סיע (but not עדר) are naturally used for עזר, but
+<b>Targums</b>: סְעַד and סיע (but not עדר) are naturally used for עזר, but
 interestingly they are not used for הושׁיע.  
 The meaning of סְעַד according to Jastrow (<i>DTT</i>, 1009)
 is normally ‘assist, help’,
@@ -786,7 +781,7 @@ But there are two instances of נצחנא, ‘victory’, for הושׁיע, and f
 גאל
  there are two instances of קרב, indicating family relationship,
 while in the ‘vengeance’ passages גאל is retained as a loan-word in
-Tg<small><sup>O</sup></small> and Tg<small><sup>J</sup></small> and תְּבַע, ‘seek, claim’, is used in the
+Tg<sup>O</sup> and Tg<sup>J</sup> and תְּבַע, ‘seek, claim’, is used in the
 Palestinian Tgs. 
 The extensive use of פרק is made possible by its wide range of meaning
 in Aramaic (on this see further 1. Root and Comparative Material A.2 in
@@ -800,14 +795,12 @@ Targumic renderings.
  is the other expression that is frequently used. It is the
 regular equivalent for הציל (though רוק is used for the Piel and עדי for
 the Hithpael, and פְּצָא frequently appears in Psalms, Job and Proverbs),
-<span dir="rtl" lang="he">מלט</span> and <span dir="rtl" lang="he">פלט</span>,
-and it sometimes appears for <span dir="rtl" lang="he">גאל</span>. The meaning of <span dir="rtl" lang="he">שֵׁיזֵ(י)ב</span>
+מלט and פלט, and it sometimes appears for גאל.  
+The meaning of 
+שֵׁיזֵ(י)ב
 is ‘release, save’ (Jastrow, <i>DTT</i>, 1558), ‘save’ (CAL).
 
-
-<span dir="rtl" lang="he">פְּלַט</span> 
-is occasionally used for <span dir="rtl" lang="he">מלט</span> 
-and <span dir="rtl" lang="he">פלט</span>. 
+פְּלַט is occasionally used for מלט and פלט.  
 In Aramaic פְּלַט has the meanings ‘discharge (from the body)’ and
 ‘escape’ (Jastrow, <i>DTT</i>, 1179): CAL attributes the meanings ‘eject’ and 
 ‘escape’ to
@@ -817,10 +810,10 @@ use of Latin <i>effugio</i>), but not for others, since it lacks an active
 transitive use for ‘deliver’.
 
 פְּצָא
- is occasionally used. It is not found in Tg<small><sup>O</sup></small>, Tg<small><sup>J</sup></small>,
-Tg<small><sup>PsJ</sup></small> or apparently in the Palestinian Tgs. But it is
+ is occasionally used. It is not found in Tg<sup>O</sup>, Tg<sup>J</sup>,
+Tg<sup>PsJ</sup> or apparently in the Palestinian Tgs. But it is
 frequent in the Pss, Job and Proverbs, especially for הציל. This may be
-connected with the frequency of <i>pṣʾ </i> in the Peshitta (see below).
+connected with the frequency of <i>pṣā</i> in the Peshitta (see below).
 
 The concentration on two equivalents in the Targums may have tended to
 blur distinctions within the lexical group. But it would be interesting
@@ -842,74 +835,59 @@ and
 <b>Peshitta</b>: The distribution of equivalents is very similar to the
 Targums, but there are some notable differences in the words employed.
 
- ܥܕܪ
-(<i>ʿdr</i>) is generally used for עזר, instead of סְעַד and סיע. The absence
+<i>ʿdar</i> is generally used for עזר, instead of סְעַד and סיע. The absence
 of the latter is the more surprising, as it exists in Syriac in the same
-sense. ܥܕܪ 
-(<i>ʿdr</i>) is also very rarely used for הושׁיע. 
-The meaning of ܥܕܪ
-(<i>ʿdr</i>) is ‘help, assist’.
+sense. <i>ʿdar</i> is also very rarely used for הושׁיע.  
+The meaning of <i>ʿdr</i> is ‘help, assist’.
 
-ܦܪܩ
-(<i>prq</i>) is again the main equivalent for 
+<i>praq</i> is again the main equivalent for 
 <span dir="rtl" lang="he">הושׁיע</span>,
 <span dir="rtl" lang="he">גאל</span>,
 <span dir="rtl" lang="he">פדה</span>, 
 and Heb. <span dir="rtl" lang="he">פרק</span>.
 In the case of הושׁיע this extends to renderings of שׁוֹעַ and שׁוּעַ (cf.
-Vg 1x, Tg 1x). There are again two instances of הושׁיע being rendered by ܢܨܚܢܐ
-(<i>neṣḥānā</i>), ‘victory’. 
-For <span dir="rtl" lang="he">גאל</span> 
-<span dir="rtl" lang="-">ܬܒܥ</span> 
-(<i>tbʿ </i>) again occurs in the
+Vg x1, Tg x1). There are again two instances of הושׁיע being
+rendered by <i>nṣḥnʾ</i>, ‘victory’. For גאל <i>tbaʿ</i> again occurs in the
 ‘vengeance’ passages, but more surprisingly also in Ruth; and there are
-three instances of <span dir="rtl" lang="-">ܩܪܒ</span>
-(<i>qrb</i>) being used to mark the ‘family’ dimension.
-<span dir="rtl" lang="-">ܦܪܩ</span>
-(<i>prq</i>) is also occasionally used for <span dir="rtl" lang="he">הציל</span>.
+three instances of <i>qrab</i> being used to mark the ‘family’ dimension.
+<i>praq</i> is also occasionally used for הציל.
 
-ܦܨܐ
-(<i>pṣʾ </i>) is also widely used: it is the main equivalent for הציל and the
+<i>pṣā</i> is also widely used: it is the main equivalent for הציל and the
 Piel and Niphal forms of מלט and פלט (but not so prominently for the
-nouns). It is also found occasionally for הושׁיע and פדה. 
-The meaning of ܦܨܐ
-(<i>pṣʾ </i>) is given as ‘deliver, set free’ by 
+nouns). It is also found occasionally for הושׁיע and פדה.  
+The meaning of <i>pṣā</i> is given as ‘deliver, set free’ by 
 Payne Smith (<i>CSD</i>, 454); CAL (under <i>pṣy</i>) gives ‘save’. 
 The latter’s citations
 imply that it is found in Jewish Aramaic [JBA presumably = ‘Jewish
 Babylonian Aramaic’], but it is also well attested in Christian
 Palestinian Aramaic, Samaritan Aramaic and Syriac. In the latter (to
-judge at least from our Peshitta data) it has largely displaced 
-<span dir="rtl" lang="-">ܫܝܙܒ</span> (<i>šyzb</i>).
+judge at least from our Peshitta data) it has largely displaced <i>šyzb</i>.
 
-<span dir="rtl" lang="-">ܫܝܙܒ</span> (<i>šyzb</i>)
-is used for noun-forms from 
-<span dir="rtl" lang="he">פלט</span> and some instances of <span dir="rtl" lang="he">מלט</span> and 
-<span dir="rtl" lang="he">פדה</span>,
-but not at all apparently for 
-<span dir="rtl" lang="he">הציל</span>. 
+<i>šyzb</i> is used for noun-forms from פלט and some instances of מלט and
+פדה,
+but not at all apparently for הציל.  
 Payne Smith (<i>CSD</i>, 304–05) cites some derivatives,
-referring them to the root 
-<span dir="rtl" lang="-">ܝܙܒ</span>
-(<i>yzb</i>), but its entry for the verb is as
-<span dir="rtl" lang="-">ܫܘܙܒ</span>
-(<i>šwzb</i>; <i>CSD</i>, 564). From the derivatives it looks as though it acquired a
-strongly (Christian) theological meaning in Syriac. It is given the meaning ‘save’ in CAL.
+referring them to the root <i>yzb</i>, but its entry for the verb is as
+<i>šwzb</i> on p. 564. From the derivatives it looks as though it acquired a
+strongly (Christian) theological meaning in Syriac. It is given the
+meaning ‘save’ in CAL.
 
-<span dir="rtl" lang="-">ܦܠܛ</span>
-(<i>plṭ</i>) is found occasionally for פלט and more frequently for מלט. 
-In Syriac <span dir="rtl" lang="-">ܦܠܛ</span>
-(<i>plṭ</i>) means ‘escape, slip away’ and in the Pael both ‘save’ and ‘eject, vomit’.
+<i>plṭ</i> is found occasionally for פלט and more frequently for מלט.  
+In Syriac <i>plṭ</i> means ‘escape, slip away’ and in the Pael both ‘save’
+and ‘eject, vomit’.
 
-Of the major variations from Targumic renderings in the Peshitta the use of 
-<span dir="rtl" lang="he">ܥܕܪ</span> (<i>ʿdr</i>) instead of 
-<span dir="rtl" lang="he">ܣܥܕ</span> (<i>sʿd</i>) is readily explicable by dialectal differences. The extensive substitution of 
-<span dir="rtl" lang="he">ܦܨܐ</span> (<i>pṣʾ </i>) for 
-<span dir="rtl" lang="he">ܫܝܙܒ</span> (<i>šyzb</i>) is less easy to understand, since the latter verb certainly existed in Syriac and was sometimes used for members of the lexical group in the Peshitta. Is there again a dialectal difference behind this, or is there some other reason (perhaps a theological one) for the favouring of 
-<span dir="rtl" lang="he">ܦܨܐ</span> (<i>pṣʾ </i>)? In any 
-case the broad division of the words other than עזר into two groups is again reflected in the Syriac renderings, whatever exactly the perceived difference between them was. It may be noted, among less common equivalents, how the special uses of גאל and nominal/passive forms of <span dir="rtl" lang="he">מלט</span> and 
-<span dir="rtl" lang="he">פלט</span>
-are again identified in the Peshitta.
+Of the major variations from Targumic renderings in the Peshitta the use
+of <i>ʿdar</i> instead of <i>sʿd</i> is readily explicable by dialectal
+differences. The extensive substitution of <i>pṣā</i> for <i>šyzb</i> is less easy
+to understand, since the latter verb certainly existed in Syriac and was
+sometimes used for members of the lexical group in the Peshitta. Is
+there again a dialectal difference behind this, or is there some other
+reason (perhaps a theological one) for the favouring of <i>pṣā</i>? In any
+case the broad division of the words other than עזר into two groups is
+again reflected in the Syriac renderings, whatever exactly the perceived
+difference between them was. It may be noted, among less common
+equivalents, how the special uses of גאל and nominal/passive forms of
+מלט and פלט are again identified in the Peshitta.
 
 #### (ii) The Word-Groups One by One
 
@@ -946,7 +924,7 @@ other members of the group (but see above on הושׁיע).
 
 הציל.
 First, it may be noted that the minority sense ‘remove’ is
-recognised in some renderings of LXX (σκυλεύω), Vg and Tg. The use
+recognised in some renderings of LXX (σκυλεύω), Vg and Tg The use
 of ἐξαιρέω and <i>eruo</i> alongside ῥύομαι and <i>libero</i> might also be a
 reflection of this aspect of the word’s meaning: they are less common
 (though ἐξαιρέω at least does appear) as renderings of מלט and פלט,
@@ -959,9 +937,7 @@ strongly present in the regular renderings of
 and also 
 <span dir="rtl" lang="he">מלט</span>
 into Aramaic (Tg generally שׁיזב, but some cases of פצי in the
-Tg<small><sup>K</sup></small>; Pesh generally 
-<span dir="rtl" lang="–">ܦܨܝ</span> [<i>pṣy</i>], but also 
-<span dir="rtl" lang="–">ܫܝܙܒ</span> [<i>šyzb</i>]).
+Tg<sup>K</sup>; Pesh generally <i>pṣy</i>, but also <i>šyzb</i>).
 
 מלט and פלט.
  LXX marks a distinction between these words (and
@@ -984,16 +960,16 @@ clear, from the use of ἀγχιστεύω and words like <i>propinquus</i> (t
 dimension appears only infrequently, it seems, in Tg and Pesh). In Tg
 and Pesh the reference to vengeance is marked either by the retention of
 גאל
- as a loanword (in Tg<small><sup>O</sup></small> and Tg<small><sup>J</sup></small>) or by the use of 
-<span dir="rtl" lang="he">תבע</span>/ <span dir="rtl" lang="–">ܬܒܥ</span> (<i>tbʿ </i>)
+ as a loanword (in Tg<sup>O</sup> and Tg<sup>J</sup>) or by the use of 
+<span dir="rtl" lang="he">תבע</span>/<i>tbʿ</i>
 (Palestinian Tgs and Pesh). 
-In Pesh <span dir="rtl" lang="–">ܬܒܥ</span> (<i>tbʿ </i>)&nbsp;is, more surprisingly, also
+In Pesh <i>tbʿ</i> is, more surprisingly, also
 used in Ruth, perhaps in the more general sense of ‘making a claim’ for
 someone. The wider sense of ‘deliverance’ is also recognised in some
 uses of ῥύομαι, <i>libero</i> and שׁיזב.
 
 פדה. See above on גאל and also on הושׁיע. The idea of payment is
-sometimes reinforced by <i>pretium</i> in Vg. References to family
+sometimes reinforced by <i>pretium</i> in Vg References to family
 connections do not appear in the Versions’ renderings. A more general
 meaning ‘deliver’ appears in the use of ῥύομαι or σῴζω, <i>libero</i> or
 <i>eruo</i> and <i>pṣy</i> or <i>šyzb</i>.
@@ -1001,7 +977,7 @@ meaning ‘deliver’ appears in the use of ῥύομαι or σῴζω, <i>
 פרק. In LXX and Vg words for ‘redeem’ are used where there is a
 personal object, no doubt as a reflection of this sense in Aramaic;
 elsewhere a variety of words for ‘removal’ are used. In Tg and Pesh the
-use of <span dir="rtl" lang="he">פרק</span>/ <span dir="rtl" lang="–">ܦܪܩ</span> (<i>prq</i>) itself occurs more widely as a result of its various
+use of <span dir="rtl" lang="he">פרק</span>/prq</i> itself occurs more widely as a result of its various
 meanings, which include ‘remove’. 
 
 #### (iii) Summary
@@ -1022,7 +998,7 @@ and its links with הושׁיע are also reflected in the Versions.
 On the other hand our survey has exposed a tendency to blur the
 differences between the lexemes by the use of a restricted number of
 equivalents for them. This is particularly noticeable in the Tg and Pesh
-where two Aramaic words predominate in each case (the Tg<small><sup>K</sup></small> 
+where two Aramaic words predominate in each case (the Tg<sup>K</sup> 
 side with Pesh for some reason in the specific vocabulary used)
 and divide the group (with the exception of עזר) into two broad
 divisions. The Versions’ renderings also leave the position of הושׁיע
@@ -1106,7 +1082,7 @@ Another issue that arises about this lexical field is whether some or
 all of its members have an essential or predominant theological
 component to their meaning. This was maintained by Sawyer for הושׁיע,
 which he suggested was ‘one of a small group of “disinfected” words (cf.
-BARAʾ  ‘to create’), properly used only where YHWH or his appointed
+BARAʾ ‘to create’), properly used only where YHWH or his appointed
 leader is subject’.[^17] Similarly it has been maintained that הציל is
 used ‘overwhelmingly with a divine subject’.[^18] Even within the Old
 Testament corpus this plays down the significance of those places where
@@ -1135,7 +1111,7 @@ instances of the verbs being used with a human subject to show that it
 is not their meaning but their usage that has a strong theological
 dimension there.
 
-[^17]: Sawyer 1972:103. He seems to have overlooked the occurrences of the Piel of ברא for ‘cut out’ in Josh 17:15, Ezek 21:24, 23:46-47.
+[^17]: Sawyer 1972:103. He seems to have overlooked the occurrences of the Piel of ברא for ‘cut out’ in Josh 17:15; Ezek 21:24; 23:46-47.
 [^18]: R.L. Hubbard, <i>NIDOTTE</i>, 3:141-47.
 
 
@@ -1201,7 +1177,7 @@ available, not to find answers to all the questions that we or others
 might have. It is a tool for further research, which can be modified in
 the light of it, not the last word on the semantics of ancient Hebrew.
 
-January 2011, revised December 2017
+
 
 ## Table of Entries and Authors
 
@@ -1472,8 +1448,8 @@ th:nth-child(even),td:nth-child(even) {
 
 ## Bibliography
 
-For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+For the abbreviations see:
+<a href="/sahd/store/abbreviations">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1502,26 +1478,27 @@ Biblical Hebrew’, in: John Barton (ed.), <i>Bible and Interpretation: The Coll
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Barth 1977 [1981]
+Barth 1977
 <br>
-Christoph Barth, ‘חלץ’, <i>ThWAT</i> 2:1003–8 (ET 1981: <i>TDOT</i> 4:436–41).
+Ch. Barth, 'חלץ', in: <i>ThWAT</i> 2:1003–08.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Bergmann 1978a
 <br>
-U. Bergmann, ‘נצל hi. – retten’, <i>THAT</i> 2:96–99. 
+U. Bergmann, 'נצל hi. – retten', in: <i>THAT</i> 2:96–99. 
 </div> 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Bergmann 1978b
 <br>
-U. Bergmann, ‘עזר – helfen’, <i>THAT</i> 2:256–59. 
+U. Bergmann, 'עזר – helfen', in: <i>THAT</i> 2:256–59. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Cazelles 1989 [2001]<br>
-Henri Cazelles, ‘פָּדָה’, <i>ThWAT</i> 6:514—22 (ET 2001: <i>TDOT</i> 11:483–90).
+Cazelles 1989
+<br>
+Henri Cazelles, 'פָּדָה', in: <i>ThWAT</i> 6:514—22.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1546,27 +1523,27 @@ Alison R. Gray, <i>Psalm 18 in Words and Pictures: A Reading through Metaphor</i
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Hasel 1989 [2001]
+Hasel 1989
 <br>
-G.F. Hasel, ‘פָּלַט’, <i>ThWAT</i> 6:589–606 (ET 2001: <i>TDOT</i> 11: 551–67).
+G.F. Hasel, 'פָּלַט', in: <i>ThWAT</i> 6:589–606.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Hossfeld and Kalthoff 1986 [1998]
+Hossfeld and Kalthoff 1986
 <br>
-Frank-Lothar Hossfeld, and B. Kalthoff, ‘נצל’, <i>ThWAT</i> 5:570–77 (ET 1998: <i>TDOT</i> 9:533–40).
+F.L. Hossfeld, and B. Kalthoff, 'נצל', in: <i>ThWAT</i> 5:570–77.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 King 2012
 <br>
-Phillip D. King, <i>Surrounded by Bitterness: Image Schemas and Metaphors for Conceptualising Distress in Classical Hebrew</i>, Eugene: Pickwick Publications.
+Phillip D. King, <i>Surrounded by Bitterness: Image Schemas and Metaphors for Conceptualising Distress in Classical Hebrew</i> Eugene: Pickwick Publications.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Lipiński and Fabry 1989 [2001]
+Lipiński and Fabry 1989
 <br>
-Edward Lipiński, and Heinz-Josef Fabry, ‘עזר’, <i>ThWAT</i> 6:14–21 (ET 2001: <i>TDOT</i> 11:12-18).
+Edward Lipiński, and Heinz-Josef Fabry, 'עזר', in: <i>ThWAT</i> 6:14–21.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1586,49 +1563,53 @@ Takamitsu Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> (AbrNSup, 6), Leuven
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Reiterer 1989 [2003]<br>
-Friedrich Reiterer, ‘פָּרַק’, <i>ThWAT</i> 6:770–73 (ET 2003: <i>TDOT</i> 12:111–14).
+Reiterer 1989  
+<br>
+F. Reiterer, 'פָּרַק', in: <i>ThWAT</i> 6:770—73.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Ringgren 1973 [1975]<br>
-Helmer Ringgren, ‘גָּאַל’, <i>ThWAT</i> 1:884–90 (ET 1975: <i>TDOT</i> 2:350–55).
+Ringgren 1973
+<br>
+Helmer Ringgren, 'גָּאַל', in: <i>ThWAT</i> 1:884–90.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ruprecht 1978
 <br>
-E. Ruprecht, ‘פלט pi. – retten’, <i>THAT</i> 2:420–27. 
+E. Ruprecht, 'פלט pi. – retten', in: <i>THAT</i> 
+2:420–27. 
 </div> 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1965
 <br>
-John F.A. Sawyer, ‘What was a <i>mošiaʿ </i>?’, <i>VT</i> 15:475-86.
+John F. A. Sawyer, ‘What was a <i>mošiaʿ</i>?’, 
+<i>VT</i> 15:475-86.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1967
 <br>
-John F.A. Sawyer, ‘Root-meanings in Hebrew’, <i>JSS</i> 12:37-50.
+John F. A. Sawyer, ‘Root-meanings in Hebrew’, <i>JSS</i> 12:37-50.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1968
 <br>
-John F.A. Sawyer, ‘Spaciousness. An Important Feature of Language about Salvation in the Old Testament’, <i>ASṭ</i> 6:20-34.
+John F. A. Sawyer, ‘Spaciousness. An Important Feature of Language about Salvation in the Old Testament’, <i>ASTI</i> 6:20-34.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1972
 <br>
-John F.A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining Hebrew Words for Salvation</i> (SBT 2nd series, 24), London: SCM Press.
+John F. A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining Hebrew Words for Salvation</i>, (SBT 2nd series, 24), London: SCM Press.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1975
 <br>
-John F.A. Sawyer, ‘A Historical Description of the Hebrew Root <i>yšʿ </i>’, in: 
+John F. A. Sawyer, ‘A Historical Description of the Hebrew Root <i>yšʿ</i>’, in: 
 James and Theodora Bynon (eds.),
 <i>Hamito-Semitica: Proceedings of a Colloquium Held by the Historical Section of the Linguistics Association (Great Britain) at the School of Oriental and African Studies, University of London, March 1970</i>
 (Janua Linguarum. Series Practica, 200), The Hague: Mouton,  75-84.
@@ -1637,7 +1618,7 @@ James and Theodora Bynon (eds.),
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1982
 <br>
-John F.A. Sawyer, ‘ישׁע’, <i>ThWAT</i> 3:1035–59 (ET 1990: <i>TDOT</i> 6:441-63). 
+John F. A. Sawyer, 'ישׁע', in: <i>ThWAT</i> 3:1035–59 (ET 1990: <i>TDOT</i> 6:441-63). 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1649,19 +1630,20 @@ Johann J. Stamm, <i>Erlösen und Vergeben im Alten Testament</i>, Bern: Francke-
 <div style="padding-left: 22px; text-indent: -22px;">
 Stamm 1978a
 <br>
-Johann J. Stamm, ‘גאל – erlösen’, <i>THAT</i> 1:383–94. 
+Johann J. Stamm, 'גאל – erlösen', in: <i>THAT</i> 
+1:383–94. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Stamm 1978b
 <br>
-Johann J. Stamm, ‘פדה – auslösen, befreien’, <i>THAT</i> 2:389–406.  
+Johann J. Stamm, 'פדה – auslösen, befreien', in: <i>THAT</i> 2:389–406.  
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Stolz 1978
 <br>
-Fritz Stolz, ‘ישׁע hi. – helfen’, <i>THAT</i> 1:785–90. 
+F. Stolz, 'ישׁע hi. – helfen', in: <i>THAT</i> 1:785–90. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1679,16 +1661,16 @@ Francesco Zanella, <i>The Lexical Field of the Substantives of “Gift” in Anc
 <div style="padding-left: 22px; text-indent: -22px;">
 Zatelli 1979
 <br>
-Ida Zatelli, ‘L’ebraico biblico in alcune tendenze dell’attuale ricerca linguistica", 
-<i>Henoch</i> 1:246–71.
+Ida Zatelli, "L’ebraico biblico in alcune tendenze dell’attuale ricerca linguistica", <i>Henoch</i> 
+1:246–71.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Zatelli 1995
 <br>
-Ida Zatelli, ‘Functional Languages and their Importance in the Semantics of Ancient Hebrew’, in: Muraoka 
-1995a:55-64.
-</div> 
+Ida Zatelli, ‘Functional Languages and their Importance in the Semantics of Ancient Hebrew’, in: 
+Muraoka 1995a:55-64.
+</div>
 
 <!--
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1704,7 +1686,7 @@ Author, Title, etc.
 </div>
 -->
 
-## Notes
+### Notes
 
 
 
