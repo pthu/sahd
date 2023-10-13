@@ -21,6 +21,43 @@ def read_args():
     return input, output, formatting
 
 
+def hebrew_character(c):
+    return 0x0590 <= ord(c) <= 0x05FF or 0xFB1D <= ord(c) <= 0xFB4F
+
+
+def hebrew(line):
+    s = ""
+    in_hebrew = False
+    char = line[0]
+    prev_char = char
+    i = 1
+    while i < len(line):
+        next_char = line[i]
+        if hebrew_character(char):
+            if not in_hebrew:
+                if not prev_char == "":
+                    s += ' '
+                s += '<span dir="rtl">'
+                in_hebrew = True
+        else:
+            if in_hebrew:
+                if char == " " and hebrew_character(next_char):
+                    in_hebrew = True
+                else:
+                    s += '</span>'
+                    in_hebrew = False
+        s += char
+        prev_char = char
+        char = next_char
+        i += 1
+
+    s += char
+    if in_hebrew:
+        s += '<span dir="rtl">'
+
+    return s
+
+
 def convert(input, output, md_formatting):
     doc = fitz.open(input)
     text = ""
@@ -38,6 +75,7 @@ def convert(input, output, md_formatting):
                     line = re.sub(r"^\s*([0-9]+\.\s.*)", r"## \1", line)                  # headers
                     line = re.sub(r"^\s*([0-9]\.[0-9])(\s.*$)", r"###\1 \2", line)        # main sub-headers
                     line = re.sub(r"^\s*([a-zA-Z]?[0-9.]+)(\s.*$)", r"**\1** \2", line)   # other sub-headers
+                    line = hebrew(line)
                     if line.strip().lower() == "introduction":
                         line = "##Introduction\n"
                     if line.strip().lower() == "conclusion":

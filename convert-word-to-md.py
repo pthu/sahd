@@ -19,6 +19,43 @@ def read_args():
     return input, output
 
 
+def hebrew_character(c):
+    return 0x0590 <= ord(c) <= 0x05FF or 0xFB1D <= ord(c) <= 0xFB4F
+
+
+def hebrew(line):
+    s = ""
+    in_hebrew = False
+    char = line[0]
+    prev_char = char
+    i = 1
+    while i < len(line):
+        next_char = line[i]
+        if hebrew_character(char):
+            if not in_hebrew:
+                if not prev_char == "":
+                    s += ' '
+                s += '<span dir="rtl">'
+                in_hebrew = True
+        else:
+            if in_hebrew:
+                if char == " " and hebrew_character(next_char):
+                    in_hebrew = True
+                else:
+                    s += '</span>'
+                    in_hebrew = False
+        s += char
+        prev_char = char
+        char = next_char
+        i += 1
+
+    s += char
+    if in_hebrew:
+        s += '<span dir="rtl">'
+
+    return s
+
+
 def footnotes(line):
     superscripts ={0x00B2: 0x0032, 0x00B3: 0x33, 0x00B9: 0x31, 0x2070: 0x30, 0x2074: 0x34, 0x2075: 0x35, 0x2076: 0x36, 0x2077: 0x37, 0x2078: 0x38, 0x2079: 0x39}
     s = ""
@@ -65,6 +102,7 @@ def convert(input, output):
                     line = "##" + line.strip()
                 if line.strip().startswith("**"):
                     line = "\n" + line
+                line = hebrew(line)
                 line = footnotes(line)
                 f.write(line)
 
