@@ -6,7 +6,7 @@ semantic_fields: deliverance
 contributors: james_k._aitken, graham_i._davies  
 first_published: 2016-01-01  
 last_update: 2023-05-16 (Raymond de Hoop, Paul Sanders)  
-
+shebanq_id: https://shebanq.ancient-data.org/hebrew/word?id=1JCOv&mr=r&qw=w  
 
 ---
 
