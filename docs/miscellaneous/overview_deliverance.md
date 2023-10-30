@@ -815,7 +815,8 @@ transitive use for ‘deliver’.
  is occasionally used. It is not found in Tg<sup>O</sup>, Tg<sup>J</sup>,
 Tg<sup>PsJ</sup> or apparently in the Palestinian Tgs. But it is
 frequent in the Pss, Job and Proverbs, especially for הציל. This may be
-connected with the frequency of <i>pṣā</i> in the Peshitta (see below).
+connected with the frequency of ܦܨܐ/ܦܨܝ
+(<i>pṣʾ</i>/<i>pṣy</i>) in the Peshitta (see below).
 
 The concentration on two equivalents in the Targums may have tended to
 blur distinctions within the lexical group. But it would be interesting
@@ -834,15 +835,15 @@ with
 and 
 <span dir="rtl" lang="he">פלט</span>.
 
-<b>Peshitta</b>: The distribution of equivalents is very similar to the
-Targums, but there are some notable differences in the words employed.
+<b>Peshitta</b>: The distribution of equivalents is very similar to the Targums, but there are some notable differences in the words employed.
 
-<i>ʿdar</i> is generally used for עזר, instead of סְעַד and סיע. The absence
+ܥܕܪ
+(<i>ʿdr</i>) is generally used for עזר, instead of סְעַד and סיע. The absence
 of the latter is the more surprising, as it exists in Syriac in the same
-sense. <i>ʿdar</i> is also very rarely used for הושׁיע.  
-The meaning of <i>ʿdr</i> is ‘help, assist’.
+sense.  ܥܕܪ (<i>ʿdr</i>) is also very rarely used for הושׁיע.  
+The meaning of  ܥܕܪ (<i>ʿdr</i>) is ‘to help, assist’.
 
-<i>praq</i> is again the main equivalent for 
+(<i>praq</i>) is again the main equivalent for 
 <span dir="rtl" lang="he">הושׁיע</span>,
 <span dir="rtl" lang="he">גאל</span>,
 <span dir="rtl" lang="he">פדה</span>, 
@@ -854,18 +855,22 @@ rendered by <i>nṣḥnʾ</i>, ‘victory’. For גאל <i>tbaʿ</i> again occu
 three instances of <i>qrab</i> being used to mark the ‘family’ dimension.
 <i>praq</i> is also occasionally used for הציל.
 
-<i>pṣā</i> is also widely used: it is the main equivalent for הציל and the
+ ܦܨܐ/ܦܨܝ
+(<i>pṣʾ</i>/<i>pṣy</i>)[^10a] is also widely used: it is the main equivalent for הציל and the
 Piel and Niphal forms of מלט and פלט (but not so prominently for the
 nouns). It is also found occasionally for הושׁיע and פדה.  
 The meaning of <i>pṣā</i> is given as ‘deliver, set free’ by 
-Payne Smith (<i>CSD</i>, 454); CAL (under <i>pṣy</i>) gives ‘save’. 
+Payne Smith (<i>CSD</i>, 454); CAL and Sokoloff (<i>SLB</i>, 1219) give ‘to save, deliver’. 
 The latter’s citations
-imply that it is found in Jewish Aramaic [JBA presumably = ‘Jewish
-Babylonian Aramaic’], but it is also well attested in Christian
+imply that it is found in Jewish Aramaic 
+[JBA presumably = ‘Jewish Babylonian Aramaic’], but it is also well attested in Christian
 Palestinian Aramaic, Samaritan Aramaic and Syriac. In the latter (to
-judge at least from our Peshitta data) it has largely displaced <i>šyzb</i>.
+judge at least from our Peshitta data) it has largely displaced ܫܝܙܒ
+(<i>šyzb</i>).
 
-<i>šyzb</i> is used for noun-forms from פלט and some instances of מלט and
+[^10a]: Payne Smith (CSD, 454) lists the word as ܦܨܐ (<i>pṣʾ</i>), while Sokoloff, <i>SLB</i>, 1219, and CAD list the word as <span dir="rtl" lang="–">ܦܨܝ</span> (<i>pṣy</i>).
+
+<span dir="rtl" lang="–">ܫܝܙܒ</span> (<i>šyzb</i>) is used for noun-forms from פלט and some instances of מלט and
 פדה,
 but not at all apparently for הציל.  
 Payne Smith (<i>CSD</i>, 304–05) cites some derivatives,

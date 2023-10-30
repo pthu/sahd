@@ -5,12 +5,12 @@ title:
 semantic_fields: deliverance  
 contributors: james_k._aitken, graham_i._davies  
 first_published: 2016-01-01  
-last_update: 2023-05-16 (Raymond de Hoop and Paul Sanders)  
+last_update: 2023-05-16 (Raymond de Hoop, Paul Sanders)  
 
 
 ---
 
-For a fuller discussion of the lexical field ‘Deliverance’ as a whole see on this site the 
+For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
 <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
@@ -60,7 +60,9 @@ to the hiphil להושׁיע, the error in B being explicable by the easy loss
 of a <i>yodh</i>.
 
 
-<b>B.1</b>  Although the LXX ἐσώζετο (cf. Pesh: <i>zkʾ hwʾ </i>) at 1&nbsp;Sam 14:47 implies
+<b>B.1</b>  Although the LXX ἐσώζετο (cf. Pesh: 
+ܙܟܐ ܗܘܐ
+<i>zkʾ hwʾ </i>) at 1&nbsp;Sam 14:47 implies
 the verb יָשַׁע rather than the MT reading יַרְשִׁיעַ, there is no
 sufficient reason for emending.
 

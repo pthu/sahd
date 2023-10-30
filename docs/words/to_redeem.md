@@ -8,7 +8,7 @@ Semantic Fields:
 First published: 2007-08-01<br>Last update: 2023-10-01 (Raymond de Hoop) <br>Citation: Alison Gray, גאל – to redeem, avenge, reclaim, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2007 (update: 2023)
 
 
-For a fuller discussion of the lexical field ‘Deliverance’ as a whole see on this site the 
+For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
 <a href="/sahd/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 

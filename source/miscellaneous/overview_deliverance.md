@@ -813,7 +813,8 @@ transitive use for ‘deliver’.
  is occasionally used. It is not found in Tg<sup>O</sup>, Tg<sup>J</sup>,
 Tg<sup>PsJ</sup> or apparently in the Palestinian Tgs. But it is
 frequent in the Pss, Job and Proverbs, especially for הציל. This may be
-connected with the frequency of <i>pṣā</i> in the Peshitta (see below).
+connected with the frequency of ܦܨܐ/ܦܨܝ
+(<i>pṣʾ</i>/<i>pṣy</i>) in the Peshitta (see below).
 
 The concentration on two equivalents in the Targums may have tended to
 blur distinctions within the lexical group. But it would be interesting
@@ -832,62 +833,81 @@ with
 and 
 <span dir="rtl" lang="he">פלט</span>.
 
-<b>Peshitta</b>: The distribution of equivalents is very similar to the
-Targums, but there are some notable differences in the words employed.
+<b>Peshitta</b>: The distribution of equivalents is very similar to the Targums, but there are some notable differences in the words employed.
 
-<i>ʿdar</i> is generally used for עזר, instead of סְעַד and סיע. The absence
+ܥܕܪ
+(<i>ʿdr</i>) is generally used for עזר, instead of סְעַד and סיע. The absence
 of the latter is the more surprising, as it exists in Syriac in the same
-sense. <i>ʿdar</i> is also very rarely used for הושׁיע.  
-The meaning of <i>ʿdr</i> is ‘help, assist’.
+sense.  ܥܕܪ (<i>ʿdr</i>) is also very rarely used for הושׁיע.  
+The meaning of  ܥܕܪ (<i>ʿdr</i>) is ‘to help, assist’.
 
-<i>praq</i> is again the main equivalent for 
+ܦܪܩ
+(<i>prq</i>) is again the main equivalent for 
 <span dir="rtl" lang="he">הושׁיע</span>,
 <span dir="rtl" lang="he">גאל</span>,
 <span dir="rtl" lang="he">פדה</span>, 
 and Heb. <span dir="rtl" lang="he">פרק</span>.
 In the case of הושׁיע this extends to renderings of שׁוֹעַ and שׁוּעַ (cf.
-Vg x1, Tg x1). There are again two instances of הושׁיע being
-rendered by <i>nṣḥnʾ</i>, ‘victory’. For גאל <i>tbaʿ</i> again occurs in the
+Vg 1x, Tg 1x). There are again two instances of הושׁיע being
+rendered by <i>nṣḥnʾ</i>, ‘victory’. For 
+<span dir="rtl" lang="he">גאל</span> 
+ܬܒܓ
+(<i>tbʿ</i>) again occurs in the
 ‘vengeance’ passages, but more surprisingly also in Ruth; and there are
-three instances of <i>qrab</i> being used to mark the ‘family’ dimension.
-<i>praq</i> is also occasionally used for הציל.
+three instances of ܩܪܒ
+(<i>qrb</i>) being used to mark the ‘family’ dimension.
+ܦܪܩ
+(<i>prq</i>) is also occasionally used for הציל.
 
-<i>pṣā</i> is also widely used: it is the main equivalent for הציל and the
+ ܦܨܐ/ܦܨܝ
+(<i>pṣʾ</i>/<i>pṣy</i>)[^10a] is also widely used: it is the main equivalent for הציל and the
 Piel and Niphal forms of מלט and פלט (but not so prominently for the
 nouns). It is also found occasionally for הושׁיע and פדה.  
-The meaning of <i>pṣā</i> is given as ‘deliver, set free’ by 
-Payne Smith (<i>CSD</i>, 454); CAL (under <i>pṣy</i>) gives ‘save’. 
+The meaning of ܦܨܐ/ܦܨܝ
+(<i>pṣʾ</i>/<i>pṣy</i>)
+is given as ‘deliver, set free’ by 
+Payne Smith (<i>CSD</i>, 454); CAL and Sokoloff (<i>SLB</i>, 1219) give ‘to save, deliver’. 
 The latter’s citations
-imply that it is found in Jewish Aramaic [JBA presumably = ‘Jewish
-Babylonian Aramaic’], but it is also well attested in Christian
+imply that it is found in Jewish Aramaic 
+[JBA presumably = ‘Jewish Babylonian Aramaic’], but it is also well attested in Christian
 Palestinian Aramaic, Samaritan Aramaic and Syriac. In the latter (to
-judge at least from our Peshitta data) it has largely displaced <i>šyzb</i>.
+judge at least from our Peshitta data) it has largely displaced ܫܝܙܒ
+(<i>šyzb</i>).
 
-<i>šyzb</i> is used for noun-forms from פלט and some instances of מלט and
+[^10a]: Payne Smith (CSD, 454) lists the word as ܦܨܐ (<i>pṣʾ</i>), while Sokoloff, <i>SLB</i>, 1219, and CAD list the word as <span dir="rtl" lang="–">ܦܨܝ</span> (<i>pṣy</i>).
+
+<span dir="rtl" lang="–">ܫܝܙܒ</span> (<i>šyzb</i>) is used for noun-forms from פלט and some instances of מלט and
 פדה,
 but not at all apparently for הציל.  
 Payne Smith (<i>CSD</i>, 304–05) cites some derivatives,
 referring them to the root <i>yzb</i>, but its entry for the verb is as
-<i>šwzb</i> on p. 564. From the derivatives it looks as though it acquired a
+ܫܘܙܒ
+(<i>šwzb</i>) on p. 564. From the derivatives it looks as though it acquired a
 strongly (Christian) theological meaning in Syriac. It is given the
 meaning ‘save’ in CAL.
 
-<i>plṭ</i> is found occasionally for פלט and more frequently for מלט.  
-In Syriac <i>plṭ</i> means ‘escape, slip away’ and in the Pael both ‘save’
+ܦܠܛ
+(<i>plṭ</i>) is found occasionally for פלט and more frequently for מלט.  
+In Syriac ܦܠܛ
+(<i>plṭ</i>) means ‘escape, slip away’ and in the Pael both ‘save’
 and ‘eject, vomit’.
 
 Of the major variations from Targumic renderings in the Peshitta the use
-of <i>ʿdar</i> instead of <i>sʿd</i> is readily explicable by dialectal
-differences. The extensive substitution of <i>pṣā</i> for <i>šyzb</i> is less easy
+of ܥܕܪ (<i>ʿdr</i>) instead of ܣܓܕ (<i>sʿd</i>) is readily explicable by dialectal
+differences. 
+The extensive substitution of ܦܨܐ/ܦܨܝ
+(<i>pṣʾ</i>/<i>pṣy</i>) 
+for ܫܘܙܒ (<i>šwzb</i>) is less easy
 to understand, since the latter verb certainly existed in Syriac and was
 sometimes used for members of the lexical group in the Peshitta. Is
 there again a dialectal difference behind this, or is there some other
-reason (perhaps a theological one) for the favouring of <i>pṣā</i>? In any
+reason (perhaps a theological one) for the favouring of  ܦܨܐ/ܦܨܝ
+(<i>pṣʾ</i>/<i>pṣy</i>)? In any
 case the broad division of the words other than עזר into two groups is
 again reflected in the Syriac renderings, whatever exactly the perceived
 difference between them was. It may be noted, among less common
-equivalents, how the special uses of גאל and nominal/passive forms of
-מלט and פלט are again identified in the Peshitta.
+equivalents, how the special uses of גאל and nominal/passive forms of מלט and פלט
+ are again identified in the Peshitta.
 
 #### (ii) The Word-Groups One by One
 
@@ -897,7 +917,7 @@ Vg and Pesh (but not apparently in the Tg). A more striking fact is the
 different associations for it which appear in the versional renderings.
 The use of σῴζω in LXX links it with מלט, and the use of <i>salvo</i> in Vulg
 links them both with פלט. On the other hand the rendering by
-<span dir="rtl" lang="he">פרק</span>/<i>praq</i>
+<span dir="rtl" lang="he">פרק</span>/ܦܪܩ (<i>prq</i>)
 in the Tg and Pesh makes it part of a ‘family’ which includes other
 members of the lexical group:
 <span dir="rtl" lang="he">גאל</span>,
@@ -937,7 +957,9 @@ strongly present in the regular renderings of
 and also 
 <span dir="rtl" lang="he">מלט</span>
 into Aramaic (Tg generally שׁיזב, but some cases of פצי in the
-Tg<sup>K</sup>; Pesh generally <i>pṣy</i>, but also <i>šyzb</i>).
+Tg<sup>K</sup>; Pesh generally  ܦܨܐ/ܦܨܝ
+[<i>pṣʾ</i>/<i>pṣy</i>], but also ܫܘܙܒ
+[<i>šwzb</i>]).
 
 מלט and פלט.
  LXX marks a distinction between these words (and
@@ -963,21 +985,25 @@ and Pesh the reference to vengeance is marked either by the retention of
  as a loanword (in Tg<sup>O</sup> and Tg<sup>J</sup>) or by the use of 
 <span dir="rtl" lang="he">תבע</span>/<i>tbʿ</i>
 (Palestinian Tgs and Pesh). 
-In Pesh <i>tbʿ</i> is, more surprisingly, also
+In Pesh ܬܒܓ
+(<i>tbʿ</i>) is, more surprisingly, also
 used in Ruth, perhaps in the more general sense of ‘making a claim’ for
 someone. The wider sense of ‘deliverance’ is also recognised in some
 uses of ῥύομαι, <i>libero</i> and שׁיזב.
 
-פדה. See above on גאל and also on הושׁיע. The idea of payment is
-sometimes reinforced by <i>pretium</i> in Vg References to family
+פדה.
+See above on גאל and also on הושׁיע. The idea of payment is sometimes reinforced by <i>pretium</i> in Vg References to family
 connections do not appear in the Versions’ renderings. A more general
 meaning ‘deliver’ appears in the use of ῥύομαι or σῴζω, <i>libero</i> or
-<i>eruo</i> and <i>pṣy</i> or <i>šyzb</i>.
+<i>eruo</i> and ܦܨܐ/ܦܨܝ
+(<i>pṣʾ</i>/<i>pṣy</i>), but also ܫܘܙܒ
+(<i>šwzb</i>).
 
-פרק. In LXX and Vg words for ‘redeem’ are used where there is a
+פרק.
+ In LXX and Vg words for ‘redeem’ are used where there is a
 personal object, no doubt as a reflection of this sense in Aramaic;
 elsewhere a variety of words for ‘removal’ are used. In Tg and Pesh the
-use of <span dir="rtl" lang="he">פרק</span>/prq</i> itself occurs more widely as a result of its various
+use of <span dir="rtl" lang="he">פרק</span>/ܦܪܩ (<i>prq</i>) itself occurs more widely as a result of its various
 meanings, which include ‘remove’. 
 
 #### (iii) Summary

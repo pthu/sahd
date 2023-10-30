@@ -11,7 +11,7 @@ shebanq_id: https://shebanq.ancient-data.org/hebrew/word?id=1GALv&mr=r&qw=w
 
 ---
 
-For a fuller discussion of the lexical field ‘Deliverance’ as a whole see on this site the 
+For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
 <a href="/sahd/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
