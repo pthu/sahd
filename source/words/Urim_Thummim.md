@@ -14,7 +14,7 @@ additional_info: WORK IN PROGRESS
 ##<span id="I">Introduction</span>
 
 Grammatical type: 2x n.m. pl.   
-Occurrences: 7x HB (4/1/2); 0x Sir; 2x SP; 3x Qum. (Total: 12)
+Occurrences: 7x HB (4/1/2); 0x Sir; 2x SP; 3x Qum.; 0x inscr. (Total: 12)
 
 * Torah: Exod 28:30; Lev 8:8; Num 27:21 (only <span dir="rtl">אוּרִים</span>); Deut 33:8 (reverse order).
 * Nebiim: 1 Sam 28:6 (only <span dir="rtl">אוּרִים</span>).
