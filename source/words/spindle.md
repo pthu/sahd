@@ -217,7 +217,7 @@ Prov 31:19<small><sup>LXX</sup></small>;
 
 <b>b.  Peshitta (Pesh):</b>  
 
-* <span dir="rtl" lang="-">ܡܘܥܙܠܐ</span>
+* <span dir="rtl">ܡܘܥܙܠܐ</span>
 (<i>mu‘zālā</i>), ‘spindle’:[^8] 2 Sam 3:29; Prov 31:19.
 
 [^8]: Sokoloff, <i>SLB</i>, 727 (cf. 800: ܡܥܙܠܐ, ‘spindle’); derivative of  ܥܙܠ, ‘to spin’ (<i>SLB</i>, 1090).
