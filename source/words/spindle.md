@@ -428,7 +428,7 @@ while other dictionaries (GB, 643; Zorell, 651;
 suppose that פֶּלֶךְ denotes the entire spindle.
 Except for the late cognate in Arab., the cognates in other Sem. languages designate the spindle in its entirety. 
 Even if the derivation of
-<span dir="rtl">פֶּלֶךְ</span> from a root meaning ‘to be(come) round’ is correct (see section <a href="#Arabic">1 A.7</a>), 
+<span dir="rtl">פֶּלֶךְ</span> from a root meaning ‘to be(come) round’ is correct (see section <a href="#Arabic">1 A.7</a>), 
 the word can still designate the entire spindle just as well as the whorl of the spindle, since both the whorl and the shaft of the spindle were round.
 Moreover, the fact that the two contexts in which פֶּלֶךְ occurs indicate explicitly that it was held
 (2 Sam 3:29: חזק hiph. with בְּ; 
