@@ -126,7 +126,7 @@ occurs occasionally in JAram.,[^2]
 where it is apparently a loanword from Hebrew.
 The more usual JAram. verb with the meaning ‘to spin’ is
 <span dir="rtl" lang="he">עזל</span>[^3]
-(cf. Syr. <span dir="rtl" lang="–">ܥܙܠ</span>; see <a href="#AV">Ancient Versions</a>). 
+(cf. Syr. <span dir="rtl">ܥܙܠ</span>; see <a href="#AV">Ancient Versions</a>). 
 
 [^2]: Jastrow, <i>DTT</i>, 523; Sokoloff, <i>DJBA</i>, 496; <i>DJPA</i>, 221.
 [^3]: Jastrow, <i>DTT</i>, 1061; Sokoloff, <i>DJBA</i>, 849-50; <i>DJPA</i>, 401. 

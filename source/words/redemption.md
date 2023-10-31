@@ -67,7 +67,7 @@ See <a href="https://pthu.github.io/sahd/words/to_redeem/#1-root-and-comparative
 
 <b>b. Peshitta (Pesh):</b>
 
-* <span dir="rtl" lang="–">ܦܘܪܩܢܐ</span>
+* <span dir="rtl">ܦܘܪܩܢܐ</span>
 (<i>pwrqnʾ</i>), ‘saving, salvation, redemption’:[^3] Isa 63:4.
 
 [^3]: Sokoloff, <i>SLB</i>, 1172.
@@ -79,11 +79,11 @@ See <a href="https://pthu.github.io/sahd/words/to_redeem/#1-root-and-comparative
 
 [^4]: Jastrow, <i>DTT</i>, 1148; Sokoloff, <i>DJPA</i>, 427.
 
-<b>A.1</b>  Both Pesh and Tg prefer the root ܦܪܩ (<i>prq</i>)/ פרק, rather than <span dir="rtl" lang="he">שׁיזב</span> (Tg<small><sup>J</sup></small>) or <span dir="rtl" lang="–">ܦܨܝ/ܦܨܐ</span> 
+<b>A.1</b>  Both Pesh and Tg prefer the root ܦܪܩ (<i>prq</i>)/ פרק, rather than <span dir="rtl" lang="he">שׁיזב</span> (Tg<small><sup>J</sup></small>) or <span dir="rtl">ܦܨܝ/ܦܨܐ</span> 
 (<i>pṣʾ</i>/<i>pṣy</i>) (Pesh), to render גאל 
 (see entry on root <a href="https://pthu.github.io/sahd/words/to_redeem/"><span dir="rtl" lang="he">גאל</span></a>; cf. <a href="https://pthu.github.io/sahd/words/to_save%2C_help/"><span dir="rtl" lang="he">ישׁע</span></a>), 
 with the exception of passages in Ruth (4:6 [Tg<small><sup>K</sup></small>, Pesh], 7 [Pesh]) and Jeremiah (32:7 [Tg<small><sup>J</sup></small>, Pesh], 8 [Tg<small><sup>J</sup></small>]), where the choices of 
-<span dir="rtl" lang="–">ܝܪܬܘܬܐ</span>
+<span dir="rtl">ܝܪܬܘܬܐ</span>
 (<i>yrtwtʾ</i>) 
 and <span dir="rtl" lang="he">אחסנתא</span> respectively emphasise the claim to inheritance.
 
