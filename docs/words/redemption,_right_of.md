@@ -135,7 +135,7 @@ the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
 [^4]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
 <b>A.1</b>  Both the Peshitta and the Targums prefer the root ܦܪܩ (<i>prq</i>)/ פרק,
-‘to remove, release from, save’, rather than than שׁיזב (Tg<small><sup>J</sup></small>) or <span dir="rtl" lang="–">ܦܨܝ/ܦܨܐ</span> (<i>pṣʾ</i>/</i>pṣy</i>) (Pesh) 
+‘to remove, release from, save’, rather than than שׁיזב (Tg<small><sup>J</sup></small>) or <span dir="rtl">ܦܨܝ/ܦܨܐ</span> (<i>pṣʾ</i>/</i>pṣy</i>) (Pesh) 
 (see entries on root 
 <a href="https://pthu.github.io/sahd/words/to_redeem/"><span dir="rtl" lang="he">גאל</span></a>
 and 

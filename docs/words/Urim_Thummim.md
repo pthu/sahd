@@ -329,28 +329,28 @@ Untranslated: Neh 7:65.
 
 <span dir="rtl">אוּרִים</span> 
 
-* <span dir="rtl" lang="–">ܝܕܥܬܐ</span> (<i>yidaʿ tā</i>), ‘knowledge’ (sg.):[^35] Lev 8:8;
-* <span dir="rtl" lang="–">ܢܗܝܪܐ</span>
+* <span dir="rtl">ܝܕܥܬܐ</span> (<i>yidaʿ tā</i>), ‘knowledge’ (sg.):[^35] Lev 8:8;
+* <span dir="rtl">ܢܗܝܪܐ</span>
 (<i>nahhīrā</i>),
 ‘light’ (sg.):[^36]
 Exod 28:30;
-* <span dir="rtl" lang="–">ܢܘܗܪܐ</span> (<i>nūhrā</i>),
+* <span dir="rtl">ܢܘܗܪܐ</span> (<i>nūhrā</i>),
 ‘light’ (sg.):[^37] Deut 33:8;
-* <span dir="rtl" lang="–">ܢܘܪܐ</span> (<i>nūrā</i>),
+* <span dir="rtl">ܢܘܪܐ</span> (<i>nūrā</i>),
 ‘fire’ (sg.):[^38] 1 Sam 28:6;
-* <span dir="rtl" lang="–">ܫܐܠܬܐ</span> (<i>šèlèṯā</i>), ‘request’, ‘inquiry’ (sg.):[^39] Num 27:21. 
+* <span dir="rtl">ܫܐܠܬܐ</span> (<i>šèlèṯā</i>), ‘request’, ‘inquiry’ (sg.):[^39] Num 27:21. 
 
 
 <span dir="rtl">תֻּמִּים</span> 
 
-* <span dir="rtl" lang="–">ܩܘܫܬܐ</span> (<i>qūštā</i>), ‘truth’ (sg.):[^40] Lev 8:8;
-* <span dir="rtl" lang="–">ܫܘܡܠܝܐ</span> (<i>šūmlāyā</i>), ‘fullness’, ‘perfection’ (sg.):[^41]
+* <span dir="rtl">ܩܘܫܬܐ</span> (<i>qūštā</i>), ‘truth’ (sg.):[^40] Lev 8:8;
+* <span dir="rtl">ܫܘܡܠܝܐ</span> (<i>šūmlāyā</i>), ‘fullness’, ‘perfection’ (sg.):[^41]
 Deut 33:8;
-* <span dir="rtl" lang="–">ܫܠܡܐ</span> (<i>šalmā</i>), ‘entire’, ‘perfect’,	etc. (sg.):[^42] 
+* <span dir="rtl">ܫܠܡܐ</span> (<i>šalmā</i>), ‘entire’, ‘perfect’,	etc. (sg.):[^42] 
 Exod 28:30; 
-* <span dir="rtl" lang="–">ܫܠܡܘܬܐ</span> (<i>šalmūṯā</i>), ‘perfection’ (sg.):[^43] 1 Sam 14:41 (cf. LXX). 
+* <span dir="rtl">ܫܠܡܘܬܐ</span> (<i>šalmūṯā</i>), ‘perfection’ (sg.):[^43] 1 Sam 14:41 (cf. LXX). 
 
-Paraphrastic in Ezra 7:63; Neh 7:65: <span dir="rtl" lang="–">ܟܗܢܐ ܪܒܐ ܘܢܫܐܠ ܘܢܚܙܐ</span>, ‘a high priest who can ask and can see’.
+Paraphrastic in Ezra 7:63; Neh 7:65: <span dir="rtl">ܟܗܢܐ ܪܒܐ ܘܢܫܐܠ ܘܢܚܙܐ</span>, ‘a high priest who can ask and can see’.
 
 
 <b>c. Targumim (Tg: O/PsJ/N/Smr/J) </b>

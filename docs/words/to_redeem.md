@@ -586,7 +586,7 @@ responsibility or right of the kinsman is to restore the blood of the family whi
 <a href="#Peshitta-A4">Peshitta A.4</a> above). Thus the avenger is the subject of verbs such as 
 <span dir="rtl" lang="he">מות</span> hiph., <span dir="rtl" lang="he">רצח</span> and <span dir="rtl" lang="he">רדף</span>. Tg<small><sup>N</sup></small> and Tg<small><sup>PsJ</sup></small>, translate it as <span dir="rtl" lang="he">תבע אדמא</span> (<span dir="rtl" lang="he">תבע</span>, ‘to seek, demand, claim’, <i>DJPA</i><small><sup>1</sup></small>, 574b) and Pesh
 translates it by 
-<span dir="rtl" lang="–">ܬܒܥ (ܥܝܪܬܐ)</span> (<i>tbʿ</i> [<i>ʿyrtʾ</i>]), ‘seek (vengeance for)’. These both emphasise the concepts of family obligation and claiming
+<span dir="rtl">ܬܒܥ (ܥܝܪܬܐ)</span> (<i>tbʿ</i> [<i>ʿyrtʾ</i>]), ‘seek (vengeance for)’. These both emphasise the concepts of family obligation and claiming
 possession which are essential to גאל. When something belongs to someone they have a claim to it, either by themselves or with the help of one’s kinsman (גֹּאֵל).
 
 
@@ -642,7 +642,7 @@ enemies (in all but two instances above) seems to suggest a transference of owne
 
 <b>B.2</b> Job 3:5 seems to express the idea of גאל as ‘claiming back’. It is the only example of גאל being used with an abstract subject (‘gloom/darkness’) and some argue either that it is a unique usage of 
 <span dir="rtl" lang="he">גאל</span>, or that it should be read as the homonym גאל (II)/ געל, ‘to soil/ defile’, which may fit better with the rest of the verse. This
-would support Johnson’s argument for a single original root of both גאל (I) and גאל (II)/ געל, meaning ‘to cover’, which is supported by Pesh <span dir="rtl" lang="–">ܟܣܐ</span> (<i>ksʾ</i>) Pael, ‘to cover, hide’ and Vg <i>obscurare</i>, ‘to hide, conceal, obscure’ which seems to contain the idea of ‘cover’ (cf. LXX ἐκλάβοι). However, Stamm points to a different
+would support Johnson’s argument for a single original root of both גאל (I) and גאל (II)/ געל, meaning ‘to cover’, which is supported by Pesh <span dir="rtl">ܟܣܐ</span> (<i>ksʾ</i>) Pael, ‘to cover, hide’ and Vg <i>obscurare</i>, ‘to hide, conceal, obscure’ which seems to contain the idea of ‘cover’ (cf. LXX ἐκλάβοι). However, Stamm points to a different
 ‘core meaning’ of גאל in the idea of something being restored to its rightful owner. He translates it: ‘einfordern sollen ihn Finsternis und Dunkel’ for the forces of darkness and chaos are older than the light
 (cf. Gen 1:2) and therefore have a claim on his life (1971:390). This view seems to be supported by the previous verse and to be more akin to the idea expressed by <span dir="rtl" lang="he">גֹּאֵל הַדָּם</span> (similarly Blau 1956:244-45).
 
