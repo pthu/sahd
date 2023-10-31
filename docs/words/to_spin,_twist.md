@@ -187,7 +187,7 @@ see <a href="#Sam">Introduction A.1</a>.
 
 <b>b. Peshitta (Pesh):</b>
 
-* <span dir="rtl" lang="–">ܥܙܠ</span> (<i>‘zl</i>), 
+* <span dir="rtl">ܥܙܠ</span> (<i>‘zl</i>), 
 ‘to spin’:[^7]  Exod 35:25, 26.
 
 [^7]: Payne Smith, <i>CSD</i>, 409 (‘to spin, twist, twine’);  Sokoloff, <i>SLB</i>, 1090 (‘to spin, weave’).
