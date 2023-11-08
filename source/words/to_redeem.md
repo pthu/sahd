@@ -7,7 +7,7 @@ contributors: alison_gray
 first_published: 2007-08-01  
 last_update: 2023-10-01 (Raymond de Hoop)  
 update_info: 
-shebanq_id: https://shebanq.ancient-data.org/hebrew/word?id=1GALv&mr=r&qw=w
+shebanq_id: https://shebanq.ancient-data.org/hebrew/word?id=1GALv&mr=r&qw=w 
 
 ---
 
