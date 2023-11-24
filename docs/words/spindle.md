@@ -327,18 +327,14 @@ also suppose that in 2 Sam 3:29 פֶּלֶךְ designates
 the stick of an ill person, although they affirm that it designates a spindle in Prov 31:19. 
 However,  Steven Holloway (1987:371) rightly remarks: 
 
-<div style="padding-left: 44px; padding-right: 44px; ">
-<small>
-While a desire for the crippling of an enemy falls naturally enough within the general conceptual 
+
+> While a desire for the crippling of an enemy falls naturally enough within the general conceptual 
 pool of the treaty-curse,
 philological warrants are lacking. The Greek itself is suspect: in order to convey the idea of staff 
 as walking stick or crutch one would expect 
 βακτηρία or ῥάβδος
 rather than a noun with the primary meaning of cudgel or club — a weapon. 
 There is no cognate usage of <i>plk</i> which firmly points to a meaning of staff or crutch.
-
-</small>
-</div>  
 
 
 
@@ -514,17 +510,8 @@ Elizabeth Barber suggests that the BHeb. verb שׁזר
 (see שֵׁשׁ מָשְׁזָר, ‘twisted linen’; Exod 26:1, 31, 36, etc.) refers to the same method of making linen threads (Barber 1991:50, 72).
 With regard to certain depictions of only a single thread per spindle, she observes (Barber 1991:48):
 
-
-<div style="padding-left: 44px; padding-right: 44px"><small>
-The fact that in some pictures we are <i>shown</i> spinners pulling only one thread per spindle may be a simplification on the part of the artist, but it may also show a practice
+> The fact that in some pictures we are <i>shown</i> spinners pulling only one thread per spindle may be a simplification on the part of the artist, but it may also show a practice
 of adding a strengthening twist to the fine ‘single’ yarns … 
-
-</small>
-</div>  
-
-<div style="padding-left: 44px; padding-right: 44px">
-&nbsp;&nbsp;
-</div> 
 
 <a id="Khnumhotep"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/sahd/images/photos/DT204509.jpg)
 
@@ -674,23 +661,15 @@ appeared to produce thin yarn, while the spindles with heavier whorls produced c
 (Andersson Strand 2015:44-48; similarly 
 Olofsson <i>et al</i>. 2015:77-87).
 While coarser, hard spun wool threads could be used as warp, more loosely spun wool could be selected for the weft.
-Andersson Strand gives the following description of the ways in which the spindles were used for the processing of wool fibres
-(2015:45):
+Andersson Strand gives the following description of the ways in which the spindles were used for the processing of wool fibres (2015:45):
 
-<div style="padding-left: 44px; padding-right: 44px; ">
-<small>
-The spindle shaft is rotated while the spinner simultaneously draws out the fibres,
+> The spindle shaft is rotated while the spinner simultaneously draws out the fibres,
 and it is the twisting of the fibres around their own axis that forms the thread. During spinning, the spindle can hang freely (a so-called suspended spindle)
 (…), or it can be supported, with the shaft resting on the ground or in a bowl, or on the thigh. On a suspended spindle the whorl can be placed at the top
 (high-whorl), the bottom (low-whorl) or sometimes also in the middle (mid-whorl) of the shaft. On a supported spindle, the whorl is placed at the top of the shaft (…).
 A third variation is the hand-held spindle, a shaft with or without a whorl that is turned within the hand (…).
 Finally, a thread can be spun by using a hooked shaft; in this technique the spinner draws out the fibres and forms the thread by rolling the shaft against the thigh (…). 
 The hook helps to control the fibres when they are drawn out.
-
-</small>
-</div>
-
-
 
 When a certain length of the thread had been spun, the finished part was wound around the rod of the spindle. Thereafter, the spinning was continued
 until the thread was finished or the rod had been filled with thread. Finally, the thread could be wound up on a reel, onto a weft bobbin or into a ball
