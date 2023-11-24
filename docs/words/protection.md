@@ -28,9 +28,9 @@ Occurrences: 79x HB (4/25/50); 1x Sir; 23x (+ 6 pars.) Qum; 0x inscr. (Total: 10
 106:4; 116:13; 118:14, 15, 21; 119:123, 155, 166, 174; 140:8; 149:4; Job
 13:16; 30:15; 1 Chron 16:23; 2 Chron 20:17, 78.
 * Sir: ms B, 35:25.
-* Qum: CD 20:34; 1QH<small><sup>a</sup></small> 6:5; 7:19; 19:23 (= 4QH<small><sup>a</sup></small> 1:5); 20:3 (=
-4QH<small><sup>a</sup></small>3:2-3); 26:10 (= 4QH<small><sup>a</sup></small> 7 i 14); 1QS 1:19; 10:17 (= 4QS<small><sup>b</sup></small> 20:6;
-4QS<small><sup>f</sup></small> 4:4); 11:12; 1QM 1:5; 4:13; 13:13; 14:5; 18:7; 4Q185 2:13; 4Q381 15:9; 4Q438 4 ii+5:3; 4Q491 (4QM<small><sup>a</sup></small>) 11 ii 17 (cf. 1QM 16:16ff.); 15:7; 4Q503 48-50:6; 4Q511 1:5; 10:8.  
+* Qum: CD 20:34; 1QH<sup><small>a</small></sup> 6:5; 7:19; 19:23 (= 4QH<sup><small>a</small></sup> 1:5); 20:3 (=
+4QH<sup><small>a</small></sup>3:2-3); 26:10 (= 4QH<sup><small>a</small></sup> 7 i 14); 1QS 1:19; 10:17 (= 4QS<sup><small>b</small></sup> 20:6;
+4QS<sup><small>f</small></sup> 4:4); 11:12; 1QM 1:5; 4:13; 13:13; 14:5; 18:7; 4Q185 2:13; 4Q381 15:9; 4Q438 4 ii+5:3; 4Q491 (4QM<sup><small>a</small></sup>) 11 ii 17 (cf. 1QM 16:16ff.); 15:7; 4Q503 48-50:6; 4Q511 1:5; 10:8.  
 No context: 4Q511 38:3.
 * Text doubtful: —
 
@@ -38,7 +38,7 @@ No context: 4Q511 38:3.
 <b>B.1</b> Dahmen (2013: 315) assumes the restoration 
 <span dir="rtl" lang="he">[&nbsp;&nbsp;&nbsp;ישׁו]עתי אשר תרים למצער</span>
 in
-1QH<small><sup>a</sup></small> 14:10-11 (its numbering: ll. 7-8 in the <i>DSS.SE</i> ).<!-- CHECK numbering--> It is not clear how אשר can be
+1QH<sup><small>a</small></sup> 14:10-11 (its numbering: ll. 7-8 in the <i>DSS.SE</i> ).<!-- CHECK numbering--> It is not clear how אשר can be
 fitted into this restoration: the alternative (in Lohse as well as the
 <i>DSS.SE</i>) which restores
 <span dir="rtl" lang="he">[כי יד]עתי</span>
@@ -63,7 +63,7 @@ Qere/Ketiv: none.
 meanings. Other such formations seem to be related to the qal stem,
 which is not attested in BH for ישׁע.
 
-<b>A.2</b>  12x in plural in OT (9x Psalms, 2x Isaiah, 1x 2&nbsp;Samuel), 8x in Qum (1QH<small><sup>a</sup></small>
+<b>A.2</b>  12x in plural in OT (9x Psalms, 2x Isaiah, 1x 2&nbsp;Samuel), 8x in Qum (1QH<sup><small>a</small></sup>
 19:23; 1QS 1:19; 1QM 4:13; 18:7; 4Q185 2:13; 4Q438 4 ii+5:3; 4Q511 1:5;
 10:8).
 
@@ -101,24 +101,24 @@ and <span dir="rtl" lang="he">יָדַע</span> hiph., ‘to make known’ (Ps 9
 <b>A.3</b>  <span dir="rtl" lang="he">יְשׁוּעָה</span>  is governed by 
 <span dir="rtl" lang="he">קוה</span> piel + <span dir="rtl" lang="he">לְ</span>, ‘to await’ (Gen 49:18; Isa 59:11); <span dir="rtl" lang="he">שָׂמַח</span> + <span dir="rtl" lang="he">בְּ</span>, ‘to rejoice in’ (1&nbsp;Sam 2:1; Isa 25:9; Sir 35:25);
 <span dir="rtl" lang="he">גִיל</span> + <span dir="rtl" lang="he">בְּ</span>, ‘to rejoice in’ (Pss 9:15; 13:6; 21:2; 4Q511 1:5); 
-<span dir="rtl" lang="he">רנן</span> piel + <span dir="rtl" lang="he">בְּ</span>, ‘to shout about’ (Ps 20:6; 1QH<small><sup>a</sup></small> 26:10; 1QS 10:17); 
+<span dir="rtl" lang="he">רנן</span> piel + <span dir="rtl" lang="he">בְּ</span>, ‘to shout about’ (Ps 20:6; 1QH<sup><small>a</small></sup> 26:10; 1QS 10:17); 
 <span dir="rtl" lang="he">שׂוּשׂ</span> + <span dir="rtl" lang="he">בְּ</span>, ‘to
 rejoice in’ (Ps 35:9; 1QM 13:13); 
-<span dir="rtl" lang="he">זמר</span> + <span dir="rtl" lang="he">בְּ</span>, ‘to sing of’ (1QH<small><sup>a</sup></small> 19:23); 
+<span dir="rtl" lang="he">זמר</span> + <span dir="rtl" lang="he">בְּ</span>, ‘to sing of’ (1QH<sup><small>a</small></sup> 19:23); 
 <span dir="rtl" lang="he">בָּטַח</span> + <span dir="rtl" lang="he">בְּ</span>, ‘to trust in’ (Ps 78:22); 
 <span dir="rtl" lang="he">הָלַךְ</span> + <span dir="rtl" lang="he">לְ</span>, ‘to come to’ (Ps 80:3); 
 <span dir="rtl" lang="he">ראה</span> + <span dir="rtl" lang="he">בְּ</span>, ‘to see’ (CD 20:34); 
 <span dir="rtl" lang="he">ראה</span> hiph. + <span dir="rtl" lang="he">בְּ</span>, ‘to cause to see’ (Ps 91:16); 
 <span dir="rtl" lang="he">שׂבר</span> piel + <span dir="rtl" lang="he">לְ</span>, ‘to hope for’ (Ps 119:166); 
 <span dir="rtl" lang="he">תָּאַב</span> + <span dir="rtl" lang="he">לְ</span>, ‘to long for’ (Ps 119:174); 
-and <span dir="rtl" lang="he">צָפָה</span> + <span dir="rtl" lang="he">לְ</span>, ‘to look for’ (1QH<small><sup>a</sup></small> 6:5).
+and <span dir="rtl" lang="he">צָפָה</span> + <span dir="rtl" lang="he">לְ</span>, ‘to look for’ (1QH<sup><small>a</small></sup> 6:5).
 It is also the indirect object of 
 <span dir="rtl" lang="he">פאר</span> piel + <span dir="rtl" lang="he">בְּ</span>, ‘to adorn with’ (Ps 149:4).
 
 <b>A.4</b>  <span dir="rtl" lang="he">יְשׁוּעָה</span>  is nomen regens of 
 <span dir="rtl" lang="he">יהוה</span>  ‘Lord’ (Exod 14:13; 2&nbsp;Chron 20:17);
 <span dir="rtl" lang="he">אֱלֹהִים</span> ‘God’ (Isa 52:10; Ps 98:3); יִשְׂרָאֵל ‘Israel’ (Ps 14:7); and of
-עולם ‘eternity’ (1QH<small><sup>a</sup></small> 7:19). The plural of <span dir="rtl" lang="he">יְשׁוּעָה</span>  is nomen regens
+עולם ‘eternity’ (1QH<sup><small>a</small></sup> 7:19). The plural of <span dir="rtl" lang="he">יְשׁוּעָה</span>  is nomen regens
 of מֶלֶךְ ‘king’ (2&nbsp;Sam 22:51); מָשִׁיחַ ‘anointed’ (Ps 28:8 [with <span dir="rtl" lang="he">מָעוֹז</span>]); 
 <span dir="rtl" lang="he">פנה</span>, ‘face’ (Pss 42:6, 12; 43:5); 
 <span dir="rtl" lang="he">יַעֲקוֹב</span>,  ‘Jacob’ (Ps 44:5); 
@@ -146,10 +146,10 @@ of <span dir="rtl" lang="he">מָעוֹז</span>, ‘stronghold’ (Ps 28:8);
 <span dir="rtl" lang="he">שׁער</span>, ‘gate’ (1QM 18:7); 
 <span dir="rtl" lang="he">רוח</span>, ‘spirit’ (4Q438 4 ii+5:3); 
 <span dir="rtl" lang="he">רנה</span>, ‘jubilation’ (4Q511 1:5); 
-and <span dir="rtl" lang="he">כנור</span>, ‘harp’ (1QH<small><sup>a</sup></small> 19:23; 4Q511 10:8).   
+and <span dir="rtl" lang="he">כנור</span>, ‘harp’ (1QH<sup><small>a</small></sup> 19:23; 4Q511 10:8).   
 Although <span dir="rtl" lang="he">יְשׁוּעָה</span>  is often used of
 God (referred to by a suffix in, e.g., Isa 51:6; Ps 98:2; at Qumran CD
-20:34; 1QH<small><sup>a</sup></small> 6:5; 1QS 10:17; 1QM 13:13; 4Q 185 2:13; 4Q381 15:9; Sir
+20:34; 1QH<sup><small>a</small></sup> 6:5; 1QS 10:17; 1QM 13:13; 4Q 185 2:13; 4Q381 15:9; Sir
 35:25[?]); it is very rarely the nomen rectum of 
 <span dir="rtl" lang="he">אֱלֹהִים</span>, which is a
 significant contrast to <span dir="rtl" lang="he">יֵשַׁע</span>. In view of the number of occurrences of
@@ -164,7 +164,7 @@ significant contrast to <span dir="rtl" lang="he">יֵשַׁע</span>. In view of
 <span dir="rtl" lang="he">אֲני</span>, ‘I [= God]’ (Ps 35:3); 
 <span dir="rtl" lang="he">מִמֶּנּוּ</span>, ‘from him’ (Ps 62:2); 
 <span dir="rtl" lang="he">לִי</span>, ‘for me’ (Job 13:16); 
-and <span dir="rtl" lang="he">לעמו</span>, ‘for his [God’s] people’ (4Q491(4QM<small><sup>a</sup></small>) 11 ii 17;
+and <span dir="rtl" lang="he">לעמו</span>, ‘for his [God’s] people’ (4Q491(4QM<sup><small>a</small></sup>) 11 ii 17;
 15:7).
 
 
@@ -257,7 +257,7 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 3; 106[105]:4; 116[115]:13[4]; 119[118]:123, 166, 174;
 * σώζω, ‘to save’ as articular infinitive: Ps 80[79]:3.
 
-[^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>.
+[^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>: <i>s.v.</i>.
 
 
 <b>b. Peshitta (Pesh):</b>   
@@ -303,12 +303,12 @@ No rendering: Ps 118:15.
 
 * <i>adiutorium</i>, ‘to help’:[^4] 2&nbsp;Sam 10:11;  
 * <i>auxilium</i>, ‘to help’: 2&nbsp;Chron 20:17;  
-* <i>Iesus</i>, ‘Jesus’: Ps 149:4 (Vg<small><sup>PsH </sup></small>)  
+* <i>Iesus</i>, ‘Jesus’: Ps 149:4 (Vg<sup><small>PsH </small></sup>)  
 * [[<i>iustitia</i>, ‘justice, righteousness’: Isa 51:8]];  
 * <i>magnalia</i>, ‘great things, mighty works’: Exod 14:13;  
 * <i>misericordia</i>, ‘pity, compassion’: Sir 35:25;  
-* <i>salus</i>, ‘a being safe and sound, welfare’: Exod 15:2; 1&nbsp;Sam 14:45; 2&nbsp;Sam 22:51; Isa 12:2b; 26:18; 33:2, 6; 49:6, 8; 51:6; 52:7; 56:1; 59:11, 17; 60:18; Jon 2:10; Pss 3:3, 9; 14[13]:7 (Vg<small><sup>PsH </sup></small>); 18[17]:51; 22[21]:2; 35[34]:3, 9; 42[41]:12; 43[42]:5; 44[43]:5; 62[61]:2, 3, 7; 67[66]:3; 68[67]:20; 69[68]:30; 74[73]:12; 88[87]:2; 89[88]:27; 116[115]:13; 118[117]:14, 15, 21; 119[118]:155; 140[139]:8; 149:4 (Vg<small><sup>PsG </sup></small>); Job 30:15;  
-* <i>salutaris</i>, ‘salvation, health’: Gen 49:18; Deut 32:15; 1&nbsp;Sam 2:1; Isa 25:9; 52:10; Pss 9:15[16]; 13[12]:6; 14[13]:7 (Vg<small><sup>PsG </sup></small>); 20[19]:6; 21[20]:6; 28[27]:8; 42[41]:6; 53[52]:7; 70[69]:5; 78[77]:22; 91[90]:16; 96[92]:2; 98[97]:2, 3; 106[105]:4; 119[118]:123, 166, 174; 1&nbsp;Chron 16:23;  
+* <i>salus</i>, ‘a being safe and sound, welfare’: Exod 15:2; 1&nbsp;Sam 14:45; 2&nbsp;Sam 22:51; Isa 12:2b; 26:18; 33:2, 6; 49:6, 8; 51:6; 52:7; 56:1; 59:11, 17; 60:18; Jon 2:10; Pss 3:3, 9; 14[13]:7 (Vg<sup><small>PsH </small></sup>); 18[17]:51; 22[21]:2; 35[34]:3, 9; 42[41]:12; 43[42]:5; 44[43]:5; 62[61]:2, 3, 7; 67[66]:3; 68[67]:20; 69[68]:30; 74[73]:12; 88[87]:2; 89[88]:27; 116[115]:13; 118[117]:14, 15, 21; 119[118]:155; 140[139]:8; 149:4 (Vg<sup><small>PsG </small></sup>); Job 30:15;  
+* <i>salutaris</i>, ‘salvation, health’: Gen 49:18; Deut 32:15; 1&nbsp;Sam 2:1; Isa 25:9; 52:10; Pss 9:15[16]; 13[12]:6; 14[13]:7 (Vg<sup><small>PsG </small></sup>); 20[19]:6; 21[20]:6; 28[27]:8; 42[41]:6; 53[52]:7; 70[69]:5; 78[77]:22; 91[90]:16; 96[92]:2; 98[97]:2, 3; 106[105]:4; 119[118]:123, 166, 174; 1&nbsp;Chron 16:23;  
 * <i>salvatio</i>, ‘deliverance’: Hab 3:8;  
 * <i>salvator</i>, ‘savious, redeemer’: Isa 12:2a, 3; 26:1; 62:1; Job 13:16;  
 * <i>salvum facio</i>, ‘to save, to deliver’: Ps 80[79]:3.
@@ -379,8 +379,8 @@ are often thought to mean ‘deliverance’ or ‘vindication’ in such cases;
 <span dir="rtl" lang="he">נָקָם</span> (Isa 59:17), 
 and the expression <span dir="rtl" lang="he">שׁוּב שְׁבוּת</span>, ‘restoration(?)’ (Isa 52:7; Ps 14:7=52:7); 
 * at Qumran additionally <span dir="rtl" lang="he">כפר</span>, ‘atone’ (CD 20:34;
-<span dir="rtl" lang="he">שׁלום עד</span>, ‘everlasting peace’ (1QH<small><sup>a</sup></small> 7:19; cf. 1QM 13:13; 4Q503 48-50:6; 
-<span dir="rtl" lang="he">כבוד</span>, ‘glory’ (1QH<small><sup>a</sup></small> 20:3); 
+<span dir="rtl" lang="he">שׁלום עד</span>, ‘everlasting peace’ (1QH<sup><small>a</small></sup> 7:19; cf. 1QM 13:13; 4Q503 48-50:6; 
+<span dir="rtl" lang="he">כבוד</span>, ‘glory’ (1QH<sup><small>a</small></sup> 20:3); 
 <span dir="rtl" lang="he">משענה</span>, ‘support’ (1QM 4:13); 
 <span dir="rtl" lang="he">עזר</span> and <span dir="rtl" lang="he">עזרה</span>, ‘help’ (1QM 4:13; 13:13); 
 <span dir="rtl" lang="he">נצח</span>, ‘victory’ (1QM 4:13); 
@@ -441,12 +441,12 @@ regard. It may be that the shorter form was more adept to this use.
 
 <b>A.5</b>  At Qumran <span dir="rtl" lang="he">יְשׁוּעָה</span>  
 takes on a strongly eschatological aspect,
-especially in CD 20:34, 1QH<small><sup>a</sup></small> and of course 1QM. This is also attested
+especially in CD 20:34, 1QH<sup><small>a</small></sup> and of course 1QM. This is also attested
 in Sir 35:25. In some passages, however, it seems to be used of the
 present experience of the righteous whose worship brings them into
-fellowship with heavenly beings (1QH<small><sup>a</sup></small> 20:3 =
-4QH<small><sup>a</sup></small> 3:2-3; 26:10 =
-4QH<small><sup>a</sup></small> 7 i 14; 4Q511 10:8: 
+fellowship with heavenly beings (1QH<sup><small>a</small></sup> 20:3 =
+4QH<sup><small>a</small></sup> 3:2-3; 26:10 =
+4QH<sup><small>a</small></sup> 7 i 14; 4Q511 10:8: 
 cf. Ringgren 1963: 127-32; Dahmen 2013: 312).
 
 

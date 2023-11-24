@@ -51,7 +51,7 @@ Qere/Ketiv: none.
 ## 2. Formal Characteristics
 
 
-<b>A.1</b>  <i>q<small><sup>e</sup></small>tullā</i> form (Joüon-Muraoka, <i>GBH</i>, §88Ck). It always occurs in the singular in the OT. This formation is found with a number of other legal terms (see further Horst 1961b:153 n. 21).
+<b>A.1</b>  <i>q<sup><small>e</small></sup>tullā</i> form (Joüon-Muraoka, <i>GBH</i>, §88Ck). It always occurs in the singular in the OT. This formation is found with a number of other legal terms (see further Horst 1961b:153 n. 21).
 
 ## 3. Syntagmatics
 
@@ -87,11 +87,11 @@ Qere/Ketiv: none.
 * λύτρον, ‘sum payable as ransom’: Lev 25:24, 26, 51, 52;
 * λύτρωσις, ‘redemption, ransom’:[^2] Lev 25:29 (2x), 48;
 * λυτρωτός, ‘redeemable’: Lev 25:31, 32;
-* παραλαμβάνω, ‘to take over, inherit’: Jer 32:7 (39:7<small><sup>LXX</sup></small>);
-* πρεσβύτερος, ‘older of age’: Jer 32:8 (39:8<small><sup>LXX</sup></small>).
+* παραλαμβάνω, ‘to take over, inherit’: Jer 32:7 (39:7<sup><small>LXX</small></sup>);
+* πρεσβύτερος, ‘older of age’: Jer 32:8 (39:8<sup><small>LXX</small></sup>).
 
-[^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>, <i>s.v.</i>
-[^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i>… claim on that which is currently not in one’s possession</i>’. LEH<small><sup>3</sup></small>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
+[^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>, <i>s.v.</i>
+[^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i>… claim on that which is currently not in one’s possession</i>’. LEH<sup><small>3</small></sup>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
 <b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of <span dir="rtl" lang="he">כפר</span>, 
 <span dir="rtl" lang="he">גאל</span>, and פדה. In Classical Greek λύτρον denotes ‘price of release, ransom’ (LSJ, 1067b), the ‘means of release’ implied by the suffix –τρον, and was used for the sum paid to ransom prisoners of war and slaves (Procksch and Büchsel 1967:340).
@@ -101,7 +101,7 @@ Qere/Ketiv: none.
 <b>A.3</b>  It is no surprise that ἀγχιστεία appears in Ruth, as the main verb used to translate גאל in Ruth is ἀγχιστεύω ‘to be next of kin’. Together with πρεσβύτερος, which is used elsewhere of the eldest child (e.g. Gen 19:31; 27:1; 44:12) and is here a free rendering assuming the equivalence of גְּאֻלָּה to the rights of the firstborn, ἀγχιστεία reflects the kinship aspect underlying גְּאֻלָּה (see entry on
 <a href="https://pthu.github.io/sahd/words/to_redeem/#4-ancient-versions"><span dir="rtl" lang="he">גאל</span>, 4. Ancient Versions</a>).
 
-<b>A.4</b>  παραλαμβάνω in Jer 32:7 (39:7<small><sup>LXX</sup></small>) is a generalising rendering which ignores
+<b>A.4</b>  παραλαμβάνω in Jer 32:7 (39:7<sup><small>LXX</small></sup>) is a generalising rendering which ignores
 the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
 
 <b>b. Peshitta (Pesh):</b>
@@ -121,27 +121,27 @@ the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
 <b>c. Targum (Tg: O/N/PsJ/J/K)</b>
 
 * אחסנתא,
-‘property, inheritance’:[^4] Jer 32:7<small><sup>J</sup></small> ,8<small><sup>J</sup></small>; Ruth 4:6<small><sup>K</sup></small>;
+‘property, inheritance’:[^4] Jer 32:7<sup><small>J</small></sup> ,8<sup><small>J</small></sup>; Ruth 4:6<sup><small>K</small></sup>;
 * פורקן,
-‘redemption (money)’: Lev 25:24<small><sup>O,PsJ</sup></small>, 26<small><sup>O,PsJ</sup></small>, 29 (2x)<small><sup>O,PsJ</sup></small>, 31<small><sup>O,PsJ</sup></small>, 32<small><sup>O,PsJ</sup></small>, 48<small><sup>O,PsJ</sup></small>, 51<small><sup>O,PsJ</sup></small>, 52<small><sup>O,PsJ</sup></small>;
+‘redemption (money)’: Lev 25:24<sup><small>O,PsJ</small></sup>, 26<sup><small>O,PsJ</small></sup>, 29 (2x)<sup><small>O,PsJ</small></sup>, 31<sup><small>O,PsJ</small></sup>, 32<sup><small>O,PsJ</small></sup>, 48<sup><small>O,PsJ</small></sup>, 51<sup><small>O,PsJ</small></sup>, 52<sup><small>O,PsJ</small></sup>;
 * פרקן,
-‘redemption’: Ruth 4:7<small><sup>K</sup></small>;
+‘redemption’: Ruth 4:7<sup><small>K</small></sup>;
 * פרקון,
-‘redemption (money)’: Lev 25:24<small><sup>N</sup></small>, 26<small><sup>N</sup></small>, 29 (2x)<small><sup>N</sup></small>, 31<small><sup>N</sup></small>, 32<small><sup>N</sup></small>,
-48<small><sup>N</sup></small>, 51<small><sup>N</sup></small>, 52<small><sup>N</sup></small>;
+‘redemption (money)’: Lev 25:24<sup><small>N</small></sup>, 26<sup><small>N</small></sup>, 29 (2x)<sup><small>N</small></sup>, 31<sup><small>N</small></sup>, 32<sup><small>N</small></sup>,
+48<sup><small>N</small></sup>, 51<sup><small>N</small></sup>, 52<sup><small>N</small></sup>;
 * קריב,
 ‘near, related’: Ezek 11:15.
 
 [^4]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
 <b>A.1</b>  Both the Peshitta and the Targums prefer the root ܦܪܩ (<i>prq</i>)/ פרק,
-‘to remove, release from, save’, rather than than שׁיזב (Tg<small><sup>J</sup></small>) or <span dir="rtl">ܦܨܝ/ܦܨܐ</span> (<i>pṣʾ</i>/</i>pṣy</i>) (Pesh) 
+‘to remove, release from, save’, rather than than שׁיזב (Tg<sup><small>J</small></sup>) or <span dir="rtl">ܦܨܝ/ܦܨܐ</span> (<i>pṣʾ</i>/</i>pṣy</i>) (Pesh) 
 (see entries on root 
 <a href="https://pthu.github.io/sahd/words/to_redeem/"><span dir="rtl" lang="he">גאל</span></a>
 and 
 <a href="https://pthu.github.io/sahd/words/to_save%2C_help/"><span dir="rtl" lang="he">ישׁע</span></a>), 
-with the exception of passages in Ruth (4:6 [Tg<small><sup>K</sup></small>, Pesh], 7 [Pesh]) and
-Jeremiah (32:7, 8 [Tg<small><sup>J</sup></small>, Pesh]), where the choices of ܝܪܬܘܬܐ
+with the exception of passages in Ruth (4:6 [Tg<sup><small>K</small></sup>, Pesh], 7 [Pesh]) and
+Jeremiah (32:7, 8 [Tg<sup><small>J</small></sup>, Pesh]), where the choices of ܝܪܬܘܬܐ
 (<i>yrtwtʾ</i>), ܘܠܐ (<i>wlʾ</i>) and אחסנתא respectively emphasise the claim to
 inheritance or possession.
 

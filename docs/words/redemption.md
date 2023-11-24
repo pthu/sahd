@@ -56,7 +56,7 @@ See <a href="https://pthu.github.io/sahd/words/to_redeem/#1-root-and-comparative
 
 * λύτρωσις, ‘redemption, ransom’:[^2] Isa 63:4.
 
-[^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i> … claim on that which is currently not in one’s possession</i>’. LEH<small><sup>3</sup></small>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
+[^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i> … claim on that which is currently not in one’s possession</i>’. LEH<sup><small>3</small></sup>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
 <b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of <span dir="rtl" lang="he">כפר</span>,
 <span dir="rtl" lang="he">גאל</span> and <span dir="rtl" lang="he">פדה</span>. In Classical Greek λύτρον denotes ‘price of release, ransom’ (LSJ, 1067b), the ‘means of release’ implied by the suffix –τρον, and was used for the sum paid to ransom prisoners of war and slaves (Procksch and Büchsel 1967:340).
@@ -77,10 +77,10 @@ See <a href="https://pthu.github.io/sahd/words/to_redeem/#1-root-and-comparative
 
 [^4]: Jastrow, <i>DTT</i>, 1148; Sokoloff, <i>DJPA</i>, 427.
 
-<b>A.1</b>  Both Pesh and Tg prefer the root ܦܪܩ (<i>prq</i>)/ פרק, rather than <span dir="rtl" lang="he">שׁיזב</span> (Tg<small><sup>J</sup></small>) or <span dir="rtl">ܦܨܝ/ܦܨܐ</span> 
+<b>A.1</b>  Both Pesh and Tg prefer the root ܦܪܩ (<i>prq</i>)/ פרק, rather than <span dir="rtl" lang="he">שׁיזב</span> (Tg<sup><small>J</small></sup>) or <span dir="rtl">ܦܨܝ/ܦܨܐ</span> 
 (<i>pṣʾ</i>/<i>pṣy</i>) (Pesh), to render גאל 
 (see entry on root <a href="https://pthu.github.io/sahd/words/to_redeem/"><span dir="rtl" lang="he">גאל</span></a>; cf. <a href="https://pthu.github.io/sahd/words/to_save%2C_help/"><span dir="rtl" lang="he">ישׁע</span></a>), 
-with the exception of passages in Ruth (4:6 [Tg<small><sup>K</sup></small>, Pesh], 7 [Pesh]) and Jeremiah (32:7 [Tg<small><sup>J</sup></small>, Pesh], 8 [Tg<small><sup>J</sup></small>]), where the choices of 
+with the exception of passages in Ruth (4:6 [Tg<sup><small>K</small></sup>, Pesh], 7 [Pesh]) and Jeremiah (32:7 [Tg<sup><small>J</small></sup>, Pesh], 8 [Tg<sup><small>J</small></sup>]), where the choices of 
 <span dir="rtl">ܝܪܬܘܬܐ</span>
 (<i>yrtwtʾ</i>) 
 and <span dir="rtl" lang="he">אחסנתא</span> respectively emphasise the claim to inheritance.

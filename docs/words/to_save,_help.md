@@ -28,7 +28,7 @@ Occurrences: 205x HB (hiph.: 6/110/67; niph.: 2/12/7); 7x Sir; 27x Qum.; 4(?)x i
 * Ketubim – niphal: Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18.
 * Sir – hiphil: ms A, 4:9; 11:20 (Beentjes, <i>BBSH</i>, 11:18); ms B, 31:6; 36:1; 48:20; 49:10; 51:3.
 * Qum: CD 5:19(A) (dupl. in 4Q267 2:2 and 6Q15 3:2); 9:9(A), 10(A);
-1QH<small><sup>a</sup></small> 10:25; (?)11:6 (<i>DCH</i> iv: 336 = Sukenik 3:6); 1QM 10:4, 8; 11:3; 1QS
+1QH<sup><small>a</small></sup> 10:25; (?)11:6 (<i>DCH</i> iv: 336 = Sukenik 3:6); 1QM 10:4, 8; 11:3; 1QS
 6:27; 4Q166 2:14; 4Q171 4:21; 4Q174 1:13; 4Q183 2:3; 4Q288 1:5; 4Q365 6a
 ii + 6c 3; 4Q372 1:16; 4Q380 1 ii 4; 4Q381 15:2; 31:2; 4Q385a 18 ii 10;
 4Q389 1 ii 3 (= 4Q387a 3 ii 11); 4Q417 22:2; 4Q511 10:9; 11QT 59:8, 11,
@@ -53,14 +53,13 @@ occasioned by the noun calling to mind the (possibly) cognate verb.
 <b>A.2</b>  At Isa 64:4 the verb should probably be read as וַנִּפְשַׁע.
 
 
-<b>A.3</b>  Ms B at Sir 31:6 reads the niphal inf להושׁע, but B-mg corrects this
-to the hiphil להושׁיע, the error in B being explicable by the easy loss
-of a <i>yodh</i>.
+<b>A.3</b>  Ms B at Sir 31:6 reads the niphal inf. להושׁע, but B-mg corrects this
+to the hiphil להושׁיע, the error in B being explicable by the easy loss of a <i>yodh</i>.
 
 
 <b>B.1</b>  Although the LXX ἐσώζετο (cf. Pesh: 
 ܙܟܐ ܗܘܐ
-<i>zkʾ hwʾ </i>) at 1&nbsp;Sam 14:47 implies
+[<i>zkʾ hwʾ </i>]) at 1&nbsp;Sam 14:47 implies
 the verb יָשַׁע rather than the MT reading יַרְשִׁיעַ, there is no
 sufficient reason for emending.
 
@@ -89,7 +88,7 @@ most frequently in Psalms and could be an alternative reading here to
 the noun.
 
 
-<b>B.5</b>  In 1QH<small><sup>a</sup></small> 11:6 <i>DCH</i> iv: 336 and Dahmen (2013: 316) read 
+<b>B.5</b>  In 1QH<sup><small>a</small></sup> 11:6 <i>DCH</i> iv: 336 and Dahmen (2013: 316) read 
 <span dir="rtl" lang="he">[הוש]עתה נפש[י]</span>, 
 recalling the language of 10:25. But many scholars do not adopt this
 conjecture (e.g. Dupont-Sommer 1961: 207, Lohse 1971: 120 [numbering acc. to Sukenik: 3:6]) and the <i>DSS.SE</i> (164–65)
@@ -143,7 +142,7 @@ with <i>wasiʿa</i>), Huffmon (1965: 215) and Stolz (1971: 786, citing Sawyer
 Sawyer originally presented his paper T.L. Fenton and H.W.F. Saggs had
 indicated their strong agreement with it (Sawyer 1975: 83-84).
 Significantly this view was adopted in the latest Hebrew lexicon to
-incorporate philological data (Ges<small><sup>18</sup></small>, 510 [1995]). Unfortunately the
+incorporate philological data (Ges<sup><small>18</small></sup>, 510 [1995]). Unfortunately the
 occurrences of <i>yṯʿ</i> do not give an independent indication of its
 meaning.
 
@@ -173,13 +172,13 @@ in the names <i>yṯʿd</i> (Gröndahl 1967: 47) and perhaps <i>yṯil</i>, if i
 shortened form of <i>yṯʿil</i> (Sawyer 1975: 78).
 
 
-<b>A.6</b>  The name <i>Yašuya</i> in Amarna letter EA 256 (line 18: <small><sup>m</sup></small><i>ya-šu-ia</i>) has been identified with the Biblical name
+<b>A.6</b>  The name <i>Yašuya</i> in Amarna letter EA 256 (line 18: <sup><small>m</small></sup><i>ya-šu-ia</i>) has been identified with the Biblical name
 <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span>,
 `Joshua’ (Olmstead 1931: 188, 197; cf. Knudtzon 
 1915<sup>II</sup>: 1319; 
-Ges<small><sup>18</sup></small>, 449). The name <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> is seen as a combination of a form of <span dir="rtl" lang="he">יהוה</span> and a noun derived from 
+Ges<sup><small>18</small></sup>, 449). The name <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> is seen as a combination of a form of <span dir="rtl" lang="he">יהוה</span> and a noun derived from 
 <span dir="rtl" lang="he">ישׁע</span>
-(Ges<small><sup>18</sup></small>, 449).[^EA] 
+(Ges<sup><small>18</small></sup>, 449).[^EA] 
 This identification of the name <i>Yašuya</i> with the name <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> was rejected by Albright (1943: 12 n. 27), arguing that the Akk. form
 should have been *<i>Ya-ḫu-šu-uḫ</i>.
 
@@ -295,8 +294,8 @@ Huffmon 1965: 215).
 view of some of its nominal derivatives, יֵשַׁע and יְשׁוּעָה). But
 historically classification either as <i>pe-yodh</i> or as <i>pe-waw</i> is possible,
 since originally <i>pe-waw</i> verbs are at first sight <i>pe-yodh</i> too, as a
-result of the early North-West Semitic development of initial <i>Waw</i> in
-most cases into <i>Yodh</i> (Moscati 1964: 46). Indeed <i>pe-waw</i> is more obvious
+result of the early North-West Semitic development of initial <i>waw</i> in
+most cases into <i>yodh</i> (Moscati 1964: 46). Indeed <i>pe-waw</i> is more obvious
 for יָשַׁע when consideration is given to the morphology of the Hiphil
 and Niphal forms of the verb. Ultimately its classification depends on
 the etymology which is accepted.
@@ -309,10 +308,8 @@ There is at least one case, יבשׁ, where a truly <i>pe-yodh</i> verb (cf. the
 retention of the <i>yodh</i> in the Qal imperfect and the Arab. cognate
  <i>yabisa</i>) forms its Hiphil as if it were a <i>pe-waw</i> verb (the Niphal does
 not occur) and the same could be true for יָשַׁע. Modern grammars deal
-differently with this anomaly. GK places most such ‘hybrids’ under its
-heading ‘Verbs originally Pe Waw’ (§69d-f) and only יבשׁ, which is
-treated very briefly, in the section for ‘Verbs properly Pe Yodh’ (§70,
-cf. paras. a,c). However, BL treats them as <i>pe-yodh</i> with deviant forms
+differently with this anomaly. GK places most such ‘hybrids’ under its heading ‘Verbs originally <i>pe–waw</i>’ (§69d-f) and only יבשׁ, which is
+treated very briefly, in the section for ‘Verbs properly <i>pe-yodh</i>’ (§70, cf. paras. a,c). However, BL treats them as <i>pe-yodh</i> with deviant forms
 in the Hiphil and Niphal (377i, k) and Bergsträsser, who makes the form
 of the imperfect Qal his primary criterion for distinguishing the two
 main classes of <i>pe-yodh</i> verbs (weak and strong) apparently agrees (2,
@@ -374,7 +371,7 @@ in spirit’ (Ps 34:19), אָדָם וּבְהֵמָה ‘man and beast’ (Ps 3
 צִיּוֹן ‘Zion’ (Ps 69:36), עֲנִיֵּי־עָם ‘the afflicted among the people’
 (Ps 72:4), נַפְשׁוֹת אֶבְיוֹנִים ‘the lives of the poor’ (Ps 72:13),
 כָּל־עַנְוֵי־אֶרֶץ ‘all the humble of the earth’ (Ps 76:10), עַבְדְּךָ
-‘your servant’ (Ps 86:2), בֶּן־אֲמָתְךָ ‘the son of your handmaid’ (Ps 86:16  [cf. 4Q381 15:2]), נפשי ‘my life’ (1QH<small><sup>a</sup></small> 10:23/25), היחד ‘the
+‘your servant’ (Ps 86:2), בֶּן־אֲמָתְךָ ‘the son of your handmaid’ (Ps 86:16  [cf. 4Q381 15:2]), נפשי ‘my life’ (1QH<sup><small>a</small></sup> 10:23/25), היחד ‘the
 community’ (4Q171 4:21), יוסף ‘Joseph’ (4Q372 1:16).
 
 
@@ -443,7 +440,7 @@ preposition <span dir="rtl" lang="he">בְּ</span> ‘in’ (2&nbsp;Sam 8:6, 14
 <span dir="rtl" lang="he">בְּרַב אוֹ בִמְעָט</span> 
 ‘by great or by little’(1&nbsp;Sam 14:6), 
 <span dir="rtl" lang="he">בְּחֶרֶב וּבַחֲנִית</span> ‘by sword and by spear’ (1&nbsp;Sam 17:47), 
-<span dir="rtl" lang="he">בְחַסְדֶּךָ</span> ‘by your loyalty’ (Ps 31:17; pl. in 1QH<small><sup>a</sup></small> 10:23/25), 
+<span dir="rtl" lang="he">בְחַסְדֶּךָ</span> ‘by your loyalty’ (Ps 31:17; pl. in 1QH<sup><small>a</small></sup> 10:23/25), 
 <span dir="rtl" lang="he">בְּצִדְקָתְךָ</span> ‘by your righteousness’ (Ps 71:2), 
 and <span dir="rtl" lang="he">בברית</span> ‘by covenant’ (4Q183 1 ii 3).
 
@@ -498,7 +495,7 @@ it is the predicate of and <span dir="rtl" lang="he">יהוה</span>
 <b>A.15</b> 
 <span dir="rtl" lang="he">ישׁע</span> niphal is joined by <i>waw</i> to 
 <span dir="rtl" lang="he">פָנָה</span> ‘to turn’ (Isa 45:22), 
-<span dir="rtl" lang="he">עָמַד</span> ‘to stand’ (Isa 47:13: cf. 1QH<small><sup>a</sup></small> 10:22-23).
+<span dir="rtl" lang="he">עָמַד</span> ‘to stand’ (Isa 47:13: cf. 1QH<sup><small>a</small></sup> 10:22-23).
 
 ## 4. Ancient Versions
 
@@ -530,9 +527,9 @@ Hiphil:
 119[118]:94, 146; 138[137]:7; 145[144]:19; Job 22:29; 40:14; Lam 4:17; Neh
 9:27; 1&nbsp;Chron 16:35; 18:6, 13; 19:12; 2&nbsp;Chron 20:9; 32:22.  
 
-[^3]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<small><sup>3</sup></small>: <i>s.v.</i>.
-[^4]: <i>GELS</i>, 78; LEH<small><sup>3</sup></small>, 70, ‘let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves’. 
-[^5]: <i>GELS</i>, ; LEH<small><sup>3</sup></small>, 501, 603; cf. <i>NETS</i>.
+[^3]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>: <i>s.v.</i>.
+[^4]: <i>GELS</i>, 78; LEH<sup><small>3</small></sup>, 70, ‘let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves’. 
+[^5]: <i>GELS</i>, ; LEH<sup><small>3</small></sup>, 501, 603; cf. <i>NETS</i>.
 
 Omitted: 2&nbsp;Kgs 19:34; Isa 25:9; Job 26:2?; Sir 31:6.    
 Large omission: Jer 30:10, 11.  
@@ -566,13 +563,13 @@ the noun ἔλεος in the LXX for translating the nouns
 <b>A.3</b>  For the active of σώζω to translate the Niphal at Zech 9:9, see Tg.
 
 <b>B.1</b>  ἀπόλλυμι at Job 5:15 is probably an attempt to explain a difficult syntax, or arose from a corruption to יגוע ‘to let perish’ 
-(LEH<small><sup>1</sup></small>, 53; LEH<small><sup>3</sup></small>, 70).
+(LEH<sup><small>1</small></sup>, 53; LEH<sup><small>3</small></sup>, 70).
 
 
 <b>B.2</b>  The MT reading of נושׁע at Isa 64:4 has been confirmed by the text of
-1QIs<small><sup>a</sup></small> (cf. Pesh, Tg and Vg), although the LXX πλανάομαι ‘to wander,
+1QIs<sup><small>a</small></sup> (cf. Pesh, Tg and Vg), although the LXX πλανάομαι ‘to wander,
 stray’ could imply the reading נפשׁע ‘we have erred’ (Westermann
-1969: 391; LEH<small><sup>1</sup></small>: 378). Some scholars have indeed suggested the
+1969: 391; LEH<sup><small>1</small></sup>: 378). Some scholars have indeed suggested the
 emendation נרשׁע ‘we have become wicked’ (e.g. Cheyne 1899: 73, 171; <i>BHS</i>),
 although others have followed the MT (e.g. Watts 1987: 238).  
 
@@ -796,7 +793,7 @@ liberabat</i> will be the rendering of והושׁיעם (cf. v. 16).
 <b>A.1</b>  Both in the Bible and at Qumran ישׁע is often found in parallelism or
 close association with other members of the deliverance’ group: e.g. נצל
 (Ps 7:2; 4Q171 4:21), פלט (Ps 37:40), עזר (Ps 37:40), פדה (Ps 55:17;
-11QT<small><sup>a</sup></small> 59:11), גאל (Isa 49:26; Ps 106:10), מלט (Ps 107:19; 4Q183 1 ii
+11QT<sup><small>a</small></sup> 59:11), גאל (Isa 49:26; Ps 106:10), מלט (Ps 107:19; 4Q183 1 ii
 3), and also חלץ (Pss 6:5; 34:7; 60:7=108:7).
 
 <a id="5.A.2"></a>
@@ -987,7 +984,7 @@ elsewhere (CD 5:19; 4Q372 1:16; 4Q385a 18 ii 10; 4Q389 1 ii 3). The
 reuse of the idiom discussed in A.4 suggests its continued use in
 everyday speech, but ישׁע hiph. is not a prominent expression of
 contemporary prayer or liturgy: there is only one secure occurrence in
-1QH<small><sup>a</sup></small> and three more in other texts (4Q380 1 ii 4; 4Q381 31:2; 4Q511
+1QH<sup><small>a</small></sup> and three more in other texts (4Q380 1 ii 4; 4Q381 31:2; 4Q511
 10:9). The contrast with the biblical psalms could not be greater, and
 perhaps reflects its infrequency in LBH and as a loan-word in Aramaic
 other than Samaritan Aramaic (Sawyer 1975: 80). But the seven occurrences

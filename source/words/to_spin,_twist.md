@@ -38,14 +38,14 @@ in SP as a noun (cf. <i>DCH</i> <small>III</small>, 360 s.v. <span dir="rtl" lan
 as a possessive suffix (3.f.sg.) and –<span dir="rtl" lang="he">טו</span> as representing a shorter noun
 (Tal & Florentin 2010:687-88): 
 ‘and every woman wise of heart – in her hand was (</i>her</i>?) <i>spun yarn</i>’. 
-This interpretation is confirmed by the rendering in Tg<small><sup>Smr</sup></small> by <span dir="rtl" lang="he">עזלה</span> (var.: <span dir="rtl" lang="he">עזל</span>; <i>STP</i> <small>I</small>, 372-73): <span dir="rtl" lang="he">באדה עזלה</span>,
+This interpretation is confirmed by the rendering in Tg<sup><small>Smr</small></sup> by <span dir="rtl" lang="he">עזלה</span> (var.: <span dir="rtl" lang="he">עזל</span>; <i>STP</i> <small>I</small>, 372-73): <span dir="rtl" lang="he">באדה עזלה</span>,
 ‘in her hand was (</i>her</i>?) <i>spun yarn</i>’. 
 Similarly, the Sam. tradition interpreted <span dir="rtl" lang="he">מטוה</span> in Exod 35:25b as a combination of the preposition <span dir="rtl" lang="he">מן</span>
 and the form <span dir="rtl" lang="he">טוה</span>: 
 ‘and they brought – <i>from</i> (<i>her</i>?) <i>spun yarn</i> 
-– bluish purple and reddish purple ...’; see Tg<small><sup>Smr</sup></small> <span dir="rtl" lang="he">מן עזלה</span>,
+– bluish purple and reddish purple ...’; see Tg<sup><small>Smr</small></sup> <span dir="rtl" lang="he">מן עזלה</span>,
 ‘from (her?) spun yarn’.
-In Exod 35:26, however, Tg<small><sup>Smr</sup></small> interprets 
+In Exod 35:26, however, Tg<sup><small>Smr</small></sup> interprets 
 <span dir="rtl" lang="he">טוו</span>
 (SP and MT) as a verbal form and renders it as
 <span dir="rtl" lang="he">עזלו</span>
@@ -79,7 +79,7 @@ The Akk. cognate <i>ṭamû</i>
 (sometimes <i>ṭawû</i> or <i>ṭemû</i>; also written <small>NU.NU</small>) 
 means ‘to spin, twist, braid, entwine’. See <i>CAD</i> Ṭ, 45-46 (similarly <i>AHw</i> <small>III</small>, 1382),
 with quotations from several texts referring to spinning with a 
-<small><sup><span style="text-transform:uppercase;">giš</span></sup><span style="text-transform:uppercase;">bal</span></small> = <i>pilakku</i>, ‘spindle’ 
+<sup><small><span style="text-transform:uppercase;">giš</span></sup><span style="text-transform:uppercase;">bal</span></small> = <i>pilakku</i>, ‘spindle’ 
 (→ <a href="/sahd/words/spindle/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>). 
 The quoted phrases demonstrate that the verb <i>ṭamû</i> 
 was not only used for spinning threads from raw fibres,
@@ -104,7 +104,7 @@ BAram. <span dir="rtl" lang="he">טְוָת</span> is interpreted as an adverb m
 However, it has become quite dubious whether BHeb. <span dir="rtl" lang="he">טוה</span>  and BAram. <span dir="rtl" lang="he">טְוָת</span>, are really cognates 
 (see <i>HALOT</i>, 1883 s.v. \*<span dir="rtl" lang="he">טוה</span>).  
 
-[^1]: Cf. GB, 274 s.v. <span dir="rtl" lang="he">טוה</span>; KBL, 350 s.v. <span dir="rtl" lang="he">טוה</span>, 1078-79 s.v. <span dir="rtl" lang="he">טוה</span>  and <span dir="rtl" lang="he">טְוָת</span>; <i>HALOT</i>, 372 s.v. <span dir="rtl" lang="he">טוה</span>; Ges<small><sup>18</sup></small>, 421 s.v. <span dir="rtl" lang="he">טוה</span>.
+[^1]: Cf. GB, 274 s.v. <span dir="rtl" lang="he">טוה</span>; KBL, 350 s.v. <span dir="rtl" lang="he">טוה</span>, 1078-79 s.v. <span dir="rtl" lang="he">טוה</span>  and <span dir="rtl" lang="he">טְוָת</span>; <i>HALOT</i>, 372 s.v. <span dir="rtl" lang="he">טוה</span>; Ges<sup><small>18</small></sup>, 421 s.v. <span dir="rtl" lang="he">טוה</span>.
 
 
 <b>A.5</b>  <i><span id="PBH">Postbiblical Hebrew</span></i>:
@@ -136,7 +136,7 @@ Many BHeb. dictionaries suggest that Arab. <i>ṭawā</i>, ‘to fold, wind’, 
 For the Arab. verb, see Lane
 1898-1900 (1900: <i>miṭwān</i>, ‘a thing upon which spun thread is wound’). 
 
-[^4]: Gesenius, <i>TPC</i> i:546-47; BDB, 376; GB, 274; KBL, 530; <i>HALOT</i>, 372; Ges<small><sup>18</sup></small>, 421.
+[^4]: Gesenius, <i>TPC</i> i:546-47; BDB, 376; GB, 274; KBL, 530; <i>HALOT</i>, 372; Ges<sup><small>18</small></sup>, 421.
 
 
 <b>A.8</b>  <i>Ethiopic</i>: 
@@ -144,7 +144,7 @@ In Eth., the verb <i>ṭawaya</i> means ‘to be twisted’ (<i>CDG</i>, 600).
 Many BHeb. dictionaries regard it as a cognate of Heb.
 <span dir="rtl" lang="he">טוה</span>.[^5] 
 
-[^5]: BDB, 376; GB, 274; KBL, 530; <i>HALOT</i>, 372; Ges<small><sup>18</sup></small>, 421.
+[^5]: BDB, 376; GB, 274; KBL, 530; <i>HALOT</i>, 372; Ges<sup><small>18</small></sup>, 421.
 
 ##<span id="FC">2. Formal Characteristics</span>
 <b>A.1</b> 
@@ -197,7 +197,7 @@ see <a href="#Sam">Introduction A.1</a>.
 <b>c. Targumim (Tg: O/PsJ/N/Smr):</b> 
 
 * <span dir="rtl" lang="he">עזל</span>, ‘to spin’:[^8] 
-Tg<small><sup>O,PsJ,N</sup></small> Exod 35:25, 26; Tg<small><sup>Smr</sup></small> Exod 35:26. For Tg<small><sup>Smr</sup></small> Exod 35:25, see <a href="#Sam">Introduction A.1</a>.
+Tg<sup><small>O,PsJ,N</small></sup> Exod 35:25, 26; Tg<sup><small>Smr</small></sup> Exod 35:26. For Tg<sup><small>Smr</small></sup> Exod 35:25, see <a href="#Sam">Introduction A.1</a>.
 
 [^8]: Jastrow, <i>DTT</i>, 1061;   Sokoloff,  <i>DJBA</i>, 849-50;  <i>DJPA</i>, 401;  Tal, <i>DSA</i>, 630.
 
@@ -289,7 +289,7 @@ Other objects were made only of spun
 (26:4; 28:28, 31, 37; 36:11; 39:21, 22)
 or only of spun <span dir="rtl" lang="he">שֵׁשׁ</span>, ‘fine linen’ (27:9, 18; 28:39; 38:9, 16; 39:27-28). 
 
-[^10]: Gesenius, <i>TPC</i> i:546; BDB, 376; GB, 274; KBL, 530; <i>DCH</i> <small>III</small>, 360; <i>HALOT</i>, 372; Ges<small><sup>18</sup></small>, 421. 
+[^10]: Gesenius, <i>TPC</i> i:546; BDB, 376; GB, 274; KBL, 530; <i>DCH</i> <small>III</small>, 360; <i>HALOT</i>, 372; Ges<sup><small>18</small></sup>, 421. 
 [^11]: Andersson Strand 2015:55; Spinazzi-Lucchese 2018:16-17, 20.
 
 <b>A.2</b> 

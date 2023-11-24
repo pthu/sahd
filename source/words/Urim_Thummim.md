@@ -1214,8 +1214,7 @@ Berlin: Reimer.
 
 ## Notes 
 [^1]: Cf. <i>DCH</i> viii:644 (<i>sub</i> d); <i>HALOT</i>, 1750 (<i>sub</i> D).
-[^2]: Barthélemy, <i>CTAT</i> 1:186-87; 
-cf. Toeg 1969:493-94.
+[^2]: Barthélemy, <i>CTAT</i> 1:186-87; cf. Toeg 1969:493-94.
 [^3]: Toeg 1969; Noort 1971; Tov, <i>TCHB</i><sup><small>3</small></sup>, 224; Dietrich 2015:61, 65-66, 99-100; Hendel 2016:264.
 [^4]: Van Dam 1997:197-203; Tsumura 2007:377-79.
 [^5]: Cf. <i>HALOT</i>, 1750 (<i>sub</i> D).

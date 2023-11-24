@@ -56,7 +56,7 @@ The latter word is used in a number of locative or topographical names:
 בִּקְעַת יְרֵחוֹ
 (Deut 34:3), etc.
 
-[^4]:  KBL, 144: ‘Teil, Stück <i>part, piece</i>’; Zorell, 124; <i>HAL</i>, 144; <i>HALOT</i>, 150; Ges<small><sup>18</sup></small>, 169. 
+[^4]:  KBL, 144: ‘Teil, Stück <i>part, piece</i>’; Zorell, 124; <i>HAL</i>, 144; <i>HALOT</i>, 150; Ges<sup><small>18</small></sup>, 169. 
 
 
 <b> A.2</b> 
@@ -66,8 +66,8 @@ Ug. <i>bq‛</i>, ‘to split, open’,[^6]
 Moab. <i>bq‛</i>, ‘to break through (of dawn)’,[^7]
 LMHebr. בקע, ‘to split, chop’.[^8]
 
-[^5]:  Cf. <i>HAL</i>, 144; Ges<small><sup>18</sup></small>, 169; <i>DNWSI</i>, 187. 
-[^6]:  <i>WUS</i>, 57, \# 567; <i>DULAT</i><small><sup>1</sup></small>, 234. 
+[^5]:  Cf. <i>HAL</i>, 144; Ges<sup><small>18</small></sup>, 169; <i>DNWSI</i>, 187. 
+[^6]:  <i>WUS</i>, 57, \# 567; <i>DULAT</i><sup><small>1</small></sup>, 234. 
 [^7]:  <i>KAI</i>, 176, \# 181.
 [^8]:  Jastrow, <i>DTT</i>, 186.  
 
@@ -101,8 +101,7 @@ is a <i>qatl</i> formation – the most common noun pattern
 
 <b> A.1</b> 
 In the Hebrew Bible בֶּקַע occurs twice in the singular absolute. No other forms are attested. 
-In epigraphical sources the word is solely used as the designation of the weight on which it is  
-inscribed. 
+In epigraphical sources the word is solely used as the designation of the weight on which it is inscribed. 
 
 
 <b> A.2</b> 
@@ -131,32 +130,32 @@ occurs in apposition:
 <b>A.1</b> The noun בֶּקַע is rendered as follows in the ancient translations.
 
 
-<b> a. Septuagint (LXX) and other Greek versions:</b> 
+<b> a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ):</b> 
  
 * δραχμὴ, ‘drachma (weight)’:[^15] 
-Gen 24:22<sup>LXX</sup>; 
+Gen 24:22<sup><small>LXX</small></sup>; 
 Exod 39:3<sup><small>LXX</small></sup> 
-(38:26<small><sup>MT</sup></small>);  
+(38:26<sup><small>MT</small></sup>);  
 * δίδραχμον, ‘coin of two drachmas’:[^16]
-Exod 39:3<sup>α’</sup> (38:26<small><sup>MT</sup></small>).
+Exod 39:3<sup>α’</sup> (38:26<sup><small>MT</small></sup>).
 
-[^15]:  LEH<small><sup>3</sup></small>, 161; <i>GELS</i>, 178.
-[^16]:  LEH<small><sup>3</sup></small>, 151; <i>GELS</i>, 164.  Remarkably LEH<small><sup>3</sup></small>, 151, has in addition to ‘coin of two drachmas’ also ‘half-shekel’, which suggests that δίδραχμον equals ‘half-shekel’. Apparently ‘half-shekel’ was intended as a definition for <i>one</i> drachma, because a δίδραχμον equals always a shekel (see Gen 23:15, 16; Exod 21:32).
+[^15]:  LEH<sup><small>3</small></sup>, 161; <i>GELS</i>, 178.
+[^16]:  LEH<sup><small>3</small></sup>, 151; <i>GELS</i>, 164.  Remarkably LEH<sup><small>3</small></sup>, 151, has in addition to ‘coin of two drachmas’ also ‘half-shekel’, which suggests that δίδραχμον equals ‘half-shekel’. Apparently ‘half-shekel’ was intended as a definition for <i>one</i> drachma, because a δίδραχμον equals always a shekel (see Gen 23:15, 16; Exod 21:32).
 
 <b> b. Targumim (Tg.: O/N/PsJ/Smr):</b>  
 
 * <span dir="rtl" lang="he">דרכמון</span>,
- ‘drachma’:[^17] Gen 24:22<small><sup>PsJ</sup></small>; Exod 38:26<small><sup>PsJ</sup></small>;  
+ ‘drachma’:[^17] Gen 24:22<sup><small>PsJ</small></sup>; Exod 38:26<sup><small>PsJ</small></sup>;  
 * <span dir="rtl" lang="he">טבע</span>/* <span dir="rtl" lang="he">טבי</span>,
- ‘half-shekel, coin’:[^18] Gen 24:22<small><sup>N,Smr</sup></small>; Exod 38:26<small><sup>Smr</sup></small>;
+ ‘half-shekel, coin’:[^18] Gen 24:22<sup><small>N,Smr</small></sup>; Exod 38:26<sup><small>Smr</small></sup>;
 * <span dir="rtl" lang="he">תקלא</span>,
-‘shekel’:[^19] Gen 24:22<small><sup>O</sup></small>; Exod 38:26<small><sup>O</sup></small>;  
-* No rendering: Exod 38:26<small><sup>N</sup></small>.[^20]
+‘shekel’:[^19] Gen 24:22<sup><small>O</small></sup>; Exod 38:26<sup><small>O</small></sup>;  
+* No rendering: Exod 38:26<sup><small>N</small></sup>.[^20]
 
 [^17]:  Levy, <i>CWT</i> vol. I:188: ‘<i>Dareicos</i>, eine persische Goldmünze = einem gemeinen Shekel’; Jastrow, <i>DTT</i>, 324: ‘(late b.h.) = דַּרְכּוֹן (= <i>Daric</i>, <i>ad loc.</i>); Dalman, <i>ANHT</i>, 105: ‘(δραχμή) Drachme’; Sokoloff, <i>DJPA</i>, 156.
 [^18]:  Tal, <i>DSA</i>, 302 s.v.  טבע; Levy, <i>CWT</i>, vol. I:294: ‘1. <i>geprägte Münze</i>, … bes. die Hälfte eines heiligen Sekel’. Jastrow, <i>DTT</i>, 519: ‘<i>Teb‛a</i>, a coin equal to half a Sela’. Dalman, <i>ANHT</i>, 166: ‘1. Münze; 2. eine bestimmte Münze (ein halber Sela)’.
 [^19]:  Levy, <i>CWT</i>, vol. II:551, ‘<i>Siclus</i>, u.zw. der gemeine Sekel = der Hälfte eines heiligen Sekels oder Sela = Dareikon, ungef. 13 Sgr. nach unserm Gelde’. Jastrow, <i>DTT</i>, 1691: ‘<i>weight</i>, esp. (<i>half a</i>) <i>Shekel</i>’. Dalman, <i>ANHT</i>, 447: ‘II. Sekel (Gewicht u. Münze)".
-[^20]: Only in the marginalia of Tg.<small><sup>N</sup></small> an equivalent טבע for MT בֶּקַע is found.
+[^20]: Only in the marginalia of Tg.<sup><small>N</small></sup> an equivalent טבע for MT בֶּקַע is found.
 
 <b> c. Peshitta (Pesh.):</b>   
 
@@ -202,9 +201,8 @@ The word  בֶּקַע has the basic meaning ‘split off’, ‘piece’, ‘pa
 and in Exod 38:26 it is a ‘part’ (from two parts) of a 
 shekel.[^26]
 
-[^25]:  Gesenius, <i>TPC</i> 1:232; BDB, 132; KBL,  144: ‘Teil, Stück <i>part, piece</i>’; Zorell, 124; <i>HAL</i>, 144; <i>HALOT</i>, 150; Ges<small><sup>18</sup></small>, 169.
-[^26]:  Gesenius, <i>TPC</i> 1:232: ‘pars dimidia, a findendo dicta (...), nonnisi spec. dimidius siclus’; <i>HAWAT</i>,  46: ‘1/2  Šeqel: ca. acht Gramm’; BDB, 132: ‘fraction, half, i.e. half-shekel, a weight’; <i>GB</i>,  111: ‘halber Sekel’; Zorell, 124: ‘… sec. Ex 38 26 dimidia pars sicli sacri (= 8,18 gr. nostri ponderis…)’; <i>HAL</i>, 144: ‘e. Gewicht als Metallwert 1/2 שֶׁקֶל; Halbschekel’. <i>DCH</i> ii:249: ‘half a shekel’. Ges<small><sup>18</sup></small>, 169: ‘GBdtg Abgespaltenes, bzw. Teil, i. MT Beka, Halbschekel 1. Gewicht (...) = ca. 6 g. m. lok. Abweichungen’.
-
+[^25]:  Gesenius, <i>TPC</i> 1:232; BDB, 132; KBL,  144: ‘Teil, Stück <i>part, piece</i>’; Zorell, 124; <i>HAL</i>, 144; <i>HALOT</i>, 150; Ges<sup><small>18</small></sup>, 169.
+[^26]:  Gesenius, <i>TPC</i> 1:232: ‘pars dimidia, a findendo dicta (...), nonnisi spec. dimidius siclus’; <i>HAWAT</i>,  46: ‘1/2  Šeqel: ca. acht Gramm’; BDB, 132: ‘fraction, half, i.e. half-shekel, a weight’; <i>GB</i>,  111: ‘halber Sekel’; Zorell, 124: ‘… sec. Ex 38 26 dimidia pars sicli sacri (= 8,18 gr. nostri ponderis…)’; <i>HAL</i>, 144: ‘e. Gewicht als Metallwert 1/2 שֶׁקֶל; Halbschekel’. <i>DCH</i> ii:249: ‘half a shekel’. Ges<sup><small>18</small></sup>, 169: ‘GBdtg Abgespaltenes, bzw. Teil, i. MT Beka, Halbschekel 1. Gewicht (…) = ca. 6 g. m.lok. Abweichungen’.
 
 <b> A.2</b> 
 The designation בֶּקַע is mentioned as a weight in Gen 24:22: 
@@ -425,7 +423,7 @@ Ephraim Stern,
 	</div> 
 
 <div style="padding-left: 22px; text-indent: -22px;">Weippert 1977<br>
-	Helga Weippert, ‘Gewicht’, <i>BRL</i><small><sup>2</sup></small>,  93–94.
+	Helga Weippert, ‘Gewicht’, <i>BRL</i><sup><small>2</small></sup>,  93–94.
 	</div>
 
 
