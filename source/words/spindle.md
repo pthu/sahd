@@ -208,7 +208,7 @@ which indicates that the פֶּלֶךְ is grasped.
 * ἄτρακτος, ‘spindle’:[^5] 
 2 Sam 3:29<sup><small>αʹσʹ</small></sup>;[^6] 
 Prov 31:19<sup><small>LXX</small></sup>;  
-* σκυτάλη, ‘staff’, ‘cudgel’, ‘club’:[^7]
+* σκυτάλη, ‘staff, cudgel, club’:[^7]
 2 Sam 3:29<sup><small>LXX</small></sup>.
 
 [^5]: LSJ, 272; <i>GELS</i>, 101.
@@ -226,7 +226,7 @@ Prov 31:19<sup><small>LXX</small></sup>;
 <b>c. Targum (Tg: J/K):</b>  
 
 * <span dir="rtl" lang="he">אַגְרָא</span>,
- ‘wages’, ‘reward’, ‘profit’:[^9] 2 Sam 3:29<sup><small>J</small></sup>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff’, ‘crutch’, ‘pole’,[^10] is questionable (Van Staalduine-Sulman 2002:499-500).   
+ ‘wages, reward, profit’:[^9] 2 Sam 3:29<sup><small>J</small></sup>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff, crutch, pole’,[^10] is questionable (Van Staalduine-Sulman 2002:499-500).   
 * <span dir="rtl" lang="he">מעזלא</span>,
 derivative of עזל,
 ‘to spin’,
