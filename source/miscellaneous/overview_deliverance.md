@@ -1506,25 +1506,25 @@ Biblical Hebrew’, in: John Barton (ed.), <i>Bible and Interpretation: The Coll
 <div style="padding-left: 22px; text-indent: -22px;">
 Barth 1977
 <br>
-Ch. Barth, 'חלץ', in: <i>ThWAT</i> 2:1003–08.
+Ch. Barth, ‘חלץ’, in: <i>ThWAT</i> 2:1003–08.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Bergmann 1978a
 <br>
-U. Bergmann, 'נצל hi. – retten', in: <i>THAT</i> 2:96–99. 
+U. Bergmann, ‘נצל hi. – retten’, in: <i>THAT</i> 2:96–99. 
 </div> 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Bergmann 1978b
 <br>
-U. Bergmann, 'עזר – helfen', in: <i>THAT</i> 2:256–59. 
+U. Bergmann, ‘עזר – helfen’, in: <i>THAT</i> 2:256–59. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Cazelles 1989
 <br>
-Henri Cazelles, 'פָּדָה', in: <i>ThWAT</i> 6:514—22.
+Henri Cazelles, ‘פָּדָה’, in: <i>ThWAT</i> 6:514—22.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1551,13 +1551,13 @@ Alison R. Gray, <i>Psalm 18 in Words and Pictures: A Reading through Metaphor</i
 <div style="padding-left: 22px; text-indent: -22px;">
 Hasel 1989
 <br>
-G.F. Hasel, 'פָּלַט', in: <i>ThWAT</i> 6:589–606.
+G.F. Hasel, ‘פָּלַט’, in: <i>ThWAT</i> 6:589–606.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Hossfeld and Kalthoff 1986
 <br>
-F.L. Hossfeld, and B. Kalthoff, 'נצל', in: <i>ThWAT</i> 5:570–77.
+F.L. Hossfeld, and B. Kalthoff, ‘נצל’, in: <i>ThWAT</i> 5:570–77.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1569,7 +1569,7 @@ Phillip D. King, <i>Surrounded by Bitterness: Image Schemas and Metaphors for Co
 <div style="padding-left: 22px; text-indent: -22px;">
 Lipiński and Fabry 1989
 <br>
-Edward Lipiński, and Heinz-Josef Fabry, 'עזר', in: <i>ThWAT</i> 6:14–21.
+Edward Lipiński, and Heinz-Josef Fabry, ‘עזר’, in: <i>ThWAT</i> 6:14–21.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1591,19 +1591,19 @@ Takamitsu Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> (AbrNSup, 6), Leuven
 <div style="padding-left: 22px; text-indent: -22px;">
 Reiterer 1989  
 <br>
-F. Reiterer, 'פָּרַק', in: <i>ThWAT</i> 6:770—73.
+F. Reiterer, ‘פָּרַק’, in: <i>ThWAT</i> 6:770—73.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ringgren 1973
 <br>
-Helmer Ringgren, 'גָּאַל', in: <i>ThWAT</i> 1:884–90.
+Helmer Ringgren, ‘גָּאַל’, in: <i>ThWAT</i> 1:884–90.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ruprecht 1978
 <br>
-E. Ruprecht, 'פלט pi. – retten', in: <i>THAT</i> 
+E. Ruprecht, ‘פלט pi. – retten’, in: <i>THAT</i> 
 2:420–27. 
 </div> 
 
@@ -1644,7 +1644,7 @@ James and Theodora Bynon (eds.),
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1982
 <br>
-John F. A. Sawyer, 'ישׁע', in: <i>ThWAT</i> 3:1035–59 (ET 1990: <i>TDOT</i> 6:441-63). 
+John F. A. Sawyer, ‘ישׁע’, in: <i>ThWAT</i> 3:1035–59 (ET 1990: <i>TDOT</i> 6:441-63). 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1656,20 +1656,20 @@ Johann J. Stamm, <i>Erlösen und Vergeben im Alten Testament</i>, Bern: Francke-
 <div style="padding-left: 22px; text-indent: -22px;">
 Stamm 1978a
 <br>
-Johann J. Stamm, 'גאל – erlösen', in: <i>THAT</i> 
+Johann J. Stamm, ‘גאל – erlösen’, in: <i>THAT</i> 
 1:383–94. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Stamm 1978b
 <br>
-Johann J. Stamm, 'פדה – auslösen, befreien', in: <i>THAT</i> 2:389–406.  
+Johann J. Stamm, ‘פדה – auslösen, befreien’, in: <i>THAT</i> 2:389–406.  
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Stolz 1978
 <br>
-F. Stolz, 'ישׁע hi. – helfen', in: <i>THAT</i> 1:785–90. 
+F. Stolz, ‘ישׁע hi. – helfen’, in: <i>THAT</i> 1:785–90. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">

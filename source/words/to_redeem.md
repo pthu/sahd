@@ -1,7 +1,7 @@
 ---
 word_english: to_redeem   
 word_hebrew: גאל  
-title: to redeem (as kinsman); buy/claim (back);
+title: to redeem (as kinsman); to buy/claim (back);
 semantic_fields: deliverance  
 contributors: alison_gray  
 first_published: 2007-08-01  

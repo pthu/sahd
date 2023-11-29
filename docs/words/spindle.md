@@ -18,8 +18,6 @@ Occurrences:   2x HB (0/1/1); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2)
 * Nebiim: 2 Sam 3:29
 * Ketubim: Prov 31:19
 
-
-
 <b>A.1</b> <a id="pilku"></a>The noun must be distinguished from the homonym
  פֶּלֶךְ 
 <small>II</small>, ‘district’ (8x in Neh 3:9-18;

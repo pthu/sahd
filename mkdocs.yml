@@ -20,13 +20,18 @@ nav:
             - י:
                 - יְשׁוּעָה - protection: words/protection.md
                 - ישׁע - to save, help: words/to_save,_help.md
+            - מ:
+                - מָאוֹר - light: words/light.md
+                - מַחֲרָשָׁה/מַחֲרֶשֶׁת - plough: words/plough.md
             - פ:
                 - פֶּלֶךְ - spindle: words/spindle.md
     - Semantic fields:
+            - Agriculture: semantic_fields/agriculture.md
             - Craft: semantic_fields/craft.md
             - Cult: semantic_fields/cult.md
             - Deliverance: semantic_fields/deliverance.md
             - Divination: semantic_fields/divination.md
+            - Light: semantic_fields/light.md
             - Textile Production: semantic_fields/textile production.md
             - Utensils: semantic_fields/utensils.md
             - Weight: semantic_fields/weight.md
@@ -36,6 +41,7 @@ nav:
             - Raymond de Hoop: contributors/raymond_de_hoop.md
             - Kees den Hertog: contributors/kees_den_hertog.md
             - Alison Gray: contributors/alison_gray.md
+            - Cornelis Houtman: contributors/cornelis_houtman.md
             - Paul Sanders: contributors/paul_sanders.md
             - Bertus van ’t Veld: contributors/bertus_van_’t_veld.md
             - Klaas R. Veenhof: contributors/klaas_r._veenhof.md
