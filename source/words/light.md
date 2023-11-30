@@ -37,40 +37,29 @@ see below,
 <a href="#lxxprov">section 4.a</a>).
 Michael Fox suggests that this reading would be in line with LXX, resulting in 
 the following text: 
-<span dir="rtl">מַרְאֵה־עֵ֭ינַיִם יְשַׂמַּֽח־לֵ֑ב</span>,
- ‘[t]he sight of the eyes makes the heart glad’. 
+<span dir="rtl">מַרְאֵה־עֵ֭ינַיִם יְשַׂמַּֽח־לֵ֑ב</span>, ‘the sight of the eyes makes the heart glad’. 
 He argues that the words ‘the sight of the eyes’  would refer to something 
 that is visible and desirable to the viewer.[^6] 
 MT ’s  <span dir="rtl">מְאוֹר־עֵינַיִם יְשַׂמַּח־לֵב</span>, ‘light of the eyes gladdens the heart’, would mean
 something like ‘<i>joy</i> or <i>vitality</i> makes the heart glad’ 
 (comparable to 
 the idiom with <span dir="rtl">אוֹר</span> in 1 Sam 14:27, 29; Ps 13:4; Prov 29:13). 
-According to Fox this would be awkward and tautologous.[^7]
+According to Fox (2009:604) this would be awkward and tautologous.
 In his view <span dir="rtl">מְאוֹר־עֵינַיִם</span>, ‘light of the eyes’ cannot refer to one’s own eyes, 
-‘because that would be the <i>effect</i> of the glad heart, not … its 
-cause.’[^8] 
-The solution offered by <i>e.g.</i> Delitzsch[^9] 
+‘because that would be the <i>effect</i> of the glad heart, not … its cause’ (Fox 2009:604). 
+The solution offered by <i>e.g.</i> Delitzsch (1873:257-58; see also Plöger 1984:184-85) 
 that it does not refer to one’s own eyes, but to the bright eyes of another person, 
-thus their smiles and favour, is rejected by Fox since ‘the light of the eyes’ is not used in 
-this way.[^10]    
-Although the other Versions appear to presuppose  <span dir="rtl">מָאוֹר</span> (cf. below, <a href="#AV">section 4</a>), 
-a different reading in the pre-MT version of the text is possible. However, a reading- or 
-writing-error of <span dir="rtl">מראה</span> &gt; <span dir="rtl">מאור</span> is unlikely. Fox suggests 
-metathesis of <span dir="rtl">רא</span> &gt; <span dir="rtl">אר</span>, as well as a change (or misconstrual) of 
-orthography, and the association of two words in the same semantic field.[^11]
-Three errors in order to misconstrue one word would require a rather clumsy scribe.   
-In his commentary Fox did not take into consideration the complete reading of LXX, 
-which not only read one word θεωρέω, ‘to look at, to behold, to see’, as the rendering of 
-the Hebrew word, but apparently offered an interpretation of the Hebrew original 
-by rendering θεωρῶν ὀφθαλμὸς καλὰ, ‘the eye that observes good things’ (<i>NETS</i>). 
-In his text edition of Proverbs Fox suggests that LXX added καλά, ‘good, beautiful’ 
-for <i>logical clarity</i>,
-because not everything the eye sees is pleasing. This ‘adjustment’ would only make sense in 
-response to <span dir="rtl">מראה</span>, ‘sight, appearance, vision’, 
-instead of <span dir="rtl">מאור</span>, ‘light’, 
-in the source  text.[^12] 
-Indeed, as Fox states himself, not everything the eye sees, pleases the 
-heart,[^13]
+thus their smiles and favour, is rejected by Fox since ‘the light of the eyes’ is not used in this way (Fox 2009:604).
+Although the other Versions appear to presuppose  <span dir="rtl">מָאוֹר</span> (cf. below, <a href="#AV">section 4</a>), a different reading in the pre-MT version of the text is possible. However, a reading- or 
+writing-error of <span dir="rtl">מראה</span> &gt; <span dir="rtl">מאור</span> is unlikely. Fox (2015:243; cf. p. xv)
+suggests metathesis of <span dir="rtl">רא</span> &gt; <span dir="rtl">אר</span>, as well as a change (or misconstrual) of 
+orthography, and the association of two words in the same semantic field. Three errors in order to misconstrue one word would require a rather clumsy scribe. In his commentary Fox did not take into consideration the complete reading of LXX, 
+which not only read one word θεωρέω, ‘to look at, to behold, to see’, as the rendering of the Hebrew word, but apparently offered an interpretation of the Hebrew original 
+by rendering θεωρῶν ὀφθαλμὸς καλὰ, ‘the eye that observes good things’ (<i>NETS</i>). In his text edition of Proverbs Fox (2015:243) suggests that LXX added καλά, ‘good, beautiful’ 
+for ’logical clarity’, because not everything the eye sees is pleasing. This ‘adjustment’ would only make sense in 
+response to <span dir="rtl">מראה</span>, ‘sight, appearance, vision’, instead of <span dir="rtl">מאור</span>, ‘light’, 
+in the source text. 
+Indeed, as Fox states himself (2015:243), not everything the eye sees, pleases the heart,
 and it is questionable whether such a saying would fit into the book of Proverbs.   
 Thus, in addition to the fact that we have to assume that MT was copied by a rather clumsy scribe, 
 who makes three errors in one word, we also 
@@ -125,7 +114,7 @@ In conclusion, Rudolph’s proposal in Song 4:9 is to be rejected and the text m
 <i>Ketiv</i>/<i>Qere</i>: none.[^24]
 
 
-##<span id="RCM">Root and Comparative Material</span>
+##<span id="RCM">1. Root and Comparative Material</span>
 
 <b> A.1</b> <span dir="rtl">מָאוֹר</span> is derived from the √ <span dir="rtl">אור</span>, ‘be light’,[^25] 
 which has numerous derivatives in the Hebrew Bible, such as 
@@ -142,10 +131,9 @@ and p.n.:
 <span dir="rtl">יָאִיר</span>, ‘Jair’. 
 
 <b> A.2</b> The 
-√<i>ʾwr</i> seems to be Hamito-Semitic,[^26] 
-but only in NWSem languages is it fully developed. 
+√<i>ʾwr</i> seems to be Hamito-Semitic (<i>DRS</i>, 13; <i>HSED</i>, 35), but only in NWSem languages is it fully developed. 
 Yet, the root is not unequivocally  attested in NWSem epigraphical texts but only in uncertain contexts.[^27]
- In Akk. the root is attested as <i>urru</i> (<i>ḫurru</i>), ‘day, daylight’.[^28] 
+ In Akk. the root is attested as <i>urru</i> (<i>ḫurru</i>), ‘day, daylight’ (<i>CAD</i> U/W, 243-44;  <i>AHw</i> iii:1433). 
 Ug. also applies the verb <i>ʾir</i>, ‘to shine’[^29] 
 and the nomen <i>ʾar</i>/<i>ʾir</i>, ‘light’.[^30]
 However, the word <i>mʾwr</i>/<span dir="rtl">מָאוֹר</span> itself is only found in BHebr., Sam., Qum., 
@@ -154,16 +142,16 @@ LMHebr., and Jewish Aramaic.
 <b> A.3</b> <i>Post-biblical Hebrew</i>: the word <span dir="rtl">מאור</span> is attested as 1. ‘luminary, light’; 2. ‘light-hole, opening, window’ (cf. BHebr. <span dir="rtl">מְאוּרָה</span></i>).[^31]
 
 <b>A.4</b> <i>Jewish Aramaic</i>: 
-the word <span dir="rtl">מאור</span>, ‘light’ occurs again in an inscription of the synagogue in Synchar, l. 7: <span dir="rtl">ומאורה דקה(לה)</span>, ‘the light of the congregation’,[^32] 
+the word <span dir="rtl">מאור</span>, ‘light’ occurs again in an inscription of the synagogue in Synchar, l. 7: <span dir="rtl">ומאורה דקה(לה)</span>, ‘the light of the congregation’ (<i>ATTM</i>, 401-02, 506), 
 and in T<sup><small>F</small></sup> to Exod 13:22 <span dir="rtl">מאור עמודא דעננא</span>, ‘the light of the pillar of 
 fire’.[^33]
 
 <b>A.5</b> <i>Samaritan Aramaic</i>: 
 <span dir="rtl">מָאוֹר</span> is attested in the sense of 
-‘light’, ‘luminary’ and it is applied as an epithet for Moses and Aaron.[^34] Furthermore it is applied to render Heb. מָאוֹר in Gen 1:16; Exod 35:14<sup><small>1</small></sup>; Num 4:9 in T<sup><small>Smr</small></sup> (see below, §4.c).
+‘light’, ‘luminary’ and it is applied as an epithet for Moses and Aaron (Tal, <i>DSA</i>, 14.). Furthermore it is applied to render Heb. מָאוֹר in Gen 1:16; Exod 35:14<sup><small>1</small></sup>; Num 4:9 in T<sup><small>Smr</small></sup> (see below, §4.c).
 
 
-##<span id="FC">Formal Characteristics</span>
+##<span id="FC">2. Formal Characteristics</span>
 
 <b> A.1</b> <span dir="rtl">מָאוֹר</span> (spelt once <span dir="rtl">מָאֹר</span>, Exod 25:6)
 is a  <i>maqāl</i>-formation of the 
@@ -174,7 +162,7 @@ nouns of instrument.[^36]
 
 
 
-##<span id="Syn">Syntagmatics</span>
+##<span id="Syn">3. Syntagmatics</span>
 
 
 <b> A.1</b>  <span dir="rtl">מָאוֹר</span> occurs in the singular absolute (e.g. Gen 1:16; Exod 35:14; Ps 74:16), 
@@ -362,7 +350,7 @@ that he was not clear on what the Hebr. word <span dir="rtl">מָאוֹר</span>
 ##<span id="LSF">5. Lexical/Semantic Fields</span>
 
 
-<b>A.1</b>  <span dir="rtl">מָאוֹר</span> occurs in the creation story in the plural (<span dir="rtl">מְאוֹרֹת</span>) as the entities that shall separate (<span dir="rtl">בדל</span>) night from day. It is an echo of the first day (Gen 1:3-5), when the light (<span dir="rtl">אוֹר</span>) was created.[^93] 
+<b>A.1</b>  <span dir="rtl">מָאוֹר</span> occurs in the creation story in the plural (<span dir="rtl">מְאוֹרֹת</span>) as the entities that shall separate (<span dir="rtl">בדל</span>) night from day. It is an echo of the first day (Gen 1:3-5), when the light (<span dir="rtl">אוֹר</span>) was created (Jacob 1934:48-49). 
 <span dir="rtl">מְאוֹרֹת</span> in vv. 14-15 is the designation for all the entities in the full expanse (<span dir="rtl">רָקִיעַ</span>) of the sky, the sun, moon and the stars. Later the adjectives ‘great’ (<span dir="rtl">גָּדֹול</span>, 2x) and ‘small’ (<span dir="rtl">קָטֹן</span>, 1x) 
 serve to single out the sun and the moon. In Ezek 32:7-8 a similar usage can be discerned, where first in v. 7
 stars (<span dir="rtl">כּוֹכָב</span>), sun (<span dir="rtl">שֶׁמֶשׁ</span>) and moon (<span dir="rtl">יָרֵחַ</span>)
@@ -397,17 +385,17 @@ in Exod 35:14; 39:37, to which are added other utensils in Num 4:9. The oil for 
 <b>A.4</b>  <span dir="rtl">מָאוֹר</span> is a few times used as <i>nomen regens</i> of face (<span dir="rtl">פָּנֶה</span>, Ps 90:8; 1QHod<sup><small>a</small></sup> XIII:32; 4QHod<sup><small>c</small></sup> fr3:5[^97]) and eyes (<span dir="rtl">עֵינַיִם</span>, Prov 15:30). The first combination (<span dir="rtl">מאור פני[ך]</span>) finds a parallel usage in the construct chain <span dir="rtl">אֹור פני(ך) (מלך)</span>, the light of my / your / the king’s face (Ps 4:7; 44:4; 89:16; Job 29:24; Prov 16:15). It is contrasted to darkness (<span dir="rtl">חשך</span>), 1QHa xiii:32; xvii:26; 4QHod<sup><small>c</small></sup> fr3:5;[^98] but also combined with <span dir="rtl">אור</span> (1QHa xvii:26; 4QMyst<sup><small>c</small></sup>? fr2:4). It is also used to describe the power  assisting God to protect his people, viz. the ‘prince of light’ (<span dir="rtl">שר מאור</span>, 1QM XIII.10), and, finally, God is described as an <span dir="rtl">מאור עולם</span>, ‘everlasting light’ in 1QHa xv:25. 
 
 
-##<span id="Exe">Exegesis</span>
+##<span id="Exe">6. Exegesis</span>
  
-###<span id="Exe-lit">Literal Use</span>
+###<span id="Exe-lit">6.1 Literal Use</span>
 
 <b>A.1</b> The word <span dir="rtl">מָאוֹר</span> in Gen 1:14-16; Ezek 32:8; Ps 90:8 is rendered as ‘light’,[^99] ‘licht’,[^100] ‘lumbrera, astro’,[^101] ‘coeli luminibus’,[^102] ‘Leuchte’,[^103] ‘Licht, Lichtkörper’[^104] (for the rendering ‘Leuchte(r), Lampe’, cf. below B.1); while the word in the scrolls from Qumran when occurring in a similar context is sometimes also rendered as ‘light’.[^105] Commentators agree that the word <span dir="rtl">מָאוֹר</span> is applied deliberately to the celestial bodies in Genesis 1, although their names, <span dir="rtl">שֶׁמֶשׁ</span>, ‘sun’ and <span dir="rtl">יָרֵחַ</span>, ‘moon’ as names of deities in Israel’s 
 Umwelt,[^106] are not explicitly mentioned. With regard to the latter we may compare ‘the white one’ (<span dir="rtl">הַלְּבָנָה</span>, the moon) and ‘the hot one’ (<span dir="rtl">הַחַמָּה</span>, the sun) in Isa. 24:23. It is part of the theology of the narrator to suggest that these <span dir="rtl">מְאוֹרוֹת</span> are in fact the continuation of God’s creation of the light (<span dir="rtl">אוֹר</span>, 1:3) and as such are (only) <i>creations</i> by God for governing the day and the 
 night—and that they are nothing more than that—in contrast to what was believed in Israel’s Umwelt.[^107]
 
-<b>A.2</b> In Ezekiel 32 a dirge (in reality an oracle of doom) over the Pharaoh is given and — recalling the plague of darkness in Exod 10:21-29[^108] — in Ezek 32:7 Pharaoh is threatened with a sky (<span dir="rtl">שָׁמַיִם</span>) that will be covered, stars (<span dir="rtl">כֹּכְבֵיהֶם</span>) that will be darkened, a sun (<span dir="rtl">שֶׁמֶשׁ</span>) that will be covered, and a moon (<span dir="rtl">יָרֵחַ</span>) that will not give its light (<span dir="rtl">לֹא־יָאִיר אוֹרוֹ</span>). In Ezek 32:8 this threat is summarized in everything that will be darkened above him <span dir="rtl">כָּל־מְאוֹרֵי אוֹר</span>, ‘all the lights that shine’,[^109] and darkness (<span dir="rtl">חֹשֶׁךְ</span>) will be brought upon the land. The genitive  <span dir="rtl">כָּל־מְאוֹרֵי אוֹר</span> may be explained in this case as a genitive of quality:[^110] ‘all of the lights of light’, viz. ‘all the bright lights’.[^111]
+<b>A.2</b> In Ezekiel 32 a dirge (in reality an oracle of doom) over the Pharaoh is given and — recalling the plague of darkness in Exod 10:21-29 (Greenberg 1997:653) — in Ezek 32:7 Pharaoh is threatened with a sky (<span dir="rtl">שָׁמַיִם</span>) that will be covered, stars (<span dir="rtl">כֹּכְבֵיהֶם</span>) that will be darkened, a sun (<span dir="rtl">שֶׁמֶשׁ</span>) that will be covered, and a moon (<span dir="rtl">יָרֵחַ</span>) that will not give its light (<span dir="rtl">לֹא־יָאִיר אוֹרוֹ</span>). In Ezek 32:8 this threat is summarized in everything that will be darkened above him <span dir="rtl">כָּל־מְאוֹרֵי אוֹר</span>, ‘all the lights that shine’,[^109] and darkness (<span dir="rtl">חֹשֶׁךְ</span>) will be brought upon the land. The genitive  <span dir="rtl">כָּל־מְאוֹרֵי אוֹר</span> may be explained in this case as a genitive of quality:[^110] ‘all of the lights of light’, viz. ‘all the bright lights’.[^111]
 
-<b>A.3</b> In the context of the materials needed for the sanctuary in Exodus, Leviticus, and Numbers, the word מָאוֹר  occurs as nomen rectum with <span dir="rtl">מְנֹרָה</span>,‘lampstand’ and of <span dir="rtl">שֶׁמֶן</span>, ‘oil’ (or in a prep. construction with <span dir="rtl">לְ</span>[^112]). In this context it is rendered as ‘luminary, light’,[^113]‘light’,[^114] ‘illumination’,[^115] ‘lighting’,[^116]‘Beleuchtung’,[^117] ‘res lucens, sidus’;[^118] but mostly it is rendered as a concrete object, such as ‘lamp’ or ‘Leuchter’ (for the rendering ‘Leuchte[r], Lampe’, cf. however, B.1, below).    
+<b>A.3</b> In the context of the materials needed for the sanctuary in Exodus, Leviticus, and Numbers, the word מָאוֹר  occurs as nomen rectum with <span dir="rtl">מְנֹרָה</span>,‘lampstand’ and of <span dir="rtl">שֶׁמֶן</span>, ‘oil’ (or in a prep. construction with <span dir="rtl">לְ</span>[^112]). In this context it is rendered as ‘luminary, light’,[^113]‘light’,[^114] ‘illumination’,[^115] ‘lighting’,[^116] ‘Beleuchtung’,[^117] ‘res lucens, sidus’;[^118] but mostly it is rendered as a concrete object, such as ‘lamp’ or ‘Leuchter’ (for the rendering ‘Leuchte[r], Lampe’, cf. however, B.1, below).    
 The construct chain <span dir="rtl">מְנֹרַת הַמָּאוֹר</span> (Exod 35:14; Num 4:9) is sometimes explained as: <span dir="rtl">הַמָּאוֹר</span> is the ‘sum of seven sacred lamps on golden lamp-stand’.[^119] However, Jacob Milgrom argues that the word <span dir="rtl">מָאוֹר</span> should not be interpreted as a noun, referring to an object used for lighting, because the construction with <span dir="rtl">מְנֹרָה</span>, ‘lampstand’, excludes the meaning ‘lampstand’ or ‘lamp’ for  <span dir="rtl">מָאוֹר</span>. Milgrom proposed to interpret the word as an infinitive construct (as in Aram.) to be rendered ‘for lighting’.[^120] This interpretation as an infinitive is unnecessary, however, because the word <span dir="rtl">מָאוֹר</span> can still be regarded as a noun, while the construct chain is best interpreted as a genitive of attribute with the word rendered as ‘light, lighting, shining’,[^121] and the construct chain literally as ‘the lampstand of the light’, i.e. ‘the shining / bright lampstand’ (cf. the parallel text, Exod 39:37 [see also Exod 31:8; Lev 24:4] which has <span dir="rtl">הַמְּנֹרָה הַטְּהֹרָה</span>, ‘the pure / bright lampstand’). 
 Following this line of reasoning, the expression <span dir="rtl">שֶׁמֶן לַמָּאוֹר</span> (Exod 25:6; 27:20; 35:8; 35:28; Lev 24:2), could be translated as the ‘oil for the light(ing)’ in 
 the sanctuary, and the construct chain <span dir="rtl">שֶׁמֶן הַמָּאוֹר</span> can be rendered as ‘the lighting oil’.[^122] 
@@ -416,21 +404,23 @@ the sanctuary, and the construct chain <span dir="rtl">שֶׁמֶן הַמָּאו
 is quite often rendered as 
 ‘luminary’[^129] ‘lámpara, candelabro’,[^130] ‘candelabrum’,[^131] ‘Leuchter’,[^132] ‘Leuchte, Lampe’,[^133] ‘Lichtträger’,[^134] ‘lamps’.[^135]   
 However, if the word מָאוֹר is translated as ‘lamp’ or the like, the construction <span dir="rtl">מְנֹרַת הַמָּאוֹר</span> (Exod 35:14; Num 4:9) offers a real problem, because in that case 
-we have a pleonasm: ‘the lampstand  of the lamp’. However, as has already been suggested in A.3 above, <span dir="rtl">הַמָּאוֹר</span> can be interpreted as a genitive of attribute, rendering it as ‘the bright lampstand’.[^136] In both verses which mention the <span dir="rtl">מְנֹרַת הַמָּאוֹר</span>, ‘the bright lampstand’ (Exod 35:14; Num 4:9), reference is also made to the lamps of the lampstand: 
+we have a pleonasm: ‘the lampstand  of the lamp’. However, as has already been suggested in A.3 above, <span dir="rtl">הַמָּאוֹר</span> can be interpreted as a genitive of attribute, rendering it as ‘the bright lampstand’ (Houtman 2000:347-48). In both verses which mention the <span dir="rtl">מְנֹרַת הַמָּאוֹר</span>, ‘the bright lampstand’ (Exod 35:14; Num 4:9), reference is also made to the lamps of the lampstand: 
 <span dir="rtl">וְאֶת־נֵרֹתֶיהָ</span>, ‘and its lamps’ (plur.! similarly in Exod 39:37), clearly indicating the difference in meaning between the two words מָאוֹר and <span dir="rtl">נֵר</span>.   
 The expression <span dir="rtl">שֶׁמֶן הַמָּאוֹר</span>, however, is easily misunderstood and equated with the oil, which we know in our era, viz. ‘lamp oil’. Yet ‘lamp oil’ is a specific
-kind of oil, whereas the oil mentioned for use in the sanctuary was not. The oil was ‘pure, beaten olive oil’, which was also used for cooking, and was prescribed for the sanctuary since it was better than the oil which was generally used in lamps.[^137] In other words, it is not oil specificcally for lamps, but oil that could be used in lamps as well in order to light the sanctuary. Therefore it stands to reason, that the word מָאוֹר indicates the function for which the oil was to be applied (‘lighting’[^138]) rather than the object in which it was to be applied (‘lamp’),[^139] which is mentioned separately: <span dir="rtl">לְהַעֲלֹת נֵר תָּמִיד</span>, ‘to kindle a lamp continually’ (Exod 27:20; Lev 24:2). In this respect it is remarkable that מָאוֹר is nowhere used in the same way as the word <span dir="rtl">נֵר</span> ‘lamp’,[^140] whereas it is frequently used in the same way as the noun <span dir="rtl">אוֹר</span>, ‘light’.[^141]
+kind of oil, whereas the oil mentioned for use in the sanctuary was not. The oil was ‘pure, beaten olive oil’, which was also used for cooking, and was prescribed for the sanctuary since it was better than the oil which was generally used in lamps (see Sarna 1991:175-76; Milgrom 2001:2086-87). In other words, it is not oil specificcally for lamps, but oil that could be used in lamps as well in order to light the sanctuary. Therefore it stands to reason, that the word מָאוֹר indicates the function for which the oil was to be applied (‘lighting’[^138]) rather than the object in which it was to be applied (‘lamp’),[^139] which is mentioned separately: <span dir="rtl">לְהַעֲלֹת נֵר תָּמִיד</span>, ‘to kindle a lamp continually’ (Exod 27:20; Lev 24:2). In this respect it is remarkable that מָאוֹר is nowhere used in the same way as the word <span dir="rtl">נֵר</span> ‘lamp’,[^140] whereas it is frequently used in the same way as the noun <span dir="rtl">אוֹר</span>, ‘light’ (cf. 
+<a href="#Exe-fig">§&nbsp;6.2.A.4</a> below).
  
-<b>B.2</b> With regard to Genesis 1 Gerhard von Rad stated that the text breathes a strong anti-mythological pathos, and that the expression ‘lamps’ (for <span dir="rtl">מְאֹרוֹת</span>) is deliberately prosaic and demeaning.[^142] The emphasis on the heavenly bodies as just <span dir="rtl">מְאֹרוֹת</span> in contrast to the ancient mythological concept of the sun, moon and stars as deities was criticized by Claus Westermann, who called it even caricatural.[^143] His critical stance is based on the fact that in Egypt the sun-god Amon-Re was called ‘the living Lamp’.[^144] It can be added that the Akk. god Nusku is designated as <i>nūrū</i>, but even YHWH is called ‘lamp’ (<span dir="rtl">נֵר</span>, 2 Sam. 22:29[^145]), a concept which recurs in PNN as well (e.g. Neriah).[^146] Westermann therefore stresses the bare fact that the heavenly bodies are depicted as creations of God, while their function became simultaneously their designation.[^147] Their limitation is that they are part of creation and God has ordered their goal and function. Their name in the creation narrative is at the same moment their function. 
+<b>B.2</b> With regard to Genesis 1 Gerhard von Rad stated that the text breathes a strong anti-mythological pathos, and that the expression ‘lamps’ (for <span dir="rtl">מְאֹרוֹת</span>) is deliberately prosaic and demeaning.[^142] The emphasis on the heavenly bodies as just <span dir="rtl">מְאֹרוֹת</span> in contrast to the ancient mythological concept of the sun, moon and stars as deities was criticized by Claus Westermann (1974:179), who called it even caricatural. His critical stance is based on the fact that in Egypt the sun-god Amon-Re was called ‘the living Lamp’ (Westermann 1974:179; also Gunkel 1910:109).
+It can be added that the Akk. god Nusku is designated as <i>nūrū</i>, but even YHWH is called ‘lamp’ (<span dir="rtl">נֵר</span>, 2 Sam. 22:29[^145]), a concept which recurs in PNN as well (e.g. Neriah).[^146] Westermann therefore stresses the bare fact that the heavenly bodies are depicted as creations of God, while their function became simultaneously their designation.[^147] Their limitation is that they are part of creation and God has ordered their goal and function. Their name in the creation narrative is at the same moment their function. 
 
 
-###<span id="Exe-fig">Figurative Use</span>
+###<span id="Exe-fig">6.2 Figurative Use</span>
 
 <b>A.4</b> <span dir="rtl">מָאוֹר</span> in Ps 90:8 and Prov  15:30 occurs as <i>nomen regens</i> in construct chains with respectively <span dir="rtl">פָנִים</span>, ‘face’ (of God) and <span dir="rtl">עֵינַיִם</span>, ‘eyes’ (of man) and is rendered as ‘luminary’,[^148] ‘radiante’,[^149] ‘lumen’,[^150] ‘light’,[^151] ‘Licht’,[^152] ‘leuchten’.[^153] In the scrolls from Qumran we find identical constructions, in which מָאוֹר is rendered mostly as ‘light’.[^154] Face and eyes are closely related and sometimes appear to be interchangeable. This is the case also in Ps 90:8 and Prov 15:30 where the source of light is a metaphor for the look reflecting the mood, the judgement and the feelings  of a person. This is reflected in the use of the construction <span dir="rtl">מאור פני</span>, ‘light of my face’, in Qumran, where it is said that it ‘darkened’ (<span dir="rtl">ויחשך</span>) in a time of stress and turmoil (1QHod<sup><small>a</small></sup> XIII:32;
 4QHod<sup><small>c</small></sup> fr3:5). In the case of Ps 90:8 the (brightly burning) light is a metaphor for the 
-penetrating look of YHWH, from whom nothing is concealed.[^155] In the case of Prov 15:30 an exhortation to kindness, the light is a metaphor for the favourable look of the highly-placed, who is the bearer of good news (cf. Prov 15:30b). As for its metaphorical meaning, ‘look’, there is no difference between the use of <span dir="rtl">מָאוֹר</span> in Ps 90:8 and Prov 15:30, nor in the use of <span dir="rtl">אוֹר</span> as <i>nomen regens</i> in a construct chain with <span dir="rtl">פָנִים</span> in Ps 4:7; 44:4; 89:16; Job 29:24; Prov 16:15.[^156]
+penetrating look of YHWH, from whom nothing is concealed (Ridderbos 1958:399). In the case of Prov 15:30 an exhortation to kindness, the light is a metaphor for the favourable look of the highly-placed, who is the bearer of good news (cf. Prov 15:30b). As for its metaphorical meaning, ‘look’, there is no difference between the use of <span dir="rtl">מָאוֹר</span> in Ps 90:8 and Prov 15:30, nor in the use of <span dir="rtl">אוֹר</span> as <i>nomen regens</i> in a construct chain with <span dir="rtl">פָנִים</span> in Ps 4:7; 44:4; 89:16; Job 29:24; Prov 16:15.[^156]
 
-###<span id="Exe-ico">Pictorial Material</span>
+###<span id="Exe-ico">6.3 Pictorial Material</span>
 
 <b>A.5</b> If the interpretation of מָאוֹר as ‘light’ is correct, it is hard to find any iconographic material for the word מָאוֹר. Yet, the iconography from the Amarna period of Akhenaten might be illustrative, because it shows the attempt to visualize an abstract concept as ‘(ray of) light’ (see figs. 1-2). In the case of Akhenaten, however, the sun (Aten) was seen as the only god, whose rays of light were blessing hands, providing ‘life’.[^157]
 
@@ -446,7 +436,7 @@ penetrating look of YHWH, from whom nothing is concealed.[^155] In the case of P
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>(courtesy Egyptian Museum, Cairo)</small>
 
 
-##<span id="Con">Conclusion</span>
+##<span id="Con">7. Conclusion</span>
 
 <b>A.1</b> In the HB מָאוֹר is found in all sorts of texts, particularly in the Torah; but also in Ben Sira and in the non-biblical scrolls from Qumran. 
 
@@ -464,7 +454,7 @@ penetrating look of YHWH, from whom nothing is concealed.[^155] In the case of P
 rendering (Gunkel);  a simple ‘light’ (which might indicate also a light source as <i>abstractum pro concreto</i>) as a functional name seems appropriate.
 
 
-## <span id="Bibl">Bibliography</span>
+##<span id="Bibl">Bibliography</span>
 
 For the abbreviations see the 
 <a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
@@ -927,7 +917,9 @@ Zimmerli 1979 <br>
 ## Notes 
 
 <small>
-The first version of this article was published  March 24th, 2011, as Cornelis Houtman, ‘<span dir="rtl">מָאוֹר</span>, luminary, lightbearer’. For the publication in the  <i>Semantics of Ancient Hebrew Database</i>   the article was thoroughly reworked and expanded by Raymond de Hoop and is published   as a co-publication by both authors. Thanks are due to Mrs Alice Deken (Amsterdam), who was so kind as to correct the English of this paper.
+
+The first version of this article was published  March 24th, 2011, as Cornelis Houtman, ‘<span dir="rtl">מָאוֹר</span>, luminary, lightbearer’. For the publication in the  <i>Semantics of Ancient Hebrew Database</i>   the article was thoroughly reworked and expanded by Raymond de Hoop and is published   as a co-publication by both authors. Thanks are due to Mrs Alice Deken (Amsterdam), who was so kind as to correct the English of this paper. 
+
 </small>
 
 [^1]: In Ex. 25:6 the word has the defective spelling: <span dir="rtl">מָאֹר</span>.
@@ -936,14 +928,10 @@ The first version of this article was published  March 24th, 2011, as Cornelis H
 [^4]: <i>DSS.SE</i>, 197:XXIII-<i>bottom</i>:12.
 [^5]: <i>DSS.SE</i>, 903: fr1.IV:5.
 [^6]: Fox 2009:603-04;  Fox 2015:243.  Fox refers <i>inter alia</i> to Qoh 6:9, <span dir="rtl">טוֹב מַרְאֵה עֵינַיִם מֵהֲלָךְ־נָפֶשׁ</span>,  ‘better is the sight of the eyes than the wandering of desire’.   However, whereas this interpretation of Qoh 6:9 might be correct,  contrasting what the eye sees (concretum) with the desire of the soul (fata morgana),  does not apply to Prov 15:30, because   — as Fox states himself (2015:243) —   not everything the eye sees, pleases the heart.
-[^7]: Fox 2009:604.
-[^8]: Fox 2009:604.
-[^9]: Delitzsch 1873:257-58; see also Plöger 1984:184-85.
-[^10]: Fox 2009:604.
-[^11]: Fox 2015:243 (cf. p. xv).
-[^12]: Fox 2015:243 (emphasis RdH).
-[^13]: Fox 2015:243.
-[^14]: Cf. De Waard 1998:96, who concluded that in four out of five cases   4QProv<sup><small>b</small></sup> supports MT, stating that   in ‘view of the idiosyncrasies of the Greek translator such a result is not surprising.’   See also De Waard, <i>BHQ</i> 17:5\*-6\*.; Lange 2017:248.
+
+
+
+[^14]: Cf. De Waard 1998:96, concluding that in four out of five cases   4QProv<sup><small>b</small></sup> supports MT, stating that   in ‘view of the idiosyncrasies of the Greek translator such a result is not surprising.’   See also De Waard, <i>BHQ</i> 17:5\*-6\*.; Lange 2017:248.
 [^15]: Note that   the text of this verse — and thus the reading of MT <span dir="rtl">מָאוֹר</span> — is not discussed   and thus not considered to be problematic, by  Plöger 1984:178-79;  Tov 1999:427;  De Waard, <i>BHQ</i> 17:29, 46\*;   Barthélemy, <i>CTAT</i> 5:627-28.
 [^16]: Tov 1999:420;   Cook 2000a:173-76;  Cook 2000b:164;  Cook 2004:7-12;   Forti 2017:254-55. An additional problem with LXX-Proverbs is the fact that the order of verses at   the end of chapter 15 and the beginning of chapter 16 differs considerably (see Tov 1999:426-27), and LXX reads in our case MT-Prov 16:8-9 before v. 30   (numbered in Rahlfs as 15:29a-29b).   Taking the contents of these verses into consideration (<i>Better   is a small intake with righteousness / than abundant produce with injustice. //   Let the heart of  a man think righteous things, /   that his steps may be directed by God.</i> [<i>NETS</i>]), might explain the translator’s manner of interpreting the text.
 [^17]: Jastrow,   <i>DTT</i>, 721 (referring to bPesaḥ. 62<sup><small>b</small></sup>;    yTaʿan. 4:8/18, 68<sup><small>d</small></sup>);  Dalman, <i>ANHT</i>, 221.   The expression also became a euphemism for blindness (bḤag. 5<sup><small>b</small></sup>),   see the lexica, referred to above.
@@ -955,20 +943,20 @@ The first version of this article was published  March 24th, 2011, as Cornelis H
 [^23]: Keel 1992:153,   with reference to pp. 71-74;   see already GB, 582; furthermore Schroer & Staubli 2005:86-87.
 [^24]: In Ex 25:6 there is a note in Mp, saying that the spelling of the   word (<span dir="rtl">מָאֹר</span>) occurs only once (<span dir="rtl">חד</span>); yet there is no suggestion to emend the text.
 [^25]: <i>DCH</i> i:159;  <i>HAL</i>, 23;  Ges<sup><small>18</small></sup>, 26.
-[^26]: <i>DRS</i>, 13; <i>HSED</i>, 35.
+
 [^27]: <i>DNWSI</i> 468, s.v. <i>yrd</i>. The word <span dir="rtl">אר</span><sub>I</sub> is listed in <i>DISO</i>, 23, but is  not discussed separately in <i>DNWSI</i>, 100,  s.v. <i>ʾr</i><sub>1</sub>, but only in the context of other words where the reading   <i>ʾr</i> may have occurred.
-[^28]: <i>CAD</i> U/W, 243-44;  <i>AHw</i> iii:1433.
+
 [^29]: <i>DLU</i>, 46;  <i>DULAT</i><sup><small> 1</small></sup>, 94; <i>DULAT</i><sup><small> 3</small></sup>, 91.
 [^30]: <i>DLU</i>, 46-47;  <i>DULAT</i><sup><small> 1</small></sup>, 94-95; <i>DULAT</i><sup><small> 3</small></sup>, 91;   <i>KWU</i>, 14.
 [^31]: Jastrow, <i>DTT</i>, 721-22;  <i>WTM</i> iii:2-3, (1. ‘Licht, Lichtträger, das Leuchtende’; 2. ‘Lichtloch’);  Dalman, <i>ANHT</i>, 221.
-[^32]: <i>ATTM</i>, 401-02, 506.
+
 [^33]: Sokoloff, <i>DJPA</i>, 288, although Sokoloff considers the possibility that the text is corrupt.
-[^34]: Tal, <i>DSA</i>, 14.
+
 [^35]: BL 491, §61.gζ; Joüon-Muraoka, <i>GBH</i>, 257, §88L.e.
 [^36]: BL 489, §61.wε; <i>SLOCG</i>, 223-25, §29.20-25; Joüon-Muraoka, <i>GBH</i>, 256-57, §88L.d.
 [^37]: Cf. also §§ A.5.1 and A.7 below.
-[^38]: <span id="genlemaor">The </span>  construction <span dir="rtl">שֶׁמֶן לַמָּאוֹר</span> might be understood   as a genitive construction, in which the construct state is avoided, and <span dir="rtl">לְ</span>, ‘to’ is   used instead; see A.3 above: <span dir="rtl">שֶׁמֶן הַמָּאוֹר</span>; cf.   Joüon-Muraoka, <i>GBH</i>, 473-74, §130a.  However, the more specific description <span dir="rtl"> שֶׁמֶן זַיִת זָךְ כָּתִית לַמָּאוֹר</span>  ‘pure beaten olive oil for the מָאוֹר’ (Exod 27:20; Lev 24:2), might indicate   that we should render the shorter form  <span dir="rtl">שֶׁמֶן לַמָּאוֹר</span>   also as a prepositional construction: ‘oil for the מָאוֹר’.   [click number to go back to n. <a href="#crossreflemaor2">112</a>, below]
-[^39]: <span id="lemaor">The text reads </span>  <span dir="rtl">לְמָאוֹר</span>, thus apparently without definite article; Eduard König (1897:127, §233d)   supposes that <span dir="rtl">לַמָּאוֹר</span> was meant.   [click numbers to go back to nn. <a href="#crossreflemaor">95</a> or <a href="#crossreflemaor2">112</a>, below]
+[^38]: <span id="genlemaor">The </span>  construction <span dir="rtl">שֶׁמֶן לַמָּאוֹר</span> might be understood   as a genitive construction, in which the construct state is avoided, and <span dir="rtl">לְ</span>, ‘to’ is   used instead; see A.3 above: <span dir="rtl">שֶׁמֶן הַמָּאוֹר</span>; cf.   Joüon-Muraoka, <i>GBH</i>, 473-74, §130a.  However, the more specific description <span dir="rtl"> שֶׁמֶן זַיִת זָךְ כָּתִית לַמָּאוֹר</span>  ‘pure beaten olive oil for the מָאוֹר’ (Exod 27:20; Lev 24:2), might indicate   that we should render the shorter form  <span dir="rtl">שֶׁמֶן לַמָּאוֹר</span>   also as a prepositional construction: ‘oil for the מָאוֹר’.   [click number to go back to n. <a href="#crossreflemaor2">99</a>, below]
+[^39]: <span id="lemaor">The text reads </span>  <span dir="rtl">לְמָאוֹר</span>, thus apparently without definite article; Eduard König (1897:127, §233d)   supposes that <span dir="rtl">לַמָּאוֹר</span> was meant.   [click numbers to go back to nn. <a href="#crossreflemaor">83</a> or <a href="#crossreflemaor2">99</a>, below]
 [^40]: Cf.   <i>GELS</i>,  328-29, 359-60;  cf.  LEH<sup><small>1</small></sup>, 205;   LEH<sup><small>2</small></sup>, 275: ‘seeing, causing to see — <span dir="rtl">מראה</span>?’.
 [^41]: <i>GELS</i>, 609;  LEH<sup><small>2</small></sup>, 539.
 [^42]: <i>GELS</i>, 710;  cf. LEH<sup><small>1</small></sup>, 499;   LEH<sup><small>2</small></sup>, 642.
@@ -1003,9 +991,9 @@ The first version of this article was published  March 24th, 2011, as Cornelis H
 [^71]: Lewis & Short, <i>LD</i>, 1079.
 [^72]: Lewis & Short, <i>LD</i>, 1080.
 [^73]: Lewis   & Short, <i>LD</i>, 1085.
-[^74]: Cf.  n. <a href="#iuxta">65</a>, above.
+[^74]: Cf.  n. <a href="#iuxta">54</a>, above.
 [^75]: Lewis & Short,   <i>LD</i>, 1088.
-[^76]: Cf.  n. <a href="#iuxta2">69</a>, above.
+[^76]: Cf.  n. <a href="#iuxta2">58</a>, above.
 [^77]: Hatch & Redpath,  <i>CS</i>, 1425, 1450-51.
 [^78]: Levy, <i>CWT</i> ii:95’; Jastrow,  <i>DTT</i>, 882;   Sokoloff, <i>DJPA</i>, 343.
 [^79]: Levy, <i>CWT</i> i:40; Jastrow, <i>DTT</i>, 82;   Sokoloff, <i>DJPA</i>, 65.
@@ -1014,7 +1002,7 @@ The first version of this article was published  March 24th, 2011, as Cornelis H
 [^82]: Houtman & De Moor 2005:304-05, 308.
 [^83]: A unique word in LXX, only applied in Sir 43:4;    see HRCS, 1246.
 [^84]: Mostly (577x)  ܢܘܪܐ  (<i>nwrʾ</i>) is applied as   the equivalent of <span dir="rtl">אֵשׁ</span>, ‘fire’,   e.g. Gen 15:17; 19:24; Exod 3:2; 19:18; Lev 1:7, etc.
-[^85]: Applied only 5x for texts from MT; it is the   equivalent of Hebr. <span dir="rtl">אֵשׁ</span>, ‘fire’ (2 Kgs 2:11; 6:17; Nah. 2:4 [2:3];   cf. Deut. 33:2, <span dir="rtl">אֵשְׁדָּת</span>, ‘lightning’[?]),   and Aram. <span dir="rtl">נוּר</span> (Dan. 7:10; cf. Pesh ܢܘܪܐ   (<i>nwrʾ</i>) and previous note);  furthermore also for <span dir="rtl">אש</span> in Sir 48:9.
+[^85]: Applied only 5x for texts from MT; it is the   equivalent of Hebr. <span dir="rtl">אֵשׁ</span>, ‘fire’ (2 Kgs 2:11; 6:17; Nah. 2:4 [2:3];   cf. Deut. 33:2, <span dir="rtl">אֵשְׁדָּת</span>, ‘lightning’[?]),   and Aram. <span dir="rtl">נוּר</span> (Dan 7:10; cf. Pesh ܢܘܪܐ   (<i>nwrʾ</i>) and previous note);  furthermore also for <span dir="rtl">אש</span> in Sir 48:9.
 [^86]: HRCS, App. 2, 191;  Muraoka, <i>GHTIS</i>, 104, 142.
 [^87]: <i>DCH</i> iv:577.   See also <i>HAL</i>, 509;   <i>HALOT</i>, 536;   Ges<sup><small>18</small></sup>, 617 (referring all three to Akk. <i>lišān girri</i>).
 [^88]: Even though the translation was rather isomorphic (Wright 2015:414-16),   this rendering might be labelled as an ‘explicative translation’,   which was one of the translator’s techniques; cf. Wright 2015:420-22;  Ueberschaer 2016:447-48).
@@ -1022,9 +1010,9 @@ The first version of this article was published  March 24th, 2011, as Cornelis H
 [^90]: Lewis & Short,   <i>LD</i>, 1085.
 [^91]: Lewis & Short,   <i>LD</i>, 1084.
 [^92]: Lewis & Short, <i>LD</i>, 1085.
-[^93]: Jacob 1934:48-49.
+
 [^94]: Ridderbos 1958:262.   On the other hand, Mitchell Dahood (1968:207),   states that ‘<i>māʾōr</i>  “luminary”, may denote either the moon or  the sun, but here, because it is conditioned by <i>šemeš</i>, it bears the   conditioned meaning “moon”.’    Dahood apparently overlooks the fact that  only when defined   by means of the adjectives   <span dir="rtl">גָּדֹול</span> and <span dir="rtl"> קָטֹן</span> the word <span dir="rtl">מָאוֹר</span> is conditioned to mean   ‘sun’ or ‘moon’. In other cases   (Gen 1:14-15; Ezek 32:7-8), it denotes ‘luminary’ in general.
-[^95]: <span id="crossreflemaor">Cf. </span>  n. <a href="#lemaor">39</a>, above.
+[^95]: <span id="crossreflemaor">Cf. </span>  n. <a href="#lemaor">28</a>, above.
 [^96]: <span id="ner">This is substantiated </span>  by the fact that <span dir="rtl">נֵר</span> nowhere functions as a nomen rectum as does the word   <span dir="rtl">מָאוֹר</span> in the (prepositional) constructions <span dir="rtl">שֶׁמֶן הַמָּאוֹר</span>/<span dir="rtl">לַמָּאוֹר</span> and <span dir="rtl">מְנֹרַת הַמָּאוֹר</span>, which indicates that the two words are not interchangeable.
 [^97]: <i>DSS.SE</i>, 903: fr1.IV:5.
 [^98]: <i>DSS.SE</i>, fr1.IV:5.
@@ -1037,11 +1025,11 @@ The first version of this article was published  March 24th, 2011, as Cornelis H
 [^105]: See e.g. <i>DSS.SE</i>, 95 (1QS X:3); 145 (1QFestival Prayers<sup><small>ab</small></sup> II:1); yet mostly    the word ‘luminary’ is given, cf. below §B.1.
 [^106]: Lipiński 1995b:1445-52 (1999b:504-05); Schmidt 1995:1098-113 (1999:585-93). For iconographical material regarding this belief, see, in addition to figures 1-2 above, also <i>ANEP</i>, 175-78, ## 514-15, 518-20, 529.:
 [^107]: See esp. Westermann 1974:179.  Cf. also Zimmerli 1967:62;   Wenham 1987:22.   On the other hand, Schmidt 1995:1107 (1999:590), states that despite the ‘clear status distinction between YHWH and the moon, it nevertheless upholds a significant degree of continuity between YHWH and the astral bodies as to their functions and powers.’
-[^108]: Greenberg 1997:653.
+
 [^109]: Rendered thus or in a comparable way: NJPS; NEB; NRSV; StV; NBG; NBV.
 [^110]: GK, 436, §128p;  Joüon-Muraoka, <i>GBH</i>, 466, §129f.1.
 [^111]: KJV; ASV;  Aalders 1957:122;   Zimmerli 1979:763 (‘alle hellen Lichter’).
-[^112]: <span id="crossreflemaor2">Cf. </span>  nn. <a href="#genlemaor">38</a> and <a href="#lemaor">39</a>, above.
+[^112]: <span id="crossreflemaor2">Cf. </span>  nn. <a href="#genlemaor">27</a> and <a href="#lemaor">28</a>, above.
 [^113]: BDB, 22.
 [^114]: <i>DCH</i> v:116-17.
 [^115]: Propp 2006:310, 313, 624-25, 630.
@@ -1065,15 +1053,15 @@ The first version of this article was published  March 24th, 2011, as Cornelis H
 [^133]: Ges<sup><small>18</small></sup>, 620;    KBL, 489.
 [^134]: <i>HAWAT</i>, 203.
 [^135]: Houtman 2000:463-64; Wenham 1987:22 (used to designate ‘the sanctuary lamp’).
-[^136]: Houtman 2000:347-48.
-[^137]: See   Sarna 1991:175-76;   Milgrom 2001:2086-87.
+
+
 [^138]: Cf. also the   rendering in Dohmen 2004:224: ‘Öl zur Beleuchtung’.
 [^139]: Compare the construction   <span dir="rtl">שֶׁמֶן הַמִּשְׁחָה</span>, ‘anointing oil’ in the same context (Exod 25:6; 35:8, 28;   Num 4:16).
-[^140]: Cf. n. <a href="#ner">96</a>, above.
-[^141]: Cf. §6.2.A.1, below.
+[^140]: Cf. n. <a href="#ner">84</a>, above.
+
 [^142]: Von Rad 1972:35. See in a similar way, also  Van Selms 1979:31-32; Jagersma 1995:27.
-[^143]: Westermann 1974:179.
-[^144]: Gunkel 1910:109;  Westermann 1974:179.
+
+
 [^145]: Contrast Ps 18:29, which reads <span dir="rtl">כִּי־אַתָּה תָּאִיר ‏ נֵרִי</span>  ‘for You light my lamp’.
 [^146]: Cf. Lipiński 1995a:941-43; Lipiński 1999a:504-05; cf. also <a href=http://www.otw-site.eu/wp-content/uploads/2017/07/nr.pdf target="_blank">→ <span dir="rtl">נֵר</a></span>, section 2b.
 [^147]: Westermann 1974:179.    The difference is strongly based on the interpretation and emphasis of the word מָאוֹר, because we find similar remarks in   Gunkel 1910:109;   Von Rad 1972:35.
@@ -1084,7 +1072,7 @@ The first version of this article was published  March 24th, 2011, as Cornelis H
 [^152]: GB, 393;   <i>HAWAT</i>, 203;  Ges<sup><small>18</small></sup>, 620. See also <i>HCHAT</i> i:688, ‘bildl. Lichtglanz’.
 [^153]: KBL, 489;   <i>HAL</i>, 512;  see also Ges<sup><small>18</small></sup>, 620, adding to the meaning ‘Licht, Glanz’,    ‘in the sense of lighting eyes’ (‘i.S.v. leuchtende Augen’).
 [^154]: <i>DCH</i> v:117;  <i>DSS.SE</i>, 173 (1QHod<sup><small>a</small></sup> XIII:32);  903 (4QHod<sup><small>c</small></sup>   fr3:5 = <i>DSS.SE</i> fr1.iv:5).
-[^155]: Ridderbos 1958:399.
+
 [^156]: Cf. also 1QS<sup><small>b</small></sup> 4:27;   1QHa 12:6;   1QHa 12:28;  see also <span dir="rtl">תאיר פניך</span> 4QCommunal Confession (4Q393)    f3:5;  <span dir="rtl">ויאר פניו</span> 4QSefer ha-Milḥamah (4Q285)    f8:4; 11Q<i>Sefer ha-Milḥamah</i> (11Q14)    f1ii:7.
 [^157]: See also the   pictures of the throne of Tutankhamon, <i>ANEP</i>, 145, ## 415-17.
 [^158]: Also   published in <i>ANEP</i>, 143, # 411.

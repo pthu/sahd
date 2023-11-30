@@ -62,7 +62,7 @@ in the same order in 13:21 (<span dir="rtl">מחרשׁה</span>/<span dir="rtl">�
 <span dir="rtl">אֵת</span>,
 <span dir="rtl">קַרְדֹּם</span>),
 the latter verse was sometimes used as a basis for emending the text of 13:20.
-Julius Wellhausen (1871: 84) assumed that the second <span dir="rtl">מחרשתו</span>,
+Julius Wellhausen (1871:84) assumed that the second <span dir="rtl">מחרשתו</span>,
 the fourth item of the list in 13:20, originally corresponded to <span dir="rtl">הַדָּרְבָן</span>
 at the end of  13:21. He pointed to the fact that the ancient Gk. and Syr. translations 
 read forms of the same noun (LXX: δρέπανον, ‘sickle’; Pesh: ܡܣܣܐ, ‘ox goad’) where MT reads <span dir="rtl">מַחֲרֵשָׁתוֹ</span> (13:20) and <span dir="rtl">הַדָּרְבָן</span> (13:21). Wellhausen’s proposal to read <span dir="rtl">דָּרְבָנֹו</span> at the end of 13:20 was taken over by many others.[^3] <span id="Emend2">Other scholars, however, assumed that the reading τὸ δρέπανον αὐτου, ‘his sickle’, goes back to Heb. <span dir="rtl">חֶרְמֵשֹׁו</span>, since </span>
@@ -123,7 +123,7 @@ refers to the work of the craftsman or artisan.
 Stephen Cook (1994) supposed that \*<span dir="rtl">מַחֲרֵשָׁה</span> derives from <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>, ‘to plough, engrave’,
 but that \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span> derives from <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">ii</span>, 
 ‘to manufacture’ (see <a href="#Cook">below</a>).
-<span id="KollerRoot">Aaron Koller (2012: 86-89) distinguished a third root, <i>ḫrś</i>/<span dir="rtl">חרשׂ</span>, ‘to scratch’, assuming that <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span> </span>
+<span id="KollerRoot">Aaron Koller (2012:86-89) distinguished a third root, <i>ḫrś</i>/<span dir="rtl">חרשׂ</span>, ‘to scratch’, assuming that <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span> </span>
 means only ‘to plough’, not ‘to engrave’ or ‘to scratch’. 
 He regarded the form <span dir="rtl">חֲרוּשָׁה</span>, ‘scratched’, in Jer 17:1
 as a form of this verb (with <span dir="rtl">ש</span> erroneously pointed as <i>šin</i> instead of <i>śin</i>; cf. <span dir="rtl">חֶרֶשׂ</span> in Job 2:8). 
@@ -331,7 +331,7 @@ possibly
 (→ <span dir="rtl">קִלְּשׁוֹן</span>),
 and → <span dir="rtl">דָּרְבָן</span>.
 
-<b> A.3</b> Koller (2012: 255) assumes that 
+<b> A.3</b> Koller (2012:255) assumes that 
 the \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span>
 was very similar to the → <span dir="rtl">מַעְדֵּר</span>
 and that the different words may even designate the same tool.
@@ -409,7 +409,7 @@ the following terms are used to denote elements of the plough:
 Unfortunately, it remains unclear to which elements of the plough some of these Heb. terms refer.[^67] Also, it is dubious whether the ancient Israelite plough consisted of the same elements as the plough type to which this section of the Mishnah refers.
 
 <b> A.3</b> 
-Philip King and Lawrence Stager give the following description of the way in which ploughing was performed in ancient Israel (King & Stager 2001: 92; cf. 88):
+Philip King and Lawrence Stager give the following description of the way in which ploughing was performed in ancient Israel (King & Stager 2001:92; cf. 88):
 
 > Plowing prepared the ground for sowing in late October-November, after the first rain (<i>yôreh</i>) had softened the earth. A field was plowed twice, once to loosen the crusty soil before the seed was broadcast, and then at right angles to the first plowing to cover the seed. The metal-tipped scratch plow did not turn over the soil the way a moldboard plow does but simply scratched a shallow furrow by breaking and loosening the soil.
 
@@ -536,10 +536,10 @@ Oded Borowski offers an excellent description of the excavated plough-points:
 The other end was shaped like a pipe, ca. 8-10 cm wide. A wooden shaft, which was part of the 
 plow-handle, was inserted into this end.[^84]
 
-Koller (2012: 89-90) shows that the archaeological evidence corresponds with the idea expressed in the Mishnah and Tosefta 
+Koller (2012:89-90) shows that the archaeological evidence corresponds with the idea expressed in the Mishnah and Tosefta 
 that the <span dir="rtl">מַחֲרֵשָׁה</span> scratches the soil to a depth of not more than ‘three handbreaths’ (<span dir="rtl">שְׁלשָׁה טְפָחִין</span>).
 He defines the <span dir="rtl">מַחֲרֵשָׁה</span> as ‘a piece of metal hammered into the shape of a cone and attached at the end of the wooden plow, which cuts through
-the soil to a depth of about 15-30 cm.’ (2012: 253).
+the soil to a depth of about 15-30 cm.’ (2012:253).
 Nowadays, the designation ‘ploughshare’ is commonly used for the curved blade of the so-called mouldboard plough, which turns over the soil.
 It is confusing to denote the cutting element of the  ancient Israelite scratch ploughs as ‘ploughshare’, since its form and function where quite different
 from the ploughshares of mouldboard ploughs. Therefore, Borowski’s designation as ‘plough-points’ is preferable.[^85]
@@ -656,7 +656,7 @@ Bernard Grillet, Michel Lestienne, <i>La Bible d’Alexandrie</i>, 9.1:
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Hamp et al. 1986<br>
-V. Hamp, H.-J. Fabry, H. Ringgren, 
+Vinzenz Hamp, Heinz-Josef Fabry, Helmer Ringgren, 
 ‘<span dir="rtl">חָרַשׁ</span> <i>ḥāraš</i>, <span dir="rtl">הֲרָשִׁם ,חָרָשׁ</span>’, 
 <i>TDOT</i> v:221-24. 
 </div>
@@ -806,8 +806,11 @@ G. Ernest Wright, ‘Archaeological News and Views’, <i>BA</i> 6/2:32-36.
 ## Notes 
 
 <small>
+
 Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project. 
-Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amsterdam).</small>
+Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amsterdam). 
+
+</small>
 
 
 

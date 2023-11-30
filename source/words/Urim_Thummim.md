@@ -5,9 +5,9 @@ title: Urim and Thummim
 semantic_fields: utensils, cult, divination  
 contributors: kees_den_hertog, paul_sanders   
 first_published: 2022-08-02  
-last_update: 2023-10-01   
+last_update: 2023-11-30   
 update_info:  
-additional_info: WORK IN PROGRESS
+additional_info: 
 
 ---
 
@@ -493,8 +493,12 @@ Vg Ezra 2:63: <i>sacerdos doctus atque perfectus</i>, ‘a learned and perfect p
 
 ##<span id="LSF">5. Lexical/Semantic Fields</span>
 
-The Urim and the Thummim belong to the semantic field of ‘divination’.
-[ Discussion will be added later. ]
+
+The Urim and the Thummim belong to the semantic field 
+of ‘divination’. The noun <span dir="rtl" lang="he">גּוֹרָל</span>, ‘lot’, belongs to the same semantic field; cf. also <span dir="rtl" lang="he">פּוּר</span> (Esth 3:7; 9:24). Lots were also kept in a container before they were cast (Dommershausen 1977:450). Unlike the <span dir="rtl" lang="he">גּוֹרָל</span>, however, the Urim and Thummim relate to the inquiring of God with regard to decisions that must be made. Ada Taggar-Cohen (2002:102) rightly observes:
+
+> Some scholars have interpreted the <i>ʾûrîm wǝtūmmîm</i> as a lot oracle. However, the casting of lots in the ANE is different from other methods of divination, since it was not used for telling the future, or for making a decision such as whether a king should go out to war; clearly it was not an oracular practice. 
+
 
 
 ##<span id="Exe">6. Exegesis</span>
@@ -1159,6 +1163,11 @@ Susnow et al. 2021<br>
 Matthew Susnow et al., 
 ‘Contextualizing an Iron Age IIA Hoard of Astragali from Tel Abel Beth Maacah, Israel’, <i>Journal of Mediterranean Archaeology</i> 
 34:58-83.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Taggar-Cohen 2002<br>
+Ada Taggar-Cohen, ‘The Casting of Lots among the Hittites in Light of Ancient Near Eastern Parallels’, <i>JANESCU</i> 29:97-103.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
