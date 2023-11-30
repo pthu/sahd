@@ -230,7 +230,7 @@ while ‘20<sup><small>2</small></sup>’ represents the second occurrence
 * θερίζειν, ‘to reap,[^38] harvest’:[^39] 21<sup><small>LXX</small></sup>;
 * θεριστήριον, ‘reaping-hook’:[^40] 20<sup><small>1</small></sup> (LXX<sup><small>Ant </small></sup>[^41]);
 * θέριστρον, ‘reaping-hook’:[^42] 20<sup><small>1</small></sup> (most mss of LXX); 
-* ὕνις, ‘ploughshare’:[^43] 20<sup><small>1: σʹ </small></sup>[^44]; 
+* ὕνις, ‘ploughshare’:[^43] 20<sup><small>1: σʹ </small></sup>[^44]. 
 
 
 <b>b. Peshitta (Pesh):</b> 
@@ -609,7 +609,7 @@ James H. Charlesworth, <i>The Dead Sea Scrolls: Hebrew, Aramaic and Greek Texts 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Cook 1994 <br>
-Stephen L. Cook, ‘The Text and Philology of 1 Samuel XIII 20-1’, <i>VT</i> 44, 250-54.
+Stephen L. Cook, ‘The Text and Philology of 1 Samuel XIII 20-1’, <i>VT</i> 44:250-54.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -625,8 +625,8 @@ Walter Dietrich, <i>1 Samuel 13-26</i> (BKAT, 8/2), Neukirchen-Vluyn: Neukirchen
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dietrich &  Loretz 2005 <br>
-Manfred Dietrich, Oswald Loretz, ‘ “eihen” (<i>ʿly</i> Š) von <i>pgr</i>, Ochsen und Gegenständen in KTU 6.13, 6:14 und 6.62’,
-<i>UF</i> 37, 227-39.
+Manfred Dietrich, Oswald Loretz, ‘ “Weihen” (<i>ʿly</i> Š) von <i>pgr</i>, Ochsen und Gegenständen in KTU 6.13, 6:14 und 6.62’,
+<i>UF</i> 37:227-39.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -655,7 +655,7 @@ Bernard Grillet, Michel Lestienne, <i>La Bible d’Alexandrie</i>, 9.1:
 Hamp et al. 1986<br>
 V. Hamp, H.-J. Fabry, H. Ringgren, 
 ‘<span dir="rtl">חָרַשׁ</span> <i>ḥāraš</i>, <span dir="rtl">הֲרָשִׁם ,חָרָשׁ</span>’, 
-<i>TDOT</i> V, 221-24. 
+<i>TDOT</i> v:221-24. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -682,7 +682,7 @@ Philip J. King, Lawrence E. Stager,  <i>Life in Biblical Israel</i>, Louisville 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Klein 1983 <br>
-Ralph W. Klein, <i>1 Samuel</i> (WBC, 10), Waco TX: Word.
+Ralph W. Klein, <i>1 Samuel</i> (WBC, 10), Waco, TX: Word.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -698,19 +698,19 @@ Samuel Krauss, <i>Talmudische Archäologie</i>, vol. II, Leipzig: Fock.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Lambert 1979 <br>
-W.G. Lambert, ‘Near Eastern Seals in the Gulbenkian Museum of Oriental Art, University of Durham’, <i>Iraq</i> 41, 1-45.
+W.G. Lambert, ‘Near Eastern Seals in the Gulbenkian Museum of Oriental Art, University of Durham’, <i>Iraq</i> 41:1-45.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Loewenstamm 1959 <br>
 Samuel E. Loewenstamm, ‘The Hebrew root <span dir="rtl">חרשׁ</span> 
-in the light of the Ugarit Texts’, <i>JJS</i> 10, 63-65. 
+in the light of the Ugarit Texts’, <i>JJS</i> 10:63-65. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Loretz 1993 <br>
 Oswald Loretz, ‘Ugaritisch-hebräisch “Pflugschar”
-(<i>mḥrṯt</i> /*<i>mḥršh</i>)’, <i>SEL</i> 10, 71-78.
+(<i>mḥrṯt</i> /*<i>mḥršh</i>)’, <i>SEL</i> 10:71-78.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -738,12 +738,12 @@ Paul T. Nicholson, Ian Shaw (eds), <i>Ancient Egyptian Materials and Technology<
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Seidl 2003-2005 <br>
-Ursula Seidl, ‘Pflug, B: Archäologisch’, in <i>RLA</i> 10, 514-16.
+Ursula Seidl, ‘Pflug, B: Archäologisch’, in <i>RLA</i> 10:514-16.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Stoebe 1973 <br>
-Hans Joachim Stoebe, <i>Das erste Buch Samuelis</i> (KAT, 8/1), Gütersloh:  Mohn.
+Hans Joachim Stoebe, <i>Das erste Buch Samuelis</i> (KAT, 8/1), Gütersloh: Mohn.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -761,12 +761,12 @@ Internationale Fachtagung veranstaltet von Septuaginta Deutsch (LXX.D), Wupperta
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Van der Steen 2008 <br>
-Eveline L. van der Steen, ‘Iron’, in <i>NIDB</i> 3, 67-69.
+Eveline L. van der Steen, ‘Iron’, in <i>NIDB</i> 3:67-69.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Van der Steen 2009 <br>
-Eveline L. van der Steen, ‘Metallurgy’, in <i>NIDB</i> 4, 68-70.
+Eveline L. van der Steen, ‘Metallurgy’, in <i>NIDB</i> 4:68-70.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -792,12 +792,12 @@ Istanbul: Nederlands Historisch-archeologisch Instituut, 171-231.
 Wirth 2017 <br>
 Raimund Wirth,
 ‘Die griechische Übersetzung der Samuelbücher: Die Samuel-Septuaginta als Herausforderung für die
-alttestamentliche Textforschung’, <i>Journal of Biblical Textual Criticism</i> 22, 1-13.
+alttestamentliche Textforschung’, <i>Journal of Biblical Textual Criticism</i> 22:1-13.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Wright 1943 <br>
-G. Ernest Wright, ‘Archaeological News and Views’, <i>BA</i> 6/2, 32-36.
+G. Ernest Wright, ‘Archaeological News and Views’, <i>BA</i> 6/2:32-36.
 </div>
 
 ## Notes 
@@ -808,7 +808,7 @@ Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amste
 
 
 
-[^1]: If <span dir="rtl">מחרשֹׁת</span> in 13:21 were a plural form of  \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span>, the expected vocalisation in 13:21 would be  <span dir="rtl">מַחֲרָשֹׁת</span> (with <i>qameṣ</i>). Cf.  <span dir="rtl">מַעֲרָכוֹת</span> in Lev 24:6, <span dir="rtl">מַאֲכָלוֹת</span> in Prov 30:14, and the similar plural forms of other nouns mentioned in BL, 490 aζ.
+[^1]: If <span dir="rtl">מחרשֹׁת</span> in 13:21 were a plural form of  \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span>, the expected vocalisation in 13:21 would be  <span dir="rtl">מַחֲרָשֹׁת</span> (with <i>qameṣ</i>). Cf.  <span dir="rtl">מַעֲרָכוֹת</span> in Lev 24:6, <span dir="rtl">מַאֲכָלוֹת</span> in Prov 30:14, and the similar plural forms of other nouns mentioned in BL, 490&nbsp;aζ.
 [^2]: <i>DCH</i> v: 229-30. See also the discussion in <a href="#Versions">4. A.2</a> and <a href="#Exe-lit">6.1</a>.
 [^3]: See <i>BHK</i><sup><small>1</small></sup>, BDB, 361, and the literature mentioned in Barthélemy, <i>CTAT</i> 1:180.
 [^4]: See <i>BHK</i><sup><small>2/3</small></sup>, KBL, 515; Ges<sup><small>18</small></sup>, 661, and the literature mentioned in Barthélemy, <i>CTAT</i> 1:180-81. See also the critical assessment of this emendation by Koller (2012:84-85). In other contexts, δρέπανον  represents Heb. <span dir="rtl">מַזְמֵרָה</span> (Isa 2:4; 18:5; Mic 4:3; Joel 4:10) or Heb. <span dir="rtl">מַגָּל</span> (Jer 50:16 = 27:16<sup><small>LXX</small></sup>; Joel 4:13). Remarkably, no scholars seem to have suggested reading  <span dir="rtl">מזמרתו</span> or <span dir="rtl">מגלו</span> instead of <span dir="rtl">מחרשתו</span> at the end of 1 Sam 13:20. Stoebe (1973:254) proposed reading <span dir="rtl">חֲרִיצֹו</span> instead of <span dir="rtl">מחרשתו</span> (cf. 2 Sam 12:31).

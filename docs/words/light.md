@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=מָאֹור&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># מָאוֹר – light (-source)
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=מָאֹור&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># מָאוֹר – light (source)
 
 Semantic Fields:
 [Light](../semantic_fields/light.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Cornelis Houtman](../contributors/cornelis_houtman.md)<br>
-First published: 2011-03-24<br>Last update: 2019-11-16 <br>Citation: Raymond de Hoop,&nbsp;Cornelis Houtman, מָאוֹר – light (-source), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2011 (update: 2019)
+First published: 2011-03-24<br>Last update: 2019-11-16 <br>Citation: Raymond de Hoop,&nbsp;Cornelis Houtman, מָאוֹר – light (source), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2011 (update: 2019)
 
 
 ##<span id="I">Introduction</span>
@@ -258,8 +258,7 @@ Lev 24:2.
 
 ##<span id="AV">4. Ancient Versions</span>
 
-<b>a.</b> Septuagint (LXX) and other Greek versions (α´/ σ´/θ´): 
-
+<b>a. Septuagint (LXX) and other Greek versions (α´/ σ´/θ´):</b>
 
 * <span id="lxxprov">θεωρέω … καλὰ, ‘to observe / notice visually … good things’[^40] (cf. discussion above, <a href="#introb1">introduction, B.1</a>): 
 Prov 15:30<sup><small>LXX</small></sup>;
@@ -278,7 +277,7 @@ Ps 89:8<sup><small>LXX</small></sup> (90:8<sup><small>MT</small></sup>); Prov 15
 * No rendering: Exod 25:6<sup><small>LXX</small></sup>; 35:8<sup><small>LXX</small></sup>, 14<sup><small>1: θʹ</small></sup>,	14<sup><small>2: LXX</small></sup>, 28<sup><small>LXX</small></sup>.[^49]
 
 
-<b> b.</b>  Peshitta (Pesh)
+<b>b. Peshitta (Pesh):</b>
 
 * ܢܗܝܪܐ
   (<i>nhyrʾ</i> [<i>nahhīrā</i>]),
@@ -296,7 +295,7 @@ Exod 25:6; 27:20; 35:8, 14 (2x), 28; 39:37; Lev 24:2; Num 4:9, 16;
 
 
 
-<b> c.</b>  Targum (Tg: O/PsJ/N/Smr/J/K)
+<b>c. Targum (Tg: O/PsJ/N/Smr/J/K):</b>
 
 * <span dir="rtl">אַנְהוֹרֵי</span>, ‘lighting, illumination’:[^54] Exod 35:14<sup><small>1: O,PsJ</small></sup>; 	Num 4:9<sup><small>O,PsJ</small></sup>; 
 * <span dir="rtl">אַנְהֹרָה</span>, ‘giving of light’:[^55]
@@ -315,7 +314,7 @@ Exod 25:6<sup><small>Smr</small></sup>;
 * No rendering: Exod 35:14<sup><small>2: PsJ</small></sup>. 
 
 
-<b>d.</b>  Vulgate (Vg) 
+<b>d. Vulgate (Vg):</b> 
 
 * <i>aurora</i>, ‘dawn, daybreak’:[^64] 
 Ps 73:16 (74:16<sup><small>MT</small></sup>);[^65]
