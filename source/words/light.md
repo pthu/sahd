@@ -2,7 +2,7 @@
 ---
 word_english: light  
 word_hebrew: מָאוֹר  
-title: light (-source)  
+title: light (source)  
 semantic_fields: light  
 contributors: raymond_de_hoop, cornelis_houtman  
 first_published: 2011-03-24  
@@ -261,8 +261,7 @@ Lev 24:2.
 
 ##<span id="AV">4. Ancient Versions</span>
 
-<b>a.</b> Septuagint (LXX) and other Greek versions (α´/ σ´/θ´): 
-
+<b>a. Septuagint (LXX) and other Greek versions (α´/ σ´/θ´):</b>
 
 * <span id="lxxprov">θεωρέω … καλὰ, ‘to observe / notice visually … good things’[^40] (cf. discussion above, <a href="#introb1">introduction, B.1</a>): 
 Prov 15:30<sup><small>LXX</small></sup>;
@@ -281,7 +280,7 @@ Ps 89:8<sup><small>LXX</small></sup> (90:8<sup><small>MT</small></sup>); Prov 15
 * No rendering: Exod 25:6<sup><small>LXX</small></sup>; 35:8<sup><small>LXX</small></sup>, 14<sup><small>1: θʹ</small></sup>,	14<sup><small>2: LXX</small></sup>, 28<sup><small>LXX</small></sup>.[^49]
 
 
-<b> b.</b>  Peshitta (Pesh)
+<b>b. Peshitta (Pesh):</b>
 
 * ܢܗܝܪܐ
   (<i>nhyrʾ</i> [<i>nahhīrā</i>]),
@@ -299,7 +298,7 @@ Exod 25:6; 27:20; 35:8, 14 (2x), 28; 39:37; Lev 24:2; Num 4:9, 16;
 
 
 
-<b> c.</b>  Targum (Tg: O/PsJ/N/Smr/J/K)
+<b>c. Targum (Tg: O/PsJ/N/Smr/J/K):</b>
 
 * <span dir="rtl">אַנְהוֹרֵי</span>, ‘lighting, illumination’:[^54] Exod 35:14<sup><small>1: O,PsJ</small></sup>; 	Num 4:9<sup><small>O,PsJ</small></sup>; 
 * <span dir="rtl">אַנְהֹרָה</span>, ‘giving of light’:[^55]
@@ -318,7 +317,7 @@ Exod 25:6<sup><small>Smr</small></sup>;
 * No rendering: Exod 35:14<sup><small>2: PsJ</small></sup>. 
 
 
-<b>d.</b>  Vulgate (Vg) 
+<b>d. Vulgate (Vg):</b> 
 
 * <i>aurora</i>, ‘dawn, daybreak’:[^64] 
 Ps 73:16 (74:16<sup><small>MT</small></sup>);[^65]
