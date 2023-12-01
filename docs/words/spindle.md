@@ -1091,5 +1091,3 @@ professor emeritus Protestant Theological University, Kampen)
 and Benjamin Bogerd (Veenendaal) for their valuable suggestions.
 </small>
 
-
-F
