@@ -4,4 +4,4 @@
 
 
 ### Contributions
-[יְשׁוּעָה – protection](../words/protection.md)<br>[ישׁע – to save, help](../words/to_save,_help.md)<br>
+[יְשׁוּעָה – protection](../words/protection.md)<br>[יֵשַׁע – safety](../words/safety.md)<br>[ישׁע – to save, help](../words/to_save,_help.md)<br>

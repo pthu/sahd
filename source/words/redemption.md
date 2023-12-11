@@ -15,7 +15,7 @@ For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see o
 <a href="/sahd/miscellaneous/overview_deliverance/">Overview
 of SAHD Entries for ‘Deliverance’ Words</a> by Graham I. Davies.
 
-## INTRODUCTION
+## Introduction
 
 Grammatical type: n.m.pl.  
 Occurrences: 1x HB (0/1/0); 0x Sir; 0x Qum; 0x inscr. (Total: 1).
@@ -23,13 +23,14 @@ Occurrences: 1x HB (0/1/0); 0x Sir; 0x Qum; 0x inscr. (Total: 1).
 * Nebiim: Isa 63:4.
 * Text doubtful: –
 
+### Text Doubtful
 
 <b>B.1</b>  It is possible to parse the form as m.pl. pass. part. of the verb (cf. Duhm and Whybray ad loc.), and <i>DCH</i> records it as such, while allowing the nominal parsing as an alternative (<i>DCH</i> ii:293-94). But most modern commentators (so Marti, Volz and recently Blenkinsopp) and translations (e.g. RSV, NRSV) treat it as a noun, as do BDB (145) and <i>HALOT</i> (168, with ref. to BL 517y and Köhler 1921). The
 parallel <span dir="rtl" lang="he">נקם</span> and the versional renderings (see below) support this.
 
 <b>B.2</b>  Budde (1909:661-62; cited by Köhler without reference) proposed the emendation <span dir="rtl" lang="he">גמולי</span>, but it has not found favour with others.
 
-Qere/Ketiv: none.
+<i>Qere</i>/<i>Ketiv</i>: none.
 
 ## 1. Root And Comparative Material
 

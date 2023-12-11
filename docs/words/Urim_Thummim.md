@@ -20,6 +20,8 @@ Occurrences: 7x HB (4/1/2); 0x Sir; 2x SP; 3x Qum.; 0x inscr. (Total: 12)
 * Qumran: 4Q164 (4QpIsa<sup><small>d</small></sup>) fr1:5; 11Q19 (11QTemple<sup><small>a</small></sup>) lviii:18-19, 20-21.
 * Text doubtful: 1 Sam 14:41 (see A.2); 4Q174 fr6-7:7; 4Q299 fr69:2; 4Q376 fr1.i:3; 4Q522 fr9.ii:10. 
 
+### Text Doubtful
+
 <b>A.1</b>
 <span id="IntroA1">In SP, Exod 28:30 </span>
 begins with a phrase that is not found in MT:

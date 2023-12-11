@@ -19,26 +19,27 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 Grammatical type: n.f.  
 Occurrences: 14x HB (9/3/2); 0x Sir; 2x Qum; 0x inscr. (Total: 16).
 
-* Torah: Lev 25:24, 26, 29 (2x), 31, 32, 48, 51, 52.
-* Nebiim: Jer 32:7, 8; Ezek 11:15.
-* Ketubim: Ruth 4:6, 7.
-* Qum: 4Q504 5 ii 4; 4Q506 124:4.
+* Torah: Lev 25:24, 26, 29 (2x), 31, 32, 48, 51, 52;
+* Nebiim: Jer 32:7, 8; Ezek 11:15;
+* Ketubim: Ruth 4:6, 7;
+* Qum: 4Q504 5 ii 4; 4Q506 124:4;
 * Text doubtful: Ezek 11:15; 4Q504 5:ii.4.
 
+### Text Doubtful
 
-<b>A.1</b>  אַנְשֵׁי גְאֻלָּתְךָ ‘men of your redemption’ in Ezek 11:15 is
+<b>A.1</b> <span dir="rtl">אַנְשֵׁי גְאֻלָּתְךָ</span> ‘men of your redemption’ in Ezek 11:15 is
 difficult, reflected by the disagreement in the Versions: οἱ ἄνδρες τῆς
-αἰχμαλωσίας σου (LXX) and ܐܢܫܐ ܕܫܒܝܬܟ (<i>ʾnšʾ dšbytk</i>) (Pesh) ‘men of
+αἰχμαλωσίας σου (LXX) and <span dir="rtl">ܐܢܫܐ ܕܫܒܝܬܟ</span> (<i>ʾnšʾ dšbytk</i>) (Pesh) ‘men of
 your captivity’, reading גָלוּתְךָ ‘your fellow exiles’ (root גלה),
 whereas the Vg has <i>viri propinqui tui</i> ‘your kindred’, and Tg קריבך
 ‘your relatives’, agreeing with MT (so BDB, 145). See Exegesis, A.5.
 
 
-<b>A.2</b>  4Q504 5:ii.4 נהגה גאל[תנו —] from a speech addressed to God, has
+<b>A.2</b>  4Q504 5:ii.4 <span dir="rtl">נהגה גאל[תנו —]</span> from a speech addressed to God, has
 been reconstructed using a parallel text 4Q506 124:4 
 <span dir="rtl" lang="he">ׄ[... נהג]ה֯ גאלתנׄו</span>, ‘let us/we will celebrate our redemption’.
 
-Qere/Ketiv: none.
+<i>Qere</i>/<i>Ketiv</i>: none.
 
 ## 1. Root And Comparative Material
 

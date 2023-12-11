@@ -4,4 +4,4 @@
 
 
 ### Contributions
-[בֶּקַע – beka – half a shekel](../words/beka_–_half_a_shekel.md)<br>
+[בֶּקַע – beka](../words/beka.md)<br>

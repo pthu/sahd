@@ -2,4 +2,4 @@
 
 Raymond de Hoop is an independent scholar, working as editor for the SAHD-Team. 
 ### Contributions
-[בֶּקַע – beka – half a shekel](../words/beka_–_half_a_shekel.md)<br>[מָאוֹר – light](../words/light.md)<br>
+[בֶּקַע – beka](../words/beka.md)<br>[מָאוֹר – light](../words/light.md)<br>

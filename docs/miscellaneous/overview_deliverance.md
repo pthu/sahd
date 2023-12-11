@@ -1631,7 +1631,7 @@ John F. A. Sawyer, ‘Spaciousness. An Important Feature of Language about Salva
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1972
 <br>
-John F. A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining Hebrew Words for Salvation</i>, (SBT 2nd series, 24), London: SCM Press.
+John F. A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining Hebrew Words for Salvation</i> (SBT 2nd series, 24), London: SCM Press.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1700,44 +1700,6 @@ Ida Zatelli, ‘Functional Languages and their Importance in the Semantics of An
 Muraoka 1995a:55-64.
 </div>
 
-<!--
-<div style="padding-left: 22px; text-indent: -22px;">
-Author year
-<br>
-Author, Title, etc.
-</div>
-
-<div style="padding-left: 22px; text-indent: -22px;">
-Author year
-<br>
-Author, Title, etc.
-</div>
--->
-
 ### Notes
-
-
-
-<!-- Sawyer 1972. See also Sawyer 1965; 1967; 1968; 1975. -->
-
-<!--[^4]: See Barr 1961: 107-160; and e.g. his essays Barr 2014a; 2014b.
--->
-
-<!--[^5]: Sawyer 1972: 93-94; cf. also Sawyer 1975.
--->
-
-
-
-
-
-<!--[^10]: Cf. Williams 2002.
--->
-
-<!--[^14]: Williams 2002.
--->
-
-
-<!--[^16]: Cf. <i>TWAT</i> and <i>THAT</i>.
--->
 
 

@@ -85,7 +85,7 @@ in 13:20 refer to two different agricultural utensils and translates them as ‘
 
 
 <span id="Qum"><b> B.1</b>  </span>
-The sectarian composition Serekh ha-Yaḥad (Community Rule, ca. 100 <span style="text-transform:uppercase;">bce</span>?) contains 
+The sectarian composition <i>Serekh ha-Yaḥad</i> (Community Rule, ca. 100 BCE) contains 
 the following enigmatic phrase:
 <span dir="rtl">כיא בסאון רשע מחרשו</span>.[^7] 
 The passage describes the characteristics of those who may not enter the community of the faithful. 

@@ -34,10 +34,10 @@ Occurrences: 79x HB (4/25/50); 1x Sir; 23x (+ 6 pars.) Qum; 0x inscr. (Total: 10
 No context: 4Q511 38:3.
 * Text doubtful: —
 
+### Text Doubtful
 
-<b>B.1</b> Dahmen (2013: 315) assumes the restoration 
-<span dir="rtl" lang="he">[&nbsp;&nbsp;&nbsp;ישׁו]עתי אשר תרים למצער</span>
-in
+<b>B.1</b> Dahmen (2013:315) assumes the restoration 
+<span dir="rtl" lang="he">[&nbsp;&nbsp;&nbsp;ישׁו]עתי אשר תרים למצער</span> in
 1QH<sup><small>a</small></sup> 14:10-11 (its numbering: ll. 7-8 in the <i>DSS.SE</i> ).<!-- CHECK numbering--> It is not clear how אשר can be
 fitted into this restoration: the alternative (in Lohse as well as the
 <i>DSS.SE</i>) which restores
@@ -71,14 +71,13 @@ which is not attested in BH for ישׁע.
 <b>A.3</b>  Even if gender represents a difference in meaning between <span dir="rtl" lang="he">יְשׁוּעָה</span> 
 and <span dir="rtl" lang="he">יֵשַׁע</span> 
 (see <a href="#6.A.4">Exegesis&nbsp;A.4</a> and <a href="#7.A.4">Conclusion&nbsp;A.4</a>), it still could be
-employed for poetical reasons (Watson 1980: 339). Isa 62:1b exhibits what
+employed for poetical reasons (Watson 1980:339). Isa 62:1b exhibits what
 Watson calls a ‘reversed pattern’, with masc. צֶדֶק corresponding to fem.
 <span dir="rtl" lang="he">יְשׁוּעָה</span>.
 
 ## 3. Syntagmatics
 
-<a id="3.A.1"></a>
-<b>A.1</b>   
+<a id="3.A.1"></a><b>A.1</b> 
 <span dir="rtl" lang="he">יְשׁוּעָה</span> is the subject of the verbs <span dir="rtl" lang="he">הָיָה</span>, ‘to be’ (Isa 51:6) + <span dir="rtl" lang="he">לְ</span> (Isa 49:6); 
 <span dir="rtl" lang="he">יָצָא</span>, ‘to go out’ (Isa 62:1); 
 <span dir="rtl" lang="he">שׂגב</span> piel, ‘to make high inaccessible (= to protect)’  (Ps 69:30); 
@@ -236,7 +235,7 @@ already made <span dir="rtl" lang="he">יְשׁוּעָה</span>  into an
 attribute of <span dir="rtl" lang="he">מַרְכְּבֹתֶיךָ</span>, with some
 paraphrase to get round the problem of a nomen rectum following a
 suffixed form. As Rudolph (who translates: ‘mit deinen siegreichen
-Wagen’ [1975: 231]) points out, GK §131r allows for a noun to be attached
+Wagen’ [1975:231]) points out, GK §131r allows for a noun to be attached
 adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbsp;Sam
 22:33; Ps 71:7): cf. A.11 above.
 
@@ -257,19 +256,19 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 3; 106[105]:4; 116[115]:13[4]; 119[118]:123, 166, 174;
 * σώζω, ‘to save’ as articular infinitive: Ps 80[79]:3.
 
-[^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>: <i>s.v.</i>.
+[^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>, <i>s.v.</i>.
 
 
 <b>b. Peshitta (Pesh):</b>   
 
-* <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation’:[^2] Gen 49:18; Exod 14:13; 
+* <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’:[^2] Gen 49:18; Exod 14:13; 
 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 22:51; 
 Isa 12:2<sup>2nd</sup>, 3; 25:9; 26:1; 33:6; 49:6, 8; 51:6, 8; 52:7, 10; 56:1; 59:11, 17; 60:18; 62:1; 
 Hab 3:8; 
 Pss 3:3, 9; 9:15; 13:6; 14:7; 18:51; 20:6; 21:2, 6; 22:2; 35:9; 44:5; 53:7; 62:2; 67:3; 69:30; 70:5; 74:12; 78:22; 80:3; 88:2; 91:16; 96:2; 98:2, 3; 106:4; 116:13; 118:15; 119:123, 155, 166, 174; 149:4; 
 Job 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;
 * <span dir="rtl" lang="-">ܦܪܩ</span>
-(<i>prq</i>), ‘to save, to liberate’: Deut 32:15; Isa 26:18; 
+(<i>prq</i>) Peal, ‘to save, to liberate’: Deut 32:15; Isa 26:18; 
 * <span dir="rtl" lang="-">ܦܪܘܩܐ</span> (<i>pārōqā</i>), ‘saviour, liberator’: Exod 15:2; Isa 12:2<sup>1st</sup>; 33:2; Pss 28:8; 35:3; 42:6, 12; 43:5; 62:3, 7; 68:20; 89:27; 118:14, 21; 140:8; Job 13:16; 
 * <span dir="rtl" lang="-">ܡܥܕܪܢܐ</span> (<i>mʿadrānnā</i>), ‘helper’: 2&nbsp;Sam 10:11;  
 * [[<span dir="rtl" lang="-">ܦܘܪܥܢܐ</span> (<i>purʿānā</i>), ‘recompense, reward’: Jon 2:10]].
@@ -310,19 +309,14 @@ No rendering: Ps 118:15.
 * <i>salus</i>, ‘a being safe and sound, welfare’: Exod 15:2; 1&nbsp;Sam 14:45; 2&nbsp;Sam 22:51; Isa 12:2b; 26:18; 33:2, 6; 49:6, 8; 51:6; 52:7; 56:1; 59:11, 17; 60:18; Jon 2:10; Pss 3:3, 9; 14[13]:7 (Vg<sup><small>PsH </small></sup>); 18[17]:51; 22[21]:2; 35[34]:3, 9; 42[41]:12; 43[42]:5; 44[43]:5; 62[61]:2, 3, 7; 67[66]:3; 68[67]:20; 69[68]:30; 74[73]:12; 88[87]:2; 89[88]:27; 116[115]:13; 118[117]:14, 15, 21; 119[118]:155; 140[139]:8; 149:4 (Vg<sup><small>PsG </small></sup>); Job 30:15;  
 * <i>salutaris</i>, ‘salvation, health’: Gen 49:18; Deut 32:15; 1&nbsp;Sam 2:1; Isa 25:9; 52:10; Pss 9:15[16]; 13[12]:6; 14[13]:7 (Vg<sup><small>PsG </small></sup>); 20[19]:6; 21[20]:6; 28[27]:8; 42[41]:6; 53[52]:7; 70[69]:5; 78[77]:22; 91[90]:16; 96[92]:2; 98[97]:2, 3; 106[105]:4; 119[118]:123, 166, 174; 1&nbsp;Chron 16:23;  
 * <i>salvatio</i>, ‘deliverance’: Hab 3:8;  
-* <i>salvator</i>, ‘savious, redeemer’: Isa 12:2a, 3; 26:1; 62:1; Job 13:16;  
+* <i>salvator</i>, ‘saviour, redeemer’: Isa 12:2a, 3; 26:1; 62:1; Job 13:16;  
 * <i>salvum facio</i>, ‘to save, to deliver’: Ps 80[79]:3.
 
 [^4]: The English renderings of the Latin are based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
 
-<b>A.1</b>  The Versions in general choose the same translation equivalents as
-those of the cognate noun יֵשַׁע. What is striking in comparison with 
-<span dir="rtl" lang="he">יֵשַׁע</span> is the rarity of translations 
-denoting a ‘saviour’, since the LXX
-only gives the rendering σωτήρ on four occasions (Deut. 32:15; Isa 12:2a;
-Ps 62[61]:3, 7), Tg <span dir="rtl" lang="he">פרק</span> part. once (Deut 32:15), 
-and the Vg <i>Iesus</i> once (Ps 149:4).
+<b>A.1</b>  The Versions in general choose the same translation equivalents as those of the cognate noun יֵשַׁע. What is striking in comparison with <span dir="rtl" lang="he">יֵשַׁע</span> is the rarity of translations denoting a ‘saviour’, since the LXX only gives the rendering σωτήρ on four occasions (Deut. 32:15; Isa 12:2a; Ps 62[61]:3, 7), Tg <span dir="rtl" lang="he">פרק</span> part. once (Deut 32:15), and the Vg<sup><small>PsH</small></sup> <i>Iesus</i> once (Ps 149:4).[^4a]
 
+[^4a]: For the translation in Vg see Margoni-Kögler 2017:61-64. Vg applied the rendering <i>Iesus</i> four times for the word <span dir="rtl">יֵשַׁע</span>, see YESHA-link.
 
 <b>B.1</b>  In Jon 2:10 Pesh’s use of 
 <span dir="rtl" lang="-">ܦܘܪܥܢܐ</span> (<i>purʿānā</i>), ‘recompense’, which is usually
@@ -393,7 +387,7 @@ and the expression <span dir="rtl" lang="he">שׁוּב שְׁבוּת</span>, ‘
 is found in parallelism with <span dir="rtl" lang="he">צְדָקָה</span> and a suffix is
 added to the feminine ending (Isa 51:6, 8; 56:1; Ps 98:2), the
 association is emphasised by assonance, which in Ps 98:2 becomes
-end-rhyme (Watson 1984: 229-33). This is a distinct poetic device from
+end-rhyme (Watson 1984:229-33). This is a distinct poetic device from
 the feature noted in <a href="#2.A.3">2.&nbsp;Formal Characteristics A.3</a>.
 
 ## 6. Exegesis
@@ -434,7 +428,7 @@ is used of God’s acts but very rarely of God himself
 (in contrast to <span dir="rtl" lang="he">יֵשַׁע</span>) 
 is an overlooked semantic differentiation. Mordechai Ben
 Asher, for example, sees no semantic differentiation between non-animate
-nouns with both masculine and feminine forms (1978: 1–14). It is clear,
+nouns with both masculine and feminine forms (1978:1–14). It is clear,
 however, from the Syntagmatics and the Versions how they differ in this
 regard. It may be that the shorter form was more adept to this use.
 
@@ -447,7 +441,7 @@ present experience of the righteous whose worship brings them into
 fellowship with heavenly beings (1QH<sup><small>a</small></sup> 20:3 =
 4QH<sup><small>a</small></sup> 3:2-3; 26:10 =
 4QH<sup><small>a</small></sup> 7 i 14; 4Q511 10:8: 
-cf. Ringgren 1963: 127-32; Dahmen 2013: 312).
+cf. Ringgren 1963:127-32; Dahmen 2013:312).
 
 
 <b>B.1</b>  BDB indicate that 
@@ -536,6 +530,12 @@ Eduard Lohse, <i>Die Texte aus Qumran. Hebräisch und Deutsch</i> (2nd ed.),
 Munich: Kösel Verlag.
 	</div>
 
+<div style="padding-left: 22px; text-indent: -22px;">
+Margoni-Kögler 2017
+<br>
+Michael Margoni-Kögler, ‘Hieronymus philologus:
+Einblicke in sein Bibelübersetzen: Prinzipien, Praxis, Relevanz’, <i>Vulgata in Dialogue</i> 1:31-69.
+</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ringgren 1963. <br>   
@@ -551,7 +551,7 @@ Wilhelm Rudolph, <i>Micha-Nahum-Habakuk-Zephanja.</i> (KAT), Gütersloh: Gerd Mo
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Sawyer 1972 <br>
-John F. A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining Hebrew Words for Salvation</i>, (SBT 2nd series, 24), London: SCM.
+John F. A. Sawyer, <i>Semantics in Biblical Research: New Methods of Defining Hebrew Words for Salvation</i> (SBT 2nd series, 24), London: SCM.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">

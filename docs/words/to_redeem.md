@@ -33,6 +33,8 @@ Occurrences: 103x[^1] HB (qal: 28/31/36; niph.: 7/1/0); 1(2?)x Sir; 16x Qum; 1(?
 4Q420 1a ii-v 6;
 4Q504 22:3.
 
+### Text Doubtful
+
 <b>A.1</b>  Sir 37:19 mss B and C have the qal part. גואל but Bmg and D have יאל
 niph., as follows: 
 <span dir="rtl" lang="he">יש חכם לרבים נחכם ולנפשו הוא נואל</span>
