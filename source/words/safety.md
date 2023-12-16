@@ -17,12 +17,13 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 ## Introduction
 
 Grammatical Type: n m.   
-Occurrences: 36x HB (0/13/23); 2x Sir; 5x Qum; 1x inscr. (Total: 44).
+Occurrences: 36x HB (0/13/23); 2x Sir; 12x Qum; 1x inscr. (Total: 51).
 
 * Nebiim: 2 Sam 22:3, 36, 47; 23:5; Isa 17:10; 45:8; 51:5; 61:10, 11; Mic 7:7; Hab 3:13 (2x), 18;
 * Ketubim: Ps 12:6; 18:3, 36, 47; 20:7; 24:5; 25:5; 27:1, 9; 50:23; 51:14; 62:8; 65:6; 69:14; 79:9; 85:5, 8, 10; 95:1; 132:16; Job 5:4, 11; 1 Chron 16:35;
 * Sir: ms B, 51:1, 10;[^1] 
-* Qum: CD 20:20(B); 1QIs<sup><small>a</small></sup>; 4Q510 2:2; 11QPs<sup><small>a</small></sup> 18:2 [=154:4];
+* Qum: CD–B 20:20; 1QH<sup><small>a</small></sup> 13:14; 4Q381 24a+b:7; 31:6; 33ab+35:8, 9; 4Q417 2.i:11; 
+4Q510 2:2; 11Q5 18:2; 22:4; partially reconstructed: 4Q379 19:1; 4Q443 1:12;
 * Inscr: Naveh & Magen 1997:43, text D (=D-50:004); see B.4
 * Text doubtful: –
 
@@ -30,8 +31,6 @@ Occurrences: 36x HB (0/13/23); 2x Sir; 5x Qum; 1x inscr. (Total: 44).
 
 
 ### Text Doubtful
-
-<b>A.1</b>  [nil]
 
 <b>B.1</b><a id="IntrB1"></a> At Hab 3:13 the  <span dir="rtl">אֵת</span> following the second  <span dir="rtl">יֵשַׁע</span> has been taken to indicate that a verb is required, and an infinitive can easily be substituted in view of the prefix  <span dir="rtl">לְ</span> before the noun. Ward (1959:27) suggests that this is called for, not only by the sign of the direct object, but also by the LXX’s infinitives, both in the Old Greek and in the variant text of Codex Venetus and other mss cited by him (on the latter see Ziegler 1967:37-39, 80-81, 274; Jellicoe 1968:198; Glenny 2017:616). And yet only one of the two nouns in that verse is translated by an infinitive, and even then in the Old Greek it is an articular infinitive, which operates more as a noun than as a verb. It
 should be noted that an articular infinitive renders the noun
@@ -68,32 +67,26 @@ only appears in poetry in the OT and most often in prayers and Psalms.
 
 ## 3. Syntagmatics
 
-<b>A.1</b> <span dir="rtl">יֵשַׁע</span> is subject of the verb  <span dir="rtl">יָצָא</span>, ‘to go out’ (Isa 51:5),  <span dir="rtl">בּוֹא</span>, ‘to come’ (Isa 62:11).
+<b>A.1</b> <span dir="rtl">יֵשַׁע</span> is subject of the verb  <span dir="rtl">יָצָא</span>, ‘to go out’ (Isa 51:5),  <span dir="rtl">בּוֹא</span>, ‘to come’ (Isa 62:11)), גלה niph., ‘to be revealed’ (CD-B 20:20; 1QH<sup><small>a</small></sup> 13:14).
 
-<b>A.2</b>   <span dir="rtl">יֵשַׁע</span> is the object of the verbs  <span dir="rtl">צמח</span> hiph., ‘to cause to spring up’ (2 Sam 23:5),  <span dir="rtl">נָתַן</span> ‘to give’ (Ps 85:8).  <span dir="rtl">יֵשַׁע</span> is also the indirect object of the verb  <span dir="rtl">לבשׁ</span> hiph., ‘to clothe’ (Ps 132:16). It is preceded by the verbs  <span dir="rtl">שִׁית</span> + <span dir="rtl">בְּ</span>, ‘to place in’ (Ps 12:6),  <span dir="rtl">רָאָה</span> hiph. +  <span dir="rtl">בְּ</span>, ‘to show’ (Ps 50:23),  <span dir="rtl">רָחַק</span> +  <span dir="rtl">מִן</span>, ‘to be far from’ (Job 5:4),  <span dir="rtl">שָׂגַב</span>, ‘to be exalted’ (Job 5:11).
+<b>A.2</b>   <span dir="rtl">יֵשַׁע</span> is the object of the verbs  <span dir="rtl">צמח</span> hiph., ‘to cause to spring up’ (2 Sam 23:5),  <span dir="rtl">נָתַן</span> ‘to give’ (Ps 85:8), <span dir="rtl">ידע</span> hiph., ‘to make known’ (11Q5 18:2).  <span dir="rtl">יֵשַׁע</span> is also the indirect object of the verb  <span dir="rtl">לבשׁ</span> hiph., ‘to clothe’ (Ps 132:16). It is preceded by the verbs  <span dir="rtl">שִׁית</span> + <span dir="rtl">בְּ</span>, ‘to place in’ (Ps 12:6),  <span dir="rtl">רָאָה</span> hiph. +  <span dir="rtl">בְּ</span>, ‘to show’ (Ps 50:23),  <span dir="rtl">רָחַק</span> +  <span dir="rtl">מִן</span>, ‘to be far from’ (Job 5:4),  <span dir="rtl">שָׂגַב</span>, ‘to be exalted’ (Job 5:11).
 
 <b>A.3</b><a id="SyntA3"></a> At Job 5:11  <span dir="rtl">יֵשַׁע</span> follows immediately on <span dir="rtl">שָׂגַב</span>, ‘to be exalted’ without any preposition as an adverbial accusative (Gordis 1978:56; GKC, §118q).
 
-<b>A.4</b>   <span dir="rtl">יֵשַׁע</span> is nomen regens of  <span dir="rtl">אֱלֹהִים</span>, ‘God’ (Ps 50:23).
+<b>A.4</b>   <span dir="rtl">יֵשַׁע</span> is nomen regens of  <span dir="rtl">אֱלֹהִים</span>, ‘God’ (Ps 50:23), and of <span dir="rtl">פנים</span>, ‘face’ (4Q381 33ab+35:9).
 
-<b>A.5</b><a id="SyntA5"></a> <span dir="rtl">יֵשַׁע</span> is the nomen rectum of  <span dir="rtl">אֱלֹהִים</span>, ‘God’ in liturgical contexts (Isa 17:10; Mic 7:7; Hab 3:18; Ps 18:47; 24:5; 25:5; 27:9; 65:6; 79:9; 85:5; 1 Chron 16:35). In all these cases <span dir="rtl">יֵשַׁע</span> has a pronominal suffix (‘my’, ‘his’, ‘our’).   
-It is also the nomen rectum of things:  <span dir="rtl">קֶרֶן</span>, ‘horn’ (2 Sam 22:3; Ps 18:3),  <span dir="rtl">מָגֵן</span>, ‘shield’ (2 Sam 22:36; Ps 18:36),  <span dir="rtl">צוּר</span>, ‘rock’ (2 Sam 22:47; Ps 95:1),  <span dir="rtl">בְּגָדִים</span>, ‘clothes’ (Isa 61:10),  <span dir="rtl">גְּבֻרוֹת</span>, ‘powers’ (Ps 20:7), <span dir="rtl">שָׂשׂוֹן</span>, ‘joy’ (Ps 51:14), and  <span dir="rtl">אֱמֶת</span>, ‘faithfulness’ (Ps 69:14).
-
+<b>A.5</b><a id="SyntA5"></a> <span dir="rtl">יֵשַׁע</span> is the nomen rectum of  <span dir="rtl">אֱלֹהִים</span>, ‘God’ in liturgical contexts (Isa 17:10; Mic 7:7; Hab 3:18; Ps 18:47; 24:5; 25:5; 27:9; 65:6; 79:9; 85:5; 1 Chron 16:35; 4Q381 31:6; 4Q510 2:2). In most of these cases <span dir="rtl">יֵשַׁע</span> has a pronominal suffix (‘my’, ‘your’, ‘his’, ‘our’).   
+It is also the nomen rectum of things:  <span dir="rtl">קֶרֶן</span>, ‘horn’ (2 Sam 22:3; Ps 18:3),  <span dir="rtl">מָגֵן</span>, ‘shield’ (2 Sam 22:36; Ps 18:36),  <span dir="rtl">צוּר</span>, ‘rock’ (2 Sam 22:47; Ps 95:1),  <span dir="rtl">בְּגָדִים</span>, ‘clothes’ (Isa 61:10),  <span dir="rtl">גְּבֻרוֹת</span>, ‘powers’ (Ps 20:7), <span dir="rtl">שָׂשׂוֹן</span>, ‘joy’ (Ps 51:14), and  <span dir="rtl">אֱמֶת</span>, ‘faithfulness’ (Ps 69:14). It is the nomen rectum of <span dir="rtl">מולדים</span>, ‘births’ (4Q417 2 i 11), and <span dir="rtl">יום</span>, ‘day’ (11Q5 22:4).
 
 <b>A.6</b>   <span dir="rtl">יֵשַׁע</span> is the predicate of  <span dir="rtl">יהוה</span> (Ps 27:1).  <span dir="rtl">יֵשַׁע</span> has as its
 predicate the adj.  <span dir="rtl">קָרוֹב</span>, ‘near’ (Ps 85:10).
 
-
 <b>A.7</b>   <span dir="rtl">יֵשַׁע</span> is in apposition to  <span dir="rtl">אלהים</span>, ‘God’ (Sir 51:1).
 
-
-<b>A.8</b>   <span dir="rtl">יֵשַׁע</span> is followed by <i>waw</i> +  <span dir="rtl">חֵפֶץ</span>, ‘delight’ (2 Sam 23:5) or
-follows  <span dir="rtl">אוֹר</span> + <i>waw</i> (Ps 27:1).
-
+<b>A.8</b>  <span dir="rtl">יֵשַׁע</span> is followed by <i>waw</i> +  <span dir="rtl">חֵפֶץ</span>, ‘delight’ (2 Sam 23:5) or follows  <span dir="rtl">אוֹר</span> + <i>waw</i> (Ps 27:1).
 
 <b>B.1</b>  It is probable that at Isa 45:8  <span dir="rtl">יֵשַׁע</span> should be the subject of the
 verb emended to  <span dir="rtl">וְיֵפֶר</span> (Westermann 1969:153).
-
 
 <b>B.2</b>  The precise syntagmatic relationship in Hab 3:13 is uncertain (see <a href="#IntrB1">
 Introduction: Text Doubtful B.1</a>).
@@ -134,7 +127,7 @@ Hab 3:13 (2x);
 
 * \[[ <span dir="rtl">מיתיא</span>]], ‘dead’:[^4] Isa 45:8;
 * <span dir="rtl">פּרק</span>, ‘to redeem’: 2 Sam 22:36; Isa 62:11; Hab 3:13 (2x);
-* <span dir="rtl">פּרקונא</span>, ‘redemption, salvation’: 2 Sam 22:3, 47; Isa 17:10; 51:5; 61:10; Mic 7:7; Hab 3:18; Pss&nbsp;12:6; 18:3, 36, 47; 20:7; 24:5; 25:5; 27:1, 9; 50:23; 51:14; 62:8; 65:6; 69:14; 79:9; 85:5, 8, 10; 95:1; 132:16; Job 5:4, 11; 1 Chron 16:35;
+* <span dir="rtl">פּורקנא</span>, ‘redemption, salvation’: 2 Sam 22:3, 47; Isa 17:10; 51:5; 61:10; Mic 7:7; Hab 3:18; Pss&nbsp;12:6; 18:3, 36, 47; 20:7; 24:5; 25:5; 27:1, 9; 50:23; 51:14; 62:8; 65:6; 69:14; 79:9; 85:5, 8, 10; 95:1; 132:16; Job 5:4, 11; 1 Chron 16:35;
 * \[[ <span dir="rtl">צורכא</span>]], ‘need’: 2 Sam 23:5.
 
 [^4]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
@@ -152,29 +145,22 @@ Isa 61:10; Hab 3:13 [2x]; Pss&nbsp;18[17]:3, 36, 47; 20[19]:7; 27[26]:1<sup><sma
 [^6]: The English renderings of the Latin are based on Lewis & Short, <i>LD</i>, <i>s.v</i>.
 
 
-
 <b>A.1</b><a id="AVersA1"></a> It is striking how often the LXX (σωτήρ), Pesh (<span dir="rtl">ܦܪܘܩܐ</span> [<i>pārōqā</i>]) and the Vg (<i>Iesus</i>, <i>salvator</i>) read the word as denoting a person rather than an abstract noun, although they do not agree on each passage to render this way. Tg to 2 Sam 22:36 and Isa 62:11 also read those passages as speaking of a ‘saviour’.
 
 <b>A.2</b>  Tg to Isa 45:8 interprets the concept of salvation as the resurrection of the dead, a reflection of the Targum’s theological views rather than semantics. Likewise the Targum’s reading <span dir="rtl">צוֹרְכָא</span>, ‘necessity’ at 2 Sam 23:5 forms part of a midrashic text and is not evidence for the
 semantics.
 
-
 <b>A.3</b>  It is noticeable how the Pesh and Tg favour the root <i>prq</i>, and do
 not once choose <i>šzb</i> or <i>pṣy</i>, roots often chosen for translating
 cognates of  <span dir="rtl">פלט</span>,  <span dir="rtl">מלט</span> and  <span dir="rtl">נצל</span>.
 
-
 <b>A.4</b>  The choice in the Vg of cognates of <i>salvare</i> distinguishes the word from  <span dir="rtl">נצל</span> where cognates of <i>liberare</i> were more popular (cf. Sawyer 1990:449).
-
 
 <b>A.5</b><a id="AVersA5"></a>  The late Latin lexeme <i>sospitas</i>, ‘safety’ at Job 5:11, although not from the same root as most of the Vg’s choices, nonetheless conveys the same sense. In fact it is an apposite term since it has associations with divine safety in pagan writers. A cult title of Juno at Lanuvium was <i>Sospita</i> (Cicero, <i>De natura deorum</i> 1:82; see <i>OLD</i>, 1796), and <i>sospitatrix</i> was used of Isis (Apuleius, <i>Metamorphoses</i> 11:9, 25; <i>OLD</i>, 1796). Perhaps as a result of this association <i>sospitator</i>, ‘saviour, preserver, deliverer, redeemer’ (Lewis & Short, <i>LD</i>, 1734), another post-classical Latin noun, became a title used of Christ (<i>sospitator</i> <i>nostri generis</i>, Arnobius Afer 2:96).
 
 <b>A.6</b>  At 2 Sam 23:5 the positional equivalent in Pesh is <span dir="rtl">ܨܒܝܢܐ</span> (<i>ṣbynʾ</i>), ‘favor, good will’ (Sokoloff, <i>SLB</i>, 1271). Generally it is the equivalent of the noun  <span dir="rtl">חֵפֶץ</span>, which occurs in the following phrase (cf. Pesh on Qoh 12:10). In fact, since the positional equivalent of <span dir="rtl">חֵפֶץ</span> is <span dir="rtl">ܦܘܩܕܢܐ</span> (<i>puqdānā</i>), one might consider that for some reason Pesh has interchanged its renderings of <span dir="rtl">יֵשַׁע</span> and  <span dir="rtl">חֵפֶץ</span>.[^7]
 
 [^7]: On the phenomenon of inversion of renderings, see Smelik 1995:268-70.
-
-
-<b>A.7</b>  It appears that the whole Targumic expression  <span dir="rtl">תקוף פורקני</span>, ‘strength of my redemption  of Ps 18:47, which is also used to translate <span dir="rtl">מוֹשָׁעוֹת</span> at Ps 68:21 (there with <i>waw</i>: <span dir="rtl">תקוף ופורקן</span>, ‘strength and redemption’), is the usual Tg Ps translation for construct expressions containing  <span dir="rtl">יֵשַׁע</span>. It is found at 2 Sam 22:3 and Ps 18:3 to translate <span dir="rtl">קֶרֶן־יֵשְׁעִי</span>, ‘horn of my salvation’ and at Ps 18:36 to translate <span dir="rtl">מָגֵן יֵשְׁעֶךָ</span>, ‘shield of your salvation’. The Tg at Ps 18:47, therefore, translates <span dir="rtl">יֵשַׁע</span> by the construction under the influence of these renderings.
 
 <b>B.1</b>  The LXX translation ἔλεος ‘pity, mercy’ at Isa 45:8 renders the cause of God’s salvation, rather than the effect.
 
@@ -188,7 +174,7 @@ finding difficulty with the syntax of the verse (see
 
 <b>A.1</b> See in general <a href="sahd/words/to_save%2C_help/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">ישׁע</span>: 5. Lexical/Semantic Fields</a>.
 
-<b>A.2</b><a id="LexA2"></a> <span dir="rtl">יֵשַׁע</span> is found in parallelism with <span dir="rtl">צוּר מָעוֹז</span>, ‘rock of refuge’ (Isa 17:10), <span dir="rtl">צְדָקָה</span>, ‘righteousness’ (Isa 61:10), <span dir="rtl">חֶסֶד</span>, ‘steadfastness’ (Ps 85:8).  <span dir="rtl">יֵשַׁע</span> also forms part of a series of words denoting protection (Ps 18:3).
+<b>A.2</b><a id="LexA2"></a> <span dir="rtl">יֵשַׁע</span> is found in parallelism with <span dir="rtl">צוּר מָעוֹז</span>, ‘rock of refuge’ (Isa 17:10), <span dir="rtl">צְדָקָה</span>, ‘righteousness’ (Isa 61:10; CD-B 20:20; 4Q443 1:12), <span dir="rtl">חֶסֶד</span>, ‘steadfastness’ (Ps 85:8).  <span dir="rtl">יֵשַׁע</span> also forms part of a series of words denoting protection (Ps 18:3).
 
 <b>A.3</b><a id="LexA3"></a> <span dir="rtl">יֵשַׁע</span> is very frequent in the Psalms (20x), but never appears in the Pentateuch. Elsewhere it appears 4x 2 Sam, 5x Isa, 1x Mic, 3x Hab, 2x Job and 1x 1 Chron. This indicates that it is always found in poetry or prayer, since the instances in 2 Samuel and 1 Chronicles are in addresses to God sung by the king.
 
@@ -239,6 +225,9 @@ cf. <a href="#LexA2">Lexical/Semantic Fields A.2</a>) seems to be a lexeme denot
 they are with  <span dir="rtl">תְּשׁוּעָה</span>.
 
 ## Bibliography
+
+For the abbreviations see the 
+<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Andersen 2001
