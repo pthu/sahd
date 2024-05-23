@@ -3,7 +3,7 @@ word_english: Urim_Thummim
 word_hebrew: אוּרִים וְתֻמִּים  
 title: Urim and Thummim  
 semantic_fields: utensils, cult, divination  
-contributors: kees_den_hertog, paul_sanders   
+contributors: kees_den_hertog(†), paul_sanders   
 first_published: 2022-08-02  
 last_update: 2023-11-30   
 update_info:  
@@ -70,7 +70,7 @@ And Ionathan and Saoul were indicated by the lot, and the people were cleared. (
 
 In several other instances, the plural of Greek δῆλος, ‘clear one’, represents Hebrew <span dir="rtl">אורים</span> (see <a href="#AV">Ancient Versions</a>). 
 This raises the question of whether the Greek text was based on a different version of the Hebrew text including the word <span dir="rtl">אורים</span>.
-The word <span dir="rtl">תמים</span> is represented by ὁσιότητα, ‘holiness’, and seems to have been interpreted as an occurrence of the noun <span dir="rtl">תֻּמִּים</span>. If the Greek text was based on a Hebrew text, this Hebrew text can be reconstructed as follows (cf 14:39):[^2]
+The word <span dir="rtl">תמים</span> is represented by ὁσιότητα, ‘holiness’, and seems to have been interpreted as an occurrence of the noun <span dir="rtl">תֻּמִּים</span>. If the Greek text was based on a Hebrew text, this Hebrew text can be reconstructed as follows (cf. 14:39):[^2]
 
 <div style="padding-left: 22px; padding-right: 44px; text-align: right; text-indent: 22px;">
 <span dir="rtl" lang="he">למה לא ענית את עבדך היום אם בי או ביונתן בני העון הזה יהוה אלהי ישראל הבה אורים ואם ישנו(?) בעמך ישראל הבה תמים
@@ -116,7 +116,7 @@ Furthermore, there is no reason to change the vocalisation of <span dir="rtl">ת
 in Amos 5:10 into <span dir="rtl">תֻּמִּים</span>.[^11] 
 It has been proposed to replace the vocalisation 
 of the enigmatic form <span dir="rtl">תּוֹמִיךְ</span> 
-(hiph. of unknown verb <span dir="rtl">ימך</span>?) in Ps 16:5 by <span dir="rtl">תּוּמֶיךָ</span>:
+(<i>hiph.</i> of unknown verb <span dir="rtl">ימך</span>?) in Ps 16:5 by <span dir="rtl">תּוּמֶיךָ</span>:
 <span dir="rtl">תּוּמֶיךָ גּוֹרָלִי</span>, ‘Your Thummim are my lot’.[^12] However, it is more convincing to interpret the form as part. m.sg. of <span dir="rtl">תמך</span>, ‘to take hold of’:
 <span dir="rtl">אַתָּה תּוֹמֵ(י)ךְ גּוֹרָלִי</span>,
 ‘you hold my lot’.[^13]
@@ -136,14 +136,14 @@ Part of the earliest translations already express a connection of <span dir="rtl
 the verb <span dir="rtl">אור</span> or the nouns <span dir="rtl">אוֹר</span> and <span dir="rtl">אוּר</span> 
 (see <a href="#AV">Ancient Versions</a>). 
 The connection with the verb <span dir="rtl">אור</span> is explicit in the Talmud, which 
-uses the verb <span dir="rtl">אור</span> hiph., ‘to enlighten’, to explain the meaning of <span dir="rtl">אוּרִים</span>:
+uses the verb <span dir="rtl">אור</span> <i>hiph.</i>, ‘to enlighten’, to explain the meaning of <span dir="rtl">אוּרִים</span>:
 <span dir="rtl">למה נקרא שמן אורים ותומים אורים שמאירין את דבריהן</span>, 
 ‘why is their name called Urim and Thummim? 
 Urim, because they enlighten their words’ 
 (bYoma 73b); 
 <span dir="rtl">ולמה נקרא שמם אורים שהן מאירין לישראל</span>, ‘and why is their name called Urim? Because they enlighten for Israel’
 (yYoma 7, 44c). 
-An addition in Targum Pseudo-Jonathan (Tg<sup><small>PsJ</small></sup>) Exod 28:30 explains the function of the Urim and Thummimin a similar way, using the Aram. verb <span dir="rtl">נהר</span> pael, ‘to illumine’: 
+An addition in Targum Pseudo-Jonathan (Tg<sup><small>PsJ</small></sup>) Exod 28:30 explains the function of the Urim and Thummim in a similar way, using the Aram. verb <span dir="rtl">נהר</span> <i>pael</i>, ‘to illumine’: 
 <span dir="rtl">אוריא דמנהרין מיליהון ומפרסמין טמירן דבית ישראל</span>,
 ‘the Urim, which 
 illumine their words and uncover 
@@ -156,14 +156,15 @@ reflect the same derivation:
 Urim and the Thummim’. 
 
 <span id="ARR"><b>A.2</b></span>
-Julius Wellhausen proposed to derive <span dir="rtl">אוּרִים</span> from √<span dir="rtl">ארר</span>, ‘to accurse’ (Wellhausen 1883:418-19 n. 1; cf. Van Dam 1997:95 n. 55). In the same context, he suggested that <span dir="rtl">תֻּמִּים</span> designates the contrasting aspect of the pair and connected this word with Arabic 
-<i>tamīma</i>, ‘amulet’ (see B.1 below). The derivation of <span dir="rtl">אוּרִים</span> from √<span dir="rtl">ארר</span> is mentioned in several dictionaries[^16] and is preferred in <i>DCH</i> viii: with <span dir="rtl">תֻּמִּים</span> translated as ‘acquitted’.[^17] For the form, see <a href="#FC">Formal Characteristics</a>.
+Julius Wellhausen proposed to derive <span dir="rtl">אוּרִים</span> from 
+√<span dir="rtl">ארר</span>, ‘to accurse’ (Wellhausen 1883:418-19 n. 1; cf. Van Dam 1997:95 n. 55). In the same context, he suggested that <span dir="rtl">תֻּמִּים</span> designates the contrasting aspect of the pair and connected this word with Arabic 
+<i>tamīma</i>, ‘amulet’ (see B.1 below). The derivation of <span dir="rtl">אוּרִים</span> from √<span dir="rtl">ארר</span> is mentioned in several dictionaries[^16] and is preferred in <i>DCH</i> viii, with <span dir="rtl">תֻּמִּים</span> translated as ‘acquitted’.[^17] For the form, see <a href="#FC">Formal Characteristics</a>.
 
 <span id="YRH"><b>A.3</b></span> With reference 
 to Grimme (1901), GB, 318, mentions <span dir="rtl">אוּרִים</span> in connection with the verbs 
-<span dir="rtl">ירה</span> I qal/hiph., ‘to throw’, and <span dir="rtl">ירה</span> III hiph., ‘to instruct’.
+<span dir="rtl">ירה</span> I <i>qal</i>/<i>hiph.</i>, ‘to throw’, and <span dir="rtl">ירה</span> III <i>hiph.</i>, ‘to instruct’.
 
-<b>A.4</b> Hans Duhm (1926:50) interpreted <span dir="rtl">אוּרִים</span> as an ancient pass. part. form of <span dir="rtl">ארה</span> qal, ‘to pluck’:
+<b>A.4</b> Hans Duhm (1926:50) interpreted <span dir="rtl">אוּרִים</span> as an ancient pass. part. form of <span dir="rtl">ארה</span> <i>qal</i>, ‘to pluck’:
 He supposed that the term <span dir="rtl">אוּרִים</span> denoted plucked off twigs that jumped out of the priest’s pouch. The derivation from <span dir="rtl">ארה</span> is mentioned as one of the options in KBL.[^18] 
 
 <span id="TMM"><b>A.5</b></span> <span dir="rtl">תֻּמִּים</span> is usually interpreted as the plural form of the noun <span dir="rtl">תֹּם</span>, ‘completion’, ‘perfection’ (cf. <a href="#FC">Formal Characteristics</a>). Like the adjectives <span dir="rtl">תָּם</span> and <span dir="rtl">תָּמִים</span> (‘perfect’, ‘blameless’), 
@@ -180,13 +181,13 @@ This connection is already made explicit in the Talmud,
 where the question
 <span dir="rtl">למה נקרא שמן אורים ותומים</span>,
 ‘why is their name called Urim and Thummim?’,
-is followed by an answer that uses the verb <span dir="rtl">שלם</span> hiph., ‘to fulfill’, 
+is followed by an answer that uses the verb <span dir="rtl">שלם</span> <i>hiph.</i>, ‘to fulfill’, 
 to explain the term Thummim: 
 <span dir="rtl">תומים שמשלימין את דבריהן</span>,
 ‘Thummim, because they fulfill their words’ (bYoma 73b). An addition in Targum Pseudo-Jonathan (Tg<sup><small>PsJ</small></sup>) Exod 28:30 offers a similar explanation: <span dir="rtl">תומיא דמשלימין בעובדיהון לכהנא רבא</span>,
 ‘the Thummim, which bring fulfillment in their affairs for the high priest’. 
 In the Jerusalem Talmud, the name Thummim is explained
-with the verb <span dir="rtl">תמם</span> hiph., ‘to complete, make perfect’:
+with the verb <span dir="rtl">תמם</span> <i>hiph.</i>, ‘to complete, make perfect’:
 <span dir="rtl">ותומים שהן מתימין לפניהם את הדרך שבשעה שהיו ישראל תמימין היו מכוונין להן את הדרך</span>,
 ‘and Thummim, because they make perfect the road
 before them; as long as Israel was perfect, they were straightening 
@@ -230,7 +231,7 @@ and <span dir="rtl">עֹז</span> (<&nbsp;<span dir="rtl">עזז</span>, plural 
 
 <b>A.3</b>
 <span dir="rtl">תֻּמִּים</span> is often interpreted as the plural of <span dir="rtl">תֹּם</span>, ‘completion, perfection’ (see <a href="#TMM">Root and Comparative Material A.5</a>).
-No other occurences of the plural of <span dir="rtl">תֹּם</span> are attested. <span dir="rtl">תֹּם</span> (<&nbsp;\*<i>tumm</i>)
+No other occurrences of the plural of <span dir="rtl">תֹּם</span> are attested. <span dir="rtl">תֹּם</span> (<&nbsp;\*<i>tumm</i>)
 is a <i>qull/qutl</i> form derived from the verb <span dir="rtl">תמם</span> (BL, 455, §61hʹ).
 The vowel <i>u</i> 
 and the doubling of the <i>mem</i> 
@@ -282,12 +283,12 @@ of
 <b>A.5</b> 
 <span dir="rtl">אוּרִים</span> and <span dir="rtl">תֻּמִּים</span> are the subject of the verb 
 <span dir="rtl">היה</span> qal, ‘to be’, 
-in Exod 28:30. <br>
+in Exod 28:30. 
 <span dir="rtl">אוּרִים</span> and <span dir="rtl">תֻּמִּים</span> are the direct object of the following verbs:
 
-* <span dir="rtl">נתן</span> qal, ‘to give’, Exod 28:30, Lev 8:8. 
-* <span dir="rtl">עשׂה</span> qal, ‘to make’, Exod 28:30 (SP), 39:21 (4QExod-Lev<sup><small>f</small></sup>, SP); cf. <a href="#IntroA1">Introduction A.1</a>.
-* <span dir="rtl">יהב</span> qal, ‘to give’, 1 Sam 14:41 (source text of LXX? cf. <a href="#1S14v41lxx">Introduction A.2</a>);
+* <span dir="rtl">נתן</span> <i>qal</i>, ‘to give’, Exod 28:30, Lev 8:8. 
+* <span dir="rtl">עשׂה</span> <i>qal</i>, ‘to make’, Exod 28:30 (SP), 39:21 (4QExod-Lev<sup><small>f</small></sup>, SP); cf. <a href="#IntroA1">Introduction A.1</a>.
+* <span dir="rtl">יהב</span> <i>qal</i>, ‘to give’, 1 Sam 14:41 (source text of LXX? cf. <a href="#1S14v41lxx">Introduction A.2</a>);
 Deut 33:8 in 4Q175 (see <a href="#Exe">Exegesis</a>). 
 
 <b>A.6</b> <span dir="rtl">אוּרִים</span> and <span dir="rtl">תֻּמִּים</span> are governed by <span dir="rtl">לְ</span> in
@@ -324,16 +325,15 @@ Exod 28:30<sup><small>LXX</small></sup>; Lev 8:8<sup><small>LXX</small></sup>; D
 * τελειότης, ‘state of being complete and not deficient’:[^33]
 Exod 28:30<sup><small>αʹσʹθʹ</small></sup> (pl.); Deut 33:8<sup><small>σʹ</small></sup> (sg.);
 * τελείωσις, ‘act of executing and completing’ (pl.):[^34] 
-Lev 8:8<sup><small>αʹθʹ</small></sup>.
-
-Untranslated: Neh 7:65. 
+Lev 8:8<sup><small>αʹθʹ</small></sup>;
+* No rendering: Neh 7:65. 
 
 
 <b>b. Peshitta (Pesh)</b> 
 
 <span dir="rtl">אוּרִים</span> 
 
-* <span dir="rtl">ܝܕܥܬܐ</span> (<i>yidaʿ tā</i>), ‘knowledge’ (sg.):[^35] Lev 8:8;
+* <span dir="rtl">ܝܕܥܬܐ</span> (<i>yidaʿtā</i>), ‘knowledge’ (sg.):[^35] Lev 8:8;
 * <span dir="rtl">ܢܗܝܪܐ</span>
 (<i>nahhīrā</i>),
 ‘light’ (sg.):[^36]
@@ -352,9 +352,8 @@ Exod 28:30;
 Deut 33:8;
 * <span dir="rtl">ܫܠܡܐ</span> (<i>šalmā</i>), ‘entire’, ‘perfect’,	etc. (sg.):[^42] 
 Exod 28:30; 
-* <span dir="rtl">ܫܠܡܘܬܐ</span> (<i>šalmūṯā</i>), ‘perfection’ (sg.):[^43] 1 Sam 14:41 (cf. LXX). 
-
-Paraphrastic in Ezra 7:63; Neh 7:65: <span dir="rtl">ܟܗܢܐ ܪܒܐ ܘܢܫܐܠ ܘܢܚܙܐ</span>, ‘a high priest who can ask and can see’.
+* <span dir="rtl">ܫܠܡܘܬܐ</span> (<i>šalmūṯā</i>), ‘perfection’ (sg.):[^43] 1 Sam 14:41 (cf. LXX);
+* Paraphrastic in Ezra 2:63; Neh 7:65: <span dir="rtl">ܟܗܢܐ ܪܒܐ ܘܢܫܐܠ ܘܢܚܙܐ</span>, ‘a high priest who can ask and can see’.
 
 
 <b>c. Targumim (Tg: O/PsJ/N/Smr/J) </b>
@@ -414,9 +413,8 @@ Lev 8:8<sup><small>VL</small></sup>;
 The word <i>ostensio</i> 
 in 1 Sam 14:41<sup><small>VL,Vg-mss</small></sup> may also represent <span dir="rtl">אוּרִים</span>; see LXX (δῆλος pl.);
 * <i>sacerdos</i>, ‘priest’ (pl.): 
-1 Sam 28:6<sup><small>Vg</small></sup>.
-
-No rendering: Num 27:21<sup><small>Vg</small></sup> 
+1 Sam 28:6<sup><small>Vg</small></sup>;
+* No rendering: Num 27:21<sup><small>Vg</small></sup>. 
 
 <span dir="rtl">תֻּמִּים</span> 
 
@@ -467,13 +465,19 @@ from √<span dir="rtl">אור</span>, ‘to be(come) light’,
 and √<span dir="rtl">תמם</span>, ‘to be 
 complete’, respectively (cf. <a href="#RCM">Root and Comparative Material</a>). 
 For <span dir="rtl">אוּרִים</span>, see LXX φωτίζω,
-α´ σ´θ´ φωτισμός, 
-Pesh ܢܗܝܪܐ, ܢܘܗܪܐ, ܢܘܪܐ, 
+α´σ´θ´ φωτισμός, 
+Pesh 
+<span dir="rtl">ܢܗܝܪܐ</span>,
+<span dir="rtl">ܢܘܗܪܐ</span>,
+<span dir="rtl">ܢܘܪܐ</span>,
 Tg<sup><small>Smr</small></sup> <span dir="rtl">נהריה</span> /<span dir="rtl">נאיריה</span> /<span dir="rtl">נעיריה</span>, <span dir="rtl">נוריא</span>.
 For <span dir="rtl">תֻּמִּים</span>,
 see LXX τέλειος,
 α´σ´θ´ τελειότης, τελείωσις,
-Pesh ܫܠܡܐ, ܫܘܡܠܝܐ, ܫܠܡܘܬܐ,
+Pesh 
+<span dir="rtl">ܫܠܡܐ</span>,
+<span dir="rtl">ܫܘܡܠܝܐ</span>,
+<span dir="rtl">ܫܠܡܘܬܐ</span>,
 Tg<sup><small>Smr</small></sup> <span dir="rtl">שלמיה</span>, Vg <i>perfectio</i>, <i>perfectus</i>. 
 
 <b>A.4</b>
@@ -488,7 +492,7 @@ Bible into account.
 In Ezra 2:63 and Neh 7:65, the <span dir="rtl">אוּרִים</span> and <span dir="rtl">תֻּמִּים</span> 
 are often translated in such a way that the reference to the priestly oracle is replaced by a description of the priest’s qualities:
 LXX Neh 7:65: ὁ ἱερεὺς φωτίσων, ‘the priest who will enlighten’;
-Pesh  Neh 7:65: ܟܗܢܐ ܪܒܐ ܘܢܫܐܠ ܘܢܚܙܐ, ‘a high priest who can ask and can see’;
+Pesh Ezra 2:63; Neh 7:65: ܟܗܢܐ ܪܒܐ ܘܢܫܐܠ ܘܢܚܙܐ, ‘a high priest who can ask and can see’;
 Vg Neh 7:65: <i>sacerdos doctus et eruditus</i>, ‘a learned and well-instructed priest’;
 Vg Ezra 2:63: <i>sacerdos doctus atque perfectus</i>, ‘a learned and perfect priest’.
 
@@ -496,6 +500,7 @@ Vg Ezra 2:63: <i>sacerdos doctus atque perfectus</i>, ‘a learned and perfect p
 ##<span id="LSF">5. Lexical/Semantic Fields</span>
 
 
+<b>A.1</b>
 The Urim and the Thummim belong to the semantic field 
 of ‘divination’. The noun <span dir="rtl" lang="he">גּוֹרָל</span>, ‘lot’, belongs to the same semantic field; cf. also <span dir="rtl" lang="he">פּוּר</span> (Esth 3:7; 9:24). Lots were also kept in a container before they were cast (Dommershausen 1977:450). Unlike the <span dir="rtl" lang="he">גּוֹרָל</span>, however, the Urim and Thummim relate to the inquiring of God with regard to decisions that must be made. Ada Taggar-Cohen (2002:102) rightly observes:
 
@@ -525,7 +530,7 @@ strengthened by the use of the article: <span dir="rtl">הָאוּרִים</span
 <span dir="rtl">אֵפֹד</span>, ‘ephod’, etc.).
 The instruction to make the Urim and Thummim in SP is clearly secondary (<a href="#IntroA1">Introduction A.1</a>).
 Since the breastpiece had to be attached over the <span dir="rtl">אֵפֹד</span>, ‘ephod’,
-the Urim and Thummim would be on the heart of Aaron (<span dir="rtl">עַל לֵב אַהֲרֹן</span>, 28:30).
+the Urim and Thummim would be on the heart of Aaron (<span dir="rtl">עַל־לֵב אַהֲרֹן</span>, 28:30).
 The end of 28:30 indicates a strong relationship between the Urim and Thummim and <span dir="rtl">מִשְׁפָּט</span>, ‘decision’, ‘judgment’:
 The presence of the Urim and Thummim on Aaron’s heart 
 when he will come before YHWH (<span dir="rtl">לִפְנֵי יְהוָה</span>) 
@@ -627,8 +632,8 @@ In addition to 1&nbsp;Sam 28:6 (see A.5), the expression occurs in
 Judg 1:1; 18:5; 20:18, 23, 27; 1&nbsp;Sam 10:22; 
 14:37; 22:10, 13, 15; 23:2, 4; 
 30:8; 2&nbsp;Sam 2:1; 5:19, 23; 1&nbsp;Chron 14:10, 14. 
-One of the passages —1&nbsp;Sam 30:7-8—
-refers to the use of an <span dir="rtl">אֵפֹד</span>, ‘ephod’, brought by the priest Abiathar, 
+One of the 
+passages—1&nbsp;Sam 30:7-8—refers to the use of an <span dir="rtl">אֵפֹד</span>, ‘ephod’, brought by the priest Abiathar, 
 in the divination procedure. This may be significant in view of the notion that Aaron’s breastpiece (<span dir="rtl">חֹשֶׁן</span>) with the Urim and the Thummim 
 was attached to his <span dir="rtl">אֵפֹד</span>, ‘ephod’ (Exod 28:15-30; see A.1). 
 It is indeed possible that the reference to the ephod in 1 Sam 30:7-8 implies a role for the Urim and the Thummim, 
@@ -733,8 +738,9 @@ and that the Babylonian god Bel/Marduk will reveal his <i>dīnu</i>, ‘decision
 Exod 28:15, 29, 30;
 Num 27:21; 
 Prov 16:33). 
-Furthermore, this section stipulates that seven deities —apparently either their symbols or their names— 
-must be drawn on the ground: Sin, Šamaš, Adad, Marduk, Urašgubba, Dagan and Nabium/Nabu (lines 16-18).
+Furthermore, this section stipulates that seven 
+deities—apparently either their symbols or their 
+names—must be drawn on the ground: Sin, Šamaš, Adad, Marduk, Urašgubba, Dagan and Nabium/Nabu (lines 16-18).
 Thereafter, the speaker indicates that he has finished the drawing and that he lifts up one or more stones 
 (line 19: <i>anašši</i> 
 <small>N</small>[<small>A</small><sub>4</sub>.<small>MEŠ</small>]). 
@@ -766,8 +772,8 @@ may jump up in the case of an unfavourable decision (obv. 20-27).
 The Greek text of 1 Sam 14:41 demands δῆλοι, ‘clear ones’, in 
 the case of one of the two alternatives, and ὁσιότης, ‘holiness’, in the case of the other (see <a href="#1S14v41lxx">Introduction A.2</a>). 
 Horowitz and Hurowitz connected the presumably alabaster ‘stone-of-desire’ with the Urim and the presumably hematite ‘stone-of-no-desire’ with the Thummim,
-arguing that alabaster —just like the Urim— expressed the notion of ‘shining’, while they suggested that hematite was
-associated with ‘truth’ —just like the Thummim
+arguing that alabaster—just like the Urim—expressed the notion of ‘shining’, while they suggested that hematite was
+associated with ‘truth’—just like the Thummim
 (1992:111-13). They made the following concluding observation (1992:114):
 
 <div style="padding-left: 44px; padding-right: 22px; text-indent: 0px;">
@@ -801,13 +807,11 @@ Both <i>LKA</i>
 137 and the biblical Urim and Thummim texts refer to divination rituals in which small objects played a decisive role.
 
 <b>A.2</b> 
-A Late Babylonian <i>tamītu</i> text from Nippur (CBS 12578) describes divination through the use of two balls of wool. The Babylonian <i>tamītu</i> texts concern oracular consultation of the sun god Šamaš and the storm god Adad, who are addressed as <sup><small>d</small></sup><i>šamaš bēl dīnim</i>, ‘Šamaš, lord of <i>dīnu</i>’, and <sup><small>d</small></sup><i>adad bēl bīri</i>, ‘Adad, lord of <i>bīru</i>’ (Lambert 2007). As in <i>LKA</i> 137 (above A.1), <i>dīnu</i> here designates the divine decision transmitted by the oracle, while <i>bīru</i>, ‘inspection’, denotes extispicy, the inspection of the entrails of an animal (Lambert 2007:5). In CBS 12578 Šamaš and Adad are asked to reveal whether a sick person will recover. The following passage discloses part of the procedure 
+A Late Babylonian <i>tamītu</i> text from Nippur (CBS 12578) describes divination through the use of two balls of wool. The Babylonian <i>tamītu</i> texts concern oracular consultation of the sun god Šamaš and the storm god Adad, who are addressed as <sup><small>d</small></sup><i>šamaš bēl dīnim</i>, ‘Šamaš, lord of <i>dīnu</i>’, and <sup><small>d</small></sup><i>adad bēl bīri</i>, ‘Adad, lord of <i>bīru</i>’ (Lambert 2007:100–01). As in <i>LKA</i> 137 (above A.1), <i>dīnu</i> here designates the divine decision transmitted by the oracle, while <i>bīru</i>, ‘inspection’, denotes extispicy, the inspection of the entrails of an animal (Lambert 2007:5). In CBS 12578 Šamaš and Adad are asked to reveal whether a sick person will recover. The following passage discloses part of the procedure 
 (lines 9-12): 
 
 > The ball of white wool (<i>piqqanni šīpāti peṣâti</i>) 
 in front of the ball of red wool (<i>piqqanni nabāsi</i>) from salt water which I have placed before your great divinity, [may they] be noted so that I may witness your reliable decision.[^63]
-
-
 
 According to Lambert (2007:19-20), the colour symbolism is comparable to that of <i>LKA</i> 
 137 (above A.1), with 
@@ -869,6 +873,7 @@ took more time and were usually more expensive (see already Orlamünde 2001:311)
 
 ###<span id="Archaeol">6.4 Archaeology</span>
 
+
 <b>A.1</b>
 Excavations in the southern Levant (Megiddo, Tell eṣ-Ṣafi/Gath, Tel Abel Beth Maacah, etc.)
 have uncovered some large hoards of astragali, worked bones of mainly sheep and goats, which date from Late Bronze Age or Iron Age contexts.
@@ -876,6 +881,12 @@ Most of the astragali show traces of artificial abrasion, which has made them mo
 Many of them have drill holes, some of which have been filled with metal to make them heavier.
 Most of the hoards have been found in cultic contexts, sometimes in an open or closed vessel.
 The conclusion was drawn that such astragali were cast or drawn in the context of divination rituals (Susnow et al. 2021).
+
+
+&nbsp;&nbsp;
+![Worked astragali](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/UenT-Astralgi.jpg)&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Worked astragali[^astragali]
 
 <b>A.2</b>
 For the possibility that that cup-marked stones and rocks excavated in the Hittite capital Hattuša functioned 
@@ -930,9 +941,9 @@ cf. <a href="#Exe-ANET">Ancient Near Eastern Parallels A.1</a>.
 ##<span id="Con">7. Conclusions</span>
 
 <b>A.1</b> The etymology of the words <span dir="rtl">אוּרִים</span>, ‘Urim’, and 
-<span dir="rtl">תֻּמִּים</span>, ‘Thummim’, is uncertain. 
+<span dir="rtl">תֻּמִּים</span>, ‘Thummim’, is uncertain. The traditional derivation from √אור, ‘to be(come) light’, and from √תמם, ‘to be(come) complete’, respectively, is one of the options. 
 Although the Hebrew Bible includes several references to the Urim and Thummim, 
-their physical nature —including their number, shape and colours— also remains unknown. 
+their physical nature—including their number, shape and colours—also remains unknown. 
 The manner in which they were operated can neither be retrieved with any precision. 
 
 <b>A.2</b> The Urim and Thummim must have been two or more small objects that played a crucial role in a legitimate oracular procedure that
@@ -972,7 +983,7 @@ A Microhistorical Study of the Neo-Assyrian Healer Kiṣir-Aššur</i>
 Beal 1999 <br>
 Richard H. Beal,
 ‘Seeking Divine Approval for Campaign Strategy: KUB 5.1 + KUB 52.65’, 
-<i>Ktema: Civilisations de l’Orient, de la Gréce et de Rome antiques</i> 24:41–54.
+<i>Ktema: Civilisations de l’Orient, de la Grèce et de Rome antiques</i> 24:41–54.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1126,7 +1137,7 @@ Edward Robertson,
 <div style="padding-left: 22px; text-indent: -22px;">
 Schuller and Newsom 2012 <br>
 Eileen M. Schuller and Carol A. Newsom,
-<i>The Hodayot (Thanksgiving Psalms): A Study Edition of 1 QH<sup><small>&nbsp;a</small></sup></i>, 
+<i>The Hodayot (Thanksgiving Psalms): A Study Edition of 1QH<sup><small>&nbsp;a</small></sup></i>, 
 Atlanta: SBL Press.
 </div>
 
@@ -1151,7 +1162,7 @@ Berlin: de Gruyter,
 <div style="padding-left: 22px; text-indent: -22px;">
 Sukenik 1950 <br>
 Eliezer Lipa Sukenik, 
-<span dir="rtl">מגילות גנוזות</span>, vol. II,
+<span dir="rtl">מגילות גנוזות</span>, 2 vols.,
 Jerusalem: Bialik.
 </div>
 
@@ -1175,7 +1186,7 @@ Ada Taggar-Cohen, ‘The Casting of Lots among the Hittites in Light of Ancient 
 <div style="padding-left: 22px; text-indent: -22px;">
 Toeg 1969 <br>
 Arie Toeg, 
-‘A Textual Note in 1 Samuel xiv 41’, 
+‘A Textual Note on 1 Samuel xiv 41’, 
 <i>VT</i> 19:493–98.
 </div>
 
@@ -1224,6 +1235,10 @@ Berlin: Reimer.
 </div>
 
 ## Notes 
+
+<small>Many thanks are due to Johannes C. de Moor(†) for his valuable suggestions. 
+</small>
+
 [^1]: Cf. <i>DCH</i> viii:644 (<i>sub</i> d); <i>HALOT</i>, 1750 (<i>sub</i> D).
 [^2]: Barthélemy, <i>CTAT</i> 1:186-87; cf. Toeg 1969:493-94.
 [^3]: Toeg 1969; Noort 1971; Tov, <i>TCHB</i><sup><small>3</small></sup>, 224; Dietrich 2015:61, 65-66, 99-100; Hendel 2016:264.
@@ -1231,13 +1246,14 @@ Berlin: Reimer.
 [^5]: Cf. <i>HALOT</i>, 1750 (<i>sub</i> D).
 [^6]: Sukenik 1955, Plates 38 and 52 (iv:6, 23; xviii:29).
 [^7]: Sukenik 1950:43: ‘<span dir="rtl">לדעתי הוא יחיד של אורים ותומים</span>’.
-[^8]: <i>DCH</i> i:164 s.v. <span dir="rtl">אוֹר</span>; <i>DCH</i> viii:644; <i>DCHR</i> i:215 s.v. <span dir="rtl">אוּרִים</span> and \*<span dir="rtl">אֹורְתֹּום</span>. The form <span dir="rtl">אורתום</span> is also attested in 4Q403 (4QShirShabb<sup><small>d</small></sup>) fr1.ii:1. In DJD XI, this occurrence is translated as ‘perfect light’ (279, 281, with discussion at 283).
+[^8]: <i>DCH</i> i:164 s.v. <span dir="rtl">אוֹר</span>; <i>DCH</i> viii:644 s.v. <span dir="rtl">תֻּמִּים</span>; <i>DCHR</i> i:215 s.v. <span dir="rtl">אוּרִים</span> and \*<span dir="rtl">אֹורְתֹּום</span>. The form <span dir="rtl">אורתום</span> is also attested in 4Q403 (4QShirShabb<sup><small>d</small></sup>) fr1.ii:1. In DJD XI, this occurrence is translated as ‘perfect light’ (279, 281, with discussion at 283).
 [^9]: DJD XL, 157-58, 160-61, 261; Schuller and Newsom 2012:38-41, 64-65. See also <i>DCHR</i> i:215 s.v. \*<span dir="rtl">אֹורָתַיִם</span> (n.f.du.): ‘<b>early light, dawn</b>, the time between the first light of day and the time of sunrise’; cf. <i>DCH</i> i:164 s.v. <span dir="rtl">אוֹרָה</span>. The recent reconstructions of 1QHod<sup><small>a</small></sup> differ considerably from Sukenik’s edition. The lines with the three occurrences of <span dir="rtl">אורתים</span> are now labelled as xii:7, 24; xxi:15. For an extensive survey of earlier interpretations, see DJD XL, 160-61.
 [^10]: See BDB, 1070 s.v. <span dir="rtl">תֹּם</span> 4. For Hos 4:5, cf. also <i>BHK</i><sup><small>3</small></sup>.
 [^11]: See <i>HWAT</i>, 855 s.v. <span dir="rtl">תֻּמִּים</span>.
 [^12]: See <i>DCH</i> ii:337 s.v. <span dir="rtl">גּוֹרָל</span>.
 [^13]: See <i>BHS</i>, <i>HALOT</i>, 1751 s.v. <span dir="rtl">תמך</span>, <i>DCH</i> viii:645 s.v. <span dir="rtl">תמך</span>.
-[^14]: <i>HWAT</i>, 18, treats <span dir="rtl">אוּרִים</span> as the plural of <span dir="rtl">אוּר</span>, ‘fire’. Ges<sup><small>18</small></sup>, 27, regards the interpretation as <span dir="rtl">אוֹר</span>, ‘light’ (sing, with ending <span dir="rtl">ם</span> —due to mimation), as likely.
+[^14]: <i>HWAT</i>, 18, treats <span dir="rtl">אוּרִים</span> as the plural of <span dir="rtl">אוּר</span>, ‘fire’. Ges<sup><small>18</small></sup>, 27, regards the interpretation as <span dir="rtl">אוֹר</span>, ‘light’ (sing, with ending 
+<span dir="rtl">ם</span>— due to mimation), as likely.
 [^15]: <i>DCHR</i> i:204, 206, s.v. <span dir="rtl">אור</span> I.
 [^16]: GB, 19; KBL, 23, 90 s.v. <span dir="rtl">ארר</span>; <i>HALOT</i>, 25; <i>DCH</i> i:165 s.v. <span dir="rtl">אוּרִים</span>, 398 s.v. <span dir="rtl">ארר</span>.
 [^17]: <i>DCH</i> viii:644 s.v. <span dir="rtl">תֻּמִּים</span>.
@@ -1284,9 +1300,10 @@ Berlin: Reimer.
 [^58]: Lewis & Short, <i>LD</i>, 1340; <i>OLD</i>, 1337.
 [^59]: Lewis & Short, <i>LD</i>, 1626; <i>OLD</i>, 1686.
 [^60]: Lewis & Short, <i>LD</i>, 1974; <i>OLD</i>, 2037.
-[^61]: E.g., Milgrom 1991:509-10; Van Dam 1997:182-90; Houtman 1990:230; 2000:496; also <i>HALOT</i>, 1372.
+[^61]: E.g., Milgrom 1991:509-10; Van Dam 1997:182-90; Houtman 1990:230; 2000:496; also <i>HALOT</i>, 1372 s.v. שׁאל.
 [^62]: Cf. Horowitz and Hurowitz 1992:102, 107; Finkel 1995:274; Lambert 2007:19. 
 [^63]: Lambert 2007:100-01. For the interpretation of <i>piq</i>(<i>q</i>)<i>annu</i> as ‘pellet’ or ‘small ball’ and the possibility that the salt water played a role in the dyeing process, see Lambert 2007:154.
 [^64]: Lambert 2007:19.
 [^65]: E.g., Orlamünde 2001; Marcuson 2016:100-75; Warbinek 2019b:137-39.
 [^66]: We quote from the translation of <i>KUB</i> 5.1 by Beal (1999:48). His translation of some other Hittite KIN texts was published in <i>COS</i> 1:207-11 (1.79).
+[^astragali]: Photo by Matthew Susnow, courtesy of the Tel Abel Beth Maacah Excavations.
