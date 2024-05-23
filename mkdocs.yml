@@ -11,7 +11,6 @@ nav:
                 - אוּרִים וְתֻמִּים - Urim Thummim: words/Urim_Thummim.md
             - ב:
                 - בֶּקַע - beka: words/beka.md
-                - בָּרָד - hail: words/hail.md
             - ג:
                 - גְּאוּלִים - redemption: words/redemption.md
                 - גאל - to redeem: words/to_redeem.md
@@ -27,8 +26,6 @@ nav:
                 - מַחֲרָשָׁה/מַחֲרֶשֶׁת - plough: words/plough.md
             - פ:
                 - פֶּלֶךְ - spindle: words/spindle.md
-            - ש:
-                - שֶׁלֶג - snow: words/snow.md
     - Semantic fields:
             - Agriculture: semantic_fields/agriculture.md
             - Craft: semantic_fields/craft.md
@@ -38,7 +35,6 @@ nav:
             - Light: semantic_fields/light.md
             - Textile Production: semantic_fields/textile production.md
             - Utensils: semantic_fields/utensils.md
-            - Weather: semantic_fields/weather.md
             - Weight: semantic_fields/weight.md
     - Contributors:
             - James K. Aitken: contributors/james_k._aitken.md
@@ -48,7 +44,6 @@ nav:
             - Alison Gray: contributors/alison_gray.md
             - Cornelis Houtman: contributors/cornelis_houtman.md
             - Paul Sanders: contributors/paul_sanders.md
-            - Chiara Stornaiuolo: contributors/chiara_stornaiuolo.md
             - Bertus van ’t Veld: contributors/bertus_van_’t_veld.md
             - Klaas R. Veenhof: contributors/klaas_r._veenhof.md
     - Miscellaneous:
