@@ -5,7 +5,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Cult](../semantic_fields/cult.md)&nbsp;&nbsp;&nbsp;[Divination](../semantic_fields/divination.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Kees den Hertog(†)](../contributors/kees_den_hertog(†).md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<br>
-First published: 2022-08-02<br>Last update: 2023-11-30 <br>Citation: Kees den Hertog(†),&nbsp;Paul Sanders, אוּרִים וְתֻמִּים – Urim and Thummim, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2022 (update: 2023)
+First published: 2022-08-02<br>Last update: 2024-05-30 <br>Citation: Kees den Hertog(†),&nbsp;Paul Sanders, אוּרִים וְתֻמִּים – Urim and Thummim, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2022 (update: 2024)
 
 
 ##<span id="I">Introduction</span>
@@ -302,8 +302,7 @@ Ezra 2:63/Neh 7:65.
 <span dir="rtl">אוּרִים</span> 
 
 * δῆλος, ‘obvious’ 
-(pl.):[^25] Num 27:21<sup><small>LXX</small></sup>; Deut 33:8<sup><small>LXX</small></sup> (order reversed); 1 Sam 28:6<sup><small>LXX,σʹ</small></sup>. Cf. Sir 33:3 ἐρώτημα δήλων, ‘inquiry of the clear ones’ (Hebrew lost). 
-Also in 1 Sam 14:41<sup><small>LXX</small></sup>, δῆλος (pl.) may represent <span dir="rtl">אוּרִים</span>; see <a href="#1S14v41lxx">Introduction A.2</a>; 
+(pl.):[^25] Num 27:21<sup><small>LXX</small></sup>; Deut 33:8<sup><small>LXX</small></sup> (order reversed); 1 Sam 28:6<sup><small>LXX,σʹ</small></sup>. Cf. Sir 33:3 ἐρώτημα δήλων, ‘inquiry of the clear ones’ (Hebrew lost); also in 1 Sam 14:41<sup><small>LXX</small></sup>, δῆλος (pl.) may represent <span dir="rtl">אוּרִים</span>; see <a href="#1S14v41lxx">Introduction A.2</a>; 
 * δήλωσις, ‘act of making clear, explaining’ 
 (sg.):[^26] Exod 28:30<sup><small>LXX</small></sup>; Lev 8:8<sup><small>LXX</small></sup>; also 1 Esd 5:40<sup><small>LXX</small></sup> (for <span dir="rtl">אוּרִים</span> Ezra 2:63/Neh 7:65); 
 * διδαχή, ‘teaching’ (sg.):[^27] Deut 33:8<sup><small>σʹ</small></sup>; 
@@ -323,7 +322,7 @@ Exod 28:30<sup><small>LXX</small></sup>; Lev 8:8<sup><small>LXX</small></sup>; D
 Exod 28:30<sup><small>αʹσʹθʹ</small></sup> (pl.); Deut 33:8<sup><small>σʹ</small></sup> (sg.);
 * τελείωσις, ‘act of executing and completing’ (pl.):[^34] 
 Lev 8:8<sup><small>αʹθʹ</small></sup>;
-* No rendering: Neh 7:65. 
+* no rendering: Neh 7:65. 
 
 
 <b>b. Peshitta (Pesh)</b> 
@@ -339,7 +338,8 @@ Exod 28:30;
 ‘light’ (sg.):[^37] Deut 33:8;
 * <span dir="rtl">ܢܘܪܐ</span> (<i>nūrā</i>),
 ‘fire’ (sg.):[^38] 1 Sam 28:6;
-* <span dir="rtl">ܫܐܠܬܐ</span> (<i>šèlèṯā</i>), ‘request’, ‘inquiry’ (sg.):[^39] Num 27:21. 
+* <span dir="rtl">ܫܐܠܬܐ</span> (<i>šèlèṯā</i>), ‘request’, ‘inquiry’ (sg.):[^39] Num 27:21;
+* paraphrastic in Ezra 2:63; Neh 7:65: <span dir="rtl">ܟܗܢܐ ܪܒܐ ܘܢܫܐܠ ܘܢܚܙܐ</span>, ‘a high priest who can ask and can see’. 
 
 
 <span dir="rtl">תֻּמִּים</span> 
@@ -350,7 +350,7 @@ Deut 33:8;
 * <span dir="rtl">ܫܠܡܐ</span> (<i>šalmā</i>), ‘entire’, ‘perfect’,	etc. (sg.):[^42] 
 Exod 28:30; 
 * <span dir="rtl">ܫܠܡܘܬܐ</span> (<i>šalmūṯā</i>), ‘perfection’ (sg.):[^43] 1 Sam 14:41 (cf. LXX);
-* Paraphrastic in Ezra 2:63; Neh 7:65: <span dir="rtl">ܟܗܢܐ ܪܒܐ ܘܢܫܐܠ ܘܢܚܙܐ</span>, ‘a high priest who can ask and can see’.
+* paraphrastic in Ezra 2:63; Neh 7:65; see under <span dir="rtl">אוּרִים</span>. 
 
 
 <b>c. Targumim (Tg: O/PsJ/N/Smr/J) </b>
@@ -411,7 +411,7 @@ The word <i>ostensio</i>
 in 1 Sam 14:41<sup><small>VL,Vg-mss</small></sup> may also represent <span dir="rtl">אוּרִים</span>; see LXX (δῆλος pl.);
 * <i>sacerdos</i>, ‘priest’ (pl.): 
 1 Sam 28:6<sup><small>Vg</small></sup>;
-* No rendering: Num 27:21<sup><small>Vg</small></sup>. 
+* no rendering: Num 27:21<sup><small>Vg</small></sup>. 
 
 <span dir="rtl">תֻּמִּים</span> 
 
@@ -881,9 +881,7 @@ The conclusion was drawn that such astragali were cast or drawn in the context o
 
 
 &nbsp;&nbsp;
-![Worked astragali](/sahd/images/photos/UenT-Astralgi.jpg)&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Worked astragali[^astragali]
+![Worked astragali](/sahd/images/photos/UenT-Astralgi.jpg)&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Worked astragali[^astragali]
 
 <b>A.2</b>
 For the possibility that that cup-marked stones and rocks excavated in the Hittite capital Hattuša functioned 
