@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://pthu.github.io/sahd/contributors/Kurtis%20Peters/</loc>
+         <lastmod>2024-06-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://pthu.github.io/sahd/contributors/alison_gray/</loc>
          <lastmod>2024-06-17</lastmod>
          <changefreq>daily</changefreq>
@@ -77,6 +82,11 @@
     </url>
     <url>
          <loc>https://pthu.github.io/sahd/semantic_fields/divination/</loc>
+         <lastmod>2024-06-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pthu.github.io/sahd/semantic_fields/food%20preparation/</loc>
          <lastmod>2024-06-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -161,11 +171,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pthu.github.io/sahd/words/redemption/</loc>
-         <lastmod>2024-06-17</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://pthu.github.io/sahd/words/safety/</loc>
          <lastmod>2024-06-17</lastmod>
          <changefreq>daily</changefreq>
@@ -177,6 +182,11 @@
     </url>
     <url>
          <loc>https://pthu.github.io/sahd/words/to_redeem/</loc>
+         <lastmod>2024-06-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pthu.github.io/sahd/words/to_roast/</loc>
          <lastmod>2024-06-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
