@@ -699,7 +699,9 @@ Abegg, Bowley, and Cook 2003
 <br>
 Martin G. Abegg, James Bowley, and Edward Cook <i>The Dead Sea Scrolls
 Concordance</i>, vol. 1, Leiden: Brill.
-`
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
 Blau 1956
 <br>
 Joshua Blau, ‘Über homonyme und angeblich homonyme Wurzeln’, <i>VT</i> 6:242-48.
@@ -785,8 +787,7 @@ Johann J. Stamm, <i>Erlösen und Vergeben im Alten Testament</i>, Bern: Francke.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Stamm 1971
-<br>
+Stamm 1971<br>
 Johann J. Stamm, ‘גאל – erlösen’, <i>THAT</i> 1:385-96.
 </div>
 
