@@ -12,7 +12,6 @@ nav:
             - ב:
                 - בֶּקַע - beka: words/beka.md
             - ג:
-                - גְּאוּלִים - redemption: words/redemption.md
                 - גאל - to redeem: words/to_redeem.md
                 - גְּאֻלָּה - redemption, right of: words/redemption,_right_of.md
             - ט:
@@ -27,17 +26,21 @@ nav:
                 - מַחֲרָשָׁה/מַחֲרֶשֶׁת - plough: words/plough.md
             - פ:
                 - פֶּלֶךְ - spindle: words/spindle.md
+            - צ:
+                - צלה - to roast: words/to_roast.md
     - Semantic fields:
             - Agriculture: semantic_fields/agriculture.md
             - Craft: semantic_fields/craft.md
             - Cult: semantic_fields/cult.md
             - Deliverance: semantic_fields/deliverance.md
             - Divination: semantic_fields/divination.md
+            - Food Preparation: semantic_fields/food preparation.md
             - Light: semantic_fields/light.md
             - Textile Production: semantic_fields/textile production.md
             - Utensils: semantic_fields/utensils.md
             - Weight: semantic_fields/weight.md
     - Contributors:
+            - Kurtis Peters: contributors/Kurtis Peters.md
             - James K. Aitken: contributors/james_k._aitken.md
             - Graham I. Davies: contributors/graham_i._davies.md
             - Raymond de Hoop: contributors/raymond_de_hoop.md
