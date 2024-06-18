@@ -19,7 +19,7 @@ Occurrences: 3x HB (0/3/0); 0x Sir; 0x Qum.; 0x inscr. (Total: 3)
 * Nebiim: 1 Sam 2:15; Isa 44:16, 19.
 * Text Doubtful: –
 
-<b>Qere/Ketiv</b>: None.
+Qere/Ketiv: None.
 
 ## 1. Root and Comparative Material
 
@@ -40,7 +40,7 @@ with burning incense or sweet-smelling items (<i>CAD</i> Ṣ, 124: <i>ṣelû</i
 
 <b>A.1</b> The lexeme is a <span dir="rtl">ל״ה</span> (<span dir="rtl">ל״י</span>) verb.
 
-<b>A.2</b> Each occurrence is in the <i>qal</i> <i>binyan</i>, two of which are prefixed forms, with the third being an infinitive construct.
+<b>A.2</b> Each occurrence is in the <i>qal</i>, two of which are prefixed forms, with the third being an infinitive construct.
 
 <b>A.3</b> There is, as mentioned above, a corresponding adjectival form  <span dir="rtl">צָלִי</span> that occurs three times in the biblical text.
 
@@ -79,7 +79,7 @@ different cooking verb. For example, ὀπτάω in the LXX also stands in where
 in 2 Chron 35:13, but retains  <span dir="rtl">בשׁל</span> in Deut 16:7. In Pesh, unlike Tg or LXX, the root <span dir="rtl">ܒܫܠ</span> (<i>bšl</i>) is used both in 2 Chronicles and Deuteronomy.
 
 
-<b>A.2</b> The case of Vg is slightly different than that of the other versions. Unlike these other versions, the Vulgate uses a generic cooking verb, <i>coquo</i>, where the Hebrew has <span dir="rtl">צלה</span>. Therefore, it is not surprising to find that this Latin verb is used in many other places translating a range of other cooking verbs.   
+<b>A.2</b> The case of Vg is slightly different than that of the other versions. Unlike these other versions, the Vulgate uses a generic cooking verb, <i>coquo</i>, where the Hebrew has <span dir="rtl">צלה</span>. Therefore, it is not surprising to find that this Latin verb is used in many other places translating a range of other cooking verbs. 
 However, what is intriguing is that <i>coquo</i> is used for <span dir="rtl">בשׁל</span> in Deut 16:7, but a more specific roasting verb, <i>asso</i>, is used for <span dir="rtl">בשׁל</span> in 2 Chron 35:13. This change to <i>asso</i> in Chronicles agrees with the Tgs and LXX, though differs from Pesh. It is also odd that Vg avoids using <i>asso</i> to translate the clear roasting verb <span dir="rtl">צלה</span>, but chooses the generic <i>coquo</i> instead – a move that none of the other versions make.
 
 <span id="LSF">
@@ -144,7 +144,7 @@ Immanuel Benzinger, <i>Die Bücher der Chronik</i> (KHC, 20) Tübingen: Mohr.
 <div style="padding-left: 22px; text-indent: -22px;">
 Ben Zvi 2006<br>
 Ehud Ben Zvi, ‘Revisiting “Boiling in Fire” in 2 Chronicles 35:13 and Related Passover Questions: Text, Exegetical Needs and Concerns, and General Implication’, in <i>Biblical Interpretation in Judaism and Christianity</i>, ed. by Isaac Kalimi and Peter J. Haas
-(LHB/OTS, 439) New York: T&T Clark, 238–50.
+(LHB/OTS, 439), New York: T&T Clark, 238–50.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -202,7 +202,7 @@ Jacob Martin Myers, <i>II Chronicles</i> (AB, 13), Garden City, NY: Doubleday.
 <div style="padding-left: 22px; text-indent: -22px;">
 Peters 2016<br>
 Kurtis Peters, <i>Hebrew Lexical Semantics and Daily Life in Ancient Israel: What’s Cooking in Biblical Hebrew?</i>
-(Biblical Interpretation Series, 146), Leiden: Brill.
+(BibInt.S, 146), Leiden: Brill.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -255,5 +255,5 @@ Hugh G. M. Williamson, <i>1 and 2 Chronicles</i> (NCBC), Grand Rapids: Eerdmans;
 
 [^1]: Sokoloff, <i>DJPA</i>, 465: #2 <span dir="rtl">צלי</span>; Sokoloff, <i>DJBA</i>, 965: #3  <span dir="rtl">צלי</span>.  
 [^5]: For more on the Passover texts, see <a href="#ExA1">Exegesis</a>. ὀπτάω also translates  <span dir="rtl">שׂרף</span> for baking bricks in Genesis 11:3. 
-[^8]: For a representative set of examples, see Rashi <i>ad</i> Deut 16:7 and 2 Chron 35:13. Shachter 2003:75; Driver 1902:193–94; McConville 1984:117–18; Dillard 1987:285; Shaver 1989:116; Labuschagne 1990:98–99; Tigay 1996:155. 
+[^8]: For a representative set of examples, see Rashi <i>ad</i> Deut 16:7 and 2 Chron 35:13; Shachter 2003:75; Driver 1902:193–94; McConville 1984:117–18; Dillard 1987:285; Shaver 1989:116; Labuschagne 1990:98–99; Tigay 1996:155. 
 [^9]: For those who represent this view, see, e.g., Benzinger 1901:132; Galling 1954:179–80; Van den Born 1960:232–33; Myers 1965:211; Williamson 1982:407; Fishbane 1985:135–36; Becker 1988:121; Sarna 1991:245; Japhet 1993:1052–53; Tuell 2001:240; McKenzie 2004:364; Ben Zvi 2006:240–41; Clements 1972:72; Phillips 1973:113. Both Clements and Phillips suggest a contradiction between Exodus and Deuteronomy. Roubos (1972:297) notes that there is a contradiction between Exodus and Deuteronomy, though he also argues that the verb <span dir="rtl">בשׁל</span> is flexible enough to cover both ‘bake’ and ‘boil’. 
