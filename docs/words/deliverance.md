@@ -26,7 +26,7 @@ Qere/Ketiv: none.
 
 ## 1. Root And Comparative Material
 
-<b>A.1</b> See: <a href="https://pthu.github.io/sahd/words/to_save%2C_help/#1-root-and-comparative-material"><span dir="rtl">ישׁע</span>: 1. Root and Comparative Material</a>.
+<b>A.1</b> See: <a href="https://pthu.github.io/sahd/words/to_save%2C_help/#1-root-and-comparative-material"><span dir="rtl">ישׁע</span>: Root and Comparative Material</a>.
 
 
 ## 2. Formal Characteristics
@@ -39,7 +39,7 @@ Qere/Ketiv: none.
 
 <b>A.1</b> The pl. is found preceded by <span dir="rtl">לְ</span> and in predicative position to <span dir="rtl">אֵל</span>, ‘God’ (Ps 68:21). The <i>lamed</i> expresses a relational sense of God to <span dir="rtl">מוֹשָׁעוֹת</span>, perhaps a <i>lamed</i> of specification (see Waltke and O’Connor, <i>IBHS</i>,
 § 11.2.10 d). Alternatively, the <i>lamed</i> might indicate the possessive, and the expression  <span dir="rtl">אֵל לְמוֹשָׁעוֹת</span> would be comparable to the construct
-chain frequent in the Psalms of  <span dir="rtl">אֱלֹהֵי יֵשַׁע</span> (e.g. Pss 18:47; 24:5).
+chain frequent in the Psalms of  <span dir="rtl">אֱלֹהֵי יֵשַׁע</span> (e.g., Pss 18:47; 24:5).
 
 <b>B.1</b> Gunkel (1933:290) sees the  <span dir="rtl">לְ</span> as a dittography after <span dir="rtl">אֵל</span>.
 
@@ -47,32 +47,29 @@ chain frequent in the Psalms of  <span dir="rtl">אֱלֹהֵי יֵשַׁע</sp
 
 <b>a. Septuagint (LXX)</b>: 
 
-* σώζω as articular infinitive: Ps 67:21 (68:21<small><sup>MT</sup></small>).
-
-Minor Greek Versions [MRN]:
+* σώζω, ‘to save’, as articular infinitive: Ps 67:21 (68:21<small><sup>MT</sup></small>).
 
 <b>b. Peshitta (Pesh)</b>: 
 
-* <i>mpṣynʾ</i>: Ps 68:21.
+* no rendering: Ps 68:21.
 
 <b>c. Targum (Tg: K)</b>: 
 
-* <span dir="rtl">תקוף ופורקן</span>: Ps 68:21.
+* <span dir="rtl">פורקן</span>, ‘redemption, salvation’: Ps 68:21.
 
 <b>d. Vulgate (Vg)</b>: 
 
-* <i>salus</i>: Ps 67:21 (68:21<small><sup>MT</sup></small>).
+* <i>salus</i>, ‘a being safe and sound, welfare’: Ps 67:21 (68:21<small><sup>MT</sup></small>).
 
-<b>A.1</b> The LXX, Pesh and Vg clearly understand the root meaning as ‘to save’. Although in the Tg the verse is greatly expanded, the phrase 
-<span dir="rtl">תקוף ופורקן</span>, ‘protection and deliverance’ renders a similar sense, the double
-translation perhaps aiming to cover the full range of the semantics of the lexeme.
+<b>A.1</b> The LXX and Vg clearly understand the root meaning as ‘to save’. Although in the Tg the translation is free, the rendering 
+<span dir="rtl">פורקן</span>, ‘redemption, salvation’, renders a similar sense.
 
 
 ## 5. Lexical/Semantic Fields
 
-<b>A.1</b> See: <a href="https://pthu.github.io/sahd/words/to_save%2C_help/#5-lexicalsemantic-fields"><span dir="rtl">ישׁע</span>: 5. Lexical/Semantic Fields’</a>.
+<b>A.1</b> See: <a href="https://pthu.github.io/sahd/words/to_save%2C_help/#5-lexicalsemantic-fields"><span dir="rtl">ישׁע</span>: Lexical/Semantic Fields’</a>.
 
-<b>A.2</b> The noun <span dir="rtl">מוֹשָעָה</span> is a hapax legomenon, found at Ps 68:21. <span dir="rtl">מוֹשָעָה</span> seems to be in parallelism with both <span dir="rtl">יְשׁוּעָה</span> ‘salvation’ in the previous verse and <span dir="rtl">לַמָּוֶת תּוֹצָאוֹת</span> ‘escapes from death’ later in the same verse.
+<b>A.2</b> The noun <span dir="rtl">מוֹשָעָה</span> is a hapax legomenon, found at Ps 68:21. <span dir="rtl">מוֹשָעָה</span> seems to be in parallelism with both <span dir="rtl">יְשׁוּעָה</span>, ‘salvation’, in the previous verse and <span dir="rtl">לַמָּוֶת תּוֹצָאוֹת</span>, ‘escapes from death’, later in the same verse.
 
 
 ## 6. Exegesis
@@ -80,7 +77,7 @@ translation perhaps aiming to cover the full range of the semantics of the lexem
 <b>A.1</b><span dir="rtl">מוֹשָעָה</span> appears in a Psalm that describes in broad terms God’s
 saving acts, including the deliverance from Egypt, defeat of the
 enemies, conquest of the land and protection from evil. The obvious
-connection of [ <span dir="rtl">מוֹשָעָה</span>] with the verb  <span dir="rtl">ישׁע</span>, its parallelism with
+connection of <span dir="rtl">מוֹשָעָה</span> with the verb  <span dir="rtl">ישׁע</span>, its parallelism with
  <span dir="rtl">יְשׁוּעָה</span> and the context indicate that it is a noun denoting
 ‘deliverance’.
 
