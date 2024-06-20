@@ -43,13 +43,15 @@ of ‘protest’ (cf. Driver and Gray 1921:10). The reading <span dir="rtl">תּ
 <span id="DFL">
 ### Distribution by Functional Languages</span>
 
+Biblical Hebrew:[^2] 
+
 * EBH2 1 (Jer 23:13)
 * LBH1 1 (Job 1:22)
 * LBH3 1 (Job 24:12)
 * Total EBH 1
 * Total LBH 2
 
-* Overall total: 3[^2]
+* Overall total: 3
 
 ## 1. Root and Comparative Material
 

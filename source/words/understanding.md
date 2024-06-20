@@ -81,7 +81,7 @@ In Job 32:11 the orthographic omission of the <span dir="rtl">ו</span> for the 
 ### Distribution by Functional Languages 
 
 
-a) Biblical Hebrew
+a) Biblical Hebrew:[^3]
 
 * ABH: 1x, Deut 32:28.
 * EBH1: 5x, Exod 31:3; 35:31; 36:1; 1 Kgs 5:9; 7:14.
@@ -91,7 +91,7 @@ a) Biblical Hebrew
 * LBH2: 1x, Ps 147:5.
 * LBH3: 4x, Job 12:12, 13; 26:12; 32:11.
 * Total EBH: 36 (Jer 51:5 is a doublet)
-* Total LBH: 5[^3]
+* Total LBH: 5
 
 b) Ben Sira: 
 
