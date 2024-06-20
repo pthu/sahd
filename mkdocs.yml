@@ -31,6 +31,9 @@ nav:
                 - צלה - to roast: words/to_roast.md
             - ש:
                 - שוּעַ - cry for help: words/cry_for_help.md
+            - ת:
+                - תְּבוּנָה - understanding: words/understanding.md
+                - תִּפְלָה - senselessness: words/senselessness.md
     - Semantic fields:
             - Agriculture: semantic_fields/agriculture.md
             - Craft: semantic_fields/craft.md
@@ -38,6 +41,7 @@ nav:
             - Deliverance: semantic_fields/deliverance.md
             - Divination: semantic_fields/divination.md
             - Food Preparation: semantic_fields/food preparation.md
+            - Knowledge: semantic_fields/knowledge.md
             - Light: semantic_fields/light.md
             - Textile Production: semantic_fields/textile production.md
             - Utensils: semantic_fields/utensils.md
@@ -51,6 +55,7 @@ nav:
             - Alison Gray: contributors/alison_gray.md
             - Cornelis Houtman: contributors/cornelis_houtman.md
             - Paul Sanders: contributors/paul_sanders.md
+            - M. Patrizia Sciumbata: contributors/m._patrizia_sciumbata.md
             - Bertus van ’t Veld: contributors/bertus_van_’t_veld.md
             - Klaas R. Veenhof: contributors/klaas_r._veenhof.md
     - Miscellaneous:
