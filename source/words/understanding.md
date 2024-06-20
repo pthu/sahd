@@ -823,7 +823,7 @@ per la comprensione degli scenari intellettuali dell’antico Israele’, <i>Mat
 <div style="padding-left: 22px; text-indent: -22px;">
 Segal 1958  <br>
 Moshe Ts. Segal, 
-<i><span dir="rtl">ספר בן סירא השלם כולל כל השרידים העבריים שנתגלו מתוך הגניזה והחזרת הקטעים החסרים, עם מבוא, פירוש ומפתחות</span></i>, 2nd ed., Jerusalem: Mosad Bialik.
+<span dir="rtl">ספר בן סירא השלם כולל כל השרידים העבריים שנתגלו מתוך הגניזה והחזרת הקטעים החסרים, עם מבוא, פירוש ומפתחות</span>, 2nd ed., Jerusalem: Mosad Bialik.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">

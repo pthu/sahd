@@ -56,7 +56,7 @@ Biblical Hebrew:[^2]
 ## 1. Root and Comparative Material
 
 
-<b>A.1</b>  <span dir="rtl">תִּפְלָה</span> is connected with a root <span dir="rtl">תפל</span> I which is also represented in the HB by the adjective <span dir="rtl">תָּפֵל</span>, ‘tasteless, unseasoned’ (Job 6.6; Lam 2:14). <span dir="rtl">תפל</span> in Ezek 13:10, 11, 14, 15; 22:28 is considered by dictionaries and commentaries as a variant of <span dir="rtl">טפל</span>, ‘to smear, plaster’;[^3] Propp (1990) holds, on the other hand, that it should be connected with <span dir="rtl">תפל</span> I (there would then be a single root; see also Marböck 1995:728). Considering that <span dir="rtl">תפל</span> is also associated with false prophecy in Jer 23:13 and Lam 2:14, Propp concludes that ‘Ezekiel uses <span dir="rtl">תָּפֵל</span> in the
+<b>A.1</b>  <span dir="rtl">תִּפְלָה</span> is connected with a root <span dir="rtl">תפל</span> I which is also represented in the HB by the adjective <span dir="rtl">תָּפֵל</span>, ‘tasteless, unseasoned’ (Job 6.6; Lam 2:14). <span dir="rtl">תפל</span> in Ezek 13:10, 11, 14, 15; 22:28 is considered by dictionaries and commentaries as a variant of <span dir="rtl">טפל</span>, ‘to smear, plaster”’;[^3] Propp (1990) holds, on the other hand, that it should be connected with <span dir="rtl">תפל</span> I (there would then be a single root; see also Marböck 1995:728). Considering that <span dir="rtl">תפל</span> is also associated with false prophecy in Jer 23:13 and Lam 2:14, Propp concludes that ‘Ezekiel uses <span dir="rtl">תָּפֵל</span> in the
 sense “vanity, folly” and puns with <span dir="rtl">טפל</span> “to plaster’ (1990:408). ‘If the root <span dir="rtl">תפל</span> was commonly applied to false prophecy in the sixth century, or if Ezekiel was familiar with Jeremiah 23, he might have realized that the assonance of <span dir="rtl">תפל</span> and <span dir="rtl">טפל</span> could be exploited in paranomastic
 metaphor’ (Propp 1990:407). The cultural association between plaster and mortar on the one hand and hypocrisy on the other, attested by various biblical
 passages (see Ps 119:69; Job 13:4; 14:17) would have favoured the emergence of this rhetorical figure in Ezekiel.  
@@ -82,7 +82,7 @@ present in the Mishnah and seems to replace <span dir="rtl">תפלה</span> in M
 a good scent by the) neglect (of) perfume, 2) to be unperfumed, 3) to be ill-smelling, 4) to spit out (rejecting what is ill-savoured), 5) to spit (whence further meanings developed). 
 Other scholars (see Tur-Sinai 1967:20ff., Ben Yehuda XVI,7853, n.2)
 hold instead that the original meaning is the one attested by Arab. <i>tafala</i>, ‘spit’. Propp justifies this hypothesis with the onomatopoeic assonance:   
->‘PS [Proto-Semitic] *<i>tpl</i> thus exemplified the widespread tendency of words with this meaning to contain a <i>p</i> and a <i>t</i>,
+>PS [Proto-Semitic] *<i>tpl</i> thus exemplified the widespread tendency of words with this meaning to contain a <i>p</i> and a <i>t</i>,
 presumably in imitation of the act itself. English ‘spit’ and ‘ptooey’ (the sound of expectoration) are obvious examples; we also have Greek πτύω and Latin <i>spuo/sputo</i>. Aramaic has <span dir="rtl’>תְפַף/תְפֵי</span>, and
 Ethiopic uses <i>tafʾa</i>. In Biblical Hebrew we find the <i>hapax legomenon</i> <span dir="rtl">תֹּפֶת</span> ‘saliva’ (Job 17:6). 
 
@@ -272,11 +272,11 @@ Habel (1985:360), for whom nevertheless the meaning of <span dir="rtl">תִּפ�
   Other scholars do not consider the possibility of a semantic development of <span dir="rtl">תפל</span> on the mental and cognitive plane and allow only a metaphorical use on the moral level. Consider, e.g., 
 Propp (1990:405):
 
-> ‘these abstractions (insipidity, vanity, blame) derive from a more concrete meaning of the root *<i>tpl</i> in Protosemitic’; 
+> these abstractions (insipidity, vanity, blame) derive from a more concrete meaning of the root *<i>tpl</i> in Protosemitic; 
 
 or Driver (Driver and Gray 1921:11), who on Job 1:22 comments: 
-> ‘to ascribe <span dir="rtl">תפלה</span> to
-Yahweh should imply regarding him as having lost the moral savour or quality which had been characteristic of him (…) similarly in Jer., Yahweh sees in the prophets  <span dir="rtl">תפלה</span>, or moral deterioration’. 
+> to ascribe <span dir="rtl">תפלה</span> to
+Yahweh should imply regarding him as having lost the moral savour or quality which had been characteristic of him (…) similarly in Jer., Yahweh sees in the prophets  <span dir="rtl">תפלה</span>, or moral deterioration. 
 
 In regard to the Greek ἀφροσύνη in Jer 23:13 and Lam 2:14 it is for him a case of ‘a tolerable attempt to reproduce the transferred moral sense of the word’. Many of the translations offered by the commentaries and the dictionaries lie on this line of interpretation.[^7] 
 
