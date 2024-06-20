@@ -200,7 +200,7 @@ which indicates that the פֶּלֶךְ is grasped.
 
 <b>A.1</b> The noun פֶּלֶךְ is rendered as follows in the ancient translations.
 
-<b>a. Septuagint (LXX) and other Greek versions:</b>  
+<b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
 * ἄτρακτος, ‘spindle’:[^5] 
 2 Sam 3:29<sup><small>αʹσʹ</small></sup>;[^6] 

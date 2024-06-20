@@ -300,7 +300,7 @@ Ezra 2:63/Neh 7:65.
 
 <b>A.1</b> The nouns <span dir="rtl">אוּרִים</span> and <span dir="rtl">תֻּמִּים</span> are rendered as follows in the ancient translations.
 
-<b>a. Septuagint (LXX) and other Greek translations</b>[^24]
+<b>a. Septuagint (LXX) and other Greek translations (αʹ, σʹ, θʹ)</b>:[^24]
 
 <span dir="rtl">אוּרִים</span> 
 
