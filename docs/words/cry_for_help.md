@@ -7,9 +7,8 @@ Author(s):
 First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: James K. Aitken,&nbsp;Graham I. Davies, שוּעַ – cry for help(?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2016 (update: 2024)
 
 
-For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
-of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
+For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
+of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies; but cf. <a href="#Con">Conclusions</a> below.
 
 
 ## Introduction
@@ -107,8 +106,9 @@ distress’. In fact Driver and Gray (1921, 2:279) reasonably argue that ‘<spa
 the verse, which they cite (280), ‘Can he (God) bring thy cry into order (i.e. make it a cry of submission) without (the use of) affliction, and all the efforts of his strength’, has much to be said for it. But the
 association of <span dir="rtl">שׁוּעַ</span> with <span dir="rtl">שָׁוַע</span> remains plausible however this problem is (or is not) solved. The alternative ‘riches’ (Driver and Gray 1921, 1:313; 2:279) or ‘opulence’ (Pope 1973:267) has no real foundation.
 
-## 7. Conclusion
 
+<span id="Con"></span>
+## 7. Conclusion
 
 <b>A.1</b>  In view of the problems in both verses where  <span dir="rtl">שׁוּעַ</span> occurs, certainty about its meaning is impossible. But it is most likely that it is
 related, as is more generally (but not universally) accepted for <span dir="rtl">שׁוֹעַ</span> in Isa 22:5, to  <span dir="rtl">שָׁוַע</span>, ‘cry out’. The Versions (LXX, Tg) provide some support for this view. It has, in other words, nothing to do with <span dir="rtl">יָשַׁע</span> and the ‘deliverance’ word-group more generally (<i>pace</i> Pesh and [in Job 30:24] Vg).

@@ -3,7 +3,7 @@
 word_english: great_man   
 word_hebrew: שוֹעַ    
 title:    
-semantic_fields:   
+semantic_fields:    
 contributors: graham_i._davies       
 first_published: 2016-09-30   
 last_update: 2024-06-30   
@@ -13,9 +13,9 @@ shebanq_id:
 
 --- 
 
-The word <span dir="rtl">שׁוֹעַ</span> has been discussed in the context of words which somehow have been related to the ‘deliverance’ word-group. However, the word <span dir="rtl">שׁוֹעַ</span> should apparently not be related to this group anymore (cf. <a href="#Con">Conclusions</a> below).
+
 For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
-of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
+of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies; but cf. <a href="#Con">Conclusions</a> below.
 
 
 ## Introduction
@@ -120,8 +120,8 @@ applied. <span dir="rtl">נָדִיב</span>, which is much more frequent than <
 <b>A.2</b>  The context of Job 34:19 points conclusively to the ‘social’ interpretation of  <span dir="rtl">שׁוֹעַ</span> (Fohrer 1989:463-66; cf. Joüon 1937:205-06). In
 his challenge to Job’s questioning of God’s perfect justice Elihu cites the fact that God does not hesitate to denounce and condemn the high and mighty in human society (34:16-20): kings, leaders (<span dir="rtl">נָדִיב</span>), officials and the  <span dir="rtl">שׁוֹעַ</span> (cf. also  <span dir="rtl">אַבִּיר</span> in 34:20). The point of the challenge is social standing and power, not moral probity, so both <span dir="rtl">נָדִיב</span> and  <span dir="rtl">שׁוֹעַ</span> must be understood in this way here. Some (e.g., Dillmann, Driver and Gray, Pope, NRSV) translate  <span dir="rtl">שׁוֹעַ</span> with ‘rich’ here, no doubt because of the association with  <span dir="rtl">דַּל</span>, but the latter is not decisive for the meaning of  <span dir="rtl">שׁוֹעַ</span> in the context of the verse as a whole: the question of wealth is nowhere raised and power is what is at issue.  <span dir="rtl">דַּל</span> itself may mean ‘lowly’ or ‘weak’ as well as ‘poor’ (cf. Fabry 1978).
 
-<span id="Con">
-## 7. Conclusion</span>
+<span id="Con"></span>
+## 7. Conclusion
 
 <b>A.1</b>  In one of its two occurrences (Isa 32:5) <span dir="rtl">שׁוֹעַ</span> is a term of approbation and might be understood to designate either moral character or social status, but in the other (Job 34:19) social status is clearly meant. As a meaning which fits both passages the latter is to be preferred. It also corresponds to the closer of the two proposed cognates and to several of the versional renderings (Tg and Vg at Isa 32:5; LXX and Vg at Job 34:19: cf. also LXX at Ps 72(71):12; Job 29:12 [mistakenly] δυνάστου). ‘Great man’ would be an adequate translation. It follows that  <span dir="rtl">שׁוֹעַ</span> has no obvious connection with the root  <span dir="rtl">ישׁע</span> (this is true even if it is regarded as meaning ‘generous’ in Isa 32:5; see 
 <a href="#CRM">Root and Comparative Material A.1</a> above), and therefore it is not a member, even loosely, of the ‘deliverance’ word-group.

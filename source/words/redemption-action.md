@@ -1,11 +1,11 @@
 ---
 word_english: redemption-action   
 word_hebrew: פְּדוּת    
-title: redemption (action or power of–)   
+title: redemption (action or power of –)   
 semantic_fields: deliverance   
 contributors: alison_gray        
 first_published: 2007-08-31   
-last_update: 2024-06-30   
+last_update: 2024-06-30 (Raymond de Hoop)   
 update_info:  
 additional_info:   
 
