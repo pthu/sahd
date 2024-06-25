@@ -94,7 +94,7 @@ Introduction: Text Doubtful B.1</a>).
 <b>a. Septuagint (LXX):</b> 
 
 * ἔλεος, ‘pity, mercy’:[^2] Isa 45:8;
-* ῥύομαι, : Hab 3:13<sup><small>2nd</small></sup> (Codex Venetus);
+* ῥύομαι, ‘to rescue’: Hab 3:13<sup><small>2nd</small></sup> (Codex Venetus);
 * σωτήρ, ‘saviour’: Isa 17:10; 62:11; Mic 7:7; Hab 3:13, 18; Ps 24[23]:5; 25[24]:5; 27[26]:1, 9; 65[64]:6; 79[78]:9; 95[94]:1;
 * σωτηρία, ‘rescue, deliverance’: 2 Sam 22:3, 36, 47; 23:5; Hab 3:13<sup><small>1st</small></sup>; Ps 12[11]:6; 18[17]:3, 36, 47; 20[19]:7; 69[68]:14; 132[131]:16; Job 5:4; 1 Chron 16:35;
 * σωτήριον, ‘deliverance, security’: Isa  51:5; 61:10; Ps 50[49]:23; 51[50]:14; 62[61]:8; 85[84]:5, 8, 10;
@@ -123,10 +123,10 @@ Hab 3:13 (2x);
 
 <b>c. Targum (Tg: J/K):</b> 
 
-* \[[ <span dir="rtl">מיתיא</span>]], ‘dead’:[^4] Isa 45:8;
+* \[[<span dir="rtl">מיתיא</span>]], ‘dead’:[^4] Isa 45:8;
 * <span dir="rtl">פּרק</span>, ‘to redeem’: 2 Sam 22:36; Isa 62:11; Hab 3:13 (2x);
 * <span dir="rtl">פּורקנא</span>, ‘redemption, salvation’: 2 Sam 22:3, 47; Isa 17:10; 51:5; 61:10; Mic 7:7; Hab 3:18; Pss&nbsp;12:6; 18:3, 36, 47; 20:7; 24:5; 25:5; 27:1, 9; 50:23; 51:14; 62:8; 65:6; 69:14; 79:9; 85:5, 8, 10; 95:1; 132:16; Job 5:4, 11; 1 Chron 16:35;
-* \[[ <span dir="rtl">צורכא</span>]], ‘need’: 2 Sam 23:5.
+* \[[<span dir="rtl">צורכא</span>]], ‘need’: 2 Sam 23:5.
 
 [^4]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 

@@ -294,7 +294,7 @@ Qal:
 *  ἀγχιστευτής, ‘nearest of kin’: Isa 41:14<sup><small>αʹ</small></sup>; 54:5<sup><small>αʹ</small></sup>, 8<sup><small>αʹ</small></sup>; 60:16<sup><small>αʹ</small></sup>; 63:16(?)<sup><small>αʹ</small></sup>; Ps 78:35<sup><small>αʹ</small></sup>; Prov 23:11<sup><small>αʹ</small></sup>; Ruth 4:1;
 *  ἀγχιστεύω(ν),[^Aq] ‘to be near in blood-relationship, to act as nearest of kin’: Gen 48:16<sup><small>αʹ</small></sup>; Lev 25:25<sup><small>1st</small></sup>, 26; Num 5:8; 35:12, 19, 21, 24, 25, 27 (2x); Deut 19:6, 12; Josh 20:3, 5, 9; Isa 35:9<sup><small>αʹσʹ</small></sup>; 47:4<sup><small>αʹ</small></sup>; 49:7<sup><small>αʹθʹ</small></sup>; 52:3<sup><small>αʹ</small></sup>; 59:20<sup><small>αʹσʹ</small></sup>, 62:12<sup><small>αʹ</small></sup>; 63:16<sup><small>αʹ</small></sup>(?); Jer 31:11<sup><small>αʹ</small></sup>; Ps 19:15<sup><small>αʹ</small></sup>; 72:14<sup><small>αʹ</small></sup>; 103:4<sup><small>αʹ</small></sup>; 107:2<sup><small>αʹ</small></sup>; 119:154<sup><small>αʹ</small></sup>; Job 3:5<sup><small>θʹ</small></sup>; Ruth 2:20; 3:13(4x); 4:4(5x), 6(3x);
 *  ἀγχιστεύω(ν) + τὸ αἷμα / τοῦ αἷματος, ‘the blood-relation entitled to avenge his kinsman’s death’: Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12; Josh 20:3; 2 Sam 14:11; 
-*  ἀαντιλαμβάνομαι, ‘to grasp, help’: Isa 49:26;
+*  ἀντιλαμβάνομαι, ‘to grasp, help’: Isa 49:26;
 *  ἀντιποιέομαι, ‘to lay claim to’: Job 3:5<sup><small>σʹ</small></sup>;
 *  ἐγγίζω,[^Aq2] ‘to draw near, be close by’: Jer 50:34<sup><small>αʹσʹ</small></sup>; Lam 3:58<sup><small>αʹ</small></sup>;
 *  ἐκλαμβάνω, ‘to welcome’: Job 3:5;

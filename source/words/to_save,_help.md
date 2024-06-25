@@ -575,7 +575,7 @@ Hiphil:
 * <span dir="rtl" lang="-">ܥܕܪ</span>
 (<i>ʿdr</i>) Pael, ‘to help, aid’: 2&nbsp;Sam 10:11, 19; 1&nbsp;Chron 19:19;  
 * <span dir="rtl" lang="-">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span>
-(<i>pṣy</i>/<i>pṣʾ </i>) Pael, ‘to save, deliver’: Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3<sup>1st</sup>; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
+(<i>pṣy</i>/<i>pṣʾ</i>) Pael, ‘to save, deliver’: Deut 22:27; 28:31; Judg 6:31; 2&nbsp;Sam 22:3<sup>1st</sup>; Hab 1:2; Pss 34:7; 119:94; 1&nbsp;Chron 19:12;  
 * <span dir="rtl" lang="-">ܦܩܕ</span>
 (<i>pqd</i>) Peal, ‘to search for, care for’: Zech 12:7;
 * <span dir="rtl" lang="-">ܦܪܩ</span>

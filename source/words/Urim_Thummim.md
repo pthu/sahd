@@ -16,11 +16,11 @@ additional_info:
 Grammatical type: 2x n.m. pl.   
 Occurrences: 7x HB (4/1/2); 0x Sir; 2x SP; 3x Qum.; 0x inscr. (Total: 12)
 
-* Torah: Exod 28:30; Lev 8:8; Num 27:21 (only <span dir="rtl">אוּרִים</span>); Deut 33:8 (reverse order).
-* Nebiim: 1 Sam 28:6 (only <span dir="rtl">אוּרִים</span>).
-* Ketubim: Ezra 2:63; Neh 7:65.
-* Sam Pent (additions, see A.1): Exod 28:30; 39:21 (39:21 also in 4QExod-Lev<sup><small>f</small></sup>).
-* Qumran: 4Q164 (4QpIsa<sup><small>d</small></sup>) fr1:5; 11Q19 (11QTemple<sup><small>a</small></sup>) lviii:18-19, 20-21.
+* Torah: Exod 28:30; Lev 8:8; Num 27:21 (only <span dir="rtl">אוּרִים</span>); Deut 33:8 (reverse order);
+* Nebiim: 1 Sam 28:6 (only <span dir="rtl">אוּרִים</span>);
+* Ketubim: Ezra 2:63; Neh 7:65;
+* Sam Pent (additions, see A.1): Exod 28:30; 39:21 (39:21 also in 4QExod-Lev<sup><small>f</small></sup>);
+* Qumran: 4Q164 (4QpIsa<sup><small>d</small></sup>) fr1:5; 11Q19 (11QTemple<sup><small>a</small></sup>) lviii:18-19, 20-21;
 * Text doubtful: 1 Sam 14:41 (see A.2); 4Q174 fr6-7:7; 4Q299 fr69:2; 4Q376 fr1.i:3; 4Q522 fr9.ii:10. 
 
 ### Text Doubtful
