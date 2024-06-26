@@ -232,7 +232,7 @@ each of which is read during one of the Jewish religious festivals. Because of t
 <b>A.1</b> 
 In Egypt papyrus scrolls were used since the Old Kingdom (<i>AALA</i>, 534-35). Up to twenty sheets of papyrus or leather could be joined to form a scroll (<i>AEMT</i>, 236-38; Tov 2004, 36-43). In the case of the brittle papyrus, the sheets were joined with glue; in the case of leather with threads, mostly sinews. The overall length of the great Isaiah scroll from Qumran (1QIsa<small><sup>a</sup></small>), for example, is 7.34 meters, 
 divided over 17 sheets of uneven widths. 
-In biblical scholarship it is sometimes stated that up to the second century BCE only papyrus scrolls were used. In Egypt, however, parchment was used since the eighteenth dynasty (<i>AEMT</i>, 303) and it is quite likely that this material was introduced in Palestine already in the premonarchic period. Neither papyrus nor leather withstood the Palestinian climate well, with its wet winters, so that thus far only scrolls have only been discovered in the dry Judaean Desert. 
+In biblical scholarship it is sometimes stated that up to the second century BCE only papyrus scrolls were used. In Egypt, however, parchment was used since the eighteenth dynasty (<i>AEMT</i>, 303) and it is quite likely that this material was introduced in Palestine already in the premonarchic period. Neither papyrus nor leather withstood the Palestinian climate well, with its wet winters, so that thus far scrolls have only been discovered in the dry Judaean Desert. 
 
 
 ##<span id="Con">7. Conclusion</span>
