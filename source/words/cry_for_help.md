@@ -36,7 +36,7 @@ Qere/Ketiv: none.
 
 
 <b>A.1</b>  See also 
-<a href="https://pthu.github.io/sahd/words/to_save%2C_help/#1-root-and-comparative-material"><span dir="rtl">שׁוֹעַ</span>: Root and Comparative Material</a>, especially on the PNN, for which the occurrences of  <span dir="rtl">שׁוֹעַ</span> provide a more plausible basis for the use as an element of a PN.
+<a href="/sahd/words/great_man/#1-root-and-comparative-material"><span dir="rtl">שׁוֹעַ</span>: Root and Comparative Material</a>, especially on the PNN, for which the occurrences of  <span dir="rtl">שׁוֹעַ</span> provide a more plausible basis for the use as an element of a PN.
 
 <span id="RCMA2"> 
 <b>A.2</b></span>
