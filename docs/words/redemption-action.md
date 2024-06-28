@@ -83,7 +83,7 @@ The syntagmatic information suggests that the emphasis of <span dir="rtl">פְּ
 
 ## 4. Ancient Versions
 
-<b>a. Septuaging (LXX)</b>:
+<b>a. Septuagint (LXX)</b>:
 
 * διαστολή, ‘separation’: Exod 8:19;
 * λύτρωσις, ‘act of redemption’: Pss 111:9; 130:7;
@@ -92,8 +92,8 @@ The syntagmatic information suggests that the emphasis of <span dir="rtl">פְּ
 <b>b. Peshitta (Pesh)</b>:
 
 * <span dir="rtl">ܦܘܪܫܢܐ</span> (<i>pwršnʾ </i>), ‘severing, separation’: Exod 8:19;
-* <span dir="rtl">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), salvation, redemption’: Ps 111:9; 130:7;
-* <span dir="rtl">ܦܕܕ</span> (<i>pdd</i>) <i>peal</i>, to wander away’: Isa 50:2.
+* <span dir="rtl">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’: Pss 111:9; 130:7;
+* <span dir="rtl">ܦܕܕ</span> (<i>pdd</i>) <i>peal</i>, ‘to wander away’: Isa 50:2.
 
 <b>c. Targum (Tg: O/N/PsJ/J/K)</b>:
 

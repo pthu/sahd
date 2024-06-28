@@ -346,7 +346,7 @@ Isa 1:27<small><sup>J</sup></small>.
 <i>Hophal</i>: 
 
 * <span dir="rtl">פרק</span> <i>peal</i>, ‘to redeem’: Lev 19:20<small><sup>N</sup></small>;
-* <span dir="rtl">פרק</span> <i>ithpeel</i>, to be redeemed’: Lev 19:20<small><sup>O,PsJ</sup></small>;
+* <span dir="rtl">פרק</span> <i>ithpeel</i>, to be redeemed’: Lev 19:20<small><sup>O,PsJ</sup></small>.
 
 <b>A.1</b>  Twice, when <span dir="rtl">פדה</span> follows another ‘salvation’ word, e.g. Isa 51:11; Jer
 15:21, it is translated by <span dir="rtl">פרק</span>, and <span dir="rtl">שיזב</span> is used to translate  <span dir="rtl">גאל</span> or <span dir="rtl">נצל</span> 
@@ -636,6 +636,6 @@ Reuven Yaron, ‘A Document of Redemption from Ugarit’, <i>VT</i> 10:83-90.
 
 ## Notes 
 
-[^1]: The three versions Aquila (αʹ), Symmachus (σʹ), and Theodotion (θʹ) are given according to the most recent authorities (even where there may be suspicion about the attribution) as published in Field<small><sup>1</sup></small> and Field<small><sup>2</sup></small>.
+[^1]: The three versions Aquila (αʹ), Symmachus (σʹ), and Theodotion (θʹ) are given according to the most recent authorities, even where there may be suspicion about the attribution.
 [^2]: Tg<small><sup>Frg</sup></small> is only extant in Lev 27:27, 29, for the equivalents of the verb <span dir="rtl">פדה</span> in ms Vatican Ebr. 440, Folios 198-227.
 

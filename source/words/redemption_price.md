@@ -78,7 +78,7 @@ translations. It appears to be the view taken in Tg and Vg, and it produces a sm
 <b>a. Septuagint (LXX)</b>:
 
 * ἐκλύτρωσις, ‘act of redemption’: Num 3:49;
-* λύτρον πλ., ‘sum payable as ransom’: Num 3:46, 48, 49, 51;
+* λύτρον pl., ‘sum payable as ransom’: Num 3:46, 48, 49, 51;
 * λύτρωσις, ‘act of redemption’: Num 18:16.
 
 <b>A.1</b> In four cases LXX treats <span dir="rtl">פְּדוּיִם</span> as a word for the payment made, in the other two as a word for the action of paying. The distinction is hardly necessary.

@@ -173,8 +173,8 @@ all the situation of some of the occurrences of <span dir="rtl">חָכְמוֹת
 
 <b>A.1</b>  Constructions with particles:
 
-* <span dir="rtl">וְאֶת־הַתְּבוּנָה</span>: 1Kgs 7:14);
-* <span dir="rtl">וְלֹא־תְבוּנָה</span>: Isa 44:19);
+* <span dir="rtl">וְאֶת־הַתְּבוּנָה</span>: 1Kgs 7:14;
+* <span dir="rtl">וְלֹא־תְבוּנָה</span>: Isa 44:19;
 * <span dir="rtl">אֵין תְּבוּנָה</span>: Obad 1:7; in Deut 32:28 with the insertion of <span dir="rtl">בָּהֶם</span> in the middle;
 * <span dir="rtl">בִּתְבוּנָה</span>: with and without suffix: Exod 31:3; 35:31; Jer 10:12 = 51:15; Ezek 28:14; Ps 136:5; Job 26:12; Prov 3:19; 18:2; 24:3; Sir 14:20; 44:3; with the noun in the pl. Ps 78:72; Sir 50:27; 11Q5 26:14; in Sir 14:21 <span dir="rtl">בתבונתיה</span> occurs;
 * <span dir="rtl">לַתְּבוּנָה</span>: with and without suffix: Isa 40:28; Ps 147:5; Prov 2:2, 3; 5:1;
