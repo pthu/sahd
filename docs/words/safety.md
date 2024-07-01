@@ -52,7 +52,7 @@ only appears in poetry in the OT and most often in prayers and Psalms.
 
 ## 1. Root And Comparative Material
 
-<b>A.1</b>  See <a href="/sahd/words/to_save%2C_help/#1-root-and-comparative-material"><span dir="rtl" lang="he">ישׁע</span>: 1. Root and Comparative Material</a>.
+<b>A.1</b>  See <a href="/sahd/words/to_save%2C_help/#1-root-and-comparative-material"><span dir="rtl" lang="he">ישׁע</span>: Root and Comparative Material</a>.
 
 ## 2. Formal Characteristics
 

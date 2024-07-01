@@ -15,8 +15,6 @@ nav:
                 - גְּאוּלִים - redemption: words/redemption.md
                 - גאל - to redeem: words/to_redeem.md
                 - גְּאֻלָּה - redemption, right of: words/redemption,_right_of.md
-            - ח:
-                - חוֹתָם/חֹתֶמֶת - seal: words/seal.md
             - ט:
                 - טוה - to spin, twist: words/to_spin,_twist.md
             - י:
@@ -28,12 +26,16 @@ nav:
                 - מְגִלָּה - scroll: words/scroll.md
                 - מוֹשָׁעָה - deliverance: words/deliverance.md
                 - מַחֲרָשָׁה/מַחֲרֶשֶׁת - plough: words/plough.md
+                - מַפְרֶקֶת - neck: words/neck.md
             - פ:
                 - פָּדָה - to liberate: words/to_liberate.md
                 - פְּדוּיִם - redemption price: words/redemption_price.md
                 - פְּדוּת - redemption-action: words/redemption-action.md
                 - פִּדְיוֹן - ransom: words/ransom.md
                 - פֶּלֶךְ - spindle: words/spindle.md
+                - פֶּרֶק - plunder: words/plunder.md
+                - פָּרַק - to pull off: words/to_pull_off.md
+                - פָּרָק - piece of meat: words/piece_of_meat.md
             - צ:
                 - צלה - to roast: words/to_roast.md
             - ש:
@@ -42,6 +44,7 @@ nav:
             - ת:
                 - תְּבוּנָה - understanding: words/understanding.md
                 - תִּפְלָה - senselessness: words/senselessness.md
+                - תְּשׁוּעָה - deliverance, state of: words/deliverance,_state_of.md
     - Semantic fields:
             - Writing: semantic_fields/Writing.md
             - Agriculture: semantic_fields/agriculture.md
@@ -50,7 +53,6 @@ nav:
             - Deliverance: semantic_fields/deliverance.md
             - Divination: semantic_fields/divination.md
             - Food Preparation: semantic_fields/food preparation.md
-            - Jewelry: semantic_fields/jewelry.md
             - Knowledge: semantic_fields/knowledge.md
             - Light: semantic_fields/light.md
             - Textile Production: semantic_fields/textile production.md
@@ -65,7 +67,6 @@ nav:
             - Kees den Hertog(†): contributors/kees_den_hertog(†).md
             - Alison Gray: contributors/alison_gray.md
             - Cornelis Houtman: contributors/cornelis_houtman.md
-            - Marjo C. A. Korpel: contributors/marjo_c._a._korpel.md
             - Paul Sanders: contributors/paul_sanders.md
             - M. Patrizia Sciumbata: contributors/m._patrizia_sciumbata.md
             - Klaas A. D. Smelik: contributors/klaas_a._d._smelik.md
