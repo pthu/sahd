@@ -4,4 +4,4 @@
 
 
 ### Contributions
-[יְשׁוּעָה – protection](../words/protection.md)<br>[ישׁע – to save, help](../words/to_save,_help.md)<br>[מַפְרֶקֶת – neck](../words/neck.md)<br>[פֶּרֶק – plunder](../words/plunder.md)<br>[פָּרַק – to pull off](../words/to_pull_off.md)<br>[פָּרָק – piece of meat](../words/piece_of_meat.md)<br>[שוֹעַ – great man](../words/great_man.md)<br>[שוּעַ – cry for help](../words/cry_for_help.md)<br>
+[יְשׁוּעָה – protection](../words/protection.md)<br>[ישׁע – to save, help](../words/to_save,_help.md)<br>[שוֹעַ – great man](../words/great_man.md)<br>[שוּעַ – cry for help](../words/cry_for_help.md)<br>
