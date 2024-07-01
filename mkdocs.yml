@@ -15,6 +15,8 @@ nav:
                 - גְּאוּלִים - redemption: words/redemption.md
                 - גאל - to redeem: words/to_redeem.md
                 - גְּאֻלָּה - redemption, right of: words/redemption,_right_of.md
+            - ח:
+                - חֹזֶה - (court) diviner: words/(court)_diviner.md
             - ט:
                 - טוה - to spin, twist: words/to_spin,_twist.md
             - י:
@@ -26,6 +28,8 @@ nav:
                 - מְגִלָּה - scroll: words/scroll.md
                 - מוֹשָׁעָה - deliverance: words/deliverance.md
                 - מַחֲרָשָׁה/מַחֲרֶשֶׁת - plough: words/plough.md
+            - נ:
+                - נָבִיא/נְבִיאָה - prophet(ess): words/prophet(ess).md
             - פ:
                 - פָּדָה - to liberate: words/to_liberate.md
                 - פְּדוּיִם - redemption price: words/redemption_price.md
@@ -34,6 +38,8 @@ nav:
                 - פֶּלֶךְ - spindle: words/spindle.md
             - צ:
                 - צלה - to roast: words/to_roast.md
+            - ר:
+                - רֹאֶה - seer: words/seer.md
             - ש:
                 - שוֹעַ - great man: words/great_man.md
                 - שוּעַ - cry for help: words/cry_for_help.md
@@ -55,6 +61,7 @@ nav:
             - Weight: semantic_fields/weight.md
     - Contributors:
             - Kurtis Peters: contributors/Kurtis Peters.md
+            - T. Jonathan Stökl: contributors/T. Jonathan Stökl.md
             - James K. Aitken: contributors/james_k._aitken.md
             - Alison Gray: contributors/alison gray.md
             - Graham I. Davies: contributors/graham_i._davies.md
