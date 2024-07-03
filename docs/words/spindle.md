@@ -371,7 +371,7 @@ A ritual against the sexual impotence of a man includes placing a spindle and di
 and, consequently, replacing it by a bow and arrows
 (<i>CTH</i>, 406; see Hoffner 1987:272, 277, 283). 
 For the relevant Hittite texts and terminology, see also 
-<i>HW </i><sup><small> 2</small></sup> III/2:632-33, 690-91. 
+<i>HW</i> III/2:632-33, 690-91. 
 
 
 Akk.  texts refer to men with female apparel and implements who play a role in specific contexts: 
@@ -702,8 +702,7 @@ Unfortunately, figures and more details of this find are not available.
 Ancient spindles entirely or partially made of precious materials, such as
 copper, bronze, silver, gold, or ivory, have been discovered mainly in graves of women, but sometimes in domestic contexts.[^17f]
  References to spindles made of such costly materials occur in several texts 
-(Hittite: <i>HW</i><sup><small> 2</small></sup> 
-III/2:632;
+(Hittite: <i>HW</i> III/2:632;
 El-Amarna: <a href="#EA25">EA 25</a>).
 Such precious spindles probably represent status symbols 
 rather than being tools of everyday use (Spinazzi-Lucchesi 2018:30). 
