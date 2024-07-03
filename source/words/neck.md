@@ -29,7 +29,7 @@ Qere/Ketiv: none.
 ## 1. Root and Comparative Material
 
 
-<b>A.1</b>  In addition to possible cognate nouns noted in <a href="/sahd/words/plunder/#1-root-and-comparative-material"><span dir="rtl">פֶּרֶק</span>: Root and Comparative Material A.5–6</a>, the lexica s.v. mention the following forms:  <span dir="rtl">מַפְרֶקֶת</span> in
+<b>A.1</b>  In addition to possible cognate nouns noted in <a href="/sahd/words/plunder/#1-root-and-comparative-material"><span dir="rtl">פֶּרֶק</span>: Root and Comparative Material A.5–6</a>, the lexica <i>s.v.</i> mention the following forms:  <span dir="rtl">מַפְרֶקֶת</span> in
 post-biblical Heb. (Jastrow, <i>DTT</i>, 822, ‘neck, nape’; he also cites
 there one occurrence of  <span dir="rtl">מַפְרֵק</span>, ‘joint’), Arab. <i>farq</i>, ‘Scheitel
 [crown of the head]’ (<i>HAL</i>: 585); in Ges<small><sup>18</sup></small>, 719 Arab. <i>mafraq</i>, <i>mafriq</i>, ‘Kreuzung, Knotenpunkt’, <i>mafriq aš-šaʿr</i>, ‘Scheitel’, Soq. <i>fiqeriroh</i>, ‘Hals’, JAram. (Tgs.) <span dir="rtl">פר(י)קתא</span>, ‘Genick’ (‘back of the neck’, for this Jastrow, <i>DTT</i>, 1228, refers to  <span dir="rtl">פירקתא</span>, [p. 1172], ‘joint’, always with a specifying genitive to mean ‘neck’: occurrences of the spellings cited in Ges<small><sup>18</sup></small> are noted as variants). 

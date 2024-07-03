@@ -1756,19 +1756,9 @@ HRCS<br>
 	 (Grundrisse zum Alten Testament, 10), Göttingen: Vandenhoeck & Ruprecht, 2010
 </div>
 
-<div style="padding-left: 22px; text-indent: -22px;">
-<i>HW</i><br>
-	 Johannes Friedrich <i>et al.</i>, 
-	 <i>Hethitisches Wörterbuch: 
-	 Kurzgefasste kritische Sammlung der Deutungen hethitischer Wörter</i>, 
-	 Heidelberg: Winter, 1952;
-	 1.Ergänzungsheft, Heidelberg: Winter, 1957; 
-	 2.Ergänzungsheft, Heidelberg: Winter, 1961;
-	 3.Ergänzungsheft, Heidelberg: Winter, 1966
-</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>HW</i><sup>2</sup><br>
+<i>HW</i><br>
 	Johannes Friedrich & Annelies Kammenhuber, <i>Hethitisches 
 	Wörterbuch</i>, vol.1–,
 	Heidelberg: Winter, <sup>2</sup>1975–
@@ -1796,13 +1786,18 @@ HRCS<br>
 <i>IBHS</i><br>
 	 Bruce K. Waltke & Michael O’Connor, 
 	 <i>An Introduction to Biblical Hebrew Syntax</i>,
-	 Winona Lake (IN): Eisenbrauns, 1990
+	 Winona Lake, IN: Eisenbrauns, 1990
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+<i>IBoT</i> <br>
+<i>İstanbul Arkeoloji Müzelerinde Bulunan Boğazköy Tabletleri</i>, Istanbul: Maarif Matbassi, 1944–
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 ICC<br>
 	The International Critical Commentary on the Holy Scriptures of the
-	Old and New Testaments (Edinburgh/ London: T. & T. Clark)
+	Old and New Testaments, Edinburgh/London: T&T Clark
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1942,6 +1937,17 @@ KBS<br> <i>De Bijbel uit de grondtekst vertaald: Willibrordvertaling</i>,
 	 Yehoshua Brand, 
 	 כלי החרס בספרות התלמוד
 	 (<i>Ceramics in Talmudic Literature</i>), Jerusalem: Kook, 1953
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+<i>KHW</i><br>
+	 Johannes Friedrich <i>et al.</i>, 
+	 <i>Hethitisches Wörterbuch: 
+	 Kurzgefasste kritische Sammlung der Deutungen hethitischer Wörter</i>, 
+	 Heidelberg: Winter, 1952;
+	 1.Ergänzungsheft, Heidelberg: Winter, 1957; 
+	 2.Ergänzungsheft, Heidelberg: Winter, 1961;
+	 3.Ergänzungsheft, Heidelberg: Winter, 1966
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2685,6 +2691,11 @@ Wehr<br>
 	 Rafi Frankel, <i>Wine and Oil Production in Antiquity in
 	Israel and Other Mediterranean Countries</i> (JSOT/ASOR Monograph Series,
 	10), Sheffield: Sheffield Academic Press, 1999
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Wortabet<br>
+William Thomson Wortabet, <i>Arabic-English Dictionary</i>, 4th. ed., Beirut: Librairie du Liban, 1984
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
