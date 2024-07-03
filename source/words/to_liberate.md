@@ -1,7 +1,7 @@
 ---
 word_english: to_liberate   
 word_hebrew: פָּדָה    
-title:   
+title: to liberate, set free, redeem  
 semantic_fields: deliverance   
 contributors: alison_gray        
 first_published: 2007-08-31   
