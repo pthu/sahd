@@ -5,7 +5,7 @@ title: to redeem (as kinsman), buy/claim (back)
 semantic_fields: deliverance  
 contributors: alison_gray  
 first_published: 2007-08-01  
-last_update: 2023-10-01 (Raymond de Hoop)  
+last_update: 2024-07-01 (Raymond de Hoop, Paul Sanders)  
 update_info: 
 shebanq_id: https://shebanq.ancient-data.org/hebrew/word?id=1GALv&mr=r&qw=w 
 
@@ -21,13 +21,13 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 Grammatical Type: vb qal and niph.  
 Occurrences: 103x[^1] HB (qal: 28/31/36; niph.: 7/1/0); 1(2?)x Sir; 16x Qum; 1(?)x inscr. (Total: 120 [121/122?]).
 
-[^1]: <i>DCH</i> ii: 293 mentions 104x for the HB, and 96x for the qal, but <i>DCH</i><sup><small>2</small></sup> ii: 315 gives the number of 103x, and 95x for the qal, which is in line with the findings in <i>Accordance</i> and <i>SHEBANQ</i>.
+[^1]: <i>DCH</i> ii: 293, mentions 104x for the HB, and 96x for the qal, but <i>DCHR</i> ii: 315, gives the number of 103x, and 95x for the qal, which agrees with the findings in <i>Accordance</i> and <i>SHEBANQ</i>.
 
 * Torah – qal: Gen 48:16; Exod 6:6; 15:13; Lev 25:25 (2x), 26, 33, 48, 49 (2x); 27:13 (2x), 15, 19 (2x), 20, 31 (2x); Num 5:8; 35:12, 19, 21, 24, 25, 27 (2x); Deut 19:6, 12.
 * Torah – niph.: Lev 25:30, 49, 54; 27:20, 27, 28, 33.
 * Nebiim – qal: Josh 20:3, 5, 9; 2 Sam 14:11; 1 Kgs 16:11; Isa 35:9; 41:14; 43:1, 14; 44:6, 22, 23, 24; 47:4; 48:17, 20; 49:7, 26; 51:10; 52:9; 54:5, 8; 59:20; 60:16; 62:12; 63:9, 16; Jer 31:11; 50:34; Hos 13:14; Mic 4:10.
 * Nebiim – niph.: Isa 52:3.
-* Ketubim – qal: Ps 19:15; 69:19; 72:14; 74:2; 77:16; 78:35; 103:4; 106:10; 107:2 (2x); 119:154; Job 3:5; 19:25; Prov 23:11; Ruth 2:20; 3:9, 12 (2x), 13 (4x); 4:1, 3, 4 (5x), 6 (4x), 8, 14; Lam 3:58.
+* Ketubim – qal: Pss 19:15; 69:19; 72:14; 74:2; 77:16; 78:35; 103:4; 106:10; 107:2 (2x); 119:154; Job 3:5; 19:25; Prov 23:11; Ruth 2:20; 3:9, 12 (2x), 13 (4x); 4:1, 3, 4 (5x), 6 (4x), 8, 14; Lam 3:58.
 * Sir – qal: 51:8 (and 12?).
 * Qum: 4Q158 14 i 5; 4Q176 3:2, 8-11:4, 7, 10; 4Q185 1-2 ii 10; 4Q251 14:2, 16:5; 4Q266 10 i 9; 4Q367 3:7 (2x]; 4Q381 24a+b.5, 4Q385 2:1; 4Q411 1 ii 8; 4Q471a 3; 11Q5 18:15.
 * Inscr: 15.006:2 Khirbet Beit Lei Burial Cave Inscription A (uncertain).
@@ -188,10 +188,10 @@ in a socio-legal context – גֹּאֵל, ‘next of kin’ (Lev 25:25; Ruth 3:
 <b>A.5</b> גאל qal is also used with a divine subject:   
 
 <div style="padding-left: 22px; text-indent: 0px;">  
-<b>a)</b>  הַמַּלְאָךְ ‘angel’ (Gen 48:16); יהוה understood from context (Ps 103:4; 106:10; 107:2, Isa 52:9; 63:9; Jer 31:11; 4Q185 1-2 ii 10; 4Q381 24a+b.5); יהוה (Isa 44:23; 48:20; Mic 4:10; 11Q5 18:17; Sir 51:8).   
+<b>a)</b>  הַמַּלְאָךְ ‘angel’ (Gen 48:16); יהוה understood from context (Pss 103:4; 106:10; 107:2, Isa 52:9; 63:9; Jer 31:11; 4Q185 1-2 ii 10; 4Q381 24a+b.5); יהוה (Isa 44:23; 48:20; Mic 4:10; 11Q5 18:17; Sir 51:8).   
 </div>
 <div style="padding-left: 22px; text-indent: 0px;"> 
-<b>b)</b>  A divine subject is implied when the speaker is יהוה (Exod 6:6; Isa 43:1; 44:22; Hos 13:14; 4Q158 14i:5; 4Q176 3:2); and in speech addressed to God: יהוה (Exod 15:13; Ps 74:2; 77:16; Lam 3:58) and petitions to God (Ps 69:19; 119:154).
+<b>b)</b>  A divine subject is implied when the speaker is יהוה (Exod 6:6; Isa 43:1; 44:22; Hos 13:14; 4Q158 14i:5; 4Q176 3:2); and in speech addressed to God: יהוה (Exod 15:13; Pss 74:2; 77:16; Lam 3:58) and petitions to God (Pss 69:19; 119:154).
 </div>
 
 <b>A.6</b> In these contexts גאל qal takes as direct objects: אֹתִי, ‘me’ (Jacob) (Gen 48:16); בְּנֵי־יִשְׂרָאֵל, ‘sons of Israel’ (Exod 6:6); m.pl. sf. ‘Israel’ understood (4Q158 14i:5); עַם, ‘people’ (Exod 15:13, Ps 77:16; 4Q385 2:1); נֶפֶשׁ, ‘soul/life’ (Ps 69:19); עֵדָה, ‘congregation’
@@ -292,23 +292,23 @@ walled city’ (Lev 25:30); אָח (from v. 47), ‘brother’ (Lev 25:49 [+ <sp
 
 Qal:  
 
-*  ἀγχιστεύς, ‘nearest of kin’:[^4] 1 Kgs 16:11; Isa 41:14 <sup><small>θʹ</small></sup>; Job 19:25<sup><small>θʹ</small></sup>; Prov 23:11<sup><small>θʹ</small></sup>; Ruth 3:9, 12 (2x), 4:3, 6, 8, 14; Prov 23:11<sup><small>σʹ</small></sup>;
+*  ἀγχιστεύς, ‘nearest of kin’:[^4] 1 Kgs 16:11; Isa 41:14<sup><small>θʹ</small></sup>; Job 19:25<sup><small>θʹ</small></sup>; Prov 23:11<sup><small>θʹ</small></sup>; Ruth 3:9, 12 (2x), 4:3, 6, 8, 14; Prov 23:11<sup><small>σʹ</small></sup>;
 *  ἀγχιστεύς + τοῦ αἷματος, ‘entitled to avenge a kinsman’s death’: 2 Sam 14:11;
 *  ἀγχιστευτής, ‘nearest of kin’: Isa 41:14<sup><small>αʹ</small></sup>; 54:5<sup><small>αʹ</small></sup>, 8<sup><small>αʹ</small></sup>; 60:16<sup><small>αʹ</small></sup>; 63:16(?)<sup><small>αʹ</small></sup>; Ps 78:35<sup><small>αʹ</small></sup>; Prov 23:11<sup><small>αʹ</small></sup>; Ruth 4:1;
-*  ἀγχιστεύω(ν),[^Aq] ‘to be near in blood-relationship, to act as nearest of kin’: Gen 48:16<sup><small>αʹ</small></sup>; Lev 25:25<sup><small>1st</small></sup>, 26; Num 5:8; 35:12, 19, 21, 24, 25, 27 (2x); Deut 19:6, 12; Josh 20:3, 5, 9; Isa 35:9<sup><small>αʹσʹ</small></sup>; 47:4<sup><small>αʹ</small></sup>; 49:7<sup><small>αʹθʹ</small></sup>; 52:3<sup><small>αʹ</small></sup>; 59:20<sup><small>αʹσʹ</small></sup>, 62:12<sup><small>αʹ</small></sup>; 63:16<sup><small>αʹ</small></sup>(?); Jer 31:11<sup><small>αʹ</small></sup>; Ps 19:15<sup><small>αʹ</small></sup>; 72:14<sup><small>αʹ</small></sup>; 103:4<sup><small>αʹ</small></sup>; 107:2<sup><small>αʹ</small></sup>; 119:154<sup><small>αʹ</small></sup>; Job 3:5<sup><small>θʹ</small></sup>; Ruth 2:20; 3:13(4x); 4:4(5x), 6(3x);
+*  ἀγχιστεύω(ν),[^Aq] ‘to be near in blood-relationship, to act as nearest of kin’: Gen 48:16<sup><small>αʹ</small></sup>; Lev 25:25<sup><small>1st</small></sup>, 26; Num 5:8; 35:12, 19, 21, 24, 25, 27 (2x); Deut 19:6, 12; Josh 20:3, 5, 9; Isa 35:9<sup><small>αʹσʹ</small></sup>; 47:4<sup><small>αʹ</small></sup>; 49:7<sup><small>αʹθʹ</small></sup>; 52:3<sup><small>αʹ</small></sup>; 59:20<sup><small>αʹσʹ</small></sup>, 62:12<sup><small>αʹ</small></sup>; 63:16<sup><small>αʹ</small></sup>(?); Jer 31:11<sup><small>αʹ</small></sup>; Pss 19:15<sup><small>αʹ</small></sup>; 72:14<sup><small>αʹ</small></sup>; 103:4<sup><small>αʹ</small></sup>; 107:2<sup><small>αʹ</small></sup>; 119:154<sup><small>αʹ</small></sup>; Job 3:5<sup><small>θʹ</small></sup>; Ruth 2:20; 3:13(4x); 4:4(5x), 6(3x);
 *  ἀγχιστεύω(ν) + τὸ αἷμα / τοῦ αἷματος, ‘the blood-relation entitled to avenge his kinsman’s death’: Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12; Josh 20:3; 2 Sam 14:11; 
 *  ἀντιλαμβάνομαι, ‘to grasp, help’: Isa 49:26;
 *  ἀντιποιέομαι, ‘to lay claim to’: Job 3:5<sup><small>σʹ</small></sup>;
 *  ἐγγίζω,[^Aq2] ‘to draw near, be close by’: Jer 50:34<sup><small>αʹσʹ</small></sup>; Lam 3:58<sup><small>αʹ</small></sup>;
 *  ἐκλαμβάνω, ‘to welcome’: Job 3:5;
 *  ἐκλύω με, ‘to free me’: Job 19:25;
-*  ἐξαιρέω, ‘to take (out)’: Jer 31:11, Isa 60:16;
-*  λυτρωτής, ‘redeemer’: Isa 47:4 <sup><small>σʹ</small></sup>; Ps 19:15; 78:35;
-*  λυτρόω middle, ‘to release, redeem’: Exod 6:6; 15:13; Lev 25:25<sup><small>2nd</small></sup>, 33, 38, 48, 49 (2x); 27:13 (2=1), 15, 19 (2=1), 20, 31 (2=1); Isa 35:9; 41:14, 43:1, 14; 44:22, 23, 24; 47:4<sup><small>θʹ</small></sup>; 49:7<sup><small>σʹ</small></sup>, 26<sup><small>σʹ</small></sup>; 62:12; 63:9; Jer 50:34; Hos 13:14; Mic 4:10; Ps 69:19; 72:14; Ps 74:2<sup><small>LXX,αʹσʹ</small></sup>; 77:16; 103:4; 106:10; 107:2 (2x); 119:154; Prov 23:11; Lam 3:58;
+*  ἐξαιρέω, ‘to take (out)’: Isa 60:16; Jer 31:11;
+*  λυτρωτής, ‘redeemer’: Isa 47:4<sup><small>σʹ</small></sup>; Pss 19:15; 78:35;
+*  λυτρόω middle, ‘to release, redeem’: Exod 6:6; 15:13; Lev 25:25<sup><small>2nd</small></sup>, 33, 38, 48, 49 (2x); 27:13 (2=1), 15, 19 (2=1), 20, 31 (2=1); Isa 35:9; 41:14, 43:1, 14; 44:22, 23, 24; 47:4<sup><small>θʹ</small></sup>; 49:7<sup><small>σʹ</small></sup>, 26<sup><small>σʹ</small></sup>; 62:12; 63:9; Jer 50:34; Hos 13:14; Mic 4:10; Pss 69:19; 72:14; 74:2<sup><small>LXX,αʹσʹ</small></sup>; 77:16; 103:4; 106:10; 107:2 (2x); 119:154; Prov 23:11; Lam 3:58;
 *  μολύνω, ‘to stain, soil’: Job 3:5<sup><small>αʹ</small></sup>;
-*  ῥύομαι, ‘to rescue’: Gen 48:16; Isa Isa 35:9<sup><small>θʹ</small></sup>; 44:6; 47:4; 48:17, 20; 49:7; 51:10 <sup><small>LXX,θʹ</small></sup>; 52:9; 54:5, 8; 59:20; 63:16;
+*  ῥύομαι, ‘to rescue’: Gen 48:16; Isa 35:9<sup><small>θʹ</small></sup>; 44:6; 47:4; 48:17, 20; 49:7; 51:10<sup><small>LXX,θʹ</small></sup>; 52:9; 54:5, 8; 59:20; 63:16;
 *  σώζω, ‘to save, keep alive’: Sir 51:8;
-*  ὑπερμαχέω, ‘to defend, fight on behalf of’: Sir 51:8 <sup><small>σʹ</small></sup>.
+*  ὑπερμαχέω, ‘to defend, fight on behalf of’: Sir 51:8<sup><small>σʹ</small></sup>.
 
 [^4]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>, <i>s.v.</i>
 
@@ -382,9 +382,9 @@ Qal:
 * ܟܣܐ
 (<i>ksʾ</i>) Pael, ‘to cover, hide’: Job 3:5 (perhaps, along with the Vg, reading גאל as גאל II ‘defile’);
 * ܦܨܝ/ܦܨܐ
-(<i>pṣʾ</i>/<i>pṣy</i>) Pael, ‘to save, liberate’: Jer 31:11; Hos 13:14; Ps 106:10; 119:154;
+(<i>pṣʾ</i>/<i>pṣy</i>) Pael, ‘to save, liberate’: Jer 31:11; Hos 13:14; Pss 106:10; 119:154;
 * ܦܪܩ
-(<i>prq</i>), ‘to remove, release from, save’: Gen 48:16; Exod 6:6; 15:13; Lev 25:25<sup><small>2nd</small></sup>, 26, 33, 48, 49 (2x); 27:13 (2x), 15, 19 (2x), 20, 31 (2x); Isa 35:9; 41:14; 43:1; 43:14; 44:6, 22, 23, 24; 47:4; 48:17, 20; 49:7, 26; 51:10; 52:9; 54:5, 8; 59:20; 60:16; 62:12; 63:9; Jer 50:34; Mic 4:10; Ps 19:15; 69:19; 72:14; 74:2; 77:16; 78:35; 103:4; 107:2 (2x); Prov 23:11; Job 19:25; Lam 3:58; Sir 51:8;
+(<i>prq</i>), ‘to remove, release from, save’: Gen 48:16; Exod 6:6; 15:13; Lev 25:25<sup><small>2nd</small></sup>, 26, 33, 48, 49 (2x); 27:13 (2x), 15, 19 (2x), 20, 31 (2x); Isa 35:9; 41:14; 43:1; 43:14; 44:6, 22, 23, 24; 47:4; 48:17, 20; 49:7, 26; 51:10; 52:9; 54:5, 8; 59:20; 60:16; 62:12; 63:9; Jer 50:34; Mic 4:10; Pss 19:15; 69:19; 72:14; 74:2; 77:16; 78:35; 103:4; 107:2 (2x); Prov 23:11; Job 19:25; Lam 3:58; Sir 51:8;
 * ܩܪܝܒ
 (<i>qryb</i>), ‘near’: Lev 25:25<sup><small>1st</small></sup>; Num 5:8; 1 Kgs 16:11;
 * ܬܒܥ
@@ -488,8 +488,8 @@ Qal:
 * <i>propinquus</i>, ‘relative, kinsman’: Lev 25:25; 1 Kgs 16:11; Prov 23:11; Ruth 2:20;
     3:9, 12; 4:1, 3, 8;
 * <i>proximus</i>, ‘nearer, nigher’: Lev 25:26; Num 5:8;
-* <i>redemptor</i>, ‘one who releases a debtor, redeemer’: Isa 41:14; 43:14; 44:6,24; 47:4; 48:17; 49:8, 26; 54:5, 8; 59:20; 60:16; 63:16; Jer 50:34; Ps 19:15; 78:35; Job 19:25; Lam 3:58;
-* <i>redimo</i>, ‘to buy back, repurchase’: Exod 6:6; 15:13; Lev 25:25, 31, 33, 48; 27:15, 19, 31; Isa 43:1; 44:22,23; 48:20; 52:9; 62:12; 63:9; Hos 13:14; Mic 4:10; Ps 69:19; 72:14; 74:2; 77:16; 103:4; 106:10; 107:2; 119:154;
+* <i>redemptor</i>, ‘one who releases a debtor, redeemer’: Isa 41:14; 43:14; 44:6,24; 47:4; 48:17; 49:8, 26; 54:5, 8; 59:20; 60:16; 63:16; Jer 50:34; Pss 19:15; 78:35; Job 19:25; Lam 3:58;
+* <i>redimo</i>, ‘to buy back, repurchase’: Exod 6:6; 15:13; Lev 25:25, 31, 33, 48; 27:15, 19, 31; Isa 43:1; 44:22,23; 48:20; 52:9; 62:12; 63:9; Hos 13:14; Mic 4:10; Pss 69:19; 72:14; 74:2; 77:16; 103:4; 106:10; 107:2; 119:154;
 * <i>successor familiae</i>, ‘successor in the family’: Ruth 4:14;
 * <i>suscipio</i>, ‘to take up, undertake’: Ruth 3:13.
 
@@ -595,7 +595,7 @@ translates it by
 possession which are essential to גאל. When something belongs to someone they have a claim to it, either by themselves or with the help of one’s kinsman (גֹּאֵל).
 
 
-<b>A.4</b> גאל (qal pf.), ‘to act as kinsman’ with God as subject, is used several times in the context of the exodus (Exod 6:6; 15:13; Isa 51:10; 63:9; Ps 74:2; 77:16; 78:35; 106:10; 4Q158 14i:5) and could be translated in several different ways. In Ps 74:2 גאל is in collocation with קנה, ‘to acquire/buy’ (obj. עדתך), which seems to have overtones of payment and is perhaps more akin to the human socio-legal usage of גאל (Lev 25). The same association of גאל with קנה occurs in otherwise identical expressions referring to early Israel in Exod 15:13 and 15:16. Even when payment is not mentioned, the use of גאל for buying someone out of slavery (Lev 25:48) may provide a useful background to the context here of release from slavery in Egypt. God fulfilled the role of Israel’s kinsman at the exodus, setting them free from slavery. גאל can easily take on the sense ‘to save’ or ‘liberate’ here, although this ignores the connotation of God ‘acquiring’ or ‘claiming’ his people, which may be underlying the choice of גאל rather than (or alongside) ישׁע hiph. or נצל hiph. This does not preclude, however, the possibility that the meaning of גאל could have developed by association with other salvation words.
+<b>A.4</b> גאל (qal pf.), ‘to act as kinsman’ with God as subject, is used several times in the context of the exodus (Exod 6:6; 15:13; Isa 51:10; 63:9; Pss 74:2; 77:16; 78:35; 106:10; 4Q158 14i:5) and could be translated in several different ways. In Ps 74:2 גאל is in collocation with קנה, ‘to acquire/buy’ (obj. עדתך), which seems to have overtones of payment and is perhaps more akin to the human socio-legal usage of גאל (Lev 25). The same association of גאל with קנה occurs in otherwise identical expressions referring to early Israel in Exod 15:13 and 15:16. Even when payment is not mentioned, the use of גאל for buying someone out of slavery (Lev 25:48) may provide a useful background to the context here of release from slavery in Egypt. God fulfilled the role of Israel’s kinsman at the exodus, setting them free from slavery. גאל can easily take on the sense ‘to save’ or ‘liberate’ here, although this ignores the connotation of God ‘acquiring’ or ‘claiming’ his people, which may be underlying the choice of גאל rather than (or alongside) ישׁע hiph. or נצל hiph. This does not preclude, however, the possibility that the meaning of גאל could have developed by association with other salvation words.
 
 The use of גאל to describe the king’s action towards the poor in Ps 72:14 needs special attention. It is the only use of the verb with a human subject which lies outside the cultic and socio-legal contexts, and with which the preposition מִן is connected (on Lev 25:33 see 
 <a href="#Syntagmatics-A1b">Syntagmatics A.1.b</a>). Both these characteristics link Ps 72:14 with some of the occurrences of גאל where it has a divine subject (which is not surprising in view of the overlap of royal and divine characteristics in the Bible): e.g. Gen 48:16; Hos 13:14; Ps 103:4; Sir 51:8. The proximity
@@ -628,7 +628,7 @@ of a kinsman, namely the responsibility to protect and help a family member in t
 
 <b>A.11</b> The use of מִן with גאל aligns it more closely with other ‘deliverance’ words, e.g. נצל hiph., מלט pi., and חלץ pi. This use of גאל does not seem to be a radical departure in meaning from its meaning in
 references to the exodus, although it is slightly more developed (cf. use of מִן with גאל in a passage on the exodus in the Reworked Pentateuch, 4Q158 14:i.5). The understanding of God as kinsman, who claims Israel and bails them out in times of trouble, is not excluded
-from the meaning of גאל with מִן e.g. Ps 106:10, where גאל seems to parallel ישׁע hiph. The other examples of גאל + מִן imply a sense of rescue from oppressive powers and threats to life for the people as a whole or individuals within it (Jer 31:11; Hos 13:14; Mic 4:10; Ps 72:14; 103:4; 107:2; 4Q381 24a+b.5; 11Q5 18:17).
+from the meaning of גאל with מִן e.g. Ps 106:10, where גאל seems to parallel ישׁע hiph. The other examples of גאל + מִן imply a sense of rescue from oppressive powers and threats to life for the people as a whole or individuals within it (Jer 31:11; Hos 13:14; Mic 4:10; Pss 72:14; 103:4; 107:2; 4Q381 24a+b.5; 11Q5 18:17).
 
 
 <b>A.12</b> The use of מִן does perhaps suggest a physical or metaphorical removal from trouble, rather than a restoration to the original owner, although the idea of liberation from the hand or power (יַד / כַּף) of
@@ -652,7 +652,7 @@ would support Johnson’s argument for a single original root of both גאל (I)
 (cf. Gen 1:2) and therefore have a claim on his life (1971:390). This view seems to be supported by the previous verse and to be more akin to the idea expressed by <span dir="rtl" lang="he">גֹּאֵל הַדָּם</span> (similarly Blau 1956:244-45).
 
 
-<b>B.3</b> Verses containing גאל with מִן ‘to rescue from slavery, adversity, death’ with God (or the king) as the subject have been treated by both Stamm (1971:392-93) and Jepsen (1957:161-62) as instances of גאל which are outside of the ‘normal’ usage, and show a semantic development away from its ‘original’ meaning (Gen 48:16; Jer 31:11; Hos 13:14; Mic 4:10; Ps 103:4; 106:10; 107:2, and one without מִן in Ps 69:19). The list unaccountably omits Ps 72:14. Even if one follows Stamm and Jepsen in
+<b>B.3</b> Verses containing גאל with מִן ‘to rescue from slavery, adversity, death’ with God (or the king) as the subject have been treated by both Stamm (1971:392-93) and Jepsen (1957:161-62) as instances of גאל which are outside of the ‘normal’ usage, and show a semantic development away from its ‘original’ meaning (Gen 48:16; Jer 31:11; Hos 13:14; Mic 4:10; Pss 103:4; 106:10; 107:2, and one without מִן in Ps 69:19). The list unaccountably omits Ps 72:14. Even if one follows Stamm and Jepsen in
 regarding this group as exhibiting a widening of the meaning of גאל from its original legal context, the development should not be regarded as post-exilic in origin, as a plausible case can be made for an earlier
 date for three of the occurrences concerned. Ps 72 is a royal psalm (see above A.4), Gen 48:16 has generally been assigned to an older layer of the Jacob-narrative (traditionally E) rather than the Priestly layer,
 and Hos 13:14 is part of a judgement oracle which there is no compelling reason to deny to the eighth-century prophet (cf. Davies 1992:285, 295). In Gen 48:16, which Ringgren (1977:353) considered to be ‘perhaps the oldest passage using the root <i>gʾl</i>’, גאל also seems to be an unusual choice for ‘rescuing’ or ‘liberating’ from harm, as this is the only occurrence of גאל in Genesis. However, since Jacob had no human 

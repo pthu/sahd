@@ -340,75 +340,74 @@ td:nth-child(odd) {
   <tr>
   	<td> θʹ </td>
   	<td> Theodotion</td>
-  	<td>Tg<sup>J</sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  	<td> Targum Jonathan</td> 
+  	<td> Tg<small><sup>Frg</sup></small></td>
+  	<td> Fragment Targums</td> 
   </tr>	
   <tr>
   </tr>	
   	<td> σʹ </td>
-  	<td>  Symmachus</td>
-  	<td> Tg<sup>K</sup> </td>
-  	<td> Targum of the K<sup>e</sup>tubim</td>
+  	<td> Symmachus</td>
+  	<td> Tg<small><sup>J</sup></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  	<td> Targum Jonathan</td>
   <tr>
   	<td>CGen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   	<td> Cairo Geniza </td>  
-  	<td> Tg<sup>N</sup> </td>
-  	<td> Targum Neofiti</td>    
+  	<td> Tg<small><sup>K</sup></small></td>
+  	<td> Targum of the K<small><sup>e</sup></small></small>tubim</td>    
   </tr>   
   <tr>
   	<td> LXX </td>
   	<td> Septuagint </td>   
-  	<td> Tg<sup>O</sup> </td>
-  	<td> Targum Onqelos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>   
+  	<td> Tg<small><sup>N</sup></small></td>
+  	<td> Targum Neofiti</td>   
   </tr>   
   <tr>
-  	<td> LXX<sup>a</sup></td>
+  	<td> LXX<small><sup>a</sup></small></td>
   	<td> Codex Alexandrinus </td>
-  	<td>  Tg<sup>PsJ</sup> </td>
-  	<td> Targum Pseudo-Jonathan</td>
+  	<td> Tg<small><sup>O</sup></small></td>
+  	<td> Targum Onqelos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>   
   <tr>
-  	<td>LXX<sup>Ant</sup> </td>
+  	<td>LXX<small><sup>Ant</sup></small> </td>
   	<td>  Antiochene text of  
-  	      LXX<a href="#footnote-1"><sup>1</sup></a></td>
-  	<td>  Tg<sup>Smr</sup> </td>
-  	<td>  Targum SP</td>
+  	      LXX<a href="#footnote-1"><small><sup>1</sup></small></a></td>
+  	<td>  Tg<small><sup>PsJ</sup></small></td>
+  	<td>  Targum Pseudo-Jonathan</td>
   </tr>   
   <tr>
-  	<td> LXX<sup>b</sup> </td>
+  	<td> LXX<small><sup>b</sup></small> </td>
   	<td> Codex Vaticanus </td>
-  	<td> Tg<sup>Smr1</sup> </td>
-  	<td> Tg<sup>Smr</sup>, version 1<a href="#footnote-2"><sup>2</sup></a></td>
+  	<td> Tg<small><sup>Smr</sup></small></td>
+  	<td> Targum SP</td>
   </tr>   
   <tr>
-  	<td> LXX<sup>s</sup> </td>
+  	<td> LXX<small><sup>s</sup></small> </td>
   	<td> Codex Sinaiticus </td>
-  	<td> Tg<sup>Smr2</sup> </td>
-  	<td> Tg<sup>Smr</sup>, version 2</td> 
+  	<td> Tg<small><sup>Smr1</sup></small></td>
+  	<td> Tg<small><sup>Smr</sup></small>, version 1<a href="#footnote-2"><small><sup>2</sup></small></a></td> 
   </tr>   
   <tr>
   	<td> MT </td>
   	<td> Masoretic Text </td>
-  	<td>  Vg </td>
-  	<td> Vulgate</td>
+  	<td> Tg<small><sup>Smr2</sup></small> </td>
+  	<td> Tg<small><sup>Smr</sup></small>, version 2</td>
   </tr>   
   <tr>
   	<td> Pesh </td>
   	<td> Peshitta </td>
-  	<td> Vg<sup>PsG</sup> 
-		</td>
-  	<td> Vg, Gallican Psalter<a href="#footnote-3"><sup>3</sup></a></td>
+  	<td> Vg</td>
+  	<td> Vulgate</td>
   </tr>   
   <tr>
   	<td> Qum </td>
   	<td>Texts&nbsp;Judean&nbsp;Desert/&nbsp;Qumran</td>
-  	<td> Vg<sup>PsH</sup> </td>
-  	<td> Vg, Hebrew Psalter<a href="#footnote-4"><sup>4</sup></a></td>
+  	<td> Vg<small><sup>PsG</sup></small> </td>
+  	<td> Vg, Gallican Psalter<a href="#footnote-3"><small><sup>3</sup></small></a></td>
   </tr>   
   <tr>  	<td> SP </td>
   	<td> Samaritan Pentateuch </td>
-  	<td>  </td>
-  	<td>  </td> 
+  	<td> Vg<small><sup>PsH</sup></small> </td>
+  	<td> Vg, Hebrew Psalter<a href="#footnote-4"><small><sup>4</sup></small></a> </td> 
   </tr>   
   <tr>
   	<td> Syh </td>
@@ -418,262 +417,300 @@ td:nth-child(odd) {
   </tr>   
  </table>
 
-<p id="footnote-1"><sup>1</sup> Also known as LXX<sup><i>L</i></sup> (Lucianic recension).</p>
-<p id="footnote-2"><sup>2</sup> For the differentiation between versions 1 and 2 of Tg.<sup>Smr</sup> see <i>THB</i>, 1A, 235-38
-	and 239-62.
+<p id="footnote-1"><small><sup>1</sup></small> Also known as LXX<small><sup><i>L</i></sup></small> (Lucianic recension).</p>
+<p id="footnote-2"><small><sup>2</sup></small> For the differentiation between versions 1 and 2 of Tg<small><sup>Smr</sup></small> see <i>THB</i> 
+1A:235-38, 239-62.
 </p>
-<p id="footnote-3"><sup>3</sup> Vulg.<sup>PsG</sup>= <i>Psalmi iuxta Septuaginta emendati</i>= ‘Ga’ in 
+<p id="footnote-3"><small><sup>3</sup></small> Vulg.<small><sup>PsG</sup></small>= <i>Psalmi iuxta Septuaginta emendati</i>= ‘Ga’ in 
 	<i>BHS</i> and <i>BHQ</i>.
 </p>
-<p id="footnote-4"><sup>4</sup> Vulg.<sup>PsH</sup>= <i>Psalmi iuxta Hebraicum translati</i>= ‘Hier’ in <i>BHS</i>-Psalms; ‘Hbrs’ in <i>BHQ</i>.
+<p id="footnote-4"><small><sup>4</sup></small> Vulg.<small><sup>PsH</sup></small>= <i>Psalmi iuxta Hebraicum translati</i>= ‘Hier’ in <i>BHS</i>-Psalms; ‘Hbrs’ in <i>BHQ</i>.
 </p>
 
 ## General abbreviations
 
 <table style="width:100%">
   <tr>
-  	<td> adj. </td>
-  	<td>  adjective </td>
+  	<td> act.</td>
+  	<td> active</td>
   	<td> LN(N) </td>
-  	<td>  locative name(s)</td>   
+  	<td> locative name(s)</td>   
   </tr>   
   <tr>
-  	<td>Akk. </td>
-  	<td> Akkadian </td>
+  	<td> adj. </td>
+  	<td> adjective </td>
   	<td> loc. </td>
-  	<td> locative</td>   
+  	<td> locative </td>   
   </tr>   
   <tr>
-  	<td>Amor. </td>
-  	<td> Amorite </td>
+  	<td> Akk. </td>
+  	<td> Akkadian </td>
   	<td> masc. </td>
-  	<td>  masculine </td>   
+  	<td> masculine</td>   
   </tr>   
   <tr>
-  	<td>Arab. </td>
-  	<td> Arabic </td>
+  	<td> Amor. </td>
+  	<td> Amorite </td>
   	<td> MHeb. </td>
-  	<td> Middle Hebrew </td>
+  	<td> Middle Hebrew </td>   
   </tr>   
   <tr>
-  	<td>
-Aram. </td>
-  	<td> Aramaic </td>
-  	<td>  m.pl. </td>
+  	<td> ANE</td>
+  	<td> Ancient Near East</td>
+  	<td> m.pl. </td>
   	<td> masc.plural </td>   
   </tr>   
   <tr>
-  	<td> 
-Assyr. </td>
-  	<td> Assyrian </td>
-  	<td>  m.sg. </td>
-  	<td> masc.singular</td>   
+  	<td> Arab. </td>
+  	<td> Arabic </td>
+  	<td> m.sg. </td>
+  	<td> masc.singular</td>
   </tr>   
   <tr>
-  	<td>Bab.  </td>
-  	<td> Babylonian </td>
+  	<td> Aram. </td>
+  	<td> Aramaic </td>
   	<td> ms(s) </td>
   	<td> manuscript(s)</td>   
   </tr>   
   <tr>
-  	<td>BAram. </td>
-  	<td> Biblical Aramaic</td>
+  	<td> Assyr. </td>
+  	<td> Assyrian </td>
   	<td> n.d. </td>
   	<td> no date</td>   
   </tr>   
   <tr>
-  	<td>BHeb. </td>
-  	<td> Biblical Hebrew </td>
-  	<td> niph. </td>
-  	<td>  niph`al</td>   
+  	<td> Bab.  </td>
+  	<td> Babylonian </td>
+  	<td> neg.</td>
+  	<td> negative, negation</td>   
   </tr>   
   <tr>
-  	<td>deriv. </td>
-  	<td> derivative </td>
+  	<td> BAram. </td>
+  	<td> Biblical Aramaic</td>
   	<td> n.f. </td>
   	<td> feminine noun</td>   
   </tr>   
   <tr>
-  	<td>det. </td>
-  	<td>  determinative </td>
+  	<td> BHeb. </td>
+  	<td> Biblical Hebrew </td>
+  	<td> <i>niph. </td>
+  	<td> <i>niphʿal</td>   
+  </tr>   
+  <tr>
+  	<td> Can.</td>
+  	<td> Canaanite</td>
   	<td> n.m. </td>
   	<td> masculin noun</td>   
   </tr>   
   <tr>
-  	<td>DN(N) </td>
-  	<td>  divine name(s) </td>
-  	<td> NN </td>
-  	<td>  <i>nomen nescio</i>, name unknown</td>   
+  	<td> cstr.</td>
+  	<td> constructus</td>
+  	<td> NN</td>
+  	<td> <i>nomen nescio</i>, name unknown</td>   
   </tr>   
-  <tr>
-  	<td>E </td>
-  	<td>  Elohist source </td>
+	<tr>
+  	<td> deriv. </td>
+  	<td> derivative </td>
   	<td> n(n). </td>
-  	<td>  note(s)</td>   
+  	<td> note(s)</td>   
   </tr>   
   <tr>
-  	<td>Eg. </td>
-  	<td> Egyptian </td>
+  	<td> det. </td>
+  	<td> determinative </td>
+  	<td> nom. </td>
+  	<td> nominative </td>   
+  </tr>   
+  <tr>
+  	<td> DN(N) </td>
+  	<td> divine name(s) </td>
   	<td> NS </td>
   	<td> new series</td>   
   </tr>   
   <tr>
-  	<td>EHeb. </td>
-  	<td>  epigraphical Hebrew </td>
+  	<td> E </td>
+  	<td> Elohist source </td>
   	<td> NT </td>
   	<td> New Testament</td>   
   </tr>   
   <tr>
-  	<td>ESA </td>
-  	<td>  </td>
-  	<td>  OAram. </td>
-  	<td>  old Aramaic</td>   
+  	<td> Eg. </td>
+  	<td> Egyptian </td>
+  	<td> OAram. </td>
+  	<td> old Aramaic</td>   
   </tr>   
   <tr>
-  	<td>ET </td>
-  	<td> English translation </td>
-  	<td>  OSArab. </td>
-  	<td>  old south Arabic</td>   
+  	<td> EHeb. </td>
+  	<td> epigraphical Hebrew </td>
+  	<td> OSArab. </td>
+  	<td> old south Arabic</td>   
   </tr>   
   <tr>
-  	<td>Eth. </td>
-  	<td>  Ethiopic </td>
+  	<td> ESArab </td>
+  	<td> epigraphical south Arabic</td>
   	<td> OT </td>
-  	<td> Old Testament</td>   
+  	<td> Old Testament </td>   
   </tr>   
   <tr>
-  	<td>fem. </td>
-  	<td>  feminine </td>
-  	<td>  P </td>
-  	<td>  Priestly source</td>   
+  	<td> ET </td>
+  	<td> English translation </td>
+  	<td> P </td>
+  	<td> Priestly source</td>   
   </tr>   
   <tr>
-  	<td>f.pl. </td>
-  	<td> fem.plural </td>
+  	<td> Eth. </td>
+  	<td> Ethiopic </td>
   	<td> part. </td>
-  	<td>  participle</td>   
+  	<td> participle</td>   
   </tr>   
   <tr>
-  	<td>f.sg. </td>
-  	<td> fem.singular </td>
-  	<td>  pass. </td>
-  	<td>  passive</td>   
+  	<td> fem. </td>
+  	<td> feminine </td>
+  	<td> pass. </td>
+  	<td> passive</td>   
   </tr>   
   <tr>
-  	<td>frag. </td>
-  	<td> fragment </td>
+  	<td> f.pl. </td>
+  	<td> fem.plural </td>
   	<td> PBHeb. </td>
   	<td> Postbiblical Hebrew</td>   
   </tr>   
   <tr>
-  	<td>FS </td>
-  	<td> Festschrift </td>
-  	<td> pers. </td>
+  	<td> f.sg. </td>
+  	<td> fem.singular </td>
+  	<td> pers.</td>
   	<td> person</td>   
   </tr>   
   <tr>
-  	<td>GN(N) </td>
-  	<td>  geographical name(s) </td>
+  	<td>frag. </td>
+  	<td> fragment </td>
   	<td> pf./perf. </td>
   	<td> perfective</td>   
   </tr>   
   <tr>
-  	<td>Gk. </td>
-  	<td>  Greek </td>
-  	<td> Phoen. </td>
+  	<td> FS </td>
+  	<td> Festschrift </td>
+  	<td> Phoen.</td>
   	<td> Phoenician</td>   
   </tr>   
   <tr>
-  	<td>HB </td>
-  	<td> Hebrew Bible </td>
+  	<td> GN(N) </td>
+  	<td> geographical name(s) </td>
+  	<td> <i>pi.</td>
+  	<td> <i>piʿel</td>   
+  </tr>   
+  <tr>
+  	<td> Gk. </td>
+  	<td> Greek </td>
   	<td> pl. </td>
   	<td> plural</td>   
   </tr>   
   <tr>
-  	<td>Heb. </td>
+  	<td> HB </td>
+  	<td> Hebrew Bible </td>
+  	<td> PN(N) </td>
+  	<td> personal name(s)</td>   
+  </tr>   
+  <tr>
+  	<td> Heb. </td>
   	<td> Hebrew </td>
-  	<td>   PN(N) </td>
-  	<td>  personal name(s)</td>   
-  </tr>   
-  <tr>
-  	<td>hiph. </td>
-  	<td>  hiph`il </td>
   	<td> prep. </td>
-  	<td>  preposition, prepositional</td>   
+  	<td> preposition, prepositional</td>   
   </tr>   
   <tr>
-  	<td>hithp. </td>
-  	<td>  hithpa`el </td>
-  	<td> Q </td>
-  	<td>  Qere</td>   
+  	<td> <i>hiph. </td>
+  	<td> <i>hiphʿil </td>
+  	<td> pron.</td>
+  	<td> pronoun</td>   
   </tr>   
   <tr>
-  	<td>Hitt. </td>
+  	<td> <i>hithp. </td>
+  	<td> <i>hithpaʿel </td>
+  	<td> <i>pu.</td>
+  	<td> <i>puʿal</td>   
+  </tr>   
+  <tr>
+  	<td> Hitt. </td>
   	<td> Hittite </td>
-  	<td> <i>s.a.</i> </td>
-  	<td>  <i>sine anno</i></td>   
+  	<td> Q</td>
+  	<td> Qere</td>   
   </tr>   
   <tr>
-  	<td>hoph. </td>
-  	<td>  hoph`al </td>
-  	<td> Sam. </td>
+  	<td> <i>hoph. </td>
+  	<td> <i>hophʿal </td>
+  	<td> <i>s.a.</i></td>
+  	<td> <i>sine anno</i></td>   
+  </tr>   
+  <tr>
+  	<td> Hur. </td>
+  	<td> Hurrian </td>
+  	<td> Sam.</td>
   	<td> Samaritan</td>   
   </tr>   
   <tr>
-  	<td>Hur. </td>
-  	<td> Hurrian </td>
+  	<td> impv. </td>
+  	<td> imperative </td>
   	<td> Sem. </td>
   	<td> Semitic</td>   
   </tr>   
   <tr>
-  	<td>impv. </td>
-  	<td>  imperative </td>
+  	<td> impf. </td>
+  	<td> imperfective </td>
+  	<td> sf.</td>
+  	<td> suffix</td>   
+  </tr>   
+  <tr>
+  	<td> inf.abs.</td>
+  	<td> infinitive absolute</td>
   	<td> sg. </td>
   	<td> singular</td>   
   </tr>   
   <tr>
-  	<td>impf. </td>
-  	<td>  imperfective </td>
-  	<td> subst. </td>
+  	<td> inf.cstr. </td>
+  	<td> infinitive construct </td>
+  	<td> Soq.</td>
+  	<td> Soqotri</td>   
+  </tr>   
+  <tr>
+  	<td> intrans.</td>
+  	<td> intransitive</td>
+  	<td> subst.</td>
   	<td> substantive, substantival</td>   
   </tr>   
   <tr>
-  	<td> inf.cstr. </td>
-  	<td> infinitive construct </td>
-  	<td> <i>s.v.</i> </td>
-  	<td>  <i>sub voce</i></td>   
+  	<td> J </td>
+  	<td> Yahwist source </td>
+  	<td> Sum.</td>
+  	<td> Sumerian</td>   
   </tr>   
   <tr>
-  	<td>J </td>
-  	<td>  Yahwist source </td>
-  	<td> Syr. </td>
-  	<td>  Syriac</td>   
-  </tr>   
-  <tr>
-  	<td>JAram. </td>
+  	<td> JAram. </td>
   	<td> Jewish Aramaic </td>
-  	<td> TN(N) </td>
-  	<td>  tribal name(s)</td>   
+  	<td> <i>s.v.</i></td>
+  	<td> <i>sub voce</i></td>   
   </tr>   
   <tr>
-  	<td>K </td>
-  	<td>  Ketib </td>
-  	<td> Ug. </td>
-  	<td> Ugaritic</td>   
+  	<td> K </td>
+  	<td> Ketib </td>
+  	<td> Syr. </td>
+  	<td> Syriac</td>   
   </tr>   
   <tr>
   	<td> LBHeb. </td>
   	<td> late biblical Hebrew </td>
-  	<td> vb </td>
-  	<td> verb<br> 
- 	</td>   
+  	<td> TN(N) </td>
+  	<td> tribal name(s)</td>   
+  </tr>   
+  <tr>
+  	<td> l(l).</td>
+  	<td> line(s)</td>
+  	<td> Ug. </td>
+  	<td> Ugaritic</td>   
   </tr>   
   <tr>
   	<td> LMHeb. </td>
-  	<td>  late Hebrew (mishnaic)</td>   
-  	<td>  </td>
-  	<td> <br> 
- 	</td>   
+  	<td> late Hebrew (mishnaic)</td>   
+  	<td> vb.</td>
+  	<td> verb</td>   
   </tr>   
  </table>
 
@@ -1178,7 +1215,7 @@ CBQMS<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>CDG</i><br>
-	Wolf Leslau, <i>Comparative Dictionary of Ge`ez
+	Wolf Leslau, <i>Comparative Dictionary of Geʿez
 	(Classical Ethiopic)</i>, Wiesbaden: Harrassowitz, 1987 (repr. 1991)
 </div>
 

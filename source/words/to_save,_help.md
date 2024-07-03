@@ -108,10 +108,7 @@ been thought that Qal forms of the verb, which do not occur in BH, may
 be present (Noth 1928:36, 176).
 
 
-<b>A.2</b>  The Proto-Semitic root *<i>yṯʿ</i> now seems to lie behind Hebrew
-<span dir="rtl" lang="he">יָשַׁע</span>,
- being attested in proper names in NWSem and most of the ESA
-languages. The Ug evidence attests to the second consonant being <i>ṯ</i>
+<b>A.2</b>  The Proto-Semitic root *<i>yṯʿ</i> now seems to lie behind Hebrew <span dir="rtl" lang="he">יָשַׁע</span>,  being attested in proper names in NWSem and most of the early south Arab. languages. The Ug evidence attests to the second consonant being <i>ṯ</i>
 (Sawyer 1975:78). This new evidence counters some earlier
 interpretations based on Arab (see B.1). The main arguments outlined by
 Sawyer (1975) are the evidence of proper names in NWSem (A.3, A.4,
@@ -185,9 +182,8 @@ element, as in the Hebrew hiphil.
 (Cantineau 1930–32:II, 105).
 
 
-<b>A.10</b>  The root <i>yṯʿ</i> is attested in proper names in Epigraphic South
-Arabian (Ryckmans 1934–35:II, 10, 75–76), some of them very common.
-Müller (1963:310; cf. <i>HAL</i>, 427) suggested associating יָשַׁע with ESA
+<b>A.10</b>  The root <i>yṯʿ</i> is attested in proper names in epigraphic south Arab. (Ryckmans 1934–35:II, 10, 75–76), some of them very common.
+Müller (1963:310; cf. <i>HAL</i>, 427) suggested associating יָשַׁע with epigraphic south Arab.
  <i>wsʿ</i> = ‘reichlich geben, reichlich versorgen mit’, but this does not
 seem to have been widely adopted. Many North Arabian personal names also
 include the element <i>yṯʿ</i> (see Müller 1979, who proposed an association
@@ -244,7 +240,7 @@ considerations rather than related underlying etymologies (cf. Sawyer
 <b>B.2</b>  The possibility that both <i>yṯʿ</i>&nbsp; and Arab. <i>wasiʿa</i> might go back to a
 common Proto-Semitic original was apparently envisaged by KBL (412), and
 the North-West Semitic evidence for <i>yṯʿ</i> might have developed from a
-Proto-Semitic *<i>wṯʿ</i>. But this is unlikely for ESA.,
+Proto-Semitic *<i>wṯʿ</i>. But this is unlikely for epigraphic south Arab.,
 where an initial <i>waw</i> is normally preserved, and the problem of <i>ṯ</i> =
 Arab. <i>s</i> noted by Sawyer (above, B.1) remains. The apparent use of <i>s</i> to
 represent 
