@@ -814,7 +814,7 @@ Adrados, <i>DGE</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>AEAD</i><br>
-	Simo Parpola <i>et al.</i> (eds), <i>Assyrian-English-Assyrian Dictionary</i>, 
+	Simo Parpola <i>et al.</i> (eds.), <i>Assyrian-English-Assyrian Dictionary</i>, 
 	Helsinki 2007
 </div>
 
@@ -831,7 +831,7 @@ Adrados, <i>DGE</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>AEMT</i><br>
-	Paul T. Nicholson, Ian Shaw, & Fekri A. Hassan (eds),
+	Paul T. Nicholson, Ian Shaw, & Fekri A. Hassan (eds.),
 	<i>Ancient Egyptian Materials and Technology</i>,
 	Cambridge 2000
 </div>
@@ -850,7 +850,7 @@ Adrados, <i>DGE</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 AGJU <br>
-
+Arbeiten zur Geschichte des antiken Judentums und des Urchristentums (Leiden: Brill)
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -918,6 +918,11 @@ ANESSup (formerly: AbrNSup)<br>
 James B. Pritchard (ed.), <i>Ancient Near Eastern Texts
           Relating to the Old Testament</i>, 
           Princeton, NJ: Princeton University Press, <sup>3</sup>1969 
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+ArBib<br>
+	The Aramaic Bible: The Targums (Edinburgh: T&T Clark; Collegeville MN: Liturgical Press) 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1003,7 +1008,7 @@ Sira Texts</i> (VTS, 68), Leiden: Brill 1997
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>BHH</i><br>
-	Bo Reicke & Leonhard Rost (eds), <i>Biblisch-historisches Handwörterbuch</i>, 4 vols.,
+	Bo Reicke & Leonhard Rost (eds.), <i>Biblisch-historisches Handwörterbuch</i>, 4 vols.,
 		Göttingen 1962-79
 </div>
 
@@ -1025,7 +1030,7 @@ Sira Texts</i> (VTS, 68), Leiden: Brill 1997
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>BHQ</i><br>
-	Adrian Schenker <i>et al.</i> (eds), <i>Biblia Hebraica Quinta editione
+	Adrian Schenker <i>et al.</i> (eds.), <i>Biblia Hebraica Quinta editione
 	cum apparatu critico novis curis elaborato</i>, Stuttgart: Deutsche Bibelgesellschaft,  2004-
 </div>
 
@@ -1079,7 +1084,6 @@ Sira Texts</i> (VTS, 68), Leiden: Brill 1997
 	Stuttgart: Deutsche Bibelgesellschaft,  2004
 </div>
 
-
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>BHQ</i> 20<br>
 	<i>Biblia Hebraica Quinta editione cum apparatu critico novis curis elaborato</i>,
@@ -1089,7 +1093,7 @@ Sira Texts</i> (VTS, 68), Leiden: Brill 1997
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>BHS</i><br>
-	Karl Elliger  & Wilhelm Rudolph (eds), <i>Biblia Hebraica Stuttgartensia</i>,
+	Karl Elliger  & Wilhelm Rudolph (eds.), <i>Biblia Hebraica Stuttgartensia</i>,
 	Stuttgart: Deutsche Bibelgesellschaft,  1967-77
 </div>
 
@@ -1101,7 +1105,7 @@ Sira Texts</i> (VTS, 68), Leiden: Brill 1997
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Bib <br>
-
+<i>Biblica</i> (Rome: Pontificial Biblical Institute; Leuven: Peeters)
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1118,6 +1122,11 @@ BibInt.S<br>
 BibOr<br>
 	Biblica et Orientalia
 	(Rome: Pontifical Biblical Institute)
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+BJS <br>
+Brown Judaic Studies (Atlanta, GA: SBL Press) 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1141,13 +1150,13 @@ BL<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>BNP</i><br>
-	Hubert Cançik <i>et al.</i> (eds), <i>Brill’s New Pauly: Encyclopaedia of the Ancient World</i>,
+	Hubert Cançik <i>et al.</i> (eds.), <i>Brill’s New Pauly: Encyclopaedia of the Ancient World</i>,
 	vol. 1-, Leiden: Brill, 2002-
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 BOT <br>
-
+De Boeken van het Oude Testament (Roermond: Romen) 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1195,6 +1204,11 @@ BZAW<br>
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>CAmhD</i><br>
 	Wolf Leslau, <i>Concise Amharic Dictionary</i>, Berkeley: University of California Press, 1976
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+CBC <br>
+Cambridge Bible Commentary (Cambridge: Cambridge University Press) 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1252,7 +1266,7 @@ CBQMS<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>COS</i><br>
-	William W. Hallo & K. Lawson Younger (eds),
+	William W. Hallo & K. Lawson Younger (eds.),
 	<i>The Context of Scripture</i>, 4 vols., Leiden: Brill,  1997-2016
 </div>
 
@@ -1367,7 +1381,7 @@ Français-Arabe</i>,
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>DBHast</i><br>
-	James Hastings <i>et al.</i> (eds), <i>A Dictionary of the Bible</i>, 4 vols.,
+	James Hastings <i>et al.</i> (eds.), <i>A Dictionary of the Bible</i>, 4 vols.,
 	Edinburgh: T&T Clark, 1889-1902
 </div>
 
@@ -1380,13 +1394,13 @@ Français-Arabe</i>,
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>DBImag</i><br>
-	Leland Ryken <i>et al.</i> (eds), <i>Dictionary of Biblical Imagery</i>,
+	Leland Ryken <i>et al.</i> (eds.), <i>Dictionary of Biblical Imagery</i>,
 	Downers Grove, IL: Inter Varsity Press, 1998
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>DB.S</i><br>
-	Louis Pirot <i>et al.</i> (eds), <i>Dictionnaire
+	Louis Pirot <i>et al.</i> (eds.), <i>Dictionnaire
 	de la Bible: Supplément</i>, t. 1-, Paris: Letouzey et Ané, 1928-
 </div>
 
@@ -1404,13 +1418,13 @@ Français-Arabe</i>,
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>DDD</i><br> Karel van der Toorn <i>et al.</i> (eds),
+<i>DDD</i><br> Karel van der Toorn <i>et al.</i> (eds.),
 	<i>Dictionary of Deities and Demons in the Bible</i>, Leiden: Brill,  1995
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>DDD</i><sup> 2</sup><br> 
-Karel van der Toorn <i>et al.</i> (eds),
+Karel van der Toorn <i>et al.</i> (eds.),
 	<i>Dictionary of Deities and Demons in the Bible</i>,
 	2nd ed.,
 	Leiden: Brill/Grand Rapids, MI: Eerdmans, 1999
@@ -1436,7 +1450,7 @@ DJD<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>DNP</i><br>
-	Hubert Cançik <i>et al.</i> (eds), <i>Der Neue Pauly: Enzyklopädie der Antike</i>,
+	Hubert Cançik <i>et al.</i> (eds.), <i>Der Neue Pauly: Enzyklopädie der Antike</i>,
 	16 vols., Stuttgart: J.B. Metzler 1996-2003
 </div>
 
@@ -1510,13 +1524,13 @@ DJD<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>EncB</i><br>
-	 Thomas K. Cheyne & John Sutherland Black (eds), <i>Encyclopaedia Biblica</i>,
+	 Thomas K. Cheyne & John Sutherland Black (eds.), <i>Encyclopaedia Biblica</i>,
 	 4 vols., London: Black, 1899-1907
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>EncM</i><br>
-	Eleazar L. Sukenik & Umberto Cassuto (eds),
+	Eleazar L. Sukenik & Umberto Cassuto (eds.),
 	 אנציקלופדיה מקראית: אוצר הידיעות על המקרא ותקופתו
 	 (<i>Biblical Encyclopaedia: Thesaurus of the Bible and its Periods</i>),
 	 9 vols., Jerusalem: Mosad Bialik; Hebrew University Jerusalem, 1950-88
@@ -1530,9 +1544,15 @@ DJD<br>
 
 ### <p id="footnote-f">F. 
 
+
+<div style="padding-left: 22px; text-indent: -22px;">
+FB <br>
+	 Forschung zur Bibel (Würzburg: Echter)
+</div>
+
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>Feasting</i><br>
-	 Peter Altmann & Janling Fu (eds),
+	 Peter Altmann & Janling Fu (eds.),
 	 <i>Feasting in the Archaeology and Texts of the Bible and the
 	 Ancient Near East</i>, Winona Lake, IN: Eisenbrauns, 2014
 </div>
@@ -1583,7 +1603,7 @@ GB<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ges<sup>18</sup><br>
-	Herbert Donner <i>et al.</i> (eds), <i>Wilhelm
+	Herbert Donner <i>et al.</i> (eds.), <i>Wilhelm
 	Gesenius Hebräisches und Aramäisches Handwörterbuch
 	über das Alte Testament</i>, 18th ed., 6 Lieferungen 
 	mit Supplementband, Heidelberg: Springer,
@@ -1649,7 +1669,7 @@ GNTB<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>HAAIB</i><br>
-	 Assaf Yasur-Landau, Laura B. Mazow & Jennie R. Ebeling (eds), 
+	 Assaf Yasur-Landau, Laura B. Mazow & Jennie R. Ebeling (eds.), 
 	 <i>Household Archaeology in Ancient Israel and Beyond</i> (CHANE, 50), 
 	 Leiden: Brill, 2011
 </div>
@@ -1724,7 +1744,7 @@ HerBSt<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>HI</i><br>
-	 Frederick W. Dobbs-Alsopp <i>et al.</i> (eds), <i>Hebrew Inscriptions:
+	 Frederick W. Dobbs-Alsopp <i>et al.</i> (eds.), <i>Hebrew Inscriptions:
 	 Texts from the Biblical Period of the Monarchy with Concordance</i>, 
 	 New Haven, CT: Yale University Press, 2004
 </div>
@@ -1755,14 +1775,21 @@ HKAT<br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-HRCS<br>
+HRCS<small><sup>1</sup></small><br>
 	Edwin Hatch & Henry A. Redpath,
 	<i>A Concordance to the Septuagint
 	and the Other Greek Versions of the Old Testament
 	(Including the Apocryphal Books)</i>
 	Oxford: Clarendon, 1897-1906
-	(repr. Grand Rapids, MI: Baker, 1983;
-	<sup>2</sup>1998)
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+HRCS<small><sup>2</sup></small><br>
+	Edwin Hatch & Henry A. Redpath,
+	<i>A Concordance to the Septuagint
+	and the Other Greek Versions of the Old Testament
+	(Including the Apocryphal Books)</i>,
+	2nd ed., Grand Rapids, MI: Baker, 1998
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1782,7 +1809,7 @@ HRCS<br>
 <i>HW</i><br>
 	Johannes Friedrich & Annelies Kammenhuber, <i>Hethitisches 
 	Wörterbuch</i>, vol.1–,
-	Heidelberg: Winter, <sup>2</sup>1975–
+	Heidelberg: Winter, <sup>2</sup>1984–
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1796,12 +1823,17 @@ HRCS<br>
 ### <p id="footnote-i">I.
 
 <div style="padding-left: 22px; text-indent: -22px;">
+<i>IBC</i><br>
+	  Interpretation: A Bible Commentary for Teaching
+	  and Preaching (Louisville: Westminster John Knox)
+	  </div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
 <i>IBD</i><br>
-	  James D. Douglas <i>et al.</i> (eds), 
+	  James D. Douglas <i>et al.</i> (eds.), 
 	  <i>The Illustrated Bible Dictionary</i>, 4 vols., 
 	  Leicester: Inter-Varsity Press, 1980
 </div>
-
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>IBHS</i><br>
@@ -1812,7 +1844,7 @@ HRCS<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>IBoT</i> <br>
-#### <i>İstanbul Arkeoloji Müzelerinde Bulunan Boğazköy Tabletleri</i>, Istanbul, 1944–
+	<i>İstanbul Arkeoloji Müzelerinde Bulunan Boğazköy Tabletleri</i>, Istanbul, 1944–
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1913,6 +1945,14 @@ JSOTSup<br>
 	<i>Journal of Semitic Studies</i> (Oxford: Oxford University Press)
 </div>
 
+<div style="padding-left: 22px; text-indent: -22px;">
+<i>JTS</i><br>
+	<i>Journal of Theological Studies</i> 
+	(Oxford: Clarendon; Oxford University Press)
+</div>
+
+
+
 ### <p id="footnote-k">K.
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1945,6 +1985,12 @@ KBS<br> <i>De Bijbel uit de grondtekst vertaald: Willibrordvertaling</i>,
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
+KEHAT<br> 
+	Kurzgefasstes Exegetisches Handbuch zum Alten 
+	Testament (Leipzig: Hirzel)
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
 <i>KH</i><br>
 	  Wolfhart Westendorf, 
 	  <i>Koptisches Handwörterbuch</i>
@@ -1960,6 +2006,12 @@ KBS<br> <i>De Bijbel uit de grondtekst vertaald: Willibrordvertaling</i>,
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
+KHC<br> 
+	Kurzer Hand-Commentar zum Alten 
+	Testament (Freiburg i.Br: Mohr)
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
 <i>KHW</i><br>
 	 Johannes Friedrich <i>et al.</i>, 
 	 <i>Kurzgefasstes Hethitisches Wörterbuch: 
@@ -1967,7 +2019,7 @@ KBS<br> <i>De Bijbel uit de grondtekst vertaald: Willibrordvertaling</i>,
 	 Heidelberg: Winter, 1952;
 	 1. Ergänzungsheft, Heidelberg: Winter, 1957; 
 	 2. Ergänzungsheft, Heidelberg: Winter, 1961;
-	 3.Ergänzungsheft, Heidelberg: Winter, 1966
+	 3. Ergänzungsheft, Heidelberg: Winter, 1966
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2013,6 +2065,12 @@ KJV<br>
 	 Wolfgang Helck, Eberhard Otto & Wolfhart Westendorf (Hrsg.),
 	 <i>Lexikon der Ägyptologie</i>, 7 vols., Wiesbaden: Harrassowitz, 
 	 1972-92
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+LAI<br> 
+	Library of Ancient Israel 
+	(Louisville: Westminster John Knox)
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2206,12 +2264,23 @@ NBV21<br>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
+NCBC<br> 
+	The New Century Bible Commentary (Grand Rapids:
+	Eerdmans)
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
 NEB<br> 
 	The New English Bible (1970)
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>NETS</i><br> Albert Pietersma & Benjamin G. Wright (eds),
+NEchtB<br> 
+	Neue Echter Bibel (Würzburg: Echter)
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+<i>NETS</i><br> Albert Pietersma & Benjamin G. Wright (eds.),
 	<i>A New English Translation of the Septuagint and the Other
 	Greek Translations Traditionally Included under That Title</i>,
 	New York: Oxford University Press, 2007
@@ -2252,9 +2321,29 @@ NRSV<br>
 ### <p id="footnote-o">O. 
 
 <div style="padding-left: 22px; text-indent: -22px;">
+OBO<br> 
+	Orbis Biblicus et Orientalis 
+	(Freiburg: Universitätsverlag Freiburg; 
+	Göttingen: Vandenhoeck & Ruprecht) 
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+OBO.SA<br> 
+	Orbis Biblicus et Orientalis, Series Archaeologica 
+	(Freiburg: Universitätsverlag Freiburg; 
+	Göttingen: Vandenhoeck & Ruprecht) 
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
 <i>OLD</i><br>
-	 Peter G.W. Glare <i>et al.</i> (eds), <i>Oxford Latin Dictionary</i>,
+	 Peter G.W. Glare <i>et al.</i> (eds.), <i>Oxford Latin Dictionary</i>,
 	Oxford: Clarendon,  1982
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+OTL<br> 
+	Old Testament Library
+	(London: SCM) 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2316,11 +2405,28 @@ REB<br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>RLA</i><br>
-	 Erich Ebeling <i>et al.</i> (eds),
+	 Erich Ebeling <i>et al.</i> (eds.),
 	<i>Reallexikon der Assyriologie</i>, Bd. 1-,
 	Berlin: de Gruyter, 1928-
 </div>
 
+<div style="padding-left: 22px; text-indent: -22px;">
+<i>RGG</i><sup><small> 3</small></sup><br>
+	  Hans E. von Campenhausen and Kurt Galling (eds.), 
+	  <i>Die Religion in Geschichte und Gegenwart: 
+	  Handwörterbuch für Theologie und 
+	  Religionswissenschaft</i>, 3rd ed.,
+	 7 vols. (Tübingen: Mohr Siebeck, 1957-65)
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+<i>RGG</i><sup><small> 4</small></sup><br>
+	  Hans D. Betz (ed.), 
+	  <i>Die Religion in Geschichte und Gegenwart: 
+	  Handwörterbuch für Theologie und 
+	  Religionswissenschaft</i>, 4th ed.,
+	 9 vols. (Tübingen: Mohr Siebeck, 1998-2007)
+</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>RSP</i><br>
@@ -2404,9 +2510,16 @@ Salonen, <i>Vögel</i><br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>SBLDS</i><br>
+SBLDS<br>
 	 Society of Biblical Literature Dissertation Series 
-	 (Atlanta: Society of Biblical Literature)
+	 (Atlanta: SBL Press)
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+SBLSBS<br>
+	 Society of Biblical Literature 
+	 Sources for Biblical Study 
+	 (Atlanta: SBL Press)
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2458,6 +2571,12 @@ Salonen, <i>Vögel</i><br>
 	  Jehuda L. Palache, <i>Semantic Notes on the Hebrew Lexicon</i>
 	  (tr. and ed. by R.J. Zwi Werblowsky),
 	Leiden: Brill,  1959
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+SNTSMS<br>
+	 Society for New Testament Studies Monograph Series
+	 (Cambridge: Cambridge University Press)
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2562,14 +2681,14 @@ Tal, <i>DSA</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>TDNT</i><br>
-	 Gerhard Kittel <i>et al.</i> (eds), <i>Theological Dictionary of the New Testament</i>,
+	 Gerhard Kittel <i>et al.</i> (eds.), <i>Theological Dictionary of the New Testament</i>,
 	 10 vols., tr. and ed. by Geoffrey W. Bromiley,
 	 Grand Rapids, MI: Eerdmans Publishing, 1964-76
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>TDOT</i><br>
-	 G. Johannes Botterweck <i>et al.</i> (eds),
+	 G. Johannes Botterweck <i>et al.</i> (eds.),
 	<i>Theological Dictionary of the Old Testament</i>,
 	16 vols., tr. by John T. Willis,
 	Grand Rapids, MI: Eerdmans Publishing, 1974-2018
@@ -2577,7 +2696,7 @@ Tal, <i>DSA</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>THAT</i><br>
-	 Ernst Jenni & Claus Westermann (eds), 
+	 Ernst Jenni & Claus Westermann (eds.), 
 	 <i>Theologisches Handwörterbuch
 	 zum Alten Testament</i>, 2 vols., 
 	 München: Kaiser, 1971-76
@@ -2585,7 +2704,7 @@ Tal, <i>DSA</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>THB</i><br> 
-	Armin Lange & Emanuel Tov (eds),
+	Armin Lange & Emanuel Tov (eds.),
 	<i>Textual History of the Bible: The Hebrew Bible</i>,
 	Volumes 1<small>A-C</small>,
 	Leiden: Brill,  2016-17
@@ -2593,20 +2712,20 @@ Tal, <i>DSA</i><br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>ThWAT</i><br>
-	 G. Johannes Botterweck <i>et al.</i> (eds),
+	 G. Johannes Botterweck <i>et al.</i> (eds.),
 	<i>Theologisches Wörterbuch zum Alten Testament</i>, 10 vols.,
 	Stuttgart: Kohlhammer, 1973-2015
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>ThWNT</i><br>
-	 Gerhard Kittel <i>et al.</i> (eds), <i>Theologisches Wörterbuch zum Neuen Testament</i>,
+	 Gerhard Kittel <i>et al.</i> (eds.), <i>Theologisches Wörterbuch zum Neuen Testament</i>,
 	 10 vols., Stuttgart: Kohlhammer, 1933-79
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>ThWQ</i><br>
-Heinz-Josef Fabry & Ulrich Dahmen (eds), <i>Theologisches Wörterbuch zu den Qumrantexten</i>, 3 vols., Stuttgart: Kohlhammer, 2011-16
+Heinz-Josef Fabry & Ulrich Dahmen (eds.), <i>Theologisches Wörterbuch zu den Qumrantexten</i>, 3 vols., Stuttgart: Kohlhammer, 2011-16
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2620,6 +2739,14 @@ Heinz-Josef Fabry & Ulrich Dahmen (eds), <i>Theologisches Wörterbuch zu den Qum
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
+<i>TRE</i><br>
+	Horst R. Balz, Gerhard Krause, Gerhard Müller, 
+	and Siegfried Schwertner (eds.),
+	<i>Theologische Realenzyklopädie</i>, 
+	36 vols., Berlin: de Gruyter, 1977-2007
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
 <i>TUAT</i><br> 
 	Otto Kaiser (ed.), <i>Texte aus der Umwelt des Alten Testaments</i>, 
 	Gütersloh: Mohn, 1984-2001
@@ -2627,7 +2754,7 @@ Heinz-Josef Fabry & Ulrich Dahmen (eds), <i>Theologisches Wörterbuch zu den Qum
 
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>TUAT.NF</i><br> 
-	Otto Kaiser <	i>et al.</i> (eds),
+	Otto Kaiser <	i>et al.</i> (eds.),
 	<i>Texte aus der Umwelt des Alten Testaments: Neue Folge</i>, 
 	Gütersloh: Mohn, 2004-
 </div>
