@@ -111,7 +111,7 @@ Pss 111:9<small><sup>K</sup></small>;
 <b>B.1</b>  The divergent renderings by words meaning ‘distinction, division’ in Exod 8:19 in LXX, Pesh and Vg raise the question whether the word in the text there is really  <span dir="rtl">פְדוּת</span>, ‘redemption’ (see <a href="#TDA1">Text Doubtful A.1</a>).
 
 <b>B.2</b> The aberrant rendering of <span dir="rtl">פְּדוּת</span> by the similar Syriac verb with a
-quite different meaning (‘to miss, fail’) in Isa 50:2 was probably due to the misreading of the previous phrase as a reference to harvest, through a confusion of two homonyms <span dir="rtl">קצר</span>. Syr. <span dir="rtl">ܦܕܕ</span> (<i>pdd</i>) is found elsewhere with <span dir="rtl">ܐܝܕܐ</span> (<i>ʾydʾ </i>), ‘hand’, subject, and Pesh’s rendering could be read interrogatively (cf. Jer 8:19).
+quite different meaning (‘to wander away’) in Isa 50:2 was probably due to the misreading of the previous phrase.
 
 ## 5. Lexical/Semantic Fields
 

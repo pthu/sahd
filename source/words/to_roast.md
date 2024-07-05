@@ -3,7 +3,7 @@ word_english: to_roast
 word_hebrew: צלה  
 title:   
 semantic_fields: food preparation    
-contributors: Kurtis Peters     
+contributors: kurtis_peters     
 first_published: 2014-11-30   
 last_update: 2024-06-30   
 update_info:  

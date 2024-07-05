@@ -3,7 +3,7 @@ word_english: redemption_price
 word_hebrew: פְּדוּיִם    
 title: redemption price, ransom   
 semantic_fields: deliverance   
-contributors: alison gray        
+contributors: alison_gray        
 first_published: 2007-08-31   
 last_update: 2024-06-30 (Raymond de Hoop)   
 update_info:  

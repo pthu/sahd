@@ -227,19 +227,18 @@ a mistake on the translator’s part, or evidence of a different Hebrew <i>Vorla
 
 <b>Aquila</b>:
 
-* λυτρόω middle, ‘to release, redeem’: Exod 13:13<small><sup>1st,2nd</sup></small>; Isa 29:22[?]; Jer 15:21;
-* λυτρόω passive, ‘to be ransomed, redeemed’: Isa 1:27.
+* λυτρόω middle, ‘to release, redeem’: Exod 13:13<small><sup>1st,2nd</sup></small>; 
+* ῥύομαι, ‘to rescue’: Jer 15:21.
 
 <b>Symmachus</b>: 
 
-* λυτρόω middle, ‘to release, redeem’: Exod 13:13<small><sup>1st,2nd</sup></small>; Isa 29:22; Jer 15:21; Pss 49:8 [2x]; 71:23;
-* λυτρόω passive, ‘to be ransomed, redeemed’: Isa 1:27;
-* ῥύομαι, ‘to rescue’: 2 Sam 4:9; Ps 78:42.
+* λυτρόω middle, ‘to release, redeem’: Exod 13:13<small><sup>1st,2nd</sup></small>; Isa 29:22; Pss 49:8[2x]; 71:23;
+* ῥύομαι, ‘to rescue’: 2 Sam 4:9; Jer 15:21; Ps 78:42.
 
 <b>Theodotion</b>: 
 
-* λυτρόω middle, ‘to release, redeem’: Exod 13:13<small><sup>1st,2nd</sup></small>; Isa 29:22[?]; Jer 15:21;
-* λυτρόω passive, ‘to be ransomed, redeemed’: Isa 1:27.
+* λυτρόω middle, ‘to release, redeem’: Exod 13:13<small><sup>1st,2nd</sup></small>; 
+* ῥύομαι, ‘to rescue’: Jer 15:21.
 
 <b>Other</b>, ἄλλος (Symm.?): 
 
@@ -248,7 +247,7 @@ a mistake on the translator’s part, or evidence of a different Hebrew <i>Vorla
 
 <b>A.1</b>  The strongest tendency among the Three is to eliminate other renderings in favour of λυτρόω.
 
-<b>A.2</b>  Symmachus, however, has ῥύομαι in two, possibly three, non-technical instances where LXX has λυτρόω, thus preferring the less specialised equivalent.
+<b>A.2</b>  Symmachus, however, has ῥύομαι in three non-technical instances where LXX has λυτρόω, thus preferring the less specialised equivalent.
 
 <b>b. Peshitta (Pesh)</b>:
 
@@ -261,7 +260,7 @@ a mistake on the translator’s part, or evidence of a different Hebrew <i>Vorla
 Sam 14:45; 2 Sam 4:9; 7:23[2x]; 1 Kgs 1:29; Isa 29:22; 35:10= 51:11;
 Jer 15:21; 31:11; Hos 7:13; 13:14; Mic 6:4; Zech 10:8; Pss 25:22; 26:11;
 31:6; 34:23; 44:27; 49:8, 16; 69:19; 71:23; 78:42; 119:134; 130:8; Job
-5:20; 33:28; Neh 1:10; 1 Chron 17:21;
+5:20; 33:28; Neh 1:10; 1 Chron 17:21<small><sup>1st</sup></small>;
 * <span dir="rtl">ܫܘܙܒ</span>
 (<i>šwzb</i>), ‘to save, deliver, preserve’: Sir 51:12.
 
@@ -633,6 +632,6 @@ Reuven Yaron, ‘A Document of Redemption from Ugarit’, <i>VT</i> 10:83-90.
 
 ## Notes 
 
-[^1]: The three versions Aquila (αʹ), Symmachus (σʹ), and Theodotion (θʹ) are given according to the most recent authorities, even where there may be suspicion about the attribution.
+[^1]: The three versions Aquila (αʹ), Symmachus (σʹ), and Theodotion (θʹ) are given according to Field<sup>I</sup> and Field<sup>II</sup>.
 [^2]: Tg<small><sup>Frg</sup></small> is only extant in Lev 27:27, 29, for the equivalents of the verb <span dir="rtl">פדה</span> in ms Vatican Ebr. 440, Folios 198-227.
 

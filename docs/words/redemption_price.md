@@ -4,7 +4,7 @@
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[Alison Gray](../contributors/alison gray.md)<br>
+[Alison Gray](../contributors/alison_gray.md)<br>
 First published: 2007-08-31<br>Last update: 2024-06-30 (Raymond de Hoop) <br>Citation: Alison Gray, פְּדוּיִם – redemption price, ransom, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2007 (update: 2024)
 
 
