@@ -287,37 +287,37 @@ walled city’ (Lev 25:30); אָח (from v. 47), ‘brother’ (Lev 25:49 [+ <sp
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ):</b>[^3]
 
-[^3]: The three versions Aquila (αʹ), Symmachus (σʹ), and Theodotion (θʹ) are given according to the most recent authorities, even where there may be suspicion about the attribution. Their testimony is indicated by their sigla (if applicable including a reference to LXX). In all other cases the textual references are to the LXX.
+[^3]: The three versions Aquila (αʹ), Symmachus (σʹ), and Theodotion (θʹ) are given according to Field<sup>I</sup> and Field<sup>II</sup>. Their testimony is indicated by their sigla (if applicable including a reference to LXX). In all the other cases the textual references are to the LXX.
 
 
 Qal:  
 
-*  ἀγχιστεύς, ‘nearest of kin’:[^4] 1 Kgs 16:11; Isa 41:14<sup><small>θʹ</small></sup>; Job 19:25<sup><small>θʹ</small></sup>; Prov 23:11<sup><small>θʹ</small></sup>; Ruth 3:9, 12 (2x), 4:3, 6, 8, 14; Prov 23:11<sup><small>σʹ</small></sup>;
+*  ἀγχιστεύς, ‘nearest of kin’:[^4] 1 Kgs 16:11; Isa 59:20<sup><small>σʹθʹ</small></sup>; 60:16<sup><small>αʹ</small></sup>; Ps 78:35<sup><small>αʹ</small></sup>; Job 19:25<sup><small>θʹ</small></sup>; Prov 23:11<sup><small>αʹσʹθʹ</small></sup>; Ruth 3:9, 12 (2x), 4:3, 6, 8, 14;
 *  ἀγχιστεύς + τοῦ αἷματος, ‘entitled to avenge a kinsman’s death’: 2 Sam 14:11;
-*  ἀγχιστευτής, ‘nearest of kin’: Isa 41:14<sup><small>αʹ</small></sup>; 54:5<sup><small>αʹ</small></sup>, 8<sup><small>αʹ</small></sup>; 60:16<sup><small>αʹ</small></sup>; 63:16(?)<sup><small>αʹ</small></sup>; Ps 78:35<sup><small>αʹ</small></sup>; Prov 23:11<sup><small>αʹ</small></sup>; Ruth 4:1;
-*  ἀγχιστεύω(ν),[^Aq] ‘to be near in blood-relationship, to act as nearest of kin’: Gen 48:16<sup><small>αʹ</small></sup>; Lev 25:25<sup><small>1st</small></sup>, 26; Num 5:8; 35:12, 19, 21, 24, 25, 27 (2x); Deut 19:6, 12; Josh 20:3, 5, 9; Isa 35:9<sup><small>αʹσʹ</small></sup>; 47:4<sup><small>αʹ</small></sup>; 49:7<sup><small>αʹθʹ</small></sup>; 52:3<sup><small>αʹ</small></sup>; 59:20<sup><small>αʹσʹ</small></sup>, 62:12<sup><small>αʹ</small></sup>; 63:16<sup><small>αʹ</small></sup>(?); Jer 31:11<sup><small>αʹ</small></sup>; Pss 19:15<sup><small>αʹ</small></sup>; 72:14<sup><small>αʹ</small></sup>; 103:4<sup><small>αʹ</small></sup>; 107:2<sup><small>αʹ</small></sup>; 119:154<sup><small>αʹ</small></sup>; Job 3:5<sup><small>θʹ</small></sup>; Ruth 2:20; 3:13(4x); 4:4(5x), 6(3x);
+*  ἀγχιστευτής, ‘nearest of kin’:  Ruth 4:1; 
+*  ἀγχιστεύω(ν), ‘to be near in blood-relationship, to act as nearest of kin’: Gen 48:16<sup><small>αʹ</small></sup>; Lev 25:25<sup><small>1st</small></sup>, 26; 27:15<sup><small>αʹ?</small></sup>; Num 5:8; 35:12, 19, 21, 24, 25, 27 (2x); Deut 19:6, 12; Josh 20:3, 5, 9; Isa 35:9<sup><small>αʹσʹ</small></sup>; 47:4<sup><small>αʹ</small></sup>; 52:3<sup><small>αʹ</small></sup>; 
+54:5<sup><small>αʹ</small></sup>;
+59:20<sup><small>αʹσʹ</small></sup>; 63:16<sup><small>αʹ</small></sup>; Jer 31:11<sup><small>αʹ</small></sup>; Pss 19:15<sup><small>αʹ</small></sup>; 72:14<sup><small>αʹ</small></sup>; 103:4<sup><small>αʹ</small></sup>; 107:2<sup><small>αʹ</small></sup><sup><small>(1st)</small></sup>; 119:154<sup><small>αʹ</small></sup>; Job 3:5<sup><small>θʹ</small></sup>; Ruth 2:20; 3:13(4x); 4:4(5x), 6(3x);
+Lam 3:58<sup><small>αʹ</small></sup>;
 *  ἀγχιστεύω(ν) + τὸ αἷμα / τοῦ αἷματος, ‘the blood-relation entitled to avenge his kinsman’s death’: Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12; Josh 20:3; 2 Sam 14:11; 
 *  ἀντιλαμβάνομαι, ‘to grasp, help’: Isa 49:26;
 *  ἀντιποιέομαι, ‘to lay claim to’: Job 3:5<sup><small>σʹ</small></sup>;
-*  ἐγγίζω,[^Aq2] ‘to draw near, be close by’: Jer 50:34<sup><small>αʹσʹ</small></sup>; Lam 3:58<sup><small>αʹ</small></sup>;
+*  ἐγγίζω, ‘to draw near, be close by’: Lev 25:33<sup><small>αʹ?σʹ?</small></sup>; Jer 50:34<sup><small>αʹσʹ</small></sup>; 
 *  ἐκλαμβάνω, ‘to welcome’: Job 3:5;
 *  ἐκλύω με, ‘to free me’: Job 19:25;
 *  ἐξαιρέω, ‘to take (out)’: Isa 60:16; Jer 31:11;
-*  λυτρωτής, ‘redeemer’: Isa 47:4<sup><small>σʹ</small></sup>; Pss 19:15; 78:35;
-*  λυτρόω middle, ‘to release, redeem’: Exod 6:6; 15:13; Lev 25:25<sup><small>2nd</small></sup>, 33, 38, 48, 49 (2x); 27:13 (2=1), 15, 19 (2=1), 20, 31 (2=1); Isa 35:9; 41:14, 43:1, 14; 44:22, 23, 24; 47:4<sup><small>θʹ</small></sup>; 49:7<sup><small>σʹ</small></sup>, 26<sup><small>σʹ</small></sup>; 62:12; 63:9; Jer 50:34; Hos 13:14; Mic 4:10; Pss 69:19; 72:14; 74:2<sup><small>LXX,αʹσʹ</small></sup>; 77:16; 103:4; 106:10; 107:2 (2x); 119:154; Prov 23:11; Lam 3:58;
+*  λυτρόω middle, ‘to release, redeem’: Exod 6:6; 15:13; Lev 25:25<sup><small>2nd</small></sup>, 33, 38, 48, 49 (2x); 27:13 (2=1), 15, 19 (2=1), 20, 31 (2=1); Isa 35:9; 41:14, 43:1, 14; 44:22, 23, 24; 52:3; 62:12; 63:9; Jer 50:34; Hos 13:14; Mic 4:10; Pss 69:19; 72:14; 74:2<sup><small>LXX,αʹσʹ</small></sup>; 77:16; 103:4; 106:10; 107:2 (2x); 119:154; Prov 23:11; Lam 3:58;
+*  λυτρωτής, ‘redeemer’: Pss 19:15; 78:35;
 *  μολύνω, ‘to stain, soil’: Job 3:5<sup><small>αʹ</small></sup>;
-*  ῥύομαι, ‘to rescue’: Gen 48:16; Isa 35:9<sup><small>θʹ</small></sup>; 44:6; 47:4; 48:17, 20; 49:7; 51:10<sup><small>LXX,θʹ</small></sup>; 52:9; 54:5, 8; 59:20; 63:16;
+*  ῥύομαι, ‘to rescue’: Gen 48:16; Isa 35:9<sup><small>θʹ</small></sup>; 44:6; 47:4; 48:17, 20; 49:7; 51:10; 52:9; 54:5, 8; 59:20; 63:16;
 *  σώζω, ‘to save, keep alive’: Sir 51:8;
-*  ὑπερμαχέω, ‘to defend, fight on behalf of’: Sir 51:8<sup><small>σʹ</small></sup>.
+*  ὑπερμαχέω, ‘to defend, fight on behalf of’: Ps 78:35<sup><small>σʹ</small></sup>.
 
 [^4]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>, <i>s.v.</i>
 
-[^Aq]: In Lev 25:22<sup>αʹσʹ</sup>; 27:15<sup>αʹ</sup> we may find ἀγχιστεύω according to Field<sup><small>I</small></sup>, 212, n. 47; 217, n. 12, which is a  retroversion of <i>quicunque affinis est</i> (25:33) and <i>affinem fecerit</i> (27:15), based on the testimony of Hesychius, although ἐγγίζω would be possible as well.
-
-[^Aq2]: In Lev 27:33<sup>αʹ</sup> we may find ἐγγίζω as well according to Field<sup><small>I</small></sup>,  218 n. 40, which is a retroversion of <i>affinis non efficietur</i> (27:33), based on the testimony of  Hesychius.
-
 Niphal:
 
+*  ἀγχιστεύω(ν) passive or ἐγγίζω passive: Lev 27:33<sup><small>αʹ</small></sup>;
 * λυτρόω middle, ‘to release, redeem’: Lev 25:49, 27:20, 27, 28;
 * λυτρόω passive, ‘to be ransomed, redeemed’: Lev 25:30, 54; 27:33; Isa 52:3.
 
