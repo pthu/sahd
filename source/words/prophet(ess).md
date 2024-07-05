@@ -3,7 +3,7 @@ word_english: prophet(ess)
 word_hebrew:  נָבִיא/נְבִיאָה   
 title: prophet(ess), diviner   
 semantic_fields: cult, divination  
-contributors: T. Jonathan Stökl  
+contributors: t._jonathan_stökl  
 first_published: 2010-08-02  
 last_update: 2024-06-30   
 update_info:  

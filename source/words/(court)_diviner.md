@@ -3,7 +3,7 @@ word_english: (court)_diviner
 word_hebrew: חֹזֶה  
 title: seer, (court) diviner 
 semantic_fields: cult, divination  
-contributors: T. Jonathan Stökl  
+contributors: t._jonathan_stökl  
 first_published: 2010-08-02  
 last_update: 2024-06-30   
 update_info:  
