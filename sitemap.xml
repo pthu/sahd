@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pthu.github.io/sahd/contributors/T.%20Jonathan%20St%C3%B6kl/</loc>
-         <lastmod>2024-07-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://pthu.github.io/sahd/contributors/alison_gray/</loc>
          <lastmod>2024-07-05</lastmod>
          <changefreq>daily</changefreq>
@@ -67,6 +62,11 @@
     </url>
     <url>
          <loc>https://pthu.github.io/sahd/contributors/raymond_de_hoop/</loc>
+         <lastmod>2024-07-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pthu.github.io/sahd/contributors/t._jonathan_st%C3%B6kl/</loc>
          <lastmod>2024-07-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
