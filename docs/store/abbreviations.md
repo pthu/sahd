@@ -3,7 +3,7 @@
 Most abbreviations of series, handbooks and journals used in
 this database are according to:
 <i>The SBL Handbook of Style: for Biblical Studies and Related Disciplines</i>, 
-Atlanta, GA: SBL Press, <sup>2</sup>2014.  
+Atlanta, GA: SBL Press, <small><sup>2</sup></small>2014.  
 
 ## Abbreviations Biblical Books
 
@@ -839,7 +839,7 @@ Adrados, <i>DGE</i><br>
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>AFBBK</i><br>
 	Heinrich Zimmern, <i>Akkadische Fremdwörter als Beweis für babylonischen
-	Kultureinfluss</i>, Leipzig <sup>2</sup>1917 
+	Kultureinfluss</i>, Leipzig <small><sup>2</sup></small>1917 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -900,7 +900,7 @@ Arbeiten zur Geschichte des antiken Judentums und des Urchristentums (Leiden: Br
 <i>ANEP</i><br>
 James B. Pritchard (ed.), <i>The Ancient Near East in Pictures
           Relating to the Old Testament</i>, 
-          Princeton, NJ: Princeton University Press, <sup>2</sup>1969
+          Princeton, NJ: Princeton University Press, <small><sup>2</sup></small>1969
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -917,7 +917,7 @@ ANESSup (formerly: AbrNSup)<br>
 <i>ANET</i><br>
 James B. Pritchard (ed.), <i>Ancient Near Eastern Texts
           Relating to the Old Testament</i>, 
-          Princeton, NJ: Princeton University Press, <sup>3</sup>1969 
+          Princeton, NJ: Princeton University Press, <small><sup>3</sup></small>1969 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -983,7 +983,7 @@ Avitzur<br>
 <i>BÄV</i><br>
 	Wolfgang Helck, <i>Die Beziehungen Ägyptens zu
 	Vorderasien im 3. und 2. Jahrtausend v. Chr.</i> (ÄAT, 5), Wiesbaden: Harrassowitz,
-	<sup>2</sup>1971
+	<small><sup>2</sup></small>1971
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1016,9 +1016,9 @@ Sira Texts</i> (VTS, 68), Leiden: Brill 1997
 <i>BHK</i><br>
 	<i>Biblia Hebraica</i>, 
 	(ed. R. Kittel; 
-	Leipzig: Hinrichs, <sup>1</sup>1905-06;
-	Stuttgart: Württembergische Bibelanstalt,  <sup>2</sup>1909-13; 
-	<sup>3</sup>1929-37).
+	Leipzig: Hinrichs, <small><sup>1</sup></small>1905-06;
+	Stuttgart: Württembergische Bibelanstalt,  <small><sup>2</sup></small>1909-13; 
+	<small><sup>3</sup></small>1929-37).
 </div>
 
 
@@ -1067,6 +1067,13 @@ Sira Texts</i> (VTS, 68), Leiden: Brill 1997
 	<i>Biblia Hebraica Quinta editione cum apparatu critico novis curis elaborato</i>,
 	Fascicle 13: <i>The Twelve Minor Prophets</i>, prep. by Anthony Gelston,
 	Stuttgart: Deutsche Bibelgesellschaft,  2010
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+<i>BHQ</i> 16<br>
+	<i>Biblia Hebraica Quinta editione cum apparatu critico novis curis elaborato</i>,
+	Fascicle 16: <i>Job</i>, prep. by Robert Althann,
+	Stuttgart: Deutsche Bibelgesellschaft,  2024
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1160,9 +1167,9 @@ De Boeken van het Oude Testament (Roermond: Romen)
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>BRL</i><sup>2</sup><br>
+<i>BRL</i><small><sup>2</sup></small><br>
 	Kurt Galling, <i>Biblisches Reallexikon</i> (HAT 1/1),
-	Tübingen: Mohr Siebeck, <sup>2</sup>1977 
+	Tübingen: Mohr Siebeck, <small><sup>2</sup></small>1977 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1353,7 +1360,7 @@ COuT<br>
 <div style="padding-left: 22px; text-indent: -22px;">
 Dalman, <i>ANHT</i><br>
 	Gustaf Dalman, <i>Aramäisch-neuhebräisches Handwörterbuch zu
-	Targum, Talmud und Midrasch</i>, Göttingen: Vandenhoeck & Ruprecht, <sup>3</sup>1938
+	Targum, Talmud und Midrasch</i>, Göttingen: Vandenhoeck & Ruprecht, <small><sup>3</sup></small>1938
 	(repr. Hildesheim: Georg Olms, 1987)
 </div>
 
@@ -1368,7 +1375,7 @@ Dalman, <i>AuS</i><br>
 <i>DAPP</i><br>
 	Yohanan Elihai, <i>Dictionnaire de l’Arabe parlé palestinien: 
 Français-Arabe</i>,
-	Paris: Klincksieck, <sup>3</sup>1985
+	Paris: Klincksieck, <small><sup>3</sup></small>1985
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1376,7 +1383,7 @@ Français-Arabe</i>,
 	Fulcran Vigouroux 
 	(ed.),
 	<i>Dictionnaire de
-	la Bible</i>, 5 vols., Paris: Letouzey et Ané, <sup>3</sup>1926-28
+	la Bible</i>, 5 vols., Paris: Letouzey et Ané, <small><sup>3</sup></small>1926-28
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1423,7 +1430,7 @@ Français-Arabe</i>,
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>DDD</i><sup> 2</sup><br> 
+<i>DDD</i><small><sup> 2</sup></small><br> 
 Karel van der Toorn <i>et al.</i> (eds.),
 	<i>Dictionary of Deities and Demons in the Bible</i>,
 	2nd ed.,
@@ -1483,7 +1490,7 @@ DJD<br>
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>DSF</i><br>
 	  Louis Costaz, <i>Dictionnaire Syriaque-Français</i>,
-	  Beyrouth: Dar El-Machreq, <sup>3</sup>2002 
+	  Beyrouth: Dar El-Machreq, <small><sup>3</sup></small>2002 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1495,17 +1502,17 @@ DJD<br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>DULAT</i><sup>1</sup><br>
+<i>DULAT</i><small><sup>1</sup></small><br>
 	  Gregorio del Olmo Lete & Joaquín Sanmartín,
 	  <i>A Dictionary of the Ugaritic Language in the Alphabetic Tradition</i> (HdO, 67),
 	  transl. Wilfred G.E. Watson, 2 vols., Leiden: Brill, 2003
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>DULAT</i><sup>3</sup><br>
+<i>DULAT</i><small><sup>3</sup></small><br>
 	  Gregorio del Olmo Lete & Joaquín Sanmartín,
 	  <i>A Dictionary of the Ugaritic Language in the Alphabetic Tradition</i> (HdO, 112),
-	  transl. Wilfred G.E. Watson, 2 vols., Leiden: Brill, <sup>3</sup>2015
+	  transl. Wilfred G.E. Watson, 2 vols., Leiden: Brill, <small><sup>3</sup></small>2015
 </div>
 
 ### <p id="footnote-e">E. 
@@ -1565,7 +1572,7 @@ FB <br>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Field<sup>I</sup><br>
+Field<small><sup>I</sup></small><br>
 	Frederick Field, <i>Origenis Hexaplorum quae supersunt
 	sive Veterum interpretum graecorum in totum
 	Vetus Testamentum fragmenta</i>, tomus I: Prolegomena, Genesis – Esther,
@@ -1573,7 +1580,7 @@ Field<sup>I</sup><br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Field<sup>II</sup><br>
+Field<small><sup>II</sup></small><br>
 	Frederick Field, <i>Origenis Hexaplorum quae supersunt
 	sive Veterum interpretum graecorum in totum
 	Vetus Testamentum fragmenta</i>, tomus II: Jobus – Malachias, Auctarium et indices,
@@ -1591,7 +1598,7 @@ Field<sup>II</sup><br>
 <div style="padding-left: 22px; text-indent: -22px;">
 GB<br>
 	Wilhelm Gesenius & Frants Buhl, <i>Hebräisches und aramäisches
-	Handwörterbuch über das Alte Testament</i>, Leipzig: Vogel, <sup>17</sup>1915
+	Handwörterbuch über das Alte Testament</i>, Leipzig: Vogel, <small><sup>17</sup></small>1915
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1602,7 +1609,7 @@ GB<br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Ges<sup>18</sup><br>
+Ges<small><sup>18</sup></small><br>
 	Herbert Donner <i>et al.</i> (eds.), <i>Wilhelm
 	Gesenius Hebräisches und Aramäisches Handwörterbuch
 	über das Alte Testament</i>, 18th ed., 6 Lieferungen 
@@ -1642,7 +1649,7 @@ GHAL<br>
 GK<br>
 	 Wilhelm Gesenius & Emil Kautzsch, <i>Wilhelm 
 	 Gesenius’ Hebräische Grammatik</i>,
-	 Leipzig: Vogel, <sup>28</sup>1910
+	 Leipzig: Vogel, <small><sup>28</sup></small>1910
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1656,7 +1663,7 @@ GK<br>
 GKC<br>
 	 Wilhelm Gesenius, Emil Kautzsch & Arthur E. Cowley,
 	 <i>Gesenius’ Hebrew Grammar</i>,
-	 Oxford: Clarendon, <sup>2</sup>1910
+	 Oxford: Clarendon, <small><sup>2</sup></small>1910
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1685,7 +1692,7 @@ GNTB<br>
 <i>HAL</i> (cf. also GHAL)<br>
 	Ludwig Koehler, Walter Baumgartner & Johann J. Stamm,
 	<i>Hebräisches und aramäisches Lexikon zum Alten Testament</i>,
-	Leiden: Brill, <sup>3</sup>1967-95
+	Leiden: Brill, <small><sup>3</sup></small>1967-95
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1699,7 +1706,7 @@ GNTB<br>
 <i>HAWAT</i><br>
 	 Eduard König, <i>Hebräisches und aramäisches 
 	 Wörterbuch zum Alten Testament</i>, Leipzig: Dieterich, 
-<sup>2-3</sup>1922
+<small><sup>2-3</sup></small>1922
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1723,7 +1730,7 @@ HBCE<br>
 <i>HCHAT</i><br>
 	 Julius Fürst & Viktor Ryssel, <i>Hebräisches und
 	chaldäisches Handwörterbuch über das Alte Testament</i>, 2
-	vols., Leipzig: Tauchnitz, <sup>3</sup>1876
+	vols., Leipzig: Tauchnitz, <small><sup>3</sup></small>1876
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1809,7 +1816,7 @@ HRCS<small><sup>2</sup></small><br>
 <i>HW</i><br>
 	Johannes Friedrich & Annelies Kammenhuber, <i>Hethitisches 
 	Wörterbuch</i>, vol.1–,
-	Heidelberg: Winter, <sup>2</sup>1984–
+	Heidelberg: Winter, <small><sup>2</sup></small>1984–
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1880,7 +1887,7 @@ ICC<br>
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>ISBE</i><br>
 	 George W. Bromiley (ed.), <i>International Standard Bible Encyclopedia</i>,
-	 Grand Rapids, MI: Eerdmans, <sup>3</sup>1979-88
+	 Grand Rapids, MI: Eerdmans, <small><sup>3</sup></small>1979-88
 </div>
 
 ### <p id="footnote-j">J. 
@@ -1918,7 +1925,7 @@ Jastrow, <i>DTT</i><br>
 <div style="padding-left: 22px; text-indent: -22px;">
 Joüon, <i>GHB</i><br>
 	 Paul Joüon, <i>Grammaire de l’hébreu biblique</i>,
-	 Rome: Institut Biblique Pontifical,  <sup>2</sup>1947
+	 Rome: Institut Biblique Pontifical,  <small><sup>2</sup></small>1947
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1965,7 +1972,7 @@ JSOTSup<br>
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>KAI</i><br>
 	 Herbert Donner & Wolfgang Röllig, <i>Kanaanäische und
-	aramäische Inschriften</i>, 3 vols., Wiesbaden: Harrassowitz, <sup>2</sup>1966-69
+	aramäische Inschriften</i>, 3 vols., Wiesbaden: Harrassowitz, <small><sup>2</sup></small>1966-69
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2037,7 +2044,7 @@ KJV<br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>KTU</i><sup>2</sup><br>
+<i>KTU</i><small><sup>2</sup></small><br>
 	 Manfried  Dietrich,  Oswald Loretz & Joaquín  Sanmartín,
 	<i>The Cuneiform Alphabetic Texts from Ugarit, Ras Ibn Hani
 	and Other Places</i> (KTU: second, enlarged edition; ALASP, 8),
@@ -2045,7 +2052,7 @@ KJV<br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>KTU</i><sup>3</sup><br>
+<i>KTU</i><small><sup>3</sup></small><br>
 	 Manfried Dietrich,  Oswald Loretz & Joaquín Sanmartín,
 	<i>Die keilalphabetischen Texte aus Ugarit, Ras Ibn Hani und anderen Orten
 	- The Cuneiform Alphabetic Texts from Ugarit, Ras Ibn Hani and Other Places</i>
@@ -2092,17 +2099,17 @@ Lane<br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-LEH<sup>1</sup><br>
+LEH<small><sup>1</sup></small><br>
 	 Johan Lust, Erik Eynikel & Katrin Hauspie,
 	 <i>A Greek-English Lexicon of the Septuagint</i>, 2 vols.,
 	Stuttgart: Deutsche Bibelgesellschaft, 1992-96
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-LEH<sup>2</sup><br>
+LEH<small><sup>2</sup></small><br>
 	 Johan Lust, Erik Eynikel & Katrin Hauspie,
 	 <i>A Greek-English Lexicon of the Septuagint</i>,
-	Stuttgart: Deutsche Bibelgesellschaft, <sup>2</sup>2003
+	Stuttgart: Deutsche Bibelgesellschaft, <small><sup>2</sup></small>2003
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2153,7 +2160,7 @@ Lewis & Short, <i>LD</i><br>
 <div style="padding-left: 22px; text-indent: -22px;">
 LSJ<br>
 	Henry G. Liddell, Robert Scott, & Henry S. Jones, <i>A Greek-English Lexicon</i>,
-	Oxford: Oxford University Press, <sup>9</sup>1940; 
+	Oxford: Oxford University Press, <small><sup>9</sup></small>1940; 
 	Peter G.W. Glare, <i>Revised Supplement</i>,
 	Oxford: Oxford University Press, 1996
 </div>
@@ -2173,7 +2180,7 @@ LSJ<br>
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>LSyr</i><br>
 	Carl Brockelmann, <i>Lexicon Syriacum</i>,
-	Halis Saxonum: Max Niemeyer,  <sup>2</sup>1928
+	Halis Saxonum: Max Niemeyer,  <small><sup>2</sup></small>1928
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2203,7 +2210,7 @@ LXX.H<br>
 <div style="padding-left: 22px; text-indent: -22px;">
 Meyer, <i>HG</i><br>
 	Rudolf Meyer, <i>Hebräische Grammatik, II: Formenlehre, Flexionstabellen</i>,  
-	Berlin, <sup>3</sup>1969.
+	Berlin, <small><sup>3</sup></small>1969.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2411,7 +2418,7 @@ REB<br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>RGG</i><sup><small> 3</small></sup><br>
+<i>RGG</i><small><sup> 3</sup></small><br>
 	  Hans E. von Campenhausen and Kurt Galling (eds.), 
 	  <i>Die Religion in Geschichte und Gegenwart: 
 	  Handwörterbuch für Theologie und 
@@ -2420,7 +2427,7 @@ REB<br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>RGG</i><sup><small> 4</small></sup><br>
+<i>RGG</i><small><sup> 4</sup></small><br>
 	  Hans D. Betz (ed.), 
 	  <i>Die Religion in Geschichte und Gegenwart: 
 	  Handwörterbuch für Theologie und 
@@ -2506,7 +2513,7 @@ Salonen, <i>Vögel</i><br>
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>SAT</i><br>
 	 Robert J. Forbes, <i>Studies in Ancient Technology</i>, 9 vols., Leiden: Brill,  
-	 <sup>2</sup>1964-72
+	 <small><sup>2</sup></small>1964-72
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2588,7 +2595,7 @@ Sokoloff, <i>DJBA</i><br>
 <div style="padding-left: 22px; text-indent: -22px;">
 Sokoloff, <i>DJPA</i><br>
 	Michael Sokoloff, <i>A Dictionary of Jewish Palestinian Aramaic 
-	of the Byzantine Period</i>, Ramat-Gan: Bar Ilan University Press, <sup>2</sup>2002
+	of the Byzantine Period</i>, Ramat-Gan: Bar Ilan University Press, <small><sup>2</sup></small>2002
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2673,10 +2680,10 @@ Tal, <i>DSA</i><br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-<i>TCHB</i><sup> 3</sup><br>
+<i>TCHB</i><small><sup> 3</sup></small><br>
 	Emanuel Tov,
 	<i>Textual Criticism of the Hebrew Bible</i>,
-	Minneapolis, MN: Fortress, <sup>3</sup>2012
+	Minneapolis, MN: Fortress, <small><sup>3</sup></small>2012
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2830,7 +2837,7 @@ WC<br>
 <div style="padding-left: 22px; text-indent: -22px;">
 Wehr<br>
 	Hans Wehr, <i>A Dictionary of Modern Written Arabic</i>, ed. J. Milton Cowan,
-	Wiesbaden: Harrassowitz, <sup>4</sup>1979
+	Wiesbaden: Harrassowitz, <small><sup>4</sup></small>1979
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2868,7 +2875,7 @@ William Thomson Wortabet, <i>Arabic-English Dictionary</i>, 4th ed., Beirut: Lib
 <div style="padding-left: 22px; text-indent: -22px;">
 <i>WTM</i><br>
 	 Jacob Levy, <i>Wörterbuch über die Talmudim und Midraschim</i>,
-	4 vols., Berlin: Harz, <sup>2</sup>1924 (repr. 1963)
+	4 vols., Berlin: Harz, <small><sup>2</sup></small>1924 (repr. 1963)
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -2887,7 +2894,7 @@ WUNT<br>
 <i>WUS</i><br>
 	Joseph Aistleitner, <i>Wörterbuch der
           ugaritischen Sprache</i>, Hrsg. v. Otto Eissfeldt, Berlin: Akademie, 
-          <sup>2</sup>1965
+          <small><sup>2</sup></small>1965
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
