@@ -40,7 +40,7 @@ SHEBANQ = '<div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.an
 UBS = '<div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=replace&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div>'
 
 PHOTO_PATH = r"(.*!\[.*])(\(.*/(.*\.(png|PNG|jpg|JPG|jpeg|JPEG|gif|GIF|tiff|TIFF)))(.*)"
-PHOTO_PATH_REPLACEMENT = r"\1(/sahd/images/photos/\3\5"
+PHOTO_PATH_REPLACEMENT = r"\1(../images/photos/\3\5"
 PDF_PATH = r'(.*src=")(\.\./pdfs/)(.*)'
 PDF_PATH_REPLACEMENT = r"\1/sahd/pdfs/\3"
 
