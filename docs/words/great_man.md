@@ -1,10 +1,10 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># שוֹעַ – great man
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># שׁוֹעַ – great man
 
 Author(s):
 [Graham I. Davies](../contributors/graham_i._davies.md)<br>
-First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: Graham I. Davies, שוֹעַ – great man, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2016 (update: 2024)
+First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: Graham I. Davies, שׁוֹעַ – great man, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2016 (update: 2024)
 
 
 

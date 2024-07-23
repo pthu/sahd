@@ -423,13 +423,13 @@ penetrating look of YHWH, from whom nothing is concealed (Ridderbos 1958:399). I
 
 <b>A.5</b> If the interpretation of מָאוֹר as ‘light’ is correct, it is hard to find any iconographic material for the word מָאוֹר. Yet, the iconography from the Amarna period of Akhenaten might be illustrative, because it shows the attempt to visualize an abstract concept as ‘(ray of) light’ (see figs. 1-2). In the case of Akhenaten, however, the sun (Aten) was seen as the only god, whose rays of light were blessing hands, providing ‘life’.[^157]
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/sahd/images/photos/HouseAltar.jpeg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../images/photos/HouseAltar.jpeg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;1:&nbsp;&nbsp;House-altar depicting the royal family before Aten[^158]</small>   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>(ÄM 14145; courtesy Ägyptisches Museum, Berlin)</small>  
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/sahd/images/photos/Akhenaten1.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../images/photos/Akhenaten1.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;2:&nbsp;&nbsp;Stela of adoration of Aten by the royal family[^159]</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>(courtesy Egyptian Museum, Cairo)</small>

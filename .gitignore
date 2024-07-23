@@ -1,6 +1,6 @@
 .DS_Store
 .idea
 site
-docs
+docs/
 mkdocs.yml
 word_list.csv

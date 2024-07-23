@@ -238,8 +238,8 @@ published.[^27]
 Two of these are presented below (Figs. 1–2), of which the round, stone weight is the most common 
 example.  
 
-&nbsp;![Beka stone weight](/sahd/images/photos/beka-stone-IM.jpg)&nbsp;&nbsp;
-![Beka iron weight](/sahd/images/photos/beka-cube1.jpg)&nbsp;
+&nbsp;![Beka stone weight](../images/photos/beka-stone-IM.jpg)&nbsp;&nbsp;
+![Beka iron weight](../images/photos/beka-cube1.jpg)&nbsp;
 
 
 Stone beka-weight[^28] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Metal beka-weight[^29]
@@ -251,8 +251,8 @@ Stone beka-weight[^28] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 <b> A.2</b> 
 A First Temple period <i>beka</i> weight was discovered during the sifting project of archaeological soil originating from the Western Wall foundations in the Emek Tzurim National Park under auspices of  the City of David Foundation. The find is interesting, because the weight was inscribed in mirror script (see Fig. 3, below), which suggests that the craftsman was used to create seals and to writing in mirror script (cf. Borschel-Dan 2018).
 
-![](/sahd/images/photos/beka-mirror3.jpg)
-![](/sahd/images/photos/beka-mirror4.jpg)
+![](../images/photos/beka-mirror3.jpg)
+![](../images/photos/beka-mirror4.jpg)
 
 <i>Beka</i> weight inscribed in mirror script.[^31]
 [^31]:  Photograph: Eliyahu Yanai; Courtesy of the City of David Archive. 

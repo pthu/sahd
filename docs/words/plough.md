@@ -473,7 +473,7 @@ Therefore, the Israelite ploughs were probably of the same type as the simpler p
 of the Mesopotamians and Egyptians. 
 
 
-![](/sahd/images/photos/Egypt_Ploughing.jpeg)
+![](../images/photos/Egypt_Ploughing.jpeg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;1:&nbsp;&nbsp;
 Egyptian ploughing scene, burial chamber of Sennedjem, 13th century BCE</small>
@@ -495,7 +495,7 @@ Photographs from the early twentieth century show traditional ploughs with const
 structures.[^82]
 
 
-![](/sahd/images/photos/Berseba_Ploughing.jpg)
+![](../images/photos/Berseba_Ploughing.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;2:&nbsp;&nbsp;
 Plough shop in Beersheba, October 16, 1924<br></small>
