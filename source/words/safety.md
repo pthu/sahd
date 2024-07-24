@@ -1,6 +1,6 @@
 ---
 word_english: safety  
-word_hebrew:  יֵשַׁע 
+word_hebrew:  יֵשַׁע 
 title: safety (state or place of)   
 semantic_fields: deliverance  
 contributors: james_k._aitken

@@ -174,7 +174,7 @@ in a socio-legal context – גֹּאֵל, ‘next of kin’ (Lev 25:25; Ruth 3:
 <b>A.3</b> The prepositions in these cases used with גאל qal are: <span dir="rtl" lang="he">לְ</span> + 1sg. sf.
 ‘for myself’ (Naomi’s next-of-kin); <span dir="rtl" lang="he">לְ</span> + 2sg. sf. ‘for yourself’ (Boaz)
 (Ruth 4:6); מִן ‘from’ + תּוֹךְ, ‘injury’ (Ps 72:14), +
- ,חָמָס
+,חָמָס
 ‘violence/wrong’ (Ps 72:14).
 
 <b>A.4</b> גאל qal may also have an abstract subject: <span dir="rtl" lang="he">חֹשֶׁךְ וְצַלְמָוֶת</span>,

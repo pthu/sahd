@@ -1,6 +1,6 @@
 ---
 word_english: to_save,_help  
-word_hebrew:  ישׁע  
+word_hebrew: ישׁע    
 title:  
 semantic_fields: deliverance  
 contributors: james_k._aitken, graham_i._davies  
