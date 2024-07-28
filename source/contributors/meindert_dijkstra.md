@@ -2,4 +2,4 @@
 
 Formerly Utrecht University
 
-![Meindert Dijkstra](../photos/meindert_dijkstra.jpeg "Meindert Dijkstra")
+![meindert dijkstra](../photos/meindert_dijkstra.jpeg "Meindert Dijkstra")
