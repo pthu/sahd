@@ -1,4 +1,4 @@
-https://independent.academia.edu/RaymonddeHoop
+Webpage: <a href="https://independent.academia.edu/RaymonddeHoop/">https://independent.academia.edu/RaymonddeHoop</a>.
 
 
 Raymond (1958) is an independent scholar, working as editor and webmaster for the SAHD-team. He published a massive volume on Genesis 49 and a number of articles on the meaning of Hebrew words and on the Masoretic accentuation.
