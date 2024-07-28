@@ -4,6 +4,6 @@
 
 Formerly Utrecht University
 
-![Meindert Dijkstra](../images/photos/meindert_dijkstra.jpeg "Meindert Dijkstra")
+![meindert dijkstra](../images/photos/meindert_dijkstra.jpeg "Meindert Dijkstra")
 ### Contributions
 [חַשְׁמַן – amethyst(?)](../words/amethyst(?).md)<br>
