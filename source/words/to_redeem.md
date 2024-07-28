@@ -7,8 +7,7 @@ contributors: alison_gray
 first_published: 2007-08-01  
 last_update: 2024-07-01 (Raymond de Hoop, Paul Sanders)  
 update_info: 
-shebanq_id: https://shebanq.ancient-data.org/hebrew/word?id=1GALv&mr=r&qw=w 
-
+shebanq_id: 1GALv
 ---
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
@@ -326,7 +325,7 @@ Niphal:
 clearly the most frequently used verb to translate גאל in the LXX. It is
 interesting to note that among the other Hebrew verbs translated by
 λυτρόω and ῥύομαι (‘to set free, redeem, deliver’; ‘to protect’, LSJ,
-694) are those defined by Sawyer as the semantic field ofהוֹשִׁיעַ ,
+694) are those defined by Sawyer as the semantic field of <span dir="rtl">הוֹשִׁיעַ</span>,
 namely נצל (hiph.), חלץ (pi.), מלט (pi.), פלט (pi.), and פצה.
 
 
@@ -796,4 +795,3 @@ Johann J. Stamm, ‘גאל – erlösen’, <i>THAT</i> 1:385-96.
 
 ## Notes
 
-# 

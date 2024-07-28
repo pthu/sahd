@@ -1,6 +1,6 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=https://shebanq.ancient-data.org/hebrew/word?id=1GALv&mr=r&qw=w" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=גאל&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># גאל – to redeem (as kinsman), buy/claim (back)
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1GALv" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=גאל&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div># גאל – to redeem (as kinsman), buy/claim (back)
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
@@ -323,7 +323,7 @@ Niphal:
 clearly the most frequently used verb to translate גאל in the LXX. It is
 interesting to note that among the other Hebrew verbs translated by
 λυτρόω and ῥύομαι (‘to set free, redeem, deliver’; ‘to protect’, LSJ,
-694) are those defined by Sawyer as the semantic field ofהוֹשִׁיעַ ,
+694) are those defined by Sawyer as the semantic field of <span dir="rtl">הוֹשִׁיעַ</span>,
 namely נצל (hiph.), חלץ (pi.), מלט (pi.), פלט (pi.), and פצה.
 
 
@@ -793,4 +793,3 @@ Johann J. Stamm, ‘גאל – erlösen’, <i>THAT</i> 1:385-96.
 
 ## Notes
 
-# 

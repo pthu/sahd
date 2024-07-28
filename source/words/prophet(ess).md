@@ -280,7 +280,7 @@ unlikely (Johnson 1962:24 n.5; Jeremias 1976:7; Müller 1984:147).
 * <span dir="rtl">בושׁ</span>, ‘be ashamed’, Jer 6:15; 8:12; 
 * <span dir="rtl">בושׁ</span> <i>hiph.</i>, ‘shame/act
     shamefully’, Jer 6:15; 8:12; 
-* <span dir="rtl">בחר</span>, ‘chose’, 1 Kgs 18:23; 
+* <span dir="rtl">בחר</span>, ‘choose’, 1 Kgs 18:23; 
 * <span dir="rtl">בטח</span>, ‘promise’, Jer 28:15;
 * <span dir="rtl">בנה</span>, ‘build’, 1 Kgs 18:32;
 * <span dir="rtl">גאל</span> <i>niph.</i>, ‘be defiled’, Lam 4:14; 

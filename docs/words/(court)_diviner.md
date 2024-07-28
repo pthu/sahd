@@ -58,12 +58,12 @@ Similarly, in 2 Chron 33:19 MT has  <span dir="rtl">חוֹזָי</span>, which
 <span dir="rtl">ܕܚܢܢ ܢܒܝܐ</span> (<i>dḥnn nbyʾ</i>), ‘of
 Hanan the prophet’, while Tg and Vg support MT and read the name Hozai:  <span dir="rtl">חוזי</span> and <i>Ozai</i>.
 
-<b>b.1</b>
+<b>B.1</b>
 Nitzan, the editor, restores the word in two fragments,
     4Q286 f7ii:12 and 4Q287 f6:11, 4QBer<sup><small>a</small></sup> and 4QBer<sup><small>b</small></sup> respectively
     as they are very similar to 4Q 280 2 6-7.[^7]
 
-<b>b.2</b>
+<b>B.2</b>
 The restoration 4QpIsa<sup><small>c</small></sup> 15-16:2:  <span dir="rtl">הח[זים…]</span> is certain as it is a direct quote from Isa 29:10 (Allegro 1968).
 
 <b>Qere/Ketiv</b>: none

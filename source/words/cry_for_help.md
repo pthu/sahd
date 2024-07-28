@@ -1,6 +1,6 @@
 ---
 word_english: cry_for_help   
-word_hebrew: שוּעַ      
+word_hebrew: שׁוּעַ      
 title: cry for help(?)   
 semantic_fields:   
 contributors: james_k._aitken, graham_i._davies      

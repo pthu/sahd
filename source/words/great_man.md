@@ -1,7 +1,7 @@
 
 ---
 word_english: great_man   
-word_hebrew: שוֹעַ    
+word_hebrew: שׁוֹעַ  
 title:    
 semantic_fields:    
 contributors: graham_i._davies       
@@ -127,6 +127,9 @@ his challenge to Job’s questioning of God’s perfect justice Elihu cites the 
 <a href="#CRM">Root and Comparative Material A.1</a> above), and therefore it is not a member, even loosely, of the ‘deliverance’ word-group.
 
 ## Bibliography
+
+For the abbreviations see the 
+<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dillmann 1891<br>

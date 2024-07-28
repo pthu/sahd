@@ -1,10 +1,10 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># שוֹעַ – great man
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># שׁוֹעַ – great man
 
 Author(s):
 [Graham I. Davies](../contributors/graham_i._davies.md)<br>
-First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: Graham I. Davies, שוֹעַ – great man, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2016 (update: 2024)
+First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: Graham I. Davies, שׁוֹעַ – great man, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2016 (update: 2024)
 
 
 
@@ -121,6 +121,9 @@ his challenge to Job’s questioning of God’s perfect justice Elihu cites the 
 <a href="#CRM">Root and Comparative Material A.1</a> above), and therefore it is not a member, even loosely, of the ‘deliverance’ word-group.
 
 ## Bibliography
+
+For the abbreviations see the 
+<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dillmann 1891<br>

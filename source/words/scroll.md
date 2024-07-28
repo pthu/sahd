@@ -105,7 +105,7 @@ In Ezek 2:9 and Ps 40:8 (LXX 39:8),
 the Greek translators render <span dir="rtl">מְגִלַּת סֵפֶר</span> 
 as κεφαλὶς βιβλίου, ‘a scroll of a book’, 
 but <span dir="rtl">מְגִלָּה</span> alone in Ezek 3:1-3 and Ezra 6:2 as κεφαλὶς . 
-The translators of Zech 5:1-2 opted for δρέπανον , ‘sickle’, which presupposes a different vocalisation (<span dir="rtl">מַגָּל</span>, ‘sickle’).
+The translators of Zech 5:1-2 opted for δρέπανον, ‘sickle’, which presupposes a different vocalisation (<span dir="rtl">מַגָּל</span>, ‘sickle’).
 
 
 <b><span id="AVPesh">b. Peshitta (Pesh)</span></b>: 
