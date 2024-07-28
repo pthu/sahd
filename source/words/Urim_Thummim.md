@@ -3,7 +3,7 @@ word_english: Urim_Thummim
 word_hebrew: אוּרִים וְתֻמִּים  
 title: Urim and Thummim  
 semantic_fields: utensils, cult, divination  
-contributors: kees_den_hertog(†), paul_sanders   
+contributors: kees_den_hertog, paul_sanders   
 first_published: 2022-08-02  
 last_update: 2024-05-30   
 update_info:  
