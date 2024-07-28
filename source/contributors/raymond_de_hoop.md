@@ -1,1 +1,7 @@
-Raymond de Hoop is an independent scholar, working as editor for the SAHD-Team. 
+Raymond de Hoop  
+\*19-07-1958
+
+Raymond is an independent scholar, working as editor and webmaster for the SAHD-team. 
+
+![raymond_de_hoop](../photos/raymond_de_hoop.jpg "Raymond Hoop")
+
