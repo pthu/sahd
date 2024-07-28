@@ -3,5 +3,5 @@ Raymond de Hoop
 
 Raymond is an independent scholar, working as editor and webmaster for the SAHD-team. 
 
-![raymond_de_hoop](../photos/raymond_de_hoop.jpg "Raymond Hoop")
+![raymond de hoop](../photos/raymond_de_hoop.jpg "Raymond de Hoop")
 
