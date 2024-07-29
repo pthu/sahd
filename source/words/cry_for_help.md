@@ -3,7 +3,7 @@ word_english: cry_for_help
 word_hebrew: שׁוּעַ      
 title: cry for help(?)   
 semantic_fields:   
-contributors: james_k._aitken, graham_i._davies      
+contributors: james_k_aitken, graham_i_davies      
 first_published: 2016-09-30   
 last_update: 2024-06-30   
 update_info:  

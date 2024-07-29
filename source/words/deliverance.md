@@ -3,7 +3,7 @@ word_english: deliverance
 word_hebrew: מוֹשָׁעָה    
 title:   
 semantic_fields: deliverance   
-contributors: james_k._aitken        
+contributors: james_k_aitken        
 first_published: 2000-06-30   
 last_update: 2024-06-30   
 update_info:  

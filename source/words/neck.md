@@ -3,7 +3,7 @@ word_english: neck
 word_hebrew: מַפְרֶקֶת       
 title:    
 semantic_fields:   
-contributors: graham_i._davies      
+contributors: graham_i_davies      
 first_published: 2010-07-31   
 last_update: 2024-06-30   
 update_info:  
