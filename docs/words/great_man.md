@@ -1,10 +1,10 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># שׁוֹעַ – great man
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1CWOn" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div># שׁוֹעַ – great man
 
 Author(s):
-[Graham I Davies](../contributors/graham_i_davies.md)<br>
-First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: Graham I Davies, שׁוֹעַ – great man, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2016 (update: 2024)
+[Graham I. Davies](../contributors/graham_i._davies.md)<br>
+First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: Graham I. Davies, שׁוֹעַ – great man, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2016 (update: 2024)
 
 
 

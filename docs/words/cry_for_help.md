@@ -3,8 +3,8 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1CWOin" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div># שׁוּעַ – cry for help(?)
 
 Author(s):
-[James K Aitken](../contributors/james_k_aitken.md),&nbsp;[Graham I Davies](../contributors/graham_i_davies.md)<br>
-First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: James K Aitken,&nbsp;Graham I Davies, שׁוּעַ – cry for help(?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2016 (update: 2024)
+[James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)<br>
+First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: James K. Aitken,&nbsp;Graham I. Davies, שׁוּעַ – cry for help(?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2016 (update: 2024)
 
 
 For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
@@ -152,4 +152,4 @@ Hans Wildberger,  <i>Jesaja: 2. Tlbd.: Jesaja 13-27</i> (BKAT, X/2), Neukirchen-
 ## Notes
 
 [^1]: <i>HAL</i>, 1340, apparently envisages <i>qūl</i> as the pattern, citing BL, 452 §61.t (similarly Ges<small><sup>18</sup></small>, 1335); this would be appropriate if the root were biliteral.
-[^2]: So Habel 1985:416, following Pope 1973; cf. <i>BHK</i>.
+[^2]: So Habel 1985:416, following Pope 1973; cf. <i>BHK</i>.	
