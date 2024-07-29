@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=https://shebanq.ancient-data.org/hebrew/word?id=1JCWOHn&mr=r&qw=w" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div># יְשׁוּעָה – protection
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1JCWOHn" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div># יְשׁוּעָה – protection
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)<br>
-First published: 2017-01-01<br>Last update: 2023-05-16 (Raymond de Hoop and Paul Sanders) <br>Citation: James K. Aitken,&nbsp;Graham I. Davies, יְשׁוּעָה – protection, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2017 (update: 2023)
+[James K Aitken](../contributors/james_k_aitken.md),&nbsp;[Graham I Davies](../contributors/graham_i_davies.md)<br>
+First published: 2017-01-01<br>Last update: 2023-05-16 (Raymond de Hoop and Paul Sanders) <br>Citation: James K Aitken,&nbsp;Graham I Davies, יְשׁוּעָה – protection, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2017 (update: 2023)
 
 
 For fuller discussion of the lexical field as a whole see on this site the 
