@@ -4,12 +4,12 @@ word_english: great_man
 word_hebrew: שׁוֹעַ  
 title:    
 semantic_fields:    
-contributors: graham_i_davies       
+contributors: graham_i._davies       
 first_published: 2016-09-30   
 last_update: 2024-06-30   
 update_info:  
 additional_info:   
-shebanq_id:   
+shebanq_id: 1CWOn   
 
 --- 
 

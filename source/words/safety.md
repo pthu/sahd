@@ -3,7 +3,7 @@ word_english: safety
 word_hebrew:  יֵשַׁע 
 title: safety (state or place of)   
 semantic_fields: deliverance  
-contributors: james_k_aitken
+contributors: james_k._aitken
 first_published: 2016-01-01  
 last_update: 2023-12-03 (Raymond de Hoop, Paul Sanders)  
 shebanq_id:

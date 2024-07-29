@@ -3,7 +3,7 @@ word_english: cry_for_help
 word_hebrew: שׁוּעַ      
 title: cry for help(?)   
 semantic_fields:   
-contributors: james_k_aitken, graham_i_davies      
+contributors: james_k._aitken, graham_i._davies      
 first_published: 2016-09-30   
 last_update: 2024-06-30   
 update_info:  
@@ -155,4 +155,4 @@ Hans Wildberger,  <i>Jesaja: 2. Tlbd.: Jesaja 13-27</i> (BKAT, X/2), Neukirchen-
 ## Notes
 
 [^1]: <i>HAL</i>, 1340, apparently envisages <i>qūl</i> as the pattern, citing BL, 452 §61.t (similarly Ges<small><sup>18</sup></small>, 1335); this would be appropriate if the root were biliteral.
-[^2]: So Habel 1985:416, following Pope 1973; cf. <i>BHK</i>.
+[^2]: So Habel 1985:416, following Pope 1973; cf. <i>BHK</i>.	

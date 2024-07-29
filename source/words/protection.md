@@ -3,9 +3,9 @@ word_english: protection
 word_hebrew: יְשׁוּעָה  
 title: 
 semantic_fields: deliverance  
-contributors: james_k_aitken, graham_i_davies  
+contributors: james_k._aitken, graham_i._davies  
 first_published: 2017-01-01  
-last_update: 2023-05-16 (Raymond de Hoop and Paul Sanders)  
+last_update: 2023-05-16 (Raymond de Hoop, Paul Sanders)  
 shebanq_id: 1JCWOHn
  
 ---
