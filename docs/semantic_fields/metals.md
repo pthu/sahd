@@ -4,4 +4,4 @@
 
 
 ### Related words
-[חַשְׁמַן – amethyst?](../words/amethyst?.md)<br>
+[חַשְׁמַן – amethyst](../words/amethyst.md)<br>

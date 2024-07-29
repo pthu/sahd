@@ -1,5 +1,5 @@
 ---
-word_english: amethyst?   
+word_english: amethyst   
 word_hebrew: חַשְׁמַן   
 title: amethyst(?)   
 semantic_fields: gemstones, metals, cloth, colours, tribute   
