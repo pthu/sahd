@@ -1,5 +1,5 @@
 ---
-word_english: spindle  
+word_english: spindle 
 word_hebrew: פֶּלֶךְ   
 title: 
 semantic_fields: utensils, craft, textile production,   
