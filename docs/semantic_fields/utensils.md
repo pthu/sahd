@@ -1,4 +1,4 @@
-<html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
+<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 # **Utensils**
 

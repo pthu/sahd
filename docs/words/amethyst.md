@@ -1,6 +1,6 @@
-<html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
+<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1XCMNJMn" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div># חַשְׁמַן – amethyst(?)
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1XCMNJMn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># חַשְׁמַן – amethyst(?)
 
 Semantic Fields:
 [Gemstones](../semantic_fields/gemstones.md)&nbsp;&nbsp;&nbsp;[Metals](../semantic_fields/metals.md)&nbsp;&nbsp;&nbsp;[Cloth](../semantic_fields/cloth.md)&nbsp;&nbsp;&nbsp;[Colours](../semantic_fields/colours.md)&nbsp;&nbsp;&nbsp;[Tribute](../semantic_fields/tribute.md)&nbsp;&nbsp;&nbsp;<br>Author(s):

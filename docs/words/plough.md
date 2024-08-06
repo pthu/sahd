@@ -1,6 +1,6 @@
-<html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>
+<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div># מַחֲרָשָׁה/מַחֲרֶשֶׁת – plough, hoe (?)
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># מַחֲרָשָׁה/מַחֲרֶשֶׁת – plough, hoe (?)
 
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Agriculture](../semantic_fields/agriculture.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
