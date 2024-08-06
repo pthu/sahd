@@ -34,10 +34,11 @@ PDFS_DOCS = DOCS / "pdfs"
 
 WORDS_LIST = SAHD_BASE / "word_list.csv"
 
-HEADER = '<html><body><img id="banner" src="/sahd/images/banners/banner.png" alt="banner" /></body></html>\n\n'
-DOWNLOAD = '<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="/sahd/images/icons/download3.png" alt="download" /></div>'
-SHEBANQ = '<div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=replace" target="_blank"><img src="/sahd/images/icons/shebanq.png" alt="shebanq"></a></div>'
-UBS = '<div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=replace&startPage=1" target="_blank"><img src="/sahd/images/icons/ubs.png" alt="ubs"></a></div>'
+HEADER_HOME = '<html><body><img id="banner" src="./images/banners/banner.png" alt="banner" /></body></html>\n\n'
+HEADER = '<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>\n\n'
+DOWNLOAD = '<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div>'
+SHEBANQ = '<div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=replace" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div>'
+UBS = '<div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=replace&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div>'
 
 PHOTO_PATH = r"(.*!\[.*])(\(.*/(.*\.(png|PNG|jpg|JPG|jpeg|JPEG|gif|GIF|tiff|TIFF)))(.*)"
 PHOTO_PATH_REPLACEMENT = r"\1(../images/photos/\3\5"
@@ -333,7 +334,7 @@ def get_relations():
 
 def write_index_file():
     filename = "index.md"
-    text = [HEADER]
+    text = [HEADER_HOME]
     with open(SRC / f"{filename}", 'r') as f:
         lines = f.readlines()
         for line in lines:
