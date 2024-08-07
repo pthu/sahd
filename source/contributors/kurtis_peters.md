@@ -1,4 +1,4 @@
-
+# **Kurtis Peters**
 
 ![kurtis peters](../photos/kurtis_peters.jpeg)  
 
