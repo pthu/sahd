@@ -1,6 +1,6 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-
+# **Kurtis Peters**
 
 ![kurtis peters](../images/photos/kurtis_peters.jpeg)  
 

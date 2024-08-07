@@ -1,6 +1,6 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-
+# **James K. Aitken**
 
 ![james aitken](../images/photos/james_k._aitken.jpg)   
 

@@ -1,6 +1,6 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-
+# **Meindert Dijkstra**
 
 ![meindert dijkstra](../images/photos/meindert_dijkstra.jpeg) 
 

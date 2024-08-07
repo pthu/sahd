@@ -1,5 +1,7 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
+# **Raymond de Hoop**
+
 Webpage: <a href="https://independent.academia.edu/RaymonddeHoop/">https://independent.academia.edu/RaymonddeHoop</a>.
 
 

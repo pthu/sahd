@@ -1,6 +1,6 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-
+# **Kees den Hertog**
 
 ![Kees den Hertog](../images/photos/Kees_den_Hertog.jpeg) 
 
