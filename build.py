@@ -19,14 +19,17 @@ DOCS = SAHD_BASE / "docs"
 WORDS = SRC / "words"
 SEMANTIC_FIELDS = SRC / "semantic_fields"
 CONTRIBUTORS = SRC / "contributors"
+EDITORIAL_BOARD = SRC / "editorial_board"
 MISCELLANEOUS = SRC / "miscellaneous"
 STORE = SRC / "store"
 PHOTOS = SRC / "photos"
 PDFS = SRC / "pdfs"
+LEMMAS_INDEX = SRC / "lemmas_index.txt"
 
 WORDS_DOCS = DOCS / "words"
 SEMANTIC_FIELDS_DOCS = DOCS / "semantic_fields"
 CONTRIBUTORS_DOCS = DOCS / "contributors"
+EDITORIAL_BOARD_DOCS = DOCS / "editorial_board"
 MISCELLANEOUS_DOCS = DOCS / "miscellaneous"
 STORE_DOCS = DOCS / "store"
 PHOTOS_DOCS = DOCS / "images/photos"
@@ -215,22 +218,6 @@ def get_pointless(word_hebrew):
     return pointless
 
 
-def modify_for_sorting(word_hebrew):
-    # This method is called for sorting Hebrew words where all the letters
-    # are the same and in same order.  Only the points marking vowels differ.
-    # To sort these words according to the vowel markings we change all letters
-    # to a letter "A", whose Unicode value is smaller than Unicode values of
-    # Hebrew vowel markings. This way the Unicode values of vowel markings
-    # define the sort order.
-    word_to_sort = ""
-    for i in range(len(word_hebrew)):
-        if ord(word_hebrew[i]) >= 0x5D0:
-            word_to_sort += "A"
-        else:
-            word_to_sort += word_hebrew[i]
-    return word_to_sort
-
-
 def get_ubs_reference(word_hebrew, ubs_dict):
     pointless = get_pointless(word_hebrew)
     first_char = pointless[len(pointless) - 1]
@@ -244,15 +231,7 @@ def get_ubs_reference(word_hebrew, ubs_dict):
 
 
 def sort_hebrew(source_dict):
-    target_dict = {}
-    for key in sorted(source_dict):
-        for item in sorted(source_dict[key].keys()):
-            vocalized_variations = sorted(source_dict[key][item].items(), key=lambda t: modify_for_sorting(t[0]))
-            if key in target_dict.keys():
-                target_dict[key] = target_dict[key] + vocalized_variations
-            else:
-                target_dict[key] = vocalized_variations
-    return target_dict
+    return sorted(source_dict.items())
 
 
 def sort_contributors(contributors_dict):
@@ -298,15 +277,7 @@ def get_relations():
                     word_english = get_value(line)
                 elif line.startswith("word_hebrew:"):
                     word_hebrew = get_value(line)
-                    pointless = get_pointless(word_hebrew)
-                    key = pointless[0]
-                    if key in words.keys():
-                        if pointless in words[key].keys():
-                            words[key][pointless].update({word_hebrew: word_english})
-                        else:
-                            words[key][pointless] = {word_hebrew: word_english}
-                    else:
-                        words[key] = {pointless: {word_hebrew: word_english}}
+                    words[word_hebrew] = Path(word).stem
                 elif line.startswith("semantic_fields:") or line.startswith("contributors:"):
                     if not word_english or not word_hebrew:
                         error(f"english and/or hebrew word in {word.name} metadata not given")
@@ -495,6 +466,34 @@ def write_contributors(contributors_dict):
             f.write("".join(text))
 
 
+def write_editorial_board(contributors_dict):
+    if isdir(EDITORIAL_BOARD_DOCS):
+        rmtree(EDITORIAL_BOARD_DOCS)
+    copytree(EDITORIAL_BOARD, EDITORIAL_BOARD_DOCS)
+
+    for filename in os.listdir(EDITORIAL_BOARD_DOCS):
+        if filename != ".DS_Store":
+            name = Path(filename).stem
+            if name in contributors_dict:
+                words = contributors_dict[name]
+            else:
+                words = []
+
+            text = [HEADER]
+            with open(EDITORIAL_BOARD_DOCS / filename, 'r') as f:
+                lines = f.readlines()
+                for line in lines:
+                    line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT, line) # modify possible photo path
+                    text.append(line)
+                if len(words) > 0:
+                    text.append("\n### Contributions\n")
+                    for word in words:
+                        text.append(f"[{word[0]} – {word[1].replace('_', ' ')}](../words/{word[1]}.md)<br>")
+
+            with open(EDITORIAL_BOARD_DOCS / f"{name}.md", 'w') as f:
+                f.write("".join(text))
+
+
 def write_miscellaneous_file(filename):
     text = [HEADER]
     with open(MISCELLANEOUS / filename, 'r') as f:
@@ -550,7 +549,7 @@ def copy_pdfs():
     copytree(PDFS, PDFS_DOCS)
 
 
-def write_navigation(words_dict, semantic_fields_dict, contributors_dict):
+def write_navigation(semantic_fields_dict, contributors_dict):
 
     text = []
     with open(SRC / "mkdocs_in.yml", 'r') as f:
@@ -558,16 +557,31 @@ def write_navigation(words_dict, semantic_fields_dict, contributors_dict):
         for line in lines:
             text.append(line)
             if line.replace(" ", "").startswith("-Lemmas:"):
-                for letter in words_dict:
-                    text.append(f"            - {letter}:\n")
-                    for (hebrew_word, english_word) in words_dict[letter]:
-                        text.append(f"                - {hebrew_word} - {english_word.replace('_', ' ')}: words/{english_word}.md\n")
+                with open(LEMMAS_INDEX, 'r') as f:
+                    entries = f.readlines()
+                    for entry in entries:
+                        entry = entry.strip()
+                        if entry and not entry.startswith("#"):
+                            if len(entry) == 1:
+                                letter = entry
+                                letter_written = False
+                            else:
+                                if not letter_written:
+                                    text.append(f"            - {letter}:\n")
+                                    letter_written = True
+                                parts = entry.split(':')
+                                text.append(f"                - {parts[0].strip()} - {parts[1].strip()}: words/{parts[2].strip()}.md\n")
             elif line.replace(" ", "").startswith("-Semanticfields:"):
                 for s_field in semantic_fields_dict:
                     text.append(f"            - {capitalize(s_field)}: semantic_fields/{s_field}.md\n")
             elif line.replace(" ", "").startswith("-Contributors:"):
                 for contributor in contributors_dict:
                     text.append(f"            - {capitalize_name(contributor)}: contributors/{contributor}.md\n")
+            elif line.replace(" ", "").startswith("-Editorialboard:"):
+                for filename in os.listdir(EDITORIAL_BOARD_DOCS):
+                    if filename != ".DS_Store":
+                        name = Path(filename).stem
+                        text.append(f"            - {capitalize_name(name)}: editorial_board/{name}.md\n")
             elif line.replace(" ", "").startswith("-Miscellaneous:"):
                 for article in os.listdir(MISCELLANEOUS):
                     if article != ".DS_Store":
@@ -577,12 +591,33 @@ def write_navigation(words_dict, semantic_fields_dict, contributors_dict):
         f.write("".join(text))
 
 
+def check_lemmas_index_consistency(words_dict):
+    lemmas, files = [], []
+
+    with open(LEMMAS_INDEX, 'r') as f:
+        entries = f.readlines()
+        for entry in entries:
+            entry = entry.strip()
+            if entry and not entry.startswith("#") and len(entry) > 1:
+                lemmas.append(entry.split(':')[2].strip())
+
+    for entry in words_dict:
+        files.append(entry[1])
+
+    for lemma in lemmas:
+        if lemma not in files:
+            error(f"The file '{lemma}' in lemmas index not found")
+
+    for file in files:
+        if file not in lemmas:
+            error(f"The file '{file}' not found in lemmas index")
+
+
 def write_word_list(words_dict):
     f = open(WORDS_LIST, 'w')
     writer = csv.writer(f)
-    for key in words_dict.keys():
-        for word in words_dict[key]:
-            writer.writerow([word[0], word[1]])
+    for word in words_dict:
+        writer.writerow([word[0], word[1]])
     f.close()
 
 
@@ -594,11 +629,13 @@ def make_docs():
     write_words(shebanq_dict, ubs_dict)
     write_semantic_fields(semantic_fields_dict)
     write_contributors(contributors_dict)
+    write_editorial_board(contributors_dict)
     write_miscellaneous()
     write_store()
     copy_photos()
     copy_pdfs()
-    write_navigation(words_dict, semantic_fields_dict, contributors_dict)
+    write_navigation(semantic_fields_dict, contributors_dict)
+    check_lemmas_index_consistency(words_dict)
     write_word_list(words_dict)
     return not show_errors()
 

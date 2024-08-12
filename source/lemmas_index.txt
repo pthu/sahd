@@ -1,0 +1,86 @@
+# LEMMA INDEX
+# Hebrew word : English word : filename
+
+
+א
+אוּרִים וְתֻמִּים : Urim Thummim : Urim_Thummim
+
+ב
+בֶּקַע : beka : beka
+
+ג
+גְּאוּלִים : redemption : redemption
+גאל : to redeem : to_redeem
+גְּאֻלָּה : redemption, right of : redemption,_right_of
+
+ד
+
+ה
+
+ו
+
+ז
+
+ח
+חֹזֶה : (court) diviner : (court)_diviner
+חַשְׁמַן : amethyst : amethyst
+
+ט
+טוה : to spin, twist : to_spin,_twist
+
+י
+יְשׁוּעָה : protection : protection
+ישׁע : to save, help : to_save,_help
+יֵשַׁע : safety : safety
+
+ך
+
+כ
+
+ל
+
+ם
+
+מ
+מָאוֹר : light : light
+מְגִלָּה : scroll : scroll
+מוֹשָׁעָה : deliverance : deliverance
+מַחֲרָשָׁה/מַחֲרֶשֶׁת : plough : plough
+מַפְרֶקֶת : neck : neck
+
+ן
+
+נ
+נָבִיא/נְבִיאָה : prophet(ess) : prophet(ess)
+
+ס
+
+ע
+
+ף
+
+פ
+פָּדָה : to liberate : to_liberate
+פְּדוּיִם : redemption price : redemption_price
+פְּדוּת : redemption-action : redemption-action
+פִּדְיוֹן : ransom : ransom
+פֶּלֶךְ : spindle : spindle
+
+ץ
+
+צ
+צלה : to roast : to_roast
+
+ק
+
+ר
+רֹאֶה : seer : seer
+
+ש
+שׁוֹעַ : great man : great_man
+שׁוּעַ : cry for help : cry_for_help
+
+ת
+תְּבוּנָה : understanding : understanding
+תִּפְלָה : senselessness : senselessness
+
