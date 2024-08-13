@@ -8,36 +8,36 @@ nav:
     - Home: index.md
     - Lemmas:
             - א:
-                - אוּרִים וְתֻמִּים - Urim Thummim: words/Urim_Thummim.md
+                - אוּרִים וְתֻמִּים - Urim Thummim: words/Urim_Thummim.md
             - ב:
-                - בֶּקַע - beka: words/beka.md
+                - בֶּקַע - beka: words/beka.md
             - ג:
-                - גְּאוּלִים - redemption: words/redemption.md
+                - גְּאוּלִים - redemption: words/redemption.md
                 - גאל - to redeem: words/to_redeem.md
-                - גְּאֻלָּה - redemption, right of: words/redemption,_right_of.md
+                - גְּאֻלָּה - redemption, right of: words/redemption,_right_of.md
             - ח:
                 - חֹזֶה - (court) diviner: words/(court)_diviner.md
-                - חַשְׁמַן - amethyst: words/amethyst.md
+                - חַשְׁמַן - amethyst: words/amethyst.md
             - ט:
                 - טוה - to spin, twist: words/to_spin,_twist.md
             - י:
-                - יְשׁוּעָה - protection: words/protection.md
-                - ישׁע - to save, help: words/to_save,_help.md
-                - יֵשַׁע - safety: words/safety.md
+                - יְשׁוּעָה - protection: words/protection.md
+                - ישׁע - to save, help: words/to_save,_help.md
+                - יֵשַׁע - safety: words/safety.md
             - מ:
                 - מָאוֹר - light: words/light.md
-                - מְגִלָּה - scroll: words/scroll.md
-                - מוֹשָׁעָה - deliverance: words/deliverance.md
-                - מַחֲרָשָׁה/מַחֲרֶשֶׁת - plough: words/plough.md
+                - מְגִלָּה - scroll: words/scroll.md
+                - מוֹשָׁעָה - deliverance: words/deliverance.md
+                - מַחֲרָשָׁה/מַחֲרֶשֶׁת - plough: words/plough.md
                 - מַפְרֶקֶת - neck: words/neck.md
             - נ:
                 - נָבִיא/נְבִיאָה - prophet(ess): words/prophet(ess).md
             - פ:
-                - פָּדָה - to liberate: words/to_liberate.md
-                - פְּדוּיִם - redemption price: words/redemption_price.md
-                - פְּדוּת - redemption-action: words/redemption-action.md
-                - פִּדְיוֹן - ransom: words/ransom.md
-                - פֶּלֶךְ - spindle: words/spindle.md
+                - פָּדָה - to liberate: words/to_liberate.md
+                - פְּדוּיִם - redemption price: words/redemption_price.md
+                - פְּדוּת - redemption-action: words/redemption-action.md
+                - פִּדְיוֹן - ransom: words/ransom.md
+                - פֶּלֶךְ - spindle: words/spindle.md
             - צ:
                 - צלה - to roast: words/to_roast.md
             - ר:
@@ -46,8 +46,8 @@ nav:
                 - שׁוֹעַ - great man: words/great_man.md
                 - שׁוּעַ - cry for help: words/cry_for_help.md
             - ת:
-                - תְּבוּנָה - understanding: words/understanding.md
-                - תִּפְלָה - senselessness: words/senselessness.md
+                - תְּבוּנָה - understanding: words/understanding.md
+                - תִּפְלָה - senselessness: words/senselessness.md
     - Semantic fields:
             - Writing: semantic_fields/Writing.md
             - Agriculture: semantic_fields/agriculture.md
@@ -81,6 +81,8 @@ nav:
             - T. Jonathan Stökl: contributors/t._jonathan_stökl.md
             - Bertus van ’t Veld: contributors/bertus_van_’t_veld.md
             - Klaas R. Veenhof: contributors/klaas_r._veenhof.md
+    - Editorial board:
+            - Raymond de Hoop: editorial_board/raymond_de_hoop.md
     - Miscellaneous:
             - Overview Deliverance: miscellaneous/overview_deliverance.md
     - Partners: 'store/partners.md'
