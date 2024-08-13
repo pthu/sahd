@@ -230,8 +230,42 @@ def get_ubs_reference(word_hebrew, ubs_dict):
         return None
 
 
+def modify_for_sorting(word_hebrew):
+    # This method is called for sorting Hebrew words where all the letters
+    # are the same and in same order.  Only the points marking vowels differ.
+    # To sort these words according to the vowel markings we change all letters
+    # to a letter "A", whose Unicode value is smaller than Unicode values of
+    # Hebrew vowel markings. This way the Unicode values of vowel markings
+    # define the sort order.
+    word_to_sort = ""
+    for i in range(len(word_hebrew)):
+        if ord(word_hebrew[i]) >= 0x5D0:
+            word_to_sort += "A"
+        else:
+            word_to_sort += word_hebrew[i]
+    return word_to_sort
+
+
 def sort_hebrew(source_dict):
-    return sorted(source_dict.items())
+    temp_dict = {}
+    for key in source_dict:
+        pointless = get_pointless(key)
+        if pointless in temp_dict.keys():
+            temp_dict[pointless].update({key: source_dict[key]})
+        else:
+            temp_dict[pointless] = {key: source_dict[key]}
+
+    temp2_dict = {}
+    for key in sorted(temp_dict):
+        vocalized_variations = sorted(temp_dict[key].items(), key=lambda t: modify_for_sorting(t[0]))
+        temp2_dict[key] = vocalized_variations
+
+    result_list = []
+    for value in temp2_dict.values():
+        for i in range(len(value)):
+            result_list.append((value[i][0], value[i][1]))
+
+    return result_list
 
 
 def sort_contributors(contributors_dict):
