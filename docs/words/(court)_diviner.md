@@ -5,7 +5,7 @@
 Semantic Fields:
 [Cult](../semantic_fields/cult.md)&nbsp;&nbsp;&nbsp;[Divination](../semantic_fields/divination.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [T. Jonathan Stökl](../contributors/t._jonathan_stökl.md)<br>
-First published: 2010-08-02<br>Last update: 2024-06-30 <br>Citation: T. Jonathan Stökl, חֹזֶה – seer, (court) diviner, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2010 (update: 2024)
+First published: 2010-08-02<br>Last update: 2024-06-30 <br>Citation: T. Jonathan Stökl, חֹזֶה – seer, (court) diviner, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
 
 
 ## Introduction

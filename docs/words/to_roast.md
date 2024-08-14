@@ -5,7 +5,7 @@
 Semantic Fields:
 [Food Preparation](../semantic_fields/food preparation.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Kurtis Peters](../contributors/kurtis_peters.md)<br>
-First published: 2014-11-30<br>Last update: 2024-06-30 <br>Citation: Kurtis Peters, צלה – to roast, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2014 (update: 2024)
+First published: 2014-11-30<br>Last update: 2024-06-30 <br>Citation: Kurtis Peters, צלה – to roast, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2014 (update: 2024)
 
 
 ## Introduction:

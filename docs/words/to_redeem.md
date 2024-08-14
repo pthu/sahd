@@ -5,7 +5,7 @@
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Alison Gray](../contributors/alison_gray.md)<br>
-First published: 2007-08-01<br>Last update: 2024-07-01 (Raymond de Hoop, Paul Sanders) <br>Citation: Alison Gray, גאל – to redeem (as kinsman), buy/claim (back), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2007 (update: 2024)
+First published: 2007-08-01<br>Last update: 2024-07-01 (Raymond de Hoop, Paul Sanders) <br>Citation: Alison Gray, גאל – to redeem (as kinsman), buy/claim (back), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2007 (update: 2024)
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 

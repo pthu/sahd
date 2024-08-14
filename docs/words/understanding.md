@@ -5,7 +5,7 @@
 Semantic Fields:
 [Knowledge](../semantic_fields/knowledge.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [M. Patrizia Sciumbata](../contributors/m._patrizia_sciumbata.md)<br>
-First published: 2009-09-16<br>Last update: 2024-06-30 (Raymond de Hoop, Paul Sanders) <br>Citation: M. Patrizia Sciumbata, תְּבוּנָה – understanding, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2009 (update: 2024)
+First published: 2009-09-16<br>Last update: 2024-06-30 (Raymond de Hoop, Paul Sanders) <br>Citation: M. Patrizia Sciumbata, תְּבוּנָה – understanding, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2009 (update: 2024)
 
 
 

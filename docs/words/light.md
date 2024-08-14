@@ -5,7 +5,7 @@
 Semantic Fields:
 [Light](../semantic_fields/light.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Cornelis Houtman](../contributors/cornelis_houtman.md)<br>
-First published: 2011-03-24<br>Last update: 2019-11-16 <br>Citation: Raymond de Hoop,&nbsp;Cornelis Houtman, מָאוֹר – light (source), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2011 (update: 2019)
+First published: 2011-03-24<br>Last update: 2019-11-16 <br>Citation: Raymond de Hoop,&nbsp;Cornelis Houtman, מָאוֹר – light (source), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2019)
 
 
 ##<span id="I">Introduction</span>

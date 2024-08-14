@@ -4,7 +4,7 @@
 
 Author(s):
 [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)<br>
-First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: James K. Aitken,&nbsp;Graham I. Davies, שׁוּעַ – cry for help(?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2016 (update: 2024)
+First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: James K. Aitken,&nbsp;Graham I. Davies, שׁוּעַ – cry for help(?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2016 (update: 2024)
 
 
 For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
