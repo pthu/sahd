@@ -3,7 +3,7 @@
 word_english: scroll  
 word_hebrew: מְגִלָּה  
 title:   
-semantic_fields: Writing  
+semantic_fields: writing  
 contributors: paul_sanders, klaas_a._d._smelik   
 first_published: 2011-05-18  
 last_update: 2024-06-30  

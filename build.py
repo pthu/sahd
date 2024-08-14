@@ -287,7 +287,7 @@ def sort_contributors(contributors_dict):
 
 def sort_latin(source_dict, contributors=False):
     target_dict = {}
-    sorted_dict = sort_contributors(source_dict) if contributors else sorted(source_dict)
+    sorted_dict = sort_contributors(source_dict) if contributors else sorted(source_dict, key=lambda s: s.lower())
     for key in sorted_dict:
         for item in sorted(source_dict[key].keys()):
             if key in target_dict.keys():
@@ -320,14 +320,14 @@ def get_relations():
                     for key in keys:
                         if line.startswith("semantic_fields:"):
                             if key in semantic_fields.keys():
-                                semantic_fields[key][word_hebrew] = word_english
+                                semantic_fields[key][word_hebrew] = (word_english, word.name)
                             else:
-                                semantic_fields[key] = {word_hebrew: word_english}
+                                semantic_fields[key] = {word_hebrew: (word_english, word.name)}
                         else:
                             if key in contributors.keys():
-                                contributors[key][word_hebrew] = word_english
+                                contributors[key][word_hebrew] = (word_english, word.name)
                             else:
-                                contributors[key] = {word_hebrew: word_english}
+                                contributors[key] = {word_hebrew: (word_english, word.name)}
 
     # sort dictionaries
     words_dict = sort_hebrew(words)
@@ -430,7 +430,7 @@ def write_words(shebanq_dict, ubs_dict):
                             text.append("<br>")
                     text.append(f"Citation: {contributors_citing}, {word_english_hebrew}, <br>\
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
-                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd)")
+                    Semantics of Ancient Hebrew Database (sahd-online.com)")
                     if first_published:
                         text.append(f", {first_published.split('-')[0]}")
                         if last_update:
@@ -467,7 +467,7 @@ def write_semantic_fields(semantic_fields_dict):
                 text.append(line)
             text.append("\n### Related words\n")
             for word in words:
-                text.append(f"[{word[0]} – {word[1].replace('_', ' ')}](../words/{word[1]}.md)<br>")
+                text.append(f"[{word[0]} – {word[1][0].replace('_', ' ')}](../words/{word[1][1]})<br>")
 
         with open(SEMANTIC_FIELDS_DOCS / f"{s_field}.md", 'w') as f:
             f.write("".join(text))
@@ -494,7 +494,7 @@ def write_contributors(contributors_dict):
                 text.append(line)
             text.append("\n### Contributions\n")
             for word in words:
-                text.append(f"[{word[0]} – {word[1].replace('_', ' ')}](../words/{word[1]}.md)<br>")
+                text.append(f"[{word[0]} – {word[1][0].replace('_', ' ')}](../words/{word[1][1]})<br>")
 
         with open(CONTRIBUTORS_DOCS / f"{contributor}.md", 'w') as f:
             f.write("".join(text))
@@ -522,7 +522,7 @@ def write_editorial_board(contributors_dict):
                 if len(words) > 0:
                     text.append("\n### Contributions\n")
                     for word in words:
-                        text.append(f"[{word[0]} – {word[1].replace('_', ' ')}](../words/{word[1]}.md)<br>")
+                        text.append(f"[{word[0]} – {word[1][0].replace('_', ' ')}](../words/{word[1][1]})<br>")
 
             with open(EDITORIAL_BOARD_DOCS / f"{name}.md", 'w') as f:
                 f.write("".join(text))
