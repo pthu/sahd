@@ -44,6 +44,7 @@ SHEBANQ = '<div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.an
 UBS = '<div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=replace&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div>'
 
 PHOTO_PATH = r"(.*!\[.*])(\(.*/(.*\.(png|PNG|jpg|JPG|jpeg|JPEG|gif|GIF|tiff|TIFF)))(.*)"
+PHOTO_PATH_REPLACEMENT_HOME = r"\1(./images/photos/\3\5"
 PHOTO_PATH_REPLACEMENT = r"\1(../images/photos/\3\5"
 PDF_PATH = r'(.*src=")(\.\./pdfs/)(.*)'
 PDF_PATH_REPLACEMENT = r"\1/sahd/pdfs/\3"
@@ -343,6 +344,7 @@ def write_index_file():
     with open(SRC / f"{filename}", 'r') as f:
         lines = f.readlines()
         for line in lines:
+            line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT_HOME, line) # modify possible photo path
             text.append(line)
 
     with open(DOCS / f"{filename}", 'w') as f:
@@ -533,6 +535,7 @@ def write_miscellaneous_file(filename):
     with open(MISCELLANEOUS / filename, 'r') as f:
         lines = f.readlines()
         for line in lines:
+            line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT, line) # modify possible photo path
             text.append(line)
 
     with open(f"{MISCELLANEOUS_DOCS / filename}", 'w') as f:
@@ -554,6 +557,7 @@ def write_store_file(filename):
     with open(STORE / f"{filename}.md", 'r') as f:
         lines = f.readlines()
         for line in lines:
+            line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT, line) # modify possible photo path
             text.append(line)
 
     with open(f"{STORE_DOCS / filename}.md", 'w') as f:
