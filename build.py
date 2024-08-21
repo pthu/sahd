@@ -357,7 +357,7 @@ def write_words(shebanq_dict, ubs_dict):
     os.mkdir(WORDS_DOCS)
 
     for word in WORDS.glob("*"):
-        word_hebrew, word_english, title, shebanq_id, first_published, last_update, additional_info = "", "", "", "", "", "", ""
+        word_hebrew, word_english, transcription, title, shebanq_id, first_published, last_update, additional_info = "", "", "", "", "", "", "", ""
         semantic_fields, contributors = [], []
         text, first_dashes, second_dashes = [], False, False
         if word.name == ".DS_Store":
@@ -378,6 +378,8 @@ def write_words(shebanq_dict, ubs_dict):
                     word_english = get_value(line)
                 elif line.startswith("word_hebrew:"):
                     word_hebrew = reverse(get_value(line))
+                elif line.startswith("transcription:"):
+                    transcription = get_value(line)
                 elif line.startswith("title:"):
                     title = get_value(line)
                 elif line.startswith("semantic_fields:"):
@@ -406,7 +408,7 @@ def write_words(shebanq_dict, ubs_dict):
                     if not word_english or not word_hebrew:
                         error(f"Metadata for {filename} incomplete")
                     title_english = title if title else word_english.replace('_', ' ')
-                    word_english_hebrew = f"{reverse(word_hebrew)} – {title_english}"
+                    word_english_hebrew = f"{reverse(word_hebrew)} {transcription} – {title_english}"
                     text.append(f"# {word_english_hebrew}\n\n")
                     if len(semantic_fields) > 0:
                         text.append("Semantic Fields:\n")
