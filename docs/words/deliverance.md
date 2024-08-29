@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># מוֹשָׁעָה – deliverance
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># מוֹשָׁעָה  – deliverance
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [James K. Aitken](../contributors/james_k._aitken.md)<br>
-First published: 2000-06-30<br>Last update: 2024-06-30 <br>Citation: James K. Aitken, מוֹשָׁעָה – deliverance, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2000 (update: 2024)
+First published: 2000-06-30<br>Last update: 2024-06-30 <br>Citation: James K. Aitken, מוֹשָׁעָה  – deliverance, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2000 (update: 2024)
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 

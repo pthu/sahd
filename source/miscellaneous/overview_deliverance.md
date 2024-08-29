@@ -107,7 +107,7 @@ what he will later call the ‘lexical group’ of salvation-words which are
 <span dir="rtl" lang="he">פלט</span>, 
 <span dir="rtl" lang="he">פצה</span>, 
 and 
-<span dir="rtl" lang="he">פרק</span> 
+<span dir="rtl" lang="he">פרק</span>,
 and the Biblical Hebrew nouns etymologically related
 to them. 
 
@@ -167,8 +167,9 @@ speaker’s enemies (once חמס as a [superficially] generic term) with all
 the words examined. Among other meaning-relations opposition (the
 favourite of structural linguists) is generally the most illuminating,
 and Sawyer’s examples produce the following oppositions: 
-for הושׁיע there 
-are 
+for
+<span dir="rtl" lang="he">הושׁיע</span>
+there are 
 <span dir="rtl" lang="he">השפיל</span>,
 <span dir="rtl" lang="he">מות</span>, 
 <span dir="rtl" lang="he">נפל</span> 
@@ -177,7 +178,7 @@ are
 and
 <span dir="rtl" lang="he">שקר</span>;
 for the other words there is only (for עזר) כחש.
- As Sawyer
+As Sawyer
 points out, these words connect with specific aspects (‘components’?) of
 the meaning of the words in the group, some relating to the subject and
 some to the treatment of the object: between them they narrow down (but
@@ -334,7 +335,7 @@ distinction from הושׁיע (from Jenni),
 with the latter being viewed as a
 subsequent action (or is it a summary word?). The distinction between
 מלט and פלט
- (see below on <a href="#Williams">Williams</a>.) is already there in essence in
+ (see below on <a href="#Williams">Williams</a>) is already there in essence in
 all three articles, though <i>THAT</i> (Ruprecht 1978) 
 claims that there is no distinction of
 meaning when they are used in parallel, and <i>NIDOTTE</i> finds evidence of
@@ -439,8 +440,7 @@ comparatively low (c. 23x, 12%) and Sawyer’s conclusion about its low
 ‘transitivity’ should be noted (and perhaps 
 re-examined): these features
 suggest that the focus of the verb is on the agent or the action rather
-than the beneficiary or the danger/need.
-
+than the beneficiary or the danger/need.   
 Related nouns account for another 180 or so occurrences in BHeb., the great
 majority being instances of three nouns:
 <span dir="rtl" lang="he">יֵשַׁע</span>,
@@ -629,24 +629,24 @@ account of what they may have to offer in this particular case.
 especially with the Niphal). It also appears occasionally for 
 <span dir="rtl" lang="he">עזר</span>,
 <span dir="rtl" lang="he">הציל</span>, 
-(esp. with the Niphal), פלט (where it is preferred by the Three) and
-פדה.  
+(esp. with the Niphal), פלט (where it is preferred by the Three) 
+and <span dir="rtl">פדה</span>.  
 It has a wide range of meaning, including ‘save from death’, ‘keep safe’
 and in the passive ‘be healed’ and ‘escape’. The associated nouns are
 often used in a religious sense.
 
-βοηθέω is regularly used for עזר etc., but also for הושׁיע.  
+βοηθέω is regularly used for עזר etc., but also for הושׁיע. 
 It means ‘help’, but also sometimes ‘come to the rescue’.
 
 ἐξαιρέω is one of the common equivalents for הציל, and it is also used
-for מלט and פלט.  
+for מלט and פלט. 
 It means ‘take out, take from’, and also ‘remove’, often in a negative
 sense but also (in the middle acc. LSJ) for ‘set free’.
 
 <span lang="el">ῥύομαι</span> is the other main equivalent for הציל and it is preferred for
 פלט. It sometimes appears as a rendering for הושׁיע and מלט, and
 occasionally for גאל (mainly in Isaiah where the subject is God) and
-פדה.  
+<span dir="rtl" lang="he">פדה</span>. 
 Its meaning in classical and later Greek is mainly ‘rescue, set free’
 and even ‘redeem’ (the sense ‘protect, defend’ is virtually confined to
 Homer). Unlike ἐξαιρέω, therefore, it is entirely used of a positive
@@ -656,7 +656,7 @@ outcome.
 difference that ἀγχιστεύω, ‘to be next of kin’, is also frequently used
 for גאל but not for פדה. λυτρόω/ομαι is also used for the cases of פרק
 which have a personal object, no doubt because of the sense ‘redeem’
-which that verb had in Aramaic.  
+which that verb had in Aramaic. 
 The meaning is ‘release on receipt of a ransom’ in the active and
 ‘release by the payment of a ransom, redeem’ in the middle.
 
@@ -699,7 +699,7 @@ notable differences.
 
 <i>salvo</i> is regularly used for הושׁיע and for the Piel forms not only of
 מלט but of פלט (see below on the renderings of other instances of these
-roots).  
+roots). 
 It is a late Latin word, derived from the classical adjective <i>salvus</i>,
 ‘safe, sound’ and it is used in preference to the older <i>servo</i> (which
 seems to mean ‘keep’ in the Vulgate).[^13] Perhaps it conveys a stronger
@@ -716,7 +716,7 @@ Lewis & Short, <i>LD</i> (p. 38) say that <i>adiuvo</i> is the general word, whi
 aid for the weak.
 
 <i>eruo</i> is one of two common equivalents for הציל, but it seems not to be
-widely used otherwise (occasionally for פדה).  
+widely used otherwise (occasionally for פדה). 
 This verb, unlike ῥύομαι in Greek (and more like ἐξαιρέω), frequently
 has a neutral or even negative sense (like other compounds of <i>ruo</i>),
 but the positive use is also well attested: ‘rescue, release’. Still its
@@ -726,7 +726,7 @@ words in the lexical group.
 <i>libero</i> is also commonly used for הציל (especially the Niphal) and it
 appears occasionally for פדה and quite often for הושׁיע, though not as
 often as <i>salvo</i>. The neutral or negative senses of הציל are represented
-by various other words which mean ‘remove’ or ‘plunder’.  
+by various other words which mean ‘remove’ or ‘plunder’. 
 <i>libero</i>, from its association with <i>liber</i>, ‘free’, etc. has the
 primary sense of ‘free, release from slavery’, but it was also used much
 more widely of release from e.g. an obligation or a difficulty. It
@@ -740,7 +740,7 @@ renderings of the Niphal of מלט and nouns derived from פלט.
 are distinguished by the number of cases in which <i>propinquus</i> (in the
 sense ‘close relative’) is used for גאל and (phrases using) <i>pretium</i>
 for פדה, and not vice versa. פרק is also rendered by <i>redimo</i> in two of
-the three places where a person is the object.  
+the three places where a person is the object. 
 <i>redimo</i> means ‘buy back’ and particularly to ‘ransom’ a slave. The
 element of ‘recovery’ is, however, not always present and it could be
 used more generally for either ‘purchase’ or ‘acquire’.
@@ -764,6 +764,7 @@ similarity and difference.
 
 <b>Targums</b>: סְעַד and סיע (but not עדר) are naturally used for עזר, but
 interestingly they are not used for הושׁיע.  
+
 The meaning of סְעַד according to Jastrow (<i>DTT</i>, 1009)
 is normally ‘assist, help’,
 but it is also used of sustenance by food or drink.
@@ -795,12 +796,17 @@ Targumic renderings.
  is the other expression that is frequently used. It is the
 regular equivalent for הציל (though רוק is used for the Piel and עדי for
 the Hithpael, and פְּצָא frequently appears in Psalms, Job and Proverbs),
-מלט and פלט, and it sometimes appears for גאל.  
+<span dir="rtl" lang="he">מלט</span> and
+<span dir="rtl" lang="he">פלט</span>,
+and it sometimes appears for
+<span dir="rtl" lang="he">גאל</span>.
 The meaning of 
 שֵׁיזֵ(י)ב
 is ‘release, save’ (Jastrow, <i>DTT</i>, 1558), ‘save’ (CAL).
 
-פְּלַט is occasionally used for מלט and פלט.  
+<span dir="rtl" lang="he">פְּלַט</span> is occasionally used for
+<span dir="rtl" lang="he">מלט</span> and
+<span dir="rtl" lang="he">פלט</span>.
 In Aramaic פְּלַט has the meanings ‘discharge (from the body)’ and
 ‘escape’ (Jastrow, <i>DTT</i>, 1179): CAL attributes the meanings ‘eject’ and 
 ‘escape’ to
@@ -1037,7 +1043,7 @@ and
 implying perhaps
 ‘rescue’ in the one case and ‘redemption’ in the other.
 
-### 3. Concluding summary
+### 3. Concluding Summary
 
 Our examination of the individual lexemes has shown that some, in fact
 most, of them have a range of meaning that embraces more than

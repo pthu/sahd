@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=מָאֹור&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># מָאוֹר – light (source)
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=מָאֹור&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># מָאוֹר  – light (source)
 
 Semantic Fields:
 [Light](../semantic_fields/light.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Cornelis Houtman](../contributors/cornelis_houtman.md)<br>
-First published: 2011-03-24<br>Last update: 2019-11-16 <br>Citation: Raymond de Hoop,&nbsp;Cornelis Houtman, מָאוֹר – light (source), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2019)
+First published: 2011-03-24<br>Last update: 2019-11-16 <br>Citation: Raymond de Hoop,&nbsp;Cornelis Houtman, מָאוֹר  – light (source), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2019)
 
 
 ##<span id="I">Introduction</span>

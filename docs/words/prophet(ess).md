@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># נָבִיא/נְבִיאָה – prophet(ess), diviner
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># נָבִיא/נְבִיאָה  – prophet(ess), diviner
 
 Semantic Fields:
 [Cult](../semantic_fields/cult.md)&nbsp;&nbsp;&nbsp;[Divination](../semantic_fields/divination.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [T. Jonathan Stökl](../contributors/t._jonathan_stökl.md)<br>
-First published: 2010-08-02<br>Last update: 2024-06-30 <br>Citation: T. Jonathan Stökl, נָבִיא/נְבִיאָה – prophet(ess), diviner, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
+First published: 2010-08-02<br>Last update: 2024-06-30 <br>Citation: T. Jonathan Stökl, נָבִיא/נְבִיאָה  – prophet(ess), diviner, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
 
 
 

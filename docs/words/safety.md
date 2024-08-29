@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># יֵשַׁע – safety (state or place of)
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># יֵשַׁע  – safety (state or place of)
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [James K. Aitken](../contributors/james_k._aitken.md)<br>
-First published: 2016-01-01<br>Last update: 2023-12-03 (Raymond de Hoop, Paul Sanders) <br>Citation: James K. Aitken, יֵשַׁע – safety (state or place of), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2016 (update: 2023)
+First published: 2016-01-01<br>Last update: 2023-12-03 (Raymond de Hoop, Paul Sanders) <br>Citation: James K. Aitken, יֵשַׁע  – safety (state or place of), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2016 (update: 2023)
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
