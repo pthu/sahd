@@ -4,4 +4,4 @@
 
 
 ### Contributions
-[בֶּקַע – beka](../words/beka.md)<br>
+[בֶּקַע – beka](../words/beqa3.md)<br>

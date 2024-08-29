@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># אוּרִים וְתֻמִּים  – Urim and Thummim
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># אוּרִים וְתֻמִּים <i>ʾūrīm w<small><sup>e</sup></small>ṯummīm</i> – Urim and Thummim
 
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Cult](../semantic_fields/cult.md)&nbsp;&nbsp;&nbsp;[Divination](../semantic_fields/divination.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Kees den Hertog](../contributors/kees_den_hertog.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<br>
-First published: 2022-08-02<br>Last update: 2024-05-30 <br>Citation: Kees den Hertog,&nbsp;Paul Sanders, אוּרִים וְתֻמִּים  – Urim and Thummim, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2022 (update: 2024)
+First published: 2022-08-02<br>Last update: 2024-05-30 <br>Citation: Kees den Hertog,&nbsp;Paul Sanders, אוּרִים וְתֻמִּים <i>ʾūrīm w<small><sup>e</sup></small>ṯummīm</i> – Urim and Thummim, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2022 (update: 2024)
 
 
 ##<span id="I">Introduction</span>
@@ -295,14 +295,12 @@ Ezra 2:63/Neh 7:65.
 
 ##<span id="AV">4. Ancient Versions</span>
 
-<b>A.1</b> The nouns <span dir="rtl">אוּרִים</span> and <span dir="rtl">תֻּמִּים</span> are rendered as follows in the ancient translations.
-
 <b>a. Septuagint (LXX) and other Greek translations (αʹ, σʹ, θʹ)</b>:[^24]
 
 <span dir="rtl">אוּרִים</span> 
 
 * δῆλος, ‘obvious’ 
-(pl.):[^25] Num 27:21<sup><small>LXX</small></sup>; Deut 33:8<sup><small>LXX</small></sup> (order reversed); 1 Sam 28:6<sup><small>LXX,σʹ</small></sup>. Cf. Sir 33:3 ἐρώτημα δήλων, ‘inquiry of the clear ones’ (Hebrew lost); also in 1 Sam 14:41<sup><small>LXX</small></sup>, δῆλος (pl.) may represent <span dir="rtl">אוּרִים</span>; see <a href="#1S14v41lxx">Introduction A.2</a>; 
+(pl.):[^25] Num 27:21<sup><small>LXX</small></sup>; Deut 33:8<sup><small>LXX</small></sup> (order reversed); 1 Sam 28:6<sup><small>LXX,σʹ</small></sup>; cf. Sir 33:3 ἐρώτημα δήλων, ‘inquiry of the clear ones’ (Hebrew lost); also in 1 Sam 14:41<sup><small>LXX</small></sup>, δῆλος (pl.) may represent <span dir="rtl">אוּרִים</span>; see <a href="#1S14v41lxx">Introduction A.2</a>; 
 * δήλωσις, ‘act of making clear, explaining’ 
 (sg.):[^26] Exod 28:30<sup><small>LXX</small></sup>; Lev 8:8<sup><small>LXX</small></sup>; also 1 Esd 5:40<sup><small>LXX</small></sup> (for <span dir="rtl">אוּרִים</span> Ezra 2:63/Neh 7:65); 
 * διδαχή, ‘teaching’ (sg.):[^27] Deut 33:8<sup><small>σʹ</small></sup>; 
@@ -325,7 +323,7 @@ Lev 8:8<sup><small>αʹθʹ</small></sup>;
 * no rendering: Neh 7:65. 
 
 
-<b>b. Peshitta (Pesh)</b> 
+<b>b. Peshitta (Pesh)</b>: 
 
 <span dir="rtl">אוּרִים</span> 
 
@@ -353,7 +351,7 @@ Exod 28:30;
 * paraphrastic in Ezra 2:63; Neh 7:65; see under <span dir="rtl">אוּרִים</span>. 
 
 
-<b>c. Targumim (Tg: O/PsJ/N/Smr/J) </b>
+<b>c. Targumim (Tg: O/PsJ/N/Smr/J) </b>:
 
 <span dir="rtl">אוּרִים</span> 
 
@@ -391,7 +389,7 @@ Deut 33:8<sup><small>O,PsJ,N</small></sup>.
 
 
 
-<b>d. Vetus Latina (VL)[^50] and Vulgate (Vg)</b>
+<b>d. Vetus Latina (VL)[^50] and Vulgate (Vg)</b>:
 
 <span dir="rtl">אוּרִים</span> 
 
@@ -406,8 +404,8 @@ Deut 33:8<sup><small>VL</small></sup> (order reversed);
 * <i>ostensio</i>, 
 ‘showing, exhibiting, manifestation’ (sg.):[^55]
 Lev 8:8<sup><small>VL</small></sup>; 
-3 Esd 5:40<sup><small>Vg</small></sup> (= 1 Esd 5:40<sup><small>LXX</small></sup>; for <span dir="rtl">אוּרִים</span> Ezra 2:63/Neh 7:65). 
-The word <i>ostensio</i> 
+3 Esd 5:40<sup><small>Vg</small></sup> (= 1 Esd 5:40<sup><small>LXX</small></sup>; for <span dir="rtl">אוּרִים</span> Ezra 2:63/Neh 7:65); 
+the word <i>ostensio</i> 
 in 1 Sam 14:41<sup><small>VL,Vg-mss</small></sup> may also represent <span dir="rtl">אוּרִים</span>; see LXX (δῆλος pl.);
 * <i>sacerdos</i>, ‘priest’ (pl.): 
 1 Sam 28:6<sup><small>Vg</small></sup>;
@@ -435,7 +433,7 @@ Deut 33:8<sup><small>VL</small></sup> (order reversed);
 3 Esd 5:40<sup><small>Vg</small></sup> 
 (for <span dir="rtl">תֻּמִּים</span> Ezra 2:63/Neh 7:65). 
 
-<b>A.2</b>
+<b>A.1</b>
 Some renderings in the older layers of LXX seem to be based on guesses prompted by the context,
 such as δήλωσις and δῆλος pl. as translations of <span dir="rtl">אוּרִים</span>, but 
 especially ἀλήθεια as translation of <span dir="rtl">תֻּמִּים</span>,
@@ -454,7 +452,7 @@ Pesh ܝܕܥܬܐ, ‘knowledge’, and Vg
 <i>doctrina</i>, ‘instruction’, may also have been influenced by LXX’s translation of <span dir="rtl">אוּרִים</span> by δήλωσις and δῆλος pl.
 Other renderings in Pesh and Vg may also have been prompted by the context; e.g., Pesh ܫܐܠܬܐ, ‘request’, ‘inquiry’, Vg <i>doctus</i>, <i>eruditus</i>.
 
-<b>A.3</b> Especially the somewhat more recent translations of <span dir="rtl">אוּרִים</span> 
+<b>A.2</b> Especially the somewhat more recent translations of <span dir="rtl">אוּרִים</span> 
 and <span dir="rtl">תֻּמִּים</span> 
 reflect an interpretation of these nouns
 as derivatives 
@@ -477,7 +475,7 @@ Pesh
 <span dir="rtl">ܫܠܡܘܬܐ</span>,
 Tg<sup><small>Smr</small></sup> <span dir="rtl">שלמיה</span>, Vg <i>perfectio</i>, <i>perfectus</i>. 
 
-<b>A.4</b>
+<b>A.3</b>
 In Vg 1 Sam 28:6, the rendering of <span dir="rtl">גַּם בָּאוּרִים</span> by
 <i>neque per sacerdotes</i>, ‘nor by priests’, 
 harmonises the expression with the following <span dir="rtl">גַּם בַּנְּבִיאִם</span>, ‘nor by the prophets’, rendered 
@@ -485,7 +483,7 @@ in Vg as <i>neque per prophetas</i>. The free translation of <span dir="rtl">ג�
 took the connection of the Urim with the priesthood elsewhere in the Hebrew 
 Bible into account.
 
-<b>A.5</b>
+<b>A.4</b>
 In Ezra 2:63 and Neh 7:65, the <span dir="rtl">אוּרִים</span> and <span dir="rtl">תֻּמִּים</span> 
 are often translated in such a way that the reference to the priestly oracle is replaced by a description of the priest’s qualities:
 LXX Neh 7:65: ὁ ἱερεὺς φωτίσων, ‘the priest who will enlighten’;

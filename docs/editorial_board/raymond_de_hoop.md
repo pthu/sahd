@@ -11,4 +11,4 @@ Raymond (1958) is an independent scholar, working as editor and webmaster for th
 
 
 ### Contributions
-[בֶּקַע – beka](../words/beka.md)<br>[מָאוֹר – light](../words/light.md)<br>
+[בֶּקַע – beka](../words/beqa3.md)<br>[מָאוֹר – light](../words/light.md)<br>
