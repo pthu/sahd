@@ -3,10 +3,10 @@
 
 
 א
-אוּרִים וְתֻמִּים : Urim Thummim : Urim_Thummim
+אוּרִים וְתֻמִּים : Urim Thummim : 2urim_wthummim
 
 ב
-בֶּקַע : beka : beka
+בֶּקַע : beka : beqa3
 
 ג
 גְּאוּלִים : redemption : redemption
