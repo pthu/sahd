@@ -10,7 +10,7 @@
 
 ג
 גְּאוּלִים : redemption : redemption
-גאל : to redeem : to_redeem
+גאל : to redeem : g-2-l
 גְּאֻלָּה : redemption, right of : redemption,_right_of
 
 ד
