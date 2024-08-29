@@ -5,7 +5,7 @@
 Semantic Fields:
 [Craft](../semantic_fields/craft.md)&nbsp;&nbsp;&nbsp;[Textile Production](../semantic_fields/textile production.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Paul Sanders](../contributors/paul_sanders.md)<br>
-First published: 2021-10-29<br>Citation: Paul Sanders, טוה – to spin, twist together, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2021
+First published: 2021-10-29<br>Citation: Paul Sanders, טוה – to spin, twist together, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2021
 
 
 ##<span id="I">Introduction</span>

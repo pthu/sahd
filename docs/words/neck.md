@@ -4,7 +4,7 @@
 
 Author(s):
 [Graham I. Davies](../contributors/graham_i._davies.md)<br>
-First published: 2010-07-31<br>Last update: 2024-06-30 <br>Citation: Graham I. Davies, מַפְרֶקֶת – neck, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2010 (update: 2024)
+First published: 2010-07-31<br>Last update: 2024-06-30 <br>Citation: Graham I. Davies, מַפְרֶקֶת – neck, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
 
 
 For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview

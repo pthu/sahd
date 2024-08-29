@@ -5,7 +5,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Agriculture](../semantic_fields/agriculture.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Paul Sanders](../contributors/paul_sanders.md)<br>
-First published: 2017-12-29<br>Last update: 2023-11-29 <br>Citation: Paul Sanders, מַחֲרָשָׁה/מַחֲרֶשֶׁת – plough, hoe (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2017 (update: 2023)
+First published: 2017-12-29<br>Last update: 2023-11-29 <br>Citation: Paul Sanders, מַחֲרָשָׁה/מַחֲרֶשֶׁת – plough, hoe (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2017 (update: 2023)
 
 
 ##<span id="I">Introduction</span>

@@ -4,7 +4,7 @@
 
 Author(s):
 [Graham I. Davies](../contributors/graham_i._davies.md)<br>
-First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: Graham I. Davies, שׁוֹעַ – great man, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2016 (update: 2024)
+First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: Graham I. Davies, שׁוֹעַ – great man, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2016 (update: 2024)
 
 
 

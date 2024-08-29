@@ -5,7 +5,7 @@
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Alison Gray](../contributors/alison_gray.md)<br>
-First published: 2007-08-01<br>Last update: 2023-10-01 (Raymond de Hoop) <br>Citation: Alison Gray, גְּאֻלָּה – (price/right of) redemption, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd), 2007 (update: 2023)
+First published: 2007-08-01<br>Last update: 2023-10-01 (Raymond de Hoop) <br>Citation: Alison Gray, גְּאֻלָּה – (price/right of) redemption, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2007 (update: 2023)
 
 
 

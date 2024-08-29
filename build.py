@@ -44,6 +44,7 @@ SHEBANQ = '<div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.an
 UBS = '<div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=replace&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div>'
 
 PHOTO_PATH = r"(.*!\[.*])(\(.*/(.*\.(png|PNG|jpg|JPG|jpeg|JPEG|gif|GIF|tiff|TIFF)))(.*)"
+PHOTO_PATH_REPLACEMENT_HOME = r"\1(./images/photos/\3\5"
 PHOTO_PATH_REPLACEMENT = r"\1(../images/photos/\3\5"
 PDF_PATH = r'(.*src=")(\.\./pdfs/)(.*)'
 PDF_PATH_REPLACEMENT = r"\1/sahd/pdfs/\3"
@@ -287,7 +288,7 @@ def sort_contributors(contributors_dict):
 
 def sort_latin(source_dict, contributors=False):
     target_dict = {}
-    sorted_dict = sort_contributors(source_dict) if contributors else sorted(source_dict)
+    sorted_dict = sort_contributors(source_dict) if contributors else sorted(source_dict, key=lambda s: s.lower())
     for key in sorted_dict:
         for item in sorted(source_dict[key].keys()):
             if key in target_dict.keys():
@@ -320,14 +321,14 @@ def get_relations():
                     for key in keys:
                         if line.startswith("semantic_fields:"):
                             if key in semantic_fields.keys():
-                                semantic_fields[key][word_hebrew] = word_english
+                                semantic_fields[key][word_hebrew] = (word_english, word.name)
                             else:
-                                semantic_fields[key] = {word_hebrew: word_english}
+                                semantic_fields[key] = {word_hebrew: (word_english, word.name)}
                         else:
                             if key in contributors.keys():
-                                contributors[key][word_hebrew] = word_english
+                                contributors[key][word_hebrew] = (word_english, word.name)
                             else:
-                                contributors[key] = {word_hebrew: word_english}
+                                contributors[key] = {word_hebrew: (word_english, word.name)}
 
     # sort dictionaries
     words_dict = sort_hebrew(words)
@@ -343,6 +344,7 @@ def write_index_file():
     with open(SRC / f"{filename}", 'r') as f:
         lines = f.readlines()
         for line in lines:
+            line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT_HOME, line) # modify possible photo path
             text.append(line)
 
     with open(DOCS / f"{filename}", 'w') as f:
@@ -355,7 +357,7 @@ def write_words(shebanq_dict, ubs_dict):
     os.mkdir(WORDS_DOCS)
 
     for word in WORDS.glob("*"):
-        word_hebrew, word_english, title, shebanq_id, first_published, last_update, additional_info = "", "", "", "", "", "", ""
+        word_hebrew, word_english, transcription, title, shebanq_id, first_published, last_update, additional_info = "", "", "", "", "", "", "", ""
         semantic_fields, contributors = [], []
         text, first_dashes, second_dashes = [], False, False
         if word.name == ".DS_Store":
@@ -376,6 +378,8 @@ def write_words(shebanq_dict, ubs_dict):
                     word_english = get_value(line)
                 elif line.startswith("word_hebrew:"):
                     word_hebrew = reverse(get_value(line))
+                elif line.startswith("transcription:"):
+                    transcription = get_value(line)
                 elif line.startswith("title:"):
                     title = get_value(line)
                 elif line.startswith("semantic_fields:"):
@@ -404,7 +408,7 @@ def write_words(shebanq_dict, ubs_dict):
                     if not word_english or not word_hebrew:
                         error(f"Metadata for {filename} incomplete")
                     title_english = title if title else word_english.replace('_', ' ')
-                    word_english_hebrew = f"{reverse(word_hebrew)} – {title_english}"
+                    word_english_hebrew = f"{reverse(word_hebrew)} {transcription} – {title_english}"
                     text.append(f"# {word_english_hebrew}\n\n")
                     if len(semantic_fields) > 0:
                         text.append("Semantic Fields:\n")
@@ -430,7 +434,7 @@ def write_words(shebanq_dict, ubs_dict):
                             text.append("<br>")
                     text.append(f"Citation: {contributors_citing}, {word_english_hebrew}, <br>\
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
-                    Semantics of Ancient Hebrew Database (https://pthu.github.io/sahd)")
+                    Semantics of Ancient Hebrew Database (sahd-online.com)")
                     if first_published:
                         text.append(f", {first_published.split('-')[0]}")
                         if last_update:
@@ -467,7 +471,7 @@ def write_semantic_fields(semantic_fields_dict):
                 text.append(line)
             text.append("\n### Related words\n")
             for word in words:
-                text.append(f"[{word[0]} – {word[1].replace('_', ' ')}](../words/{word[1]}.md)<br>")
+                text.append(f"[{word[0]} – {word[1][0].replace('_', ' ')}](../words/{word[1][1]})<br>")
 
         with open(SEMANTIC_FIELDS_DOCS / f"{s_field}.md", 'w') as f:
             f.write("".join(text))
@@ -494,7 +498,7 @@ def write_contributors(contributors_dict):
                 text.append(line)
             text.append("\n### Contributions\n")
             for word in words:
-                text.append(f"[{word[0]} – {word[1].replace('_', ' ')}](../words/{word[1]}.md)<br>")
+                text.append(f"[{word[0]} – {word[1][0].replace('_', ' ')}](../words/{word[1][1]})<br>")
 
         with open(CONTRIBUTORS_DOCS / f"{contributor}.md", 'w') as f:
             f.write("".join(text))
@@ -522,7 +526,7 @@ def write_editorial_board(contributors_dict):
                 if len(words) > 0:
                     text.append("\n### Contributions\n")
                     for word in words:
-                        text.append(f"[{word[0]} – {word[1].replace('_', ' ')}](../words/{word[1]}.md)<br>")
+                        text.append(f"[{word[0]} – {word[1][0].replace('_', ' ')}](../words/{word[1][1]})<br>")
 
             with open(EDITORIAL_BOARD_DOCS / f"{name}.md", 'w') as f:
                 f.write("".join(text))
@@ -533,6 +537,7 @@ def write_miscellaneous_file(filename):
     with open(MISCELLANEOUS / filename, 'r') as f:
         lines = f.readlines()
         for line in lines:
+            line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT, line) # modify possible photo path
             text.append(line)
 
     with open(f"{MISCELLANEOUS_DOCS / filename}", 'w') as f:
@@ -554,6 +559,7 @@ def write_store_file(filename):
     with open(STORE / f"{filename}.md", 'r') as f:
         lines = f.readlines()
         for line in lines:
+            line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT, line) # modify possible photo path
             text.append(line)
 
     with open(f"{STORE_DOCS / filename}.md", 'w') as f:
