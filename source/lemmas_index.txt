@@ -65,6 +65,10 @@
 פְּדוּת : redemption-action : redemption-action
 פִּדְיוֹן : ransom : ransom
 פֶּלֶךְ : spindle : spindle
+פרק : to pull off : p-r-q
+פָּרָק : piece of meat : paraq
+פֶּרֶק : plunder : pereq
+
 
 ץ
 
@@ -82,5 +86,6 @@
 
 ת
 תְּבוּנָה : understanding : understanding
+תְּשׁוּעָה : deliverance, state of : thshu3ah
 תִּפְלָה : senselessness : senselessness
 
