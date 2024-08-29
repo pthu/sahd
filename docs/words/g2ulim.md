@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1GAWLJMn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=גְּאוּלִים&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># גְּאוּלִים  – redemption
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1GAWLJMn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=גְּאוּלִים&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># גְּאוּלִים <i>g<small><sup>e</sup></small>ʾūlīm</i> – redemption
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Alison Gray](../contributors/alison_gray.md)<br>
-First published: 2007-08-01<br>Last update: 2023-10-01 (Raymond de Hoop) <br>Citation: Alison Gray, גְּאוּלִים  – redemption, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2007 (update: 2023)
+First published: 2007-08-01<br>Last update: 2023-10-01 (Raymond de Hoop) <br>Citation: Alison Gray, גְּאוּלִים <i>g<small><sup>e</sup></small>ʾūlīm</i> – redemption, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2007 (update: 2023)
 
 
 
@@ -59,15 +59,9 @@ See <a href="https://pthu.github.io/sahd/words/to_redeem/#1-root-and-comparative
 
 [^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i> … claim on that which is currently not in one’s possession</i>’. LEH<sup><small>3</small></sup>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
-<b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of <span dir="rtl" lang="he">כפר</span>,
-<span dir="rtl" lang="he">גאל</span> and <span dir="rtl" lang="he">פדה</span>. In Classical Greek λύτρον denotes ‘price of release, ransom’ (LSJ, 1067b), the ‘means of release’ implied by the suffix –τρον, and was used for the sum paid to ransom prisoners of war and slaves (Procksch and Büchsel 1967:340).
-
-<b>A.2</b>  The choice of words in the LXX seems to vary according to context, λύτρον being used when the emphasis is on a particular sum of money and λύτρωσις when the action or right of redemption is being discussed.
-
 <b>b. Peshitta (Pesh):</b>
 
-* <span dir="rtl">ܦܘܪܩܢܐ</span>
-(<i>pwrqnʾ</i>), ‘saving, salvation, redemption’:[^3] Isa 63:4.
+* <span dir="rtl">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’:[^3] Isa 63:4.
 
 [^3]: Sokoloff, <i>SLB</i>, 1172.
 
@@ -78,24 +72,22 @@ See <a href="https://pthu.github.io/sahd/words/to_redeem/#1-root-and-comparative
 
 [^4]: Jastrow, <i>DTT</i>, 1148; Sokoloff, <i>DJPA</i>, 427.
 
-<b>A.1</b>  Both Pesh and Tg prefer the root ܦܪܩ (<i>prq</i>)/ פרק, rather than <span dir="rtl" lang="he">שׁיזב</span> (Tg<sup><small>J</small></sup>) or <span dir="rtl">ܦܨܝ/ܦܨܐ</span> 
-(<i>pṣʾ</i>/<i>pṣy</i>) (Pesh), to render גאל 
-(see entry on root <a href="https://pthu.github.io/sahd/words/to_redeem/"><span dir="rtl" lang="he">גאל</span></a>; cf. <a href="https://pthu.github.io/sahd/words/to_save%2C_help/"><span dir="rtl" lang="he">ישׁע</span></a>), 
-with the exception of passages in Ruth (4:6 [Tg<sup><small>K</small></sup>, Pesh], 7 [Pesh]) and Jeremiah (32:7 [Tg<sup><small>J</small></sup>, Pesh], 8 [Tg<sup><small>J</small></sup>]), where the choices of 
-<span dir="rtl">ܝܪܬܘܬܐ</span>
-(<i>yrtwtʾ</i>) 
-and <span dir="rtl" lang="he">אחסנתא</span> respectively emphasise the claim to inheritance.
-
-
-<b>A.2</b>  Here Tg has added עמי to make clear whose ‘redemption’ is
-    involved.
-
 
 <b>d. Vulgate (Vg):</b>
 
 * <i>redemptio</i>, ‘a buying back, redemption’:[^5] Isa 63:4.
 
 [^5]: Lewis & Short, <i>LD</i>, 1539.
+
+<b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of <span dir="rtl" lang="he">כפר</span>,
+<span dir="rtl" lang="he">גאל</span> and <span dir="rtl" lang="he">פדה</span>. In Classical Greek λύτρον denotes ‘price of release, ransom’ (LSJ, 1067b), the ‘means of release’ implied by the suffix –τρον, and was used for the sum paid to ransom prisoners of war and slaves (Procksch and Büchsel 1967:340).
+
+<b>A.2</b>  The choice of words in the LXX seems to vary according to context, λύτρον being used when the emphasis is on a particular sum of money and λύτρωσις when the action or right of redemption is being discussed.
+
+<b>A.4</b>  In Isa 63:4 Tg has added <span dir="rtl" lang="he">עמי</span>,
+‘my people’, to make clear whose ‘redemption’ is
+    involved.
+
 
 ## 5. Lexical/Semantic Fields
 
