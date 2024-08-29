@@ -1,6 +1,7 @@
 ---
 word_english: redemption,_right_of  
 word_hebrew:  גְּאֻלָּה    
+transcription: <i>g<small><sup>e</sup></small>ʾūllā</i>   
 title: (price/right of) redemption 
 semantic_fields: deliverance  
 contributors: alison_gray  
@@ -96,32 +97,22 @@ been reconstructed using a parallel text 4Q506 124:4
 [^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>, <i>s.v.</i>
 [^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i>… claim on that which is currently not in one’s possession</i>’. LEH<sup><small>3</small></sup>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
-<b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of <span dir="rtl" lang="he">כפר</span>, 
-<span dir="rtl" lang="he">גאל</span>, and פדה. In Classical Greek λύτρον denotes ‘price of release, ransom’ (LSJ, 1067b), the ‘means of release’ implied by the suffix –τρον, and was used for the sum paid to ransom prisoners of war and slaves (Procksch and Büchsel 1967:340).
-
-<b>A.2</b>  The choice of words in the LXX seems to vary according to context, λύτρον being used when the emphasis is on a particular sum of money and λύτρωσις and λυτρωτός when the rights of redemption are being discussed.
-
-<b>A.3</b>  It is no surprise that ἀγχιστεία appears in Ruth, as the main verb used to translate גאל in Ruth is ἀγχιστεύω ‘to be next of kin’. Together with πρεσβύτερος, which is used elsewhere of the eldest child (e.g. Gen 19:31; 27:1; 44:12) and is here a free rendering assuming the equivalence of גְּאֻלָּה to the rights of the firstborn, ἀγχιστεία reflects the kinship aspect underlying גְּאֻלָּה (see entry on
-<a href="https://pthu.github.io/sahd/words/to_redeem/#4-ancient-versions"><span dir="rtl" lang="he">גאל</span>, 4. Ancient Versions</a>).
-
-<b>A.4</b>  παραλαμβάνω in Jer 32:7 (39:7<sup><small>LXX</small></sup>) is a generalising rendering which ignores
-the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
 
 <b>b. Peshitta (Pesh):</b>
 
 * ܘܠܐ\ܘܠܝ
 (<i>wlʾ/ wly</i>), ‘(it is) fitting’:[^3] Jer 32:8;
-* ܝܪܬܘܬܐ
-(<i>yrtwtʾ</i>), ‘inheritance, heirship’: Jer 32:7; Ruth 4:6, 7;
-* ܦܘܪܩܢܐ
-(<i>pwrqnʾ</i>), ‘saving, salvation, redemption’: Lev 25:24, 26, 29 (2x), 31, 32, 48, 51, 52; Isa 63:4;
+* <span dir="rtl">ܝܪܬܘܬܐ</span>
+(<i>yārtūṯā</i>), ‘inheritance, heirship’: Jer 32:7; Ruth 4:6, 7;
+* <span dir="rtl">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’: 
+Lev 25:24, 26, 29 (2x), 31, 32, 48, 51, 52; Isa 63:4;
 * [ܫܒܝܬܐ
-(<i>šbytʾ</i>), ‘captivity’: Ezek 11:15].
+(<i>šḇīṯā</i>), ‘captivity’: Ezek 11:15].
 
 [^3]: The English renderings of the Syriac are based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
 
-<b>c. Targum (Tg: O/N/PsJ/J/K)</b>
+<b>c. Targum (Tg: O/N/PsJ/J/K):</b>
 
 * אחסנתא,
 ‘property, inheritance’:[^4] Jer 32:7<sup><small>J</small></sup> ,8<sup><small>J</small></sup>; Ruth 4:6<sup><small>K</small></sup>;
@@ -137,17 +128,6 @@ the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
 
 [^4]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
-<b>A.1</b>  Both the Peshitta and the Targums prefer the root ܦܪܩ (<i>prq</i>)/ פרק,
-‘to remove, release from, save’, rather than than שׁיזב (Tg<sup><small>J</small></sup>) or <span dir="rtl">ܦܨܝ/ܦܨܐ</span> (<i>pṣʾ</i>/</i>pṣy</i>) (Pesh) 
-(see entries on root 
-<a href="https://pthu.github.io/sahd/words/to_redeem/"><span dir="rtl" lang="he">גאל</span></a>
-and 
-<a href="https://pthu.github.io/sahd/words/to_save%2C_help/"><span dir="rtl" lang="he">ישׁע</span></a>), 
-with the exception of passages in Ruth (4:6 [Tg<sup><small>K</small></sup>, Pesh], 7 [Pesh]) and
-Jeremiah (32:7, 8 [Tg<sup><small>J</small></sup>, Pesh]), where the choices of ܝܪܬܘܬܐ
-(<i>yrtwtʾ</i>), ܘܠܐ (<i>wlʾ</i>) and אחסנתא respectively emphasise the claim to
-inheritance or possession.
-
 <b>d. Vulgate (Vg):</b>
 
 * <i>licentia redimendi</i>, ‘freedom to redeem’:[^5] Lev 25:29;
@@ -158,14 +138,33 @@ inheritance or possession.
 * <i>propinquus</i>, ‘relative, kinsman’: Ruth 4:7; Jer 32:8; Ezek 11:15;
 * <i>propinquitas</i>, ‘kinsman’: Jer 32:7;
 * <i>redemptio</i>, ‘a buying off, redemption’: Lev 25:24;
-* <i>redimo</i>, ‘to buy back, repurchase’: Lev 25:31.
+* <i>redimo</i>, ‘to buy back, repurchase’: Lev 25:31;
+* no rendering: Lev 25:52.
 
 [^5]: The English renderings of the Latin are based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
 
-No rendering: Lev 25:52.
 
 
-<b>A.1</b>  It appears that the Vulgate does not have one particular word with
+<b>A.1</b>  λύτρον is used in the LXX to translate the nominalizations of <span dir="rtl" lang="he">כפר</span>, 
+<span dir="rtl" lang="he">גאל</span>, and פדה. In Classical Greek λύτρον denotes ‘price of release, ransom’ (LSJ, 1067b), the ‘means of release’ implied by the suffix –τρον, and was used for the sum paid to ransom prisoners of war and slaves (Procksch and Büchsel 1967:340).
+
+<b>A.2</b>  The choice of words in the LXX seems to vary according to context, λύτρον being used when the emphasis is on a particular sum of money and λύτρωσις and λυτρωτός when the rights of redemption are being discussed.
+
+<b>A.3</b>  It is no surprise that ἀγχιστεία appears in Ruth, as the main verb used to translate גאל in Ruth is ἀγχιστεύω ‘to be next of kin’. Together with πρεσβύτερος, which is used elsewhere of the eldest child (e.g. Gen 19:31; 27:1; 44:12) and is here a free rendering assuming the equivalence of גְּאֻלָּה to the rights of the firstborn, ἀγχιστεία reflects the kinship aspect underlying גְּאֻלָּה (see entry on
+<a href="https://pthu.github.io/sahd/words/to_redeem/#4-ancient-versions"><span dir="rtl" lang="he">גאל</span>, 4. Ancient Versions</a>).
+
+<b>A.4</b>  παραλαμβάνω in Jer 32:7 (39:7<sup><small>LXX</small></sup>) is a generalising rendering which ignores
+the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
+
+<b>A.5</b>  Both Pesh and Tg prefer the root ܦܪܩ/<span dir="rtl" lang="he">פרק</span>, rather than <span dir="rtl" lang="he">שׁיזב</span> (Tg) or <span dir="rtl">ܦܨܝ/ܦܨܐ</span> 
+(<i>pṣʾ</i>/<i>pṣy</i>, Pesh), to render גאל 
+(see entry on root <a href="https://pthu.github.io/sahd/words/to_redeem/"><span dir="rtl" lang="he">גאל</span></a>; cf. <a href="https://pthu.github.io/sahd/words/to_save%2C_help/"><span dir="rtl" lang="he">ישׁע</span></a>), 
+with the exception of passages in Ruth (4:6 [Tg, Pesh], 4:7 [Pesh]), and Jeremiah (32:7 [Tg, Pesh], 8 [Tg]), where the choices of 
+<span dir="rtl">ܝܪܬܘܬܐ</span>
+(<i>yārtūṯā</i>), ‘inheritance, heirship’, 
+and <span dir="rtl" lang="he">אחסנתא</span>, ‘property, inheritance’, respectively, emphasise the claim to inheritance.
+
+<b>A.6</b>  It appears that the Vulgate does not have one particular word with
 which to translate גְּאֻלָּה, but has sought to translate each
 occurrence with more specific phrases.
 
