@@ -127,6 +127,7 @@ th:nth-child(even),td:nth-child(even) {
     </tr>
 </table>
 
+
 The dictionaries do not yet mention the possibility of identifying *<span dir="rtl">חַשְׁמַן</span>
 with amethyst (see A.5 below).
 
@@ -228,6 +229,9 @@ th:nth-child(even),td:nth-child(even) {
     <td> SÍG&nbsp;ZA.GÍN&nbsp;<i>ḫašmāni</i> </td> 
     </tr>
 </table>
+
+
+
 
 In these two parallel phrases, the two kinds of wool appear to occur in opposite orders
 (Dietrich and Loretz 1966:227-32; Van Soldt 1990:335-43, 354-57). 
@@ -435,7 +439,7 @@ as well as α´ and Vg<sup>PsH</sup> (<a href="#AV">Ancient Versions</a>).
 
 <b>A.1</b> The word <span dir="rtl">חַשְׁמַנִּים</span> is rendered as follows in the ancient translations.
 
-<b>a.</i> Septuagint (LXX) and other Greek versions</b>: 
+<b>a.</i> Septuagint (LXX) and other Greek versions</b> 
 
 * ἐκφαίνω, ‘to reveal’, ‘to disclose’, ‘to bring to light’; 
 here pass., ‘to appear’, ‘to come in sight’:[^11] 
@@ -450,15 +454,16 @@ with eager haste out of Egypt’ (α´[^14]);
 
 
 
-<b>b. Peshitta (Pesh)</b>:
+<b>b. Peshitta (Pesh)</b>
 
-<span dir="rtl">ܐܝܙܓܕܐ</span>
+
+* <span dir="rtl">ܐܝܙܓܕܐ</span>
 (<i>ʾīzgaddā</i>), 
 ‘messenger’, ‘ambassador’, ‘envoy’:[^16] 
 <span dir="rtl">ܢܐܬܘܢ ܐܝܙ̈ܓܕܐ ܡܢ ܡܨܪܝܢ</span>,
 ‘ambassadors shall come out of Egypt’.
 
-<b>c.</i> Targumim  (Tg)</b>:
+<b>c.</i> Targumim  (Tg)</b>  
 The following renderings of <span dir="rtl">חשמנים</span> occur in the manuscripts:[^17]
 
 * <span dir="rtl">אוּכָּמָא</span>, ‘black’, ‘dark’:[^18] 
@@ -562,11 +567,11 @@ gemstones, metals, cloth, or colours.
 <b>A.1</b> The noun *<span dir="rtl">חַשְׁמַן</span> occurs only in Ps 68:32. 
 Following the Masoretic vocalisation and leaving the form <span dir="rtl">חַשְׁמַנִּים</span> untranslated, this verse can be translated as follows: 
    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span dir="rtl">יֶאֱתָיוּ חַשְׁמַנִּים מִנִּי מִצְרָים</span>     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span dir="rtl">כּוּשׁ תָּרִיץ יָדָיו לֵאלֹהִים</span>   
+> <span dir="rtl">יֶאֱתָיוּ חַשְׁמַנִּים מִנִּי מִצְרָים</span>     
+<span dir="rtl">כּוּשׁ תָּרִיץ יָדָיו לֵאלֹהִים</span>   
 
-&nbsp;&nbsp;&nbsp;<i>Ḥšmnym</i> will/may come from Egypt;   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kush will/may hurriedly stretch out its hands for the sake of God. 
+> <i>Ḥšmnym</i> will/may come from Egypt;   
+Kush will/may hurriedly stretch out its hands to God. 
 
 
 If <span dir="rtl">יאתיו</span>
@@ -574,7 +579,7 @@ is vocalised as a <i>hiph.</i> form of the same verb <span dir="rtl">אתה</spa
 can be regarded as the object of the verb, while in that case 
 <span dir="rtl">מְלָכִים</span>, ‘kings’ (68:30), or <span dir="rtl">עַמִּים</span>, ‘peoples’ (68:31), can be regarded as the verb’s implicit subject:
   
-&nbsp;&nbsp;&nbsp;They will/may bring <i>ḥšmnym</i> from Egypt.
+> They will/may bring <i>ḥšmnym</i> from Egypt.
 
 The idea that <span dir="rtl">חַשְׁמַנִּים</span> denotes precious objects is supported by the phrase 
 <span dir="rtl">לְךָ יוֹבִילוּ מְלָכִים שָׁי</span>, 
@@ -590,7 +595,7 @@ However, this interpretation is not supported by the <a href="#AV">Ancient Versi
 (cf. Gen 41:14; 1 Sam 17:17; 2 Chron 35:13). 
 According to this interpretation,  <span dir="rtl">יָדָיו</span> is the direct object of <span dir="rtl">תָּרִיץ</span>, while 
 <span dir="rtl">לֵאלֹהִים</span> is its indirect object:
-‘Kush will/may hurriedly stretch out its hands for the sake of God’. 
+‘Kush will/may hurriedly stretch out its hands to God’. 
 The two cola describe both the Egyptians and the Kushites as worshipping God.
 If in the first colon <span dir="rtl">חַשְׁמַנִּים</span> denotes tribute, 
 it is logical to suppose that according to the second colon
@@ -721,11 +726,11 @@ In Egyptian, there are only relatively early attestations of <i>ḥsmn</i>, ‘a
 but if Psalm 68 is an old composition the occurrence of a cognate in 68:32 is explicable.
 We propose the following translation: <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span dir="rtl">יֶאֱתָיוּ חַשְׁמַנִּים מִנִּי מִצְרָ֑ים</span>      
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span dir="rtl">כּוּשׁ תָּרִיץ יָדָיו לֵאלֹהִים</span>   
+> <span dir="rtl">יֶאֱתָיוּ חַשְׁמַנִּים מִנִּי מִצְרָ֑ים</span>    
+<span dir="rtl">כּוּשׁ תָּרִיץ יָדָיו לֵאלֹהִים</span>   
       
-&nbsp;&nbsp;&nbsp;Amethysts will/may come from Egypt;   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kush will/may hurriedly stretch out its hands for the sake of God.   
+> Amethysts will/may come from Egypt;   
+Kush will/may hurriedly stretch out its hands to God.   
 
 ## Bibliography
 
@@ -1029,7 +1034,7 @@ Many thanks are due to Ben Haring and Rients de Boer (Leiden) for their valuable
 [^27]: For the term <i>ḥsmn</i>, ‘natron’, in Demotic texts, see <a href="https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/CDD_H2.pdf"><i>Chicago Demotic Dictionary</i> Ḥ</a>
 [^28]: See Martin 1996. The beetle is now kept in the <a href="https://collections.louvre.fr/en/ark:/53355/cl010006920">Louvre</a>.
 [^29]: See, e.g., De Moor 1997:181-88.
-[^30]: https://picryl.com/media/scarab-f34154 or https://picryl.com/media/scarab-81f285.
+[^30]: https://picryl.com/media/scarab-f34154.
 [^31]: https://picryl.com/media/string-of-46-round-beads-in-graded-sizes-19ad36.
  
 
