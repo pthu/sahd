@@ -10,20 +10,20 @@ nav:
             - א:
                 - אוּרִים וְתֻמִּים - Urim Thummim: words/2urim_wthummim.md
             - ב:
-                - בֶּקַע - beka: words/beqa3.md
+                - בֶּקַע - half a shekel: words/beqa3.md
             - ג:
                 - גְּאוּלִים - redemption: words/g2ulim.md
                 - גאל - to redeem: words/g-2-l.md
                 - גְּאֻלָּה - redemption, right of: words/g2ullah.md
             - ח:
-                - חֹזֶה - (court) diviner: words/(court)_diviner.md
-                - חַשְׁמַן - amethyst: words/amethyst.md
+                - חֹזֶה - (court) diviner: words/chozeh.md
+                - חַשְׁמַן - amethyst: words/chashman.md
             - ט:
-                - טוה - to spin, twist: words/to_spin,_twist.md
+                - טוה - to spin, twist: words/t-w-h.md
             - י:
-                - יְשׁוּעָה - protection: words/protection.md
-                - ישׁע - to save, help: words/to_save,_help.md
-                - יֵשַׁע - safety: words/safety.md
+                - יְשׁוּעָה - protection: words/yshu3ah.md
+                - ישׁע - to save, help: words/y-sh-3.md
+                - יֵשַׁע - safety: words/yesha3.md
             - מ:
                 - מָאוֹר - light: words/light.md
                 - מְגִלָּה - scroll: words/scroll.md
@@ -50,8 +50,8 @@ nav:
                 - שׁוּעַ - cry for help: words/cry_for_help.md
             - ת:
                 - תְּבוּנָה - understanding: words/understanding.md
-                - תְּשׁוּעָה - deliverance, state of: words/thshu3ah.md
                 - תִּפְלָה - senselessness: words/senselessness.md
+                - תְּשׁוּעָה - deliverance, state of: words/thshu3ah.md
     - Semantic fields:
             - Agriculture: semantic_fields/agriculture.md
             - Cloth: semantic_fields/cloth.md

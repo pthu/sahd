@@ -1,16 +1,14 @@
----
-word_english: protection  
-word_hebrew: יְשׁוּעָה  
-title: 
-semantic_fields: deliverance  
-contributors: james_k._aitken, graham_i._davies  
-first_published: 2017-01-01  
-last_update: 2023-05-16 (Raymond de Hoop, Paul Sanders)  
-shebanq_id: 1JCWOHn
- 
----
+<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-For fuller discussion of the lexical field as a whole see on this site the 
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1JCWOHn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># יְשׁוּעָה <i>y<small><sup>e</sup></small>šūʿāh</sup> – protection
+
+Semantic Fields:
+[Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)<br>
+First published: 2017-01-01<br>Last update: 2023-05-16 (Raymond de Hoop, Paul Sanders) <br>Citation: James K. Aitken,&nbsp;Graham I. Davies, יְשׁוּעָה <i>y<small><sup>e</sup></small>šūʿāh</sup> – protection, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2017 (update: 2023)
+
+
+For fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
 <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
@@ -303,7 +301,7 @@ No rendering: Ps 118:15.
 <b>d. Vulgate (Vg):</b>  
 
 * <i>adiutorium</i>, ‘to help’:[^4] 2&nbsp;Sam 10:11;  
-* <i>auxilium</i>, ‘to help’: 2&nbsp;Chron 20:17;  
+* <i>auxilium</i>, ‘help’: 2&nbsp;Chron 20:17;  
 * <i>Iesus</i>, ‘Jesus’: Ps 149:4 (Vg<sup><small>PsH </small></sup>)  
 * [[<i>iustitia</i>, ‘justice, righteousness’: Isa 51:8]];  
 * <i>magnalia</i>, ‘great things, mighty works’: Exod 14:13;  

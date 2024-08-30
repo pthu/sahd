@@ -8,4 +8,4 @@
 Formerly Utrecht University
 
 ### Contributions
-[חַשְׁמַן – amethyst](../words/amethyst.md)<br>
+[חַשְׁמַן – amethyst](../words/chashman.md)<br>

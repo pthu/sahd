@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1XZHin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=חָזֶה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># חֹזֶה  – seer, (court) diviner
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1XZHin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=חָזֶה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># חֹזֶה <i>ḥozeh</i> – seer, (court) diviner
 
 Semantic Fields:
 [Cult](../semantic_fields/cult.md)&nbsp;&nbsp;&nbsp;[Divination](../semantic_fields/divination.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [T. Jonathan Stökl](../contributors/t._jonathan_stökl.md)<br>
-First published: 2010-08-02<br>Last update: 2024-06-30 <br>Citation: T. Jonathan Stökl, חֹזֶה  – seer, (court) diviner, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
+First published: 2010-08-02<br>Last update: 2024-06-30 <br>Citation: T. Jonathan Stökl, חֹזֶה <i>ḥozeh</i> – seer, (court) diviner, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
 
 
 ## Introduction
@@ -42,7 +42,7 @@ In Isa 28:15  <span dir="rtl">חֹזֶה</span> is used in parallel with  <span
     dictionaries (i.e. BDB, GB) interpret <span dir="rtl">חֹזֶה</span> as ‘vision’ here.[^4] The recent dictionaries (<i>HALOT</i>, Ges<sup><small>18</small></sup>, <i>DCH</i>) understand the term as a
     different noun with the meaning ‘contract’. See also the versions:
     Vulgate: <i>pactum</i>, Targum:  <span dir="rtl">שְׁלָמָא</span>, LXX: συνθήκη. The Peshitta
-    retains <i>ḥzwʾ</i>.[^5]
+    retains <span dir="rtl">ܚܙܘܐ</span> (<i>ḥezwā</i>, ‘vision’).[^5]
 
 <b>A.5</b>
   The two occurrences of the patronym  <span dir="rtl">כֹּל־חֹזֶה</span> in the lists of
@@ -186,8 +186,10 @@ while ‘not extant’ means that the particular verse is not attested in that v
 
 <b>b.  Peshitta (Pesh):</b> 
 
-* <span dir="rtl">ܚܙܘܝܐ</span> (<i>ḥzwyʾ </i>), ‘seer’: 2 Kgs 17:13; Isa 29:10; Amos 7:12; Mic 3:7; 2 Chron 19:2; 35:15;
-* <span dir="rtl">ܢܒܝܐ</span> (<i>nbyʾ </i>), ‘prophet’:  Isa 30:10; 1 Chron 21:9; 29:29; 2 Chron 29:25, 30; 33:18, 19; 
+* <span dir="rtl">ܚܙܐ</span> (<i>ḥzʾ</i>), ‘to see’, <i>peal</i> part.act.: 2 Kgs 17:13; Isa 29:10; Mic 3:7;
+* <span dir="rtl">ܚܙܘܝܐ</span> (<i>ḥāzōyā</i>), ‘seer’: 2 Chron 35:15;
+* <span dir="rtl">ܚܙܝܐ</span> (<i>ḥazzāyā</i>), ‘seer’: Amos 7:12; 2 Chron 19:2;
+* <span dir="rtl">ܢܒܝܐ</span> (<i>nḇīyā</i>), ‘prophet’:  Isa 30:10; 1 Chron 21:9; 29:29; 2 Chron 29:25, 30; 33:18, 19; 
 * no equivalent 2 Sam 24:11;
 * not extant: 1 Chron 25:5; 2 Chron 9:29; Sir 46:15;
 * differing text: 2 Chron 12:15.
@@ -228,9 +230,9 @@ There is a clear distinction between the versions: LXX and Vg render  <span dir=
 
 <b>A.4</b>  The case of Isaiah is interesting in Pesh. In the MT
     Isa 29:10 and 2 Kgs 17:13 have  <span dir="rtl">נָבִיא</span> and  <span dir="rtl">חֹזֶה</span> in parallel and
-    Pesh translates them with <i>nby</i> and <i>ḥzy</i> respectively. In
+    Pesh translates them with <span dir="rtl">ܢܒܝܐ</span> (<i>nḇīyā</i>) and <span dir="rtl">ܚܙܐ</span> (<i>ḥzʾ</i>, part.act.), respectively. In
     Isa 30:10, however, which in MT has  <span dir="rtl">רֹאֶה</span> and  <span dir="rtl">חֹזֶה</span> in parallel,
-     <span dir="rtl">רֹאֶה</span> is translated with <i>ḥzy</i> and  <span dir="rtl">חֹזֶה</span> with <i>nby</i>, indicating that the meaning of these three terms is not clearly distinguished in the Peshitta of Isaiah.
+     <span dir="rtl">רֹאֶה</span> is translated with <span dir="rtl">ܚܙܝܐ</span> (<i>ḥazzāyā</i>) and  <span dir="rtl">חֹזֶה</span> with <span dir="rtl">ܢܒܝܐ</span> (<i>nḇīyā</i>), indicating that the meaning of these three terms is not clearly distinguished in the Peshitta of Isaiah.
 
 <b>A.5</b>  In Isa 29:10 LXX and Vg understand the syntax of MT differently, taking <span dir="rtl">וְאֶת־רָאשֵׁיכֶם</span>, ‘your heads’ parallel to 
 <span dir="rtl">אֶת־הַנְּבִיאִים</span> and regard <span dir="rtl">הַחֹזִים</span> as a participle expressing an entire relative clause; this requires them to understand  <span dir="rtl">כִּסָּה</span> as a <i>puʿal</i> (<span dir="rtl">כֻּסָּה</span>). It is possible that they also had a text which supplied the normally required <i>nota accusativi</i> and the article: <span dir="rtl">אֶת הַכֻּסָּה</span>. LXX has: καὶ τῶν ἀρχότων αὐτῶν οἱ ὁρῶντες τὰ κρυπτά, ‘and their princes who see that which is hidden’; Vg has <i>principes vestros qui vident visiones operiet</i>, ‘your princes who see visions he covers’.

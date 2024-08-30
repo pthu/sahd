@@ -1,6 +1,7 @@
 ---
 word_english: safety  
-word_hebrew:  יֵשַׁע 
+word_hebrew:  יֵשַׁע  
+transcription: <i>yéšaʿ</i>    
 title: safety (state or place of)   
 semantic_fields: deliverance  
 contributors: james_k._aitken
@@ -105,20 +106,21 @@ Introduction: Text Doubtful B.1</a>).
 
 [^2]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>: <i>s.v.</i>.
 
-<b>b. Peshitta (Pesh):</b> 
+<b>b. Peshitta (Pesh):</b>
 
-* ܦܘܪܩܢܐ
-(<i>purqānā</i>), ‘salvation, redemption’:[^3]
+* <span dir="rtl">ܦܘܩܕܢܐ</span> (<i>puqdānā</i>), ‘command, order’:[^3] 
+2 Sam 23:5 (but see A.6 below);
+* <span dir="rtl">ܦܘܪܩܢܐ</span>
+(<i>purqānā</i>), ‘salvation, redemption’:
 2 Sam 22:3, 36; 23:5?; Isa 17:10; 45:8;
 51:5; 61:10; Pss 12:6; 18:3, 36; 20:7;
 27:1; 50:23; 51:14; 62:8; 69:14; 85:8, 10;
 132:16; Job 5:4, 11;
-* ܦܪܘܩܐ
+* <span dir="rtl">ܦܪܘܩܐ</span>
 (<i>pārōqā</i>), ‘saviour’: 2 Sam 22:47; Isa 17:10; 62:11; Mic 7:7; Hab 3:18; Pss 18:47; 24:5; 25:5; 27:9; 65:6; 79:9; 85:5; 95:1; 1 Chron 16:35; Sir 51:10;
-*  ܦܪܩ
-(<i>prq</i>) Peal,  ‘to save, liberate’:
-Hab 3:13 (2x); 
-* \[[<span dir="rtl">ܦܘܩܕܢܐ</span> (<i>puqdānā</i>)]], ‘command, order’: 2 Sam 23:5 (see A.6 below). 
+* <span dir="rtl">ܦܪܩ</span>
+(<i>prq</i>) <i>peal</i>,  ‘to save, liberate’:
+Hab 3:13 (2x). 
 
 [^3]: The English renderings of the Syriac are based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
@@ -158,7 +160,7 @@ cognates of  <span dir="rtl">פלט</span>,  <span dir="rtl">מלט</span> and  
 
 <b>A.5</b><a id="AVersA5"></a>  The late Latin lexeme <i>sospitas</i>, ‘safety’ at Job 5:11, although not from the same root as most of the Vg’s choices, nonetheless conveys the same sense. In fact it is an apposite term since it has associations with divine safety in pagan writers. A cult title of Juno at Lanuvium was <i>Sospita</i> (Cicero, <i>De natura deorum</i> 1:82; see <i>OLD</i>, 1796), and <i>sospitatrix</i> was used of Isis (Apuleius, <i>Metamorphoses</i> 11:9, 25; <i>OLD</i>, 1796). Perhaps as a result of this association <i>sospitator</i>, ‘saviour, preserver, deliverer, redeemer’ (Lewis & Short, <i>LD</i>, 1734), another post-classical Latin noun, became a title used of Christ (<i>sospitator</i> <i>nostri generis</i>, Arnobius Afer 2:96).
 
-<b>A.6</b>  At 2 Sam 23:5 the positional equivalent in Pesh is <span dir="rtl">ܨܒܝܢܐ</span> (<i>ṣbynʾ</i>), ‘favor, good will’ (Sokoloff, <i>SLB</i>, 1271). Generally it is the equivalent of the noun  <span dir="rtl">חֵפֶץ</span>, which occurs in the following phrase (cf. Pesh on Qoh 12:10). In fact, since the positional equivalent of <span dir="rtl">חֵפֶץ</span> is <span dir="rtl">ܦܘܩܕܢܐ</span> (<i>puqdānā</i>), one might consider that for some reason Pesh has interchanged its renderings of <span dir="rtl">יֵשַׁע</span> and  <span dir="rtl">חֵפֶץ</span>.[^7]
+<b>A.6</b>  At 2 Sam 23:5 the positional equivalent in Pesh is <span dir="rtl">ܨܒܝܢܐ</span> (<i>ṣebyānā</i>), ‘favor, good will’ (Sokoloff, <i>SLB</i>, 1271). Generally it is the equivalent of the noun  <span dir="rtl">חֵפֶץ</span>, which occurs in the following phrase (cf. Pesh on Qoh 12:10). In fact, since the positional equivalent of <span dir="rtl">חֵפֶץ</span> is <span dir="rtl">ܦܘܩܕܢܐ</span> (<i>puqdānā</i>), one might consider that for some reason Pesh has interchanged its renderings of <span dir="rtl">יֵשַׁע</span> and  <span dir="rtl">חֵפֶץ</span>.[^7]
 
 [^7]: On the phenomenon of inversion of renderings, see Smelik 1995:268-70.
 

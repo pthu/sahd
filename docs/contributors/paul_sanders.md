@@ -4,4 +4,4 @@
 
 
 ### Contributions
-[אוּרִים וְתֻמִּים – Urim Thummim](../words/2urim_wthummim.md)<br>[חַשְׁמַן – amethyst](../words/amethyst.md)<br>[טוה – to spin, twist](../words/to_spin,_twist.md)<br>[מְגִלָּה – scroll](../words/scroll.md)<br>[מַחֲרָשָׁה/מַחֲרֶשֶׁת – plough](../words/plough.md)<br>[פֶּלֶךְ – spindle](../words/spindle.md)<br>
+[אוּרִים וְתֻמִּים – Urim Thummim](../words/2urim_wthummim.md)<br>[חַשְׁמַן – amethyst](../words/chashman.md)<br>[טוה – to spin, twist](../words/t-w-h.md)<br>[מְגִלָּה – scroll](../words/scroll.md)<br>[מַחֲרָשָׁה/מַחֲרֶשֶׁת – plough](../words/plough.md)<br>[פֶּלֶךְ – spindle](../words/spindle.md)<br>

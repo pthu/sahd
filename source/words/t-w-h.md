@@ -1,6 +1,7 @@
 ---
 word_english: to_spin,_twist   
 word_hebrew: טוה  
+transcription: <i>ṭāwāh</i>  
 title: to spin, twist together  
 semantic_fields: craft, textile production  
 contributors: paul_sanders  
@@ -177,7 +178,6 @@ For the different syntactical structure of SP Exod 35:25,
 see <a href="#Sam">Introduction A.1</a>.
 
 ##<span id="AV">4. Ancient Versions</span>
-<b>A.1</b> The verb <span dir="rtl" lang="he">טוה</span>  is rendered as follows in the ancient translations:
 
 <b>a. Septuagint (LXX):</b>
 
@@ -210,7 +210,7 @@ Exod 35:25, where
 
 [^9]: Lewis & Short, <i>LD</i>, 1200;  <i>OLD</i>, 1170.
 
-<b>A.2</b> The ancient versions appear to be unanimous in translating <span dir="rtl" lang="he">טוה</span> by a common word meaning ‘to spin’.
+<b>A.1</b> The ancient versions appear to be unanimous in translating <span dir="rtl" lang="he">טוה</span> by a common word meaning ‘to spin’.
 
 
 ##<span id="LSF">5. Lexical/Semantic Fields</span>

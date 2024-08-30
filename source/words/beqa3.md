@@ -1,8 +1,8 @@
 ---
-word_english: beka  
+word_english: half_a_shekel 
 word_hebrew: בֶּקַע    
-transcription: <i>beqaʿ</i> 
-title: beka, half a shekel  
+transcription: <i>béqaʿ</i> 
+title: half a shekel (beka) 
 semantic_fields: weight  
 contributors: raymond_de_hoop, bertus_van_’t_veld  
 first_published: 2021-02-16    

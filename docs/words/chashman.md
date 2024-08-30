@@ -1,15 +1,12 @@
----
-word_english: amethyst   
-word_hebrew: חַשְׁמַן   
-title: amethyst(?)   
-semantic_fields: gemstones, metals, cloth, colours, tribute   
-contributors: meindert_dijkstra, paul_sanders  
-first_published: 2024-07-27
-last_update:   
-update_info:   
-shebanq_id: 1XCMNJMn		
+<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
----
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1XCMNJMn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># חַשְׁמַן <i>ḥašman</i> – amethyst(?)
+
+Semantic Fields:
+[Gemstones](../semantic_fields/gemstones.md)&nbsp;&nbsp;&nbsp;[Metals](../semantic_fields/metals.md)&nbsp;&nbsp;&nbsp;[Cloth](../semantic_fields/cloth.md)&nbsp;&nbsp;&nbsp;[Colours](../semantic_fields/colours.md)&nbsp;&nbsp;&nbsp;[Tribute](../semantic_fields/tribute.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Meindert Dijkstra](../contributors/meindert_dijkstra.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<br>
+First published: 2024-07-27<br>Citation: Meindert Dijkstra,&nbsp;Paul Sanders, חַשְׁמַן <i>ḥašman</i> – amethyst(?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2024
+
 
 <span id="I"></span>
 ## Introduction
@@ -33,7 +30,7 @@ assumes that the reading <span dir="rtl">חשׁמנים</span>
 is corrupt and that the text originally read <span dir="rtl">חׇשׁ̣ים</span>,
 ‘quick ones’ (part. <i>qal</i> <span dir="rtl">חושׁ</span>, ‘to hurry’);
 cf. <a href="#AV">Ancient Versions</a> for α´ and 
-Vg<sup>PsH</sup>. 
+Vg<small><sup>PsH</sup></small>. 
 However, there are no solid reasons to emend the consonantal text, which is the <i>lectio difficilior</i>.
 
 <b>B.2</b> 4Q554 fr 2.ii:15 has the following reading (Aram.): <span dir="rtl">בניה בחש֯[מל] וספיר וכדכוד</span>,
@@ -432,14 +429,14 @@ Following this interpretation,   <span dir="rtl">חַשְׁמַנִּים</span>
 can be regarded as the object of the verb:
 ‘They will/may bring <span dir="rtl">חַשְׁמַנִּים</span>’. 
 Compare Ps 68:30 (<i>hiph.</i> <span dir="rtl">יבל</span>)
-as well as α´ and Vg<sup>PsH</sup> (<a href="#AV">Ancient Versions</a>). 
+as well as α´ and Vg<small><sup>PsH</sup></small> (<a href="#AV">Ancient Versions</a>). 
 
 <span id="AV"></span>
 ## 4. Ancient Versions
 
-<b>A.1</b> The word <span dir="rtl">חַשְׁמַנִּים</span> is rendered as follows in the ancient translations.
 
-<b>a.</i> Septuagint (LXX) and other Greek versions</b> 
+
+<b>a.</i> Septuagint (LXX) and other Greek versions</b>:
 
 * ἐκφαίνω, ‘to reveal’, ‘to disclose’, ‘to bring to light’; 
 here pass., ‘to appear’, ‘to come in sight’:[^11] 
@@ -454,7 +451,7 @@ with eager haste out of Egypt’ (α´[^14]);
 
 
 
-<b>b. Peshitta (Pesh)</b>
+<b>b. Peshitta (Pesh)</b>:
 
 
 * <span dir="rtl">ܐܝܙܓܕܐ</span>
@@ -463,7 +460,7 @@ with eager haste out of Egypt’ (α´[^14]);
 <span dir="rtl">ܢܐܬܘܢ ܐܝܙ̈ܓܕܐ ܡܢ ܡܨܪܝܢ</span>,
 ‘ambassadors shall come out of Egypt’.
 
-<b>c.</i> Targumim  (Tg)</b>  
+<b>c.</i> Targumim  (Tg)</b>:  
 The following renderings of <span dir="rtl">חשמנים</span> occur in the manuscripts:[^17]
 
 * <span dir="rtl">אוּכָּמָא</span>, ‘black’, ‘dark’:[^18] 
@@ -479,27 +476,27 @@ or a gentilic (Usmanite?):[^20]
 
 
 
-<b>d. Vulgate (Vg) </b>
+<b>d. Vulgate (Vg) </b>:
 
 
 * <i>legatus</i>, ‘ambassador’, ‘envoy’:[^22]
-<i>venient legati ex Aegypto</i>, ‘ambassadors shall come out of Egypt’ (Vg<sup>PsG</sup>, 67:32);
+<i>venient legati ex Aegypto</i>, ‘ambassadors shall come out of Egypt’ (Vg<small><sup>PsG</sup></small>, 67:32);
 * <i>velociter</i>, ‘swiftly’, ‘quickly’:[^23]
 <i>offerant(ur) velociter ex Aegypto</i>, 
-‘may they bring (var.: be brought) swiftly from Egypt’ (Vg<sup>PsH</sup>,  67:32).
+‘may they bring (var.: be brought) swiftly from Egypt’ (Vg<small><sup>PsH</sup></small>,  67:32).
+
+
+<b>A.1</b> 
+The reading πρέσβεις  in LXX has influenced the translators of Pesh (ܐܝܙ̈ܓܕܐ ) 
+and Vg<small><sup>PsG</sup></small> (<i>legati</i>). The translation in LXX seems to be a guess inspired by the context (Barthélemy 2005:460). <br>
+
+
 
 
 <b>A.2</b> 
-The reading πρέσβεις  in LXX has influenced the translators of Pesh (ܐܝܙ̈ܓܕܐ ) 
-and Vg<sup>PsG</sup> (<i>legati</i>). The translation in LXX seems to be a guess inspired by the context (Barthélemy 2005:460). <br>
-
-
-
-
-<b>A.3</b> 
 Jerome’s translation
-<i>velociter</i> in Vg<sup>PsH</sup> follows the reading ἐσπευσμένως  in α´. 
-Vg<sup>PsH</sup> is Jerome’s
+<i>velociter</i> in Vg<small><sup>PsH</sup></small> follows the reading ἐσπευσμένως  in α´. 
+Vg<small><sup>PsH</sup></small> is Jerome’s
 ‘<i>iuxta Hebraeos</i> translation’ of the Psalms, which
 ‘shows the influence of Aquila, even on incidental points’ (<i>THB</i> 1C: 105). 
 The translation ἐσπευσμένως 
@@ -508,7 +505,7 @@ Furthermore, α´ and Jerome may have regarded <span dir="rtl">חשמנים</spa
 as a corrupt reading and may have assumed that the text originally read  <span dir="rtl">חשים</span> (part. <i>qal</i> <span dir="rtl">חושׁ</span>, ‘to hurry’).
 Cf. <a href="#I">Introduction</a>, B.1. 
 
-<span id="TG"><b>A.4</b> </span>
+<span id="TG"><b>A.3</b> </span>
 The interpretation of <span dir="rtl">חשמנים</span> as a gentilic in only found in part of the manuscripts of the Targum. 
 Since the Aramaic reading <span dir="rtl">חוסמניא</span>
 in Tg is relatively close to MT <span dir="rtl">חשמנים</span>, 
@@ -521,7 +518,7 @@ dubious whether the Targum can be adduced to defend
 Barthélemy’s understanding of <span dir="rtl">חשמנים</span>
 (see <a href="#Gen10:14">Root and Comparative Material, A.9</a>).
 
-<b>A.5</b> The expression <span dir="rtl">בנוי דחם</span>, ‘the sons of Ham’, in Tg lacks a counterpart in MT. 
+<b>A.4</b> The expression <span dir="rtl">בנוי דחם</span>, ‘the sons of Ham’, in Tg lacks a counterpart in MT. 
 It may have been introduced to specify who constitutes the subject of the verbal form 
 <span dir="rtl">ייתון</span>.
 Instead of the common reading
@@ -534,7 +531,7 @@ Tg specifies that the foreigners will come ‘in order to be converted’ (<span
 
 
 
-<b>A.6</b> 
+<b>A.5</b> 
 None of the ancient translations interprets <span dir="rtl">חשמנים</span>
 as denoting precious objects, as do many recent analyses with reference to possible cognates in 
 Egyptian and Akkadian (see <a href="#RCM">Root and Comparative Material</a>). <br>
@@ -684,13 +681,13 @@ is regarded as an early composition.[^29]
 A tribute including precious stones was highly valued; see 1 Kgs 10:2, 10-11.
 
 
-![Amethyst scarab](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/scarab.jpg)
+![Amethyst scarab](../images/photos/scarab.jpg)
 
 
 Amethyst scarab, Egypt, Middle Kingdom[^30]
 
 
-![Amethyst 46 beads](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/46beads.jpg)
+![Amethyst 46 beads](../images/photos/46beads.jpg)
  
 String of 46 amethyst beads, Egypt, Middle Kingdom–Early New Kingdom[^31]
 
@@ -705,7 +702,7 @@ Several <a href="#AV">Ancient Versions</a> took the plural form as referring to 
 and has no etymological basis whatsoever. 
 <span dir="rtl">חַשְׁמַנִּים</span> has also been interpreted as a gentilic 
 (see <a href="#Gen10:14">Root and Comparative Material, A.9</a>, and 
-<a href="#TG">Ancient Versions, A.4</a>), but 
+<a href="#TG">Ancient Versions, A.3</a>), but 
 on the basis of possible cognates in Egyptian and Akkadian 
 scholars nowadays understand it as referring to precious objects
 (cf. Ps 68:30b). 
@@ -1025,7 +1022,7 @@ Many thanks are due to Ben Haring and Rients de Boer (Leiden) for their valuable
 [^18]: Jastrow, <i>DTT</i>, 25; <i>WTM</i> I, 75;  Dalman, <i>ANHT</i>, 17.
 [^19]: <i>WTM</i> I, 126.
 [^20]: Jastrow, <i>DTT</i>, 31;  similarly Dalman, <i>ANHT</i>, 30.
-[^21]: <i>WTM</i> II, 89 (‘Husmanier’);  similarly Dalman, <i>ANHT</i>, 155.  Jastrow, <i>DTT</i>, 31, refers to the gentilic χασμωνιειμ  in Gen 10:14 in LXX<sup>a</sup>; cf. <a href="#Gen10:14">Root and Comparative Material, A.9</a>, and <a href="#TG">Ancient Versions, A.4</a>).
+[^21]: <i>WTM</i> II, 89 (‘Husmanier’);  similarly Dalman, <i>ANHT</i>, 155.  Jastrow, <i>DTT</i>, 31, refers to the gentilic χασμωνιειμ  in Gen 10:14 in LXX<sup>a</sup>; cf. <a href="#Gen10:14">Root and Comparative Material, A.9</a>, and <a href="#TG">Ancient Versions, A.3</a>).
 [^22]: Lewis and Short, <i>LD</i>, 1047; <i>OLD</i>, 1013.
 [^23]: Lewis and Short, <i>LD</i>, 1965; <i>OLD</i>, 2024.
 [^24]: <i>Aramaic Bible</i>, vol. 16, 133 (Ms Bibl. Nat. Paris 17).

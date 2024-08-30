@@ -1,7 +1,7 @@
 ---
 word_english: redemption,_right_of  
 word_hebrew:  גְּאֻלָּה    
-transcription: <i>g<small><sup>e</sup></small>ʾūllā</i>   
+transcription: <i>g<small><sup>e</sup></small>ʾūllāh</i>   
 title: (price/right of) redemption 
 semantic_fields: deliverance  
 contributors: alison_gray  

@@ -6,7 +6,7 @@
 אוּרִים וְתֻמִּים : Urim Thummim : 2urim_wthummim
 
 ב
-בֶּקַע : beka : beqa3
+בֶּקַע : half a shekel : beqa3
 
 ג
 גְּאוּלִים : redemption : g2ulim
@@ -22,18 +22,16 @@
 ז
 
 ח
-חֹזֶה : (court) diviner : (court)_diviner
-חַשְׁמַן : amethyst : amethyst
+חֹזֶה : (court) diviner : chozeh
+חַשְׁמַן : amethyst : chashman
 
 ט
-טוה : to spin, twist : to_spin,_twist
+טוה : to spin, twist : t-w-h
 
 י
-יְשׁוּעָה : protection : protection
-ישׁע : to save, help : to_save,_help
-יֵשַׁע : safety : safety
-
-ך
+יְשׁוּעָה : protection : yshu3ah
+ישׁע : to save, help : y-sh-3
+יֵשַׁע : safety : yesha3
 
 כ
 
@@ -42,11 +40,11 @@
 ם
 
 מ
-מָאוֹר : light : light
-מְגִלָּה : scroll : scroll
-מוֹשָׁעָה : deliverance : deliverance
-מַחֲרָשָׁה/מַחֲרֶשֶׁת : plough : plough
-מַפְרֶקֶת : neck : neck
+מָאוֹר : light : ma2or
+מְגִלָּה : scroll : mgillah
+מוֹשָׁעָה : deliverance : mosha3ah
+מַחֲרָשָׁה/מַחֲרֶשֶׁת : plough : machareshah
+מַפְרֶקֶת : neck : mapreqeth
 
 ן
 
@@ -86,6 +84,5 @@
 
 ת
 תְּבוּנָה : understanding : understanding
-תְּשׁוּעָה : deliverance, state of : thshu3ah
 תִּפְלָה : senselessness : senselessness
-
+תְּשׁוּעָה : deliverance, state of : thshu3ah

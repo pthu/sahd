@@ -4,4 +4,4 @@
 
 
 ### Related words
-[טוה – to spin, twist](../words/to_spin,_twist.md)<br>[פֶּלֶךְ – spindle](../words/spindle.md)<br>
+[טוה – to spin, twist](../words/t-w-h.md)<br>[פֶּלֶךְ – spindle](../words/spindle.md)<br>
