@@ -4,4 +4,4 @@
 
 
 ### Related words
-[צלה – to roast](../words/to_roast.md)<br>
+[צלה – to roast](../words/ts-l-h.md)<br>

@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1PDWTn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># פְּדוּת  – redemption (action or power of –)
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1PDWTn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># פְּדוּת <i>p<small><sup>e</sup></small>dūt</i> – redemption (action or power of –)
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Alison Gray](../contributors/alison_gray.md)<br>
-First published: 2007-08-31<br>Last update: 2024-06-30 (Raymond de Hoop) <br>Citation: Alison Gray, פְּדוּת  – redemption (action or power of –), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2007 (update: 2024)
+First published: 2007-08-31<br>Last update: 2024-06-30 (Raymond de Hoop) <br>Citation: Alison Gray, פְּדוּת <i>p<small><sup>e</sup></small>dūt</i> – redemption (action or power of –), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2007 (update: 2024)
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
@@ -27,7 +27,7 @@ Occurrences: 4x HB (1/1/2); 0x Sir; 18x Qum; 0x inscr. (Total: 22).
 
 <span id="TDA1"><b>A.1</b></span>
   There is much disagreement over the text and meaning of  <span dir="rtl">פְדֻת</span> in Exod 8:19, rendered  <span dir="rtl">פורקן</span> by Tg<small><sup>O</sup></small> and Tg<small><sup>N</sup></small>. It is listed in BDB under the root  <span dir="rtl">פדה</span> (BDB, 804a), although it recognises that the text is dubious, for it is difficult to make sense of this particular verse if one translates it as ‘liberation’. The previous verse contains the vb <span dir="rtl">פלה</span> (<i>hiph</i>.) which means ‘to set apart’ (BDB, 811b) and the idea of separation would make sense in v. 19 also, which is the sense given by LXX’s διαστολή, Pesh’s 
-<span dir="rtl">ܦܘܪܫܢܐ</span> (<i>pwršnʾ </i>) and Vg’s <i>divisio</i>. However, Andrew Macintosh argued that ‘there is no evidence in Hebr. for a semantic development [in <span dir="rtl">פדה</span>] from breaking, separation to redemption’ (Macintosh 1971:554; <i>contra</i> Gesenius, <i>TPC</i>, 1091-92; Muntinghe 1775). The text here may therefore be corrupt, and emendation to <span dir="rtl">פלת</span>, ‘separation’ (root <span dir="rtl">פלה</span> <i>hiph</i>.) was proposed by August Dillmann (1881:80; cf. <i>BHK</i>), although this noun is not attested elsewhere in MT. Graham Davies (1974) suggested instead <span dir="rtl">פ(ר)דת</span> with haplography accounting for the absence of the <span dir="rtl">ר</span>, from the
+<span dir="rtl">ܦܘܪܫܢܐ</span> (<i>puršānā</i>) and Vg’s <i>divisio</i>. However, Andrew Macintosh argued that ‘there is no evidence in Hebr. for a semantic development [in <span dir="rtl">פדה</span>] from breaking, separation to redemption’ (Macintosh 1971:554; <i>contra</i> Gesenius, <i>TPC</i>, 1091-92; Muntinghe 1775). The text here may therefore be corrupt, and emendation to <span dir="rtl">פלת</span>, ‘separation’ (root <span dir="rtl">פלה</span> <i>hiph</i>.) was proposed by August Dillmann (1881:80; cf. <i>BHK</i>), although this noun is not attested elsewhere in MT. Graham Davies (1974) suggested instead <span dir="rtl">פ(ר)דת</span> with haplography accounting for the absence of the <span dir="rtl">ר</span>, from the
 root <span dir="rtl">פרד</span> <i>hiph.</i>, ‘to separate’. Alternatively, <span dir="rtl">פדת</span> here may be derived from a different root. Macintosh (1971:551) suggests the root <span dir="rtl">פדד</span>, ‘was alone, separated’ (which corresponds to the cognate in Arabic <i>fadda</i> and in Syriac <i>pad</i>), by analogy with other double-‘ayin verbs and their cognate nouns. Medieval commentators have also tried to account for the unsuitability of <span dir="rtl">פדת</span> in MT. The Rabbinic commentators on Exod 8:19 clearly wanted to maintain the meaning of redemption within the idea of separation: ‘He sent his people deliverance and distinction moreover; that is to say, he distinguished between them and their oppressors’ (R. Jonah ibn Janah (10th century), <i>Sepher Haschoraschim</i>: Bacher
 1896:395). There is perhaps an argument, then, for a semantic development of <span dir="rtl">פדה</span> analogous to that of <span dir="rtl">פרק</span> (cf. Ps 136:24; Lam 5:8 in BH and on these passages the SAHD entry <a href="/sahd/words/to_pull_away/"><span dir="rtl">פָּרַק</span></a>: the salvific sense is not limited to or necessarily dependent upon Aram., <i>contra</i> Macintosh 1971:554-55), with an older sense of ‘separation’ attested here in Exod 8:19.
 
@@ -91,7 +91,7 @@ The syntagmatic information suggests that the emphasis of <span dir="rtl">פְּ
 
 <b>b. Peshitta (Pesh)</b>:
 
-* <span dir="rtl">ܦܘܪܫܢܐ</span> (<i>pwršnʾ </i>), ‘severing, separation’: Exod 8:19;
+* <span dir="rtl">ܦܘܪܫܢܐ</span> (<i>puršānā</i>), ‘severing, separation’: Exod 8:19;
 * <span dir="rtl">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’: Pss 111:9; 130:7;
 * <span dir="rtl">ܦܕܕ</span> (<i>pdd</i>) <i>peal</i>, ‘to wander away’: Isa 50:2.
 

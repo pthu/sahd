@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=2MGLHn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=מְגִלָּה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># מְגִלָּה  – scroll
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=2MGLHn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=מְגִלָּה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># מְגִלָּה <i>m<small><sup>e</sup></small>gillāh</i> – scroll
 
 Semantic Fields:
-[Writing](../semantic_fields/writing.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Writing](../semantic_fields/Writing.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Paul Sanders](../contributors/paul_sanders.md),&nbsp;[Klaas A. D. Smelik](../contributors/klaas_a._d._smelik.md)<br>
-First published: 2011-05-18<br>Last update: 2024-06-30 <br>Citation: Paul Sanders,&nbsp;Klaas A. D. Smelik, מְגִלָּה  – scroll, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2024)
+First published: 2011-05-18<br>Last update: 2024-06-30 <br>Citation: Paul Sanders,&nbsp;Klaas A. D. Smelik, מְגִלָּה <i>m<small><sup>e</sup></small>gillāh</i> – scroll, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2024)
 (WORK IN PROGRESS)
 
 
@@ -95,14 +95,6 @@ see <a href="#AVPesh">Ancient Versions: Peshitta</a>.
 * χάρτης, ‘papyrus roll’:[^5] Jer 36:23 (LXX 43:23);
 * χαρτίον, ‘papyrus roll’ (dim. of χάρτης):[^6] Jer 36:2, 4, 6, 14<small><sup>1,2</sup></small>, 20, 21, 25, 27, 28<small><sup>1,2</sup></small>, 29, 32 (LXX 43:2, 4, etc.).
 
-<b>A.1</b> In Jeremiah, LXX translates <span dir="rtl">מְגִלַּת סֵפֶר</span> as χαρτίον βιβλίου, ‘a small roll of a book’ (36:2 = LXX 43:2), 
-but <span dir="rtl">מְגִלָּה</span> alone only by χαρτίον  (36:6 = LXX 43:6). 
-In Ezek 2:9 and Ps 40:8 (LXX 39:8),
-the Greek translators render <span dir="rtl">מְגִלַּת סֵפֶר</span> 
-as κεφαλὶς βιβλίου, ‘a scroll of a book’, 
-but <span dir="rtl">מְגִלָּה</span> alone in Ezek 3:1-3 and Ezra 6:2 as κεφαλὶς . 
-The translators of Zech 5:1-2 opted for δρέπανον, ‘sickle’, which presupposes a different vocalisation (<span dir="rtl">מַגָּל</span>, ‘sickle’).
-
 
 <b><span id="AVPesh">b. Peshitta (Pesh)</span></b>: 
 
@@ -126,6 +118,14 @@ Cf. Jewish Aramaic under <a href="#RCM">Root and Comparative Material</a>.
 * <i>involutus</i>, ‘rolled up’ (from <i>involvere</i>, ‘to roll’):[^11] Ezek 2:9;
 * <i>liber</i>, ‘a book written for publication, volume, roll’:[^12] Jer 36:25;
 * <i>volumen</i>, ‘a roll of papyrus forming a book or part of a book, a roll of writing, a roll, book, volume’:[^13] Jer 36:2, 4, 6, 14<small><sup>1,2</sup></small></small>, 20, 21, 23, 27, 28<small><sup>1,2</sup></small>, 29, 32; Ezek 3:1, 2, 3; Zech 5:1, 2; Ps 40:8 (Vg<small><sup>PsH</sup></small>); Ezra 6:2.
+
+<b>A.1</b> In Jeremiah, LXX translates <span dir="rtl">מְגִלַּת סֵפֶר</span> as χαρτίον βιβλίου, ‘a small roll of a book’ (36:2 = LXX 43:2), 
+but <span dir="rtl">מְגִלָּה</span> alone only by χαρτίον  (36:6 = LXX 43:6). 
+In Ezek 2:9 and Ps 40:8 (LXX 39:8),
+the Greek translators render <span dir="rtl">מְגִלַּת סֵפֶר</span> 
+as κεφαλὶς βιβλίου, ‘a scroll of a book’, 
+but <span dir="rtl">מְגִלָּה</span> alone in Ezek 3:1-3 and Ezra 6:2 as κεφαλὶς . 
+The translators of Zech 5:1-2 opted for δρέπανον, ‘sickle’, which presupposes a different vocalisation (<span dir="rtl">מַגָּל</span>, ‘sickle’).
 
 <b>A.2</b> Vg translates <span dir="rtl">מְגִלַּת סֵפֶר</span> as <i>volumen libri</i> in Jer 36:2, 4; Ps 40:8 (Vg<small><sup>PsH</sup></small>). 
 In Ezek 2:9 this combination is translated as <i>involutus liber</i>, ‘a book rolled up’, 

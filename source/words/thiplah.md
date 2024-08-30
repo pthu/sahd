@@ -1,12 +1,16 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+---
+word_english: senselessness  
+word_hebrew: תִּפְלָה  
+transcription: <i>tiplāh</i>    
+title:   
+semantic_fields: knowledge   
+contributors: m._patrizia_sciumbata     
+first_published: 2009-09-16   
+last_update: 2024-06-30 (Raymond de Hoop)   
+update_info:  
+additional_info: 
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1TPLHin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=תְּפִלָּה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># תִּפְלָה  – senselessness
-
-Semantic Fields:
-[Knowledge](../semantic_fields/knowledge.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[M. Patrizia Sciumbata](../contributors/m._patrizia_sciumbata.md)<br>
-First published: 2009-09-16<br>Last update: 2024-06-30 (Raymond de Hoop) <br>Citation: M. Patrizia Sciumbata, תִּפְלָה  – senselessness, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2009 (update: 2024)
-
+---
 
 
 
@@ -169,7 +173,7 @@ observed in the Targum, the Peshitta and the Vulgate in the same verse.
 
 <b>e. Peshitta (Pesh)</b>:
 
-* <span dir="rtl">ܕܓܠܘܬܐ</span> (<i>daggālutāʾ </i>), ‘deceptiveness’: Jer 23:13;
+* <span dir="rtl">ܕܓܠܘܬܐ</span> (<i>daggāluṯā</i>), ‘deceptiveness’: Jer 23:13;
 * no equivalent: Job 1:22;
 * different text: Job 24:12.
 

@@ -1,6 +1,7 @@
 ---
 word_english: to_roast  
 word_hebrew: צלה  
+transcription: <i>ṣālāh</i>    
 title:   
 semantic_fields: food preparation    
 contributors: kurtis_peters     

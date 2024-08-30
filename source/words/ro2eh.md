@@ -1,6 +1,7 @@
 ---
 word_english: seer  
 word_hebrew: רֹאֶה  
+transcription: <i>roʾeh</i>    
 title: seer, diviner  
 semantic_fields: cult, divination  
 contributors: t._jonathan_stökl  
@@ -35,7 +36,7 @@ Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
 <b>B.3</b>  In 2 Chron 16:12 Jastrow (1909:49 n.23) suggests emending  <span dir="rtl">בָּרְפָאִם</span> to <span dir="rtl">בָּרֹאִים</span>. This emendation has not caught on.
 
 <b>B.4</b>  According to Jeffers (1996:99 n.339) 2 Sam 15:27 attributes the title  <span dir="rtl">רֹאֶה</span> to Zadok the priest. However, according to MT the text is vocalised as an
-    interrogative  <span dir="rtl">ה</span>. Most of the versions follow MT with the exception of the Peshiṭta which translates <span dir="rtl">ܚܙܘܝܐ</span> (<i>ḥzwyʾ</i>), ‘seer’. If the
+    interrogative  <span dir="rtl">ה</span>. Most of the versions follow MT. If the
     emendation were to be accepted the resulting Hebrew syntax would be
     somewhat unusual, if still possible.
 
@@ -97,9 +98,9 @@ Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
 
 <b>b. Peshitta (Pesh)</b>:   
 
-* <span dir="rtl">ܕܘܩܐ</span> (<i>dwqʾ </i>), ‘observer, watchman’: 2 Chron 16:10;
-* <span dir="rtl">ܚܙܘܝܐ</span> (<i>ḥzwyʾ </i>), ‘seer’: 1 Chron 26:28; Isa 30:10; 1 Sam 9:9 (2x), 11, 18, 19;
-* <span dir="rtl">ܢܒܝܐ</span> (<i>nbyʾ </i>), ‘prophet’: 1 Chron 9:22; 29:29; 2 Chron 16:7.
+* <span dir="rtl">ܕܘܩܐ</span> (<i>dāwqā</i>), ‘observer, watchman’: 2 Chron 16:10;
+* <span dir="rtl">ܚܙܝܐ</span> (<i>ḥazzāyā</i>), ‘seer’: 1 Sam 9:9 (2x), 11, 18, 19; Isa 30:10; 1 Chron 26:28;
+* <span dir="rtl">ܢܒܝܐ</span> (<i>nḇīyā</i>), ‘prophet’: 1 Chron 9:22; 29:29; 2 Chron 16:7.
 
 <b>c. Targum (Tg)</b>:
 

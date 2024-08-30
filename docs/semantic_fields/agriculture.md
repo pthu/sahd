@@ -4,4 +4,4 @@
 
 
 ### Related words
-[מַחֲרָשָׁה/מַחֲרֶשֶׁת – plough](../words/plough.md)<br>
+[מַחֲרֵשָׁה/מַחֲרֶשֶׁת – plough](../words/machareshah.md)<br>

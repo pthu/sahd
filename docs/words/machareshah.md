@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># מַחֲרָשָׁה/מַחֲרֶשֶׁת  – plough, hoe (?)
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># מַחֲרֵשָׁה/מַחֲרֶשֶׁת <i>maḥ<small><sup>a</sup></small>rēšāh</i> – plough, hoe (?)
 
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Agriculture](../semantic_fields/agriculture.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Paul Sanders](../contributors/paul_sanders.md)<br>
-First published: 2017-12-29<br>Last update: 2023-11-29 <br>Citation: Paul Sanders, מַחֲרָשָׁה/מַחֲרֶשֶׁת  – plough, hoe (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2017 (update: 2023)
+First published: 2017-12-29<br>Last update: 2023-11-29 <br>Citation: Paul Sanders, מַחֲרֵשָׁה/מַחֲרֶשֶׁת <i>maḥ<small><sup>a</sup></small>rēšāh</i> – plough, hoe (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2017 (update: 2023)
 
 
 ##<span id="I">Introduction</span>
@@ -18,7 +18,7 @@ Occurrences:   3x HB (0/3/0); 0x Sir; 0x Qum; 0x Inscr.  (Total: 3)
 
 <b> A.1</b> While the first occurrence of
 <span dir="rtl">מחרשתו</span> in 1 Sam 13:20 (<span dir="rtl">מַחֲרַשְׁתּוֹ</span>, with <i>pataḥ</i> as the third vowel) is a form of 
-\*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span>,
+\*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span>,
 the second occurrence (<span dir="rtl">מַחֲרֵשָׁתוֹ</span>, with <i>ṣ<sup><small>e</small></sup>rē</i> as the third vowel)
 <span id="seree"></span>
 is a form of \*<span dir="rtl">מַחֲרֵשָׁה</span>.
@@ -99,7 +99,7 @@ is taken as equivalent to Aram. <span dir="rtl">סיין</span>/<span dir="rtl">
 
 <b> A.1</b> <i>Root</i>: 
 Both \*<span dir="rtl">מַחֲרֵשָׁה</span> 
-and \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span> 
+and \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> 
 are commonly assumed to derive 
 from <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>, 
 ‘to plough, engrave’.[^11]
@@ -118,14 +118,14 @@ Contrary to Heb. <span dir="rtl">חרשׁ</span> <span style="text-transform:uppe
 ‘to plough, engrave’, Heb. <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">ii</span>
 refers to the work of the craftsman or artisan.
 Stephen Cook (1994) supposed that \*<span dir="rtl">מַחֲרֵשָׁה</span> derives from <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>, ‘to plough, engrave’,
-but that \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span> derives from <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">ii</span>, 
+but that \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> derives from <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">ii</span>, 
 ‘to manufacture’ (see <a href="#Cook">below</a>).
 <span id="KollerRoot">Aaron Koller (2012:86-89) distinguished a third root, <i>ḫrś</i>/<span dir="rtl">חרשׂ</span>, ‘to scratch’, assuming that <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span> </span>
 means only ‘to plough’, not ‘to engrave’ or ‘to scratch’. 
 He regarded the form <span dir="rtl">חֲרוּשָׁה</span>, ‘scratched’, in Jer 17:1
 as a form of this verb (with <span dir="rtl">ש</span> erroneously pointed as <i>šin</i> instead of <i>śin</i>; cf. <span dir="rtl">חֶרֶשׂ</span> in Job 2:8). 
 Koller saw \*<span dir="rtl">מַחֲרֵשָׁה</span> as a derivative of <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>, ‘to plough’,
-but \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span> as deriving from <span dir="rtl">חרשׂ</span>, ‘to scratch’ (see <a href="#Koller">below</a>).
+but \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> as deriving from <span dir="rtl">חרשׂ</span>, ‘to scratch’ (see <a href="#Koller">below</a>).
 However, note that in the Babylonian Talmud <span dir="rtl">מחרישה</span> denotes a ‘strigil’, an instrument for scraping the skin (see <a href="#strigil">below</a>).
 
 <b> A.2</b> <span id="Akk"><i>Akkadian</i>:</span> 
@@ -184,7 +184,7 @@ In modern Hebrew the word <span dir="rtl">מחרישה</span> means ‘plough’
 
 ##<span id="FC">2. Formal Characteristics</span>
 
-<b> A.1</b>  \*<span dir="rtl">מַחֲרֶשֶׁת</span>[^30]/\*<span dir="rtl">מַחֲרָשָׁה</span>[^31] 
+<b> A.1</b>  \*<span dir="rtl">מַחֲרֶשֶׁת</span>[^30]/\*<span dir="rtl">מַחֲרֵשָׁה</span>[^31] 
 is a <i>miqtal</i> form with a feminine termination (BL, 490 aζ).
 
 <b> A.2</b>  \*<span dir="rtl">מַחֲרֵשָׁה</span> 
@@ -213,8 +213,7 @@ Apparently, the price was paid for either producing or repairing them (see <a hr
 
 ##<span id="AV">4. Ancient Versions</span>
 
-<b> A.1</b> 
-In the following survey, ‘20<sup><small>1</small></sup>’ represents the first occurrence of <span dir="rtl">מחרשתו</span> 
+In the following survey of ancient translations, ‘20<sup><small>1</small></sup>’ represents the first occurrence of <span dir="rtl">מחרשתו</span> 
 (MT: <span dir="rtl">מַחֲרַשְׁתּוֹ</span>) in 1 Sam 13:20,
 while ‘20<sup><small>2</small></sup>’ represents the second occurrence
 (MT: <span dir="rtl">מַחֲרֵשָׁתוֹ</span>). 
@@ -253,7 +252,7 @@ while ‘20<sup><small>2</small></sup>’ represents the second occurrence
 * <i>vomer</i>, ‘ploughshare’:[^50] 20<sup><small>1</small></sup>, 21. 
 
 
-<b> A.2</b> 
+<b> A.1</b> 
 <span id="Versions">As the surveys show, the two occurrences of <span dir="rtl">מחרשתו</span> in 1 Sam 13:20 MT have two different counterparts in all the ancient translations.</span>
 α´, Pesh and Vg treat the first occurrence of <span dir="rtl">מחרשתו</span> (20<sup><small>1</small></sup>)
 as a form of the same noun as <span dir="rtl">מחרשת</span> 
@@ -262,8 +261,8 @@ In LXX, the words representing <span dir="rtl">מחרשתו</span> (20<sup><smal
 On the other hand, the translation of Tg<sup><small>J</small></sup> suggests that the second occurrence of <span dir="rtl">מחרשתו</span> (20<sup><small>2</small></sup>) is a form of the same noun as <span dir="rtl">מחרשת</span> 
 (21). This corresponds with the Masoretic vocalisation. 
 
-<span id="Targ"><b> A.3</b> </span>
-Tg<sup><small>J</small></sup> translates each of the implements mentioned in 1 Sam 13:20-21 consistently: \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span> is translated by 
+<span id="Targ"><b> A.2</b> </span>
+Tg<sup><small>J</small></sup> translates each of the implements mentioned in 1 Sam 13:20-21 consistently: \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> is translated by 
 <span dir="rtl">פְּרָשָׁא</span> (1x); <span dir="rtl">אֵת</span> is translated by <span dir="rtl">סִכַּת פַּדְנָא</span> (2x); <span dir="rtl">קַרְדֹּם</span> is translated by <span dir="rtl">כּוּלְבָה</span> (2x); \*<span dir="rtl">מַחֲרֵשָׁה</span>  is translated by <span dir="rtl">עוּשְׁפָּא</span> (2x); 
 <span dir="rtl">דָּרְבָן</span>
 is translated by 
@@ -271,11 +270,11 @@ is translated by
 The fact that Heb. <span dir="rtl">אֵת</span>
 was rendered as  <span dir="rtl">סִכַּת פַּדְנָא</span>, 
 ‘plough-point’ (→ <span dir="rtl">אֵת</span>), 
-seems to suggest that \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span>
+seems to suggest that \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span>
 was not interpreted as such. Therefore, it may be best to translate <span dir="rtl">פְּרָשָׁא</span>
 as ‘goad’.
 
-<b> A.4</b> 
+<b>A.3</b> 
 Most of the ancient translations assume that the first occurrence of 
 <span dir="rtl">מחרשתו</span>
 in 1 Sam 13:20 represents an implement used for ploughing
@@ -285,7 +284,9 @@ as relating to harvesting  instead of ploughing.[^51]
 In 1 Samuel, the only phrase in which the verb <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span> has the meaning ‘to plough’ occurs in 8:12:
 <span dir="rtl">וְלַחֲרֹשׁ חֲרִישׁוֹ וְלִקְצֹר קְצִירוֹ</span>
 (MT), literally: ‘to plough the ploughing and to harvest the harvest’.
-Most mss of LXX render the phrase as καὶ θερίζειν θερισμὸν αὐτοῦ καὶ τρυγᾶν τρυγητὸν αὐτου. Both θερίζειν θερισμὸν and τρυγᾶν τρυγητὸν can be translated as ‘to reap the harvest’, not as ‘to undertake the ploughing’.[^52]   
+Most mss of LXX render the phrase as καὶ θερίζειν θερισμὸν αὐτοῦ καὶ τρυγᾶν τρυγητὸν αὐτου. Both θερίζειν θερισμὸν and τρυγᾶν τρυγητὸν can be translated as ‘to reap the harvest’, not as ‘to undertake the ploughing’.[^52]
+
+<b>A.4</b>
 There is insufficient reason to suppose that the Gk. translation of 1 Sam 8:12 goes back to a Heb. text that differs from 
 MT.[^53] The translation of the first occurrence of
 <span dir="rtl">מחרשת</span>/<span dir="rtl">מחרשה</span> 
@@ -296,7 +297,9 @@ seem to be due to the same confusion regarding the meaning of <span dir="rtl">ח
 and its derivatives. 
 In LXX<sup><small>Ant</small></sup> καὶ θερίζειν θερισμὸν αὐτοῦ καὶ τρυγᾶν τρυγητὸν αὐτου is preceded by καὶ ἀροτριᾶν τὴν ἀροτρίασιν αὐτοῦ 
 ‘and to undertake the ploughing’.[^54] 
-Apparently, the additional phrase was inserted to assimilate the LXX to the Heb. text.[^55]   
+Apparently, the additional phrase was inserted to assimilate the LXX to the Heb. text.[^55]
+
+<b>A.5</b>
 In 1 Sam 8:12, Pesh remains close to the Masoretic reading <span dir="rtl">ולחרש חרישו ולקצר קצירו</span>
 (MT).[^56] 
 In the case of 1 Sam 13:20-21, however, the reading of Pesh 
@@ -310,7 +313,7 @@ the first <span dir="rtl">מחרשת</span>/<span dir="rtl">מחרשה</span>
 ##<span id="LSF">5. Lexical/Semantic Fields</span>
 
 <b> A.1</b> The noun \*<span dir="rtl">מַחֲרֵשָׁה</span> 
-and often also the noun \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span>
+and often also the noun \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span>
 are regarded as derivatives of the verb <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>, ‘to plough, engrave’.
 In the Hebrew Bible, the verb is used ten times for ploughing in a literal sense[^57] 
 and four or five times for ploughing in a figurative sense.[^58]
@@ -319,7 +322,7 @@ After a → <span dir="rtl">עֹל</span>,
 
 <b> A.2</b> 
 The nouns \*<span dir="rtl">מַחֲרֵשָׁה</span> 
-and \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span>
+and \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span>
 occur only in two lists of sharp utensils (1 Sam 13:20-21). The other items in the lists are 
 → <span dir="rtl">אֵת</span>,
 → <span dir="rtl">קַרְדֹּם</span>,
@@ -329,7 +332,7 @@ possibly
 and → <span dir="rtl">דָּרְבָן</span>.
 
 <b> A.3</b> Koller (2012:255) assumes that 
-the \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span>
+the \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span>
 was very similar to the → <span dir="rtl">מַעְדֵּר</span>
 and that the different words may even designate the same tool.
 
@@ -344,7 +347,7 @@ one of the  occurrences of
 <span dir="rtl">מחרשׁה</span>/<span dir="rtl">מחרשׁת</span> 
 in the list of utensils in 1 Sam 13:20 denotes an implement used for ploughing.
 Most dictionaries interpret either \*<span dir="rtl">מַחֲרֵשָׁה</span> 
-or \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span> as ‘ploughshare’.[^60]
+or \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> as ‘ploughshare’.[^60]
 In the Mishnah, Tosefta and Talmudim, the noun <span dir="rtl">מַחֲרֵשָׁה</span> designates the entire plough, while the cognates in Arab. and Eth. (and possibly in Ug.) also denote a plough (see 
 <a href="#Ugar">above</a>).   
 Most of the ancient translations assume that the first item in the list of 13:20 
@@ -441,9 +444,9 @@ This noun can also be seen as a derivative of <span dir="rtl">חרשׁ</span> <sp
 and may refer to a different tool used for ‘engraving’ the soil, wood, etc. 
 <span id="Koller">However, Aaron Koller (2012:86-89) distinguished a third root, <i>ḫrś</i>/<span dir="rtl">חרשׂ</span>, ‘to scratch’, assuming that <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span> </span>
 means only ‘to plough’, not ‘to engrave’ or ‘to scratch’ (see <a href="#KollerRoot">above</a>). He interpreted 
-\*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span> as deriving from <span dir="rtl">חרשׂ</span>, ‘to scratch’.
+\*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> as deriving from <span dir="rtl">חרשׂ</span>, ‘to scratch’.
 With reference to Yemeni Arab. <i>mḫrš</i>, ‘harrow’, and <i>ḫrš</i>, ‘to till by hand’,
-he suggested that the noun \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span> designates a hoe or a harrow. 
+he suggested that the noun \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> designates a hoe or a harrow. 
 The noun may indeed represent a tool for weeding or tilling the soil by hand 
 (cf. <i>sarculum</i> in Vg).[^75] 
 
@@ -514,7 +517,7 @@ Recent film recordings show a way of ploughing that gives an impression of the w
 
 
 <b> A.3</b> 
-\*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span> may denote a hoe or harrow (see <a href="#Koller">6.1 A.4</a>).
+\*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> may denote a hoe or harrow (see <a href="#Koller">6.1 A.4</a>).
 For ancient pictures of hoes from the Levant
 (Syria-Palestine), see → <span dir="rtl">מַעְדֵּר</span>.
 
@@ -543,7 +546,7 @@ from the ploughshares of mouldboard ploughs. Therefore, Borowski’s designation
 
 
 <b>A.2</b> 
-\*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span> may denote a hoe or harrow (see <a href="#Koller">6.1 A.4</a>). For remains of hoes from the Levant (Syria-Palestine), see → <span dir="rtl">מַעְדֵּר</span>.
+\*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> may denote a hoe or harrow (see <a href="#Koller">6.1 A.4</a>). For remains of hoes from the Levant (Syria-Palestine), see → <span dir="rtl">מַעְדֵּר</span>.
 
 
 ##<span id="Con">7. Conclusion</span>
@@ -568,7 +571,7 @@ in 13:21 can be retained and this form can be translated as ‘ploughs’ or ‘
 
 <b> A.2</b>  The proposals to emend the second occurrence of <span dir="rtl">מחרשׁתו</span> 
 in 1 Sam 13:20 are debatable. The noun
-\*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span> may denote a hoe or harrow (see <a href="#Koller">6.1 A.4</a>),
+\*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> may denote a hoe or harrow (see <a href="#Koller">6.1 A.4</a>),
 but it is not possible to identify the designated tool with certainty. 
 
 
@@ -811,7 +814,7 @@ Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amste
 
 
 
-[^1]: If <span dir="rtl">מחרשֹׁת</span> in 13:21 were a plural form of  \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרָשָׁה</span>, the expected vocalisation in 13:21 would be  <span dir="rtl">מַחֲרָשֹׁת</span> (with <i>qameṣ</i>). Cf.  <span dir="rtl">מַעֲרָכוֹת</span> in Lev 24:6, <span dir="rtl">מַאֲכָלוֹת</span> in Prov 30:14, and the similar plural forms of other nouns mentioned in BL, 490&nbsp;aζ.
+[^1]: If <span dir="rtl">מחרשֹׁת</span> in 13:21 were a plural form of  \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span>, the expected vocalisation in 13:21 would be  <span dir="rtl">מַחֲרָשֹׁת</span> (with <i>qameṣ</i>). Cf.  <span dir="rtl">מַעֲרָכוֹת</span> in Lev 24:6, <span dir="rtl">מַאֲכָלוֹת</span> in Prov 30:14, and the similar plural forms of other nouns mentioned in BL, 490&nbsp;aζ.
 [^2]: <i>DCH</i> v: 229-30. See also the discussion in <a href="#Versions">4. A.2</a> and <a href="#Exe-lit">6.1</a>.
 [^3]: See <i>BHK</i><sup><small>1</small></sup>, BDB, 361, and the literature mentioned in Barthélemy, <i>CTAT</i> 1:180.
 [^4]: See <i>BHK</i><sup><small>2/3</small></sup>, KBL, 515; Ges<sup><small>18</small></sup>, 661, and the literature mentioned in Barthélemy, <i>CTAT</i> 1:180-81. See also the critical assessment of this emendation by Koller (2012:84-85). In other contexts, δρέπανον  represents Heb. <span dir="rtl">מַזְמֵרָה</span> (Isa 2:4; 18:5; Mic 4:3; Joel 4:10) or Heb. <span dir="rtl">מַגָּל</span> (Jer 50:16 = 27:16<sup><small>LXX</small></sup>; Joel 4:13). Remarkably, no scholars seem to have suggested reading  <span dir="rtl">מזמרתו</span> or <span dir="rtl">מגלו</span> instead of <span dir="rtl">מחרשתו</span> at the end of 1 Sam 13:20. Stoebe (1973:254) proposed reading <span dir="rtl">חֲרִיצֹו</span> instead of <span dir="rtl">מחרשתו</span> (cf. 2 Sam 12:31).
@@ -858,7 +861,7 @@ Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amste
 [^45]: Payne Smith, <i>CSD</i>, 250; Sokoloff, <i>SLB</i>, 709.
 [^46]: Payne Smith, <i>CSD</i>, 285; Sokoloff, <i>SLB</i>, 793. <i>SLB</i> gives as a   second translation ‘part of plow’.
 [^47]: Jastrow, <i>DTT</i>, 1059. <i>WTM</i> iii:711 (Heb. <span dir="rtl">עֹושֶׁף</span>): ‘der spitze Theil eines Instrumentes, welcher zum Bohren und Pflügen diente, der andere scharfe Theil dieses Instrumentes diente zum Holzspalten’. According to mKelim 13:3, the → <span dir="rtl">קַרְדֹּם</span>  has an  <span dir="rtl">עֹושֶׁף</span> ‘paring/chipping edge’  and a  <span dir="rtl">בֵּית בִּקּוּעַ</span>   ‘splitting/chopping edge’.
-[^48]: Jastrow, <i>DTT</i>, 1243, distinguishes <span dir="rtl">פְּרָשָׁא</span> I, ‘[driving] goad’ (Tg<sup><small>J</small></sup> Judg 3:31), from <span dir="rtl">פְּרָשָׁא</span> II, ‘[breaker, crusher,] ploughshare’ (1 Sam 13:20). <i>WTM</i> iv:145, and Dalman, <i>ANHT</i>, 354, suggest that <span dir="rtl">פְּרָשָׁא</span> means ‘ox goad’ in Judg 3:31 as well as 1 Sam 13:20. See further the discussion in section <a href="#Targ">A.3</a>.
+[^48]: Jastrow, <i>DTT</i>, 1243, distinguishes <span dir="rtl">פְּרָשָׁא</span> I, ‘[driving] goad’ (Tg<sup><small>J</small></sup> Judg 3:31), from <span dir="rtl">פְּרָשָׁא</span> II, ‘[breaker, crusher,] ploughshare’ (1 Sam 13:20). <i>WTM</i> iv:145, and Dalman, <i>ANHT</i>, 354, suggest that <span dir="rtl">פְּרָשָׁא</span> means ‘ox goad’ in Judg 3:31 as well as 1 Sam 13:20. See further the discussion in section <a href="#Targ">A.2</a>.
 [^49]: <i>OLD</i>, 1691. Lewis & Short, <i>LD</i>, 1631, describe <i>sarculum</i> as ‘an implement for loosening the soil, weeding, etc., <i>a light hoe</i>’.
 [^50]: Lewis & Short, <i>LD</i>, 2014;  <i>OLD</i>, 2103.
 [^51]: For the distinctive character of the transmitted LXX text of  1 Samuel, see Hugo 2015:129-32; Hugo 2016:222-23.

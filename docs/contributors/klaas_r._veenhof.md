@@ -4,4 +4,4 @@
 
 
 ### Contributions
-[פֶּלֶךְ – spindle](../words/spindle.md)<br>
+[פֶּלֶךְ – spindle](../words/pelek.md)<br>

@@ -4,4 +4,4 @@
 
 
 ### Related words
-[מָאוֹר – light](../words/light.md)<br>
+[מָאוֹר – light](../words/ma2or.md)<br>

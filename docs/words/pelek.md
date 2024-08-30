@@ -1,13 +1,12 @@
----
-word_english: spindle 
-word_hebrew: פֶּלֶךְ   
-title: 
-semantic_fields: utensils, craft, textile production,   
-contributors: klaas_r._veenhof, paul_sanders  
-first_published: 2021-11-08  
-last_update: 2023-05-16   
- 
----
+<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1PLKn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># פֶּלֶךְ <i>pélek</i> – spindle
+
+Semantic Fields:
+[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Craft](../semantic_fields/craft.md)&nbsp;&nbsp;&nbsp;[Textile Production](../semantic_fields/textile production.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Klaas R. Veenhof](../contributors/klaas_r._veenhof.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<br>
+First published: 2021-11-08<br>Last update: 2023-05-16 <br>Citation: Klaas R. Veenhof,&nbsp;Paul Sanders, פֶּלֶךְ <i>pélek</i> – spindle, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2021 (update: 2023)
+
 
 
 
@@ -120,7 +119,7 @@ He translates the phrase as follows:
 ‘But in my days, (especially) mine, a woman can walk alone with her spindles’. 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/Fusus_Luwian.png?) <small>Figure&nbsp;1:&nbsp;&nbsp; Luwian hieroglyph denoting a spindle</small>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../images/photos/Fusus_Luwian.png?) <small>Figure&nbsp;1:&nbsp;&nbsp; Luwian hieroglyph denoting a spindle</small>
 
 
 <b>A.5</b> <i>Postbiblical Hebrew</i>:
@@ -199,8 +198,6 @@ which indicates that the פֶּלֶךְ is grasped.
 
 ## <a id="AV"></a>4. Ancient Versions
 
-<b>A.1</b> The noun פֶּלֶךְ is rendered as follows in the ancient translations.
-
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
 * ἄτρακτος, ‘spindle’:[^5] 
@@ -243,7 +240,7 @@ probably either ‘spindle’ or ‘spun wool/yarn’:[^11] Prov 31:19<sup><smal
 [^14]: Lewis & Short, <i>LD</i>, 798;  <i>OLD</i>, 751.
 
 
-<b>A.2</b>
+<b>A.1</b>
 It has been suggested that in 2 Sam 3:29 not only LXX but also Tg<sup><small>J</small></sup> supports the interpretation of פֶּלֶךְ
 as a walking stick or crutch. 
 However, this is dubious; see section <a href="#lame">6.1 A.2</a>.
@@ -512,7 +509,7 @@ With regard to certain depictions of only a single thread per spindle, she obser
 > The fact that in some pictures we are <i>shown</i> spinners pulling only one thread per spindle may be a simplification on the part of the artist, but it may also show a practice
 of adding a strengthening twist to the fine ‘single’ yarns … 
 
-<a id="Khnumhotep"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/DT204509.jpg)
+<a id="Khnumhotep"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../images/photos/DT204509.jpg)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;2:&nbsp;&nbsp;
@@ -545,7 +542,7 @@ displays a woman whose hands hold a spindle onto which yarn has been wound (<i>A
 from northern Syria and southeastern Turkey show women holding a spinning instrument in either their right or their left hand. 
 One of these reliefs displays a woman with yarn wound onto her spindle; see <a href="#Maraş">Figure&nbsp;3</a> (complete figure: Bonatz 2000: pl. 18 C 51).
 
-<a id="Maraş"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/Marash.jpg)
+<a id="Maraş"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../images/photos/Marash.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;3:&nbsp;&nbsp; Detail of neo-Hittite monument from Maraş, 9th to 8th cent. <small>BCE</small>  </small>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Internet: <a href="https://vici.org/vici/42226/?lang=nl" target="_blank" rel="noopener noreferrer">Maraş Stele</a>
@@ -569,7 +566,7 @@ Bonatz also interprets an object held by a woman depicted on relief C 60 as a di
 a hand-twisted wool thread runs down to a wool box in which the roving is kept (Bonatz 2000:79, 85, pl. 21).
 Of course, the representation of high-class women with spindles and distaffs suggests that these objects enhanced the status of these women. 
 
-<a id="C33"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/tarhuntiwasti.png)
+<a id="C33"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../images/photos/tarhuntiwasti.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;4:&nbsp;&nbsp; Neo-Hittite funerary stele of Tarhuntiwasti from Maraş, 9th to 8th cent. <small>BCE</small></small>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Two women, each with a spindle or distaff in the hand in the foreground. 
@@ -596,7 +593,7 @@ They have been excavated all over the Near East, including Ugarit, Ebla, Hazor, 
 
 [^17c]: Barber 1991:57-65; Sauvage 2014:186-88, 210-11; Spinazzi-Lucchesi 2018:30-33.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/achzib.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../images/photos/achzib.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;5:&nbsp;&nbsp; Bone spindle with damaged rod, 
 Achzib, 8th to 6th cent. <small>BCE</small></small>  
@@ -626,7 +623,7 @@ In the Cave of the Letters (cave 5-6) in Naḥal Ḥever, three wooden and two s
 balls of woollen and linen threads, all with 135 <small>CE</small> as the <i>terminus ad quem</i> (Yadin 1963:35-36, 130-32, 169-88, 252, 256, plates 36, 59, 88).
 
 
-<a id="Murabb"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/Murabbaat.png)
+<a id="Murabb"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../images/photos/Murabbaat.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;6:&nbsp;&nbsp; Wooden spindle, length 23.5 cm; 
 Wadi Murabba‘at, Early Roman Period</small>   

@@ -25,32 +25,32 @@ nav:
                 - ישׁע - to save, help: words/y-sh-3.md
                 - יֵשַׁע - safety: words/yesha3.md
             - מ:
-                - מָאוֹר - light: words/light.md
-                - מְגִלָּה - scroll: words/scroll.md
-                - מוֹשָׁעָה - deliverance: words/deliverance.md
-                - מַחֲרָשָׁה/מַחֲרֶשֶׁת - plough: words/plough.md
-                - מַפְרֶקֶת - neck: words/neck.md
+                - מָאוֹר - light: words/ma2or.md
+                - מְגִלָּה - scroll: words/mgillah.md
+                - מוֹשָׁעָה - deliverance: words/mosha3ah.md
+                - מַחֲרָשָׁה/מַחֲרֶשֶׁת - plough: words/machareshah.md
+                - מַפְרֶקֶת - neck: words/mapreqeth.md
             - נ:
-                - נָבִיא/נְבִיאָה - prophet(ess): words/prophet(ess).md
+                - נָבִיא/נְבִיאָה - prophet(ess): words/nabi2.md
             - פ:
-                - פָּדָה - to liberate: words/to_liberate.md
-                - פְּדוּיִם - redemption price: words/redemption_price.md
-                - פְּדוּת - redemption-action: words/redemption-action.md
-                - פִּדְיוֹן - ransom: words/ransom.md
-                - פֶּלֶךְ - spindle: words/spindle.md
+                - פָּדָה - to liberate: words/p-d-h.md
+                - פְּדוּיִם - redemption price: words/pduyim.md
+                - פְּדוּת - redemption-action: words/pduth.md
+                - פִּדְיוֹן - ransom: words/pidyon.md
+                - פֶּלֶךְ - spindle: words/pelek.md
                 - פרק - to pull off: words/p-r-q.md
                 - פָּרָק - piece of meat: words/paraq.md
                 - פֶּרֶק - plunder: words/pereq.md
             - צ:
-                - צלה - to roast: words/to_roast.md
+                - צלה - to roast: words/ts-l-h.md
             - ר:
-                - רֹאֶה - seer: words/seer.md
+                - רֹאֶה - seer: words/ro2eh.md
             - ש:
-                - שׁוֹעַ - great man: words/great_man.md
-                - שׁוּעַ - cry for help: words/cry_for_help.md
+                - שׁוֹעַ - great man: words/shoa3.md
+                - שׁוּעַ - cry for help: words/shua3.md
             - ת:
-                - תְּבוּנָה - understanding: words/understanding.md
-                - תִּפְלָה - senselessness: words/senselessness.md
+                - תְּבוּנָה - understanding: words/thbunah.md
+                - תִּפְלָה - senselessness: words/thiplah.md
                 - תְּשׁוּעָה - deliverance, state of: words/thshu3ah.md
     - Semantic fields:
             - Agriculture: semantic_fields/agriculture.md
@@ -69,7 +69,7 @@ nav:
             - Tribute: semantic_fields/tribute.md
             - Utensils: semantic_fields/utensils.md
             - Weight: semantic_fields/weight.md
-            - Writing: semantic_fields/writing.md
+            - Writing: semantic_fields/Writing.md
     - Contributors:
             - James K. Aitken: contributors/james_k._aitken.md
             - Graham I. Davies: contributors/graham_i._davies.md

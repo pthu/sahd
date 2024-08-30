@@ -33,6 +33,8 @@
 ישׁע : to save, help : y-sh-3
 יֵשַׁע : safety : yesha3
 
+ך
+
 כ
 
 ל
@@ -49,7 +51,7 @@
 ן
 
 נ
-נָבִיא/נְבִיאָה : prophet(ess) : prophet(ess)
+נָבִיא/נְבִיאָה : prophet(ess) : nabi2
 
 ס
 
@@ -58,11 +60,11 @@
 ף
 
 פ
-פָּדָה : to liberate : to_liberate
-פְּדוּיִם : redemption price : redemption_price
-פְּדוּת : redemption-action : redemption-action
-פִּדְיוֹן : ransom : ransom
-פֶּלֶךְ : spindle : spindle
+פָּדָה : to liberate : p-d-h
+פְּדוּיִם : redemption price : pduyim
+פְּדוּת : redemption-action : pduth
+פִּדְיוֹן : ransom : pidyon
+פֶּלֶךְ : spindle : pelek
 פרק : to pull off : p-r-q
 פָּרָק : piece of meat : paraq
 פֶּרֶק : plunder : pereq
@@ -71,18 +73,18 @@
 ץ
 
 צ
-צלה : to roast : to_roast
+צלה : to roast : ts-l-h
 
 ק
 
 ר
-רֹאֶה : seer : seer
+רֹאֶה : seer : ro2eh
 
 ש
-שׁוֹעַ : great man : great_man
-שׁוּעַ : cry for help : cry_for_help
+שׁוֹעַ : great man : shoa3
+שׁוּעַ : cry for help : shua3
 
 ת
-תְּבוּנָה : understanding : understanding
-תִּפְלָה : senselessness : senselessness
+תְּבוּנָה : understanding : thbunah
+תִּפְלָה : senselessness : thiplah
 תְּשׁוּעָה : deliverance, state of : thshu3ah

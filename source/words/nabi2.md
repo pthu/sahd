@@ -1,12 +1,16 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+---
+word_english: prophet(ess)  
+word_hebrew:  נָבִיא/נְבִיאָה   
+transcription: <i>nābīʾ/n<small><sup>e</sup></small>bīʾāh</i>    
+title: prophet(ess), diviner   
+semantic_fields: cult, divination  
+contributors: t._jonathan_stökl  
+first_published: 2010-08-02  
+last_update: 2024-06-30   
+update_info:  
+additional_info: 
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># נָבִיא/נְבִיאָה  – prophet(ess), diviner
-
-Semantic Fields:
-[Cult](../semantic_fields/cult.md)&nbsp;&nbsp;&nbsp;[Divination](../semantic_fields/divination.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[T. Jonathan Stökl](../contributors/t._jonathan_stökl.md)<br>
-First published: 2010-08-02<br>Last update: 2024-06-30 <br>Citation: T. Jonathan Stökl, נָבִיא/נְבִיאָה  – prophet(ess), diviner, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
-
+---
 
 
 ## Introduction
@@ -657,9 +661,9 @@ that version at all.
 
 <b>b. Peshitta (Pesh):</b>
 
-* <span dir="rtl"> ܓܒܪܐ</span> (<i>gbrʾ </i>), ‘man’: 1 Kgs 18:20; Jer 23:37;
-* <span dir="rtl">ܢܒܝ</span> (<i>nby</i>) (verb), ‘to prophesy’: Ezek 13:2(2<sup><small>nd</small></sup>);
-* <span dir="rtl">ܢܒܝܐ</span> (<i>nbyʾ </i>), ‘prophet’: Gen 20:7; Num 11:29; 12:6; Deut 13:2, 4, 6;
+* <span dir="rtl"> ܓܒܪܐ</span> (<i>gaḇrā</i>), ‘man’: 1 Kgs 18:20; Jer 23:37;
+* <span dir="rtl">ܢܒܝ</span> (<i>nby</i>) <i>ethpaal</i>, ‘to prophesy’: Ezek 13:2(2<sup><small>nd</small></sup>);
+* <span dir="rtl">ܢܒܝܐ</span> (<i>nḇīyā</i>), ‘prophet’: Gen 20:7; Num 11:29; 12:6; Deut 13:2, 4, 6;
 18:15, 18, 20(2x), 22(2x); 34:10; Judg 6:8; 1 Sam 3:20; 9:9; 1 Sam 10:5, 10, 11(2x); 19:20, 24; 22:5; 28:6, 15; 2 Sam 7:2; 12:25; 24:11; 1 Kgs 1:8, 10, 22, 23, 32, 34, 38, 44, 45; 11:29; 13:11, 18, 20, 23, 25, 26, 29(2x);
 14:2, 18; 16:7, 12; 18:4(2x), 13(2x), 19(2x), 22(2x), 25, 36, 40; 19:1, 10, 14, 16;
 20:13, 22, 35, 38, 41; 22:6, 7, 10, 12, 13, 22, 23; 2 Kgs 2:3, 5, 7, 15;
@@ -679,8 +683,8 @@ that version at all.
 2:9, 14, 20; 4:13; Dan 9:2, 6, 10, 24; 1 Chron 16:22; 17:1; 29:29; 2 Chron
 13:22; 15:8; 18:5, 6, 9, 11, 12, 21, 22; 20:20; 21:12; 24:19; 25:15, 16; 26:22;
 28:9; 29:25(2x); 32:20, 32; 35:18; 36:12, 16; 
-* <span dir="rtl">ܢܒܝܬܐ</span> (<i>nbytʾ </i>), ‘prophetess’: Exod 15:20; Judg 4:4; 2 Kgs 22:14; Isa 8:3; 2 Chron 34:22;
-* <span dir="rtl">ܢܒܝܘܬܐ</span> (<i>nbywtʾ </i>), ‘prophecy’: Jer 23:26 (2<sup><small>nd</small></sup>);
+* <span dir="rtl">ܢܒܝܬܐ</span> (<i>nḇīṯā</i>), ‘prophetess’: Exod 15:20; Judg 4:4; 2 Kgs 22:14; Isa 8:3; 2 Chron 34:22;
+* <span dir="rtl">ܢܒܝܘܬܐ</span> (<i>nḇīyūṯā</i>), ‘prophecy’: Jer 23:26 (2<sup><small>nd</small></sup>);
 * no equivalent:  1 Chron 25:1; 2 Chron 12:15;
 * not extant:  Jer 28:6; 38:10; 42:2; 45:1; Ps 51:2; Ezra 9:11; Neh 6:7, 14(2x); 9:26, 30, 32; 2 Chron 9:29; 12:5.
 

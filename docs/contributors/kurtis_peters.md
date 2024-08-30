@@ -11,4 +11,4 @@ Mail: <a href="mailto:kurtis.peters@ubc.ca">kurtis.peters@ubc.ca</a>
 
  
 ### Contributions
-[צלה – to roast](../words/to_roast.md)<br>
+[צלה – to roast](../words/ts-l-h.md)<br>

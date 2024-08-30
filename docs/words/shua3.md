@@ -1,14 +1,11 @@
----
-word_english: cry_for_help   
-word_hebrew: שׁוּעַ      
-title: cry for help(?)   
-semantic_fields:   
-contributors: james_k._aitken, graham_i._davies      
-first_published: 2016-09-30   
-last_update: 2024-06-30   
-update_info:  
-additional_info:   
---- 
+<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1CWOin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># שׁוּעַ <i>šū<small><sup>a</sup></small>ʿ</i> – cry for help(?)
+
+Author(s):
+[James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)<br>
+First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: James K. Aitken,&nbsp;Graham I. Davies, שׁוּעַ <i>šū<small><sup>a</sup></small>ʿ</i> – cry for help(?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2016 (update: 2024)
+
 
 For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies; but cf. <a href="#Con">Conclusions</a> below.

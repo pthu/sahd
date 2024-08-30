@@ -1,15 +1,11 @@
----
-word_english: neck   
-word_hebrew: מַפְרֶקֶת       
-title:    
-semantic_fields:   
-contributors: graham_i._davies      
-first_published: 2010-07-31   
-last_update: 2024-06-30   
-update_info:  
-additional_info:   
+<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
---- 
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1MPRQTn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=מַפְרֶקֶת&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># מַפְרֶקֶת <i>mapréqet</i> – neck
+
+Author(s):
+[Graham I. Davies](../contributors/graham_i._davies.md)<br>
+First published: 2010-07-31<br>Last update: 2024-06-30 <br>Citation: Graham I. Davies, מַפְרֶקֶת <i>mapréqet</i> – neck, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
+
 
 For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
@@ -52,7 +48,11 @@ While such forms might be expected to refer to the subject of the related verb, 
 <b>A.1</b>  <span dir="rtl">מפרקת</span> is the subject of  <span dir="rtl">שׁבר</span> niph., ‘be broken’ (1 Sam 4:18).
 
 
-<b>A.2</b>  In the immediate context this syntagm is preceded by <span dir="rtl">ויפל מעל־הכסא אחרנית</span> and followed by <span dir="rtl">וימת</span>, indicating cause and effect of the breaking.
+<b>A.2</b>  In the immediate context this syntagm is preceded by <span dir="rtl">ויפל מעל־הכסא אחרנית</span>,
+‘and he fell backward from his seat’,
+and followed by <span dir="rtl">וימת</span>,
+‘and he died’,
+indicating cause and effect of the breaking.
 
 ## 4. Ancient Versions
 
@@ -64,7 +64,7 @@ While such forms might be expected to refer to the subject of the related verb, 
 
 <b>b. Peshitta (Pesh)</b>:
 
-* <span dir="rtl">ܦܪܩܬܐ</span> (<i>prqtʾ </i>), ‘neck, nape’: 1 Sam 4:18.
+* <span dir="rtl">ܦܪܩܬܐ</span> (<i>pāraqṯā</i>), ‘neck, nape’: 1 Sam 4:18.
 
 <b>c. Targum (Tg: J)</b>:
 
@@ -89,22 +89,22 @@ several times for the better known synonym  <span dir="rtl">עֹרֶף</span> (2
  <span dir="rtl">ערף</span> (like  <span dir="rtl">צואר</span>) is quite frequently translated by αὐχήν or τράχηλος
 (including 3x in Jer), so that there seems to have been no ignorance of
 its real meaning.] Aquila’s τένων is a general word for ‘sinew, tendon’
-(LSJ, 1775), most often of the foot or ankle, but Hom. <i>Od.</i> 3:449 used
-it of the neck tendons (of a sacrificial animal): cf. also Aquila at Ex
+(LSJ, 1775), most often of the foot or ankle, but Homer, <i>Od.</i> 3:449, used
+it of the neck tendons (of a sacrificial animal); cf. also Aquila at Ex
 13:13; 34:20.
 
 
 ## 5. Lexical/Semantic Fields
 
 <b>A.1</b>  The more common words for ‘neck’ are  <span dir="rtl">עֹרֶף</span> (33x BH, 1x Sir, 18x
-Qumran; cf. <i>DCH</i> vi: 565) and  <span dir="rtl">צַוָּאר</span> (41x BH, 1x Sir, 4x Qumran; cf.
+Qumran; cf. <i>DCH</i> vi:565) and  <span dir="rtl">צַוָּאר</span> (41x BH, 1x Sir, 4x Qumran; cf.
 <i>DCH</i> vii:91). Both these words are used of animals’ necks as well as
 humans’, whereas  <span dir="rtl">מפרקת</span> refers to a human. Both of them are also used
 figuratively, again unlike  <span dir="rtl">מפרקת</span>, but not much can be made of a single
 occurrence. Neither of them seems to be used specifically of the bones
 of the neck or as the object of  <span dir="rtl">שׁבר</span>, though Prov 29:1 (<span dir="rtl">ערף</span>) comes close
 to this and the verb  <span dir="rtl">עָרַף</span> is used of breaking the neck of an animal (so
-most authorities: but see Zipor 2001:369 for an alternative
+most authorities, but see Zipor 2001:369 for an alternative
 interpretation). Despite the last-mentioned evidence, the general usage
 of the other words may support the idea (for which there is etymological
 support: see <a href="#RCM">Root and Comparative Material</a> above) that <span dir="rtl">מפרקת</span> meant the neck-bones specifically and that this was the reason for its selection in 1 Sam 4:18.
@@ -123,7 +123,7 @@ trunk’) and BDB, 830 (‘[<i>dividing</i> head from body]’), explain the mea
 cognates meaning ‘joint’ (in the sense of a small bone) at Qumran as
 well as in later Heb. and Aram. makes it at least as possible, and
 perhaps more likely, that the meaning is ‘that which is divided (or
-broken)’, which also fits the physical reality well (i.e. the vertebrae
+broken)’, which also fits the physical reality well (i.e., the vertebrae
 that make up the ‘neck-bone’) [so Gesenius: see above].
 
 ## 7. Conclusion

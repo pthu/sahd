@@ -1,15 +1,12 @@
----
-word_english: redemption_price   
-word_hebrew: פְּדוּיִם    
-title: redemption price, ransom   
-semantic_fields: deliverance   
-contributors: alison_gray        
-first_published: 2007-08-31   
-last_update: 2024-06-30 (Raymond de Hoop)   
-update_info:  
-additional_info:   
+<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
---- 
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1PDWJMn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># פְּדוּיִם <i>p<small><sup>e</sup></small>dūyīm</i> – redemption price, ransom
+
+Semantic Fields:
+[Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Alison Gray](../contributors/alison_gray.md)<br>
+First published: 2007-08-31<br>Last update: 2024-06-30 (Raymond de Hoop) <br>Citation: Alison Gray, פְּדוּיִם <i>p<small><sup>e</sup></small>dūyīm</i> – redemption price, ransom, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2007 (update: 2024)
+
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
 <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
@@ -85,7 +82,7 @@ translations. It appears to be the view taken in Tg and Vg, and it produces a sm
 
 <b>b. Peshitta (Pesh)</b>:
 
-* <span dir="rtl">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’: Num 3:46, 48, 49[2x], 51, 18:16.
+* <span dir="rtl">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’: Num 3:46, 48, 49 (2x), 51, 18:16.
 
 <b>c. Targum (Tg: O/N/PsJ)</b>:
 

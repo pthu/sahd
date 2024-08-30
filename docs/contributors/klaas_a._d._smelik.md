@@ -4,4 +4,4 @@
 
 
 ### Contributions
-[מְגִלָּה – scroll](../words/scroll.md)<br>
+[מְגִלָּה – scroll](../words/mgillah.md)<br>

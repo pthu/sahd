@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1RAHiin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=רָאָה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># רֹאֶה  – seer, diviner
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1RAHiin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=רָאָה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># רֹאֶה <i>roʾeh</i> – seer, diviner
 
 Semantic Fields:
 [Cult](../semantic_fields/cult.md)&nbsp;&nbsp;&nbsp;[Divination](../semantic_fields/divination.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [T. Jonathan Stökl](../contributors/t._jonathan_stökl.md)<br>
-First published: 2010-08-02<br>Last update: 2024-06-30 <br>Citation: T. Jonathan Stökl, רֹאֶה  – seer, diviner, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
+First published: 2010-08-02<br>Last update: 2024-06-30 <br>Citation: T. Jonathan Stökl, רֹאֶה <i>roʾeh</i> – seer, diviner, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
 
 
 ## Introduction
@@ -32,7 +32,7 @@ Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
 <b>B.3</b>  In 2 Chron 16:12 Jastrow (1909:49 n.23) suggests emending  <span dir="rtl">בָּרְפָאִם</span> to <span dir="rtl">בָּרֹאִים</span>. This emendation has not caught on.
 
 <b>B.4</b>  According to Jeffers (1996:99 n.339) 2 Sam 15:27 attributes the title  <span dir="rtl">רֹאֶה</span> to Zadok the priest. However, according to MT the text is vocalised as an
-    interrogative  <span dir="rtl">ה</span>. Most of the versions follow MT with the exception of the Peshiṭta which translates <span dir="rtl">ܚܙܘܝܐ</span> (<i>ḥzwyʾ</i>), ‘seer’. If the
+    interrogative  <span dir="rtl">ה</span>. Most of the versions follow MT. If the
     emendation were to be accepted the resulting Hebrew syntax would be
     somewhat unusual, if still possible.
 
@@ -94,9 +94,9 @@ Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
 
 <b>b. Peshitta (Pesh)</b>:   
 
-* <span dir="rtl">ܕܘܩܐ</span> (<i>dwqʾ </i>), ‘observer, watchman’: 2 Chron 16:10;
-* <span dir="rtl">ܚܙܘܝܐ</span> (<i>ḥzwyʾ </i>), ‘seer’: 1 Chron 26:28; Isa 30:10; 1 Sam 9:9 (2x), 11, 18, 19;
-* <span dir="rtl">ܢܒܝܐ</span> (<i>nbyʾ </i>), ‘prophet’: 1 Chron 9:22; 29:29; 2 Chron 16:7.
+* <span dir="rtl">ܕܘܩܐ</span> (<i>dāwqā</i>), ‘observer, watchman’: 2 Chron 16:10;
+* <span dir="rtl">ܚܙܝܐ</span> (<i>ḥazzāyā</i>), ‘seer’: 1 Sam 9:9 (2x), 11, 18, 19; Isa 30:10; 1 Chron 26:28;
+* <span dir="rtl">ܢܒܝܐ</span> (<i>nḇīyā</i>), ‘prophet’: 1 Chron 9:22; 29:29; 2 Chron 16:7.
 
 <b>c. Targum (Tg)</b>:
 

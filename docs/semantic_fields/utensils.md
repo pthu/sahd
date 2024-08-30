@@ -4,4 +4,4 @@
 
 
 ### Related words
-[אוּרִים וְתֻמִּים – Urim Thummim](../words/2urim_wthummim.md)<br>[מַחֲרָשָׁה/מַחֲרֶשֶׁת – plough](../words/plough.md)<br>[פֶּלֶךְ – spindle](../words/spindle.md)<br>
+[אוּרִים וְתֻמִּים – Urim Thummim](../words/2urim_wthummim.md)<br>[מַחֲרֵשָׁה/מַחֲרֶשֶׁת – plough](../words/machareshah.md)<br>[פֶּלֶךְ – spindle](../words/pelek.md)<br>

@@ -1,6 +1,7 @@
 ---
 word_english: ransom
 word_hebrew: פִּדְיוֹן    
+transcription: <i>pidyōn</i>    
 title: ransom, redemption price   
 semantic_fields: deliverance   
 contributors: alison_gray       
@@ -65,7 +66,7 @@ rendering of  <span dir="rtl">כֹּפֶר</span> in v. 8.
 
 <b>b. Peshitta (Pesh)</b>:
 
-* <span dir="rtl">ܦܘܪܩܢܐ</span> (<i>pwrqnʾ </i>): Exod 21:30; Ps 49:9;
+* <span dir="rtl">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’: Exod 21:30; Ps 49:9.
 
 <b>c. Targum (Tg: O/N/PsJ/K)</b>:
 

@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># פָּדָה  – to liberate, set free, redeem
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1PDHv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># פדה <i>pādāh</i> – to liberate, set free, redeem
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Alison Gray](../contributors/alison_gray.md)<br>
-First published: 2007-08-31<br>Last update: 2024-06-30 (Raymond de Hoop, Paul Sanders) <br>Citation: Alison Gray, פָּדָה  – to liberate, set free, redeem, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2007 (update: 2024)
+First published: 2007-08-31<br>Last update: 2024-06-30 (Raymond de Hoop, Paul Sanders) <br>Citation: Alison Gray, פדה <i>pādāh</i> – to liberate, set free, redeem, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2007 (update: 2024)
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
@@ -279,7 +279,7 @@ Jer 15:21; 31:11; Hos 7:13; 13:14; Mic 6:4; Zech 10:8; Pss 25:22; 26:11;
 
 <b>A.1</b>  There is nothing unusual about the choice of <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) in the Peshitta, as it is the most common verb used to translate other words in this semantic field, along with <span dir="rtl">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span> (<i>pṣy</i>/<i>pṣʾ</i>) and <span dir="rtl">ܫܘܙܒ</span> (<i>šwzb</i>).
 
-<b>c. Targum (Tg: O/N/PsJ/Frg[^2]/J/K/11QTgJob)</b>:
+<b>c. Targumim (Tg: O/N/PsJ/Frg[^2]/J/K/11QTgJob)</b>:
 
 <i>Qal</i>:
 

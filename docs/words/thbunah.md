@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1TBWNHn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=תְּבוּנָה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># תְּבוּנָה  – understanding
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1TBWNHn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=תְּבוּנָה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># תְּבוּנָה <i>t<small><sup>e</sup></small>būnāh</i> – understanding
 
 Semantic Fields:
 [Knowledge](../semantic_fields/knowledge.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [M. Patrizia Sciumbata](../contributors/m._patrizia_sciumbata.md)<br>
-First published: 2009-09-16<br>Last update: 2024-06-30 (Raymond de Hoop, Paul Sanders) <br>Citation: M. Patrizia Sciumbata, תְּבוּנָה  – understanding, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2009 (update: 2024)
+First published: 2009-09-16<br>Last update: 2024-06-30 (Raymond de Hoop, Paul Sanders) <br>Citation: M. Patrizia Sciumbata, תְּבוּנָה <i>t<small><sup>e</sup></small>būnāh</i> – understanding, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2009 (update: 2024)
 
 
 
@@ -293,7 +293,7 @@ unit is implied (‘with his ingenuity’, ‘according to their ingenuity’).
 
 ## 4. Ancient Versions
 
-<b>A. Septuagint (LXX)</b>:
+<b>a. Septuagint (LXX)</b>:
 
 * ἀνδρεία/ἀνδρία, ‘manliness, manly spirit’: Prov 21:30;
 * ἔννοια, ‘reflection, cogitation’: Prov 2:11;
@@ -440,15 +440,16 @@ the context (Segal 1958:96).
 
 <b>e. Peshitta (Pesh)</b>:
 
-* <span dir="rtl">ܒܘܝܢܐ</span> (<i>buyyānāʾ </i>), ‘understanding, intelligence’: Exod 31:3; 1 Kgs 7:14; Job 12:12, 13;
+* <span dir="rtl">ܒܘܝܢܐ</span> (<i>buyyānā</i>), ‘understanding, intelligence’: Exod 31:3; 1 Kgs 7:14; Job 12:12, 13;
 * <span dir="rtl">ܚܟܝܡ</span> (<i>ḥakkim</i>), ‘wise, intelligent’: Prov 14:29; 17:27; 20:5;
-* <span dir="rtl">ܚܟܡܬܐ</span> (<i>ḥekmtāʾ </i>; emp.), ‘wisdom, knowledge; skill’: Ps 136:5; Prov 18:2; Job 26:12;
-* <span dir="rtl">ܡܐܡܪܐ</span> (<i>mēʾmrāʾ </i>), ‘speech, discourse’: Prov 5:1; 
-* <span dir="rtl">ܣܘܟܠܐ</span> (<i>sukkālāʾ </i>), ‘intelligence, understanding, intellect’: Exod 35:31; 36:1; Dt 32:28; Isa 40:14; 40:28; Jer 51:15; Ezek 28:4; Obad 1:7; Pss 49:4; 78:72; 147:5; Prov 2:2, 3, 6, 11; 3:13, 19; 8:1; 10:23; 21:30; 24:3; Sir 4:24;
-* <span dir="rtl">ܣܟܘܠܬܢܐ</span> (<i>sakkultānāʾ </i>), ‘understanding, intelligent, prudent, capable’: Obad 1:8; Prov 11:12; 15:21;
-* <span dir="rtl">ܣܟܘܠܬܢܘܬܐ</span> (<i>sakkultānutāʾ </i>), ‘understanding, intelligence’: 1 Kgs 5:9 (=3 Kgs 4:29); Sir 15:3; 14:20;
-* <span dir="rtl">ܪܥܝܢܐ</span> (<i>re‘yānāʾ </i>), ‘mind, intellect’: Prov 28:16;
-* <span dir="rtl">ܬܪܥܝܬܐ</span> (<i>tarʿitāʾ </i>), ‘mind, intelligence’: Jer 10:12;
+* <span dir="rtl">ܚܟܡܬܐ</span> (<i>ḥekmtā</i>), ‘wisdom, knowledge; skill’: Ps 136:5; Prov 18:2; Job 26:12;
+* <span dir="rtl">ܡܐܡܪܐ</span> (<i>mēʾmrā</i>), ‘speech, discourse’: Prov 5:1; 
+* <span dir="rtl">ܣܘܟܠܐ</span> (<i>sukkālā</i>), ‘intelligence, understanding, intellect’: Exod 35:31; 36:1; Dt 32:28; Isa 40:14; 40:28; Jer 51:15; Ezek 28:4; Obad 1:7; Pss 49:4; 78:72; 147:5; Prov 2:2, 3, 6, 11; 3:13, 19; 8:1; 10:23; 21:30; 24:3; Sir 4:24;
+* <span dir="rtl">ܣܟܘܠܬܢܐ</span> (<i>sakkultānā</i>), ‘understanding, intelligent, prudent, capable’: Obad 1:8; Prov 11:12; 15:21;
+* <span dir="rtl">ܣܟܘܠܬܢܘܬܐ</span>
+(<i>sakkultānuṯā</i>), ‘understanding, intelligence’: 1 Kgs 5:9 (=3 Kgs 4:29); Sir 15:3; 14:20;
+* <span dir="rtl">ܪܥܝܢܐ</span> (<i>re‘yānā</i>), ‘mind, intellect’: Prov 28:16;
+* <span dir="rtl">ܬܪܥܝܬܐ</span> (<i>tarʿīṯā</i>), ‘mind, intelligence’: Jer 10:12;
 * No equivalent: Hos 13:2; Isa 44:19; Prov 19:8; Sir 14:21; 45:5;
 * Unclear: Job 32:11; Sir 44:3;
 * Large omission in text: Sir 15:15; 50:27.
@@ -480,7 +481,7 @@ connected to this same lexeme are <span dir="rtl">ܣܟܘܠܬܢܐ</span> (<i>sakk
 
 <b>A.12</b>  Job 32:11 has <span dir="rtl">ܛܠܩ݁ܬܘܢ</span> (<i>ṭalleqton</i>), ‘you have finished’, corresponding to <span dir="rtl">תְּבוּנָה</span>.
 
-<b>f. Targum (Tg: O/N/PsJ/J/K) </b> : 
+<b>f. Targumim (Tg: O/N/PsJ/J/K) </b> : 
 
 * <span dir="rtl">ביונא</span> and <span dir="rtl">ביונתא</span>, ‘understanding’: Prov 2:2<small><sup>K</sup></small>, 3<small><sup>K</sup></small>, 11<small><sup>K</sup></small>; 8:1<small><sup>K</sup></small>; 14:29<small><sup>K</sup></small>; 18:2<small><sup>K</sup></small>; 19:8<small><sup>K</sup></small>; 21:30<small><sup>K</sup></small>; 24:3<small><sup>K</sup></small>; 28:16<small><sup>K</sup></small>; Job 32:11<small><sup>K</sup></small>;
 * <span dir="rtl">בינא</span> and <span dir="rtl">בינתא</span>, ‘understanding’: Job 12:12<small><sup>K</sup></small>, 13<small><sup>K</sup></small>; 

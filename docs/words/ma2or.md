@@ -1,15 +1,12 @@
+<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
----
-word_english: light  
-word_hebrew: מָאוֹר  
-title: light (source)  
-semantic_fields: light  
-contributors: raymond_de_hoop, cornelis_houtman  
-first_published: 2011-03-24  
-last_update: 2019-11-16
-update_info:  
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=מָאֹור&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># מָאוֹר <i>māʾōr</i> – light (source)
 
----
+Semantic Fields:
+[Light](../semantic_fields/light.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Cornelis Houtman](../contributors/cornelis_houtman.md)<br>
+First published: 2011-03-24<br>Last update: 2019-11-16 <br>Citation: Raymond de Hoop,&nbsp;Cornelis Houtman, מָאוֹר <i>māʾōr</i> – light (source), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2019)
+
 
 ##<span id="I">Introduction</span>
 
@@ -19,7 +16,7 @@ Occurrences:  19x HB (15/1/3); 1x Sir.; 23x Qum.; 0x Inscr. (Total: 43).
 
 * Torah: Gen 1:14, 15, 16 (3x); Exod 25:6;[^1] 27:20; 35:8, 14 (2x), 28; 39:37; Lev 24:2; Num 4:9, 16.
 * Nebiim: Ezek 32:8.
-* Ketubim: Ps 74:16; 90:8; Prov 15:30.
+* Ketubim: Pss 74:16; 90:8; Prov 15:30.
 * Ben Sira: 43:4 (mss B, Mas).
 * Qumran:[^2] 1QHod<sup><small>a </small></sup>[^3] IX:13; XIII:34; XV:28; XVII:26; XX:8; XXIII:32;[^4] 1Q28 (1QS) X:3; 1Q28<sup><small>b</small></sup> (1QS<sup><small>b</small></sup>) IV:27; 1Q33 (1QM) X:11; XIII:10; 1Q34<sup><small>bis</small></sup> (1QFestival Prayers<sup><small>ab</small></sup>) fr3.II:1; 4Q256 (4QS<sup><small>b</small></sup>) XIX:1; 4Q286 (4QBerakhot<sup><small>a</small></sup>) fr1.II:3; 4Q287 (4QBerakhot<sup><small>b</small></sup>) fr1:1; 4Q301 (4QMyst<sup><small>c</small></sup>?) fr2<sup><small>b</small></sup>:4; 4Q402 (4QShirShabb<sup><small>c</small></sup>) fr12:2;	4Q418 (4QInstr<sup><small>d</small></sup>) fr1:5; 4Q429 (4QHod<sup><small>c</small></sup>) fr3:5;[^5] 4Q440 (4QHod-like C) fr1:1; 4Q503 (4QpapPrQuot) fr215:6; 4Q504 (4QDibHam<sup><small>a</small></sup>) fr8<i>verso</i>:1; 4Q511 (4QShir<sup><small>b</small></sup>) fr2.I:8; 11Q5 (11QPs<sup><small>a</small></sup>) XV:10 (136:7).
 * Text doubtful: 1QHod<sup><small>a</small></sup> frC.6:2; 4Q185 (4QSapiential Admonitions B) fr1-2.III:2; 4Q258 (4QS<sup><small>d</small></sup>) VIII:12; 4Q260 (4QS<sup><small>f</small></sup>) II:2;  4Q299 (4QMyst<sup><small>a</small></sup>) fr5:1; 4Q392 (4QWorks of God) fr1:9; 4Q416 (4QInstr<sup><small>b</small></sup>) fr1:7; 4Q422 (4QparaGenExod) II:12; 4Q427 (4QHod<sup><small>a</small></sup>) fr8.II:11; 4Q432 (4QpapH<sup><small>f</small></sup>) fr1:1; 4Q495 (4QM<sup><small>e</small></sup>) fr2:1. 
@@ -272,18 +269,16 @@ Ps 89:8<sup><small>LXX</small></sup> (90:8<sup><small>MT</small></sup>); Prov 15
 
 <b>b. Peshitta (Pesh):</b>
 
-* ܢܗܝܪܐ
-  (<i>nhyrʾ</i> [<i>nahhīrā</i>]),
+* <span dir="rtl">ܢܗܝܪܐ</span> (<i>nahhīrā</i>),
 ‘light’:[^50]
 Gen 1:14, 16 (3x); Ezek 32:8;
-* ܢܗܪ 
-(<i>nhr</i>), aph., ‘to give forth light, to shine brightly’:[^51] 
+* <span dir="rtl">ܢܗܪ</span> (<i>nhr</i>),
+<i>aph.</i>, ‘to give forth light, to shine brightly’:[^51] 
 Gen 1:15,
 Exod 25:6; 27:20; 35:8, 14 (2x), 28; 39:37; Lev 24:2; Num 4:9, 16;
-* ܢܘܗܪܐ 
-(<i>nwhrʾ</i> [<i>nūhrā</i>]), ‘light, brightness’:[^52] Ps 74:16; 90:8; Prov 15:30;
-* ܢܘܪܐ 
-(<i>nwrʾ</i> [<i>nūrā</i>]),
+* <span dir="rtl">ܢܘܗܪܐ</span>
+(<i>nūhrā</i>), ‘light, brightness’:[^52] Pss 74:16; 90:8; Prov 15:30;
+* <span dir="rtl">ܢܘܪܐ</span> (<i>nūrā</i>),
 ‘fire’:[^53] Sir 43:4.
 
 
@@ -339,10 +334,9 @@ Aram. <span dir="rtl">נהר</span> and derivates are used in Tg to represent th
 <b>A.6</b> In Ezek  32:8 the construction <span dir="rtl">מְאוֹרֵי אוֹר</span> is represented with one word in Vg: <i>luminaria</i>.
  
 <b>B.1</b> The rendering of <span dir="rtl">מאור</span> in Sir 43:4 apparently raised some problems, since the three ancient Versions, LXX, Pesh, and Vg, each used a word which was not used elsewhere to represent the Hebrew word <span dir="rtl">מאור</span>: πυρώδης, ‘fiery, fire-like’;[^83] ܢܘܪܐ 
-(<i>nwrʾ</i>), ‘fire’;[^84] <i>igneus</i>, ‘fiery’.[^85] Hatch & Redpath, and Muraoka suppose that Gr. πυρώδης  represents 
+(<i>nūrā</i>), ‘fire’;[^84] <i>igneus</i>, ‘fiery’.[^85] Hatch & Redpath, and Muraoka suppose that Gr. πυρώδης  represents 
 Hebr. <span dir="rtl">אוּר</span> I, ‘fire’,[^86] but they do not explain the <span dir="rtl">מ</span>-prefix of <span dir="rtl">מאור</span>, which is found in two mss (B-margin and M). It is more likely that the translator did read <span dir="rtl">לשון מאור</span>, ‘tongue, ray of light’, 
-but sought to interpret the expression with a more frequently attested expression  <span dir="rtl">לְשׁוֹן אֵשׁ</span>, ‘tongue of fire’ (Isa. 5:24; 1QLit.3Tongues of Fire fr1.3, fr2.3; 4QApocrMoses<sup><small>b</small></sup> fr1.II.1),[^87] and which was better suited to a context describing the extreme heat of the sun.[^88] This reading common to LXX, Pesh and Vg can be explained by the dependency of the translators
-of Pesh and Vg on LXX.[^89]
+but sought to interpret the expression with a more frequently attested expression  <span dir="rtl">לְשׁוֹן אֵשׁ</span>, ‘tongue of fire’ (Isa. 5:24; 1QLit.3Tongues of Fire fr1.3, fr2.3; 4QApocrMoses<sup><small>b</small></sup> fr1.II.1),[^87] and which was better suited to a context describing the extreme heat of the sun.[^88] This reading common to LXX, Pesh and Vg can be explained by the dependency of the translators of Pesh and Vg on LXX.[^89]
 
 <b>B.2</b> In the rendering of Hebr. <span dir="rtl">מָאוֹר</span> in Num 4:16 by <i>lucerna</i>, ‘lamp, oil-lamp’ in Vg, we are confronted for the first time in the Versions with a word that clearly refers to a lamp as a source of light. Of course the word <i>luminare</i> (e.g. in: Exod 35:8, 14<sup><small>1</small></sup>, 28) could also be rendered in English by the word ‘lamp’.[^90] But this depends on the interpretation of the texts of Vg to which it was applied. The word <i>luminare</i> is derived from <i>lumen</i>, ‘light’, which also can represent an object, viz. ‘a light, a source of light’, but also ‘brightness, splendour, bright colour, daylight’ etc.[^91] The same kind of transfer from the source to its object can be discerned regarding the word <i>luminare</i>, which is applied to ‘I. a luminary, heavenly body’; ‘III. a window-shutter, window’, but also to: ‘II. a <i>light, lamp</i> burned in the Jewish temple and in Christian churches’.[^92] However, in line with the etymological development of the word, the rendering into English would be more correct if the more general word ‘a light, source of light’ were applied. In that case, only the rendering of Vg in Num 4:16 suggests that we are dealing with
 an implement, viz.  ‘a lamp’. Obviously the translator struggled with the terminology since the expression <span dir="rtl">שֶׁמֶן הַמָּאוֹר</span> was rendered in a dynamically equivalent manner (cf. above, A.2), which might indicate that he had not found a satisfactory equivalent in Latin, or even 
@@ -384,7 +378,7 @@ of the lampstand
 (<a href=http://www.otw-site.eu/wp-content/uploads/2017/07/mnrh.pdf target="_blank">→ <span dir="rtl">מְנֹרָה</a></span>) 
 in Exod 35:14; 39:37, to which are added other utensils in Num 4:9. The oil for (the) <span dir="rtl">מָאוֹר</span> figures among the valuable substances used in the Tabernacle (Num 4:16). From Exod~27:20; Lev 24:2 the conclusion can be drawn that <span dir="rtl">מָאוֹר</span> is not to be equated with <span dir="rtl">נֵר</span>, ‘lamp’.[^96]
 
-<b>A.4</b>  <span dir="rtl">מָאוֹר</span> is a few times used as <i>nomen regens</i> of face (<span dir="rtl">פָּנֶה</span>, Ps 90:8; 1QHod<sup><small>a</small></sup> XIII:32; 4QHod<sup><small>c</small></sup> fr3:5[^97]) and eyes (<span dir="rtl">עֵינַיִם</span>, Prov 15:30). The first combination (<span dir="rtl">מאור פני[ך]</span>) finds a parallel usage in the construct chain <span dir="rtl">אֹור פני(ך) (מלך)</span>, the light of my / your / the king’s face (Ps 4:7; 44:4; 89:16; Job 29:24; Prov 16:15). It is contrasted to darkness (<span dir="rtl">חשך</span>), 1QHa xiii:32; xvii:26; 4QHod<sup><small>c</small></sup> fr3:5;[^98] but also combined with <span dir="rtl">אור</span> (1QHa xvii:26; 4QMyst<sup><small>c</small></sup>? fr2:4). It is also used to describe the power  assisting God to protect his people, viz. the ‘prince of light’ (<span dir="rtl">שר מאור</span>, 1QM XIII.10), and, finally, God is described as an <span dir="rtl">מאור עולם</span>, ‘everlasting light’ in 1QHa xv:25. 
+<b>A.4</b>  <span dir="rtl">מָאוֹר</span> is a few times used as <i>nomen regens</i> of face (<span dir="rtl">פָּנֶה</span>, Ps 90:8; 1QHod<sup><small>a</small></sup> XIII:32; 4QHod<sup><small>c</small></sup> fr3:5[^97]) and eyes (<span dir="rtl">עֵינַיִם</span>, Prov 15:30). The first combination (<span dir="rtl">מאור פני[ך]</span>) finds a parallel usage in the construct chain <span dir="rtl">אֹור פני(ך) (מלך)</span>, the light of my / your / the king’s face (Pss 4:7; 44:4; 89:16; Job 29:24; Prov 16:15). It is contrasted to darkness (<span dir="rtl">חשך</span>), 1QHa xiii:32; xvii:26; 4QHod<sup><small>c</small></sup> fr3:5;[^98] but also combined with <span dir="rtl">אור</span> (1QHa xvii:26; 4QMyst<sup><small>c</small></sup>? fr2:4). It is also used to describe the power  assisting God to protect his people, viz. the ‘prince of light’ (<span dir="rtl">שר מאור</span>, 1QM XIII.10), and, finally, God is described as an <span dir="rtl">מאור עולם</span>, ‘everlasting light’ in 1QHa xv:25. 
 
 
 ##<span id="Exe">6. Exegesis</span>
@@ -420,19 +414,19 @@ It can be added that the Akk. god Nusku is designated as <i>nūrū</i>, but even
 
 <b>A.4</b> <span dir="rtl">מָאוֹר</span> in Ps 90:8 and Prov  15:30 occurs as <i>nomen regens</i> in construct chains with respectively <span dir="rtl">פָנִים</span>, ‘face’ (of God) and <span dir="rtl">עֵינַיִם</span>, ‘eyes’ (of man) and is rendered as ‘luminary’,[^148] ‘radiante’,[^149] ‘lumen’,[^150] ‘light’,[^151] ‘Licht’,[^152] ‘leuchten’.[^153] In the scrolls from Qumran we find identical constructions, in which מָאוֹר is rendered mostly as ‘light’.[^154] Face and eyes are closely related and sometimes appear to be interchangeable. This is the case also in Ps 90:8 and Prov 15:30 where the source of light is a metaphor for the look reflecting the mood, the judgement and the feelings  of a person. This is reflected in the use of the construction <span dir="rtl">מאור פני</span>, ‘light of my face’, in Qumran, where it is said that it ‘darkened’ (<span dir="rtl">ויחשך</span>) in a time of stress and turmoil (1QHod<sup><small>a</small></sup> XIII:32;
 4QHod<sup><small>c</small></sup> fr3:5). In the case of Ps 90:8 the (brightly burning) light is a metaphor for the 
-penetrating look of YHWH, from whom nothing is concealed (Ridderbos 1958:399). In the case of Prov 15:30 an exhortation to kindness, the light is a metaphor for the favourable look of the highly-placed, who is the bearer of good news (cf. Prov 15:30b). As for its metaphorical meaning, ‘look’, there is no difference between the use of <span dir="rtl">מָאוֹר</span> in Ps 90:8 and Prov 15:30, nor in the use of <span dir="rtl">אוֹר</span> as <i>nomen regens</i> in a construct chain with <span dir="rtl">פָנִים</span> in Ps 4:7; 44:4; 89:16; Job 29:24; Prov 16:15.[^156]
+penetrating look of YHWH, from whom nothing is concealed (Ridderbos 1958:399). In the case of Prov 15:30 an exhortation to kindness, the light is a metaphor for the favourable look of the highly-placed, who is the bearer of good news (cf. Prov 15:30b). As for its metaphorical meaning, ‘look’, there is no difference between the use of <span dir="rtl">מָאוֹר</span> in Ps 90:8 and Prov 15:30, nor in the use of <span dir="rtl">אוֹר</span> as <i>nomen regens</i> in a construct chain with <span dir="rtl">פָנִים</span> in Pss 4:7; 44:4; 89:16; Job 29:24; Prov 16:15.[^156]
 
 ###<span id="Exe-ico">6.3 Pictorial Material</span>
 
 <b>A.5</b> If the interpretation of מָאוֹר as ‘light’ is correct, it is hard to find any iconographic material for the word מָאוֹר. Yet, the iconography from the Amarna period of Akhenaten might be illustrative, because it shows the attempt to visualize an abstract concept as ‘(ray of) light’ (see figs. 1-2). In the case of Akhenaten, however, the sun (Aten) was seen as the only god, whose rays of light were blessing hands, providing ‘life’.[^157]
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../photos/HouseAltar.jpeg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../images/photos/HouseAltar.jpeg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;1:&nbsp;&nbsp;House-altar depicting the royal family before Aten[^158]</small>   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>(ÄM 14145; courtesy Ägyptisches Museum, Berlin)</small>  
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../photos/Akhenaten1.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../images/photos/Akhenaten1.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;2:&nbsp;&nbsp;Stela of adoration of Aten by the royal family[^159]</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>(courtesy Egyptian Museum, Cairo)</small>
@@ -1003,8 +997,8 @@ The first version of this article was published  March 24th, 2011, as Cornelis H
 [^81]: Only once in Isa. 26:11.
 [^82]: Houtman & De Moor 2005:304-05, 308.
 [^83]: A unique word in LXX, only applied in Sir 43:4;    see HRCS, 1246.
-[^84]: Mostly (577x)  ܢܘܪܐ  (<i>nwrʾ</i>) is applied as   the equivalent of <span dir="rtl">אֵשׁ</span>, ‘fire’,   e.g. Gen 15:17; 19:24; Exod 3:2; 19:18; Lev 1:7, etc.
-[^85]: Applied only 5x for texts from MT; it is the   equivalent of Hebr. <span dir="rtl">אֵשׁ</span>, ‘fire’ (2 Kgs 2:11; 6:17; Nah. 2:4 [2:3];   cf. Deut. 33:2, <span dir="rtl">אֵשְׁדָּת</span>, ‘lightning’[?]),   and Aram. <span dir="rtl">נוּר</span> (Dan 7:10; cf. Pesh ܢܘܪܐ   (<i>nwrʾ</i>) and previous note);  furthermore also for <span dir="rtl">אש</span> in Sir 48:9.
+[^84]: Mostly (577x)  ܢܘܪܐ  (<i>nūrā</i>) is applied as   the equivalent of <span dir="rtl">אֵשׁ</span>, ‘fire’,   e.g. Gen 15:17; 19:24; Exod 3:2; 19:18; Lev 1:7, etc.
+[^85]: Applied only 5x for texts from MT; it is the   equivalent of Hebr. <span dir="rtl">אֵשׁ</span>, ‘fire’ (2 Kgs 2:11; 6:17; Nah. 2:4 [2:3];   cf. Deut. 33:2, <span dir="rtl">אֵשְׁדָּת</span>, ‘lightning’[?]),   and Aram. <span dir="rtl">נוּר</span> (Dan 7:10; cf. Pesh ܢܘܪܐ   (<i>nūrā</i>) and previous note);  furthermore also for <span dir="rtl">אש</span> in Sir 48:9.
 [^86]: HRCS, App. 2, 191;  Muraoka, <i>GHTIS</i>, 104, 142.
 [^87]: <i>DCH</i> iv:577.   See also <i>HAL</i>, 509;   <i>HALOT</i>, 536;   Ges<sup><small>18</small></sup>, 617 (referring all three to Akk. <i>lišān girri</i>).
 [^88]: Even though the translation was rather isomorphic (Wright 2015:414-16),   this rendering might be labelled as an ‘explicative translation’,   which was one of the translator’s techniques; cf. Wright 2015:420-22;  Ueberschaer 2016:447-48).

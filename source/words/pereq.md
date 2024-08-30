@@ -1,7 +1,7 @@
 ---
 word_english: plunder   
 word_hebrew: פֶּרֶק   
-transcription: <i>pereq</i>        
+transcription: <i>péreq</i>        
 title:    
 semantic_fields:   
 contributors: graham_i._davies      
