@@ -8,4 +8,5 @@ The currently participating centres include the following universities: Amsterda
 [Cambridge](https://www.sahd.divinity.cam.ac.uk/){target=_blank}, 
 Edinburgh, Florence, 
 [Oxford](https://www.orinst.ox.ac.uk/semantics-ancient-hebrew-database-sahd){target=_blank}, 
-Leiden, Rome.
+Leiden, Rome, Utrecht
+[Oxford](https://www.orinst.ox.ac.uk/semantics-ancient-hebrew-database-sahd){target=_blank}.
