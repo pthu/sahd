@@ -441,7 +441,8 @@ Deut 33:8<sup><small>VL</small></sup> (order reversed);
 Some renderings in the older layers of LXX seem to be based on guesses prompted by the context,
 such as δήλωσις and δῆλος pl. as translations of <span dir="rtl">אוּרִים</span>, but 
 especially ἀλήθεια as translation of <span dir="rtl">תֻּמִּים</span>,
-although these renderings may reflect an early interpretation of <span dir="rtl">אוּרִים</span> as a derivative of <span dir="rtl">ירה</span> hiph., ‘to instruct’
+although these renderings may reflect an early interpretation of <span dir="rtl">אוּרִים</span> as a derivative of <span dir="rtl">ירה</span>
+<i>hiph.</i>, ‘to instruct’
 (cf. διδαχή Deut 33:8<sup><small>σʹ</small></sup> and <a href="#YRH">Root and Comparative Material A.3</a>), and of <span dir="rtl">תֻּמִּים</span> as a derivative of <span dir="rtl">אמן</span> (Houtman 2000:494). 
 These Greek renderings have influenced later translations; see especially 
 VL

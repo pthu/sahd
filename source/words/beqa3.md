@@ -1,7 +1,7 @@
 ---
 word_english: half_a_shekel 
 word_hebrew: בֶּקַע    
-transcription: <i>béqaʿ</i> 
+transcription: <i>bqaʿ</i> 
 title: half a shekel (beka) 
 semantic_fields: weight  
 contributors: raymond_de_hoop, bertus_van_’t_veld  
@@ -141,7 +141,16 @@ Exod 39:3<sup>α’</sup> (38:26<sup><small>MT</small></sup>).
 [^15]:  LEH<sup><small>3</small></sup>, 161; <i>GELS</i>, 178.
 [^16]:  LEH<sup><small>3</small></sup>, 151; <i>GELS</i>, 164.  Remarkably LEH<sup><small>3</small></sup>, 151, has in addition to ‘coin of two drachmas’ also ‘half-shekel’, which suggests that δίδραχμον equals ‘half-shekel’. Apparently ‘half-shekel’ was intended as a definition for <i>one</i> drachma, because a δίδραχμον equals always a shekel (see Gen 23:15, 16; Exod 21:32).
 
-<b> b. Targumim (Tg.: O/N/PsJ/Smr):</b>  
+<b> b. Peshitta (Pesh.):</b>   
+
+* <span dir="rtl" lang="-">ܡܬܩܠܐ</span>
+(<i>maṯqālā</i>),
+‘weight, scale, shekel’:[^21] Gen 24:22; Exod 38:26.
+
+[^21]: Payne Smith, <i>CSD</i>, 321; Sokoloff, <i>SLB</i>, 875.
+
+
+<b> c. Targumim (Tg.: O/N/PsJ/Smr):</b>  
 
 * <span dir="rtl" lang="he">דרכמון</span>,
  ‘drachma’:[^17] Gen 24:22<sup><small>PsJ</small></sup>; Exod 38:26<sup><small>PsJ</small></sup>;  
@@ -155,14 +164,6 @@ Exod 39:3<sup>α’</sup> (38:26<sup><small>MT</small></sup>).
 [^18]:  Tal, <i>DSA</i>, 302 s.v.  טבע; Levy, <i>CWT</i>, vol. I:294: ‘1. <i>geprägte Münze</i>, … bes. die Hälfte eines heiligen Sekel’. Jastrow, <i>DTT</i>, 519: ‘<i>Teb‛a</i>, a coin equal to half a Sela’. Dalman, <i>ANHT</i>, 166: ‘1. Münze; 2. eine bestimmte Münze (ein halber Sela)’.
 [^19]:  Levy, <i>CWT</i>, vol. II:551, ‘<i>Siclus</i>, u.zw. der gemeine Sekel = der Hälfte eines heiligen Sekels oder Sela = Dareikon, ungef. 13 Sgr. nach unserm Gelde’. Jastrow, <i>DTT</i>, 1691: ‘<i>weight</i>, esp. (<i>half a</i>) <i>Shekel</i>’. Dalman, <i>ANHT</i>, 447: ‘II. Sekel (Gewicht u. Münze)".
 [^20]: Only in the marginalia of Tg.<sup><small>N</small></sup> an equivalent טבע for MT בֶּקַע is found.
-
-<b> c. Peshitta (Pesh.):</b>   
-
-* <span dir="rtl" lang="-">ܡܬܩܠܐ</span>
-(<i>maṯqālā</i>),
-‘weight, scale, shekel’:[^21] Gen 24:22; Exod 38:26.
-
-[^21]: Payne Smith, <i>CSD</i>, 321; Sokoloff, <i>SLB</i>, 875.
 
 
 <b> d. Vulgate (Vulg.):</b>  

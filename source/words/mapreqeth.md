@@ -1,7 +1,7 @@
 ---
 word_english: neck   
 word_hebrew: מַפְרֶקֶת       
-transcription: <i>mapréqet</i>    
+transcription: <i>maprèqet</i>    
 title:    
 semantic_fields:   
 contributors: graham_i._davies      
@@ -12,7 +12,7 @@ additional_info:
 
 --- 
 
-For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
+For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">‘Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
@@ -50,7 +50,7 @@ While such forms might be expected to refer to the subject of the related verb, 
 ## 3. Syntagmatics
 
 
-<b>A.1</b>  <span dir="rtl">מפרקת</span> is the subject of  <span dir="rtl">שׁבר</span> niph., ‘be broken’ (1 Sam 4:18).
+<b>A.1</b>  <span dir="rtl">מפרקת</span> is the subject of  <span dir="rtl">שׁבר</span> <i>niph.</i>, ‘be broken’ (1 Sam 4:18).
 
 
 <b>A.2</b>  In the immediate context this syntagm is preceded by <span dir="rtl">ויפל מעל־הכסא אחרנית</span>,

@@ -12,7 +12,7 @@ additional_info:
 
 --- 
 
-For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
+For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">‘Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
@@ -175,20 +175,20 @@ Ezek 19:12<small><sup>LXX</sup></small>;
 
 <i>Qal</i>:  
 
-* <span dir="rtl">ܥܒܪ</span> (<i>ʿbr</i>) <i>pe.</i>, ‘to pass away’: Gen 27:40;
-* <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>pe.</i>, ‘to save, liberate’: Pss 7:3; 136:24; Lam 5:8.
+* <span dir="rtl">ܥܒܪ</span> (<i>ʿbr</i>) <i>peal</i>, ‘to pass away’: Gen 27:40;
+* <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>peal</i>, ‘to save, liberate’: Pss 7:3; 136:24; Lam 5:8.
 
 <i>Piel</i>: 
 
-* <span dir="rtl">ܥܪܩ</span> (<i>ʿrq</i>) <i>pa.</i>, ‘to gnaw’: Zech 11:16;
-* <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>pe.</i>, ‘to save, liberate’: Exod 32:2;
-* <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>pa.</i>, ‘to tear apart’: 1 Kgs 19:11.
+* <span dir="rtl">ܥܪܩ</span> (<i>ʿrq</i>) <i>pael</i>, ‘to gnaw’: Zech 11:16;
+* <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>peal</i>, ‘to save, liberate’: Exod 32:2;
+* <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>pael</i>, ‘to tear apart’: 1 Kgs 19:11.
 
 <i>Hithp.</i>: 
 
-* <span dir="rtl">ܐܬܐ</span> (<i>ʾtʾ </i>) <i>aph.</i>, ‘to bring’: Exod 32:24;
-* <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>pe.</i>, ‘to save, liberate’: Exod 32:3; 
-* <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>ithpe.</i>, ‘to be saved, liberated’: Ezek 19:12.
+* <span dir="rtl">ܐܬܐ</span> (<i>ʾtʾ </i>) <i>aphel</i>, ‘to bring’: Exod 32:24;
+* <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>peal</i>, ‘to save, liberate’: Exod 32:3; 
+* <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>ithpeel</i>, ‘to be saved, liberated’: Ezek 19:12.
 
 <b>c. Targum (Tg: O/N/PsJ/J/K)</b>:[^av1]
 
@@ -196,21 +196,21 @@ Ezek 19:12<small><sup>LXX</sup></small>;
 
 <i>Qal</i>: 
 
-* <span dir="rtl">עדי</span> <i>aph.</i>, ‘to remove, take away’: Gen 27:40<small><sup>O</sup></small>;
-* <span dir="rtl">פרק</span> <i>pe.</i>, ‘to redeem’: Gen 27:40<small><sup>N</sup></small>;
-* <span dir="rtl">פרק</span> <i>pa.</i>, ‘to remove, take off’: Gen 27:40<small><sup>PsJ</sup></small>; Ps 136:24<small><sup>K</sup></small>; Lam 5:8<small><sup>K</sup></small>;
-* <span dir="rtl">פשׁח</span> <i>pe.</i>, ‘to strip, tear off’: Ps 7:3<small><sup>K</sup></small>.
+* <span dir="rtl">עדי</span> <i>aphel</i>, ‘to remove, take away’: Gen 27:40<small><sup>O</sup></small>;
+* <span dir="rtl">פרק</span> <i>peal</i>, ‘to redeem’: Gen 27:40<small><sup>N</sup></small>;
+* <span dir="rtl">פרק</span> <i>pael</i>, ‘to remove, take off’: Gen 27:40<small><sup>PsJ</sup></small>; Ps 136:24<small><sup>K</sup></small>; Lam 5:8<small><sup>K</sup></small>;
+* <span dir="rtl">פשׁח</span> <i>peal</i>, ‘to strip, tear off’: Ps 7:3<small><sup>K</sup></small>.
 
 <i>Piel</i>:  
 
-* <span dir="rtl">גמר</span> <i>pa.</i>, ‘to destroy’: Zech 11:16<small><sup>J</sup></small> (obj. ‘remnant’);
-* <span dir="rtl">פכר</span> <i>pa.</i>, ‘to split, break open’: Exod 32:2<small><sup>N</sup></small>;
-* <span dir="rtl">פרק</span> <i>pa.</i>, ‘to remove, take off’: Exod 32:2<small><sup>O,PsJ</sup></small>; 1 Kgs 19:11<small><sup>J</sup></small>.
+* <span dir="rtl">גמר</span> <i>pael</i>, ‘to destroy’: Zech 11:16<small><sup>J</sup></small> (obj. ‘remnant’);
+* <span dir="rtl">פכר</span> <i>pael</i>, ‘to split, break open’: Exod 32:2<small><sup>N</sup></small>;
+* <span dir="rtl">פרק</span> <i>pael</i>, ‘to remove, take off’: Exod 32:2<small><sup>O,PsJ</sup></small>; 1 Kgs 19:11<small><sup>J</sup></small>.
 
 <i>Hithp.</i>: 
 
 * <span dir="rtl">טלטל</span> <i>ithpalp.</i>, ‘to be exiled, to wander’: Ezek 19:12<small><sup>J</sup></small>;
-* <span dir="rtl">פרק</span> <i>pa.</i>, ‘to remove, take off’: Exod 32:3<small><sup>O,PsJ,N</sup></small>, 24<small><sup>O,PsJ,N</sup></small>.
+* <span dir="rtl">פרק</span> <i>pael</i>, ‘to remove, take off’: Exod 32:3<small><sup>O,PsJ,N</sup></small>, 24<small><sup>O,PsJ,N</sup></small>.
 
 <b>d. Vulgate (Vg)</b>:
 

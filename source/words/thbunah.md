@@ -91,7 +91,7 @@ a) Biblical Hebrew:[^3]
 * EBH3: 1x, Hos 13:2: *<span dir="rtl">תְּבוּן</span>.
 * LBH2: 1x, Ps 147:5.
 * LBH3: 4x, Job 12:12, 13; 26:12; 32:11.
-* Total EBH: 36 (Jer 51:5 is a doublet)
+* Total EBH: 36 (Jer 51:15 is a doublet)
 * Total LBH: 5
 
 b) Ben Sira: 

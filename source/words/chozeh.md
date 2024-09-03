@@ -185,7 +185,10 @@ while ‘not extant’ means that the particular verse is not attested in that v
 
 * ἀνακρουομένος, ‘striking up’ (medium part. present tense of ἀνακρούω, ‘to strike up’ in music): 1 Chron 25:5;
 * βλέπων, ‘seer’ (act.part. present tense of βλέπω, ‘to see’): 1 Chron 29:29;
-* ὁρῶν, ‘seer’ (act.part. present tense of ὁράω, ‘to see’): 2 Sam 24:11; 2 Kgs 17:13; Isa 29:10; 30:10; 1 Chron 21:9; 2 Chron 9:29; 12:15; 29:25; 33:18, 19; Amos 7:12; Mic 3:7;
+* ὁρῶν, ‘seer’ (act.part. present tense of ὁράω, ‘to see’): 2 Sam 24:11; 2 Kgs 17:13; Isa 29:10; 30:10; 1 Chron 21:9; 
+25:5 (LXX<sup>Ant</sup>);
+29:29 (LXX<sup>Ant</sup>);
+2 Chron 9:29; 12:15; 29:25; 33:18, 19; Amos 7:12; Mic 3:7;
 * προφήτης, ‘prophet’: 2 Chron 19:2; 29:30; 35:15; Sir 46:15.
 
 <b>b.  Peshitta (Pesh):</b> 

@@ -1,5 +1,5 @@
 ---
-word_english: amethyst   
+word_english: amethyst(?)   
 word_hebrew: חַשְׁמַן   
 transcription: <i>ḥašman</i>    
 title: amethyst(?)   
