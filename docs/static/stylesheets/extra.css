@@ -29,6 +29,8 @@ for some reason there has to be an extra line here {}
 
     div { font-family: "SBL Hebrew", "Montserrat"; }
 
+    #contributors_footnote { display: none }
+
      /* MODAL WINDOW */
 
      /* The Modal (background) */
