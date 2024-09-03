@@ -48,8 +48,17 @@ PHOTO_PATH_REPLACEMENT_HOME = r"\1(./images/photos/\3\5"
 PHOTO_PATH_REPLACEMENT = r"\1(../images/photos/\3\5"
 PDF_PATH = r'(.*src=")(\.\./pdfs/)(.*)'
 PDF_PATH_REPLACEMENT = r"\1/sahd/pdfs/\3"
+FOOTNOTE_REF = r'(.*)(\[\^(.*)\])([^:].*)'
+FOOTNOTE_REF_REPLACEMENT = r'\1<sup id="fnref:\3"><a href="#footnote" data-toggle="modal" onclick="show_modal(QUOTATIONS_MARKfn:\3QUOTATIONS_MARK)">\3</a></sup>\4'
 
 PREFIXES = ["de", "den", "der", "'t", "’t", "te", "ten", "ter", "van", "von"]
+
+MODAL_WINDOW = """<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div>"""
 
 errors = []
 
@@ -363,12 +372,14 @@ def write_words(shebanq_dict, ubs_dict):
         if word.name == ".DS_Store":
             continue
         filename = word.name
+        text.append(MODAL_WINDOW)
         with open(WORDS / filename, "r") as f:
             lines = f.readlines()
             for line in lines:
                 if second_dashes:
                     line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT, line) # modify possible photo path
                     line = re.sub(PDF_PATH, PDF_PATH_REPLACEMENT, line) # modify possible pdf path
+                    line = re.sub(FOOTNOTE_REF, FOOTNOTE_REF_REPLACEMENT, line).replace("QUOTATIONS_MARK", "'") # modify possible footnote reference for pop up windows
                     if line.strip().startswith("<iframe") and DOWNLOAD in text:
                         text.remove(DOWNLOAD)
                     text.append(line)
