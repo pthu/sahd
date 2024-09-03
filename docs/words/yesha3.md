@@ -1,15 +1,15 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># יֵשַׁע <i>yéšaʿ</i> – safety (state or place of)
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># יֵשַׁע <i>yḗšaʿ</i> – safety (state or place of)
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [James K. Aitken](../contributors/james_k._aitken.md)<br>
-First published: 2016-01-01<br>Last update: 2023-12-03 (Raymond de Hoop, Paul Sanders) <br>Citation: James K. Aitken, יֵשַׁע <i>yéšaʿ</i> – safety (state or place of), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2016 (update: 2023)
+First published: 2016-01-01<br>Last update: 2023-12-03 (Raymond de Hoop, Paul Sanders) <br>Citation: James K. Aitken, יֵשַׁע <i>yḗšaʿ</i> – safety (state or place of), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2016 (update: 2023)
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
+<a href="/miscellaneous/overview_deliverance/">‘Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
@@ -33,7 +33,7 @@ Occurrences: 36x HB (0/13/23); 2x Sir; 12x Qum; 1x inscr. (Total: 51).
 <b>B.1</b><a id="IntrB1"></a> At Hab 3:13 the  <span dir="rtl">אֵת</span> following the second  <span dir="rtl">יֵשַׁע</span> has been taken to indicate that a verb is required, and an infinitive can easily be substituted in view of the prefix  <span dir="rtl">לְ</span> before the noun. Ward (1959:27) suggests that this is called for, not only by the sign of the direct object, but also by the LXX’s infinitives, both in the Old Greek and in the variant text of Codex Venetus and other mss cited by him (on the latter see Ziegler 1967:37-39, 80-81, 274; Jellicoe 1968:198; Glenny 2017:616). And yet only one of the two nouns in that verse is translated by an infinitive, and even then in the Old Greek it is an articular infinitive, which operates more as a noun than as a verb. It
 should be noted that an articular infinitive renders the noun
 [<span dir="rtl">מוֹשָׁעָה</span>] at Ps 68[67]:21 in the same manner. It could be argued in the other direction that the  <span dir="rtl">אֵת</span> is an addition by a later scribe who
-read  <span dir="rtl">לישׁע</span> as a verb rather than a noun with prefix. Freedman (1972:535) prefers to understand the  <span dir="rtl">אֵת</span> either as an emphasizing particle or as the second person masculine pronoun (written defectively) to call attention to the pronominal suffix on the following noun. BHK also proposes reading a verb, emending the nouns to the hiph. inf. <span dir="rtl">לְהוֹשִׁיעַ</span> (cf. Wellhausen; GKC, §115d), whilst Dahood suggests that such emendation is not necessary if one only changes the vocalization to read a hypothetical <i>yiphil</i> form,  <span dir="rtl">יֹשִׁיעַ</span> (‘<i>yōšīaʿ</i> ’; 1979:258–59). It may simply be the object marker after an abstract noun, perhaps also found at Deut 7:8 (GKC, §115d). For further proposals and discussion see Andersen 2001:334-35.
+read  <span dir="rtl">לישׁע</span> as a verb rather than a noun with prefix. Freedman (1972:535) prefers to understand the  <span dir="rtl">אֵת</span> either as an emphasizing particle or as the second person masculine pronoun (written defectively) to call attention to the pronominal suffix on the following noun. BHK also proposes reading a verb, emending the nouns to the <i>hiph.</i> inf. <span dir="rtl">לְהוֹשִׁיעַ</span> (cf. Wellhausen; GKC, §115d), whilst Dahood suggests that such emendation is not necessary if one only changes the vocalization to read a hypothetical <i>yiphil</i> form,  <span dir="rtl">יֹשִׁיעַ</span> (‘<i>yōšīaʿ</i> ’; 1979:258–59). It may simply be the object marker after an abstract noun, perhaps also found at Deut 7:8 (GKC, §115d). For further proposals and discussion see Andersen 2001:334-35.
 
 
 <b>B.2</b>  If the form  <span dir="rtl">יֹשַׁעֲכֶם</span> at Isa 35:4 were to be taken as a nominal form, then we either have an alternative spelling of the noun
@@ -65,9 +65,11 @@ only appears in poetry in the OT and most often in prayers and Psalms.
 
 ## 3. Syntagmatics
 
-<b>A.1</b> <span dir="rtl">יֵשַׁע</span> is subject of the verb  <span dir="rtl">יָצָא</span>, ‘to go out’ (Isa 51:5),  <span dir="rtl">בּוֹא</span>, ‘to come’ (Isa 62:11)), גלה niph., ‘to be revealed’ (CD-B 20:20; 1QH<sup><small>a</small></sup> 13:14).
+<b>A.1</b> <span dir="rtl">יֵשַׁע</span> is subject of the verb  <span dir="rtl">יָצָא</span>, ‘to go out’ (Isa 51:5),  <span dir="rtl">בּוֹא</span>, ‘to come’ (Isa 62:11)), גלה <i>niph.</i>, ‘to be revealed’ (CD-B 20:20; 1QH<sup><small>a</small></sup> 13:14).
 
-<b>A.2</b>   <span dir="rtl">יֵשַׁע</span> is the object of the verbs  <span dir="rtl">צמח</span> hiph., ‘to cause to spring up’ (2 Sam 23:5),  <span dir="rtl">נָתַן</span> ‘to give’ (Ps 85:8), <span dir="rtl">ידע</span> hiph., ‘to make known’ (11Q5 18:2).  <span dir="rtl">יֵשַׁע</span> is also the indirect object of the verb  <span dir="rtl">לבשׁ</span> hiph., ‘to clothe’ (Ps 132:16). It is preceded by the verbs  <span dir="rtl">שִׁית</span> + <span dir="rtl">בְּ</span>, ‘to place in’ (Ps 12:6),  <span dir="rtl">רָאָה</span> hiph. +  <span dir="rtl">בְּ</span>, ‘to show’ (Ps 50:23),  <span dir="rtl">רָחַק</span> +  <span dir="rtl">מִן</span>, ‘to be far from’ (Job 5:4),  <span dir="rtl">שָׂגַב</span>, ‘to be exalted’ (Job 5:11).
+<b>A.2</b>   <span dir="rtl">יֵשַׁע</span> is the object of the verbs  <span dir="rtl">צמח</span> <i>hiph.</i>, ‘to cause to spring up’ (2 Sam 23:5),  <span dir="rtl">נָתַן</span> ‘to give’ (Ps 85:8), <span dir="rtl">ידע</span>
+<i>hiph.</i>, ‘to make known’ (11Q5 18:2).  <span dir="rtl">יֵשַׁע</span> is also the indirect object of the verb  <span dir="rtl">לבשׁ</span>
+<i>hiph.</i>, ‘to clothe’ (Ps 132:16). It is preceded by the verbs  <span dir="rtl">שִׁית</span> + <span dir="rtl">בְּ</span>, ‘to place in’ (Ps 12:6),  <span dir="rtl">רָאָה</span> <i>hiph.</i> +  <span dir="rtl">בְּ</span>, ‘to show’ (Ps 50:23),  <span dir="rtl">רָחַק</span> +  <span dir="rtl">מִן</span>, ‘to be far from’ (Job 5:4),  <span dir="rtl">שָׂגַב</span>, ‘to be exalted’ (Job 5:11).
 
 <b>A.3</b><a id="SyntA3"></a> At Job 5:11  <span dir="rtl">יֵשַׁע</span> follows immediately on <span dir="rtl">שָׂגַב</span>, ‘to be exalted’ without any preposition as an adverbial accusative (Gordis 1978:56; GKC, §118q).
 

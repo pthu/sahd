@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1PLKn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># פֶּלֶךְ <i>pélek</i> – spindle
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1PLKn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># פֶּלֶךְ <i>pèlek</i> – spindle
 
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Craft](../semantic_fields/craft.md)&nbsp;&nbsp;&nbsp;[Textile Production](../semantic_fields/textile production.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Klaas R. Veenhof](../contributors/klaas_r._veenhof.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<br>
-First published: 2021-11-08<br>Last update: 2023-05-16 <br>Citation: Klaas R. Veenhof,&nbsp;Paul Sanders, פֶּלֶךְ <i>pélek</i> – spindle, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2021 (update: 2023)
+First published: 2021-11-08<br>Last update: 2023-05-16 <br>Citation: Klaas R. Veenhof,&nbsp;Paul Sanders, פֶּלֶךְ <i>pèlek</i> – spindle, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2021 (update: 2023)
 
 
 
@@ -190,10 +190,10 @@ cf. pausal פָּלֶךְ in Prov 31:19.
 
 <b>A.1</b> פֶּלֶךְ occurs as the direct object of
 תָּמַךְ
- qal, ‘to hold’, in Prov 31:19b (כַּפֶּיהָ תָּמְכוּ).
+ <i>qal</i>, ‘to hold’, in Prov 31:19b (כַּפֶּיהָ תָּמְכוּ).
 
 <b>A.2</b> In 2 Sam 3:29, פֶּלֶךְ is preceded by the combination of the 
-verb חזק hiph. and the preposition בְּ, 
+verb חזק <i>hiph.</i> and the preposition בְּ, 
 which indicates that the פֶּלֶךְ is grasped.
 
 ## <a id="AV"></a>4. Ancient Versions
@@ -422,8 +422,8 @@ Even if the derivation of
 <span dir="rtl">פֶּלֶךְ</span> from a root meaning ‘to be(come) round’ is correct (see section <a href="#Arabic">1 A.7</a>), 
 the word can still designate the entire spindle just as well as the whorl of the spindle, since both the whorl and the shaft of the spindle were round.
 Moreover, the fact that the two contexts in which פֶּלֶךְ occurs indicate explicitly that it was held
-(2 Sam 3:29: חזק hiph. with בְּ; 
-Prov 31:19: תָּמַךְ qal)
+(2 Sam 3:29: חזק <i>hiph.</i> with בְּ; 
+Prov 31:19: תָּמַךְ <i>qal</i>)
 suggest that פֶּלֶךְ designates the spindle as a whole, since the whorl had to twirl freely. See 
 also above the sections 
 <a href="#RCM">Root and Comparative Material</a>
@@ -456,9 +456,9 @@ Akk.  <i>pilku</i> B, ‘corvée’ (see
 <a href="#pilku">Introduction</a>) 
 and pointed out that in Ezek 27:9, 27 and Neh 3:4-32
 חזק
- hiph. means ‘to repair’.
+ <i>hiph.</i> means ‘to repair’.
 However, Scott Layton objected and demonstrated that 
-the combination of חזק hiph. and the preposition -בְּ 
+the combination of חזק <i>hiph.</i> and the preposition -בְּ 
 never means ‘to carry out repairs among’ (Layton 1989:81).
 He rightly remarked that
 ‘in every occurrence of this verb + preposition idiom,

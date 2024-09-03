@@ -1,11 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1BQOn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=בֶּקַע&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># בֶּקַע <i>béqaʿ</i> – half a shekel (beka)
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1BQOn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=בֶּקַע&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># בֶּקַע <i>bqaʿ</i> – half a shekel (beka)
 
 Semantic Fields:
 [Weight](../semantic_fields/weight.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Bertus van ’t Veld](../contributors/bertus_van_’t_veld.md)<br>
-First published: 2021-02-16<br>Last update: 2023-05-16 <br>Citation: Raymond de Hoop,&nbsp;Bertus van ’t Veld, בֶּקַע <i>béqaʿ</i> – half a shekel (beka), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2021 (update: 2023)
+First published: 2021-02-16<br>Last update: 2023-05-16 <br>Citation: Raymond de Hoop,&nbsp;Bertus van ’t Veld, בֶּקַע <i>bqaʿ</i> – half a shekel (beka), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2021 (update: 2023)
 
 
 
@@ -139,7 +139,16 @@ Exod 39:3<sup>α’</sup> (38:26<sup><small>MT</small></sup>).
 [^15]:  LEH<sup><small>3</small></sup>, 161; <i>GELS</i>, 178.
 [^16]:  LEH<sup><small>3</small></sup>, 151; <i>GELS</i>, 164.  Remarkably LEH<sup><small>3</small></sup>, 151, has in addition to ‘coin of two drachmas’ also ‘half-shekel’, which suggests that δίδραχμον equals ‘half-shekel’. Apparently ‘half-shekel’ was intended as a definition for <i>one</i> drachma, because a δίδραχμον equals always a shekel (see Gen 23:15, 16; Exod 21:32).
 
-<b> b. Targumim (Tg.: O/N/PsJ/Smr):</b>  
+<b> b. Peshitta (Pesh.):</b>   
+
+* <span dir="rtl" lang="-">ܡܬܩܠܐ</span>
+(<i>maṯqālā</i>),
+‘weight, scale, shekel’:[^21] Gen 24:22; Exod 38:26.
+
+[^21]: Payne Smith, <i>CSD</i>, 321; Sokoloff, <i>SLB</i>, 875.
+
+
+<b> c. Targumim (Tg.: O/N/PsJ/Smr):</b>  
 
 * <span dir="rtl" lang="he">דרכמון</span>,
  ‘drachma’:[^17] Gen 24:22<sup><small>PsJ</small></sup>; Exod 38:26<sup><small>PsJ</small></sup>;  
@@ -153,14 +162,6 @@ Exod 39:3<sup>α’</sup> (38:26<sup><small>MT</small></sup>).
 [^18]:  Tal, <i>DSA</i>, 302 s.v.  טבע; Levy, <i>CWT</i>, vol. I:294: ‘1. <i>geprägte Münze</i>, … bes. die Hälfte eines heiligen Sekel’. Jastrow, <i>DTT</i>, 519: ‘<i>Teb‛a</i>, a coin equal to half a Sela’. Dalman, <i>ANHT</i>, 166: ‘1. Münze; 2. eine bestimmte Münze (ein halber Sela)’.
 [^19]:  Levy, <i>CWT</i>, vol. II:551, ‘<i>Siclus</i>, u.zw. der gemeine Sekel = der Hälfte eines heiligen Sekels oder Sela = Dareikon, ungef. 13 Sgr. nach unserm Gelde’. Jastrow, <i>DTT</i>, 1691: ‘<i>weight</i>, esp. (<i>half a</i>) <i>Shekel</i>’. Dalman, <i>ANHT</i>, 447: ‘II. Sekel (Gewicht u. Münze)".
 [^20]: Only in the marginalia of Tg.<sup><small>N</small></sup> an equivalent טבע for MT בֶּקַע is found.
-
-<b> c. Peshitta (Pesh.):</b>   
-
-* <span dir="rtl" lang="-">ܡܬܩܠܐ</span>
-(<i>maṯqālā</i>),
-‘weight, scale, shekel’:[^21] Gen 24:22; Exod 38:26.
-
-[^21]: Payne Smith, <i>CSD</i>, 321; Sokoloff, <i>SLB</i>, 875.
 
 
 <b> d. Vulgate (Vulg.):</b>  

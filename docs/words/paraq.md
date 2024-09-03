@@ -7,7 +7,7 @@ Author(s):
 First published: 2010-07-31<br>Last update: 2024-08-15 <br>Citation: Graham I. Davies, פָּרָק <i>pārāq</i> – piece of meat, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
 
 
-For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
+For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">‘Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies
 
 

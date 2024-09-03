@@ -10,7 +10,7 @@ First published: 2007-08-01<br>Last update: 2023-10-01 (Raymond de Hoop) <br>Cit
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/sahd/miscellaneous/overview_deliverance/">Overview
+<a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD Entries for ‘Deliverance’ Words</a> by Graham I. Davies.
 
 ## Introduction

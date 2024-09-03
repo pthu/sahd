@@ -11,7 +11,7 @@ First published: 2007-08-01<br>Last update: 2023-10-01 (Raymond de Hoop) <br>Cit
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
+<a href="/miscellaneous/overview_deliverance/">‘Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
@@ -59,7 +59,7 @@ been reconstructed using a parallel text 4Q506 124:4
 <b>A.1</b>  גְּאֻלָּה is several times the subject of verb היה (Lev 25:29 [2x], 31, 32, 48).
 
 <b>A.2</b>  גְּאֻלָּה is the object of verb נתן, ‘to give, grant’ (Lev 25:24); מצא
-(Lev 25:26, + כְדֵי); שוב hiph. (Lev 25:51, 52); 
+(Lev 25:26, + כְדֵי); שוב <i>hiph.</i> (Lev 25:51, 52); 
 <a href="https://pthu.github.io/sahd/words/to_redeem/"><span dir="rtl" lang="he">גאל</span></a> (Ruth 4:6); and חוג
 (4Q504 5ii:4; 4Q506 124:4).
 
@@ -186,7 +186,7 @@ A.1), גְּאֻלָּה is closely associated with the verb קנה ‘buy’ (J
 
 
 <b>A.4</b>  In 4Q504 5 ii 4, 4Q506 124:4 גְּאֻלָּה is associated with
-(forgiveness of?) sins; the verbs פדה, סלח and נצל hiph. appear
+(forgiveness of?) sins; the verbs פדה, סלח and נצל <i>hiph.</i> appear
 elsewhere in the text to refer to God’s action.
 
 ## 6. Exegesis

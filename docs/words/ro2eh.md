@@ -27,7 +27,7 @@ Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
     less unlikely, why it should not be interpreted as a verbal
     participle (‘Kiriath-jearim who saw half of Menuhoth’).
 
-<b>B.2</b>  The active qal participle of  <span dir="rtl">רָאָה</span> is employed 18x in Qumran in its  verbal sense rather as the technical term ‘seer’.[^2]
+<b>B.2</b>  The active <i>qal</i> participle of  <span dir="rtl">רָאָה</span> is employed 18x in Qumran in its  verbal sense rather as the technical term ‘seer’.[^2]
 
 <b>B.3</b>  In 2 Chron 16:12 Jastrow (1909:49 n.23) suggests emending  <span dir="rtl">בָּרְפָאִם</span> to <span dir="rtl">בָּרֹאִים</span>. This emendation has not caught on.
 
@@ -89,8 +89,12 @@ Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
 <b>a. Septuagint (LXX)</b>:  
 
 * αὐτός, ‘he’: 1 Sam 9:19;
-* βλέπων, ‘seer’: 1 Chron 9:22; 29:29; 1 Sam 9:9 (2x), 11, 18;
-* προφήτης, ‘prophet’: 1 Chron 26:28; 2 Chron 16:7, 10; Isa 30:10.
+* βλέπων, ‘seer’: 1 Sam 9:9 (2x), 11, 18; 1 Chron 9:22; 29:29; 
+* ὁρῶν, ‘seer’ (act.part. present tense of ὁράω, ‘to see’):
+1 Chron 9:22 (LXX<sup>Ant</sup>); 
+26:28 (LXX<sup>Ant</sup>); 
+29:29 (LXX<sup>Ant</sup>); 
+* προφήτης, ‘prophet’: Isa 30:10; 1 Chron 26:28; 2 Chron 16:7, 10.
 
 <b>b. Peshitta (Pesh)</b>:   
 
@@ -152,7 +156,7 @@ folk-etymology of  <span dir="rtl">נביא</span> in vv. 7-8.
 
 ## 7.  Conclusions
 
-The semantics of the verb  <span dir="rtl">רָאָה</span> suggest that  <span dir="rtl">רֹאֶה</span>, the qal participle
+The semantics of the verb  <span dir="rtl">רָאָה</span> suggest that  <span dir="rtl">רֹאֶה</span>, the <i>qal</i> participle
 of the verb, means ‘seer’ and the dictionaries translate it accordingly.
 The only person referred to as a  <span dir="rtl">רֹאֶה</span> more than once is Samuel in
 1 Samuel 9 and in 1 Chronicles (eight of thirteen attestations)

@@ -9,7 +9,7 @@ First published: 2007-08-31<br>Last update: 2024-06-30 (Raymond de Hoop, Paul Sa
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
+<a href="/miscellaneous/overview_deliverance/">‘Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
@@ -266,7 +266,7 @@ Jer 15:21; 31:11; Hos 7:13; 13:14; Mic 6:4; Zech 10:8; Pss 25:22; 26:11;
 
 <i>Niphal</i>: 
 
-* <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>ithpeel</i>, ‘to be saved, liberated’: Lev 19:20; 27:29; Isa 1:27.
+* <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>ethpeel</i>, ‘to be saved, liberated’: Lev 19:20; 27:29; Isa 1:27.
 
 <i>Hiphil</i>: 
 
@@ -274,7 +274,7 @@ Jer 15:21; 31:11; Hos 7:13; 13:14; Mic 6:4; Zech 10:8; Pss 25:22; 26:11;
 
 <i>Hophal</i>: 
 
-* <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>ithpeel</i>, ‘to be saved, liberated’: Lev 19:20.
+* <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>ethpeel</i>, ‘to be saved, liberated’: Lev 19:20.
 
 
 <b>A.1</b>  There is nothing unusual about the choice of <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) in the Peshitta, as it is the most common verb used to translate other words in this semantic field, along with <span dir="rtl">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span> (<i>pṣy</i>/<i>pṣʾ</i>) and <span dir="rtl">ܫܘܙܒ</span> (<i>šwzb</i>).
@@ -330,7 +330,7 @@ Job 5:20<small><sup>K</sup></small>;
 
 <i>Niphal</i>: 
 
-* <span dir="rtl">פרק</span> <i>ithpeel</i>, ‘to be redeemed’: 
+* <span dir="rtl">פרק</span> <i>ethpeel</i>, ‘to be redeemed’: 
 Lev 19:20<small><sup>O,N,PsJ</sup></small>;
 27:29<small><sup>O,N,PsJ,Frg</sup></small>;
 Isa 1:27<small><sup>J</sup></small>.
@@ -342,7 +342,7 @@ Isa 1:27<small><sup>J</sup></small>.
 <i>Hophal</i>: 
 
 * <span dir="rtl">פרק</span> <i>peal</i>, ‘to redeem’: Lev 19:20<small><sup>N</sup></small>;
-* <span dir="rtl">פרק</span> <i>ithpeel</i>, to be redeemed’: Lev 19:20<small><sup>O,PsJ</sup></small>.
+* <span dir="rtl">פרק</span> <i>ethpeel</i>, to be redeemed’: Lev 19:20<small><sup>O,PsJ</sup></small>.
 
 <b>A.1</b>  Twice, when <span dir="rtl">פדה</span> follows another ‘salvation’ word, e.g. Isa 51:11; Jer
 15:21, it is translated by <span dir="rtl">פרק</span>, and <span dir="rtl">שיזב</span> is used to translate  <span dir="rtl">גאל</span> or <span dir="rtl">נצל</span> 

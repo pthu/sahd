@@ -1,13 +1,13 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1MPRQTn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=מַפְרֶקֶת&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># מַפְרֶקֶת <i>mapréqet</i> – neck
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1MPRQTn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=מַפְרֶקֶת&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># מַפְרֶקֶת <i>maprèqet</i> – neck
 
 Author(s):
 [Graham I. Davies](../contributors/graham_i._davies.md)<br>
-First published: 2010-07-31<br>Last update: 2024-06-30 <br>Citation: Graham I. Davies, מַפְרֶקֶת <i>mapréqet</i> – neck, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
+First published: 2010-07-31<br>Last update: 2024-06-30 <br>Citation: Graham I. Davies, מַפְרֶקֶת <i>maprèqet</i> – neck, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
 
 
-For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/sahd/miscellaneous/overview_deliverance/">‘Overview
+For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">‘Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
@@ -45,7 +45,7 @@ While such forms might be expected to refer to the subject of the related verb, 
 ## 3. Syntagmatics
 
 
-<b>A.1</b>  <span dir="rtl">מפרקת</span> is the subject of  <span dir="rtl">שׁבר</span> niph., ‘be broken’ (1 Sam 4:18).
+<b>A.1</b>  <span dir="rtl">מפרקת</span> is the subject of  <span dir="rtl">שׁבר</span> <i>niph.</i>, ‘be broken’ (1 Sam 4:18).
 
 
 <b>A.2</b>  In the immediate context this syntagm is preceded by <span dir="rtl">ויפל מעל־הכסא אחרנית</span>,

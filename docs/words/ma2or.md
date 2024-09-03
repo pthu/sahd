@@ -205,12 +205,12 @@ fr8<i>verso</i>:1; <br>
 
 <b>A.5</b> Verbs   
 <b>A.5.1</b> <span dir="rtl">מָאוֹר</span> is subject of:<br> 
-<span dir="rtl">אור</span> hi., inf.cstr., ‘to give light, to shine’, Gen 1:15; <br>
-<span dir="rtl">בדל</span> hi., inf.cstr., ‘to separate, to divide from’, Gen 1:14; <br>
-<span dir="rtl">גלה</span> qal, ‘to uncover, reveal’ in 1QHod<sup><small>a</small></sup> XXIII:32 (= <i>DSS.SE</i> XXIII-<i>bottom</i>:12);<br>
-<span dir="rtl">היה</span> qal jus., ‘to be’, Gen 1:14;<br>
-<span dir="rtl">חשׁך</span> qal, ‘to be dark’ in 1QHod<sup><small>a</small></sup> XIII:32;<br>
-<span dir="rtl">שׂמח</span> pi., ‘to gladden, make someone merry’, Prov 15:30. 
+<span dir="rtl">אור</span> <i>hiph.</i>, inf.cstr., ‘to give light, to shine’, Gen 1:15; <br>
+<span dir="rtl">בדל</span> <i>hiph.</i>, inf.cstr., ‘to separate, to divide from’, Gen 1:14; <br>
+<span dir="rtl">גלה</span> <i>qal</i>, ‘to uncover, reveal’ in 1QHod<sup><small>a</small></sup> XXIII:32 (= <i>DSS.SE</i> XXIII-<i>bottom</i>:12);<br>
+<span dir="rtl">היה</span> <i>qal</i> jus., ‘to be’, Gen 1:14;<br>
+<span dir="rtl">חשׁך</span> <i>qal</i>, ‘to be dark’ in 1QHod<sup><small>a</small></sup> XIII:32;<br>
+<span dir="rtl">שׂמח</span> <i>pi.</i>, ‘to gladden, make someone merry’, Prov 15:30. 
 
 <b>A.5.2</b> <span dir="rtl">מָאוֹר</span> is <i>nomen rectum</i> with a verbal form of:<br>
 <span dir="rtl">באופיע</span>, inf.cstr. (‘in the shining of’) 1QS X:3.
@@ -218,18 +218,18 @@ fr8<i>verso</i>:1; <br>
 
 
 <b> A.5.3</b>   <span dir="rtl">מָאוֹר</span> is the [direct] object of:<br> 
-<span dir="rtl">אור</span> hi., ‘to give light, to shine’, 1QHod<sup><small>a</small></sup> XVII:26-27;<br> 
-<span dir="rtl">כון</span> hi., ‘to prepare, make ready, to set up’, Ps 74:16; <br>
-<span dir="rtl">עשׂה</span> qal, ‘to do, make’, Gen 1:16 (3x with part. <span dir="rtl">אֵת</span>); <br>
-<span dir="rtl">פתח</span> qal, ‘to open’, 4QHod-like C 
+<span dir="rtl">אור</span> <i>hiph.</i>, ‘to give light, to shine’, 1QHod<sup><small>a</small></sup> XVII:26-27;<br> 
+<span dir="rtl">כון</span> <i>hiph.</i>, ‘to prepare, make ready, to set up’, Ps 74:16; <br>
+<span dir="rtl">עשׂה</span> <i>qal</i>, ‘to do, make’, Gen 1:16 (3x with part. <span dir="rtl">אֵת</span>); <br>
+<span dir="rtl">פתח</span> <i>qal</i>, ‘to open’, 4QHod-like C 
 fr1:1;<br> 
-<span dir="rtl">קדר</span> hi., ‘to darken’, Ezek 32:8.
+<span dir="rtl">קדר</span> <i>hiph.</i>, ‘to darken’, Ezek 32:8.
 
 
 
 <b> A.5.4</b>   <span dir="rtl">מָאוֹר</span> is governed by <span dir="rtl">לְ</span>: <br>
-<span dir="rtl">היה</span> qal, ‘to be’, Gen 1:15;  <br>
-<span dir="rtl">שׁית</span> qal, ‘to put, set’, Ps 90:8.
+<span dir="rtl">היה</span> <i>qal</i>, ‘to be’, Gen 1:15;  <br>
+<span dir="rtl">שׁית</span> <i>qal</i>, ‘to put, set’, Ps 90:8.
 
 
 
@@ -273,7 +273,7 @@ Ps 89:8<sup><small>LXX</small></sup> (90:8<sup><small>MT</small></sup>); Prov 15
 ‘light’:[^50]
 Gen 1:14, 16 (3x); Ezek 32:8;
 * <span dir="rtl">ܢܗܪ</span> (<i>nhr</i>),
-<i>aph.</i>, ‘to give forth light, to shine brightly’:[^51] 
+<i>aphel</i>, ‘to give forth light, to shine brightly’:[^51] 
 Gen 1:15,
 Exod 25:6; 27:20; 35:8, 14 (2x), 28; 39:37; Lev 24:2; Num 4:9, 16;
 * <span dir="rtl">ܢܘܗܪܐ</span>
@@ -291,7 +291,7 @@ Exod 35:14<sup><small>1: </small></sup><sup><small>N</small></sup>; 	35:14<sup><
 * <span dir="rtl">אַנְהָרוּ</span>, ‘lighting, illumination’:[^57] Exod 25:6<sup><small>O,N</small></sup>; 27:20<sup><small>N</small></sup>; 	35:8<sup><small>O,PsJ,N,Smr</small></sup>, 	14<sup><small>2: </small></sup><sup><small>O,N</small></sup>, 	28<sup><small>O,PsJ,N</small></sup>; 	39:37<sup><small>O,PsJ,N</small></sup>; 	Lev 24:2<sup><small>N</small></sup>; 	Num 4:9<sup><small>N</small></sup>, 	16<sup><small>O,PsJ,N</small></sup>; 
 * <span dir="rtl">מָאוֹר</span> ‘light’[^58]
 	Gen 1:16<sup><small>Smr</small></sup> (3x); 	Exod 35:14<sup><small>1: </small></sup><sup><small>Smr</small></sup>; 	Num 4:9<sup><small>Smr</small></sup>; 
-* <span dir="rtl">נְהוֹר</span>,  %sg. and plur.
+* <span dir="rtl">נְהוֹר</span>, sg. and plur.
 ‘light’:[^59] 
 	Gen 1:14<sup><small>O,PsJ,N</small></sup>, 	15<sup><small>O,PsJ</small></sup>, 	16<sup><small>O,PsJ,N</small></sup>   (3x); 	Ps 90:8<sup><small>K</small></sup>; 	Prov 15:30<sup><small>K</small></sup>; 
 * <span dir="rtl">נהר</span>, ‘to give light, illumine’:[^60] 
@@ -321,11 +321,11 @@ Gen 1:14, 16 (3x); Exod 25:6; 35:8, 14<sup><small>1</small></sup>, 28;  Ezek  32
 
 <b> A.1</b> It appears that the hexaplaric witnesses worked with a kind of standard vocabulary and preferred to translate every occurrence of a term in the same way, irrespective of context. In this way we see that α´ and  σ´ preferred to render <span dir="rtl">מָאוֹר</span> with φωστήρ, ‘that which gives out light, luminary’, while θ´ preferred to apply φῶς, ‘light’. There seems to be a certain tendency in the Hexaplaric witnesses to translate each occurrence with the same Greek word and thus to harmonise the translation.
 
-<b> A.2</b> The Greek translation relates the Hebrew word  <span dir="rtl">מָאוֹר</span> to the verb <span dir="rtl">אוֹר</span> hi., ‘give light, shine, illuminate’. The word φαῦσις  is used exclusively for <span dir="rtl">מָאוֹר</span>, while φωτίσμος  and to a very large degree φῶς  are used to render <span dir="rtl">אוֹר</span>. The word φωστήρ  is applied to  <span dir="rtl">מָאוֹר</span> as well as to <span dir="rtl">זֹהַר</span>, shining, splendour’.[^77] Apparently the translators did not regard the word <span dir="rtl">מָאוֹר</span> as an object, but as a word which described the effect of ‘(giving) light’, <i>viz.</i> an abstractum. 
+<b> A.2</b> The Greek translation relates the Hebrew word  <span dir="rtl">מָאוֹר</span> to the verb <span dir="rtl">אוֹר</span> <i>hiph.</i>, ‘give light, shine, illuminate’. The word φαῦσις  is used exclusively for <span dir="rtl">מָאוֹר</span>, while φωτίσμος  and to a very large degree φῶς  are used to render <span dir="rtl">אוֹר</span>. The word φωστήρ  is applied to  <span dir="rtl">מָאוֹר</span> as well as to <span dir="rtl">זֹהַר</span>, shining, splendour’.[^77] Apparently the translators did not regard the word <span dir="rtl">מָאוֹר</span> as an object, but as a word which described the effect of ‘(giving) light’, <i>viz.</i> an abstractum. 
 
 <b> A.3</b>  The Targumists chose a number of verbal nouns derived from √<span dir="rtl">נהר</span>, ‘to illuminate, shine, give light’,[^78] resulting in nominal renderings like ‘lighting, illumination’.[^79] 
 Aram. <span dir="rtl">נהר</span> and derivates are used in Tg to represent the following words in MT: 
-<span dir="rtl">אוֹר</span>, ‘light’; <span dir="rtl">אור</span>, qal: ‘to be bright’, hi.: ‘to shine, brighten’; <span dir="rtl">אוֹרָה</span> I, ‘light, joy’; <span dir="rtl">נגה</span>, gleam, shining’; <span dir="rtl">נֵיר</span>, ‘lamp’;[^80] <span dir="rtl">חזה</span>, ‘to see, perceive’;[^81] <span dir="rtl">נהר</span> qal, ‘to shine’; <span dir="rtl">זרח</span> qal, ‘to shine.[^82] Apparently the Targumists interpreted the Hebr. <span dir="rtl">מָאוֹר</span> as closely related to its √<span dir="rtl">אור</span>.
+<span dir="rtl">אוֹר</span>, ‘light’; <span dir="rtl">אור</span>, <i>qal</i>: ‘to be bright’, <i>hiph.</i>: ‘to shine, brighten’; <span dir="rtl">אוֹרָה</span> I, ‘light, joy’; <span dir="rtl">נגה</span>, gleam, shining’; <span dir="rtl">נֵיר</span>, ‘lamp’;[^80] <span dir="rtl">חזה</span>, ‘to see, perceive’;[^81] <span dir="rtl">נהר</span> <i>qal</i>, ‘to shine’; <span dir="rtl">זרח</span> <i>qal</i>, ‘to shine.[^82] Apparently the Targumists interpreted the Hebr. <span dir="rtl">מָאוֹר</span> as closely related to its √<span dir="rtl">אור</span>.
 
 <b> A.4</b> The remarks regarding the translation of Tg apply to the interpretation of Pesh as well.
 
@@ -933,7 +933,7 @@ The first version of this article was published  March 24th, 2011, as Cornelis H
 [^17]: Jastrow,   <i>DTT</i>, 721 (referring to bPesaḥ. 62<sup><small>b</small></sup>;    yTaʿan. 4:8/18, 68<sup><small>d</small></sup>);  Dalman, <i>ANHT</i>, 221.   The expression also became a euphemism for blindness (bḤag. 5<sup><small>b</small></sup>),   see the lexica, referred to above.
 [^18]: Rudolph 1962:149, with n. 9b: ‘mit einem Blick aus deinem Augen’;   cf. also NJPS ‘with one [glance] of your eyes’;  similarly: Beek 1984:172.  Also quoted in <i>HAL</i>, 512; <i>HALOT</i>, 539.
 [^19]: According to Dirksen, <i>BHQ</i> 18:17, LXX, Vg and Pesh are indeterminate;   however, Pesh applies similarly to MT, ܗܕܐ   (<i>hdʾ</i>) (msc.) and ܥܝܢܐ   (<i>ʿ ynʾ</i>) (fem.).
-[^20]: Pope 1977:481.   Marvin Pope (1977:481) argued with regard to Job 21:20 that the   verb (<span dir="rtl">יִרְאוּ</span>, qal impf. 3m.pl. jus.) precedes the noun and   therefore does not need to agree in gender or number   (see GK, 487, §145o;  Joüon-Muraoka, <i>GBH</i>, 557, §150.r3)   Therefore, this text is  only a possibility.       The first two texts (Zech 3:9, 4:10) were dismissed as irrelevant by   Nelleke Stoop (2002:248, n. 32.), with the remark that   <span dir="rtl">עַיִן</span> is applied there in a metaphorical sense and thus hardly   could be used as evidence. Yet, as far as I am aware,  the gender of a word remains the same, whether applied in a metaphorical   sense or not, and Stoop does not offer any argument to strengthen her statement.        The last text (Song 6:5) refers to <span dir="rtl">עֵינַיִךְ</span>   with the masculine <span dir="rtl">שֶׁהֵם</span> (cf. Rudolph 1962:163)  showing that the noun sometimes was referred to as masculine.
+[^20]: Pope 1977:481.   Marvin Pope (1977:481) argued with regard to Job 21:20 that the   verb (<span dir="rtl">יִרְאוּ</span>, <i>qal</i> impf. 3m.pl. jus.) precedes the noun and   therefore does not need to agree in gender or number   (see GK, 487, §145o;  Joüon-Muraoka, <i>GBH</i>, 557, §150.r3)   Therefore, this text is  only a possibility.       The first two texts (Zech 3:9, 4:10) were dismissed as irrelevant by   Nelleke Stoop (2002:248, n. 32.), with the remark that   <span dir="rtl">עַיִן</span> is applied there in a metaphorical sense and thus hardly   could be used as evidence. Yet, as far as I am aware,  the gender of a word remains the same, whether applied in a metaphorical   sense or not, and Stoop does not offer any argument to strengthen her statement.        The last text (Song 6:5) refers to <span dir="rtl">עֵינַיִךְ</span>   with the masculine <span dir="rtl">שֶׁהֵם</span> (cf. Rudolph 1962:163)  showing that the noun sometimes was referred to as masculine.
 [^21]: Stoop 2002:248. See also  <i>DCH</i> i:179:   ‘… masc. <span dir="rtl">אֶחָד</span>   (<span dir="rtl">חַד</span>,  <span dir="rtl">אַחַד</span>,   Kt <span dir="rtl">אחת</span>);  cstr. <span dir="rtl">אַחַד</span>  (Kt <span dir="rtl">אחת</span>); … fem. <span dir="rtl">אַחַת</span>   (<span dir="rtl">אֶחָד</span>,  <span dir="rtl">אֶחָ֑ת</span>,   Kt <span dir="rtl">אחד</span>);   cstr. <span dir="rtl">אַחַת</span> (Kt <span dir="rtl">אחד</span>);   see also <i>HAL</i>, 29; Ges<sup><small>18</small></sup>, 33. Although Stoop also refers to this phenomenon (2002:248-49, with n. 34), she   nevertheless proposes an emendation to the text of Song 4:9, without indicating, however,   what the change entails.   She does offer an interesting interpretation of <span dir="rtl">בְּאַחַד</span> as an adverbial expression connected to the verb: ‘you captured me at once’ (p. 248-49, with n.  33).
 [^22]: See GK, 298, §97a;    453, §134;  Joüon-Muraoka, <i>GBH</i>, 525-26, §142b;   <i>IBHS</i>, 275, §15.2.1f.
 [^23]: Keel 1992:153,   with reference to pp. 71-74;   see already GB, 582; furthermore Schroer & Staubli 2005:86-87.

@@ -167,7 +167,7 @@ the word <span dir="rtl">מַחֲרֵשָׁה</span>
 is virtually always spelled with a <i>yod</i> as <i>mater lectionis</i>: <span dir="rtl">מחרישה</span>.
 The term occurs ca. 70 times and denotes the  plough in its entirety.[^23]
 Not surprisingly, the word occurs 
-in a context relating to ploughing (<span dir="rtl">חרשׁ</span> qal).[^24] 
+in a context relating to ploughing (<span dir="rtl">חרשׁ</span> <i>qal</i>).[^24] 
 The <span dir="rtl">מחרישה</span> 
 is said to ‘shake’ (<span dir="rtl">זִעֲזֵע</span>, pilpel of <span dir="rtl">זוע</span>) 
 clods of earth and stones.[^25] 
@@ -318,7 +318,7 @@ are regarded as derivatives of the verb <span dir="rtl">חרשׁ</span> <span sty
 In the Hebrew Bible, the verb is used ten times for ploughing in a literal sense[^57] 
 and four or five times for ploughing in a figurative sense.[^58]
 After a → <span dir="rtl">עֹל</span>, 
-‘yoke’, was fasted over the necks of two animals and attached to the plough, the animals pulled (<span dir="rtl">משׁך</span> qal, Deut 21:3) the plough.[^59]    
+‘yoke’, was fasted over the necks of two animals and attached to the plough, the animals pulled (<span dir="rtl">משׁך</span> <i>qal</i>, Deut 21:3) the plough.[^59]    
 
 <b> A.2</b> 
 The nouns \*<span dir="rtl">מַחֲרֵשָׁה</span> 
