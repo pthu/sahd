@@ -7,7 +7,8 @@
 
 ב
 בֶּקַע : beka : beqa3
-blessing : brakah : בְּרָכָה
+בְּרָכָה : blessing : brakah
+
 
 ג
 גְּאוּלִים : redemption : g2ulim
