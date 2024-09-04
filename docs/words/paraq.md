@@ -42,9 +42,7 @@ reading and should perhaps be preferred. See further below, <a href="#ExB1">Exeg
 
 ## 1. Root And Comparative Material
 
-See 
-<a href="/sahd/words/to_pull_off/#1-root-and-comparative-material"><span dir="rtl">פָּרַק</span>: Root and Comparative Material</a> and 
-<a href="/sahd/words/plunder/#1-root-and-comparative-material"><span dir="rtl">פֶּרֶק</span>: Root and Comparative Material</a>.
+<b>A.1</b> See <a href="/words/pereq/#1-root-and-comparative-material"><span dir="rtl">פֶּרֶק</span>: Root and Comparative Material</a>.
 
 
 ## 2. Formal Characteristics

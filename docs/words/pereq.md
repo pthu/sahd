@@ -31,7 +31,7 @@ Qere/Ketiv: none
 ## 1. Root and Comparative Material
 
 <b>A.1</b>  See also the entry for the verb 
-<a href="/sahd/words/to_pull_off/#1-root-and-comparative-material"><span dir="rtl">פָּרַק</span>: Root and Comparative Material</a>.
+<a href="/words/p-r-q/#1-root-and-comparative-material"><span dir="rtl">פרק</span>: Root and Comparative Material</a>.
 
 
 <b>A.2</b>  Nouns from the root <i>prq</i> occur sporadically in several Semitic languages, and with some frequency in certain dialects of Aramaic and in
@@ -42,13 +42,13 @@ post-biblical Hebrew.
 
 <b>A.4</b>  In <i>Akkadian</i> only <i>pīrqu</i> is attested, first (by metathesis from <i>paqrū</i> or <i>baqrū</i>) at Nuzi in the sense ‘vindication’, and then, more relevantly, in late Babylonian for ‘redemption’, where it is plausibly seen as an Aram. loan-word (<i>AHw</i>, 867).
 
-<b>A.5</b>  In <i>post-biblical Hebrew</i>  <span dir="rtl">פֶּרֶק</span> (vowels certain?) occurs frequently
+<span id="RCMA5"><b>A.5</b>  In <i>post-biblical Hebrew</i>  <span dir="rtl">פֶּרֶק</span> (vowels certain?) occurs frequently
 with the meanings ‘joint, limb’ (and then of comparable parts of inanimate objects), ‘section, chapter’ (of a book) and ‘(period of) time, season’.[^rcm1] A meaning ‘load’ is given for one passage (Yalk. Lam. 1000;
 cf. Jastrow, <i>DTT</i>, 1240). A different word,  <span dir="rtl">פֵּרָקוֹן</span> (Jastrow, <i>DTT</i>, 1240), is used for ‘redemption’.
 
 [^rcm1]: Cf. Jastrow</i>, <i>DTT</i>, 1239-40 ,for instances. The meaning ‘part, section’ is also claimed by Dupont-Sommer for some Jewish magical texts (cf. <i>DNWSI</i>, 943).
 
-<span id="RCMA6"><b>A.6</b></span> In <i>Jewish Aramaic</i> <span dir="rtl">פִּרְקָא</span> occurs with similar meanings to  <span dir="rtl">פֶּרֶק</span>, but also once for a ‘cross-roads’ (Tg<small><sup>J</sup></small> Obad 1:14, based on the Heb.) and several times for a ‘session’ of a school 
+<b>A.6</b></span> In <i>Jewish Aramaic</i> <span dir="rtl">פִּרְקָא</span> occurs with similar meanings to  <span dir="rtl">פֶּרֶק</span>, but also once for a ‘cross-roads’ (Tg<small><sup>J</sup></small> Obad 1:14, based on the Heb.) and several times for a ‘session’ of a school 
 (Jastrow, <i>DTT</i>, 1240, presumably derived from the meaning ‘[period of] time’). <span dir="rtl">פִּרְקוּנָא</span> is used for ‘redemption’, and likewise  <span dir="rtl">פּוּרְקָנָא</span> (also for the payment itself).  <span dir="rtl">פַּרְקוּתָא</span> is attested once (Tg<small><sup>J</sup></small> 1 Sam 4:18, pres. in the sense ‘neck’, as in the Heb.).
 
 
@@ -124,7 +124,7 @@ fugitives.
 <span dir="rtl">טרף</span> in close proximity both here and there may have contributed to its interpretation (perhaps with help from Aquila and Symmachus, which point to wounding).
 
 <b>A.3</b>  At Obad 1:14 Tg<small><sup>J</sup></small> renders with the Aram. equivalent, which generally means ‘part, section’ (cf. above 
-<a href="#RCMA6">Root and Comparative Material A.6</a>),
+<a href="#RCMA5">Root and Comparative Material A.5-6</a>),
 a meaning that scarcely fits the context: but Cathcart and Gordon (1989:101) give ‘at the crossroads’ here.
 
 

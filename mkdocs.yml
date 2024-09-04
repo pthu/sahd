@@ -10,14 +10,15 @@ nav:
             - א:
                 - אוּרִים וְתֻמִּים - Urim Thummim: words/2urim_wthummim.md
             - ב:
-                - בֶּקַע - half a shekel: words/beqa3.md
+                - בֶּקַע - beka: words/beqa3.md
+                - blessing - brakah: words/בְּרָכָה.md
             - ג:
                 - גְּאוּלִים - redemption: words/g2ulim.md
                 - גאל - to redeem: words/g-2-l.md
                 - גְּאֻלָּה - redemption, right of: words/g2ullah.md
             - ח:
                 - חֹזֶה - (court) diviner: words/chozeh.md
-                - חַשְׁמַן - amethyst: words/chashman.md
+                - חַשְׁמַן - amethyst(?): words/chashman.md
             - ט:
                 - טוה - to spin, twist: words/t-w-h.md
             - י:
@@ -33,7 +34,7 @@ nav:
             - נ:
                 - נָבִיא/נְבִיאָה - prophet(ess): words/nabi2.md
             - פ:
-                - פָּדָה - to liberate: words/p-d-h.md
+                - פדה - to liberate: words/p-d-h.md
                 - פְּדוּיִם - redemption price: words/pduyim.md
                 - פְּדוּת - redemption-action: words/pduth.md
                 - פִּדְיוֹן - ransom: words/pidyon.md
@@ -54,6 +55,7 @@ nav:
                 - תְּשׁוּעָה - deliverance, state of: words/thshu3ah.md
     - Semantic fields:
             - Agriculture: semantic_fields/agriculture.md
+            - Blessing: semantic_fields/blessing.md
             - Cloth: semantic_fields/cloth.md
             - Colours: semantic_fields/colours.md
             - Craft: semantic_fields/craft.md

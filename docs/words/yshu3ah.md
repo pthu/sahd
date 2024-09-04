@@ -51,7 +51,7 @@ Qere/Ketiv: none.
 
 ## 1. Root and Comparative Material
 
-<b>A.1</b>  See <a href="/sahd/words/to_save%2C_help/#1-root-and-comparative-material"><span dir="rtl" lang="he">ישׁע</span>: 1. Root and Comparative Material</a>.
+<b>A.1</b>  See <a href="/words/y-sh-3/#1-root-and-comparative-material"><span dir="rtl" lang="he">ישׁע</span>: 1. Root and Comparative Material</a>.
 
 
 <a id="2"></a>
@@ -333,7 +333,7 @@ following the order of the Heb. words in v. 6.
 
 ## 5. Lexical/Semantic Fields 
 
-<b>A.1</b> See in general <a href="sahd/words/to_save%2C_help/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">ישׁע</span>: 5. Lexical/Semantic Fields</a>.
+<b>A.1</b> See in general <a href="/words/y-sh-3/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">ישׁע</span>: 5. Lexical/Semantic Fields</a>.
 
 
 <b>A.2</b>  With a word which has all but four of its 78 biblical occurrences in
