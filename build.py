@@ -602,6 +602,7 @@ def write_store():
     write_store_file("contribution")
     write_store_file("partners")
     write_store_file("project_description")
+    write_store_file("printed_publications")
 
 
 def copy_photos():
