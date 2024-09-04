@@ -4,4 +4,4 @@
 
 
 ### Related words
-[בְּרָכָה – blessing](../words/brkh.md)<br>
+[בְּרָכָה – blessing](../words/brakah.md)<br>
