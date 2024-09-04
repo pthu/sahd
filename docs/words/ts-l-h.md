@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=2YLHv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=צלה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># צלה <i>ṣālāh</i> – to roast
 
@@ -24,7 +29,7 @@ Qere/Ketiv: None.
 <b>A.1</b> In the Hebrew Bible there is a related adjectival form  <span dir="rtl">צָלִי</span>, and
 this also occurs three times in the biblical corpus, with a similar meaning — in this case ‘roasted’ or as a substantive ‘roasted (meat)’. It is found in Exod 12:8, 9; Isa 44:16.
 
-<b>A.2</b> <i>Aramaic</i>: The lexeme also occurs in Palestinian and Babylonian Jewish Aramaic as one of multiple words that use the root <span dir="rtl">צלי</span>, likewise meaning ‘roast’.[^1]
+<b>A.2</b> <i>Aramaic</i>: The lexeme also occurs in Palestinian and Babylonian Jewish Aramaic as one of multiple words that use the root <span dir="rtl">צלי</span>, likewise meaning ‘roast’.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup>
 
 <b>A.3</b> <i>Ethiopic</i> retains a ‘broil’ or ‘roast’ meaning with the form <i>ṣalawa</i> (<i>CDG</i>, 556–557: <i>ṣalawa</i> II).
 
@@ -72,7 +77,7 @@ and one can therefore assume the same for Isa 44:16.
 
 <b>A.1</b> Each of the above words consistently replaces the Hebrew  <span dir="rtl">צלה</span>. However, they each appear in other places, where the Hebrew uses a
 different cooking verb. For example, ὀπτάω in the LXX also stands in where the Hebrew has  <span dir="rtl">בשׁל</span>, both in Deut 16:7 and in 2 Chron
-35:13 – two of the Passover texts.[^5]  <span dir="rtl">טוי</span> in Tgs does the same
+35:13 – two of the Passover texts.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup>  <span dir="rtl">טוי</span> in Tgs does the same
 in 2 Chron 35:13, but retains  <span dir="rtl">בשׁל</span> in Deut 16:7. In Pesh, unlike Tg or LXX, the root <span dir="rtl">ܒܫܠ</span> (<i>bšl</i>) is used both in 2 Chronicles and Deuteronomy.
 
 
@@ -112,10 +117,10 @@ Some are more specific or generic than others. Some are for dry cooking and othe
 
 <b>B.1</b> The Passover texts introduce a problem with the meaning of the present lexeme and its relationship to  <span dir="rtl">בשׁל</span>. While Exod 12:8-9
 requires that the Passover lamb be roasted (<span dir="rtl">צלה</span>) and specifically says that it ought not to be boiled (<span dir="rtl">בשׁל</span>) in water, Deut 16:7 expressly commands that the Passover lamb be boiled (<span dir="rtl">בשׁל</span>). There is of
-course a long history of exegetical wrestling as it relates to this passage. If it were true, as some argue, that <span dir="rtl">בשׁל</span> is a generic cooking verb and can likewise mean ‘boil’ and simply ‘cook’, then there would be no contradiction between the two texts.[^8] Exodus would still assert that the lamb is to be roasted and not ‘cooked in water’ (i.e. boiled),
+course a long history of exegetical wrestling as it relates to this passage. If it were true, as some argue, that <span dir="rtl">בשׁל</span> is a generic cooking verb and can likewise mean ‘boil’ and simply ‘cook’, then there would be no contradiction between the two texts.<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> Exodus would still assert that the lamb is to be roasted and not ‘cooked in water’ (i.e. boiled),
 whereas Deuteronomy would simply assert that the lamb is to be cooked. If all this were true, the one might argue that <span dir="rtl">בשׁל</span> could stand in for
 <span dir="rtl">צלה</span> as a more generic cooking verb. 
-However, this assertion, that <span dir="rtl">בשׁל</span> could be a generic cooking verb, is unlikely to be true. Both in medieval Jewish sources and in part of modern scholarship, the ideological starting point is that these two Passover texts (Exod 12:8-9; Deut 16:7) must not contradict one another. The other occurrences of  <span dir="rtl">בשׁל</span> are, however, clearly related to some kind of liquid cooking. Furthermore, liquid cooking was a primary mode of cooking in ancient Palestine and it would be extremely odd for there to be no extant verb related specifically to boiling (in contrast to there being two different lexemes related to different kinds of roasting). While the argument receives more detailed treatment in the discussion of <span dir="rtl">בשׁל</span> (Peters 2016:97-106), one can at least here assert that  <span dir="rtl">בשׁל</span> is unlikely to be a generic cooking verb, that Exodus and Deuteronomy therefore prescribe different cooking methods for the Passover lamb, and that  <span dir="rtl">בשׁל</span> is not a more generic substitute for the more specific  <span dir="rtl">צלה</span> (Peters 2016:176-86).[^9]
+However, this assertion, that <span dir="rtl">בשׁל</span> could be a generic cooking verb, is unlikely to be true. Both in medieval Jewish sources and in part of modern scholarship, the ideological starting point is that these two Passover texts (Exod 12:8-9; Deut 16:7) must not contradict one another. The other occurrences of  <span dir="rtl">בשׁל</span> are, however, clearly related to some kind of liquid cooking. Furthermore, liquid cooking was a primary mode of cooking in ancient Palestine and it would be extremely odd for there to be no extant verb related specifically to boiling (in contrast to there being two different lexemes related to different kinds of roasting). While the argument receives more detailed treatment in the discussion of <span dir="rtl">בשׁל</span> (Peters 2016:97-106), one can at least here assert that  <span dir="rtl">בשׁל</span> is unlikely to be a generic cooking verb, that Exodus and Deuteronomy therefore prescribe different cooking methods for the Passover lamb, and that  <span dir="rtl">בשׁל</span> is not a more generic substitute for the more specific  <span dir="rtl">צלה</span> (Peters 2016:176-86).<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup>
 
 ## 7. Conclusions
 

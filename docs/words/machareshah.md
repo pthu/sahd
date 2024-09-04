@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># מַחֲרֵשָׁה/מַחֲרֶשֶׁת <i>maḥ<small><sup>a</sup></small>rēšāh</i> – plough, hoe (?)
 
@@ -26,7 +31,7 @@ The Masoretic vocalisation of 1 Sam 13:20-21 suggests that the second occurrence
 <span dir="rtl">מחרשתו</span> 
 is a form of the same noun as 
 <span dir="rtl">מַחֲרֵשֹׁת</span>
-in 13:21.[^1]
+in 13:21.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup>
 Tg<sup><small>J</small></sup> supports the Masoretic vocalisation and translates the two forms with <i>ṣ<sup><small>e</small></sup>rē</i> by forms of the same noun
 (<span dir="rtl">עוּשְׁפָּא</span>),
 while it represents the single form with a <i>pataḥ</i> instead of the <i>ṣ<sup><small>e</small></sup>rē</i> with
@@ -48,7 +53,7 @@ partially corresponds to the series in 13:21
 <span dir="rtl">דָּרְבָן</span>).
 Consequently, the first occurrence of <span dir="rtl">מחרשתו</span> 
 in 13:20 and <span dir="rtl">מַחֲרֵשֹׁת</span>
-in 13:21 are sometimes treated as forms of the same noun.[^2]
+in 13:21 are sometimes treated as forms of the same noun.<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup>
 
 <b> A.2</b> 
 <span id="Emend">Of course, </span>
@@ -62,9 +67,9 @@ the latter verse was sometimes used as a basis for emending the text of 13:20.
 Julius Wellhausen (1871:84) assumed that the second <span dir="rtl">מחרשתו</span>,
 the fourth item of the list in 13:20, originally corresponded to <span dir="rtl">הַדָּרְבָן</span>
 at the end of  13:21. He pointed to the fact that the ancient Gk. and Syr. translations 
-read forms of the same noun (LXX: δρέπανον, ‘sickle’; Pesh: ܡܣܣܐ, ‘ox goad’) where MT reads <span dir="rtl">מַחֲרֵשָׁתוֹ</span> (13:20) and <span dir="rtl">הַדָּרְבָן</span> (13:21). Wellhausen’s proposal to read <span dir="rtl">דָּרְבָנֹו</span> at the end of 13:20 was taken over by many others.[^3] <span id="Emend2">Other scholars, however, assumed that the reading τὸ δρέπανον αὐτου, ‘his sickle’, goes back to Heb. <span dir="rtl">חֶרְמֵשֹׁו</span>, since </span>
+read forms of the same noun (LXX: δρέπανον, ‘sickle’; Pesh: ܡܣܣܐ, ‘ox goad’) where MT reads <span dir="rtl">מַחֲרֵשָׁתוֹ</span> (13:20) and <span dir="rtl">הַדָּרְבָן</span> (13:21). Wellhausen’s proposal to read <span dir="rtl">דָּרְבָנֹו</span> at the end of 13:20 was taken over by many others.<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> <span id="Emend2">Other scholars, however, assumed that the reading τὸ δρέπανον αὐτου, ‘his sickle’, goes back to Heb. <span dir="rtl">חֶרְמֵשֹׁו</span>, since </span>
 δρέπανον  represents Heb. <span dir="rtl">חֶרְמֵשׁ</span>,
-‘sickle’, in Deut 16:9; 23:26 (= 23:25<sup><small>LXX</small></sup>). These scholars regarded the reading <span dir="rtl">מחרשתו</span> as secondary.[^4]  
+‘sickle’, in Deut 16:9; 23:26 (= 23:25<sup><small>LXX</small></sup>). These scholars regarded the reading <span dir="rtl">מחרשתו</span> as secondary.<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup>  
 Dominique Barthélemy argued that there is insufficient reason to replace <span dir="rtl">מחרשתו</span>
 by a different word on the basis of the readings of LXX and Pesh. The earliest translators seem to have experienced the same problems with the Hebrew
 text as modern scholars. They translated the second occurrence of <span dir="rtl">מחרשתו</span> 
@@ -75,24 +80,24 @@ Barthélemy maintained that the first and second <span dir="rtl">מחרשתו</s
 in 13:20 derive from two different nouns, \*<span dir="rtl">מַחֲרֶשֶׁת</span>
 and \*<span dir="rtl">מַחֲרֵשָׁה</span>.
 The two nouns must have had different meanings, but neither the earliest translators nor modern scholars could retrieve exactly to what kind of sharp utensils 
-the two terms initially referred.[^5] 
+the two terms initially referred.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> 
 <i>DCH</i> shares Barthélemy’s suggestion that
 the two occurrences of  <span dir="rtl">מחרשתו</span> 
-in 13:20 refer to two different agricultural utensils and translates them as ‘plough’ and ‘goad’, respectively.[^6]
+in 13:20 refer to two different agricultural utensils and translates them as ‘plough’ and ‘goad’, respectively.<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup>
 
 
 <span id="Qum"><b> B.1</b>  </span>
 The sectarian composition <i>Serekh ha-Yaḥad</i> (Community Rule, ca. 100 BCE) contains 
 the following enigmatic phrase:
-<span dir="rtl">כיא בסאון רשע מחרשו</span>.[^7] 
+<span dir="rtl">כיא בסאון רשע מחרשו</span>.<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup> 
 The passage describes the characteristics of those who may not enter the community of the faithful. 
 Although the interpretation of the phrase is disputed, it is clear that <span dir="rtl">מחרשו</span>
-is not an alternative form of  <span dir="rtl">מחרשתו</span>.[^8] 
+is not an alternative form of  <span dir="rtl">מחרשתו</span>.<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> 
 It has been proposed to regard <span dir="rtl">מחרש</span> 
-as a noun meaning ‘ploughing’.[^9] 
+as a noun meaning ‘ploughing’.<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> 
 If <span dir="rtl">סאון</span>
 is taken as equivalent to Aram. <span dir="rtl">סיין</span>/<span dir="rtl">סוון</span>,
-‘mud’, the whole phrase can be taken  as a proverbial saying:  ‘For in the mud of wickedness (is) his ploughing.’[^10]  
+‘mud’, the whole phrase can be taken  as a proverbial saying:  ‘For in the mud of wickedness (is) his ploughing.’<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup>  
 
 
 ##<span id="RCM">1. Root and Comparative Material</span>
@@ -102,18 +107,18 @@ Both \*<span dir="rtl">מַחֲרֵשָׁה</span>
 and \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> 
 are commonly assumed to derive 
 from <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>, 
-‘to plough, engrave’.[^11]
+‘to plough, engrave’.<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup>
 These nouns 
 have some Semitic cognates denoting an agricultural implement, as will be shown below.
 The Heb. verb <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>
 stems from proto-Semitic <i>ḥrṯ</i>
-and has cognates in Ug., Akk., and many other Semitic languages (see below).[^12] 
+and has cognates in Ug., Akk., and many other Semitic languages (see below).<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup> 
 It must be distinguished 
 from <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">ii</span>, 
-‘to manufacture’,[^13] 
+‘to manufacture’,<sup id="fnref:13"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:13')">13</a></sup> 
 which stems from proto-Semitic <i>ḥrš</i>, just like Ug. <i>ḥrš</i>
 and Phoenician
-<i>ḥrš</i>, ‘craftsman, artisan’.[^14] 
+<i>ḥrš</i>, ‘craftsman, artisan’.<sup id="fnref:14"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:14')">14</a></sup> 
 Contrary to Heb. <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>, 
 ‘to plough, engrave’, Heb. <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">ii</span>
 refers to the work of the craftsman or artisan.
@@ -131,60 +136,60 @@ However, note that in the Babylonian Talmud <span dir="rtl">מחרישה</span> 
 <b> A.2</b> <span id="Akk"><i>Akkadian</i>:</span> 
 The Heb. verb <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>
 has a cognate in Akk. 
-<i>erēšu</i>, which means ‘to seed by drilling seed into a furrow by means of a seeder-plow, to cultivate or plant (a field)’.[^15] 
+<i>erēšu</i>, which means ‘to seed by drilling seed into a furrow by means of a seeder-plow, to cultivate or plant (a field)’.<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup> 
 Among the derivatives of this verb are
 <i>mērešu</i> 
-and <i>mēreštu</i>, which mean ‘cultivation’ or ‘cultivated land/field’.[^16] 
+and <i>mēreštu</i>, which mean ‘cultivation’ or ‘cultivated land/field’.<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup> 
 Derivatives relating to a utensil are not attested.
 
 
 <span id="Ugar"><b>A.3</b> <i>Ugaritic</i>:</span> 
 The Ug. cognate of Heb. <span dir="rtl">חרשׁ</span> I 
-is <i>ḥrṯ</i>, ‘to plough’.[^17] The Ug. noun <i>mḥrṯt</i> (<i>KTU</i> 1.6:IV.3, 14; 6.14:3)
+is <i>ḥrṯ</i>, ‘to plough’.<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> The Ug. noun <i>mḥrṯt</i> (<i>KTU</i> 1.6:IV.3, 14; 6.14:3)
 is usually interpreted as 
-‘ploughed field’.[^18] 
+‘ploughed field’.<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup> 
 However, Oswald Loretz proposed to regard it as
-a <i>nomen instrumenti</i> denoting the ploughshare or  the plough as a whole.[^19] 
+a <i>nomen instrumenti</i> denoting the ploughshare or  the plough as a whole.<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup> 
 
 <b> A.4</b> 
 <i>Arabic</i>:
 The Arab. verb <i>ḥaraṯa</i> is a cognate of Heb. <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>
 and means ‘to plough, to cultivate’. The Arab. noun
-<i>miḥrāṯ</i> designates a plough.[^20] 
+<i>miḥrāṯ</i> designates a plough.<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup> 
 In Old South Arabian, however,
 <i>mḥrṯt</i> 
-refers to ploughed, cultivated land.[^21] 
+refers to ploughed, cultivated land.<sup id="fnref:21"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:21')">21</a></sup> 
 
 <b> A.5</b> 
 <i>Ethiopic</i>:
 The Eth. (Geʿez) verb <i>ḥarasa</i> is a cognate of Heb. <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>
 and means ‘to plough’. The noun
-<i>māḥras</i> is translated as ‘ploughshare’ or as ‘plough’.[^22] 
+<i>māḥras</i> is translated as ‘ploughshare’ or as ‘plough’.<sup id="fnref:22"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:22')">22</a></sup> 
 
 <b> A.6</b> <span id="Postbib"><i>Postbiblical Hebrew and Jewish Aramaic</i>: </span>
 In the Mishnah, the Tosefta and the Talmudim, 
 the word <span dir="rtl">מַחֲרֵשָׁה</span> 
 is virtually always spelled with a <i>yod</i> as <i>mater lectionis</i>: <span dir="rtl">מחרישה</span>.
-The term occurs ca. 70 times and denotes the  plough in its entirety.[^23]
+The term occurs ca. 70 times and denotes the  plough in its entirety.<sup id="fnref:23"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:23')">23</a></sup>
 Not surprisingly, the word occurs 
-in a context relating to ploughing (<span dir="rtl">חרשׁ</span> <i>qal</i>).[^24] 
+in a context relating to ploughing (<span dir="rtl">חרשׁ</span> <i>qal</i>).<sup id="fnref:24"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:24')">24</a></sup> 
 The <span dir="rtl">מחרישה</span> 
 is said to ‘shake’ (<span dir="rtl">זִעֲזֵע</span>, pilpel of <span dir="rtl">זוע</span>) 
-clods of earth and stones.[^25] 
-<span id="pledge">The implement is regarded as indispensable.[^26]
+clods of earth and stones.<sup id="fnref:25"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:25')">25</a></sup> 
+<span id="pledge">The implement is regarded as indispensable.<sup id="fnref:26"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:26')">26</a></sup>
 The expression <span dir="rtl">יתד של מחרישה</span>, literally ‘the <i>pin</i>  of
-the plough’, denotes the sharp metal plough-point.[^27] The Tosefta refers to <span dir="rtl">יתדות המחרישה</span>, 
+the plough’, denotes the sharp metal plough-point.<sup id="fnref:27"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:27')">27</a></sup> The Tosefta refers to <span dir="rtl">יתדות המחרישה</span>, 
 ‘plough-points’, that were attached to the plough’s <span dir="rtl">חרב</span>, 
-‘tail-piece, handle’.[^28] 
+‘tail-piece, handle’.<sup id="fnref:28"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:28')">28</a></sup> 
 <span id="strigil">In the Bab. Talmud, the expression <span dir="rtl">מחרישה דכספא</span></span>
-does not represent a plough, but a strigil made of <span dir="rtl">כספא</span>, ‘silver’.[^29] 
+does not represent a plough, but a strigil made of <span dir="rtl">כספא</span>, ‘silver’.<sup id="fnref:29"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:29')">29</a></sup> 
 Such a strigil was used for scraping the skin; cf. the meaning ‘to engrave’ of the verb <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>.
 In modern Hebrew the word <span dir="rtl">מחרישה</span> means ‘plough’.
 
 
 ##<span id="FC">2. Formal Characteristics</span>
 
-<b> A.1</b>  \*<span dir="rtl">מַחֲרֶשֶׁת</span>[^30]/\*<span dir="rtl">מַחֲרֵשָׁה</span>[^31] 
+<b> A.1</b>  \*<span dir="rtl">מַחֲרֶשֶׁת</span><sup id="fnref:30"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:30')">30</a></sup>/\*<span dir="rtl">מַחֲרֵשָׁה</span><sup id="fnref:31"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:31')">31</a></sup> 
 is a <i>miqtal</i> form with a feminine termination (BL, 490 aζ).
 
 <b> A.2</b>  \*<span dir="rtl">מַחֲרֵשָׁה</span> 
@@ -223,33 +228,33 @@ while ‘20<sup><small>2</small></sup>’ represents the second occurrence
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ):</b> 
 
-* ἄροτρον, ‘plough’:[^32] 20<sup><small>1: αʹθʹ </small></sup>[^33], 21<sup><small>αʹ </small></sup>[^34];
-* δίκελλα, ‘two-pronged fork’:[^35] 20<sup><small>2: σʹ </small></sup>[^36]; 
-* δρέπανον, ‘sickle’:[^37] 20<sup><small>2: LXX</small></sup>;
-* θερίζειν, ‘to reap,[^38] harvest’:[^39] 21<sup><small>LXX</small></sup>;
-* θεριστήριον, ‘reaping-hook’:[^40] 20<sup><small>1</small></sup> (LXX<sup><small>Ant </small></sup>[^41]);
-* θέριστρον, ‘reaping-hook’:[^42] 20<sup><small>1</small></sup> (most mss of LXX); 
-* ὕνις, ‘ploughshare’:[^43] 20<sup><small>1: σʹ </small></sup>[^44]. 
+* ἄροτρον, ‘plough’:<sup id="fnref:32"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:32')">32</a></sup> 20<sup><small>1: αʹθʹ </small></sup><sup id="fnref:33"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:33')">33</a></sup>, 21<sup><small>αʹ </small></sup><sup id="fnref:34"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:34')">34</a></sup>;
+* δίκελλα, ‘two-pronged fork’:<sup id="fnref:35"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:35')">35</a></sup> 20<sup><small>2: σʹ </small></sup><sup id="fnref:36"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:36')">36</a></sup>; 
+* δρέπανον, ‘sickle’:<sup id="fnref:37"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:37')">37</a></sup> 20<sup><small>2: LXX</small></sup>;
+* θερίζειν, ‘to reap,<sup id="fnref:38"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:38')">38</a></sup> harvest’:<sup id="fnref:39"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:39')">39</a></sup> 21<sup><small>LXX</small></sup>;
+* θεριστήριον, ‘reaping-hook’:<sup id="fnref:40"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:40')">40</a></sup> 20<sup><small>1</small></sup> (LXX<sup><small>Ant </small></sup><sup id="fnref:41"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:41')">41</a></sup>);
+* θέριστρον, ‘reaping-hook’:<sup id="fnref:42"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:42')">42</a></sup> 20<sup><small>1</small></sup> (most mss of LXX); 
+* ὕνις, ‘ploughshare’:<sup id="fnref:43"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:43')">43</a></sup> 20<sup><small>1: σʹ </small></sup><sup id="fnref:44"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:44')">44</a></sup>. 
 
 
 <b>b. Peshitta (Pesh):</b> 
 
 * ܡܓܠܐ
-(<i>magg<sup><small>e</small></sup>lā</i>), ‘sickle’:[^45] 20<sup><small>1</small></sup>, 21;
+(<i>magg<sup><small>e</small></sup>lā</i>), ‘sickle’:<sup id="fnref:45"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:45')">45</a></sup> 20<sup><small>1</small></sup>, 21;
 * ܡܣܣܐ
-(<i>massāsā</i>), ‘(ox) goad’:[^46] 20<sup><small>2</small></sup>. 
+(<i>massāsā</i>), ‘(ox) goad’:<sup id="fnref:46"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:46')">46</a></sup> 20<sup><small>2</small></sup>. 
 
 
 <b>c. Targum  (Tg<sup><small>J</small></sup>):</b>
 
-* <span dir="rtl">עוּשְׁפָּא</span>, ‘adze, carpenter’s axe’, etc., used for chipping:[^47] 20<sup><small>2</small></sup>, 21;
-* <span dir="rtl">פְּרָשָׁא</span>,  ‘goad’, possibly also ‘ploughshare’:[^48] 20<sup><small>1</small></sup>.
+* <span dir="rtl">עוּשְׁפָּא</span>, ‘adze, carpenter’s axe’, etc., used for chipping:<sup id="fnref:47"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:47')">47</a></sup> 20<sup><small>2</small></sup>, 21;
+* <span dir="rtl">פְּרָשָׁא</span>,  ‘goad’, possibly also ‘ploughshare’:<sup id="fnref:48"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:48')">48</a></sup> 20<sup><small>1</small></sup>.
 
 
 <b>d. Vulgate (Vg):</b>
 
-* <i>sarculum</i>, ‘hoe’:[^49] 20<sup><small>2</small></sup>;
-* <i>vomer</i>, ‘ploughshare’:[^50] 20<sup><small>1</small></sup>, 21. 
+* <i>sarculum</i>, ‘hoe’:<sup id="fnref:49"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:49')">49</a></sup> 20<sup><small>2</small></sup>;
+* <i>vomer</i>, ‘ploughshare’:<sup id="fnref:50"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:50')">50</a></sup> 20<sup><small>1</small></sup>, 21. 
 
 
 <b> A.1</b> 
@@ -280,15 +285,15 @@ Most of the ancient translations assume that the first occurrence of
 in 1 Sam 13:20 represents an implement used for ploughing
 (α´,  σ´, θ´, Vg, possibly Tg<sup><small>J</small></sup>). LXX and Pesh, however, interpret the word as an implement used for harvesting.
 In the case of LXX there is reason to believe that the translators of 1 Samuel misinterpreted the verb <span dir="rtl">חרשׁ</span>
-as relating to harvesting  instead of ploughing.[^51]
+as relating to harvesting  instead of ploughing.<sup id="fnref:51"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:51')">51</a></sup>
 In 1 Samuel, the only phrase in which the verb <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span> has the meaning ‘to plough’ occurs in 8:12:
 <span dir="rtl">וְלַחֲרֹשׁ חֲרִישׁוֹ וְלִקְצֹר קְצִירוֹ</span>
 (MT), literally: ‘to plough the ploughing and to harvest the harvest’.
-Most mss of LXX render the phrase as καὶ θερίζειν θερισμὸν αὐτοῦ καὶ τρυγᾶν τρυγητὸν αὐτου. Both θερίζειν θερισμὸν and τρυγᾶν τρυγητὸν can be translated as ‘to reap the harvest’, not as ‘to undertake the ploughing’.[^52]
+Most mss of LXX render the phrase as καὶ θερίζειν θερισμὸν αὐτοῦ καὶ τρυγᾶν τρυγητὸν αὐτου. Both θερίζειν θερισμὸν and τρυγᾶν τρυγητὸν can be translated as ‘to reap the harvest’, not as ‘to undertake the ploughing’.<sup id="fnref:52"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:52')">52</a></sup>
 
 <b>A.4</b>
 There is insufficient reason to suppose that the Gk. translation of 1 Sam 8:12 goes back to a Heb. text that differs from 
-MT.[^53] The translation of the first occurrence of
+MT.<sup id="fnref:53"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:53')">53</a></sup> The translation of the first occurrence of
 <span dir="rtl">מחרשת</span>/<span dir="rtl">מחרשה</span> 
 in 13:20 by θέριστρον, ‘reaping-hook’, and
 the rendering of <span dir="rtl">מחרשת</span>
@@ -296,12 +301,12 @@ in 13:21 by θερίζειν, ‘to harvest’,
 seem to be due to the same confusion regarding the meaning of <span dir="rtl">חרשׁ</span> 
 and its derivatives. 
 In LXX<sup><small>Ant</small></sup> καὶ θερίζειν θερισμὸν αὐτοῦ καὶ τρυγᾶν τρυγητὸν αὐτου is preceded by καὶ ἀροτριᾶν τὴν ἀροτρίασιν αὐτοῦ 
-‘and to undertake the ploughing’.[^54] 
-Apparently, the additional phrase was inserted to assimilate the LXX to the Heb. text.[^55]
+‘and to undertake the ploughing’.<sup id="fnref:54"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:54')">54</a></sup> 
+Apparently, the additional phrase was inserted to assimilate the LXX to the Heb. text.<sup id="fnref:55"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:55')">55</a></sup>
 
 <b>A.5</b>
 In 1 Sam 8:12, Pesh remains close to the Masoretic reading <span dir="rtl">ולחרש חרישו ולקצר קצירו</span>
-(MT).[^56] 
+(MT).<sup id="fnref:56"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:56')">56</a></sup> 
 In the case of 1 Sam 13:20-21, however, the reading of Pesh 
 (ܡܓܠܐ,
 ‘sickle’)
@@ -315,10 +320,10 @@ the first <span dir="rtl">מחרשת</span>/<span dir="rtl">מחרשה</span>
 <b> A.1</b> The noun \*<span dir="rtl">מַחֲרֵשָׁה</span> 
 and often also the noun \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span>
 are regarded as derivatives of the verb <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>, ‘to plough, engrave’.
-In the Hebrew Bible, the verb is used ten times for ploughing in a literal sense[^57] 
-and four or five times for ploughing in a figurative sense.[^58]
+In the Hebrew Bible, the verb is used ten times for ploughing in a literal sense<sup id="fnref:57"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:57')">57</a></sup> 
+and four or five times for ploughing in a figurative sense.<sup id="fnref:58"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:58')">58</a></sup>
 After a → <span dir="rtl">עֹל</span>, 
-‘yoke’, was fasted over the necks of two animals and attached to the plough, the animals pulled (<span dir="rtl">משׁך</span> <i>qal</i>, Deut 21:3) the plough.[^59]    
+‘yoke’, was fasted over the necks of two animals and attached to the plough, the animals pulled (<span dir="rtl">משׁך</span> <i>qal</i>, Deut 21:3) the plough.<sup id="fnref:59"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:59')">59</a></sup>    
 
 <b> A.2</b> 
 The nouns \*<span dir="rtl">מַחֲרֵשָׁה</span> 
@@ -347,12 +352,12 @@ one of the  occurrences of
 <span dir="rtl">מחרשׁה</span>/<span dir="rtl">מחרשׁת</span> 
 in the list of utensils in 1 Sam 13:20 denotes an implement used for ploughing.
 Most dictionaries interpret either \*<span dir="rtl">מַחֲרֵשָׁה</span> 
-or \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> as ‘ploughshare’.[^60]
+or \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> as ‘ploughshare’.<sup id="fnref:60"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:60')">60</a></sup>
 In the Mishnah, Tosefta and Talmudim, the noun <span dir="rtl">מַחֲרֵשָׁה</span> designates the entire plough, while the cognates in Arab. and Eth. (and possibly in Ug.) also denote a plough (see 
 <a href="#Ugar">above</a>).   
 Most of the ancient translations assume that the first item in the list of 13:20 
 represents a plough (α´, θ´), 
-or its cutting part ( σ´, Vg, possibly Tg<sup><small>J</small></sup>). Since the plough is one of the most important agricultural utensils, it is indeed not unlikely that it is represented by the first item in the list.[^61]
+or its cutting part ( σ´, Vg, possibly Tg<sup><small>J</small></sup>). Since the plough is one of the most important agricultural utensils, it is indeed not unlikely that it is represented by the first item in the list.<sup id="fnref:61"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:61')">61</a></sup>
 In view of the evidence from the Mishnah, Tosefta and Talmudim,
 it is attractive to revocalise the first occurrence in 13:20 as <span dir="rtl">מַחֲרֵשָׁתוֹ</span>
 (with <i>ṣ<sup><small>e</small></sup>rē</i>) and to maintain the vocalisation of the parallel item <span dir="rtl">מַחֲרֵשֹׁת</span>
@@ -374,26 +379,26 @@ were subject to rigid constraints.
 The Philistines maintained a monopoly that enabled them to dominate the Israelites and
 to prevent them from producing their own weapons.
 According to many scholars, the monopoly 
-concerned the production and/or repair of iron implements.[^62] 
+concerned the production and/or repair of iron implements.<sup id="fnref:62"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:62')">62</a></sup> 
 However, the MT does not say explicitly that the implements involved were made of iron. 
 It reveals only that among the Israelites there was no <span dir="rtl">חָרָשׁ</span>,
 ‘craftsman’ (13:19), 
 who produced 
 (<span dir="rtl">לטשׁ</span>; 13:20)
-utensils for them.[^63] 
+utensils for them.<sup id="fnref:63"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:63')">63</a></sup> 
 Only the renderings of <span dir="rtl">חָרָשׁ</span>
 in LXX (τέκτων σιδήρου) and Vg (<i>faber ferrarius</i>)
-specify that the craftsmen concerned were iron smiths.[^64] Actually, archaeological evidence from consecutive centuries 
+specify that the craftsmen concerned were iron smiths.<sup id="fnref:64"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:64')">64</a></sup> Actually, archaeological evidence from consecutive centuries 
 demonstrates that in ancient Israel implements of bronze and implements of iron were used in the same contexts. 
 Bronze plough-points and iron plough-points were also excavated in the same excavation layers (see <a href="#Exe-ar">below</a>).
 The suggestion of LXX and Vg 
 that the Philistines maintained an iron monopoly is 
-an attractive option, but the MT may imply that the Philistines forbade all metallurgical activities among the Israelites.[^65]   
+an attractive option, but the MT may imply that the Philistines forbade all metallurgical activities among the Israelites.<sup id="fnref:65"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:65')">65</a></sup>   
 The structure of the ancient Israelite ploughs is not described in the HB or other contemporaneous 
 sources. However, a reconstruction is possible on the basis of contemporaneous 
 illustrations from Mesopotamia and Egypt and archaeological finds from
 Israel/Palestine (see <a href="#Exe-ico">below</a>). Further, some terminological information can be found in the 
-Mishnah, the Tosefta and the Talmudim, especially in <span id="Kelim">mKelim 21:2.[^66] 
+Mishnah, the Tosefta and the Talmudim, especially in <span id="Kelim">mKelim 21:2.<sup id="fnref:66"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:66')">66</a></sup> 
 In the latter passage, the word <span dir="rtl">מַחֲרֵשָׁה</span> does not occur, but
 the following terms are used to denote elements of the plough:
 <span dir="rtl">עֹל</span> (‘yoke’),
@@ -406,7 +411,7 @@ the following terms are used to denote elements of the plough:
 <span dir="rtl">עַיִן שֶׁל מַתֶּכֶת</span> (‘metal ring’),
 <span dir="rtl">לְחָיַיִן</span> (‘guides’),
 <span dir="rtl">עֲרָיִין</span> (‘plough-flanks’ or ‘mouldboards’).
-Unfortunately, it remains unclear to which elements of the plough some of these Heb. terms refer.[^67] Also, it is dubious whether the ancient Israelite plough consisted of the same elements as the plough type to which this section of the Mishnah refers.
+Unfortunately, it remains unclear to which elements of the plough some of these Heb. terms refer.<sup id="fnref:67"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:67')">67</a></sup> Also, it is dubious whether the ancient Israelite plough consisted of the same elements as the plough type to which this section of the Mishnah refers.
 
 <b> A.3</b> 
 Philip King and Lawrence Stager give the following description of the way in which ploughing was performed in ancient Israel (King & Stager 2001:92; cf. 88):
@@ -421,12 +426,12 @@ Deut 21:3; cf. Judg 14:18; Hos 10:11).
 Donkeys could also be used to work the land (cf. Isa 30:24: <span dir="rtl">עֲיָרִים</span>, 
 ‘male donkeys’), but it was forbidden to let an ox (<span dir="rtl">שׁוֹר</span>)
 and a donkey (<span dir="rtl">חֲמֹור</span>)
-pull a plough together (Deut 22:10).[^68]
+pull a plough together (Deut 22:10).<sup id="fnref:68"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:68')">68</a></sup>
 
 <b> A.4</b> If the second occurrence of <span dir="rtl">מחרשׁתו</span>
-in 1 Sam 13:20 is left unemended,[^69] 
-only one of the two occurrences may be assumed to designate a plough(-point).[^70] 
-A classical translation of the second occurrence is ‘mattock’.[^71]
+in 1 Sam 13:20 is left unemended,<sup id="fnref:69"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:69')">69</a></sup> 
+only one of the two occurrences may be assumed to designate a plough(-point).<sup id="fnref:70"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:70')">70</a></sup> 
+A classical translation of the second occurrence is ‘mattock’.<sup id="fnref:71"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:71')">71</a></sup>
 Eduard König interpreted \*<span dir="rtl">מַחֲרֶשֶׁת</span> as ‘wahrscheinlich der Schollenzerteiler, mit dem bei den Alten hinter dem Pfluge die grossen Erdklumpen zerteilt wurden’ (<i>HAWAT</i>, 219). 
 Dominique Barthélemy decided to leave it untranslated (<i>CTAT</i> 1:181). 
 <span id="Cook">Stephen Cook supposed that the first of the near-homonyms derives from <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>, ‘to plough, engrave’,</span>
@@ -436,10 +441,10 @@ while the second derives from <span dir="rtl">חרשׁ</span> <span style="text-t
 According to Cook, the first noun clearly refers to a plough,
 while the second noun, which can be translated as ‘crafted/forged tool’, can best be interpreted as an equivalent
 of the parallel term <span dir="rtl">דָּרְבָן</span>,
-probably ‘goad’ (end of 13:21).[^72]
-However, the interpretation of the final item in the list of 13:20 remains uncertain, as Cook admits.[^73] 
+probably ‘goad’ (end of 13:21).<sup id="fnref:72"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:72')">72</a></sup>
+However, the interpretation of the final item in the list of 13:20 remains uncertain, as Cook admits.<sup id="fnref:73"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:73')">73</a></sup> 
 Actually, the interpretation as a ‘goad’ is not attractive, since the presence of a metal point at the end of goads 
-was not essential.[^74]
+was not essential.<sup id="fnref:74"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:74')">74</a></sup>
 This noun can also be seen as a derivative of <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>
 and may refer to a different tool used for ‘engraving’ the soil, wood, etc. 
 <span id="Koller">However, Aaron Koller (2012:86-89) distinguished a third root, <i>ḫrś</i>/<span dir="rtl">חרשׂ</span>, ‘to scratch’, assuming that <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span> </span>
@@ -448,30 +453,30 @@ means only ‘to plough’, not ‘to engrave’ or ‘to scratch’ (see <a hre
 With reference to Yemeni Arab. <i>mḫrš</i>, ‘harrow’, and <i>ḫrš</i>, ‘to till by hand’,
 he suggested that the noun \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> designates a hoe or a harrow. 
 The noun may indeed represent a tool for weeding or tilling the soil by hand 
-(cf. <i>sarculum</i> in Vg).[^75] 
+(cf. <i>sarculum</i> in Vg).<sup id="fnref:75"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:75')">75</a></sup> 
 
 <b> B.1</b> Only rarely is none of the occurrences of <span dir="rtl">מחרשׁה</span>/<span dir="rtl">מחרשׁת</span> in 1 Sam 13:20-21  identified with a plough or an 
-element of it.[^76]  
+element of it.<sup id="fnref:76"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:76')">76</a></sup>  
 
 ###<span id="Exe-ico">6.2 Pictorial Material</span>
 
 <b> A.1</b>
 The lack of ancient pictures of ploughs from the Levant
 (Syria-Palestine) is compensated by images
-from Mesopotamia and Egypt. The ploughs are commonly depicted as drawn by two oxen.[^77]
+from Mesopotamia and Egypt. The ploughs are commonly depicted as drawn by two oxen.<sup id="fnref:77"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:77')">77</a></sup>
 The images show two types of plough: 
 
   - 
 Simple ploughs without a seed drill drawn by a pair of animals and guided by a single man, who may hold a stick or goad or whip to drive 
-the animals.[^78] In such cases, the seeding was done after the first ploughing.
-The distinction between the two procedures is illustrated by images displaying a sower who works at some distance from the ploughman and his plough.[^79] 
+the animals.<sup id="fnref:78"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:78')">78</a></sup> In such cases, the seeding was done after the first ploughing.
+The distinction between the two procedures is illustrated by images displaying a sower who works at some distance from the ploughman and his plough.<sup id="fnref:79"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:79')">79</a></sup> 
   - 
 Ploughs provided with a seed drill, drawn by a pair of animals and guided by a single man, 
-who is assisted by another man, who takes care of the seeding process.[^80]
+who is assisted by another man, who takes care of the seeding process.<sup id="fnref:80"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:80')">80</a></sup>
 
 The depicted ploughing scenes are Mesopotamian or Egyptian, but there are good reasons to believe that the ploughs of the Israelites were quite similar to 
 the ploughs on the images. In ancient Israel, ploughs were not yet provided with a seed drill 
-and the sowing took place after the first ploughing of the ground.[^81]
+and the sowing took place after the first ploughing of the ground.<sup id="fnref:81"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:81')">81</a></sup>
 Therefore, the Israelite ploughs were probably of the same type as the simpler ploughs
 of the Mesopotamians and Egyptians. 
 
@@ -495,7 +500,7 @@ the plough-point was affixed.
 
 <b> A.2</b> 
 Photographs from the early twentieth century show traditional ploughs with construction styles that hardly differed from the ancient Near Eastern 
-structures.[^82]
+structures.<sup id="fnref:82"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:82')">82</a></sup>
 
 
 ![](../images/photos/Berseba_Ploughing.jpg)
@@ -529,12 +534,12 @@ The wood of ancient Near Eastern ploughs  has usually decomposed completely, but
 The archaeological evidence from Israel/Palestine
 shows that in the twelfth century <span style="text-transform:uppercase;">bce</span> 
 bronze plough-points began to be replaced by iron plough-points, although the use of bronze plough-points appears to have continued for several
-centuries.[^83] 
+centuries.<sup id="fnref:83"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:83')">83</a></sup> 
 Oded Borowski offers an excellent description of the excavated plough-points:
 
 > The plow-point was an elongated tool, 20-30 cm long, with a pointed tip for soil penetration. 
 The other end was shaped like a pipe, ca. 8-10 cm wide. A wooden shaft, which was part of the 
-plow-handle, was inserted into this end.[^84]
+plow-handle, was inserted into this end.<sup id="fnref:84"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:84')">84</a></sup>
 
 Koller (2012:89-90) shows that the archaeological evidence corresponds with the idea expressed in the Mishnah and Tosefta 
 that the <span dir="rtl">מַחֲרֵשָׁה</span> scratches the soil to a depth of not more than ‘three handbreaths’ (<span dir="rtl">שְׁלשָׁה טְפָחִין</span>).
@@ -542,7 +547,7 @@ He defines the <span dir="rtl">מַחֲרֵשָׁה</span> as ‘a piece of metal
 the soil to a depth of about 15-30 cm.’ (2012:253).
 Nowadays, the designation ‘ploughshare’ is commonly used for the curved blade of the so-called mouldboard plough, which turns over the soil.
 It is confusing to denote the cutting element of the  ancient Israelite scratch ploughs as ‘ploughshare’, since its form and function where quite different
-from the ploughshares of mouldboard ploughs. Therefore, Borowski’s designation as ‘plough-points’ is preferable.[^85]
+from the ploughshares of mouldboard ploughs. Therefore, Borowski’s designation as ‘plough-points’ is preferable.<sup id="fnref:85"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:85')">85</a></sup>
 
 
 <b>A.2</b> 

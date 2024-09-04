@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1PDHv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># פדה <i>pādāh</i> – to liberate, set free, redeem
 
@@ -169,7 +174,7 @@ These examples imply that the meaning of the <i>niph.</i> was always passive (so
 ## 4. Ancient Versions
 
 <b>a. Septuagint (LXX) and other Greek 
-versions (αʹ, σʹ, θʹ)</b>:[^1]
+versions (αʹ, σʹ, θʹ)</b>:<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup>
 
 <i>Qal</i>: 
 
@@ -279,7 +284,7 @@ Jer 15:21; 31:11; Hos 7:13; 13:14; Mic 6:4; Zech 10:8; Pss 25:22; 26:11;
 
 <b>A.1</b>  There is nothing unusual about the choice of <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) in the Peshitta, as it is the most common verb used to translate other words in this semantic field, along with <span dir="rtl">ܦܨܝ</span>/<span dir="rtl" lang="-">ܦܨܐ</span> (<i>pṣy</i>/<i>pṣʾ</i>) and <span dir="rtl">ܫܘܙܒ</span> (<i>šwzb</i>).
 
-<b>c. Targumim (Tg: O/N/PsJ/Frg[^2]/J/K/11QTgJob)</b>:
+<b>c. Targumim (Tg: O/N/PsJ/Frg<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup>/J/K/11QTgJob)</b>:
 
 <i>Qal</i>:
 

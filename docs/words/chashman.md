@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1XCMNJMn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># חַשְׁמַן <i>ḥašman</i> – amethyst(?)
 
@@ -63,7 +68,7 @@ recent analyses suppose that the word represents luxury goods; see A.2-A.5.
 The following survey shows the
 translation options for Heb. \*<span dir="rtl">חַשְׁמַן</span>, 
 Eg. <i>ḥsmn</i>, and/or Akk. <i>ḫašmānu</i>
-as mentioned in Hebrew dictionaries.[^2] 
+as mentioned in Hebrew dictionaries.<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> 
 
 
 <style>
@@ -154,13 +159,13 @@ was accepted in several Bible translations
 <span id="Red"><b>A.3</b> <i>Red cloth</i>.</span>
 A few years later, Albright identified \*<span dir="rtl">חַשְׁמַן</span> with the noun <i>ḫašmānu</i> in Akkadian
 texts from Ugarit and argued that both \*<span dir="rtl">חַשְׁמַן</span> and <i>ḫašmānu</i> designate ‘red cloth’ 
-(Albright 1955:5; similarly: NET; cf. <i>HAL</i>, <i>DCH</i>, <i>DCHR</i>).[^3]
+(Albright 1955:5; similarly: NET; cf. <i>HAL</i>, <i>DCH</i>, <i>DCHR</i>).<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>
 It had been shown that in the tribute inventory of RS 11.732 (14th cent. BCE)
 the pair SÍG ZA.GÍN and
 SÍG ZA.GÍN <i>ḫašmāni</i> 
 denotes two different categories of woolen gifts 
 offered by the Ugaritic court to the Hittite royal family and court
-(Virolleaud 1940:258-60; 1951:56).[^4] 
+(Virolleaud 1940:258-60; 1951:56).<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> 
 While SÍG  is the determinative for wool,
 ZA.GÍN represents Akkadian <i>uqnû</i>, the bluish stone lapis lazuli.
 Preceded by  SÍG, 
@@ -254,10 +259,10 @@ it has been argued that the identification of SÍG ZA.GÍN <i>ḫašmāni</i> wi
 
 <b>A.4</b> <i>Bluish cloth</i>.
 With reference to <i>CAD</i> Ḫ, Dahood (1968:132, 150) translated <span dir="rtl">חַשְׁמַנִּים</span> in Ps 68:32 as ‘blue cloth’.
-Most Akkadian dictionaries[^5] 
+Most Akkadian dictionaries<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> 
 indicate that <i>ḫašmānu</i> designates a bluish colour of 
 cloth, and also a bluish stone, which agrees with the pairing of the <i>ḫašmānu</i>-stone and the bluish <i>saggilmud</i>-stone 
-in ancient lexical lists.[^6]
+in ancient lexical lists.<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup>
 The stone <i>ḫašmānu</i> was apparently the namesake for the colour <i>ḫašmānu</i>. 
 The interpretation of <i>ḫašmānu</i> as denoting a bluish colour is confirmed by the expression
 SÍG ZA.GÍN <i>ḫašmāni</i> (see A.3), in which the element ZA.GÍN represents
@@ -266,12 +271,12 @@ While SÍG ZA.GÍN represents Akkadian <i>uqnâtu</i>,
 apparently wool with a bluish hue similar to the colour of lapis lazuli,
 SÍG ZA.GÍN <i>ḫašmāni</i> 
 seems to denote wool with a variant of this bluish colour.
-Some scholarly literature suggests that the colour designated by <i>ḫašmānu</i> was blue-green.[^7]
+Some scholarly literature suggests that the colour designated by <i>ḫašmānu</i> was blue-green.<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup>
 Lackenbacher (2002:74-76, 135-37) interprets SÍG ZA.GÍN <i>ḫašmāni</i> in the Akkadian texts from Ugarit
 as ‘purple wool’ (‘laine pourpre’).
 The stone <i>ḫašmānu</i> was used in jewellery, as is shown by 
 a text from Mari (18th cent. BCE): 
-‘1 string of kidney-shaped beads of <i>ḫašmānu</i>, consisting of 19 kidney-shaped beads of gold’.[^8] 
+‘1 string of kidney-shaped beads of <i>ḫašmānu</i>, consisting of 19 kidney-shaped beads of gold’.<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> 
 The option of translating <span dir="rtl">חַשְׁמַנִּים</span> as ‘blue cloth’ is mentioned in 
 <i>DCHR</i> (iii: 587; cf. Ges<sup>18</sup>, 409), 
 but the possibility that it designates stones (see A.5) remains unmentioned in the Hebrew dictionaries. <br>
@@ -327,11 +332,11 @@ the Akkadian term <i>ḪAŠMĀNU</i> is written to represent a Hittite term for 
 <i>ḪAŠMĀNU</i> is interpreted as logograms, which means that in Hittite itself
 the Akkadian word was not used as a loanword. The underlying Hittite word is unknown. 
 One of the texts contains the following enumeration:
-‘blue wool, red wool, <i>ḫašmānu</i>-coloured wool’,[^9] 
+‘blue wool, red wool, <i>ḫašmānu</i>-coloured wool’,<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> 
 which suggests that <i>ḫašmānu</i> designates a colour different from ordinary blue and red.
 Other texts display the spelling
 <i>ḪAŠMAN</i>(<i>NI</i>)
-to represent the same colour of cloth.[^10] <br>
+to represent the same colour of cloth.<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup> <br>
 
 
 
@@ -439,14 +444,14 @@ as well as α´ and Vg<small><sup>PsH</sup></small> (<a href="#AV">Ancient Versi
 <b>a.</i> Septuagint (LXX) and other Greek versions</b>:
 
 * ἐκφαίνω, ‘to reveal’, ‘to disclose’, ‘to bring to light’; 
-here pass., ‘to appear’, ‘to come in sight’:[^11] 
+here pass., ‘to appear’, ‘to come in sight’:<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup> 
 ἐλθέτωσαν ἐκφανέντες  οἱ ἐξ Αἰγύπτου, ‘let those from Egypt come 
 while becoming visible’, ‘let those from Egypt come in sight’
-(σ´[^12]); 
-* ἐσπευσμένως, ‘with eager haste’:[^13] 
+(σ´<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup>); 
+* ἐσπευσμένως, ‘with eager haste’:<sup id="fnref:13"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:13')">13</a></sup> 
 οἴσουσιν ἐσπευσμένως  ἐξ Αἰγύπτου, ‘they shall bring 
-with eager haste out of Egypt’ (α´[^14]);
-* πρέσβυς, ‘envoy’, ‘ambassador’:[^15] 
+with eager haste out of Egypt’ (α´<sup id="fnref:14"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:14')">14</a></sup>);
+* πρέσβυς, ‘envoy’, ‘ambassador’:<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup> 
 ἥξουσιν πρέσβεις ἐξ Αἰγύπτου, ‘ambassadors shall come out of Egypt’ (LXX, 67:32).
 
 
@@ -456,21 +461,21 @@ with eager haste out of Egypt’ (α´[^14]);
 
 * <span dir="rtl">ܐܝܙܓܕܐ</span>
 (<i>ʾīzgaddā</i>), 
-‘messenger’, ‘ambassador’, ‘envoy’:[^16] 
+‘messenger’, ‘ambassador’, ‘envoy’:<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup> 
 <span dir="rtl">ܢܐܬܘܢ ܐܝܙ̈ܓܕܐ ܡܢ ܡܨܪܝܢ</span>,
 ‘ambassadors shall come out of Egypt’.
 
 <b>c.</i> Targumim  (Tg)</b>:  
-The following renderings of <span dir="rtl">חשמנים</span> occur in the manuscripts:[^17]
+The following renderings of <span dir="rtl">חשמנים</span> occur in the manuscripts:<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup>
 
-* <span dir="rtl">אוּכָּמָא</span>, ‘black’, ‘dark’:[^18] 
+* <span dir="rtl">אוּכָּמָא</span>, ‘black’, ‘dark’:<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup> 
 <span dir="rtl">ייתון בנוי דחם אוכמיא ממצרים</span>,
 ‘the black sons of Ham shall come out of Egypt’;
-* <span dir="rtl">אוּסְמָנָא</span>, apparently a toponym (Usmana)[^19] 
-or a gentilic (Usmanite?):[^20] 
+* <span dir="rtl">אוּסְמָנָא</span>, apparently a toponym (Usmana)<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup> 
+or a gentilic (Usmanite?):<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup> 
 <span dir="rtl">ייתון בנוי דחם אוסמנא ממצרים</span>,
 ‘the sons of Ham, the Usmanites (?), shall come out of Egypt’;
-* <span dir="rtl">חוּסְמָנָא</span>, apparently a gentilic, ‘Husmanite’ (?):[^21]
+* <span dir="rtl">חוּסְמָנָא</span>, apparently a gentilic, ‘Husmanite’ (?):<sup id="fnref:21"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:21')">21</a></sup>
 <span dir="rtl">ייתון בנוי דחם חוסמניא ממצרים</span>, 
 ‘the sons of Ham, the Husmanites, shall come out of Egypt’.
 
@@ -479,9 +484,9 @@ or a gentilic (Usmanite?):[^20]
 <b>d. Vulgate (Vg) </b>:
 
 
-* <i>legatus</i>, ‘ambassador’, ‘envoy’:[^22]
+* <i>legatus</i>, ‘ambassador’, ‘envoy’:<sup id="fnref:22"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:22')">22</a></sup>
 <i>venient legati ex Aegypto</i>, ‘ambassadors shall come out of Egypt’ (Vg<small><sup>PsG</sup></small>, 67:32);
-* <i>velociter</i>, ‘swiftly’, ‘quickly’:[^23]
+* <i>velociter</i>, ‘swiftly’, ‘quickly’:<sup id="fnref:23"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:23')">23</a></sup>
 <i>offerant(ur) velociter ex Aegypto</i>, 
 ‘may they bring (var.: be brought) swiftly from Egypt’ (Vg<small><sup>PsH</sup></small>,  67:32).
 
@@ -523,8 +528,8 @@ It may have been introduced to specify who constitutes the subject of the verbal
 <span dir="rtl">ייתון</span>.
 Instead of the common reading
 <span dir="rtl">בנוי דחם</span>, a few Tg manuscripts read either
-<span dir="rtl">בכורחא</span>, ‘involuntarily’, ‘by force’,[^24]
-or <span dir="rtl">בבודחא</span>, ‘with joy’.[^25] 
+<span dir="rtl">בכורחא</span>, ‘involuntarily’, ‘by force’,<sup id="fnref:24"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:24')">24</a></sup>
+or <span dir="rtl">בבודחא</span>, ‘with joy’.<sup id="fnref:25"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:25')">25</a></sup> 
 Tg specifies that the foreigners will come ‘in order to be converted’ (<span dir="rtl">לאיתגיירא</span>, <i>ithpaal</i> 
 <span dir="rtl">גור</span>). This element also lacks a counterpart in MT.
 
@@ -607,10 +612,10 @@ it has been suggested that <span dir="rtl">חַשְׁמַנִּים</span> refer
 (see <a href="#RCM">Root and Comparative Material</a>). 
 While the Akkadian noun <i>ḫašmānu</i> denotes a bluish stone or a bluish colour of cloth or leather, 
 Egyptian <i>ḥsmn</i> can have three meanings: natron, bronze, and amethyst.
-According to the Thesaurus Linguae Aegyptiae,[^26] 
+According to the Thesaurus Linguae Aegyptiae,<sup id="fnref:26"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:26')">26</a></sup> 
 the different Egyptian nouns written as <i>ḥsmn</i> (or <i>ḥzmn</i>) are attested during the following periods:
 
-* <i>ḥsmn</i>, ‘natron’: 2494 BCE — 324 CE[^27] 
+* <i>ḥsmn</i>, ‘natron’: 2494 BCE — 324 CE<sup id="fnref:27"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:27')">27</a></sup> 
 * <i>ḥsmn</i>, ‘bronze’: 1920 — 714 BCE
 * <i>ḥsmn</i>, ‘amethyst’: 1920 — 1077 BCE 
 
@@ -672,24 +677,24 @@ Thavapalan 2020:273-74).
 However, in view of its geographical location, it is quite probable that amethyst used in Israel had come from Egypt, 
 more specifically from Wadi el-Hudi in southern Egypt. This area is close to Kush (cf. Ps 68:32b), which explains why a stela of Usersatet, Viceroy of Kush
 (ca. 1400 BCE), was erected there (Liszka 2017:38-39). 
-An amethyst scarab beetle with hieroglyphic signs that turned up in Byblos (Lebanon) had probably been produced in Egypt in the time of the Middle Kingdom.[^28]
+An amethyst scarab beetle with hieroglyphic signs that turned up in Byblos (Lebanon) had probably been produced in Egypt in the time of the Middle Kingdom.<sup id="fnref:28"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:28')">28</a></sup>
 The connection of <span dir="rtl">חַשְׁמַנִּים</span> with Egypt in Ps 68:32 corresponds with the assumption that the Hebrew word denotes amethyst.
 If Akkadian <i>ḫašmānu</i> is indeed a derivative of Egyptian <i>ḥsmn</i>, ‘amethyst’, it is not surprising that 
 a cognate occurs also in Biblical Hebrew. 
 Identifying *<span dir="rtl">חַשְׁמַן</span> in Ps 68:32 with amethyst is not problematic if Psalm 68, or at least the part including 68:32, 
-is regarded as an early composition.[^29] 
+is regarded as an early composition.<sup id="fnref:29"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:29')">29</a></sup> 
 A tribute including precious stones was highly valued; see 1 Kgs 10:2, 10-11.
 
 
 ![Amethyst scarab](../images/photos/scarab.jpg)
 
 
-Amethyst scarab, Egypt, Middle Kingdom[^30]
+Amethyst scarab, Egypt, Middle Kingdom<sup id="fnref:30"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:30')">30</a></sup>
 
 
 ![Amethyst 46 beads](../images/photos/46beads.jpg)
  
-String of 46 amethyst beads, Egypt, Middle Kingdom–Early New Kingdom[^31]
+String of 46 amethyst beads, Egypt, Middle Kingdom–Early New Kingdom<sup id="fnref:31"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:31')">31</a></sup>
 
 
 <span id="Con"></span>

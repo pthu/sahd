@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1RAHiin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=רָאָה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># רֹאֶה <i>roʾeh</i> – seer, diviner
 
@@ -14,7 +19,7 @@ Grammatical Type: n. m.
 Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
 
 * Nebiim: 1 Sam 9:9 (2x), 11, 18, 19; Isa 30:10. 
-* Ketubim: 1 Chron 9:22; 26:28; 29:29; 2 Chron 16:7, 10.[^1]
+* Ketubim: 1 Chron 9:22; 26:28; 29:29; 2 Chron 16:7, 10.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup>
 * Qumran: 1QSb 5:4; 4Q446 f2:3.
 
 ### Text doubtful
@@ -27,7 +32,7 @@ Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
     less unlikely, why it should not be interpreted as a verbal
     participle (‘Kiriath-jearim who saw half of Menuhoth’).
 
-<b>B.2</b>  The active <i>qal</i> participle of  <span dir="rtl">רָאָה</span> is employed 18x in Qumran in its  verbal sense rather as the technical term ‘seer’.[^2]
+<b>B.2</b>  The active <i>qal</i> participle of  <span dir="rtl">רָאָה</span> is employed 18x in Qumran in its  verbal sense rather as the technical term ‘seer’.<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup>
 
 <b>B.3</b>  In 2 Chron 16:12 Jastrow (1909:49 n.23) suggests emending  <span dir="rtl">בָּרְפָאִם</span> to <span dir="rtl">בָּרֹאִים</span>. This emendation has not caught on.
 
@@ -42,11 +47,11 @@ Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
 
   See the verb  <span dir="rtl">רָאָה</span> (in preparation).
 
-<b>A.1</b>   <span dir="rtl">רָאָה</span> is the common Hebrew root for ‘to see’. In other Semitic languages, the root appears most commonly in Old South Arab. as <i>rʾy</i> , Eth. <i>rěʾěya</i> , and Arab. <i>raʾā</i> with the same meaning.[^5]
+<b>A.1</b>   <span dir="rtl">רָאָה</span> is the common Hebrew root for ‘to see’. In other Semitic languages, the root appears most commonly in Old South Arab. as <i>rʾy</i> , Eth. <i>rěʾěya</i> , and Arab. <i>raʾā</i> with the same meaning.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup>
 
 <b>A.2</b>  The attestation of the verb in the Meša-stele in lines four (H-Stem)
     and seven (G-stem) indicates that Moabite shared the root with
-    Hebrew.[^6]
+    Hebrew.<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup>
 
 <b>A.3</b>  Ugaritic and Akkadian use the root <i>ʾmr</i> for the verb ‘to see’.
 
@@ -132,7 +137,7 @@ Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
 
 <b>A.1</b>  Zorell translates <i>videns</i>.  <i>HAL</i> and Ges<sup><small>18</small></sup> translate ‘Seher’. BDB and  <i>DCH</i> have ‘seer’.
 
-<b>A.2</b>  It is common, as the dictionaries do, to regard <span dir="rtl">רֹאֶה</span> and <span dir="rtl">חֹזֶה</span> as synonymous, with <span dir="rtl">רֹאֶה</span> as the older and <span dir="rtl">חֹזֶה</span> as the younger term (see, e.g., Vetter 1976:699). The possibility that both are synonymous with the  <span dir="rtl">נָבִיא</span> is usually denied but the dictionaries point to 1 Sam 9:9 where <span dir="rtl">רֹאֶה</span> is explained as the older term for <span dir="rtl">נָבִיא</span>.[^8]
+<b>A.2</b>  It is common, as the dictionaries do, to regard <span dir="rtl">רֹאֶה</span> and <span dir="rtl">חֹזֶה</span> as synonymous, with <span dir="rtl">רֹאֶה</span> as the older and <span dir="rtl">חֹזֶה</span> as the younger term (see, e.g., Vetter 1976:699). The possibility that both are synonymous with the  <span dir="rtl">נָבִיא</span> is usually denied but the dictionaries point to 1 Sam 9:9 where <span dir="rtl">רֹאֶה</span> is explained as the older term for <span dir="rtl">נָבִיא</span>.<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup>
 
 <b>A.3</b>  The attestations of  <span dir="rtl">רֹאֶה</span> are clustered in 1 Sam 9 and 1-2 Chronicles (5x each). This indicates that temporal distinction does not explain any possible difference between
 <span dir="rtl">חֹזֶה</span> and 
@@ -140,7 +145,7 @@ Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
 
 <b>A.4</b>  As morphologically  <span dir="rtl">רֹאֶה</span> is the <i>qal</i> active participle of the verb <span dir="rtl">רָאָה</span> (‘to see’) the standard translation to be found in the dictionaries (‘seer’) seems justified.
 
-<b>A.5</b>  As a direct title  <span dir="rtl">רֹאֶה</span> is attributed to Samuel three times and once to Hanani in 1-2 Chronicles. In addition, the five attestations in 1 Samuel 9 all refer to Samuel as well, which means that eight out of thirteen attestations of the term refer to Samuel.[^9]
+<b>A.5</b>  As a direct title  <span dir="rtl">רֹאֶה</span> is attributed to Samuel three times and once to Hanani in 1-2 Chronicles. In addition, the five attestations in 1 Samuel 9 all refer to Samuel as well, which means that eight out of thirteen attestations of the term refer to Samuel.<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup>
 
 <b>A.6</b>  Jastrow (1909:46-49) links the <span dir="rtl">רֹאֶה</span> with the Babylonian <i>bārû</i> as a priestly seer, similar to the  <span dir="rtl">חֹזֶה</span>, but–in contrast to the  <span dir="rtl">חֹזֶה</span>–access to whom is open to the wider public and not restricted to the royal court. He bases this on the observation that Samuel is approached by common people while Gad–the <span dir="rtl">חֹזֶה</span> <i>par excellence</i>–is closely linked to the court.
 

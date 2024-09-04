@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1GAWLJMn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=גְּאוּלִים&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># גְּאוּלִים <i>g<small><sup>e</sup></small>ʾūlīm</i> – redemption
 
@@ -39,7 +44,7 @@ See <a href="https://pthu.github.io/sahd/words/to_redeem/#1-root-and-comparative
 ## 2. Formal Characteristics
 
 <b>A.1</b>  <i>qatūl</i>: Joüon-Muraoka, <i>GBH</i>, §88Ec (abstract or action nouns),
-§136f-i (on the use of the plural to represent intensity, abstraction or action).[^1] Cf. also <span dir="rtl" lang="he">פְּדוּיִם</span>.
+§136f-i (on the use of the plural to represent intensity, abstraction or action).<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> Cf. also <span dir="rtl" lang="he">פְּדוּיִם</span>.
 
 [^1]: Cf. BL, 517y and Köhler 1921:316.
 
@@ -55,27 +60,27 @@ See <a href="https://pthu.github.io/sahd/words/to_redeem/#1-root-and-comparative
 
 <b> a. Septuagint (LXX):</b>
 
-* λύτρωσις, ‘redemption, ransom’:[^2] Isa 63:4.
+* λύτρωσις, ‘redemption, ransom’:<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> Isa 63:4.
 
 [^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i> … claim on that which is currently not in one’s possession</i>’. LEH<sup><small>3</small></sup>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
 <b>b. Peshitta (Pesh):</b>
 
-* <span dir="rtl">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’:[^3] Isa 63:4.
+* <span dir="rtl">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’:<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> Isa 63:4.
 
 [^3]: Sokoloff, <i>SLB</i>, 1172.
 
 <b>c. Targum (Tg: J):</b>
 
 * <span dir="rtl" lang="he">פורקן (עמי)</span>,
-‘redemption (of my people)’:[^4] Isa 63:4.
+‘redemption (of my people)’:<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> Isa 63:4.
 
 [^4]: Jastrow, <i>DTT</i>, 1148; Sokoloff, <i>DJPA</i>, 427.
 
 
 <b>d. Vulgate (Vg):</b>
 
-* <i>redemptio</i>, ‘a buying back, redemption’:[^5] Isa 63:4.
+* <i>redemptio</i>, ‘a buying back, redemption’:<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> Isa 63:4.
 
 [^5]: Lewis & Short, <i>LD</i>, 1539.
 

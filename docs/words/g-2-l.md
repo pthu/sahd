@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1GALv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=גאל&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># גאל <i>gāʾal</i> – to redeem (as kinsman), buy/claim (back)
 
@@ -16,7 +21,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 ## Introduction
 
 Grammatical Type: vb <i>qal</i> and <i>niph.</i>  
-Occurrences: 103x[^1] HB (qal: 28/31/36; <i>niph.</i>: 7/1/0); 1(2?)x Sir; 16x Qum; 1(?)x inscr. (Total: 120 [121/122?]).
+Occurrences: 103x<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> HB (qal: 28/31/36; <i>niph.</i>: 7/1/0); 1(2?)x Sir; 16x Qum; 1(?)x inscr. (Total: 120 [121/122?]).
 
 [^1]: <i>DCH</i> ii: 293, mentions 104x for the HB, and 96x for the <i>qal</i>, but <i>DCHR</i> ii: 315, gives the number of 103x, and 95x for the <i>qal</i>, which agrees with the findings in <i>Accordance</i> and <i>SHEBANQ</i>.
 
@@ -141,7 +146,7 @@ freed from the Egyptians (Stamm 1971:386).
 
 <b>B.1</b> It is generally agreed that גאל (I) is totally unrelated to its
 homonym גאל (II) (<i>niph.</i>), meaning ‘to be (ritually) defiled’ (possibly a
-by-form of <span dir="rtl" lang="he">געל</span>),[^2] 
+by-form of <span dir="rtl" lang="he">געל</span>),<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> 
 <i>contra</i> Johnson, who suggests that in both words
 there is the basic idea of ‘covering (up) an object’ (1953:72), the
 first being ‘to protect’ by covering, and the second ‘to cover’ in the
@@ -283,14 +288,14 @@ walled city’ (Lev 25:30); אָח (from v. 47), ‘brother’ (Lev 25:49 [+ <sp
 
 ## 4. Ancient Versions
 
-<b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ):</b>[^3]
+<b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ):</b><sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>
 
 [^3]: The three versions Aquila (αʹ), Symmachus (σʹ), and Theodotion (θʹ) are given according to Field<sup>I</sup> and Field<sup>II</sup>. Their testimony is indicated by their sigla (if applicable including a reference to LXX). In all the other cases the textual references are to the LXX.
 
 
 Qal:  
 
-*  ἀγχιστεύς, ‘nearest of kin’:[^4] 1 Kgs 16:11; Isa 59:20<sup><small>σʹθʹ</small></sup>; 60:16<sup><small>αʹ</small></sup>; Ps 78:35<sup><small>αʹ</small></sup>; Job 19:25<sup><small>θʹ</small></sup>; Prov 23:11<sup><small>αʹσʹθʹ</small></sup>; Ruth 3:9, 12 (2x), 4:3, 6, 8, 14;
+*  ἀγχιστεύς, ‘nearest of kin’:<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> 1 Kgs 16:11; Isa 59:20<sup><small>σʹθʹ</small></sup>; 60:16<sup><small>αʹ</small></sup>; Ps 78:35<sup><small>αʹ</small></sup>; Job 19:25<sup><small>θʹ</small></sup>; Prov 23:11<sup><small>αʹσʹθʹ</small></sup>; Ruth 3:9, 12 (2x), 4:3, 6, 8, 14;
 *  ἀγχιστεύς + τοῦ αἷματος, ‘entitled to avenge a kinsman’s death’: 2 Sam 14:11;
 *  ἀγχιστευτής, ‘nearest of kin’:  Ruth 4:1; 
 *  ἀγχιστεύω(ν), ‘to be near in blood-relationship, to act as nearest of kin’: Gen 48:16<sup><small>αʹ</small></sup>; Lev 25:25<sup><small>1st</small></sup>, 26; 27:15<sup><small>αʹ?</small></sup>; Num 5:8; 35:12, 19, 21, 24, 25, 27 (2x); Deut 19:6, 12; Josh 20:3, 5, 9; Isa 35:9<sup><small>αʹσʹ</small></sup>; 47:4<sup><small>αʹ</small></sup>; 52:3<sup><small>αʹ</small></sup>; 
@@ -374,7 +379,7 @@ liberation and rescue from danger, e.g. σώζω.
 Qal:
 
 * ܚܘܕܬܐ
-(<i>ḥawdāṯā</i>), ‘renewal, restoration’[^5] +
+(<i>ḥawdāṯā</i>), ‘renewal, restoration’<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> +
  ܕܡܐ 
 (<i>dmā</i>), ‘blood’: 2 Sam 14:11;
 * ܟܣܝ/ܟܣܐ
@@ -441,13 +446,13 @@ in 2 Sam 14:11 emphasises the restoration of blood required by the family, which
 Qal:
 
 * גא(י)ל,
-‘avenger’:[^6] Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12; Josh 20:3,5,9; 2 Sam 14:11;
+‘avenger’:<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup> Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12; Josh 20:3,5,9; 2 Sam 14:11;
 * פרוק
 (subst.), ‘redeemer’: Lev 25:26<sup><small>N</small></sup>; Num 5:8<sup><small>N</small></sup>;
 * פר(י)ק
 (subst.), ‘redeemer’: Lev 25:25<sup><small>1st: O,PsJ</small></sup>, 26; Num 5:8<sup><small>O,PsJ</small></sup>; Isa 41:14; 43:14; 44:6,24; 47:4; 48:17; 49:8; 54:5,8; 59:20; 63:16; Jer 50:34;
 * פרק,
-‘to redeem’: Gen 48:16<sup><small>O,N,PsJ</small></sup>; Exod 6:6<sup><small>O,N,PsJ</small></sup>; 15:13<sup><small>O,N,PsJ,Frg</small></sup>;[^7] Lev 25:25<sup><small>2nd: O,N,PsJ</small></sup>,
+‘to redeem’: Gen 48:16<sup><small>O,N,PsJ</small></sup>; Exod 6:6<sup><small>O,N,PsJ</small></sup>; 15:13<sup><small>O,N,PsJ,Frg</small></sup>;<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup> Lev 25:25<sup><small>2nd: O,N,PsJ</small></sup>,
 26<sup><small>N,PsJ</small></sup>, 30, 33<sup><small>O,N,PsJ</small></sup>, 48<sup><small>O,N,PsJ</small></sup>; 27:13<sup><small>O,N,PsJ</small></sup>,
 15<sup><small>O,N,PsJ</small></sup>, 19<sup><small>O,N,PsJ,Frg</small></sup>, 31<sup><small>O,N,PsJ,Frg</small></sup>; Isa 35:9; 43:1;
 44:22,23; 48:20; 52:9; 62:12; Mic 4:10; Pss 19:15; 69:19; 72:14; 74:2; 77:16; 78:35; 103:4; 106:10; 107:2 (2x); 119:154 ; Ruth 2:20; 3:9, 12 (2x), 13 (4x); 4:1 (2x), 3, 4 (5x), 6 (4x), 8 (2x), 14; Lam 3:58;
@@ -482,7 +487,7 @@ translated by פרק.
 
 Qal:
 
-* <i>do</i>, ‘to give’:[^8] Lev 27:13;
+* <i>do</i>, ‘to give’:<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> Lev 27:13;
 *  <i>eruo</i>, ‘to rescue, release’: Gen 48:16;
 *  <i>iure propinquitatis emo</i>, ‘right of kindred, buy it’: Ruth 4:4;
 * <i>libero</i>, ‘to make or set free’: Isa 35:9; 51:10; Jer 31:11; Sir 51:8, Ps 69:19 (Vg<sup><small>PsG</small></sup>);
@@ -643,7 +648,7 @@ enemies (in all but two instances above) seems to suggest a transference of owne
 <span dir="rtl" lang="he">לְ</span>, it would be a rather surprising development that re-establishing covenant had become a vehicle of redemption.
 
 
-<b>B.1</b> The role of a man’s גֹּאֵל has been understood by some scholars to be to restore balance and wholeness to his family.[^9] However, although this description fits with a number of examples (e.g. where something is ‘bought back’ for a family member) it seems to ignore the cases where גאל could mean pre-purchase rather than re-purchase (Ruth 4:3 and Jer 32:7), and also see below on <span dir="rtl" lang="he">גֹּאֵל הַדָּם</span>, where the underlying idea does not seem to be one of ‘Wiederherstellung’.
+<b>B.1</b> The role of a man’s גֹּאֵל has been understood by some scholars to be to restore balance and wholeness to his family.<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> However, although this description fits with a number of examples (e.g. where something is ‘bought back’ for a family member) it seems to ignore the cases where גאל could mean pre-purchase rather than re-purchase (Ruth 4:3 and Jer 32:7), and also see below on <span dir="rtl" lang="he">גֹּאֵל הַדָּם</span>, where the underlying idea does not seem to be one of ‘Wiederherstellung’.
 
 [^9]: Stamm 1971:386; Johnson 1953:70; Jepsen 1957:158.
 

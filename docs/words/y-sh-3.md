@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1JCOv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># ישׁע <i>yāšaʿ</i> – to save, help
 
@@ -220,8 +225,8 @@ decisive as it previously seemed (on the possible problem of the initial
 is in fact no actual overlap in meanings between the attested uses of
 יָשַׁע
  and those of <i>wasiʿa</i>: יָשַׁע never means ‘be wide’ or ‘make
-wide’[^1] and <i>wasiʿa</i> never has the sense of ‘save,
-deliver, help’ (Lane 8[supplement], 3052-53).[^2] Thirdly, while צָרַר I is attested meaning both
+wide’<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> and <i>wasiʿa</i> never has the sense of ‘save,
+deliver, help’ (Lane 8[supplement], 3052-53).<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> Thirdly, while צָרַר I is attested meaning both
 ‘narrowness’ and ‘distress’, it cannot be said to be established that
 ‘narrowness’ is the basic meaning from which ‘distress’ is derived. In
 fact ‘narrow’ in the physical sense is a rather rare meaning of the
@@ -477,9 +482,9 @@ it is the predicate of and <span dir="rtl" lang="he">יהוה</span>
 
 Hiphil:   
 
-* ἀμύνομαι, ‘to help and defend’:[^3] Isa 59:16;  
+* ἀμύνομαι, ‘to help and defend’:<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> Isa 59:16;  
 * ἀνασώζω, ‘to rescue’: Zech 8:7;  
-* \[[ἀπόλλυμι]], ‘to destroy’:[^4] Job 5:15;  
+* \[[ἀπόλλυμι]], ‘to destroy’:<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> Job 5:15;  
 * βοηθέω, ‘to aid, help’: Deut 22:27; 28:29, 31; Prov 20:22; 1&nbsp;Chron 19:19;  
 * βοηθός:, ‘helper, help’: 2&nbsp;Sam 22:42;  
 * διασώζω, ‘to preserve, save’: Deut 20:4; Hos 13:10; Zech 8:13;  
@@ -487,7 +492,7 @@ Hiphil:
 * ἐλεέω, ‘to have pity on’: Sir 33:1;  
 * ἐξαιρέω, ‘to take (out)’: Josh 10:6; Sir 4:9;  
 * λυτρόω, ‘to redeem’: Sir 48:20; 49:10;  
-* ποιέω, ‘to make, bring about’ (+ σωτηρίαν, ‘deliverance’ = <span dir="rtl" lang="he">תְּשׁוּעָה</span>):[^5] 1&nbsp;Chron 11:14;  
+* ποιέω, ‘to make, bring about’ (+ σωτηρίαν, ‘deliverance’ = <span dir="rtl" lang="he">תְּשׁוּעָה</span>):<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> 1&nbsp;Chron 11:14;  
 * ῥύομαι, ‘to rescue’: Exod 2:17; 14:30; Josh 22:22; Isa 49:25, 26; 63:5; Ezek 37:23;  
 * σωτήρ, ‘saviour, deliverer’: Judg 3:9, 15; 1&nbsp;Sam 10:19; 2 Sam 22:3 (1st, LXX<sup>Ant</sup>); Isa 45:15, 21; Neh 9:27;  
 * σωτηρία, ‘deliverance, salvation’: 2&nbsp;Sam 22:3 (1st); 2&nbsp;Kgs 13:5; 14:27; Isa 38:20; 47:15; 63:8;  
@@ -558,7 +563,7 @@ although others have followed the MT (e.g. Watts 1987:238).
 Hiphil:   
 
 * <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
-(<i>zky</i>/<i>zkʾ </i>) <i>pael</i>, `to make victorious’:[^7] Judg 7:2;
+(<i>zky</i>/<i>zkʾ </i>) <i>pael</i>, `to make victorious’:<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup> Judg 7:2;
 * <span dir="rtl" lang="-">ܢܦܩ</span>
 (<i>npq</i>) <i>aphel</i>, ‘to bring out’: Ps 107:19;  
 * <span dir="rtl" lang="-">ܣܡܟ</span>
@@ -648,7 +653,7 @@ most part to render the ptc.
 
 Hiphil:  
 
-* <span dir="rtl" lang="he">חשׁב</span>, ‘to think’:[^8] Ps 18:28;
+* <span dir="rtl" lang="he">חשׁב</span>, ‘to think’:<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> Ps 18:28;
 * <span dir="rtl" lang="he">פרוק</span>, ‘redeemer’: Hos 13:4;
 * <span dir="rtl" lang="he">פּרק</span>, ‘to redeem’: Exod 2:17; 14:30; 
 Deut 20:4; 22:27; 28:29, 31; Josh 10:6; 22:22;
@@ -708,7 +713,7 @@ may be made with Ps 33:16 where in the Tg נושׁע is rendered מתפריק
 
 Hiphil:  
 
-* <i>adiuvo</i>, ‘to give aid to, to help’:[^9] Deut 28:31; 1&nbsp;Chron 18:6;  
+* <i>adiuvo</i>, ‘to give aid to, to help’:<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> Deut 28:31; 1&nbsp;Chron 18:6;  
 * <i>audio</i>, ‘to hear, to listen’: Sir 48:22;
 * <i>auxilior</i>, ‘to give help, aid to’: 2&nbsp;Sam 10:11; 
 * [[<i>conloquor</i>, ‘to converse with’: Sir 11:20]]; 

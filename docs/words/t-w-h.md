@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1VWHv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=טוה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># טוה <i>ṭāwāh</i> – to spin, twist together
 
@@ -96,7 +101,7 @@ qâ ṣīra qâ rabâ qâ bitru</i>[<i>ma</i>],
 It has been suggested that the BAram. word
 <span dir="rtl" lang="he">טְוָת</span>
 in Dan 6:19 is a cognate of BHeb. 
-<span dir="rtl" lang="he">טוה</span>.[^1]
+<span dir="rtl" lang="he">טוה</span>.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup>
 With reference to Syr. ܛܘܝ  (<i>ṭwy</i>), ‘to be hungry’ (cf. Sokoloff, <i>SLB</i>, 516),
 BAram. <span dir="rtl" lang="he">טְוָת</span> is interpreted as an adverb meaning ‘fasting’: <span dir="rtl" lang="he">וּבָת טְוָת</span>,
 ‘he (the king) spent the night fasting’. 
@@ -121,17 +126,17 @@ See further <a href="#RAB">Textual Evidence A.3</a>.
 
 <b>A.6</b>  <i>Jewish Aramaic</i>: 
 The verb <span dir="rtl" lang="he">טוי</span>/<span dir="rtl" lang="he">טוה</span>, ‘to spin (yarn)’, 
-occurs occasionally in JAram.,[^2] 
+occurs occasionally in JAram.,<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> 
 where it is apparently a loanword from Hebrew.
 The more usual JAram. verb with the meaning ‘to spin’ is
-<span dir="rtl" lang="he">עזל</span>[^3]
+<span dir="rtl" lang="he">עזל</span><sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>
 (cf. Syr. <span dir="rtl">ܥܙܠ</span>; see <a href="#AV">Ancient Versions</a>). 
 
 [^2]: Jastrow, <i>DTT</i>, 523; Sokoloff, <i>DJBA</i>, 496; <i>DJPA</i>, 221.
 [^3]: Jastrow, <i>DTT</i>, 1061; Sokoloff, <i>DJBA</i>, 849-50; <i>DJPA</i>, 401. 
 
 <b>A.7</b>  <i>Arabic</i>:
-Many BHeb. dictionaries suggest that Arab. <i>ṭawā</i>, ‘to fold, wind’, is a cognate of BHeb. <span dir="rtl" lang="he">טוה</span>.[^4] 
+Many BHeb. dictionaries suggest that Arab. <i>ṭawā</i>, ‘to fold, wind’, is a cognate of BHeb. <span dir="rtl" lang="he">טוה</span>.<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> 
 For the Arab. verb, see Lane
 1898-1900 (1900: <i>miṭwān</i>, ‘a thing upon which spun thread is wound’). 
 
@@ -141,7 +146,7 @@ For the Arab. verb, see Lane
 <b>A.8</b>  <i>Ethiopic</i>: 
 In Eth., the verb <i>ṭawaya</i> means ‘to be twisted’ (<i>CDG</i>, 600). 
 Many BHeb. dictionaries regard it as a cognate of Heb.
-<span dir="rtl" lang="he">טוה</span>.[^5] 
+<span dir="rtl" lang="he">טוה</span>.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> 
 
 [^5]: BDB, 376; GB, 274; KBL, 530; <i>HALOT</i>, 372; Ges<sup><small>18</small></sup>, 421.
 
@@ -179,7 +184,7 @@ see <a href="#Sam">Introduction A.1</a>.
 
 <b>a. Septuagint (LXX):</b>
 
-* νήθω , ‘to spin’:[^6] Exod 35:25, 26.
+* νήθω , ‘to spin’:<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup> Exod 35:25, 26.
 
 [^6]: LSJ, 1173; <i>GELS</i>, 474.
 
@@ -187,21 +192,21 @@ see <a href="#Sam">Introduction A.1</a>.
 <b>b. Peshitta (Pesh):</b>
 
 * <span dir="rtl">ܥܙܠ</span> (<i>‘zl</i>), 
-‘to spin’:[^7]  Exod 35:25, 26.
+‘to spin’:<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup>  Exod 35:25, 26.
 
 [^7]: Payne Smith, <i>CSD</i>, 409 (‘to spin, twist, twine’);  Sokoloff, <i>SLB</i>, 1090 (‘to spin, weave’).
 
 
 <b>c. Targumim (Tg: O/PsJ/N/Smr):</b> 
 
-* <span dir="rtl" lang="he">עזל</span>, ‘to spin’:[^8] 
+* <span dir="rtl" lang="he">עזל</span>, ‘to spin’:<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> 
 Tg<sup><small>O,PsJ,N</small></sup> Exod 35:25, 26; Tg<sup><small>Smr</small></sup> Exod 35:26. For Tg<sup><small>Smr</small></sup> Exod 35:25, see <a href="#Sam">Introduction A.1</a>.
 
 [^8]: Jastrow, <i>DTT</i>, 1061;   Sokoloff,  <i>DJBA</i>, 849-50;  <i>DJPA</i>, 401;  Tal, <i>DSA</i>, 630.
 
 <b>d. Vulgate (Vg):</b>
 
-* <i>neo</i>, ‘to spin’:[^9] 
+* <i>neo</i>, ‘to spin’:<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> 
 Exod 35:25, where 
 <span dir="rtl" lang="he">וְכָל־אִשָּׁה חַכְמַת־לֵב בְּיָדֶיהָ טָווּ וַיָּבִיאוּ מַטְוֶה</span> is translated freely as <i>sed et mulieres doctae dederunt quae neverant</i>, ‘but also the skilful women gave what they had spun’.
 * No rendering in 35:26.
@@ -229,7 +234,7 @@ If in Prov 31:19 the noun
 ###<span id="Exe-lit">6.1 Textual Evidence</span>
 
 <b>A.1</b> Not only the ancient versions but also the dictionaries of BHeb. agree that the verb 
-<span dir="rtl" lang="he">טוה</span> means ‘to spin’.[^10] 
+<span dir="rtl" lang="he">טוה</span> means ‘to spin’.<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup> 
 Exod 35:25-26 recounts that women spun different materials
 that had been collected previously (Exod 25:4; 35:6, 23):  
 &nbsp;&nbsp;&nbsp;&nbsp; <span dir="rtl" lang="he">תְּכֵלֶת</span>,
@@ -244,7 +249,7 @@ The three designations <span dir="rtl" lang="he">תְּכֵלֶת</span>,
 <span dir="rtl" lang="he">אַרְגָּמָן</span>, and 
 <span dir="rtl" lang="he">תּוֹלַעַת (הַ)שָָּׁנִי</span> apparently denote sheep wool that had been coloured with these costly dyes 
 before it was spun. 
-Linen usually remained undyed, since its cellulose fibres do not easily absorb dyes[^11]
+Linen usually remained undyed, since its cellulose fibres do not easily absorb dyes<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup>
 (but cf. Ezek 27:7). 
 Whenever <span dir="rtl" lang="he">תְּכֵלֶת</span>,
 <span dir="rtl" lang="he">אַרְגָּמָן</span>,

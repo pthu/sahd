@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># יֵשַׁע <i>yḗšaʿ</i> – safety (state or place of)
 
@@ -19,7 +24,7 @@ Occurrences: 36x HB (0/13/23); 2x Sir; 12x Qum; 1x inscr. (Total: 51).
 
 * Nebiim: 2 Sam 22:3, 36, 47; 23:5; Isa 17:10; 45:8; 51:5; 61:10, 11; Mic 7:7; Hab 3:13 (2x), 18;
 * Ketubim: Ps 12:6; 18:3, 36, 47; 20:7; 24:5; 25:5; 27:1, 9; 50:23; 51:14; 62:8; 65:6; 69:14; 79:9; 85:5, 8, 10; 95:1; 132:16; Job 5:4, 11; 1 Chron 16:35;
-* Sir: ms B, 51:1, 10;[^1] 
+* Sir: ms B, 51:1, 10;<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> 
 * Qum: CD–B 20:20; 1QH<sup><small>a</small></sup> 13:14; 4Q381 24a+b:7; 31:6; 33ab+35:8, 9; 4Q417 2.i:11; 
 4Q510 2:2; 11Q5 18:2; 22:4; partially reconstructed: 4Q379 19:1; 4Q443 1:12;
 * Inscr: Naveh & Magen 1997:43, text D (=D-50:004); see B.4
@@ -95,7 +100,7 @@ Introduction: Text Doubtful B.1</a>).
 
 <b>a. Septuagint (LXX):</b> 
 
-* ἔλεος, ‘pity, mercy’:[^2] Isa 45:8;
+* ἔλεος, ‘pity, mercy’:<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> Isa 45:8;
 * ῥύομαι, ‘to rescue’: Hab 3:13<sup><small>2nd</small></sup> (Codex Venetus);
 * σωτήρ, ‘saviour’: Isa 17:10; 62:11; Mic 7:7; Hab 3:13, 18; Ps 24[23]:5; 25[24]:5; 27[26]:1, 9; 65[64]:6; 79[78]:9; 95[94]:1;
 * σωτηρία, ‘rescue, deliverance’: 2 Sam 22:3, 36, 47; 23:5; Hab 3:13<sup><small>1st</small></sup>; Ps 12[11]:6; 18[17]:3, 36, 47; 20[19]:7; 69[68]:14; 132[131]:16; Job 5:4; 1 Chron 16:35;
@@ -107,7 +112,7 @@ Introduction: Text Doubtful B.1</a>).
 
 <b>b. Peshitta (Pesh):</b>
 
-* <span dir="rtl">ܦܘܩܕܢܐ</span> (<i>puqdānā</i>), ‘command, order’:[^3] 
+* <span dir="rtl">ܦܘܩܕܢܐ</span> (<i>puqdānā</i>), ‘command, order’:<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> 
 2 Sam 23:5 (but see A.6 below);
 * <span dir="rtl">ܦܘܪܩܢܐ</span>
 (<i>purqānā</i>), ‘salvation, redemption’:
@@ -126,7 +131,7 @@ Hab 3:13 (2x).
 
 <b>c. Targum (Tg: J/K):</b> 
 
-* \[[<span dir="rtl">מיתיא</span>]], ‘dead’:[^4] Isa 45:8;
+* \[[<span dir="rtl">מיתיא</span>]], ‘dead’:<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> Isa 45:8;
 * <span dir="rtl">פּרק</span>, ‘to redeem’: 2 Sam 22:36; Isa 62:11; Hab 3:13 (2x);
 * <span dir="rtl">פּורקנא</span>, ‘redemption, salvation’: 2 Sam 22:3, 47; Isa 17:10; 51:5; 61:10; Mic 7:7; Hab 3:18; Pss&nbsp;12:6; 18:3, 36, 47; 20:7; 24:5; 25:5; 27:1, 9; 50:23; 51:14; 62:8; 65:6; 69:14; 79:9; 85:5, 8, 10; 95:1; 132:16; Job 5:4, 11; 1 Chron 16:35;
 * \[[<span dir="rtl">צורכא</span>]], ‘need’: 2 Sam 23:5.
@@ -135,8 +140,8 @@ Hab 3:13 (2x).
 
 <b>d. Vulgate (Vg):</b>
 
-* <i>Iesus</i>, ‘Jesus’:[^5] Hab 3:18;  also Pss 51[50]:14<sup><small>PsH</small></sup>; 79[78]:9<sup><small>PsH</small></sup>; 85[84]:5<sup><small>PsH</small></sup>; 95[94]:1<sup><small>PsH</small></sup>;
-* <i>salus</i>, ‘a being safe and sound, welfare’:[^6] 2 Sam 22:3, 36, 47; 23:5;
+* <i>Iesus</i>, ‘Jesus’:<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> Hab 3:18;  also Pss 51[50]:14<sup><small>PsH</small></sup>; 79[78]:9<sup><small>PsH</small></sup>; 85[84]:5<sup><small>PsH</small></sup>; 95[94]:1<sup><small>PsH</small></sup>;
+* <i>salus</i>, ‘a being safe and sound, welfare’:<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup> 2 Sam 22:3, 36, 47; 23:5;
 Isa 61:10; Hab 3:13 [2x]; Pss&nbsp;18[17]:3, 36, 47; 20[19]:7; 27[26]:1<sup><small>PsG</small></sup>; 69[68]:14<sup><small>PsG</small></sup>; 85[84]:5<sup><small>PsG</small></sup>; Job 5:4;
 * <i>salutaris</i>, ‘salvation, health’: Pss 12[11]:6; 24[23]:5<sup><small>PsH</small></sup>; 27[26]:1<sup><small>PsH</small></sup>; 50[49]:23; 51[50]:14<sup><small>PsG</small></sup>; 62[61]:8; 65[64]:6<sup><small>PsG</small></sup>; 69[68]:14<sup><small>PsH</small></sup>; 79[78]:9<sup><small>PsG</small></sup>; 85[84]:8, 10; 95[94]:1<sup><small>PsG</small></sup>; 132[131]:16;
 * <i>salvator</i>, ‘saviour, redeemer’: Isa 17:10; 45:8; 51:5; 62:11; Mic 7:7; Pss 24[23]:5<sup><small>PsG</small></sup>; 25[24]:5; 27[26]:9; 65[64]:6<sup><small>PsH</small></sup>; 1 Chron 16:35;
@@ -159,7 +164,7 @@ cognates of  <span dir="rtl">פלט</span>,  <span dir="rtl">מלט</span> and  
 
 <b>A.5</b><a id="AVersA5"></a>  The late Latin lexeme <i>sospitas</i>, ‘safety’ at Job 5:11, although not from the same root as most of the Vg’s choices, nonetheless conveys the same sense. In fact it is an apposite term since it has associations with divine safety in pagan writers. A cult title of Juno at Lanuvium was <i>Sospita</i> (Cicero, <i>De natura deorum</i> 1:82; see <i>OLD</i>, 1796), and <i>sospitatrix</i> was used of Isis (Apuleius, <i>Metamorphoses</i> 11:9, 25; <i>OLD</i>, 1796). Perhaps as a result of this association <i>sospitator</i>, ‘saviour, preserver, deliverer, redeemer’ (Lewis & Short, <i>LD</i>, 1734), another post-classical Latin noun, became a title used of Christ (<i>sospitator</i> <i>nostri generis</i>, Arnobius Afer 2:96).
 
-<b>A.6</b>  At 2 Sam 23:5 the positional equivalent in Pesh is <span dir="rtl">ܨܒܝܢܐ</span> (<i>ṣebyānā</i>), ‘favor, good will’ (Sokoloff, <i>SLB</i>, 1271). Generally it is the equivalent of the noun  <span dir="rtl">חֵפֶץ</span>, which occurs in the following phrase (cf. Pesh on Qoh 12:10). In fact, since the positional equivalent of <span dir="rtl">חֵפֶץ</span> is <span dir="rtl">ܦܘܩܕܢܐ</span> (<i>puqdānā</i>), one might consider that for some reason Pesh has interchanged its renderings of <span dir="rtl">יֵשַׁע</span> and  <span dir="rtl">חֵפֶץ</span>.[^7]
+<b>A.6</b>  At 2 Sam 23:5 the positional equivalent in Pesh is <span dir="rtl">ܨܒܝܢܐ</span> (<i>ṣebyānā</i>), ‘favor, good will’ (Sokoloff, <i>SLB</i>, 1271). Generally it is the equivalent of the noun  <span dir="rtl">חֵפֶץ</span>, which occurs in the following phrase (cf. Pesh on Qoh 12:10). In fact, since the positional equivalent of <span dir="rtl">חֵפֶץ</span> is <span dir="rtl">ܦܘܩܕܢܐ</span> (<i>puqdānā</i>), one might consider that for some reason Pesh has interchanged its renderings of <span dir="rtl">יֵשַׁע</span> and  <span dir="rtl">חֵפֶץ</span>.<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup>
 
 [^7]: On the phenomenon of inversion of renderings, see Smelik 1995:268-70.
 

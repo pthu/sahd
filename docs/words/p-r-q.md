@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=2PRQv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># פרק <i>pāraq</i> – to pull off, tear away
 
@@ -139,7 +144,7 @@ similar separation is implied by phrases in the near context in Exod
 
 ## 4. Ancient Versions
 
-<b>a. Septuagint (LXX) and other Greek translations (αʹ, σʹ)</b>:[^3]
+<b>a. Septuagint (LXX) and other Greek translations (αʹ, σʹ)</b>:<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>
 
 [^3]: Aquila (αʹ) and Symmachus (σʹ) are given according to Field<sup>I</sup> and Field<sup>II</sup>.
 

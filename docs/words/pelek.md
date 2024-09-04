@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1PLKn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># פֶּלֶךְ <i>pèlek</i> – spindle
 
@@ -22,10 +27,10 @@ Occurrences:   2x HB (0/1/1); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2)
  פֶּלֶךְ 
 <small>II</small>, ‘district’ (8x in Neh 3:9-18;
 LXX: περίχωρος),
-which is a loanword derived from Akk.  <i>pilku</i>, ‘boundary’, plur ‘district’.[^1]  Demsky (1983) proposed to interpret 
+which is a loanword derived from Akk.  <i>pilku</i>, ‘boundary’, plur ‘district’.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup>  Demsky (1983) proposed to interpret 
 פֶּלֶךְ
 <small>II</small> as a loanword deriving from Akk. <i>pilku</i>, 
-‘work assignment building walls’.[^2]
+‘work assignment building walls’.<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup>
 However, פֶּלֶךְ <small>II</small> is undoubtedly a geographic designation, as is shown by a comparison of
 שַׂר הַמִּצְפָּה,
 ‘ruler of Mizpah’ (Neh 3:19), and
@@ -69,8 +74,8 @@ to Egypt according to EA 25 III:70-72.
 The golden spindles are said to have a total weight of 8 shekels 
 and the 26 spindles of silver are said to weigh 10 shekels altogether, which probably means that a single silver spindle weighed around 3 grams
 (according to the Babylonian weight system; ca. 4.5 grams each if the Hittite system was used). 
-The interpretation as ‘spindles’ is certain.[^3]
-Rainey’s unusual interpretation of <small>BAL.MEŠ</small> as representing the plural of <i>maqqû</i>, ‘libation bowl’,[^4] 
+The interpretation as ‘spindles’ is certain.<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>
+Rainey’s unusual interpretation of <small>BAL.MEŠ</small> as representing the plural of <i>maqqû</i>, ‘libation bowl’,<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> 
 is unacceptable in view of the small weight of the objects. 
 Some Akk. inventories and dowry 
 lists mention among a married wife’s possessions 
@@ -200,10 +205,10 @@ which indicates that the פֶּלֶךְ is grasped.
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
-* ἄτρακτος, ‘spindle’:[^5] 
-2 Sam 3:29<sup><small>αʹσʹ</small></sup>;[^6] 
+* ἄτρακτος, ‘spindle’:<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> 
+2 Sam 3:29<sup><small>αʹσʹ</small></sup>;<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup> 
 Prov 31:19<sup><small>LXX</small></sup>;  
-* σκυτάλη, ‘staff, cudgel, club’:[^7]
+* σκυτάλη, ‘staff, cudgel, club’:<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup>
 2 Sam 3:29<sup><small>LXX</small></sup>.
 
 [^5]: LSJ, 272; <i>GELS</i>, 101.
@@ -213,7 +218,7 @@ Prov 31:19<sup><small>LXX</small></sup>;
 <b>b.  Peshitta (Pesh):</b>  
 
 * <span dir="rtl">ܡܘܥܙܠܐ</span>
-(<i>mu‘zālā</i>), ‘spindle’:[^8] 2 Sam 3:29; Prov 31:19.
+(<i>mu‘zālā</i>), ‘spindle’:<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> 2 Sam 3:29; Prov 31:19.
 
 [^8]: Sokoloff, <i>SLB</i>, 727 (cf. 800: ܡܥܙܠܐ, ‘spindle’); derivative of  ܥܙܠ, ‘to spin’ (<i>SLB</i>, 1090).
 
@@ -221,11 +226,11 @@ Prov 31:19<sup><small>LXX</small></sup>;
 <b>c. Targum (Tg: J/K):</b>  
 
 * <span dir="rtl" lang="he">אַגְרָא</span>,
- ‘wages, reward, profit’:[^9] 2 Sam 3:29<sup><small>J</small></sup>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff, crutch, pole’,[^10] is questionable (Van Staalduine-Sulman 2002:499-500).   
+ ‘wages, reward, profit’:<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> 2 Sam 3:29<sup><small>J</small></sup>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff, crutch, pole’,<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup> is questionable (Van Staalduine-Sulman 2002:499-500).   
 * <span dir="rtl" lang="he">מעזלא</span>,
 derivative of עזל,
 ‘to spin’,
-probably either ‘spindle’ or ‘spun wool/yarn’:[^11] Prov 31:19<sup><small>K</small></sup>. 
+probably either ‘spindle’ or ‘spun wool/yarn’:<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup> Prov 31:19<sup><small>K</small></sup>. 
 
 [^9]: Jastrow, <i>DTT</i>, 14; Sokoloff, <i>DJBA</i>, 80-81; <i>DJPA</i>, 34-35.
 [^10]: Jastrow, <i>DTT</i>, 10. Sokoloff, <i>DJBA</i>, 78, mentions only ‘carrying pole’ (with uncertain etymology) as a possible meaning.
@@ -234,7 +239,7 @@ probably either ‘spindle’ or ‘spun wool/yarn’:[^11] Prov 31:19<sup><smal
 
 <b>d.  Vulgate (Vg):</b>  
 
-* <i>fusus</i>, ‘spindle’:[^14]
+* <i>fusus</i>, ‘spindle’:<sup id="fnref:14"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:14')">14</a></sup>
 2 Sam 3:29; Prov 31:19. 
 
 [^14]: Lewis & Short, <i>LD</i>, 798;  <i>OLD</i>, 751.
@@ -387,7 +392,7 @@ After categories of temple personnel, a lexical list mentions a
 
 The following curse in Esarhaddon’s Succession Treaty may indicate that also in Mesopotamia, outside the specific cultic contexts, holding 
 a spindle was regarded as a disgrace to men:
-‘May they (the gods) make you whirl(?)[^15]
+‘May they (the gods) make you whirl(?)<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup>
 like a spindle (<sup><small>GIŠ</small></sup></i>pilaqqu</i>), may they make you like a woman 
 before your enemy’ (SAA 2:56, text 6, §91). 
 Brigitte Groneberg (1986:190-91)
@@ -710,7 +715,7 @@ rather than being tools of everyday use (Spinazzi-Lucchesi 2018:30).
 <b>A.2</b> <i>Spinning bowls</i>: 
 Ancient bowls with two (rarely one, three or four) interior handle-like loops have been discovered
 at several locations in Egypt and Israel/Palestine. 
-These bowls have been interpreted as spinning bowls.[^18]
+These bowls have been interpreted as spinning bowls.<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup>
 They were made to keep threads of spliced flax or threads of spun wool before they were twisted together with a spindle
 in order to get a plied yarn. The threads were passed through different loops to prevent them from entangling.
 The constant rubbing of the threads past the undersides of the loops left grooves, apparently due to the tension that was placed on them. 

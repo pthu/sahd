@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1JCWOHn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># יְשׁוּעָה <i>y<small><sup>e</sup></small>šūʿāh</i> – protection
 
@@ -243,7 +248,7 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 
 <b>a. Septuagint (LXX):</b>
 
-* ἔλεος, ‘pity, mercy’:[^1] Sir 35:25
+* ἔλεος, ‘pity, mercy’:<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> Sir 35:25
 * σωτήρ, ‘saviour’: Deut 32:15; Isa 12:2a; Ps 62[61]:3, 7;  
 * σωτηρία, ‘rescue, deliverance’: Gen 49:18; Exod 14:13; 15:2; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 10:11; 22:51; Isa 12:2b; 25:9; 26:18 [pl. for sg.]; 33:2, 6 [pl. for sg.]; 49:6, 8; 52:7, 10;
 59:11; Hab 3:8; Pss 3:3, 9; 18[17]:51; 22[21]:2; 35[34]:3; 42[41]:12 [sg. for pl.]; 44[43]:5 [sg. for pl.]; 69[68]:30; 74[73]:12 [sg. for pl.]; 88[87]:2;
@@ -261,7 +266,7 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 
 <b>b. Peshitta (Pesh):</b>   
 
-* <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’:[^2] Gen 49:18; Exod 14:13; 
+* <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’:<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> Gen 49:18; Exod 14:13; 
 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 22:51; 
 Isa 12:2<sup>2nd</sup>, 3; 25:9; 26:1; 33:6; 49:6, 8; 51:6, 8; 52:7, 10; 56:1; 59:11, 17; 60:18; 62:1; 
 Hab 3:8; 
@@ -278,7 +283,7 @@ Job 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;
 
 <b>c. Targum (Tg: O/J/K):</b>  
 
-* <span dir="rtl" lang="he">פרק</span>, ‘to redeem’:[^3]
+* <span dir="rtl" lang="he">פרק</span>, ‘to redeem’:<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>
  Exod 15:2; Deut 32:15; 2&nbsp;Sam 10:11; Isa 12:2<sup>2nd</sup>; Pss 35:3; 80:3; 118:14, 21;  
 * <span dir="rtl" lang="he">פורקנא</span>, ‘redemption, salvation’:
  Gen 49:18; 
@@ -300,7 +305,7 @@ No rendering: Ps 118:15.
 
 <b>d. Vulgate (Vg):</b>  
 
-* <i>adiutorium</i>, ‘to help’:[^4] 2&nbsp;Sam 10:11;  
+* <i>adiutorium</i>, ‘to help’:<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> 2&nbsp;Sam 10:11;  
 * <i>auxilium</i>, ‘help’: 2&nbsp;Chron 20:17;  
 * <i>Iesus</i>, ‘Jesus’: Ps 149:4 (Vg<sup><small>PsH </small></sup>)  
 * [[<i>iustitia</i>, ‘justice, righteousness’: Isa 51:8]];  

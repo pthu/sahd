@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1GALHn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=גְּאֻלָּה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># גְּאֻלָּה <i>g<small><sup>e</sup></small>ʾūllāh</i> – (price/right of) redemption
 
@@ -83,10 +88,10 @@ been reconstructed using a parallel text 4Q506 124:4
 
 <b>a. Septuagint (LXX):</b>
 
-* ἀγχιστεία, ‘claim as nearest of kin’:[^1] Ruth 4:6, 7;
+* ἀγχιστεία, ‘claim as nearest of kin’:<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> Ruth 4:6, 7;
 * [αἰχμαλωσία, ‘captivity’: Ezek 11:15];
 * λύτρον, ‘sum payable as ransom’: Lev 25:24, 26, 51, 52;
-* λύτρωσις, ‘redemption, ransom’:[^2] Lev 25:29 (2x), 48;
+* λύτρωσις, ‘redemption, ransom’:<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> Lev 25:29 (2x), 48;
 * λυτρωτός, ‘redeemable’: Lev 25:31, 32;
 * παραλαμβάνω, ‘to take over, inherit’: Jer 32:7 (39:7<sup><small>LXX</small></sup>);
 * πρεσβύτερος, ‘older of age’: Jer 32:8 (39:8<sup><small>LXX</small></sup>).
@@ -98,7 +103,7 @@ been reconstructed using a parallel text 4Q506 124:4
 <b>b. Peshitta (Pesh):</b>
 
 * ܘܠܐ\ܘܠܝ
-(<i>wlʾ/ wly</i>), ‘(it is) fitting’:[^3] Jer 32:8;
+(<i>wlʾ/ wly</i>), ‘(it is) fitting’:<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> Jer 32:8;
 * <span dir="rtl">ܝܪܬܘܬܐ</span>
 (<i>yārtūṯā</i>), ‘inheritance, heirship’: Jer 32:7; Ruth 4:6, 7;
 * <span dir="rtl">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’: 
@@ -112,7 +117,7 @@ Lev 25:24, 26, 29 (2x), 31, 32, 48, 51, 52; Isa 63:4;
 <b>c. Targum (Tg: O/N/PsJ/J/K):</b>
 
 * אחסנתא,
-‘property, inheritance’:[^4] Jer 32:7<sup><small>J</small></sup> ,8<sup><small>J</small></sup>; Ruth 4:6<sup><small>K</small></sup>;
+‘property, inheritance’:<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> Jer 32:7<sup><small>J</small></sup> ,8<sup><small>J</small></sup>; Ruth 4:6<sup><small>K</small></sup>;
 * פורקן,
 ‘redemption (money)’: Lev 25:24<sup><small>O,PsJ</small></sup>, 26<sup><small>O,PsJ</small></sup>, 29 (2x)<sup><small>O,PsJ</small></sup>, 31<sup><small>O,PsJ</small></sup>, 32<sup><small>O,PsJ</small></sup>, 48<sup><small>O,PsJ</small></sup>, 51<sup><small>O,PsJ</small></sup>, 52<sup><small>O,PsJ</small></sup>;
 * פרקן,
@@ -127,7 +132,7 @@ Lev 25:24, 26, 29 (2x), 31, 32, 48, 51, 52; Isa 63:4;
 
 <b>d. Vulgate (Vg):</b>
 
-* <i>licentia redimendi</i>, ‘freedom to redeem’:[^5] Lev 25:29;
+* <i>licentia redimendi</i>, ‘freedom to redeem’:<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> Lev 25:29;
 * <i>possum redimi</i>, ‘to have right to redeem’: Lev 25:32, 48;
 * <i>pretium</i>, ‘value, price’: Lev 25:51;
 * <i>pretium ad redimendum</i>, ‘price to redeem’: Lev 25:26;

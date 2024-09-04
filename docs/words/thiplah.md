@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1TPLHin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=תְּפִלָּה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># תִּפְלָה <i>tiplāh</i> – senselessness
 
@@ -25,7 +30,7 @@ attestations of <span dir="rtl">תפלה</span> in the Qumran texts relate to  <
 ### Text Doubtful:
 
 <b>B.1</b>  In Job 24:12 the Pesh presupposes a <i>Vorlage</i> <span dir="rtl">תְּפִלָּה</span> (so also two Hebrew MSS: cf. BHS; Pope 1973:178). 
-For many scholars[^1] this is the correct reading: ‘God does not hear their prayer’. <span dir="rtl">תְּפִלָּה</span> is, however, clearly a <i>lectio facilior</i>: <span dir="rtl">תִּפְלָה</span>,
+For many scholars<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> this is the correct reading: ‘God does not hear their prayer’. <span dir="rtl">תְּפִלָּה</span> is, however, clearly a <i>lectio facilior</i>: <span dir="rtl">תִּפְלָה</span>,
 which is plausible in its context (Marböck 1995:730), is furthermore confirmed by Theodotion (ἀφροσύνη), Symmachus (μωρία) and, indirectly, by
 Tg <span dir="rtl">חובא</span> (which excludes <span dir="rtl">תְּפִלָּה</span>; see below <a href="#AVfTA3">Ancient Versions: Targum A.3</a>).
 
@@ -40,7 +45,7 @@ of ‘protest’ (cf. Driver and Gray 1921:10). The reading <span dir="rtl">תּ
 <span id="DFL">
 ### Distribution by Functional Languages</span>
 
-Biblical Hebrew:[^2] 
+Biblical Hebrew:<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> 
 
 * EBH2 1 (Jer 23:13)
 * LBH1 1 (Job 1:22)
@@ -53,7 +58,7 @@ Biblical Hebrew:[^2]
 ## 1. Root and Comparative Material
 
 
-<b>A.1</b>  <span dir="rtl">תִּפְלָה</span> is connected with a root <span dir="rtl">תפל</span> I which is also represented in the HB by the adjective <span dir="rtl">תָּפֵל</span>, ‘tasteless, unseasoned’ (Job 6.6; Lam 2:14). <span dir="rtl">תפל</span> in Ezek 13:10, 11, 14, 15; 22:28 is considered by dictionaries and commentaries as a variant of <span dir="rtl">טפל</span>, ‘to smear, plaster’;[^3] Propp (1990) holds, on the other hand, that it should be connected with <span dir="rtl">תפל</span> I (there would then be a single root; see also Marböck 1995:728). Considering that <span dir="rtl">תפל</span> is also associated with false prophecy in Jer 23:13 and Lam 2:14, Propp concludes that ‘Ezekiel uses <span dir="rtl">תָּפֵל</span> in the
+<b>A.1</b>  <span dir="rtl">תִּפְלָה</span> is connected with a root <span dir="rtl">תפל</span> I which is also represented in the HB by the adjective <span dir="rtl">תָּפֵל</span>, ‘tasteless, unseasoned’ (Job 6.6; Lam 2:14). <span dir="rtl">תפל</span> in Ezek 13:10, 11, 14, 15; 22:28 is considered by dictionaries and commentaries as a variant of <span dir="rtl">טפל</span>, ‘to smear, plaster’;<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> Propp (1990) holds, on the other hand, that it should be connected with <span dir="rtl">תפל</span> I (there would then be a single root; see also Marböck 1995:728). Considering that <span dir="rtl">תפל</span> is also associated with false prophecy in Jer 23:13 and Lam 2:14, Propp concludes that ‘Ezekiel uses <span dir="rtl">תָּפֵל</span> in the
 sense “vanity, folly” and puns with <span dir="rtl">טפל</span> “to plaster”’ (1990:408). ‘If the root <span dir="rtl">תפל</span> was commonly applied to false prophecy in the sixth century, or if Ezekiel was familiar with Jeremiah 23, he might have realized that the assonance of <span dir="rtl">תפל</span> and <span dir="rtl">טפל</span> could be exploited in paranomastic
 metaphor’ (Propp 1990:407). The cultural association between plaster and mortar on the one hand and hypocrisy on the other, attested by various biblical
 passages (see Ps 119:69; Job 13:4; 14:17) would have favoured the emergence of this rhetorical figure in Ezekiel.  
@@ -237,8 +242,8 @@ ascribed to an intentional intertextual echo of the statements in Job 24:12 (see
 
 ## 6. Exegesis
 
-<b>A.1</b>  <span dir="rtl">תִּפְלָה</span> derives from the adjective <span dir="rtl">תפל</span> ‘insipid’: it indicates therefore the lack of salt. This denotation can also be understood in a metaphorical sense to indicate the uselessness of a given action (see Lam 2:14, in parallelism with <span dir="rtl">שָׁוְא</span>). In line with a semantic development common to other languages (cf. e.g. Italian ‘insulso’ or Tuscan sciocco’), the lack of salt is projected onto the mental and cognitive plane, indicating the lack of rationality and sound sense.[^4] That <span dir="rtl">תִּפְלָה</span> indicates essentially a lack of intellectual discrimination had already been grasped by the LXX (McKane 1986:573; Marböck 1995:730), which has ἀφροσύνη in Job 1:22.[^5] On the other hand the primary meaning ‘lack of salt’ is reflected in αʹ at Jer 23:13 (ἄναλος), while elsewhere the translations interpret the substantive in a metaphorical sense on the
-moral or religious plane.[^6]
+<b>A.1</b>  <span dir="rtl">תִּפְלָה</span> derives from the adjective <span dir="rtl">תפל</span> ‘insipid’: it indicates therefore the lack of salt. This denotation can also be understood in a metaphorical sense to indicate the uselessness of a given action (see Lam 2:14, in parallelism with <span dir="rtl">שָׁוְא</span>). In line with a semantic development common to other languages (cf. e.g. Italian ‘insulso’ or Tuscan sciocco’), the lack of salt is projected onto the mental and cognitive plane, indicating the lack of rationality and sound sense.<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> That <span dir="rtl">תִּפְלָה</span> indicates essentially a lack of intellectual discrimination had already been grasped by the LXX (McKane 1986:573; Marböck 1995:730), which has ἀφροσύνη in Job 1:22.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> On the other hand the primary meaning ‘lack of salt’ is reflected in αʹ at Jer 23:13 (ἄναλος), while elsewhere the translations interpret the substantive in a metaphorical sense on the
+moral or religious plane.<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup>
 That it is a matter of a semantic development by means of synaesthesia (Kedar-Kopfstein 1988:54) can be confirmed by the parallel process in the antonym <span dir="rtl">טַעַם</span>, ‘taste’ > ‘reason’: the connection between the two lexemes had already been noticed by the medieval Jewish commentators Rashi and Ibn Ezra.  Among the dictionaries, Schökel is the only one to grasp this interpretation of the meaning: ‘insipidez, tonteria, desatino’ (<i>DBHE</i>, 804).
 
 <b>A.2</b>  The lexeme <span dir="rtl">תִּפְלָה</span>, ‘senselessness, irrationality’, is probably a
@@ -275,7 +280,7 @@ or Driver (Driver and Gray 1921:11), who on Job 1:22 comments:
 > to ascribe <span dir="rtl">תפלה</span> to
 Yahweh should imply regarding him as having lost the moral savour or quality which had been characteristic of him (…) similarly in Jer., Yahweh sees in the prophets  <span dir="rtl">תפלה</span>, or moral deterioration. 
 
-In regard to the Greek ἀφροσύνη in Jer 23:13 and Lam 2:14 it is for him a case of ‘a tolerable attempt to reproduce the transferred moral sense of the word’. Many of the translations offered by the commentaries and the dictionaries lie on this line of interpretation.[^7] 
+In regard to the Greek ἀφροσύνη in Jer 23:13 and Lam 2:14 it is for him a case of ‘a tolerable attempt to reproduce the transferred moral sense of the word’. Many of the translations offered by the commentaries and the dictionaries lie on this line of interpretation.<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup> 
 
 <b>B.2</b>  In Job 1:22 <span dir="rtl">תִּפְלָה</span> is interpreted as ‘indignity, insult’ (Dahood) or ‘spittle, reproach’ (Tur-Sinai), on the basis of the connection with the Arab. <i>tafala</i>, ‘to spit’, and <i>tifl</i>, ‘spittle’ (Michel 1987: ad loc.; cf. Pope 1973:17; Marböck 1995:730). The expression <span dir="rtl">נָתַן תִּפְלָה לְ</span> is hence considered as the opposite of <span dir="rtl">נתן כָּבוֹד לְ</span> (so expressly Pope 1973:17). The existence of various idiomatic expressions constructed on the model <span dir="rtl">נתן</span> + substantive + <span dir="rtl">לְ</span> + <span dir="rtl">יהוה/אֱלֹהִים</span> (see 
 <span dir="rtl">נָתַן כָּבוֹד לְ</span>, 

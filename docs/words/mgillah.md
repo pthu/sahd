@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=2MGLHn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=מְגִלָּה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># מְגִלָּה <i>m<small><sup>e</sup></small>gillāh</i> – scroll
 
@@ -32,7 +37,7 @@ and Ethiopic. The etymology of <span dir="rtl">מְגִלָּה</span> is clear:
 
 <b>A.2</b> <i>Loanword</i>: According to Hurvitz (1996), the Hebrew noun <span dir="rtl">מְגִלָּה</span> is a late pre-exilic loan from Aramaic, but in view of its possible attestation in Phoenician this is an unnecessary assumption. For the sense development, Klein (<i>CEDHL</i>, 315) points to Latin <i>volumen</i>, ‘roll, book’, from <i>volvere</i>, ‘to roll’. 
 
-<b>A.3</b> <i>Akkadian</i>: <i>magallatu</i>, ‘parchment scroll’, is found in Late Babylonian and is undoubtedly a loanword from Aramaic.[^1] 
+<b>A.3</b> <i>Akkadian</i>: <i>magallatu</i>, ‘parchment scroll’, is found in Late Babylonian and is undoubtedly a loanword from Aramaic.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> 
 
 <b>A.4</b> <i>Phoenician</i>: Arslan Tash 2 (7th cent. BCE) ends with the following words: <i>mnty kmglt</i> (rev. 7). The words were first interpreted as a short colophon meaning ‘my/his spell is in agreement with the scroll’ (Caquot 1971:405-06). However, the interpretation of <i>mglt</i> as ‘the scroll(s)’ is disputed (<i>DNWSI</i>, 593). 
 
@@ -40,9 +45,9 @@ and Ethiopic. The etymology of <span dir="rtl">מְגִלָּה</span> is clear:
 
 <b>A.6</b> <i>Postbiblical Hebrew</i>: The noun <span dir="rtl">מְגִלָּה</span> is attested frequently in PBHeb; see <a href="#Exe-litA8">Exegesis: Textual Evidence A.8</a>.
 
-<b>A.7</b> <i>Jewish Aramaic</i>: <span dir="rtl">מְגִילְּתָא</span>, <span dir="rtl">מְגַלְּתָא</span>, ‘scroll’;[^2] cf. <a href="#AVTg">Ancient Versions: Targum</a>, and see also Aram. <span dir="rtl">מגלה</span> in Ezra 6:2 and 4Q550 fr1:5.
+<b>A.7</b> <i>Jewish Aramaic</i>: <span dir="rtl">מְגִילְּתָא</span>, <span dir="rtl">מְגַלְּתָא</span>, ‘scroll’;<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> cf. <a href="#AVTg">Ancient Versions: Targum</a>, and see also Aram. <span dir="rtl">מגלה</span> in Ezra 6:2 and 4Q550 fr1:5.
 
-<b>A.8</b> <i>Syriac</i>: For Syriac <span dir="rtl">ܡܓܠܐ</span> (<i>mgallā</i>) and <span dir="rtl">ܡܓܠܬܐ</span> (<i>mgalṯā</i>), ‘scroll’;[^3]
+<b>A.8</b> <i>Syriac</i>: For Syriac <span dir="rtl">ܡܓܠܐ</span> (<i>mgallā</i>) and <span dir="rtl">ܡܓܠܬܐ</span> (<i>mgalṯā</i>), ‘scroll’;<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>
 see <a href="#AVPesh">Ancient Versions: Peshitta</a>.
 
 <b>A.9</b> <i>Mandaic</i>: <i>magalta</i> ‘scroll’ (<i>MD</i>, 238). 
@@ -90,18 +95,18 @@ see <a href="#AVPesh">Ancient Versions: Peshitta</a>.
 
 <b>a. Septuagint (LXX)</b>: 
 
-* δρέπανον,  ‘sickle’:[^4] Zech 5:1, 2;
-* κεφαλὶς, ‘little head’ (dim. of κεφαλή),[^7] ‘rounded top end, scroll’:[^8] Ezek 2:9; 3:1, 2, 3; Ps 40:8 (LXX 39:8); Ezra 6:2;
-* χάρτης, ‘papyrus roll’:[^5] Jer 36:23 (LXX 43:23);
-* χαρτίον, ‘papyrus roll’ (dim. of χάρτης):[^6] Jer 36:2, 4, 6, 14<small><sup>1,2</sup></small>, 20, 21, 25, 27, 28<small><sup>1,2</sup></small>, 29, 32 (LXX 43:2, 4, etc.).
+* δρέπανον,  ‘sickle’:<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> Zech 5:1, 2;
+* κεφαλὶς, ‘little head’ (dim. of κεφαλή),<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup> ‘rounded top end, scroll’:<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> Ezek 2:9; 3:1, 2, 3; Ps 40:8 (LXX 39:8); Ezra 6:2;
+* χάρτης, ‘papyrus roll’:<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> Jer 36:23 (LXX 43:23);
+* χαρτίον, ‘papyrus roll’ (dim. of χάρτης):<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup> Jer 36:2, 4, 6, 14<small><sup>1,2</sup></small>, 20, 21, 25, 27, 28<small><sup>1,2</sup></small>, 29, 32 (LXX 43:2, 4, etc.).
 
 
 <b><span id="AVPesh">b. Peshitta (Pesh)</span></b>: 
 
-* <span dir="rtl">ܟܪܟܐ</span> (<i>kerkā</i>), ‘book, volume, tome’:[^9] Ezek 2:9; 3:1, 2, 3;
+* <span dir="rtl">ܟܪܟܐ</span> (<i>kerkā</i>), ‘book, volume, tome’:<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> Ezek 2:9; 3:1, 2, 3;
 * <span dir="rtl">ܡܓܠܬܐ</span> (<i>mgalṯā</i>), ‘scroll’:  Jer 36:2, 4, 6, 14<small><sup>1,2</sup></small></small>, 20, 21, 23, 25, 27, 28<small><sup>1,2</sup></small></small>, 29, 32; Zech 5:1, 2; Ezra 6:2 
 (cf. Syriac under <a href="#RCM">Root and Comparative Material</a>);
-* <span dir="rtl">ܪܝܫܐ</span> (<i>rīšā</i>), ‘head, top’:[^10] Ps 40:8, with 
+* <span dir="rtl">ܪܝܫܐ</span> (<i>rīšā</i>), ‘head, top’:<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup> Ps 40:8, with 
 <span dir="rtl">ܒܪܝܫ ܟܬ̈ܒܐ</span>, ‘in the head of the books’, as the translation of 
 <span dir="rtl">בִּמְגִלַּת סֵפֶר</span>.
 
@@ -115,9 +120,9 @@ Cf. Jewish Aramaic under <a href="#RCM">Root and Comparative Material</a>.
 <b>d. Vulgate (Vg)</b>:
 
 * <i>caput</i>, ‘head’: Ps 40:8 (Vg<small><sup>PsG</sup></small></small>), with <i>in capite libri</i>, ‘in the head of the book’, as the translation of <span dir="rtl">בִּמְגִלַּת סֵפֶר</span>;
-* <i>involutus</i>, ‘rolled up’ (from <i>involvere</i>, ‘to roll’):[^11] Ezek 2:9;
-* <i>liber</i>, ‘a book written for publication, volume, roll’:[^12] Jer 36:25;
-* <i>volumen</i>, ‘a roll of papyrus forming a book or part of a book, a roll of writing, a roll, book, volume’:[^13] Jer 36:2, 4, 6, 14<small><sup>1,2</sup></small></small>, 20, 21, 23, 27, 28<small><sup>1,2</sup></small>, 29, 32; Ezek 3:1, 2, 3; Zech 5:1, 2; Ps 40:8 (Vg<small><sup>PsH</sup></small>); Ezra 6:2.
+* <i>involutus</i>, ‘rolled up’ (from <i>involvere</i>, ‘to roll’):<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup> Ezek 2:9;
+* <i>liber</i>, ‘a book written for publication, volume, roll’:<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup> Jer 36:25;
+* <i>volumen</i>, ‘a roll of papyrus forming a book or part of a book, a roll of writing, a roll, book, volume’:<sup id="fnref:13"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:13')">13</a></sup> Jer 36:2, 4, 6, 14<small><sup>1,2</sup></small></small>, 20, 21, 23, 27, 28<small><sup>1,2</sup></small>, 29, 32; Ezek 3:1, 2, 3; Zech 5:1, 2; Ps 40:8 (Vg<small><sup>PsH</sup></small>); Ezra 6:2.
 
 <b>A.1</b> In Jeremiah, LXX translates <span dir="rtl">מְגִלַּת סֵפֶר</span> as χαρτίον βιβλίου, ‘a small roll of a book’ (36:2 = LXX 43:2), 
 but <span dir="rtl">מְגִלָּה</span> alone only by χαρτίον  (36:6 = LXX 43:6). 

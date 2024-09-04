@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1TBWNHn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=תְּבוּנָה&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># תְּבוּנָה <i>t<small><sup>e</sup></small>būnāh</i> – understanding
 
@@ -61,7 +66,7 @@ which is cancelled and corrected with <span dir="rtl">תבונה</span> (which i
 <b>B.1</b>  The form <span dir="rtl">תְבוּנָם</span> in Hos 13:2 seems to have been variously interpreted by the translations. The LXX (κατ’εἰκόνα), followed by Pesh
 <span dir="rtl">ܒܕܡܘܬܗܘܢ݂</span>
 (<i>bdmwthwn</i>) and Vg (<i>secundum imaginem</i>), seem to have had a different <i>Vorlage</i> in front of them: <span dir="rtl">כְּתַבְנִית</span>, ‘according to the image (of the idols)’. The same is true for Tg<small><sup>J</sup></small> (<span dir="rtl">כדמותהון</span>, 
-‘according to their own image’).[^1] The Babylonian Talmud, San. 63b, also interprets the text in the same way. Harper (1905:395) accepts the reading
+‘according to their own image’).<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> The Babylonian Talmud, San. 63b, also interprets the text in the same way. Harper (1905:395) accepts the reading
 <span dir="rtl">תְּבוּנָה</span>, only with a sarcastic meaning. The MT, nevertheless, makes perfect sense, especially taking account of the fact that a northern
 dialectal variant of <span dir="rtl">תְּבוּנָה</span> is involved, in the sense of ‘ingenuity, genius in handicraft and art’ (Sciumbata 1996-97:163 and see above). The verse would then say: ‘And now they continue to sin, with their silver they make themselves molten images according to their ingenuity’. The reading of the Ancient Versions can be interpreted as a simplification
 of a <i>lectio difficilior</i>. 
@@ -73,12 +78,12 @@ In Job 26:12 K <span dir="rtl">תְובֻנָת֗וֹ</span> has been corrected 
 
 ### Orthographic Variants 
 
-In Job 32:11 the orthographic omission of the <span dir="rtl">ו</span> for the plural ending is noteworthy: in the other instances it is always present.[^2]
+In Job 32:11 the orthographic omission of the <span dir="rtl">ו</span> for the plural ending is noteworthy: in the other instances it is always present.<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup>
 
 ### Distribution by Functional Languages 
 
 
-a) Biblical Hebrew:[^3]
+a) Biblical Hebrew:<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>
 
 * ABH: 1x, Deut 32:28.
 * EBH1: 5x, Exod 31:3; 35:31; 36:1; 1 Kgs 5:9; 7:14.
@@ -150,7 +155,7 @@ notice’; b) Amharic: <i>bäyyänä</i> ‘to decide, decree’; c) Tigre: <i>b
 
 <b>A.1</b>  The same verbal substantive with preformative <i>t</i> can be associated,
 according to the meaning, with various <i>binyanim</i> (Joüon-Muraoka, <i>GBH</i>, §88Lo): <span dir="rtl">תְּבוּנָה</span>
-seems to derive from <i>byn</i> in <i>hiph</i>. on the pattern <i>taqtul</i>.[^4] 
+seems to derive from <i>byn</i> in <i>hiph</i>. on the pattern <i>taqtul</i>.<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> 
 The <i>u</i> of <span dir="rtl">תְּבוּנָה</span> and analogous nouns seems to derive from a closed
 <i>o</i>, and hence from a primitive <i>a</i> (Joüon-Muraoka, <i>GBH</i>, §§29bN; 88Ls).
 
@@ -215,7 +220,7 @@ The lexeme <span dir="rtl">תְּבוּנָה</span>, ‘intelligence’, can be
 
 
 <b>A.7</b>  In relation to the substantive <span dir="rtl">תְּבוּנָה</span>, ‘ingenuity’, <span dir="rtl">מלא</span> <i>piel</i>  also occurs in Exod 31:3, with subject YHWH and <span dir="rtl">תְּבוּנָה</span> in a prepositional phrase of topic; 
-<i>niph</i> 1 Kgs 7:14 with <span dir="rtl">תְּבוּנָה</span> as accusative of material.[^5]
+<i>niph</i> 1 Kgs 7:14 with <span dir="rtl">תְּבוּנָה</span> as accusative of material.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup>
 
 <b>A.8</b>  In Exod 31:3-4 and 35:31-32 the aim of 
 <span dir="rtl">חָכְמָה</span>, <span dir="rtl">תְּבוּנָה</span>, and <span dir="rtl">דַּעַת</span>, ‘skill,
@@ -388,7 +393,7 @@ the word of the teacher (‘incline your ear to my intelligence’; Sciumbata 19
  <span dir="rtl">לֵב</span>.
 
 
-<b>A.10</b> ἀνὴρ φρόνιμος[^6] translates the syntagm 
+<b>A.10</b> ἀνὴρ φρόνιμος<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup> translates the syntagm 
 <span dir="rtl">אִישׁ תְּבוּנָה/תְּבוּנוֹת</span>.
 
 <b>A.11</b> As can be seen, <span dir="rtl">תְּבוּנָה</span> is rendered in the LXX by at least nine different substantives (for the cases of textual uncertainty see below), the larger part of which are used in their turn to translate other terms from the lexical field of knowledge or from the wisdom lexicon. However, the most frequent translation is by σύνεσις and φρόνησις, the only words that are used in the versions of Aquila, Theodotion and Symmachus (the last with two exceptions).
@@ -592,7 +597,7 @@ distinction), which, even when it neutralises some of its features by indicating
 For other lexemes <span dir="rtl">תְּבוּנָה</span> which belong to specialised languages (sub-systems), see below <a href="#Ex">Exegesis</a>.
 
 <span id="LSFA2"><b> 
-A.2</b></span> In the research developed by Sciumbata 1996-97 the diachronic vitality of <span dir="rtl">תְּבוּנָה</span> is also delineated, on the basis of the following considerations:[^7]   
+A.2</b></span> In the research developed by Sciumbata 1996-97 the diachronic vitality of <span dir="rtl">תְּבוּנָה</span> is also delineated, on the basis of the following considerations:<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup>   
 a) <span dir="rtl">תְּבוּנָה</span> has a major distribution in EBH (36 occurrences). Here it appears already in ABH and in the poetic as well as the narrative layers of the language. In LBH there are five attestations, poetic or
 poetic-sapiential. For the rest, the relatively high frequency in Ben Sira (8x) is counter-balanced by the almost total absence from Qumran Hebrew (1x).  
 b) In many post-exilic texts the meanings and the constructions of <span dir="rtl">תְּבוּנָה</span> are inherited by <span dir="rtl">בִּינָה</span> and <span dir="rtl">שֶׂכֶל</span>, which occur in the contexts
@@ -634,8 +639,8 @@ the substantives for ‘knowledge’, are the following (Sciumbata
 dialectal variant of <span dir="rtl">תְּבוּנָה</span>.
 
 1. <span dir="rtl">תְּבוּנָה</span><small><sub>1</sub></small>, ‘intelligence’ (intellectual faculty whose function is to allow one to understand). Occurrences: Deut 32:28; 1 Kgs 5:9; Isa 44:19; Obad 1:7, 8; Prov 2:6; 10:23; 11:12; 14:29; 15:21; 17:27; 18:2; 20:5; 21:30; Job 12:13; Sir 4:24<small><sup>A</sup></small>; 44:3<small><sup>B,Mas</sup></small>. The clear-cut distinction of meaning from <span dir="rtl">בִּינָה</span> should be noted, to understand the reasons for lexical choices made by the authors in the various contexts. Thus, in Deut 32:28 (<span dir="rtl">כִּי־גוֹי אֹבַד ‏עֵצוֹת הֵמָּה‏ וְאֵין בָּהֶם תְּבוּנָה</span>, ‘since they are a nation which has lost its sense, and there is not in them any intelligence’) it is not a matter of ‘discernment’ (NJPS, which also translates in this way elsewhere), namely a faculty of perception or distinction, but of the faculty of understanding (what is to be done: cf. also Zorell 887, whose definitions ‘animadversio, attentio... habitus seu virtus animadvertendi animadvertenda’ seem to be misguided by the etymological lens with which the meaning is interpreted).
-2. <span dir="rtl">תְּבוּנָה</span><small><sub>2</sub></small>, ‘ingenuity, genius’ (mental, creative faculty in handicraft and art: we are dealing with a usage of the specialized language of the technical artisan sector). Occurrences: Exod 31:3; 35:31; 36:1; 1 Kgs 7:14; Isa 40:28; Jer 10:12; Ezek 28:4; Pss 136:5; 147:5; Prov 3:19; Job 26:12; 11Q5 26:14.  The artisan-technical linguistic context which is typical of this lexeme is clear in the narrative occurrences in Exodus and Kings. The poetic language of Prophets, Psalms and Proverbs uses it in creation contexts, making a parallel between the artistic genius or cleverness of man and that of God.[^8] The creation context becomes topical for <span dir="rtl">תְּבוּנָה</span>, to such an extent that it is the principal cause of its recovery in late Hebrew, down to the Qumran texts. In Hos 13:2  the lexeme appears in the masculine <span dir="rtl">תְּבוּן</span>. 
-This technical meaning, even if not recognised as specifically sector-related, is noted by all the lexica (and by the modern translations), though not always in its precise nuance. Schökel speaks of ‘destreza, habilidad, maestría, pericia’ (<i>DBHE</i>, 792); Ringgren 1973:628, ‘Geschicklichkeit im Beruf’ (linking to it Hos 13:2 as well); <i>HAL</i>, 1548, ‘Geschick’.[^9]  An exception is represented by Benno Jacob (1992:842): ‘Bezalel possessed the gift of orignality, a divine inspiration here defined as the ability to visualise and execute’.   
+2. <span dir="rtl">תְּבוּנָה</span><small><sub>2</sub></small>, ‘ingenuity, genius’ (mental, creative faculty in handicraft and art: we are dealing with a usage of the specialized language of the technical artisan sector). Occurrences: Exod 31:3; 35:31; 36:1; 1 Kgs 7:14; Isa 40:28; Jer 10:12; Ezek 28:4; Pss 136:5; 147:5; Prov 3:19; Job 26:12; 11Q5 26:14.  The artisan-technical linguistic context which is typical of this lexeme is clear in the narrative occurrences in Exodus and Kings. The poetic language of Prophets, Psalms and Proverbs uses it in creation contexts, making a parallel between the artistic genius or cleverness of man and that of God.<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> The creation context becomes topical for <span dir="rtl">תְּבוּנָה</span>, to such an extent that it is the principal cause of its recovery in late Hebrew, down to the Qumran texts. In Hos 13:2  the lexeme appears in the masculine <span dir="rtl">תְּבוּן</span>. 
+This technical meaning, even if not recognised as specifically sector-related, is noted by all the lexica (and by the modern translations), though not always in its precise nuance. Schökel speaks of ‘destreza, habilidad, maestría, pericia’ (<i>DBHE</i>, 792); Ringgren 1973:628, ‘Geschicklichkeit im Beruf’ (linking to it Hos 13:2 as well); <i>HAL</i>, 1548, ‘Geschick’.<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup>  An exception is represented by Benno Jacob (1992:842): ‘Bezalel possessed the gift of orignality, a divine inspiration here defined as the ability to visualise and execute’.   
 The professional technicalisation of <span dir="rtl">תְּבוּנָה</span> (like other terms too of
 the lexicon of ‘knowledge’) occurs also in other contexts: song in Chronicles, medicine in Ben Sira.
 3. <span dir="rtl">תְּבוּנָה</span><small><sub>3</sub></small>, ‘intelligence’ (lexeme of the didactic-wisdom jargon, designating the corpus of instructions and values taught by that tradition). Occurrences: Prov 2:2; 5:1; Sir 14:20<small><sup>A</sup></small>, 21<small><sup>A</sup></small>; 15:3<small><sup>A,B</sup></small>; 15:15<small><sup>A</sup></small>; 45:5<small><sup>B</sup></small>. The reference is to the teachings and the words of the teacher, mostly of an ethical-behavioural kind. In the jargon of the traditionalist sapiential strand many other lexemes of the lexical field of ‘knowledge’ undergo this treatment (the same applies to <span dir="rtl">תְּבוּנָה</span><small><sub>4</sub></small> and <span dir="rtl">תְּבוּנָה</span><small><sub>5</sub></small>), obliterating the semantic peculiarity of each one: the superimposed technical sense is prevalent. The translation by <span dir="rtl">ביונא</span> in the Targumim on the wisdom texts, a term which can be considered as a loan from the Hebrew (see above <a href="#AVfTA4">Ancient Versions: Targum A.4</a>)

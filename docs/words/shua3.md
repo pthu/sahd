@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1CWOin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># שׁוּעַ <i>šū<small><sup>a</sup></small>ʿ</i> – cry for help(?)
 
@@ -41,7 +46,7 @@ Qere/Ketiv: none.
 
 ## 2. Formal Characteristics
 
-<b>A.1</b>  Probably of the <i>qutl</i> pattern (BL, 461 §61.l’’), if it is derived from the triliteral root  <span dir="rtl">שׁוע</span> (see above <a href="#RCMA2">Root and Comparative Material A.2</a>).[^1] 
+<b>A.1</b>  Probably of the <i>qutl</i> pattern (BL, 461 §61.l’’), if it is derived from the triliteral root  <span dir="rtl">שׁוע</span> (see above <a href="#RCMA2">Root and Comparative Material A.2</a>).<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> 
 Such a derivation is favoured by Wildberger (1978:807, 818) for <span dir="rtl">שׁוֹעַ</span> in Isa 22:5, in preference to the alternative view that it means the Sutu (as in Ezek 23:23), which would require the emendation of  <span dir="rtl">קִר</span> in the previous stich to  <span dir="rtl">קוֹעַ</span>. If  <span dir="rtl">שׁוּעַ</span> is related to the verb <span dir="rtl">שָׁוַע</span>, the loss of the consonantal <i>waw</i> may be due to the preceding <i>u</i> vowel (Joüon-Muraoka, <i>GBH</i>, §26b). This does not occur with the noun  <span dir="rtl">שַׁעֲוָה</span>, ‘a cry for help’,
 perhaps to distinguish it from  <span dir="rtl">שׁוּעַ</span> (cf. Joüon-Muraoka, <i>GBH</i>, §26c, n. 2), but more likely because there is no original <i>u</i> vowel in that word, which is of the <i>qitlat</i> pattern.
 
@@ -93,7 +98,7 @@ in Job 36:19. The latter will be related to Vg’s rendering of <span dir="rtl">
 <span id="ExA1"> 
 <b>A.1</b></span> Job 30:24 belongs to Job’s <i>apologia</i> (ch. 29-31) in which he presents himself as an impeccably kind and righteous man. He particularly emphasises his generosity to the poor (29:12-17; 31:13-22). The MT of 30:24 as it stands is ‘unintelligible’ (Driver and Gray 1921, 1:259)
 and does not include any word for a poor man, but there is one in the following verse. The varied emendations and interpretations proposed show that there can be no certainty here (cf. ibid. 2:219). But the suffix of  <span dir="rtl">בְּפִידוֹ</span> needs an antecedent and there is none in the present wording of the earlier part of the verse. The best solution (better than the popular  <span dir="rtl">טֹבֵעַ</span>) is to read <span dir="rtl">בְעָנִי</span>, ‘against an afflicted man’, for
-the unlikely <span dir="rtl">בְעִי</span>.[^2] The fem.pl.
+the unlikely <span dir="rtl">בְעִי</span>.<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> The fem.pl.
 suffix of <span dir="rtl">לָהֶן</span> can hardly be right, but in the palaeo-Hebrew script <i>mem</i> and <i>nun</i> could easily be confused. A form with a pl. suffix
 (<span dir="rtl">לָהֶם</span>) is unlikely: by itself <span dir="rtl">עָנִי</span> could be taken collectively, but  <span dir="rtl">בְּפִידוֹ</span> shows that it means a (typical) single individual. Habel (1985:417) follows Dhorme (1967) and more dubiously the free translation of LXX in reading <span dir="rtl">לִי</span>, which gives the literal translation ‘when in his distress there is a cry to me’, on the basis that <span dir="rtl">שׁוּעַ</span> here is related to <span dir="rtl">שָׁוַע</span>, as most commentators have thought. Perhaps better, and closer to MT, we propose to read  <span dir="rtl">לִמְשַׁוֵּעַ</span> for the last two words and translate ‘or in his distress to the one who cries out’, understanding the verb from the
 first half of the verse, with a variation in the preposition used after it. MT could have arisen on this view from a mistake in the word-division, leading to the change of  <span dir="rtl">לָם</span> to the more regular  <span dir="rtl">לָהֶם</span>, followed by the confusion of <i>mem</i> and <i>nun</i> posited above. The correctness of one of these solutions receives some support from 29:12, where  <span dir="rtl">עָנִי</span> and <span dir="rtl">מְשַׁוֵּעַ</span> occur adjacent to one another.

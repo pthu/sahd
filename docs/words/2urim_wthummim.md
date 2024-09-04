@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># אוּרִים וְתֻמִּים <i>ʾūrīm w<small><sup>e</sup></small>ṯummīm</i> – Urim and Thummim
 
@@ -53,7 +58,7 @@ And Saul said to YHWH, ‘God of Israel, give <i>perfection</i>.’
 And Jonathan and Saul were selected, but the people were cleared.
 </div>
 
-The expression <span dir="rtl">הָבָה תָמִים</span> may here mean ‘give a clear answer’.[^1] The consonantal text of MT is presupposed in Pesh, Vg and Tg<sup><small>J</small></sup>. In LXX, however, the text of the verse is more extensive, with a Latin translation of the text of LXX being transmitted in the Vetus Latina (VL) and part of the manuscripts of the Vulgate (Vg); see <a href="#AV">Ancient Versions</a>.
+The expression <span dir="rtl">הָבָה תָמִים</span> may here mean ‘give a clear answer’.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> The consonantal text of MT is presupposed in Pesh, Vg and Tg<sup><small>J</small></sup>. In LXX, however, the text of the verse is more extensive, with a Latin translation of the text of LXX being transmitted in the Vetus Latina (VL) and part of the manuscripts of the Vulgate (Vg); see <a href="#AV">Ancient Versions</a>.
 LXX has the following text in 1 Sam 14:41:
 
 <div style="padding-left: 44px; padding-right: 44px; text-indent: 0px;">
@@ -67,7 +72,7 @@ And Ionathan and Saoul were indicated by the lot, and the people were cleared. (
 
 In several other instances, the plural of Greek δῆλος, ‘clear one’, represents Hebrew <span dir="rtl">אורים</span> (see <a href="#AV">Ancient Versions</a>). 
 This raises the question of whether the Greek text was based on a different version of the Hebrew text including the word <span dir="rtl">אורים</span>.
-The word <span dir="rtl">תמים</span> is represented by ὁσιότητα, ‘holiness’, and seems to have been interpreted as an occurrence of the noun <span dir="rtl">תֻּמִּים</span>. If the Greek text was based on a Hebrew text, this Hebrew text can be reconstructed as follows (cf. 14:39):[^2]
+The word <span dir="rtl">תמים</span> is represented by ὁσιότητα, ‘holiness’, and seems to have been interpreted as an occurrence of the noun <span dir="rtl">תֻּמִּים</span>. If the Greek text was based on a Hebrew text, this Hebrew text can be reconstructed as follows (cf. 14:39):<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup>
 
 <div style="padding-left: 22px; padding-right: 44px; text-align: right; text-indent: 22px;">
 <span dir="rtl" lang="he">למה לא ענית את עבדך היום אם בי או ביונתן בני העון הזה יהוה אלהי ישראל הבה אורים ואם ישנו(?) בעמך ישראל הבה תמים
@@ -81,42 +86,42 @@ If this guilt is in me or in my son Jonathan, O YHWH God of Israel, give Urim, b
 
 Many scholars regard the shorter reading of MT as the result of <i>parablepsis</i>, due to the twofold occurrence of the word <span dir="rtl">ישראל</span>,
 which led to the omission of the text between <span dir="rtl">אל יהוה אלהי ישראל</span> 
-and <span dir="rtl">ישראל הבה תמים</span> and the skipping of one of the occurrences of <span dir="rtl">ישראל</span>.[^3] 
-Other scholars, however, still defend the priority of MT.[^4] It seems best to take both options into account.[^5] Actually, even if the more extensive reading of LXX is secondary, it may still be relevant for the interpretation of the Urim and Thummim (see <a href="#Exe">Exegesis</a>).
+and <span dir="rtl">ישראל הבה תמים</span> and the skipping of one of the occurrences of <span dir="rtl">ישראל</span>.<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> 
+Other scholars, however, still defend the priority of MT.<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> It seems best to take both options into account.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> Actually, even if the more extensive reading of LXX is secondary, it may still be relevant for the interpretation of the Urim and Thummim (see <a href="#Exe">Exegesis</a>).
 
  <b>A.3</b> 
 The Urim and the Thummim are attested in 4Q164 and 11Q19 (see <a href="#Exe">Exegesis</a>), but their occurrence is less certain in other, more fragmentary non-biblical texts from Qumran. For the quotation of Deut 33:8 in 4Q175 (4QTest), see the discussion of Deut 33:8 under <a href="#Exe">Exegesis</a>. 
 
 <b>A.4</b>
 According to Eliezer Sukenik’s early analyses, the Thanksgiving scroll (<i>Hodayot</i>, 1QHod<sup><small>a</small></sup>) contains three occurrences of the word <span dir="rtl">אורתום</span>, 
-with one of the occurrences partially restored.[^6]
+with one of the occurrences partially restored.<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup>
 The meaning of <span dir="rtl">אורתום</span> is uncertain, but already in his Hebrew <i>editio princeps</i>
 Sukenik suggested that it is the singular of <span dir="rtl">אורים ותמים</span>, 
-‘Urim and Thummim’.[^7]
+‘Urim and Thummim’.<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup>
 Sukenik’s interpretation was taken over by Dupont-Sommer (1952:74), who translated <span dir="rtl">אורתום</span> 
 as ‘Destiny’.
 Others, however, regard
 <span dir="rtl">אורתום</span> as a compound noun consisting of the elements
 <span dir="rtl">אוֹר</span>, ‘light’, 
 and <span dir="rtl">תֹּום</span>, ‘perfection’: 
-‘light of perfection’, or ‘perfect light’.[^8]
+‘light of perfection’, or ‘perfect light’.<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup>
 According to some more recent editions,
 the text reads <span dir="rtl">אורתים</span>, not <span dir="rtl">אורתום</span>,
 which renders a connection with the Urim and Thummim even less likely.
 In DJD 
 and the SBL edition of 1QHod<sup><small>a</small></sup>, 
-<span dir="rtl">אורתים</span> is interpreted as the dual of <span dir="rtl">אוֹרָה</span> and translated as ‘early light’.[^9] 
+<span dir="rtl">אורתים</span> is interpreted as the dual of <span dir="rtl">אוֹרָה</span> and translated as ‘early light’.<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> 
 
 <b>B.1</b>
-The proposal to emend the consonantal text of Hos 3:4 and 4:5 and to read forms of <span dir="rtl">תֻּמִּים</span> instead of <span dir="rtl">תְּרָפִים</span> (3:4) and <span dir="rtl">אִמֶּךָ</span> (4:5)[^10] is not supported by the oldest textual witnesses.
+The proposal to emend the consonantal text of Hos 3:4 and 4:5 and to read forms of <span dir="rtl">תֻּמִּים</span> instead of <span dir="rtl">תְּרָפִים</span> (3:4) and <span dir="rtl">אִמֶּךָ</span> (4:5)<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup> is not supported by the oldest textual witnesses.
 Furthermore, there is no reason to change the vocalisation of <span dir="rtl">תָּמִים</span> 
-in Amos 5:10 into <span dir="rtl">תֻּמִּים</span>.[^11] 
+in Amos 5:10 into <span dir="rtl">תֻּמִּים</span>.<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup> 
 It has been proposed to replace the vocalisation 
 of the enigmatic form <span dir="rtl">תּוֹמִיךְ</span> 
 (<i>hiph.</i> of unknown verb <span dir="rtl">ימך</span>?) in Ps 16:5 by <span dir="rtl">תּוּמֶיךָ</span>:
-<span dir="rtl">תּוּמֶיךָ גּוֹרָלִי</span>, ‘Your Thummim are my lot’.[^12] However, it is more convincing to interpret the form as part. m.sg. of <span dir="rtl">תמך</span>, ‘to take hold of’:
+<span dir="rtl">תּוּמֶיךָ גּוֹרָלִי</span>, ‘Your Thummim are my lot’.<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup> However, it is more convincing to interpret the form as part. m.sg. of <span dir="rtl">תמך</span>, ‘to take hold of’:
 <span dir="rtl">אַתָּה תּוֹמֵ(י)ךְ גּוֹרָלִי</span>,
-‘you hold my lot’.[^13]
+‘you hold my lot’.<sup id="fnref:13"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:13')">13</a></sup>
 
 ##<span id="RCM">1. Root and Comparative Material</span>
 
@@ -126,9 +131,9 @@ from √<span dir="rtl">אור</span>, ‘to be(come) light’,
 just like the nouns 
 <span dir="rtl">אוּר</span>, ‘fire’,
 and
-<span dir="rtl">אוֹר</span>, ‘light’,[^14]
+<span dir="rtl">אוֹר</span>, ‘light’,<sup id="fnref:14"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:14')">14</a></sup>
 although it is possible to interpret <span dir="rtl">אור</span> as 
-a denominative verb derived from <span dir="rtl">אוֹר</span>.[^15] 
+a denominative verb derived from <span dir="rtl">אוֹר</span>.<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup> 
 Part of the earliest translations already express a connection of <span dir="rtl">אוּרִים</span> with
 the verb <span dir="rtl">אור</span> or the nouns <span dir="rtl">אוֹר</span> and <span dir="rtl">אוּר</span> 
 (see <a href="#AV">Ancient Versions</a>). 
@@ -155,22 +160,22 @@ Urim and the Thummim’.
 <span id="ARR"><b>A.2</b></span>
 Julius Wellhausen proposed to derive <span dir="rtl">אוּרִים</span> from 
 √<span dir="rtl">ארר</span>, ‘to accurse’ (Wellhausen 1883:418-19 n. 1; cf. Van Dam 1997:95 n. 55). In the same context, he suggested that <span dir="rtl">תֻּמִּים</span> designates the contrasting aspect of the pair and connected this word with Arabic 
-<i>tamīma</i>, ‘amulet’ (see B.1 below). The derivation of <span dir="rtl">אוּרִים</span> from √<span dir="rtl">ארר</span> is mentioned in several dictionaries[^16] and is preferred in <i>DCH</i> viii, with <span dir="rtl">תֻּמִּים</span> translated as ‘acquitted’.[^17] For the form, see <a href="#FC">Formal Characteristics</a>.
+<i>tamīma</i>, ‘amulet’ (see B.1 below). The derivation of <span dir="rtl">אוּרִים</span> from √<span dir="rtl">ארר</span> is mentioned in several dictionaries<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup> and is preferred in <i>DCH</i> viii, with <span dir="rtl">תֻּמִּים</span> translated as ‘acquitted’.<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> For the form, see <a href="#FC">Formal Characteristics</a>.
 
 <span id="YRH"><b>A.3</b></span> With reference 
 to Grimme (1901), GB, 318, mentions <span dir="rtl">אוּרִים</span> in connection with the verbs 
 <span dir="rtl">ירה</span> I <i>qal</i>/<i>hiph.</i>, ‘to throw’, and <span dir="rtl">ירה</span> III <i>hiph.</i>, ‘to instruct’.
 
 <b>A.4</b> Hans Duhm (1926:50) interpreted <span dir="rtl">אוּרִים</span> as an ancient pass. part. form of <span dir="rtl">ארה</span> <i>qal</i>, ‘to pluck’:
-He supposed that the term <span dir="rtl">אוּרִים</span> denoted plucked off twigs that jumped out of the priest’s pouch. The derivation from <span dir="rtl">ארה</span> is mentioned as one of the options in KBL.[^18] 
+He supposed that the term <span dir="rtl">אוּרִים</span> denoted plucked off twigs that jumped out of the priest’s pouch. The derivation from <span dir="rtl">ארה</span> is mentioned as one of the options in KBL.<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup> 
 
 <span id="TMM"><b>A.5</b></span> <span dir="rtl">תֻּמִּים</span> is usually interpreted as the plural form of the noun <span dir="rtl">תֹּם</span>, ‘completion’, ‘perfection’ (cf. <a href="#FC">Formal Characteristics</a>). Like the adjectives <span dir="rtl">תָּם</span> and <span dir="rtl">תָּמִים</span> (‘perfect’, ‘blameless’), 
 the noun <span dir="rtl">תֹּם</span> is a derivative of √<span dir="rtl">תמם</span>, ‘to be(come) complete’. 
 The interpretation of <span dir="rtl">תֻּמִּים</span> 
-as the plural of <span dir="rtl">תֹּם</span> is found in most of the dictionaries,[^19] but <i>HALOT</i> 
-mentions as a second option that <span dir="rtl">תֻּמִּים</span> can be regarded as ‘an independent tantum pl.’.[^20] <i>DCH</i> refers to the option of translating <span dir="rtl">תֻּמִּים</span> by ‘acquitted’
+as the plural of <span dir="rtl">תֹּם</span> is found in most of the dictionaries,<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup> but <i>HALOT</i> 
+mentions as a second option that <span dir="rtl">תֻּמִּים</span> can be regarded as ‘an independent tantum pl.’.<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup> <i>DCH</i> refers to the option of translating <span dir="rtl">תֻּמִּים</span> by ‘acquitted’
 (also derived from the verb <span dir="rtl">תמם</span>), which becomes attractive if <span dir="rtl">אוּרִים</span> 
-is translated as ‘accursed’ (see A.2).[^21]
+is translated as ‘accursed’ (see A.2).<sup id="fnref:21"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:21')">21</a></sup>
 Part of the earliest translations already express a connection of <span dir="rtl">תֻּמִּים</span> with 
 the verb <span dir="rtl">תמם</span> and its derivatives
 (see <a href="#AV">Ancient Versions</a>). 
@@ -224,7 +229,7 @@ If <span dir="rtl">אוּרִים</span> is a derivative of the verb <span dir="
 the form may belong to the same category as 
 <span dir="rtl">תֹּם</span> (< <span dir="rtl">תמם</span>, plural <span dir="rtl">תֻּמִּים</span>), 
 <span dir="rtl">רֹב</span> (< <span dir="rtl">רבב</span>, plural \*<span dir="rtl">רֻבִּים</span>)
-and <span dir="rtl">עֹז</span> (<&nbsp;<span dir="rtl">עזז</span>, plural \*<span dir="rtl">עֻזִּים</span>).[^22]
+and <span dir="rtl">עֹז</span> (<&nbsp;<span dir="rtl">עזז</span>, plural \*<span dir="rtl">עֻזִּים</span>).<sup id="fnref:22"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:22')">22</a></sup>
 
 <b>A.3</b>
 <span dir="rtl">תֻּמִּים</span> is often interpreted as the plural of <span dir="rtl">תֹּם</span>, ‘completion, perfection’ (see <a href="#TMM">Root and Comparative Material A.5</a>).
@@ -235,7 +240,7 @@ and the doubling of the <i>mem</i>
 are preserved before 
 suffixes (<span dir="rtl">תֻּמִּי</span>, <span dir="rtl">תֻּמּוֹ</span>, <span dir="rtl">תֻּמָּם</span>, etc.).
 Nouns of the <i>qull/qutl</i> 
-type are ‘often used to form abstract forms’.[^23] 
+type are ‘often used to form abstract forms’.<sup id="fnref:23"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:23')">23</a></sup> 
 
 
 ##<span id="Syn">3. Syntagmatics</span>
@@ -295,30 +300,30 @@ Ezra 2:63/Neh 7:65.
 
 ##<span id="AV">4. Ancient Versions</span>
 
-<b>a. Septuagint (LXX) and other Greek translations (αʹ, σʹ, θʹ)</b>:[^24]
+<b>a. Septuagint (LXX) and other Greek translations (αʹ, σʹ, θʹ)</b>:<sup id="fnref:24"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:24')">24</a></sup>
 
 <span dir="rtl">אוּרִים</span> 
 
 * δῆλος, ‘obvious’ 
-(pl.):[^25] Num 27:21<sup><small>LXX</small></sup>; Deut 33:8<sup><small>LXX</small></sup> (order reversed); 1 Sam 28:6<sup><small>LXX,σʹ</small></sup>; cf. Sir 33:3 ἐρώτημα δήλων, ‘inquiry of the clear ones’ (Hebrew lost); also in 1 Sam 14:41<sup><small>LXX</small></sup>, δῆλος (pl.) may represent <span dir="rtl">אוּרִים</span>; see <a href="#1S14v41lxx">Introduction A.2</a>; 
+(pl.):<sup id="fnref:25"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:25')">25</a></sup> Num 27:21<sup><small>LXX</small></sup>; Deut 33:8<sup><small>LXX</small></sup> (order reversed); 1 Sam 28:6<sup><small>LXX,σʹ</small></sup>; cf. Sir 33:3 ἐρώτημα δήλων, ‘inquiry of the clear ones’ (Hebrew lost); also in 1 Sam 14:41<sup><small>LXX</small></sup>, δῆλος (pl.) may represent <span dir="rtl">אוּרִים</span>; see <a href="#1S14v41lxx">Introduction A.2</a>; 
 * δήλωσις, ‘act of making clear, explaining’ 
-(sg.):[^26] Exod 28:30<sup><small>LXX</small></sup>; Lev 8:8<sup><small>LXX</small></sup>; also 1 Esd 5:40<sup><small>LXX</small></sup> (for <span dir="rtl">אוּרִים</span> Ezra 2:63/Neh 7:65); 
-* διδαχή, ‘teaching’ (sg.):[^27] Deut 33:8<sup><small>σʹ</small></sup>; 
-* φωτίζω, ‘to illumine, provide light’:[^28] 
+(sg.):<sup id="fnref:26"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:26')">26</a></sup> Exod 28:30<sup><small>LXX</small></sup>; Lev 8:8<sup><small>LXX</small></sup>; also 1 Esd 5:40<sup><small>LXX</small></sup> (for <span dir="rtl">אוּרִים</span> Ezra 2:63/Neh 7:65); 
+* διδαχή, ‘teaching’ (sg.):<sup id="fnref:27"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:27')">27</a></sup> Deut 33:8<sup><small>σʹ</small></sup>; 
+* φωτίζω, ‘to illumine, provide light’:<sup id="fnref:28"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:28')">28</a></sup> 
 Ezra 2:63<sup><small>LXX</small></sup> τοῖς φωτίζουσιν, ‘for the illuminators’ (ptc.act. pl.); Neh 7:65<sup><small>LXX</small></sup> (ὁ ἱερεὺς) φωτίσων, ‘(the priest) who will enlighten’ (ptc.act. fut. sg.); 
-* φωτισμός, ‘light’ (pl.):[^29] 
+* φωτισμός, ‘light’ (pl.):<sup id="fnref:29"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:29')">29</a></sup> 
 Exod 28:30<sup><small>αʹσʹθʹ</small></sup>; Lev 8:8<sup><small>αʹθʹ</small></sup>; Num 27:21<sup><small>αʹσʹθʹ</small></sup>; 1 Sam 28:6<sup><small>αʹ</small></sup>.
 
 <span dir="rtl">תֻּמִּים</span> 
 
-* ἀλήθεια, ‘truth(fulness)’ (sg.):[^30]
+* ἀλήθεια, ‘truth(fulness)’ (sg.):<sup id="fnref:30"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:30')">30</a></sup>
 Exod 28:30<sup><small>LXX</small></sup>; Lev 8:8<sup><small>LXX</small></sup>; Deut 33:8<sup><small>LXX</small></sup> (order reversed); also 1 Esd 5:40<sup><small>LXX</small></sup> (for <span dir="rtl">תֻּמִּים</span> Ezra 2:63/Neh 7:65);
-* ὁσιότης, ‘piety’ (sg.):[^31]
+* ὁσιότης, ‘piety’ (sg.):<sup id="fnref:31"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:31')">31</a></sup>
 1 Sam 14:41<sup><small>LXX</small></sup> (MT: <span dir="rtl">תָמִים</span>);
-* τέλειος, ‘perfect’, ‘impeccable’ (pl.):[^32] Ezra 2:63<sup><small>LXX</small></sup>;
-* τελειότης, ‘state of being complete and not deficient’:[^33]
+* τέλειος, ‘perfect’, ‘impeccable’ (pl.):<sup id="fnref:32"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:32')">32</a></sup> Ezra 2:63<sup><small>LXX</small></sup>;
+* τελειότης, ‘state of being complete and not deficient’:<sup id="fnref:33"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:33')">33</a></sup>
 Exod 28:30<sup><small>αʹσʹθʹ</small></sup> (pl.); Deut 33:8<sup><small>σʹ</small></sup> (sg.);
-* τελείωσις, ‘act of executing and completing’ (pl.):[^34] 
+* τελείωσις, ‘act of executing and completing’ (pl.):<sup id="fnref:34"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:34')">34</a></sup> 
 Lev 8:8<sup><small>αʹθʹ</small></sup>;
 * no rendering: Neh 7:65. 
 
@@ -327,27 +332,27 @@ Lev 8:8<sup><small>αʹθʹ</small></sup>;
 
 <span dir="rtl">אוּרִים</span> 
 
-* <span dir="rtl">ܝܕܥܬܐ</span> (<i>yidaʿtā</i>), ‘knowledge’ (sg.):[^35] Lev 8:8;
+* <span dir="rtl">ܝܕܥܬܐ</span> (<i>yidaʿtā</i>), ‘knowledge’ (sg.):<sup id="fnref:35"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:35')">35</a></sup> Lev 8:8;
 * <span dir="rtl">ܢܗܝܪܐ</span>
 (<i>nahhīrā</i>),
-‘light’ (sg.):[^36]
+‘light’ (sg.):<sup id="fnref:36"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:36')">36</a></sup>
 Exod 28:30;
 * <span dir="rtl">ܢܘܗܪܐ</span> (<i>nūhrā</i>),
-‘light’ (sg.):[^37] Deut 33:8;
+‘light’ (sg.):<sup id="fnref:37"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:37')">37</a></sup> Deut 33:8;
 * <span dir="rtl">ܢܘܪܐ</span> (<i>nūrā</i>),
-‘fire’ (sg.):[^38] 1 Sam 28:6;
-* <span dir="rtl">ܫܐܠܬܐ</span> (<i>šèlèṯā</i>), ‘request’, ‘inquiry’ (sg.):[^39] Num 27:21;
+‘fire’ (sg.):<sup id="fnref:38"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:38')">38</a></sup> 1 Sam 28:6;
+* <span dir="rtl">ܫܐܠܬܐ</span> (<i>šèlèṯā</i>), ‘request’, ‘inquiry’ (sg.):<sup id="fnref:39"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:39')">39</a></sup> Num 27:21;
 * paraphrastic in Ezra 2:63; Neh 7:65: <span dir="rtl">ܟܗܢܐ ܪܒܐ ܘܢܫܐܠ ܘܢܚܙܐ</span>, ‘a high priest who can ask and can see’. 
 
 
 <span dir="rtl">תֻּמִּים</span> 
 
-* <span dir="rtl">ܩܘܫܬܐ</span> (<i>qūštā</i>), ‘truth’ (sg.):[^40] Lev 8:8;
-* <span dir="rtl">ܫܘܡܠܝܐ</span> (<i>šūmlāyā</i>), ‘fullness’, ‘perfection’ (sg.):[^41]
+* <span dir="rtl">ܩܘܫܬܐ</span> (<i>qūštā</i>), ‘truth’ (sg.):<sup id="fnref:40"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:40')">40</a></sup> Lev 8:8;
+* <span dir="rtl">ܫܘܡܠܝܐ</span> (<i>šūmlāyā</i>), ‘fullness’, ‘perfection’ (sg.):<sup id="fnref:41"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:41')">41</a></sup>
 Deut 33:8;
-* <span dir="rtl">ܫܠܡܐ</span> (<i>šalmā</i>), ‘entire’, ‘perfect’,	etc. (sg.):[^42] 
+* <span dir="rtl">ܫܠܡܐ</span> (<i>šalmā</i>), ‘entire’, ‘perfect’,	etc. (sg.):<sup id="fnref:42"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:42')">42</a></sup> 
 Exod 28:30; 
-* <span dir="rtl">ܫܠܡܘܬܐ</span> (<i>šalmūṯā</i>), ‘perfection’ (sg.):[^43] 1 Sam 14:41 (cf. LXX);
+* <span dir="rtl">ܫܠܡܘܬܐ</span> (<i>šalmūṯā</i>), ‘perfection’ (sg.):<sup id="fnref:43"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:43')">43</a></sup> 1 Sam 14:41 (cf. LXX);
 * paraphrastic in Ezra 2:63; Neh 7:65; see under <span dir="rtl">אוּרִים</span>. 
 
 
@@ -362,47 +367,47 @@ Lev 8:8<sup><small>O,PsJ,N</small></sup>;
 Num 27:21<sup><small>O,PsJ,N</small></sup>; 
 Deut 33:8<sup><small>O,PsJ,N</small></sup>; 
 1 Sam 28:6<sup><small>J</small></sup>;
-* <span dir="rtl">אוֹרָיְתָה</span>, ‘instruction’, ‘Torah’:[^44] Num 27:21<sup><small>N</small></sup> (first hand, later emended); 
+* <span dir="rtl">אוֹרָיְתָה</span>, ‘instruction’, ‘Torah’:<sup id="fnref:44"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:44')">44</a></sup> Num 27:21<sup><small>N</small></sup> (first hand, later emended); 
 * <span dir="rtl">נהיריה</span> /<span dir="rtl">נאיריה</span> /<span dir="rtl">נעיריה</span>, 
 ‘the luminaries’, 
-pl. of <span dir="rtl">נהיר</span> /<span dir="rtl">נאיר</span> /<span dir="rtl">נעיר</span>:[^45] 
+pl. of <span dir="rtl">נהיר</span> /<span dir="rtl">נאיר</span> /<span dir="rtl">נעיר</span>:<sup id="fnref:45"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:45')">45</a></sup> 
 Exod 28:30<sup><small>Smr</small></sup> (2x); 
 39:21<sup><small>Smr</small></sup>; 
 Lev 8:8<sup><small>Smr</small></sup>; 
 Num 27:21<sup><small>Smr</small></sup>;
-* <span dir="rtl">נוריא</span>, ‘the fires’, pl. of <span dir="rtl">נור</span>, ‘fire’:[^46] 
-Deut 33:8<sup><small>Smr</small></sup> (with suffix: <span dir="rtl">נוריך</span>).[^47] 
+* <span dir="rtl">נוריא</span>, ‘the fires’, pl. of <span dir="rtl">נור</span>, ‘fire’:<sup id="fnref:46"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:46')">46</a></sup> 
+Deut 33:8<sup><small>Smr</small></sup> (with suffix: <span dir="rtl">נוריך</span>).<sup id="fnref:47"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:47')">47</a></sup> 
 
 
 <span dir="rtl">תֻּמִּים</span> 
 
 * <span dir="rtl">שלמיה</span>, ‘the perfections’,
-pl. of <span dir="rtl">שלם</span>:[^48] 
+pl. of <span dir="rtl">שלם</span>:<sup id="fnref:48"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:48')">48</a></sup> 
 Exod 28:30<sup><small>Smr</small></sup> (2x); 
 39:21<sup><small>Smr</small></sup>; Lev 8:8<sup><small>Smr</small></sup>; 
 Deut 33:8<sup><small>Smr</small></sup>  (with suffix: <span dir="rtl">שלמיך</span>); 
 * <span dir="rtl">תּוּמַּיָּא</span>, ‘the integrities’, 
-pl. of <span dir="rtl">תּוּמָּא</span>:[^49] 
+pl. of <span dir="rtl">תּוּמָּא</span>:<sup id="fnref:49"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:49')">49</a></sup> 
 Exod 28:30<sup><small>O,PsJ,N</small></sup>; 
 Lev 8:8<sup><small>O,PsJ,N</small></sup>; 
 Deut 33:8<sup><small>O,PsJ,N</small></sup>.
 
 
 
-<b>d. Vetus Latina (VL)[^50] and Vulgate (Vg)</b>:
+<b>d. Vetus Latina (VL)<sup id="fnref:50"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:50')">50</a></sup> and Vulgate (Vg)</b>:
 
 <span dir="rtl">אוּרִים</span> 
 
-* <i>demonstratio</i>, ‘action of pointing out or showing’ (sg.):[^51]
+* <i>demonstratio</i>, ‘action of pointing out or showing’ (sg.):<sup id="fnref:51"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:51')">51</a></sup>
 Exod 28:30<sup><small>VL</small></sup>; 
-* <i>doctrina</i>, ‘instruction’, ‘teaching’, ‘that which is taught’ (sg.):[^52] 
+* <i>doctrina</i>, ‘instruction’, ‘teaching’, ‘that which is taught’ (sg.):<sup id="fnref:52"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:52')">52</a></sup> 
 Exod 28:30<sup><small>Vg</small></sup>; Lev 8:8<sup><small>Vg</small></sup>; Deut 33:8<sup><small>Vg</small></sup>; 
-* <i>doctus</i>, ‘learned’, ‘wise’ (sg.):[^53] 
+* <i>doctus</i>, ‘learned’, ‘wise’ (sg.):<sup id="fnref:53"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:53')">53</a></sup> 
 Ezra 2:63<sup><small>Vg</small></sup>; Neh 7:65<sup><small>Vg</small></sup>; 
-* <i>manifestus</i>, ‘clear’ (pl.):[^54] 
+* <i>manifestus</i>, ‘clear’ (pl.):<sup id="fnref:54"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:54')">54</a></sup> 
 Deut 33:8<sup><small>VL</small></sup> (order reversed); 
 * <i>ostensio</i>, 
-‘showing, exhibiting, manifestation’ (sg.):[^55]
+‘showing, exhibiting, manifestation’ (sg.):<sup id="fnref:55"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:55')">55</a></sup>
 Lev 8:8<sup><small>VL</small></sup>; 
 3 Esd 5:40<sup><small>Vg</small></sup> (= 1 Esd 5:40<sup><small>LXX</small></sup>; for <span dir="rtl">אוּרִים</span> Ezra 2:63/Neh 7:65); 
 the word <i>ostensio</i> 
@@ -415,18 +420,18 @@ in 1 Sam 14:41<sup><small>VL,Vg-mss</small></sup> may also represent <span dir="
 
 * <i>eruditus</i>, ‘learned’, 
 ‘well-instructed’
-(sg.):[^56]
+(sg.):<sup id="fnref:56"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:56')">56</a></sup>
 Neh 7:65<sup><small>Vg</small></sup>;
-* <i>perfectio</i>, ‘completion’, ‘perfection’ (sg.):[^57]
+* <i>perfectio</i>, ‘completion’, ‘perfection’ (sg.):<sup id="fnref:57"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:57')">57</a></sup>
 Deut 33:8<sup><small>Vg</small></sup>;
-* <i>perfectus</i>, ‘complete’, ‘perfect’ (sg.):[^58]
+* <i>perfectus</i>, ‘complete’, ‘perfect’ (sg.):<sup id="fnref:58"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:58')">58</a></sup>
 Ezra 2:63<sup><small>Vg</small></sup>;
 * <i>sanctitas</i>, 
-‘sanctity’, ‘integrity’ (sg.):[^59]
+‘sanctity’, ‘integrity’ (sg.):<sup id="fnref:59"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:59')">59</a></sup>
 1 Sam 14:41<sup><small>VL,Vg-mss</small></sup> 
 (LXX: ὁσιότητα, MT: <span dir="rtl">תָמִים</span>);
 * <i>veritas</i>, ‘truth’, ‘reality’, 
-etc. (sg.):[^60] 
+etc. (sg.):<sup id="fnref:60"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:60')">60</a></sup> 
 Exod 28:30<sup><small>VL,Vg</small></sup>; 
 Lev 8:8<sup><small>VL,Vg</small></sup>; 
 Deut 33:8<sup><small>VL</small></sup> (order reversed);
@@ -620,7 +625,7 @@ cf. 1 Kgs 10:23: <span dir="rtl">לְעֹשֶׁר וּלְחָכְמָה</span>)
 Ezra 1:5 (<span dir="rtl">לִיהוּדָה וּבִנְיָמִן</span>, ‘for Judah and Benjamin’). 
 
 <b>A.7</b>
-Many exegetes[^61] 
+Many exegetes<sup id="fnref:61"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:61')">61</a></sup> 
 suppose that in some texts the expression 
 <span dir="rtl">באלהים</span> /<span dir="rtl">שׁאל ביהוה</span>, ‘to inquire of God/YHWH’,
 implies a role for the Urim and the Thummim, also if they are not mentioned explicitly. 
@@ -752,7 +757,7 @@ short rubric (line 29): ‘Incantation for a verdict (<small>EŠ.BAR</small>/<i>
 through alabaster and hematite.’
 The stones mentioned in this rubric were probably selected because of their different colours: 
 the colour of alabaster is close to white, while the colour of hematite is usually close to black, 
-although it may range to brown and red.[^62]
+although it may range to brown and red.<sup id="fnref:62"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:62')">62</a></sup>
 The damaged top of the reverse side of the tablet probably refers once again to the drawing of the seven gods on the ground and mentions 
 white stones (<small>NA</small><sub>4</sub> 
 <small>BABBAR.MEŠ</small>) and 
@@ -807,14 +812,14 @@ A Late Babylonian <i>tamītu</i> text from Nippur (CBS 12578) describes divinati
 (lines 9-12): 
 
 > The ball of white wool (<i>piqqanni šīpāti peṣâti</i>) 
-in front of the ball of red wool (<i>piqqanni nabāsi</i>) from salt water which I have placed before your great divinity, [may they] be noted so that I may witness your reliable decision.[^63]
+in front of the ball of red wool (<i>piqqanni nabāsi</i>) from salt water which I have placed before your great divinity, [may they] be noted so that I may witness your reliable decision.<sup id="fnref:63"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:63')">63</a></sup>
 
 According to Lambert (2007:19-20), the colour symbolism is comparable to that of <i>LKA</i> 
 137 (above A.1), with 
 the white ball representing a positive answer to the diviner’s question and the red ball representing a negative answer:
 
 > The diviners regularly ask for a “yes” answer, so the sequence of the balls, white before red, was a visual hint. Perhaps the two balls were then put in a bag or other 
-container, where shaken up, and somehow one came out first and its colour provided the answer.[^64]
+container, where shaken up, and somehow one came out first and its colour provided the answer.<sup id="fnref:64"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:64')">64</a></sup>
 
 <span id="KIN"><b>A.3</b></span>
 Anne Marie Kitz (1997)
@@ -822,7 +827,7 @@ argued that the Hittite KIN oracles are important for the interpretation of the 
 However, her interpretation of the Hittite texts is somewhat outdated in view
 of the more recent analyses. 
 Several scholarly studies describe
-the basic structure of the KIN oracles.[^65] 
+the basic structure of the KIN oracles.<sup id="fnref:65"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:65')">65</a></sup> 
 In Hittite literature dated between the late 14th and late 13th centuries, the KIN (literally: ‘work’) is considered to be one of the means through which the gods
 revealed their will. Many KIN oracles concern a decision that the questioner had to take,
 for instance the king in the case of warfare.
@@ -844,7 +849,7 @@ The king hopes that the ritual will affirm his plan and he receives a positive r
 
 > … Let (the oracle) be favorable. ‘Ḫannaḫanna’ arose and took ‘well-being’, ‘the good of the land’ and ‘ZABABA’.
 They are placed to the right of ‘the Hittites’. Second: ‘The Hittites’ took for themselves ‘rightness’, ‘power’ and strength’, ‘the royal campaign’ and ‘well-being’.
-To ‘the gods’. Third: ‘The enemy’ took for himself ‘battle’, and ‘the whole soul’. They were given back to ‘the enemy’. Favorable.[^66] 
+To ‘the gods’. Third: ‘The enemy’ took for himself ‘battle’, and ‘the whole soul’. They were given back to ‘the enemy’. Favorable.<sup id="fnref:66"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:66')">66</a></sup> 
 
 
 

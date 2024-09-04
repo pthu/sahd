@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1BQOn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=בֶּקַע&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># בֶּקַע <i>bèqaʿ</i> – half a shekel (beka)
 
@@ -29,14 +34,14 @@ Occurrences:  2x HB (2/0/0); 0x Sir.; 0x Qum.; 35x Inscr. (Total: 37).
 	Ramat Rahel;
 	Ras Salāh;
 	Shueifat;
-	unknown provenance (22x).[^1]  
+	unknown provenance (22x).<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup>  
 * Text doubtful: —  
 
 [^1]:  See esp. Kletter 1998:211–17 and 243, with references to the sources and earlier literature. 
 
 
-<b>A.1</b>  Many weights inscribed with the word בקע have been found;[^2] while one weight was found with only the ב and one with probably the letters קע
-(letters not clear on the photograph).[^3] See section <a href="#archaeology">6.3. Archaeology</a>.
+<b>A.1</b>  Many weights inscribed with the word בקע have been found;<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> while one weight was found with only the ב and one with probably the letters קע
+(letters not clear on the photograph).<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> See section <a href="#archaeology">6.3. Archaeology</a>.
 
 [^2]: Cf. Diringer 1934:277–80; Tav. XXIII, 14–17; Moscatti 1951:103; Tav. XXIV, 9–10; Shany 1967:54–55; pl. XI; Kletter 1998:211–17, 243; Heltzer 1998:44\*–46\*.
 [^3]:  See Kletter 1998:213, \# 6; 214, \# 10, respectively.
@@ -45,7 +50,7 @@ Occurrences:  2x HB (2/0/0); 0x Sir.; 0x Qum.; 35x Inscr. (Total: 37).
 ## 1. Root and Comparative Material
 
 <b> A.1</b> 
-The word  בֶּקַע is derived from בקע, ‘to cleave’, ‘to split’,[^4]
+The word  בֶּקַע is derived from בקע, ‘to cleave’, ‘to split’,<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup>
 which has, apart from בֶּקַע, 
 a few derivatives: *בְּקִיעַ, ‘breach’, ‘rubble’, and 
 <span dir="rtl" lang="he">בִּקְעָה </span>,
@@ -60,11 +65,11 @@ The latter word is used in a number of locative or topographical names:
 
 
 <b> A.2</b> 
-The noun בֶּקַע is not attested in the cognate languages.[^5]
+The noun בֶּקַע is not attested in the cognate languages.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup>
 However,  the root בקע  is attested in, for example,
-Ug. <i>bq‛</i>, ‘to split, open’,[^6]
-Moab. <i>bq‛</i>, ‘to break through (of dawn)’,[^7]
-LMHebr. בקע, ‘to split, chop’.[^8]
+Ug. <i>bq‛</i>, ‘to split, open’,<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup>
+Moab. <i>bq‛</i>, ‘to break through (of dawn)’,<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup>
+LMHebr. בקע, ‘to split, chop’.<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup>
 
 [^5]:  Cf. <i>HAL</i>, 144; Ges<sup><small>18</small></sup>, 169; <i>DNWSI</i>, 187. 
 [^6]:  <i>WUS</i>, 57, \# 567; <i>DULAT</i><sup><small>1</small></sup>, 234. 
@@ -76,10 +81,10 @@ The BHebr. word בֶּקַע, ‘weight, coin’, is used
 in quotations from Exod 38:26 
 in the midrashim, such as 
 Bereshit Rabba 
-(84:18):[^9] 
+(84:18):<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> 
 אַתֶּם מְכַרְתֶּם בְּנָהּ שֶׁל רָחֵל בְּעֶשְׂרִים כָּסֶף, לְפִיכָךְ יִהְיֶה כָּל אֶחָד וְאֶחָד מַגִּיעוֹ בֶּקַע לַגֻּלְגֹּלֶת, הֲדָא הוּא דִכְתִיב (שמות לח, כו): בֶּקַע לַגֻּלְגֹּלֶת מַחֲצִית הַשֶּׁקֶל,
 ‘You sold Rachel’s son for twenty pieces of silver, therefore shall each of you bring a <i>beka</i> a head;
-thus it is written (Exod 38:26): <i>A beka a head, half a shekel</i>.’[^10]
+thus it is written (Exod 38:26): <i>A beka a head, half a shekel</i>.’<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup>
 
 [^9]:  Jastrow, <i>DTT</i>, 186.
 [^10]: For a somewhat different rendering, cf. Freedman 1939:783.
@@ -90,8 +95,8 @@ thus it is written (Exod 38:26): <i>A beka a head, half a shekel</i>.’[^10]
 <b> A.1</b> 
 בֶּקַע
 is a <i>qatl</i> formation – the most common noun pattern 
-(almost a quarter of all nouns)[^11]
-– of √בקע, a root tertiae gutturalis.[^12]
+(almost a quarter of all nouns)<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup>
+– of √בקע, a root tertiae gutturalis.<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup>
 
 [^11]:  BL, 455, §61.iʹ.
 [^12]:  BL, 456, §61.kʹγ.
@@ -110,7 +115,7 @@ occurs in a nominal clause:
 בֶּקַע מִשְׁקָלוֹ, 
 ‘a <i>beka</i> is its weight’, Gen 24:22;    
 וְכֶסֶף פְּקוּדֵי הָעֵדָה … בֶּקַע לַגֻּלְגֹּלֶת,
-‘the silver of the counted ones of the congregation was … a <i>beka</i> per head’, Exod 38:25–26.[^13]
+‘the silver of the counted ones of the congregation was … a <i>beka</i> per head’, Exod 38:25–26.<sup id="fnref:13"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:13')">13</a></sup>
 
 [^13]:  <i>DCH</i> ii:249.
 
@@ -119,7 +124,7 @@ occurs in a nominal clause:
 בֶּקַע
 occurs in apposition:  
 בֶּקַע … מַחֲצִית הַשֶּׁקֶל,
-‘a <i>beka</i> … half a shekel’, Exod 38:26.[^14]  
+‘a <i>beka</i> … half a shekel’, Exod 38:26.<sup id="fnref:14"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:14')">14</a></sup>  
 
 [^14]:  <i>DCH</i> ii:249.
 
@@ -129,11 +134,11 @@ occurs in apposition:
 
 <b> a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ):</b> 
  
-* δραχμὴ, ‘drachma (weight)’:[^15] 
+* δραχμὴ, ‘drachma (weight)’:<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup> 
 Gen 24:22<sup><small>LXX</small></sup>; 
 Exod 39:3<sup><small>LXX</small></sup> 
 (38:26<sup><small>MT</small></sup>);  
-* δίδραχμον, ‘coin of two drachmas’:[^16]
+* δίδραχμον, ‘coin of two drachmas’:<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup>
 Exod 39:3<sup>α’</sup> (38:26<sup><small>MT</small></sup>).
 
 [^15]:  LEH<sup><small>3</small></sup>, 161; <i>GELS</i>, 178.
@@ -143,7 +148,7 @@ Exod 39:3<sup>α’</sup> (38:26<sup><small>MT</small></sup>).
 
 * <span dir="rtl" lang="-">ܡܬܩܠܐ</span>
 (<i>maṯqālā</i>),
-‘weight, scale, shekel’:[^21] Gen 24:22; Exod 38:26.
+‘weight, scale, shekel’:<sup id="fnref:21"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:21')">21</a></sup> Gen 24:22; Exod 38:26.
 
 [^21]: Payne Smith, <i>CSD</i>, 321; Sokoloff, <i>SLB</i>, 875.
 
@@ -151,12 +156,12 @@ Exod 39:3<sup>α’</sup> (38:26<sup><small>MT</small></sup>).
 <b> c. Targumim (Tg.: O/N/PsJ/Smr):</b>  
 
 * <span dir="rtl" lang="he">דרכמון</span>,
- ‘drachma’:[^17] Gen 24:22<sup><small>PsJ</small></sup>; Exod 38:26<sup><small>PsJ</small></sup>;  
+ ‘drachma’:<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> Gen 24:22<sup><small>PsJ</small></sup>; Exod 38:26<sup><small>PsJ</small></sup>;  
 * <span dir="rtl" lang="he">טבע</span>/* <span dir="rtl" lang="he">טבי</span>,
- ‘half-shekel, coin’:[^18] Gen 24:22<sup><small>N,Smr</small></sup>; Exod 38:26<sup><small>Smr</small></sup>;
+ ‘half-shekel, coin’:<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup> Gen 24:22<sup><small>N,Smr</small></sup>; Exod 38:26<sup><small>Smr</small></sup>;
 * <span dir="rtl" lang="he">תקלא</span>,
-‘shekel’:[^19] Gen 24:22<sup><small>O</small></sup>; Exod 38:26<sup><small>O</small></sup>;  
-* No rendering: Exod 38:26<sup><small>N</small></sup>.[^20]
+‘shekel’:<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup> Gen 24:22<sup><small>O</small></sup>; Exod 38:26<sup><small>O</small></sup>;  
+* No rendering: Exod 38:26<sup><small>N</small></sup>.<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup>
 
 [^17]:  Levy, <i>CWT</i> vol. I:188: ‘<i>Dareicos</i>, eine persische Goldmünze = einem gemeinen Shekel’; Jastrow, <i>DTT</i>, 324: ‘(late b.h.) = דַּרְכּוֹן (= <i>Daric</i>, <i>ad loc.</i>); Dalman, <i>ANHT</i>, 105: ‘(δραχμή) Drachme’; Sokoloff, <i>DJPA</i>, 156.
 [^18]:  Tal, <i>DSA</i>, 302 s.v.  טבע; Levy, <i>CWT</i>, vol. I:294: ‘1. <i>geprägte Münze</i>, … bes. die Hälfte eines heiligen Sekel’. Jastrow, <i>DTT</i>, 519: ‘<i>Teb‛a</i>, a coin equal to half a Sela’. Dalman, <i>ANHT</i>, 166: ‘1. Münze; 2. eine bestimmte Münze (ein halber Sela)’.
@@ -166,9 +171,9 @@ Exod 39:3<sup>α’</sup> (38:26<sup><small>MT</small></sup>).
 
 <b> d. Vulgate (Vulg.):</b>  
 
-* <i>siclos duos</i>, ‘two shekel’:[^22]
+* <i>siclos duos</i>, ‘two shekel’:<sup id="fnref:22"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:22')">22</a></sup>
 Gen 24:22.  
-* No rendering: Exod 38:26.[^23]
+* No rendering: Exod 38:26.<sup id="fnref:23"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:23')">23</a></sup>
 
 [^22]:  Lewis & Short, <i>LD</i>, 1693: ‘a shekel’.
 [^23]: The whole phrase of MT in Exod 38:26, in which the word בֶּקַע is applied, was not rendered in Vulg.
@@ -195,9 +200,9 @@ volume (De Vaux, <i>IAT</i>&nbsp;I, 309)
 
 
 <b> A.1</b> 
-The word  בֶּקַע has the basic meaning ‘split off’, ‘piece’, ‘part’,[^25]
+The word  בֶּקַע has the basic meaning ‘split off’, ‘piece’, ‘part’,<sup id="fnref:25"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:25')">25</a></sup>
 and in Exod 38:26 it is a ‘part’ (from two parts) of a 
-shekel.[^26]
+shekel.<sup id="fnref:26"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:26')">26</a></sup>
 
 [^25]:  Gesenius, <i>TPC</i> 1:232; BDB, 132; KBL,  144: ‘Teil, Stück <i>part, piece</i>’; Zorell, 124; <i>HAL</i>, 144; <i>HALOT</i>, 150; Ges<sup><small>18</small></sup>, 169.
 [^26]:  Gesenius, <i>TPC</i> 1:232: ‘pars dimidia, a findendo dicta (...), nonnisi spec. dimidius siclus’; <i>HAWAT</i>,  46: ‘1/2  Šeqel: ca. acht Gramm’; BDB, 132: ‘fraction, half, i.e. half-shekel, a weight’; <i>GB</i>,  111: ‘halber Sekel’; Zorell, 124: ‘… sec. Ex 38 26 dimidia pars sicli sacri (= 8,18 gr. nostri ponderis…)’; <i>HAL</i>, 144: ‘e. Gewicht als Metallwert 1/2 שֶׁקֶל; Halbschekel’. <i>DCH</i> ii:249: ‘half a shekel’. Ges<sup><small>18</small></sup>, 169: ‘GBdtg Abgespaltenes, bzw. Teil, i. MT Beka, Halbschekel 1. Gewicht (…) = ca. 6 g. m.lok. Abweichungen’.
@@ -231,7 +236,7 @@ A בֶּקַע is further referred to in Exod 38:26 as half a shekel
 
 <b> A.1</b> 
 Some pictures or drawings of <i>beka</i> weights have been 
-published.[^27]
+published.<sup id="fnref:27"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:27')">27</a></sup>
 [^27]:  Diringer 1934: Tav. XXIII, \#\# 14–17; Diringer 1958:231, pl. 13; Moscatti 1951: Tav. XXIV, \#\# 9–10; Scott 1959:36, fig. 7, \#\# 4–6; Strobel 1964:1166, Abb. 3, \# 3; Kletter 1998:218, Fig. 36; Stern 2001:196, Fig.  I.85.
 Two of these are presented below (Figs. 1–2), of which the round, stone weight is the most common 
 example.  
@@ -240,7 +245,7 @@ example.
 ![Beka iron weight](../images/photos/beka-cube1.jpg)&nbsp;
 
 
-Stone beka-weight[^28] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Metal beka-weight[^29]
+Stone beka-weight<sup id="fnref:28"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:28')">28</a></sup> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Metal beka-weight<sup id="fnref:29"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:29')">29</a></sup>
 
 [^28]:  Photograph: Zev Radovan; courtesy of the Israel Museum, Jerusalem. 
 [^29]:  Photograph: Zev Radovan; private collection.  
@@ -252,7 +257,7 @@ A First Temple period <i>beka</i> weight was discovered during the sifting proje
 ![](../images/photos/beka-mirror3.jpg)
 ![](../images/photos/beka-mirror4.jpg)
 
-<i>Beka</i> weight inscribed in mirror script.[^31]
+<i>Beka</i> weight inscribed in mirror script.<sup id="fnref:31"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:31')">31</a></sup>
 [^31]:  Photograph: Eliyahu Yanai; Courtesy of the City of David Archive. 
 
 
@@ -261,11 +266,11 @@ A First Temple period <i>beka</i> weight was discovered during the sifting proje
 
 
 <b> A.1</b> 
-Kletter mentions thirty-five weights designated  as a בֶּקָע with the letters ק ,ב, and ע (or one or two of these letters).[^32] Their provenance is, as far as is known, for the most part in Judah. They date from 
+Kletter mentions thirty-five weights designated  as a בֶּקָע with the letters ק ,ב, and ע (or one or two of these letters).<sup id="fnref:32"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:32')">32</a></sup> Their provenance is, as far as is known, for the most part in Judah. They date from 
 the late 8th century BCE, and later centuries and vary in 
-weight from 5.51 to about 6.90 grams, with an average of 6,003 grams.[^33]
-These weights, all homogeneous in shape, are as a rule made of stone as all weights were,[^34]
-although a metal weight has been found.[^35] 
+weight from 5.51 to about 6.90 grams, with an average of 6,003 grams.<sup id="fnref:33"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:33')">33</a></sup>
+These weights, all homogeneous in shape, are as a rule made of stone as all weights were,<sup id="fnref:34"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:34')">34</a></sup>
+although a metal weight has been found.<sup id="fnref:35"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:35')">35</a></sup> 
 It is also possible to point out a number of uninscribed <i>beka</i> weights (6.0-6.6 grams, mostly of stone), of which it is difficult to say whether they date from the same or from an earlier period (Kletter 1998: 132–37, 143, 254).
 
 [^32]: Kletter 1998:17, 43, 60, 76, 78–80, 52–53, 211–17, 243. 

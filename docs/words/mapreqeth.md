@@ -1,4 +1,9 @@
-<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1MPRQTn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=מַפְרֶקֶת&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># מַפְרֶקֶת <i>maprèqet</i> – neck
 
@@ -56,7 +61,7 @@ indicating cause and effect of the breaking.
 
 ## 4. Ancient Versions
 
-<b>a. Septuagint (LXX) and other Greek translations[^1] (αʹ, σʹ)</b>:
+<b>a. Septuagint (LXX) and other Greek translations<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> (αʹ, σʹ)</b>:
 
 * νῶτος, ‘back (of body)’: 1 Sam 4:18<small><sup>LXX</sup></small>;
 * τένων, ‘sinew, tendon’: 1 Sam 4:18<small><sup>αʹ</sup></small>;
