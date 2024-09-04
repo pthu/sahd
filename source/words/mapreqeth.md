@@ -30,14 +30,14 @@ Qere/Ketiv: none.
 ## 1. Root and Comparative Material
 
 
-<b>A.1</b>  In addition to possible cognate nouns noted in <a href="/sahd/words/plunder/#1-root-and-comparative-material"><span dir="rtl">פֶּרֶק</span>: Root and Comparative Material A.5–6</a>, the lexica <i>s.v.</i> mention the following forms:  <span dir="rtl">מַפְרֶקֶת</span> in
+<b>A.1</b>  In addition to possible cognate nouns noted in <a href="/words/pereq/#1-root-and-comparative-material"><span dir="rtl">פֶּרֶק</span>: Root and Comparative Material</a>, the lexica <i>s.v.</i> mention the following forms:  <span dir="rtl">מַפְרֶקֶת</span> in
 post-biblical Heb. (Jastrow, <i>DTT</i>, 822, ‘neck, nape’; he also cites
 there one occurrence of  <span dir="rtl">מַפְרֵק</span>, ‘joint’), Arab. <i>farq</i>, ‘Scheitel
 [crown of the head]’ (<i>HAL</i>: 585); in Ges<small><sup>18</sup></small>, 719 Arab. <i>mafraq</i>, <i>mafriq</i>, ‘Kreuzung, Knotenpunkt’, <i>mafriq aš-šaʿr</i>, ‘Scheitel’, Soq. <i>fiqeriroh</i>, ‘Hals’, JAram. (Tgs.) <span dir="rtl">פר(י)קתא</span>, ‘Genick’ (‘back of the neck’, for this Jastrow, <i>DTT</i>, 1228, refers to  <span dir="rtl">פירקתא</span>, [p. 1172], ‘joint’, always with a specifying genitive to mean ‘neck’: occurrences of the spellings cited in Ges<small><sup>18</sup></small> are noted as variants). 
 [See also 
-<a href="/sahd/words/to_pull_off/#1-root-and-comparative-material"><span dir="rtl">פָּרַק</span>: Root and Comparative Material</a> and <a href="/sahd/words/plunder/#1-root-and-comparative-material"><span dir="rtl">פֶּרֶק</span>: Root and Comparative Material</a>.
+<a href="/words/p-r-q/#1-root-and-comparative-material"><span dir="rtl">פרק</span>: Root and Comparative Material</a> and <a href="/words/pereq/#1-root-and-comparative-material"><span dir="rtl">פֶּרֶק</span>: Root and Comparative Material</a>.
 In Ancient Hebrew the occurrence of
-<a href="/sahd/words/piece_of_meat/"><span dir="rtl">פָּרָק</span></a> in 4QpsEzek (4Q385, 4Q386) is particularly relevant.]
+<a href="/words/paraq/"><span dir="rtl">פָּרָק</span></a> in 4QpsEzek (4Q385, 4Q386) is particularly relevant.]
 
 <span id="FC"></span>
 ## 2. Formal Characteristics

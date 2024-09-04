@@ -31,7 +31,7 @@ Qere/Ketiv: none.
 
 ## 1. Root and Comparative Material
 
-<b>A.1</b>  See <a href="/sahd/words/to_save%2C_help/#1-root-and-comparative-material"><span dir="rtl" lang="he">ישׁע</span>: Root and Comparative Material</a>.
+<b>A.1</b>  See <a href="/words/y-sh-3/#1-root-and-comparative-material"><span dir="rtl" lang="he">ישׁע</span>: Root and Comparative Material</a>.
 
 <b>A.2</b>  The etymology of  <span dir="rtl">תְּשׁוּעָה</span> is controversial: morphologically it
 seems to be necessary to regard the <i>taw</i> as a formative element, so that the root would be <span dir="rtl">שׁוע</span> (<span dir="rtl">ע״ו</span>), but according to its sense(s) an association with <span dir="rtl">ישׁע</span> has often been thought to be required.
@@ -227,7 +227,7 @@ in Ps 13:6.
 
 
 <b>A.1</b> See 
-<a href="/sahd/words/to_save%2C_help/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">ישׁע</span>: Lexical/Semantic Fields A.4</a>.
+<a href="/words/y-sh-3/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">ישׁע</span>: Lexical/Semantic Fields A.4</a>.
 
 
 <b>A.2</b>   <span dir="rtl">תְּשׁוּעָה</span> is found in parallelism with  <span dir="rtl">צְדָקָה</span>, ‘righteousness’ (Isa

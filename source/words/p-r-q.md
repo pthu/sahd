@@ -52,7 +52,7 @@ Qere/Ketiv: none.
 
 ## 1. Root and Comparative Material
 
-<b>A.1</b> For cognate nouns, see <a href="/sahd/words/plunder/#1-root-and-comparative-material"><span dir="rtl">פֶּרֶק</span>: Root and Comparative Material</a>.
+<b>A.1</b> For cognate nouns, see <a href="/words/pereq/#1-root-and-comparative-material"><span dir="rtl">פֶּרֶק</span>: Root and Comparative Material</a>.
 
 <b>A.2</b>  A verb <i>prq</i> is widely attested in Semitic, with meanings that are
 distinct (this is true even within particular languages) but close

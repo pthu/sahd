@@ -6,7 +6,8 @@
 אוּרִים וְתֻמִּים : Urim Thummim : 2urim_wthummim
 
 ב
-בֶּקַע : half a shekel : beqa3
+בֶּקַע : beka : beqa3
+blessing: brakah : בְּרָכָה
 
 ג
 גְּאוּלִים : redemption : g2ulim
@@ -23,7 +24,7 @@
 
 ח
 חֹזֶה : (court) diviner : chozeh
-חַשְׁמַן : amethyst : chashman
+חַשְׁמַן : amethyst(?) : chashman
 
 ט
 טוה : to spin, twist : t-w-h
@@ -39,8 +40,6 @@
 
 ל
 
-ם
-
 מ
 מָאוֹר : light : ma2or
 מְגִלָּה : scroll : mgillah
@@ -48,7 +47,6 @@
 מַחֲרָשָׁה/מַחֲרֶשֶׁת : plough : machareshah
 מַפְרֶקֶת : neck : mapreqeth
 
-ן
 
 נ
 נָבִיא/נְבִיאָה : prophet(ess) : nabi2
@@ -57,10 +55,8 @@
 
 ע
 
-ף
-
 פ
-פָּדָה : to liberate : p-d-h
+פדה : to liberate : p-d-h
 פְּדוּיִם : redemption price : pduyim
 פְּדוּת : redemption-action : pduth
 פִּדְיוֹן : ransom : pidyon
@@ -69,8 +65,6 @@
 פָּרָק : piece of meat : paraq
 פֶּרֶק : plunder : pereq
 
-
-ץ
 
 צ
 צלה : to roast : ts-l-h
