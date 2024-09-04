@@ -50,7 +50,7 @@ PHOTO_PATH_REPLACEMENT_HOME = r"\1(./images/photos/\3\5"
 PHOTO_PATH_REPLACEMENT = r"\1(../images/photos/\3\5"
 PDF_PATH = r'(.*src=")(\.\./pdfs/)(.*)'
 PDF_PATH_REPLACEMENT = r"\1/sahd/pdfs/\3"
-FOOTNOTE_REF = r'(.*)(\[\^(.*)\])([^:].*)'
+FOOTNOTE_REF = r'(.*)(\[\^([0-9]+)\])([^:].*)'
 FOOTNOTE_REF_REPLACEMENT = r'\1<sup id="fnref:\3"><a href="#footnote" data-toggle="modal" onclick="show_modal(QUOTATIONS_MARKfn:\3QUOTATIONS_MARK)">\3</a></sup>\4'
 
 PREFIXES = ["de", "den", "der", "'t", "’t", "te", "ten", "ter", "van", "von"]
@@ -309,6 +309,14 @@ def sort_latin(source_dict, contributors=False):
     return target_dict
 
 
+def replace_footnote_references(line):
+    # modify possible footnote references for pop up windows
+    while re.search(FOOTNOTE_REF, line):
+        line = re.sub(FOOTNOTE_REF, FOOTNOTE_REF_REPLACEMENT, line).replace("QUOTATIONS_MARK", "'")
+
+    return line
+
+
 def get_relations():
     words, semantic_fields, contributors = {}, {}, {}
 
@@ -381,7 +389,7 @@ def write_words(shebanq_dict, ubs_dict):
                 if second_dashes:
                     line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT, line) # modify possible photo path
                     line = re.sub(PDF_PATH, PDF_PATH_REPLACEMENT, line) # modify possible pdf path
-                    line = re.sub(FOOTNOTE_REF, FOOTNOTE_REF_REPLACEMENT, line).replace("QUOTATIONS_MARK", "'") # modify possible footnote reference for pop up windows
+                    line = replace_footnote_references(line) # modify possible footnote references for pop up windows
                     if line.strip().startswith("<iframe") and DOWNLOAD in text:
                         text.remove(DOWNLOAD)
                     text.append(line)
