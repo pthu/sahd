@@ -42,14 +42,25 @@ HEADER = '<html><body><img id="banner" src="../../images/banners/banner.png" alt
 DOWNLOAD = '<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div>'
 SHEBANQ = '<div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=replace" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div>'
 UBS = '<div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=replace&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div>'
+CONTRIBUTORS_FOOTNOTE = '<p id="contributors_footnote">{footnote}</p>'
+CONTRIBUTORS_FOOTNOTE_REF = '<sup><a href="#footnote" data-toggle="modal" onclick="show_modal({fn})"> *</a></sup>'.format(fn="'contributors_footnote'")
 
 PHOTO_PATH = r"(.*!\[.*])(\(.*/(.*\.(png|PNG|jpg|JPG|jpeg|JPEG|gif|GIF|tiff|TIFF)))(.*)"
 PHOTO_PATH_REPLACEMENT_HOME = r"\1(./images/photos/\3\5"
 PHOTO_PATH_REPLACEMENT = r"\1(../images/photos/\3\5"
 PDF_PATH = r'(.*src=")(\.\./pdfs/)(.*)'
 PDF_PATH_REPLACEMENT = r"\1/sahd/pdfs/\3"
+FOOTNOTE_REF = r'(.*)(\[\^([0-9]+)\])([^:].*)'
+FOOTNOTE_REF_REPLACEMENT = r'\1<sup id="fnref:\3"><a href="#footnote" data-toggle="modal" onclick="show_modal(QUOTATIONS_MARKfn:\3QUOTATIONS_MARK)">\3</a></sup>\4'
 
 PREFIXES = ["de", "den", "der", "'t", "’t", "te", "ten", "ter", "van", "von"]
+
+MODAL_WINDOW = """<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div>"""
 
 errors = []
 
@@ -298,6 +309,14 @@ def sort_latin(source_dict, contributors=False):
     return target_dict
 
 
+def replace_footnote_references(line):
+    # modify possible footnote references for pop up windows
+    while re.search(FOOTNOTE_REF, line):
+        line = re.sub(FOOTNOTE_REF, FOOTNOTE_REF_REPLACEMENT, line).replace("QUOTATIONS_MARK", "'")
+
+    return line
+
+
 def get_relations():
     words, semantic_fields, contributors = {}, {}, {}
 
@@ -357,18 +376,20 @@ def write_words(shebanq_dict, ubs_dict):
     os.mkdir(WORDS_DOCS)
 
     for word in WORDS.glob("*"):
-        word_hebrew, word_english, transcription, title, shebanq_id, first_published, last_update, additional_info = "", "", "", "", "", "", "", ""
+        word_hebrew, word_english, transcription, title, shebanq_id, contributors_footnote, first_published, last_update, additional_info = "", "", "", "", "", "", "", "", ""
         semantic_fields, contributors = [], []
         text, first_dashes, second_dashes = [], False, False
         if word.name == ".DS_Store":
             continue
         filename = word.name
+        text.append(MODAL_WINDOW)
         with open(WORDS / filename, "r") as f:
             lines = f.readlines()
             for line in lines:
                 if second_dashes:
                     line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT, line) # modify possible photo path
                     line = re.sub(PDF_PATH, PDF_PATH_REPLACEMENT, line) # modify possible pdf path
+                    line = replace_footnote_references(line) # modify possible footnote references for pop up windows
                     if line.strip().startswith("<iframe") and DOWNLOAD in text:
                         text.remove(DOWNLOAD)
                     text.append(line)
@@ -386,6 +407,8 @@ def write_words(shebanq_dict, ubs_dict):
                     semantic_fields = get_values(line)
                 elif line.startswith("contributors:"):
                     contributors = get_values(line)
+                elif line.startswith("contributors_footnote:"):
+                    contributors_footnote = get_value(line)
                 elif line.startswith("first_published:"):
                     first_published = get_value(line)
                 elif line.startswith("shebanq_id:"):
@@ -426,6 +449,8 @@ def write_words(shebanq_dict, ubs_dict):
                             contributors_text += f"[{capitalize_name(c)}](../contributors/{c}.md)"
                             contributors_citing += capitalize_name(c)
                             first = False
+                        if (contributors_footnote):
+                            contributors_text += CONTRIBUTORS_FOOTNOTE_REF
                         text.append(contributors_text + "<br>\n")
                     if first_published:
                         text.append(f"First published: {first_published}<br>")
@@ -442,6 +467,8 @@ def write_words(shebanq_dict, ubs_dict):
                     if additional_info:
                         text.append("\n" + additional_info)
                     text.append("\n\n")
+            if contributors_footnote:
+                text.append(CONTRIBUTORS_FOOTNOTE.format(footnote=contributors_footnote))
 
         if not second_dashes:
             error(f"Metadata for {filename} incomplete")
