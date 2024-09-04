@@ -196,6 +196,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://pthu.github.io/sahd/store/printed_publications/</loc>
+         <lastmod>2024-09-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://pthu.github.io/sahd/store/project_description/</loc>
          <lastmod>2024-09-04</lastmod>
          <changefreq>daily</changefreq>
