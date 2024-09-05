@@ -59,10 +59,6 @@ x 4; 30:5; 11QT 29:9(?); 53:3.
 
 * Inscr. D-2.028:1, 7(=RR-Arad(6):28.1, 7).
 
-For this entry, see James K. Aitken, <i>The Semantics of Blessing and Cursing in Ancient Hebrew</i> (2007), 121-32 (<a href="/store/printed_publcations/">Printed publications</a>).
-
-
-
-.
+For this entry, see James K. Aitken, <i>The Semantics of Blessing and Cursing in Ancient Hebrew</i> (2007), 121-32 (<a href="/store/printed_publications/">Printed publications</a>).
 
 
