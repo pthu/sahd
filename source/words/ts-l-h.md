@@ -130,7 +130,7 @@ Hebrew it entails the roasting of meat over a flame (Peters 2016:126-28), thereb
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Becker 1988<br>

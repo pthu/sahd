@@ -12,7 +12,7 @@ shebanq_id:
 ---
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/miscellaneous/overview_deliverance/">‘Overview
+<a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
@@ -55,7 +55,7 @@ only appears in poetry in the OT and most often in prayers and Psalms.
 
 ## 1. Root And Comparative Material
 
-<b>A.1</b>  See <a href="/sahd/words/to_save%2C_help/#1-root-and-comparative-material"><span dir="rtl" lang="he">ישׁע</span>: Root and Comparative Material</a>.
+<b>A.1</b>  See <a href="/words/y-sh-3/#1-root-and-comparative-material"><span dir="rtl" lang="he">ישׁע</span>: Root and Comparative Material</a>.
 
 ## 2. Formal Characteristics
 
@@ -176,7 +176,7 @@ finding difficulty with the syntax of the verse (see
 
 ## 5. Lexical/Semantic Fields
 
-<b>A.1</b> See in general <a href="sahd/words/to_save%2C_help/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">ישׁע</span>: 5. Lexical/Semantic Fields</a>.
+<b>A.1</b> See in general <a href="/words/y-sh-3/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">ישׁע</span>: 5. Lexical/Semantic Fields</a>.
 
 <b>A.2</b><a id="LexA2"></a> <span dir="rtl">יֵשַׁע</span> is found in parallelism with <span dir="rtl">צוּר מָעוֹז</span>, ‘rock of refuge’ (Isa 17:10), <span dir="rtl">צְדָקָה</span>, ‘righteousness’ (Isa 61:10; CD-B 20:20; 4Q443 1:12), <span dir="rtl">חֶסֶד</span>, ‘steadfastness’ (Ps 85:8).  <span dir="rtl">יֵשַׁע</span> also forms part of a series of words denoting protection (Ps 18:3).
 
@@ -231,7 +231,7 @@ they are with  <span dir="rtl">תְּשׁוּעָה</span>.
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Andersen 2001

@@ -7,6 +7,7 @@ semantic_fields: utensils, cult, divination
 contributors: kees_den_hertog, paul_sanders   
 first_published: 2022-08-02  
 last_update: 2024-05-30   
+contributors_footnote: Many thanks are due to Johannes C. de Moor(†) for his valuable suggestions.   
 update_info:  
 additional_info: 
 
@@ -966,7 +967,7 @@ that the Urim and the Thummim were still held in high esteem.
 ##<b><span id="Bibl">Bibliography</b></span>
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1234,8 +1235,7 @@ Berlin: Reimer.
 
 ## Notes 
 
-<small>Many thanks are due to Johannes C. de Moor(†) for his valuable suggestions. 
-</small>
+
 
 [^1]: Cf. <i>DCH</i> viii:644 (<i>sub</i> d); <i>HALOT</i>, 1750 (<i>sub</i> D).
 [^2]: Barthélemy, <i>CTAT</i> 1:186-87; cf. Toeg 1969:493-94.

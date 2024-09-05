@@ -270,7 +270,7 @@ When a <i>divine</i> subject is the גֹּאֵל the following verbs occur: קו
 <b>j)</b>  Nouns in apposition to a divine גֹּאֵל are צוּרִי, ‘my rock’ (Ps 19:15); <span dir="rtl" lang="he">יהוה</span>, ‘the LORD’ (Ps 19:15; Isa 41:14; 43:14; 44:24; 48:17; 49:7; 54:8; 63:16); <span dir="rtl" lang="he">אֲבִיר יַעֲקֹב</span>, ‘the mighty one of Jacob’ (Isa 49:26).  
 </div>
 <div style="padding-left: 22px; text-indent: 0px;">
-<b>k)</b>  The pass.part. of <span dir="rtl" lang="he">גאל</span> (גְּאוּלִים) also appears as a substantive in the following cases: as the subject of אמר, ‘to say’ (Ps 107:2); הלך, ‘to walk’ (Isa 35:9); and עבר, ‘to cross over’ (Isa 51:10); as an object of גאל, ‘redeem’ (Ps 107:2); as <i>nomen regens</i> with יהוה ‘the ones redeemed of the LORD’ (Isa 62:12; Ps 107:2).  [for גְּאוּלַי in Isa 63:4 see the entry for <a href="https://pthu.github.io/sahd/words/redemption/">גְּאוּלִים</a> (noun).
+<b>k)</b>  The pass.part. of <span dir="rtl" lang="he">גאל</span> (גְּאוּלִים) also appears as a substantive in the following cases: as the subject of אמר, ‘to say’ (Ps 107:2); הלך, ‘to walk’ (Isa 35:9); and עבר, ‘to cross over’ (Isa 51:10); as an object of גאל, ‘redeem’ (Ps 107:2); as <i>nomen regens</i> with יהוה ‘the ones redeemed of the LORD’ (Isa 62:12; Ps 107:2).  [for גְּאוּלַי in Isa 63:4 see the entry for <a href="https://sahd-online.com/words/g2ulim/">גְּאוּלִים</a> (noun).
 </div>
 
 
@@ -703,7 +703,7 @@ subst. active participle (without a subsequent verb), seems to draw out the intr
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Abegg, Bowley, and Cook 2003

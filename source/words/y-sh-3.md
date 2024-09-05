@@ -12,7 +12,7 @@ shebanq_id: 1JCOv
 ---
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/miscellaneous/overview_deliverance/">‘Overview
+<a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
@@ -56,8 +56,8 @@ amenable to semantic analysis: 4Q226 5:1; 4Q372 8:3; 4Q374 2 ii 10;
 the verb יָשַׁע rather than the MT reading יַרְשִׁיעַ, there is no sufficient reason for emending.
 
 <b>B.2</b>  Although the NAB (cited by Clines 1989:116) reads the verb יָשַׁע at Job 5:11, the MT reading of the noun יֵשַׁע can be regarded as correct, if understood as an adverbial accusative (GKC, §188q). See
-<a href="/sahd/words/safety/#text-doubtful"><span dir="rtl">יֵשַׁע</span> – Introduction: Text Doubtful B.3</a>;
-<a href="sahd/words/safety/#3-syntagmatics">Syntagmatics A.3</a>.
+<a href="/words/yesha3/#text-doubtful"><span dir="rtl">יֵשַׁע</span> – Introduction: Text Doubtful B.3</a>;
+<a href="/words/yesha3/#3-syntagmatics">Syntagmatics A.3</a>.
 
 <b>B.3</b>  The reading at D–1.008:4 is badly damaged and is doubted (see <i>HAE</i>, 429).
 
@@ -1070,7 +1070,7 @@ the synchronic evidence more than the diachronic.
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">

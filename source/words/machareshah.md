@@ -2,7 +2,7 @@
 ---
 word_english: plough  
 word_hebrew: מַחֲרֵשָׁה/מַחֲרֶשֶׁת  
-transcription: <i>maḥ<small><sup>a</sup></small>rēšāh</i>    
+transcription: <i>maḥ<small><sup>a</sup></small>rēšāh</i>/<i>maḥ<small><sup>a</sup></small>rèšet    
 title: plough, hoe (?)  
 semantic_fields: utensils, agriculture,   
 contributors: paul_sanders  
@@ -37,7 +37,7 @@ while it represents the single form with a <i>pataḥ</i> instead of the <i>ṣ<
 a form of a different noun (<span dir="rtl">פְּרָשָׁא</span>). 
 However, most of the ancient versions treat the first occurrence of <span dir="rtl">מחרשתו</span> 
 in 13:20 and <span dir="rtl">מַחֲרֵשֹׁת</span>
-in 13:21 as forms of the same noun (see <a href="#AV">section 4</a>). 
+in 13:21 as forms of the same noun (see <a href="#AV">Ancient Versions</a>). 
 The latter option becomes more attractive as soon as one notices that the series of 
 agricultural implements in 13:20
 (<span dir="rtl">מַחֲרַשְׁתּוֹ</span>,
@@ -582,7 +582,7 @@ but it is not possible to identify the designated tool with certainty.
 ## <span id="Bibl">Bibliography</span>
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -819,7 +819,7 @@ Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amste
 
 
 [^1]: If <span dir="rtl">מחרשֹׁת</span> in 13:21 were a plural form of  \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span>, the expected vocalisation in 13:21 would be  <span dir="rtl">מַחֲרָשֹׁת</span> (with <i>qameṣ</i>). Cf.  <span dir="rtl">מַעֲרָכוֹת</span> in Lev 24:6, <span dir="rtl">מַאֲכָלוֹת</span> in Prov 30:14, and the similar plural forms of other nouns mentioned in BL, 490&nbsp;aζ.
-[^2]: <i>DCH</i> v: 229-30. See also the discussion in <a href="#Versions">4. A.2</a> and <a href="#Exe-lit">6.1</a>.
+[^2]: <i>DCH</i> v: 229-30. See also the discussion in <a href="#Versions">4. A.1-2</a> and <a href="#Exe-lit">6.1</a>.
 [^3]: See <i>BHK</i><sup><small>1</small></sup>, BDB, 361, and the literature mentioned in Barthélemy, <i>CTAT</i> 1:180.
 [^4]: See <i>BHK</i><sup><small>2/3</small></sup>, KBL, 515; Ges<sup><small>18</small></sup>, 661, and the literature mentioned in Barthélemy, <i>CTAT</i> 1:180-81. See also the critical assessment of this emendation by Koller (2012:84-85). In other contexts, δρέπανον  represents Heb. <span dir="rtl">מַזְמֵרָה</span> (Isa 2:4; 18:5; Mic 4:3; Joel 4:10) or Heb. <span dir="rtl">מַגָּל</span> (Jer 50:16 = 27:16<sup><small>LXX</small></sup>; Joel 4:13). Remarkably, no scholars seem to have suggested reading  <span dir="rtl">מזמרתו</span> or <span dir="rtl">מגלו</span> instead of <span dir="rtl">מחרשתו</span> at the end of 1 Sam 13:20. Stoebe (1973:254) proposed reading <span dir="rtl">חֲרִיצֹו</span> instead of <span dir="rtl">מחרשתו</span> (cf. 2 Sam 12:31).
 [^5]: Barthélemy, <i>CTAT</i> 1:181. Similarly: Cook (1994), who retained the MT as the <i>lectio difficilior</i>.

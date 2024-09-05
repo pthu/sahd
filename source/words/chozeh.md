@@ -308,7 +308,7 @@ of their composition other forms of divination had acquired a negative status. M
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 
 

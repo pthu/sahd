@@ -12,7 +12,7 @@ additional_info:
 
 --- 
 
-For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">‘Overview
+For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies
 
 
@@ -47,7 +47,10 @@ reading and should perhaps be preferred. See further below, <a href="#ExB1">Exeg
 
 ## 1. Root And Comparative Material
 
-<b>A.1</b> See <a href="/words/pereq/#1-root-and-comparative-material"><span dir="rtl">פֶּרֶק</span>: Root and Comparative Material</a>.
+<b>A.1</b> See
+<a href="/words/p-r-q/#1-root-and-comparative-material"><span dir="rtl">פרק</span>: Root and Comparative Material</a>,
+and
+<a href="/words/pereq/#1-root-and-comparative-material"><span dir="rtl">פֶּרֶק</span>: Root and Comparative Material</a>.
 
 
 ## 2. Formal Characteristics
@@ -160,14 +163,14 @@ without flesh on them, and the placement after
 <span dir="rtl">עצם</span> 
 (cf. Syntagmatics)
 points to ‘smaller bones, joints’ being meant. This fits a use of  <span dir="rtl">פֶּרֶק</span> in later Heb. (see <span dir="rtl">פֶּרֶק</span>: Root and Etymology A.5), to which there are
-possible parallels in Syriac (cf. ibid., A.7). The BH word  <span dir="rtl">מפרקת</span> (q.v.),
+possible parallels in Syriac (cf. ibid., A.7). The BHeb. word  <span dir="rtl">מפרקת</span> (q.v.),
 ‘neck(-bone)’, may also be connected with this, in view of the
 neck-bone’s composition from several small bones
 (vertebrae).
 The vocalisation of the Qumran texts being uncertain, it may be better to
 associate these occurrences with  <span dir="rtl">פֶּרֶק</span> rather than  <span dir="rtl">פָּרָק</span>, in view of
 the MHeb. vocalisation of a word with a similar meaning. One might even
-consider whether the vocalisation of the BH word should also be
+consider whether the vocalisation of the BHeb. word should also be
 reviewed, since the vowels in MT relate to the Qere
 <span dir="rtl">ומרק</span>.
 
@@ -189,7 +192,7 @@ The word should perhaps be vocalised  <span dir="rtl">פֶּרֶק</span>.
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/txt"	>List of Abbreviations</a>.
+<a href="/store/abbreviations/txt"	>List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Beuken 1989 <br>

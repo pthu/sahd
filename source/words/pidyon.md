@@ -14,7 +14,7 @@ shebanq_id:
 --- 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/miscellaneous/overview_deliverance/">‘Overview
+<a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
@@ -36,7 +36,7 @@ Qere/Ketiv: none
 ## 1. Root and Comparative Material
 
 <b>A.1</b> See 
-<a href="/sahd/words/to_liberate/#1-root-and-comparative-material"><span dir="rtl">פדה</span>: Root and Comparative Material</a>.
+<a href="/words/p-d-h/#1-root-and-comparative-material"><span dir="rtl">פדה</span>: Root and Comparative Material</a>.
 
 
 ## 2. Formal Characteristics
@@ -81,7 +81,7 @@ Ps 49:9<small><sup>K</sup></small>.
 ## 5. Lexical/Semantic Fields
 
 
-<b>A.1</b>  See <a href="/sahd/words/to_liberate/#5-lexicalsemantic-fields"><span dir="rtl">פדה</span>: Lexical/Semantic Fields</a>.
+<b>A.1</b>  See <a href="/words/p-d-h/#5-lexicalsemantic-fields"><span dir="rtl">פדה</span>: Lexical/Semantic Fields</a>.
 
 
 <b>A.2</b>  <span dir="rtl">פִּדְיוֹן</span> is closely associated with  <span dir="rtl">כפר</span>, ‘ransom price’ (Exod 21:30, Ps 49:8-9), which has its usual non-cultic sense.
@@ -104,7 +104,7 @@ victim’s life. In Ps 49:9, <span dir="rtl">פדיון</span> also seems to mea
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">

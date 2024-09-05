@@ -13,7 +13,7 @@ additional_info:
 --- 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/miscellaneous/overview_deliverance/">‘Overview
+<a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
@@ -316,7 +316,7 @@ in a different direction.
 ## Bibliography
 
 For the abbreviations, see the 
-<a href="/sahd/store/abbreviations/txt"	>List of Abbreviations</a>.
+<a href="/store/abbreviations/txt"	>List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Barr 1987  <br>

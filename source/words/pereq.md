@@ -12,7 +12,7 @@ additional_info:
 
 --- 
 
-For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">‘Overview
+For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
@@ -174,7 +174,7 @@ piles of what they had taken from the city (cf. v. 13) to take prisoner the flee
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/txt"	>List of Abbreviations</a>.
+<a href="/store/abbreviations/txt"	>List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Bewer 1911<br>

@@ -12,7 +12,7 @@ shebanq_id: 1JCWOHn
 ---
 
 For fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/miscellaneous/overview_deliverance/">‘Overview
+<a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
@@ -513,7 +513,7 @@ in comparison to the use of <span dir="rtl" lang="he">תְּשׁוּעָה</span>
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">

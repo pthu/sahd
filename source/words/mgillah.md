@@ -244,7 +244,7 @@ In biblical scholarship it is sometimes stated that up to the second century BCE
 ##<span id="Bibl">Bibliography</span>
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/txt"	>List of Abbreviations</a>.
+<a href="/store/abbreviations/txt"	>List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Caquot  1971 <br>

@@ -12,7 +12,7 @@ additional_info:
 
 --- 
 
-For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">‘Overview
+For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
@@ -37,7 +37,8 @@ there one occurrence of  <span dir="rtl">מַפְרֵק</span>, ‘joint’), Ar
 [See also 
 <a href="/words/p-r-q/#1-root-and-comparative-material"><span dir="rtl">פרק</span>: Root and Comparative Material</a> and <a href="/words/pereq/#1-root-and-comparative-material"><span dir="rtl">פֶּרֶק</span>: Root and Comparative Material</a>.
 In Ancient Hebrew the occurrence of
-<a href="/words/paraq/"><span dir="rtl">פָּרָק</span></a> in 4QpsEzek (4Q385, 4Q386) is particularly relevant.]
+<span dir="rtl">פרק</span></a> in 4QpsEzek (4Q385 fr2:5-6; 4Q386 fr1 i:5) is particularly relevant; 
+see <a href="https://sahd-online.com/words/paraq/#6-exegesis"><span dir="rtl">פָּרָק</span>: Exegesis A.2</a>.]
 
 <span id="FC"></span>
 ## 2. Formal Characteristics
@@ -142,7 +143,7 @@ specific reference to the (human?) neck-bone(s).
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/txt"	>List of Abbreviations</a>.
+<a href="/store/abbreviations/txt"	>List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Robinson 1855<br>

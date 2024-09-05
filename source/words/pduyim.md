@@ -13,7 +13,7 @@ additional_info:
 --- 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/miscellaneous/overview_deliverance/">‘Overview
+<a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
@@ -44,13 +44,13 @@ translations. It appears to be the view taken in Tg and Vg, and it produces a sm
 ## 1. Root and Comparative Material
 
 <b>A.1</b> See 
-<a href="/sahd/words/to_liberate/#1-root-and-comparative-materix§al"><span dir="rtl">פדה</span>: Root and Comparative Material</a>.
+<a href="/words/p-d-h/#1-root-and-comparative-material"><span dir="rtl">פדה</span>: Root and Comparative Material</a>.
 
 ## 2. Formal Characteristics
 
 <b>A.1</b> <i>qatūl</i>: Joüon and Muraoka, <i>GBH</i>, §88Ec (abstract or action nouns),
 §136f-i (on the use of the plural to represent intensity, abstraction or action; cf. BL, 517y and Köhler 1921:316). Cf. also 
-<a href="/sahd/words/redemption/"><span dir="rtl">גאולים</span></a>.
+<a href="/words/g2ulim/"><span dir="rtl">גאולים</span></a>.
 
 ## 3. Syntagmatics
 
@@ -111,7 +111,7 @@ Num 3:46<small><sup>O,N,PsJ</sup></small>,
 
 ## 5. Lexical/Semantic Fields
 
-<b>A.1</b> See <a href="/sahd/words/to_liberate/#5-lexicalsemantic-fields"><span dir="rtl">פדה</span>: Lexical/Semantic Fields</a>.
+<b>A.1</b> See <a href="/words/p-d-h/#5-lexicalsemantic-fields"><span dir="rtl">פדה</span>: Lexical/Semantic Fields</a>.
 
 <b>A.2</b>  <span dir="rtl">פְּדוּיִם</span> is closely associated with <span dir="rtl">כסף</span>, silver (Num 3:48, 49, 51), and in Num 18:16 it appears to be defined as ‘5 shekels of the sanctuary’. In comparable (non-cultic) contexts (Exod 21:30; Ps 49:8-9) <span dir="rtl">פִּדְיוֹן</span> and <span dir="rtl">כֹּפֶר</span> are used with the same sense.
 
@@ -129,7 +129,7 @@ only in ‘profane’ contexts.
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Cazelles 2001<br>
