@@ -14,7 +14,7 @@ As you may have noticed, the documents follow certain strict format:
 	7. Conclusion
 	Bibliography
 
-To make your contribution we ask you to upload a Word document that follows this format.  You don't need to have it complete, just fill in the parts that you have.
+[H.G.M. Williamson’s description of the SAHD-approach](pdfs/Williamson-Semantics_and_Lexicography.pdf) (2015){target=_blank}. To make your contribution we ask you to upload a Word document that follows this format.  You don't need to have it complete, just fill in the parts that you have.
 <div class="container" xmlns="http://www.w3.org/1999/html">
     <h1></h1>
     <form target="_self" action="https://formsubmit.co/vesaakerman@gmail.com" method="POST" enctype="multipart/form-data">
