@@ -248,7 +248,7 @@ unlikely (Johnson 1962:24 n.5; Jeremias 1976:7; Müller 1984:147).
 *  <span dir="rtl">עשׂה</span>, ‘do/make’ in 1 Kgs 18:25; Jer 6:13; 8:10;
 *  <span dir="rtl">פגע</span>, ‘intercede’ in Jer 27:18;  
 *  <span dir="rtl">פוק</span>, ‘reel’ in Isa 28:7; 
-*  <span dir="rtl">פחז</span>, ‘be treacherous’ in Zeph 3:4;[^31a]  
+*  <span dir="rtl">פחז</span>, ‘be treacherous’ in Zeph 3:4;<sup id="fnref:31a"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:31a')">31a</a></sup>  
 *  <span dir="rtl">פקד</span> <i>niph.</i>, ‘be missed’ in 2 Kgs 10:19;  
 *  <span dir="rtl">פתה</span> <i>pu.</i>, ‘be deceived’ in Ezek 14:9;  
 *  <span dir="rtl">קדשׁ</span> <i>pi.</i>, ‘consecrate’ in Mic 3:5; 

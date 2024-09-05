@@ -159,7 +159,7 @@ shortened form of <i>yṯʿil</i> (Sawyer 1975:78).
 1915<sup>II</sup>:1319; 
 Ges<sup><small>18</small></sup>, 449). The name <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> is seen as a combination of a form of <span dir="rtl" lang="he">יהוה</span> and a noun derived from 
 <span dir="rtl" lang="he">ישׁע</span>
-(Ges<sup><small>18</small></sup>, 449).[^EA] 
+(Ges<sup><small>18</small></sup>, 449).<sup id="fnref:EA"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:EA')">EA</a></sup> 
 This identification of the name <i>Yašuya</i> with the name <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> was rejected by Albright (1943:12 n. 27), arguing that the Akk. form
 should have been *<i>Ya-ḫu-šu-uḫ</i>.
 
@@ -521,7 +521,7 @@ Niphal:
 * διασώζω passive, `to come safe through/ to’: Num 10:9; Jer 8:20;  
 * \[[πλανάω, ‘to wander, go astray’]]: Isa 64:4;  
 * σώζω active, ‘to save, keep alive’: Zech 9:9;  
-* σώζω passive, ‘to be saved, attain salvation’:[^6a] Deut 33:29; 2&nbsp;Sam 22:4; Isa 30:15; 45:17, 22; Jer 4:14; 17:14; 23:6; 30[37]:7; Pss 18[17]:4; 33[32]:16; 80[79]:4, 8, 20; 119[119]:117.  
+* σώζω passive, ‘to be saved, attain salvation’:<sup id="fnref:6a"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6a')">6a</a></sup> Deut 33:29; 2&nbsp;Sam 22:4; Isa 30:15; 45:17, 22; Jer 4:14; 17:14; 23:6; 30[37]:7; Pss 18[17]:4; 33[32]:16; 80[79]:4, 8, 20; 119[119]:117.  
 
 [^6a]: LEH<sup><small>3</small></sup>, 602, offers for σώζω passive also the meaning ‘to save oneself, escape’. 
 

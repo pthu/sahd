@@ -137,7 +137,7 @@ tKelim Bava Batra 1:6 includes the expression
 The פֶּלֶךְ is regarded as an instrument typically used by women: 
 אֵין חׇכְמָה לָאִשָּׁה אֶלָּא בְּפֶלֶךְ,
 ‘a woman has no wisdom except at a spindle’ (bYoma 66b, with reference to the spinning [→ <a href="/sahd/words/to_spin%2C_twist"><span dir="rtl" lang="he">טוה</span></a>]
- of women in Exod 35:25a).[^postH] 
+ of women in Exod 35:25a).<sup id="fnref:postH"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:postH')">postH</a></sup> 
 
 [^postH]: See also the references in Jastrow, <i>DTT</i>, 1182, s.v. פֶּלֶךְ; Dalman, <i>AuS</i> V, 49.
 
@@ -155,7 +155,7 @@ bBava Batra 13b refers to a woman
 ‘who knows (how to use) the spindle and the loom’. 
 <a id="QR"></a>Qohelet Rabba (ad 7:9) presupposes the emphatic 
 form *פלכתא, 
-which is also interpreted as ‘spindle’:[^3a] 
+which is also interpreted as ‘spindle’:<sup id="fnref:3a"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3a')">3a</a></sup> 
 <span dir="rtl" lang="he">הֵכְמָא דְּמַעֲזֵלָא עָזֵיל עַל פְּלַכְתֵּיהּ כֵּן סָלֵיק לֵיהּ בִּפְלַכְתֵּיהּ הוּא נָסֵיב</span>, ‘just as the spinner (masc.) spins upon his spindle, so he manages 
 to take by means of his spindle’. 
 For a jar with the inscription פלכה שמעון, see section <a href="#Nav">6.3 A.2</a>.
@@ -172,7 +172,7 @@ However, the spelling פילכא in part of the manuscripts and editions reflect
 [^3a]: The noun is wrongly translated as ‘distaff’ in Sokoloff, <i>DJPA</i>, 322, s.v. <span dir="rtl" lang="he">מעזל</span>; 401, s.v. <span dir="rtl" lang="he">עזל</span>; 436, s.v. <span dir="rtl" lang="he">פלכה</span>.
 
 
-<a id="Arabic"></a><b>A.7</b> <i>Arabic</i>:  Several BHeb. dictionaries[^4a] 
+<a id="Arabic"></a><b>A.7</b> <i>Arabic</i>:  Several BHeb. dictionaries<sup id="fnref:4a"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4a')">4a</a></sup> 
 present an etymology by referring to the Arab. verb <i>falaka</i>, ‘to be(come) round’ 
 (Lane, 2443).
 The Arab. noun  <i>falkat<sup> un</sup></i>/ <i>filkat<sup> un</sup></i>,
@@ -340,7 +340,7 @@ There is no cognate usage of <i>plk</i> which firmly points to a meaning of staf
 
 
 Most dictionaries interpret פֶּלֶךְ both in 2 Sam 3:29 and Prov 31:19
-as a spindle or spindle-whorl.[^dic] 
+as a spindle or spindle-whorl.<sup id="fnref:dic"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:dic')">dic</a></sup> 
 The interpretation as a spindle in 2 Sam 3:29
 is not only in agreement with Prov 31:19, but it is also confirmed by several 
 <a href="#AV">ancient translations</a> 
@@ -486,14 +486,14 @@ that in Egypt linen was more widely used than in the rest  of the ancient Near E
 central Jordan river and in the Beth Shean valley, 
 made it possible to cultivate flax also there (Shamir 1996:142), but
 from those areas no relevant pictorial evidence remains.
-Flax and wool have different properties and, consequently, their fibres had to be processed differently before they could be spun.[^17a]
+Flax and wool have different properties and, consequently, their fibres had to be processed differently before they could be spun.<sup id="fnref:17a"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17a')">17a</a></sup>
 
 [^17a]: <i>BRL</i><sup><small>2</small></sup>, 311-12; Barber 1991:11-15, 20-22; Andersson Strand 2015:40-44.  
 
 
 <a id="Exe-Eg"></a><b>A.2</b> 
 Ancient Egyptian depictions of the consecutive stages of textile production include representations of spindles and help to understand how they were 
-used.[^17b]
+used.<sup id="fnref:17b"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17b')">17b</a></sup>
 Although several depictions seem to be somewhat schematic, they 
 demonstrate that the processing of flax into linen went differently from the processing of wool.
 
@@ -590,7 +590,7 @@ e.g., Lam. I: 197, Lam. II: 99, 173 (Farber 2014:91, 110, 123, 158, 172, 178; cf
 Spindles consisted of a rod and a spindle whorl. 
 Spindle whorls are circular, often disk-shaped objects with a perforation in the centre that allows the rod to be inserted through it. 
 Remains of ancient spindles made of bone, ivory, or metal have been preserved across the Near East,
-but their number is quite small.[^17c] 
+but their number is quite small.<sup id="fnref:17c"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17c')">17c</a></sup> 
 Much more numerous are the surviving ancient spindle whorls without a rod. 
 Most of them are made of durable materials, such as stone, bone, reworked pottery sherds, or baked clay.
 They have been excavated all over the Near East, including Ugarit, Ebla, Hazor, Megiddo, Masada, and other sites in Israel/Palestine
@@ -643,7 +643,7 @@ materials of which they were usually made were cheap. Furthermore, spinning with
 which implied the twisting of fibres by hand or by rolling them against the thigh. 
 Other advantages of spinning with a spindle were that 
 its weight helped to keep the fibres taut
-and prevented the spun yarn from tangling and untwisting, while the whorl increased the regularity of the spinning.[^17d] 
+and prevented the spun yarn from tangling and untwisting, while the whorl increased the regularity of the spinning.<sup id="fnref:17d"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17d')">17d</a></sup> 
 For these reasons, it is no surprise that the use of spindles was so widespread in the world of the Bible.  
 
 [^17d]: Barber 1991:41-42; Sauvage 2014:184-85; Spinazzi-Lucchesi 2018:25-26. 
@@ -686,7 +686,7 @@ Spindles were not only used for producing individual strands of yarn, but also f
 two or more strands together in order to get a plied yarn. 
 While the fibres of the individual threads had been twisted in the same direction,
 either to the right or the left, these threads were usually plied together in the opposite direction to create a balanced yarn,
-without the tendency to twist upon itself.[^17e] 
+without the tendency to twist upon itself.<sup id="fnref:17e"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17e')">17e</a></sup> 
 <a id="heavy"></a>Spindles with relatively large 
 and heavy whorls, such as the one from Ugarit inscribed with the word <i>plk</i>
 (cf. section <a href="#Ugaritic">1: A.3</a>; Sauvage 2013:193, 201: 114.2 grams),
@@ -703,7 +703,7 @@ Unfortunately, figures and more details of this find are not available.
 
 
 Ancient spindles entirely or partially made of precious materials, such as
-copper, bronze, silver, gold, or ivory, have been discovered mainly in graves of women, but sometimes in domestic contexts.[^17f]
+copper, bronze, silver, gold, or ivory, have been discovered mainly in graves of women, but sometimes in domestic contexts.<sup id="fnref:17f"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17f')">17f</a></sup>
  References to spindles made of such costly materials occur in several texts 
 (Hittite: <i>HW</i> III/2:632;
 El-Amarna: <a href="#EA25">EA 25</a>).
