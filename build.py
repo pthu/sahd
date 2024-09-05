@@ -603,6 +603,7 @@ def write_store():
     write_store_file("partners")
     write_store_file("project_description")
     write_store_file("printed_publications")
+    write_store_file("abbreviations")
 
 
 def copy_photos():
