@@ -9,7 +9,7 @@
 
 Semantic Fields:
 [Weight](../semantic_fields/weight.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Bertus van ’t Veld](../contributors/bertus_van_’t_veld.md)<br>
+[Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Bertus van ’t Veld](../contributors/bertus_van_’t_veld.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
 First published: 2021-02-16<br>Last update: 2023-05-16 <br>Citation: Raymond de Hoop,&nbsp;Bertus van ’t Veld, בֶּקַע <i>bèqaʿ</i> – half a shekel (beka), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2021 (update: 2023)
 
 
@@ -299,7 +299,7 @@ of Exod 38:26, unlike that of Gen 24:22, the standard of the ‘sanctuary shekel
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">Barrois 1953<br>   
 	Augustin-Georges Barrois, 
@@ -432,9 +432,6 @@ Ephraim Stern,
 
 ## Notes
 
-<small>
-Thanks are due to Mrs Alice Deken (Amsterdam), who was  so kind as to correct the English of this paper.</small>
-
 
 
 <!--
@@ -449,3 +446,4 @@ Raymond de Hoop & Bertus van ’t Veld, ‘בֶּקַע –
 beka (a half shekel)’, http://sahd-online.com/.
 -->
 
+<p id="contributors_footnote">Thanks are due to Mrs Alice Deken (Amsterdam), who was  so kind as to correct the English of this paper.</p>

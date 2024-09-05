@@ -50,7 +50,7 @@ PHOTO_PATH_REPLACEMENT_HOME = r"\1(./images/photos/\3\5"
 PHOTO_PATH_REPLACEMENT = r"\1(../images/photos/\3\5"
 PDF_PATH = r'(.*src=")(\.\./pdfs/)(.*)'
 PDF_PATH_REPLACEMENT = r"\1/sahd/pdfs/\3"
-FOOTNOTE_REF = r'(.*)(\[\^([0-9]+)\])([^:].*)'
+FOOTNOTE_REF = r'(.*)(\[\^([0-9a-zA-Z]+?)\])([^:].*)'
 FOOTNOTE_REF_REPLACEMENT = r'\1<sup id="fnref:\3"><a href="#footnote" data-toggle="modal" onclick="show_modal(QUOTATIONS_MARKfn:\3QUOTATIONS_MARK)">\3</a></sup>\4'
 
 PREFIXES = ["de", "den", "der", "'t", "’t", "te", "ten", "ter", "van", "von"]
@@ -603,6 +603,7 @@ def write_store():
     write_store_file("partners")
     write_store_file("project_description")
     write_store_file("printed_publications")
+    write_store_file("abbreviations")
 
 
 def copy_photos():

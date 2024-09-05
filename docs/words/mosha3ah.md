@@ -14,7 +14,7 @@ First published: 2000-06-30<br>Last update: 2024-06-30 <br>Citation: James K. Ai
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/miscellaneous/overview_deliverance/">‘Overview
+<a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
@@ -31,7 +31,7 @@ Qere/Ketiv: none.
 
 ## 1. Root And Comparative Material
 
-<b>A.1</b> See: <a href="https://pthu.github.io/sahd/words/to_save%2C_help/#1-root-and-comparative-material"><span dir="rtl">ישׁע</span>: Root and Comparative Material</a>.
+<b>A.1</b> See: <a href="https://sahd-online.com/words/y-sh-3/#1-root-and-comparative-material"><span dir="rtl">ישׁע</span>: Root and Comparative Material</a>.
 
 
 ## 2. Formal Characteristics
@@ -72,7 +72,7 @@ chain frequent in the Psalms of  <span dir="rtl">אֱלֹהֵי יֵשַׁע</sp
 
 ## 5. Lexical/Semantic Fields
 
-<b>A.1</b> See: <a href="https://pthu.github.io/sahd/words/to_save%2C_help/#5-lexicalsemantic-fields"><span dir="rtl">ישׁע</span>: Lexical/Semantic Fields’</a>.
+<b>A.1</b> See: <a href="https://sahd-online.com/words/y-sh-3/#5-lexicalsemantic-fields"><span dir="rtl">ישׁע</span>: Lexical/Semantic Fields’</a>.
 
 <b>A.2</b> The noun <span dir="rtl">מוֹשָעָה</span> is a hapax legomenon, found at Ps 68:21. <span dir="rtl">מוֹשָעָה</span> seems to be in parallelism with both <span dir="rtl">יְשׁוּעָה</span>, ‘salvation’, in the previous verse and <span dir="rtl">לַמָּוֶת תּוֹצָאוֹת</span>, ‘escapes from death’, later in the same verse.
 
@@ -99,7 +99,7 @@ connection of <span dir="rtl">מוֹשָעָה</span> with the verb  <span dir="
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">

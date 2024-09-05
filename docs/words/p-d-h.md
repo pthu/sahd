@@ -14,7 +14,7 @@ First published: 2007-08-31<br>Last update: 2024-06-30 (Raymond de Hoop, Paul Sa
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/miscellaneous/overview_deliverance/">‘Overview
+<a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
@@ -472,7 +472,7 @@ emphasizes the nature of liberation as being a transfer away from an oppressing 
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Abegg, Bowley, and Cook 2003

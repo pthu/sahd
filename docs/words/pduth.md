@@ -14,7 +14,7 @@ First published: 2007-08-31<br>Last update: 2024-06-30 (Raymond de Hoop) <br>Cit
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/miscellaneous/overview_deliverance/">‘Overview
+<a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 
@@ -34,7 +34,7 @@ Occurrences: 4x HB (1/1/2); 0x Sir; 18x Qum; 0x inscr. (Total: 22).
   There is much disagreement over the text and meaning of  <span dir="rtl">פְדֻת</span> in Exod 8:19, rendered  <span dir="rtl">פורקן</span> by Tg<small><sup>O</sup></small> and Tg<small><sup>N</sup></small>. It is listed in BDB under the root  <span dir="rtl">פדה</span> (BDB, 804a), although it recognises that the text is dubious, for it is difficult to make sense of this particular verse if one translates it as ‘liberation’. The previous verse contains the vb <span dir="rtl">פלה</span> (<i>hiph</i>.) which means ‘to set apart’ (BDB, 811b) and the idea of separation would make sense in v. 19 also, which is the sense given by LXX’s διαστολή, Pesh’s 
 <span dir="rtl">ܦܘܪܫܢܐ</span> (<i>puršānā</i>) and Vg’s <i>divisio</i>. However, Andrew Macintosh argued that ‘there is no evidence in Hebr. for a semantic development [in <span dir="rtl">פדה</span>] from breaking, separation to redemption’ (Macintosh 1971:554; <i>contra</i> Gesenius, <i>TPC</i>, 1091-92; Muntinghe 1775). The text here may therefore be corrupt, and emendation to <span dir="rtl">פלת</span>, ‘separation’ (root <span dir="rtl">פלה</span> <i>hiph</i>.) was proposed by August Dillmann (1881:80; cf. <i>BHK</i>), although this noun is not attested elsewhere in MT. Graham Davies (1974) suggested instead <span dir="rtl">פ(ר)דת</span> with haplography accounting for the absence of the <span dir="rtl">ר</span>, from the
 root <span dir="rtl">פרד</span> <i>hiph.</i>, ‘to separate’. Alternatively, <span dir="rtl">פדת</span> here may be derived from a different root. Macintosh (1971:551) suggests the root <span dir="rtl">פדד</span>, ‘was alone, separated’ (which corresponds to the cognate in Arabic <i>fadda</i> and in Syriac <i>pad</i>), by analogy with other double-‘ayin verbs and their cognate nouns. Medieval commentators have also tried to account for the unsuitability of <span dir="rtl">פדת</span> in MT. The Rabbinic commentators on Exod 8:19 clearly wanted to maintain the meaning of redemption within the idea of separation: ‘He sent his people deliverance and distinction moreover; that is to say, he distinguished between them and their oppressors’ (R. Jonah ibn Janah (10th century), <i>Sepher Haschoraschim</i>: Bacher
-1896:395). There is perhaps an argument, then, for a semantic development of <span dir="rtl">פדה</span> analogous to that of <span dir="rtl">פרק</span> (cf. Ps 136:24; Lam 5:8 in BH and on these passages the SAHD entry <a href="/sahd/words/to_pull_away/"><span dir="rtl">פָּרַק</span></a>: the salvific sense is not limited to or necessarily dependent upon Aram., <i>contra</i> Macintosh 1971:554-55), with an older sense of ‘separation’ attested here in Exod 8:19.
+1896:395). There is perhaps an argument, then, for a semantic development of <span dir="rtl">פדה</span> analogous to that of <span dir="rtl">פרק</span> (cf. Ps 136:24; Lam 5:8 in BH and on these passages the SAHD entry <a href="/words/p-r-q/"><span dir="rtl">פרק</span></a>: the salvific sense is not limited to or necessarily dependent upon Aram., <i>contra</i> Macintosh 1971:554-55), with an older sense of ‘separation’ attested here in Exod 8:19.
 
 <b>A.2</b>  In 1QM 17:6, a promise of God’s help, <span dir="rtl">[פ]ד֯ותו</span> is read as <span dir="rtl">[ב]ר֯יתו</span> in <i>DSS.SE</i> (140): ‘And he will send everlasting help to the lot of his redemption/covenant’. Either reading would fit the context here, although the argument for <span dir="rtl">פדותו</span> appears to be slightly stronger, supported by the association elsewhere of <span dir="rtl">פדות</span> with <span dir="rtl">גורל</span> (1QM 15:1), of <span dir="rtl">עזר</span> with <span dir="rtl">פדות</span> (4Q491 11ii14) and the frequency of the construct relationship <span dir="rtl">עם פדות</span>, ‘people of redemption’ (1QM 1:12; 1QM 14:5, 4Q266 11:13, 4Q269 16:11).
 
@@ -54,7 +54,7 @@ Qere/Ketiv: none.
 ## 1. Root and Comparative Material
 
 <b>A.1</b> See 
-<a href="/sahd/words/to_liberate/#1-root-and-comparative-material"><span dir="rtl">פדה</span>: Root and Comparative Material</a>.
+<a href="/words/p-d-h/#1-root-and-comparative-material"><span dir="rtl">פדה</span>: Root and Comparative Material</a>.
 
 ## 2. Formal Characteristics
 
@@ -67,7 +67,7 @@ Qere/Ketiv: none.
 
 <b>A.2</b> <span dir="rtl">פְּדוּת</span> is the nomen regens of <span dir="rtl">אל</span>, ‘God’ (1QM 1:12a), and <span dir="rtl">עולמים</span>, ‘eternity’ (1QM 1:12b; 15:1; 18:11).
 
-<b>A.3</b> <span dir="rtl">פְּדוּת</span> is the nomen rectum of <span dir="rtl">עַם</span>, ‘people’ (1 QM 1:12a; 14:5; 4Q266 11:13), <span dir="rtl">אביון</span> pl., ‘poor (ones)’ (1QM 11:9; 4Q446 1:5), <span dir="rtl">נפשׁ</span>, ‘life/soul’ (1QM 14:10), <span dir="rtl">גורל</span>, ‘lot’ (1QM 17:6), <span dir="rtl">עזר</span>, ‘help’ (4Q491 11 ii:14), <span dir="rtl">עשי אלהי</span>[<span dir="rtl">מ</span>, ‘God’s deeds’ (4Q511 63-64 ii:1).
+<span id="SynA3"><b>A.3</b> <span dir="rtl">פְּדוּת</span> is the nomen rectum of <span dir="rtl">עַם</span>, ‘people’ (1 QM 1:12a; 14:5; 4Q266 11:13), <span dir="rtl">אביון</span> pl., ‘poor (ones)’ (1QM 11:9; 4Q446 1:5), <span dir="rtl">נפשׁ</span>, ‘life/soul’ (1QM 14:10), <span dir="rtl">גורל</span>, ‘lot’ (1QM 17:6), <span dir="rtl">עזר</span>, ‘help’ (4Q491 11 ii:14), <span dir="rtl">עשי אלהי</span>[<span dir="rtl">מ</span>, ‘God’s deeds’ (4Q511 63-64 ii:1).
 
 <b>A.4</b> <span dir="rtl">פְּדוּת</span> has 1 sg. sf. with human antecedent (4Q511 63-64 ii 1); 2 masc.sg. sf. referring to YHWH (1QM 11:9; 14:10 [=4Q491 8-10 i:8]; 4Q266 11:13 [=4Q269 16:11?], 4Q446 3:2), 3 masc.sg. sf. referring to YHWH (1QM 14:5; 17:6; 4Q446 1:5; 4Q491 11 ii:14), 1 pl. sf. (worshippers: 4Q503 1-6 iii 8).
 
@@ -120,7 +120,7 @@ quite different meaning (‘to wander away’) in Isa 50:2 was probably due to t
 
 ## 5. Lexical/Semantic Fields
 
-<b>A.1</b> See <a href="/sahd/words/to_liberate/#5-lexicalsemantic-fields"><span dir="rtl">פדה</span>: Lexical/Semantic Fields</a>.
+<b>A.1</b> See <a href="/words/p-d-h/#5-lexicalsemantic-fields"><span dir="rtl">פדה</span>: Lexical/Semantic Fields</a>.
 
 <b>A.2</b>  In passages related to <span dir="rtl">ושמתי פדות</span> in Exod 8:19, <span dir="rtl">פלה</span> <i>hiph.</i>, ‘make a distinction’, is used at the corresponding points (8:18; 9:4; 11:7).
 
@@ -163,12 +163,12 @@ At Qumran the future hope of redemption implied in Isa 50:2 is developed further
 
 The noun <span dir="rtl">פְּדוּת</span>, which is used much more frequently at Qumran than in the HB, means ‘(action or power of) redemption’ and always refers to divine activity. It is never used in a cultic or socio-legal context, and unlike <span dir="rtl">פדוים</span> and  <span dir="rtl">פדיון</span> it is never associated with a ‘price’ or ‘payment’. Its main connotations, in addition to liberation, are powerful action and the context of an exclusive relationship (but not a kin relationship). If <span dir="rtl">פְדֻת</span> in Exod 8:19 is an example (see above
 <a href="#TDA1">Text Doubtful A.1</a>, it might be explained by a semantic development parallel
-to that attested in the case of <span dir="rtl">פרק</span> (see <a href="/sahd/words/to_pull_away/#1-root-and-comparative-material"><span dir="rtl">פָּרַק</span>: Root and Comparative Material</a>).
+to that attested in the case of <span dir="rtl">פרק</span> (see <a href="/words/p-r-q/#1-root-and-comparative-material"><span dir="rtl">פרק</span>: Root and Comparative Material</a>).
 
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Bacher 1896<br>

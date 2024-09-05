@@ -288,7 +288,7 @@ Hannig lists occurrences of the word <i>ḥsmn</i>, ‘amethyst’,
 from the time of the Middle Kingdom, mainly from Wadi el-Hudi, an area in southern Egypt with amethyst quarries (Hannig 2006, vol. 2: 1775-76),
 but no occurrences from earlier times (Hannig 2003). 
 Some occurrences from the time of the New Kingdom are listed by Seyfried (1981:141-42, 147;
-see <a href="#Exe">Exegesis</a> for the latest attestations).
+see <a href="#Exe.A3">Exegesis A.3</a> for the latest attestations).
 Because of the phonetic similarity,
 Black proposed to interpret Akkadian <i>ḫašmānu</i> as a loanword derived from Egyptian <i>ḥsmn</i>, ‘amethyst’, 
 suggesting that <i>saggilmud</i> (see A.4) might have been the native Mesopotamian term for this stone (Black 2001; cf. Schuster-Brandis 2008:440).
@@ -605,6 +605,7 @@ Kush stretches out its hands also to offer tribute to God.
 The suggestion in <i>BHS</i> to interpret <span dir="rtl">תריץ</span> as a form of the conjectural Hebrew verb <span dir="rtl">תרץ</span> (cf. Akk. <i>taraṣu</i>)
 must be rejected (see Barthélemy 2005:460; cf. <i>HALOT</i>, 1208). 
 
+<span id="Exe.A3"></span>
 <b>A.3</b> If in Ps 68:32 <span dir="rtl">חַשְׁמַנִּים</span> indeed denotes objects, it is logical to suppose that these objects were precious. 
 To avoid a choice Hossfeld and Zenger translated the word as ‘precious goods’ (2005:159).
 On the basis of possible cognates in Egyptian and Akkadian, 
@@ -737,7 +738,7 @@ Kush will/may hurriedly stretch out its hands to God.
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">

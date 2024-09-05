@@ -12,7 +12,7 @@ Author(s):
 First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: James K. Aitken,&nbsp;Graham I. Davies, שׁוּעַ <i>šū<small><sup>a</sup></small>ʿ</i> – cry for help(?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2016 (update: 2024)
 
 
-For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">‘Overview
+For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies; but cf. <a href="#Con">Conclusions</a> below.
 
 
@@ -38,7 +38,7 @@ Qere/Ketiv: none.
 
 
 <b>A.1</b>  See also 
-<a href="/sahd/words/great_man/#1-root-and-comparative-material"><span dir="rtl">שׁוֹעַ</span>: Root and Comparative Material</a>, especially on the PNN, for which the occurrences of  <span dir="rtl">שׁוֹעַ</span> provide a more plausible basis for the use as an element of a PN.
+<a href="/words/shoa3/#1-root-and-comparative-material"><span dir="rtl">שׁוֹעַ</span>: Root and Comparative Material</a>, especially on the PNN, for which the occurrences of  <span dir="rtl">שׁוֹעַ</span> provide a more plausible basis for the use as an element of a PN.
 
 <span id="RCMA2"> 
 <b>A.2</b></span>
@@ -121,7 +121,7 @@ related, as is more generally (but not universally) accepted for <span dir="rtl"
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dhorme 1967  <br>

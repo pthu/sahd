@@ -38,7 +38,7 @@ parallel <span dir="rtl" lang="he">נקם</span> and the versional renderings (s
 ## 1. Root And Comparative Material
 
 <b>A.1</b> 
-See <a href="https://pthu.github.io/sahd/words/to_redeem/#1-root-and-comparative-material"><span dir="rtl" lang="he">גאל</span>, 1. Root And Comparative Material</a>.
+See <a href="https://sahd-online.com/words/g-2-l/#1-root-and-comparative-material"><span dir="rtl" lang="he">גאל</span>, 1. Root And Comparative Material</a>.
 
 
 ## 2. Formal Characteristics
@@ -97,7 +97,7 @@ See <a href="https://pthu.github.io/sahd/words/to_redeem/#1-root-and-comparative
 ## 5. Lexical/Semantic Fields
 
 <b>A.1</b>  See
-<a href="https://pthu.github.io/sahd/words/to_redeem/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">גאל</span>: 5. Lexical/Semantic Fields</a>.
+<a href="https://sahd-online.com/words/g-2-l/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">גאל</span>: 5. Lexical/Semantic Fields</a>.
 
 
 <b>A.2</b>  <span dir="rtl" lang="he">גְּאוּלִים</span> occurs in poetic parallelism with <span dir="rtl" lang="he">נָקָם</span>, ‘vengeance’ (Isa
@@ -134,7 +134,7 @@ senses, but it is not compelling.
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">

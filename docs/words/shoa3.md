@@ -13,7 +13,7 @@ First published: 2016-09-30<br>Last update: 2024-06-30 <br>Citation: Graham I. D
 
 
 
-For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">‘Overview
+For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies; but cf. <a href="#Con">Conclusions</a> below.
 
 
@@ -43,16 +43,18 @@ Qere/Ketiv: none.
 ## 1. Root and Comparative Material</span>
 
 
-<b>A.1</b>  A detailed bibliography of the debate over the root is contained in <i>HALOT</i> (1444). In Hebrew the biliteral root is probably also attested in a number of PNN with a medial <i>u</i>-vowel: the form <span dir="rtl">שׁוּעַ</span> occurs in Gen 38:2, 12; 1 Chron 2:3, and a feminine form  <span dir="rtl">שׁוּעָא</span> in 1 Chron 7:32; also the compound (fem.) name <span dir="rtl">בַּת־שׁוּעַ</span> and the theophorous names <span dir="rtl">אֲבִישׁוּעַ</span>, <span dir="rtl">אֱלִישׁוּעַ</span>,  <span dir="rtl">יְהוֹשׁוּעַ</span> and <span dir="rtl">מַלכִישׁוּעַ</span>. Further possible occurrences of this element in extra-biblical PNN are noted by Propp (1999:617): Canaanite/Phoenician  <span dir="rtl">אדנשע</span> and Phoenician <span dir="rtl">שעבׄעל</span>. Of three possible Ugaritic cognates <i>ṯʿ</i> as a title or epithet of Keret (<i>KTU</i> 1.14:IV.37 and par.) and, apparently, of dead and deified kings of Ugarit as the
+<b>A.1</b>  A detailed bibliography of the debate over the root is contained in <i>HALOT</i> (1444). In Hebrew the biliteral root is probably also attested in a number of PNN with a medial <i>u</i>-vowel: the form <span dir="rtl">שׁוּעַ</span> occurs in Gen 38:2, 12; 1 Chron 2:3, and a feminine form  <span dir="rtl">שׁוּעָא</span> in 1 Chron 7:32; also the compound (fem.) name <span dir="rtl">בַּת־שׁוּעַ</span> and the theophorous names <span dir="rtl">אֲבִישׁוּעַ</span>, <span dir="rtl">אֱלִישׁוּעַ</span>,  <span dir="rtl">יְהוֹשׁוּעַ</span> and <span dir="rtl">מַלכִישׁוּעַ</span>. Further possible occurrences of this element in extra-biblical PNN are noted by Propp (1999:617): Canaanite / Phoenician  <span dir="rtl">אדנשע</span> and Phoenician <span dir="rtl">שעבׄעל</span>. Of three possible Ugaritic cognates <i>ṯʿ</i> as a title or epithet of Keret (<i>KTU</i> 1.14:IV.37 and par.) and, apparently, of dead and deified kings of Ugarit as the
 recipients of offerings in the sense ‘hero, noble’ (so <i>DULAT</i><small><sup> 1</sup></small>, 892-93, as earlier Gibson 1978:160; cf. Akk. <i>šuwāʾu(m)</i> = <i>šuʾû</i> as a synonym
 of <i>šarru</i>, <i>AHw</i>, 1295; <i>CAD</i> Š3, 417) is the most likely to be related to the meaning indicated by the parallelism in Isa 32:5 and Job 34:19. <i>HALOT</i> (1444), like many before it, prefers to associate  <span dir="rtl">שׁוֹעַ</span> with senses of Arab. <i>wasiʿa</i> such as ‘noble, generous’, and Ges<small><sup>18</sup></small> (1335) persists with this, even though it has given pride of place to
 the Ugaritic and Akkadian parallels in its treatment of the root (1334).
 Even if the etymology of <span dir="rtl">שׁוֹעַ</span> based on Arab. <i>wasiʿa</i> is preferred,
 however, it cannot support an association of <span dir="rtl">שׁוֹעַ</span> with the core group of <span dir="rtl">ישׁע</span> lexemes, since they are no longer regarded as cognate with Arab. <i>wasiʿa</i> (see 
-<a href="/sahd/words/to_save%2C_help/#1-root-and-comparative-material"><span dir="rtl">יָשַׁע</span>: Root and Comparative Material</a>). Such an
+<a href="/words/y-sh-3/#1-root-and-comparative-material"><span dir="rtl">יָשַׁע</span>: Root and Comparative Material</a>). Such an
 association would only be possible with  <span dir="rtl">תְּשׁוּעָה</span>, whose form and
 meaning (sometimes ‘help’, perhaps related to ‘generosity’) could be linked to a Hebrew root  <span dir="rtl">שׁוע</span> understood in this way. Yet the study of <span dir="rtl">תְּשׁוּעָה</span> has found that its predominant meanings concern the effects of
-such help rather than the help itself (see <a href="#Con"><span dir="rtl">תְּשׁוּעָה</span>: Conclusions</a>) and its root,
+such help rather than the help itself (see 
+<a href="/words/thshu3ah/#1-root-and-comparative-material"><span dir="rtl">תְּשׁוּעָה</span>: Conclusions</a>)
+and its root,
 if not <span dir="rtl">ישׁע</span>, is more likely to be a by-form of that than the root from
 which the noun  <span dir="rtl">שׁוֹעַ</span> is derived.
 
@@ -123,13 +125,13 @@ his challenge to Job’s questioning of God’s perfect justice Elihu cites the 
 ## 7. Conclusion
 
 <b>A.1</b>  In one of its two occurrences (Isa 32:5) <span dir="rtl">שׁוֹעַ</span> is a term of approbation and might be understood to designate either moral character or social status, but in the other (Job 34:19) social status is clearly meant. As a meaning which fits both passages the latter is to be preferred. It also corresponds to the closer of the two proposed cognates and to several of the versional renderings (Tg and Vg at Isa 32:5; LXX and Vg at Job 34:19: cf. also LXX at Ps 72(71):12; Job 29:12 [mistakenly] δυνάστου). ‘Great man’ would be an adequate translation. It follows that  <span dir="rtl">שׁוֹעַ</span> has no obvious connection with the root  <span dir="rtl">ישׁע</span> (this is true even if it is regarded as meaning ‘generous’ in Isa 32:5; see 
-<a href="#CRM">Root and Comparative Material A.1</a> above), and therefore it is not a member, even loosely, of the
-<a href="/sahd/miscellaneous/overview_deliverance/">‘deliverance’ word-group</a>.
+<a href="#RCM">Root and Comparative Material A.1</a> above), and therefore it is not a member, even loosely, of the
+<a href="/miscellaneous/overview_deliverance/">‘deliverance’ word-group</a>.
 
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dillmann 1891<br>

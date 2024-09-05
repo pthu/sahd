@@ -16,7 +16,7 @@ First published: 2007-08-01<br>Last update: 2023-10-01 (Raymond de Hoop) <br>Cit
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 
-<a href="/miscellaneous/overview_deliverance/">‘Overview
+<a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
@@ -34,7 +34,7 @@ Occurrences: 14x HB (9/3/2); 0x Sir; 2x Qum; 0x inscr. (Total: 16).
 
 <b>A.1</b> <span dir="rtl">אַנְשֵׁי גְאֻלָּתְךָ</span> ‘men of your redemption’ in Ezek 11:15 is
 difficult, reflected by the disagreement in the Versions: οἱ ἄνδρες τῆς
-αἰχμαλωσίας σου (LXX) and <span dir="rtl">ܐܢܫܐ ܕܫܒܝܬܟ</span> (<i>ʾnšʾ dšbytk</i>) (Pesh) ‘men of
+αἰχμαλωσίας σου (LXX) and <span dir="rtl">ܐܢܫܐ ܕܫܒܝܬܟ</span> (<i>ʾnšʾ dšbytk</i>) (Pesh), ‘men of
 your captivity’, reading גָלוּתְךָ ‘your fellow exiles’ (root גלה),
 whereas the Vg has <i>viri propinqui tui</i> ‘your kindred’, and Tg קריבך
 ‘your relatives’, agreeing with MT (so BDB, 145). See Exegesis, A.5.
@@ -49,10 +49,10 @@ been reconstructed using a parallel text 4Q506 124:4
 ## 1. Root And Comparative Material
 
 
-<b>A.1</b>  See <a href="https://pthu.github.io/sahd/words/to_redeem/#1-root-and-comparative-material"><span dir="rtl" lang="he">גאל</span>, 1. Root And Comparative Material</a>.
+<b>A.1</b>  See <a href="https://sahd-online.com/words/g-2-l/#1-root-and-comparative-material"><span dir="rtl" lang="he">גאל</span>, 1. Root And Comparative Material</a>.
 
 
-<b>A.2</b>  The theological meaning of גְּאֻלָּה, ‘redemption’ (political liberation and independence) can also be found on ‘Freedom’ and ‘Redemption’ coins from the First Revolt against Rome (AD 66-70), bearing the inscription <span dir="rtl" lang="he">לגאלת ציון</span>, ‘for the redemption of Zion’ and coinage from the Bar Kochba revolt (AD 132-5) with the inscription <span dir="rtl" lang="he">שנת אחת לגאלת ישראל</span> ‘year one of the redemption of Israel’ (for detailed references see Schürer 1973:605-06). Similar expressions (always with ישראל) occur in the dates of legal documents from the period of the Second Revolt found in the caves of Wadi Murabaʿat (Mur 22 1:1; 24 2:2, 4:2, 5:1; 29 1:1; 30 2:1[8]; very likely also in other places where the papyrus is damaged),  again corresponding to חרות in some similar Aramaic documents (DJD ii:118-48). <i>DCH</i> ii:296, also refers to another occurrence in a 'Bar Kochba IOU' (further examples \[DJD ii:139 n. 2] and discussion in Horbury 2011).
+<b>A.2</b>  The theological meaning of גְּאֻלָּה, ‘redemption’ (political liberation and independence) can also be found on ‘Freedom’ and ‘Redemption’ coins from the First Revolt against Rome (AD 66-70), bearing the inscription <span dir="rtl" lang="he">לגאלת ציון</span>, ‘for the redemption of Zion’, and coinage from the Bar Kochba revolt (AD 132-5) with the inscription <span dir="rtl" lang="he">שנת אחת לגאלת ישראל</span>, ‘year one of the redemption of Israel’ (for detailed references see Schürer 1973:605-06). Similar expressions (always with ישראל) occur in the dates of legal documents from the period of the Second Revolt found in the caves of Wadi Murabaʿat (Mur 22 1:1; 24 2:2, 4:2, 5:1; 29 1:1; 30 2:1[8]; very likely also in other places where the papyrus is damaged),  again corresponding to חרות in some similar Aramaic documents (DJD ii:118-48). <i>DCH</i> ii:296, also refers to another occurrence in a 'Bar Kochba IOU' (further examples \[DJD ii:139 n. 2] and discussion in Horbury 2011).
 
 ## 2. Formal Characteristics
 
@@ -65,7 +65,7 @@ been reconstructed using a parallel text 4Q506 124:4
 
 <b>A.2</b>  גְּאֻלָּה is the object of verb נתן, ‘to give, grant’ (Lev 25:24); מצא
 (Lev 25:26, + כְדֵי); שוב <i>hiph.</i> (Lev 25:51, 52); 
-<a href="https://pthu.github.io/sahd/words/to_redeem/"><span dir="rtl" lang="he">גאל</span></a> (Ruth 4:6); and חוג
+<a href="https://sahd-online.com/words/g-2-l/"><span dir="rtl" lang="he">גאל</span></a> (Ruth 4:6); and חוג
 (4Q504 5ii:4; 4Q506 124:4).
 
 <b>A.3</b>  גְּאֻלָּה is nomen regens of עוֹלם, ‘the right of redemption for ever’ (Lev 25:32); and it occurs with the suffixes ‘his, its’ referring to a piece of land (Lev 25:26), a house (Lev 25:29 [2x]) or an enslaved person (Lev 25:51, 52); ‘your’ referring to Ezekiel (Ezek 11:15); ‘my’ referring to the next of kin (Ruth 4:6); and ‘our’ referring to the speakers of the ‘the Words of the Luminaries’ (members of the Qumran community? 4Q504 5:ii.4; 4Q506 124:4).
@@ -153,14 +153,14 @@ Lev 25:24, 26, 29 (2x), 31, 32, 48, 51, 52; Isa 63:4;
 <b>A.2</b>  The choice of words in the LXX seems to vary according to context, λύτρον being used when the emphasis is on a particular sum of money and λύτρωσις and λυτρωτός when the rights of redemption are being discussed.
 
 <b>A.3</b>  It is no surprise that ἀγχιστεία appears in Ruth, as the main verb used to translate גאל in Ruth is ἀγχιστεύω ‘to be next of kin’. Together with πρεσβύτερος, which is used elsewhere of the eldest child (e.g. Gen 19:31; 27:1; 44:12) and is here a free rendering assuming the equivalence of גְּאֻלָּה to the rights of the firstborn, ἀγχιστεία reflects the kinship aspect underlying גְּאֻלָּה (see entry on
-<a href="https://pthu.github.io/sahd/words/to_redeem/#4-ancient-versions"><span dir="rtl" lang="he">גאל</span>, 4. Ancient Versions</a>).
+<a href="https://sahd-online.com/words/g-2-l/#4-ancient-versions"><span dir="rtl" lang="he">גאל</span>, 4. Ancient Versions</a>).
 
 <b>A.4</b>  παραλαμβάνω in Jer 32:7 (39:7<sup><small>LXX</small></sup>) is a generalising rendering which ignores
 the technical meaning of גְּאֻלָּה (cf. Pesh, Tg).
 
 <b>A.5</b>  Both Pesh and Tg prefer the root ܦܪܩ/<span dir="rtl" lang="he">פרק</span>, rather than <span dir="rtl" lang="he">שׁיזב</span> (Tg) or <span dir="rtl">ܦܨܝ/ܦܨܐ</span> 
 (<i>pṣʾ</i>/<i>pṣy</i>, Pesh), to render גאל 
-(see entry on root <a href="https://pthu.github.io/sahd/words/to_redeem/"><span dir="rtl" lang="he">גאל</span></a>; cf. <a href="https://pthu.github.io/sahd/words/to_save%2C_help/"><span dir="rtl" lang="he">ישׁע</span></a>), 
+(see entry on root <a href="https://sahd-online.com/words/g-2-l/"><span dir="rtl" lang="he">גאל</span></a>; cf. <a href="https://sahd-online.com/words/y-sh-3/"><span dir="rtl" lang="he">ישׁע</span></a>), 
 with the exception of passages in Ruth (4:6 [Tg, Pesh], 4:7 [Pesh]), and Jeremiah (32:7 [Tg, Pesh], 8 [Tg]), where the choices of 
 <span dir="rtl">ܝܪܬܘܬܐ</span>
 (<i>yārtūṯā</i>), ‘inheritance, heirship’, 
@@ -174,7 +174,7 @@ occurrence with more specific phrases.
 
 
 <b>A.1</b>  See
-<a href="https://pthu.github.io/sahd/words/to_redeem/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">גאל</span>: 5. Lexical/Semantic Fields</a>.
+<a href="https://sahd-online.com/words/g-2-l/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">גאל</span>: 5. Lexical/Semantic Fields</a>.
  
 
 
@@ -185,7 +185,7 @@ phrase מִשְׁפַּט הַגְּאֻלָּה in v. 7).
 
 
 <b>A.3</b>  Like the verb גָּאַל (see entry on 
-<a href="https://pthu.github.io/sahd/words/to_redeem/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">גאל</span>: 5. Lexical/Semantic Fields</a>,
+<a href="https://sahd-online.com/words/g-2-l/#5-lexicalsemantic-fields"><span dir="rtl" lang="he">גאל</span>: 5. Lexical/Semantic Fields</a>,
 A.1), גְּאֻלָּה is closely associated with the verb קנה ‘buy’ (Jer
 32:7-8).
 
@@ -272,7 +272,7 @@ redemption’ and ‘price of redemption’ several times, and it may mean
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Cooke 1936

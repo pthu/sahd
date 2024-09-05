@@ -240,6 +240,7 @@ term, whose appearance in the frame of the book of Job should be
 ascribed to an intentional intertextual echo of the statements in Job 24:12 (see below <a href="#ExA5">Exegesis A.5</a>).
 
 
+<span id="ExA1"></span>
 ## 6. Exegesis
 
 <b>A.1</b>  <span dir="rtl">תִּפְלָה</span> derives from the adjective <span dir="rtl">תפל</span> ‘insipid’: it indicates therefore the lack of salt. This denotation can also be understood in a metaphorical sense to indicate the uselessness of a given action (see Lam 2:14, in parallelism with <span dir="rtl">שָׁוְא</span>). In line with a semantic development common to other languages (cf. e.g. Italian ‘insulso’ or Tuscan sciocco’), the lack of salt is projected onto the mental and cognitive plane, indicating the lack of rationality and sound sense.<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> That <span dir="rtl">תִּפְלָה</span> indicates essentially a lack of intellectual discrimination had already been grasped by the LXX (McKane 1986:573; Marböck 1995:730), which has ἀφροσύνη in Job 1:22.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> On the other hand the primary meaning ‘lack of salt’ is reflected in αʹ at Jer 23:13 (ἄναλος), while elsewhere the translations interpret the substantive in a metaphorical sense on the
@@ -307,7 +308,7 @@ As the polar antonym of <span dir="rtl">טַעַם</span>, ‘reason’, it indi
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Bendavid 1967-71   <br>

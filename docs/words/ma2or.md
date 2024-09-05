@@ -458,7 +458,7 @@ rendering (Gunkel);  a simple ‘light’ (which might indicate also a light sou
 ##<span id="Bibl">Bibliography</span>
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Aalders 1957  <br>

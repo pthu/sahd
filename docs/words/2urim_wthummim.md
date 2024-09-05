@@ -9,7 +9,7 @@
 
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Cult](../semantic_fields/cult.md)&nbsp;&nbsp;&nbsp;[Divination](../semantic_fields/divination.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[Kees den Hertog](../contributors/kees_den_hertog.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<br>
+[Kees den Hertog](../contributors/kees_den_hertog.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
 First published: 2022-08-02<br>Last update: 2024-05-30 <br>Citation: Kees den Hertog,&nbsp;Paul Sanders, אוּרִים וְתֻמִּים <i>ʾūrīm w<small><sup>e</sup></small>ṯummīm</i> – Urim and Thummim, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2022 (update: 2024)
 
 
@@ -967,7 +967,7 @@ that the Urim and the Thummim were still held in high esteem.
 ##<b><span id="Bibl">Bibliography</b></span>
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1235,8 +1235,7 @@ Berlin: Reimer.
 
 ## Notes 
 
-<small>Many thanks are due to Johannes C. de Moor(†) for his valuable suggestions. 
-</small>
+
 
 [^1]: Cf. <i>DCH</i> viii:644 (<i>sub</i> d); <i>HALOT</i>, 1750 (<i>sub</i> D).
 [^2]: Barthélemy, <i>CTAT</i> 1:186-87; cf. Toeg 1969:493-94.
@@ -1305,4 +1304,4 @@ Berlin: Reimer.
 [^64]: Lambert 2007:19.
 [^65]: E.g., Orlamünde 2001; Marcuson 2016:100-75; Warbinek 2019b:137-39.
 [^66]: We quote from the translation of <i>KUB</i> 5.1 by Beal (1999:48). His translation of some other Hittite KIN texts was published in <i>COS</i> 1:207-11 (1.79).
-[^astragali]: Photo by Matthew Susnow, courtesy of the Tel Abel Beth Maacah Excavations.
+[^astragali]: Photo by Matthew Susnow, courtesy of the Tel Abel Beth Maacah Excavations.<p id="contributors_footnote">Many thanks are due to Johannes C. de Moor(†) for his valuable suggestions.</p>

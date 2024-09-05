@@ -1,11 +1,11 @@
+<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
+# Abbreviations Biblical Books
 
 Most abbreviations of series, handbooks and journals used in
 this database are according to:
 <i>The SBL Handbook of Style: for Biblical Studies and Related Disciplines</i>, 
 Atlanta, GA: SBL Press, <small><sup>2</sup></small>2014.  
-
-## Abbreviations Biblical Books
 
 <style>
 table, th, td {
@@ -215,7 +215,8 @@ th:nth-child(even),td:nth-child(even) {
   	<td>  Epistle of Jeremiah  </td>
   	<td>  Wis  </td>
   	<td>  Wisdom of Solomon </td>   
-  </tr>   </table>
+  </tr>   
+</table>
 
 <style>
 table, th, td {

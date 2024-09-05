@@ -12,7 +12,7 @@ Author(s):
 First published: 2010-07-31<br>Last update: 2024-08-13 (Paul Sanders) <br>Citation: Graham I. Davies, פרק <i>pāraq</i> – to pull off, tear away, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
 
 
-For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">‘Overview
+For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">Overview
 of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
@@ -430,7 +430,7 @@ suppose that  <span dir="rtl">פרק</span> ever had the technical sense ‘rede
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/txt"	>List of Abbreviations</a>.
+<a href="/store/abbreviations/txt"	>List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Anderson 1972 <br>

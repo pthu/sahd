@@ -84,7 +84,7 @@ The Akk. cognate <i>ṭamû</i>
 means ‘to spin, twist, braid, entwine’. See <i>CAD</i> Ṭ, 45-46 (similarly <i>AHw</i> <small>III</small>, 1382),
 with quotations from several texts referring to spinning with a 
 <sup><small><span style="text-transform:uppercase;">giš</span></sup><span style="text-transform:uppercase;">bal</span></small> = <i>pilakku</i>, ‘spindle’ 
-(→ <a href="/sahd/words/spindle/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>). 
+(→ <a href="/words/pelek/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>). 
 The quoted phrases demonstrate that the verb <i>ṭamû</i> 
 was not only used for spinning threads from raw fibres,
 but also for twisting 
@@ -118,7 +118,7 @@ It does occur in rabbinic Heb., where it denotes the processing of wool (<span d
 tKelim Bava Batra 1:6, bShabbat 74b) 
 or flax (<span dir="rtl" lang="he">פִּשְׁתָּן</span>; 
 mNegaʿim 2:4,  bZevaḥim 79a) 
-with a spindle (→ <a href="/sahd/words/spindle/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>; bKetubbot 72b). 
+with a spindle (→ <a href="/words/pelek/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>; bKetubbot 72b). 
 tKelim Bava Batra 1:6 includes the expression
 <span dir="rtl" lang="he">טָווּי שֶעַל גַּבֵּי הַפֶּלֶך</span>,
 ‘spun (wool) which is on the spindle’. 
@@ -221,7 +221,7 @@ Exod 35:25, where
 <b>A.1</b> 
 In BHeb., the semantic field of spinning includes the verb 
 <span dir="rtl" lang="he">טוה</span>, ‘to spin’ (Exod 35:25-26), and its derivative <span dir="rtl" lang="he">מַטְוֶה</span>, ‘spun yarn’ (Exod 35:25), as well as the noun 
-→ <a href="/sahd/words/spindle/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, which denotes the spindle, the instrument with which the spinning was performed.
+→ <a href="/words/pelek/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, which denotes the spindle, the instrument with which the spinning was performed.
 The verb <span dir="rtl" lang="he">שׁזר</span>, ‘to twist’ 
 (see <span dir="rtl" lang="he">מָשְׁזָר</span> in Exod 26:1, etc.), denotes an activity that was probably also covered by the verb <span dir="rtl" lang="he">טוה</span> 
 and that seems to have been performed also with a <span dir="rtl" lang="he">פֶּלֶךְ</span>.
@@ -268,7 +268,7 @@ of the tent (<span dir="rtl" lang="he">אֹהֶל</span>)
 covering the sanctuary (26:7; 36:14).  
 Although Exod 35:25 says that the women spun with their hands 
 (<span dir="rtl" lang="he">בְּיָדֶיהָ</span>),
-this certainly does not exclude that they made use of a → <a href="/sahd/words/spindle/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, ‘spindle’,
+this certainly does not exclude that they made use of a → <a href="/words/pelek/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, ‘spindle’,
 the common instrument with which spinning went much faster and easier and which was driven with the hand. 
 In order to perform the spinning properly, the female spinners needed to be ‘wise of heart’ (<span dir="rtl" lang="he">חַכְמַת־לֵב</span>, 35:25; cf. <span dir="rtl" lang="he">בְּחָכְמָה</span>, 35:26).
 After the women had spun the yarn (<span dir="rtl" lang="he">מַטְוֶה</span>),
@@ -308,14 +308,14 @@ the twisting of the linen was performed by the spinning women, as part of the
 work designated by <span dir="rtl" lang="he">טוה</span>,
 or by the craftsmen who took care of the further processing of the materials
 (see <span dir="rtl" lang="he">שֵׁשׁ</span> without <span dir="rtl" lang="he">מָשְׁזָר</span> in 35:35 and 38:23). 
-However, since the twisting of the linen threads was usually performed with a → <a href="/sahd/words/spindle/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, ‘spindle’, which was regarded as a women’s instrument,
+However, since the twisting of the linen threads was usually performed with a → <a href="/words/pelek/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, ‘spindle’, which was regarded as a women’s instrument,
 the twisting was probably also done by the women.
 See also the 
 <a href="#Akkadian">Akk. verb <i>ṭamû</i></a>, which denotes the spinning as well as the twisting of threads.
 
 <b>A.3</b> <span id="RAB">The interpretation of <span dir="rtl" lang="he">טוה</span>  as relating to forming yarn is </span>
 confirmed by rabbinic texts,
-which mention the → <a href="/sahd/words/spindle/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, ‘spindle’, as the instrument with which 
+which mention the → <a href="/words/pelek/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, ‘spindle’, as the instrument with which 
 the spinning was performed
 (see <a href="#PBH">Postbiblical Hebrew</a>).
 tBerakhot 6:2 describes a specific order in which the processing of the raw materials took place 
@@ -337,7 +337,7 @@ bBerakhot 58a refers to the same sequence of actions as the other rabbinic texts
 
 <b>A.1</b> In the Cave of the Letters (cave 5-6) in Naḥal Ḥever, three wooden and two stone spindle whorls were found, together with a bundle of dyed, unspun wool and 
 balls of woollen and linen threads, all with 135 <small>CE</small> as the <i>terminus ad quem</i> (Yadin 1963:35-36, 130-32, 169-88, 252, 256, plates 36, 59, 88).
-See further → <a href="/sahd/words/spindle/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, ‘spindle’.
+See further → <a href="/words/pelek/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, ‘spindle’.
 
 
 ##<span id="Con">7. Conclusion</span>
@@ -346,13 +346,13 @@ See further → <a href="/sahd/words/spindle/"><span dir="rtl" lang="he">פֶּ�
 In Biblical Hebrew, the verb <span dir="rtl" lang="he">טוה</span>  means ‘to spin’. It designates the production of threads from fibres, especially wool and flax, but apparently also 
 the plying together of two or more thin threads to form a stronger yarn (see Akkadian <a href="#Akkadian"><i>ṭamû</i></a> 
 and Biblical Hebrew <a href="#twisted">שֵׁשׁ מָשְׁזָר</a>). 
-These activities were usually carried out with a → <a href="/sahd/words/spindle/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, ‘spindle’. 
+These activities were usually carried out with a → <a href="/words/pelek/"><span dir="rtl" lang="he">פֶּלֶךְ</span></a>, ‘spindle’. 
 
 
 ## <span id="Bibl">Bibliography</span>
 
 For the abbreviations see the 
-<a href="/sahd/store/abbreviations/">List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
