@@ -159,11 +159,11 @@ shortened form of <i>yṯʿil</i> (Sawyer 1975:78).
 1915<sup>II</sup>:1319; 
 Ges<sup><small>18</small></sup>, 449). The name <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> is seen as a combination of a form of <span dir="rtl" lang="he">יהוה</span> and a noun derived from 
 <span dir="rtl" lang="he">ישׁע</span>
-(Ges<sup><small>18</small></sup>, 449).<sup id="fnref:EA"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:EA')">EA</a></sup> 
+(Ges<sup><small>18</small></sup>, 449).<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> 
 This identification of the name <i>Yašuya</i> with the name <span dir="rtl" lang="he">יְהוֹשֻׁעַ</span> was rejected by Albright (1943:12 n. 27), arguing that the Akk. form
 should have been *<i>Ya-ḫu-šu-uḫ</i>.
 
-[^EA]: <i>HAL</i>, 379; <i>HALOT</i>, 397 assumes the combination of <span dir="rtl" lang="he">יהוה</span> and <span dir="rtl" lang="he">שׁוע</span>, ‘Yhwh is help’.
+[^1]: <i>HAL</i>, 379; <i>HALOT</i>, 397 assumes the combination of <span dir="rtl" lang="he">יהוה</span> and <span dir="rtl" lang="he">שׁוע</span>, ‘Yhwh is help’.
 
 
 <b>A.7</b> The Aram. name <i>hdysʿy</i> (Akk. <i>adad-it-ʾi</i>) in ll. 1, 6 and 12 of
@@ -225,8 +225,8 @@ decisive as it previously seemed (on the possible problem of the initial
 is in fact no actual overlap in meanings between the attested uses of
 יָשַׁע
  and those of <i>wasiʿa</i>: יָשַׁע never means ‘be wide’ or ‘make
-wide’<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> and <i>wasiʿa</i> never has the sense of ‘save,
-deliver, help’ (Lane 8[supplement], 3052-53).<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> Thirdly, while צָרַר I is attested meaning both
+wide’<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> and <i>wasiʿa</i> never has the sense of ‘save,
+deliver, help’ (Lane 8[supplement], 3052-53).<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> Thirdly, while צָרַר I is attested meaning both
 ‘narrowness’ and ‘distress’, it cannot be said to be established that
 ‘narrowness’ is the basic meaning from which ‘distress’ is derived. In
 fact ‘narrow’ in the physical sense is a rather rare meaning of the
@@ -236,8 +236,8 @@ suggesting that the association may well be due to semantic
 considerations rather than related underlying etymologies (cf. Sawyer
 1965:475 n. 5).
 
-[^1]: <i>Pace</i> Gesenius (<i>TPC</i> ii:640), <span dir="rtl" lang="he">בְּיֵשַׁע</span> in Ps 12:6 need not mean ‘in a wide space’.
-[^2]: On such problems in general see Barr 1968:86-91.
+[^2]: <i>Pace</i> Gesenius (<i>TPC</i> ii:640), <span dir="rtl" lang="he">בְּיֵשַׁע</span> in Ps 12:6 need not mean ‘in a wide space’.
+[^3]: On such problems in general see Barr 1968:86-91.
 
 
 <b>B.2</b>  The possibility that both <i>yṯʿ</i>&nbsp; and Arab. <i>wasiʿa</i> might go back to a
@@ -482,9 +482,9 @@ it is the predicate of and <span dir="rtl" lang="he">יהוה</span>
 
 Hiphil:   
 
-* ἀμύνομαι, ‘to help and defend’:<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> Isa 59:16;  
+* ἀμύνομαι, ‘to help and defend’:<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> Isa 59:16;  
 * ἀνασώζω, ‘to rescue’: Zech 8:7;  
-* \[[ἀπόλλυμι]], ‘to destroy’:<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> Job 5:15;  
+* \[[ἀπόλλυμι]], ‘to destroy’:<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> Job 5:15;  
 * βοηθέω, ‘to aid, help’: Deut 22:27; 28:29, 31; Prov 20:22; 1&nbsp;Chron 19:19;  
 * βοηθός:, ‘helper, help’: 2&nbsp;Sam 22:42;  
 * διασώζω, ‘to preserve, save’: Deut 20:4; Hos 13:10; Zech 8:13;  
@@ -492,7 +492,7 @@ Hiphil:
 * ἐλεέω, ‘to have pity on’: Sir 33:1;  
 * ἐξαιρέω, ‘to take (out)’: Josh 10:6; Sir 4:9;  
 * λυτρόω, ‘to redeem’: Sir 48:20; 49:10;  
-* ποιέω, ‘to make, bring about’ (+ σωτηρίαν, ‘deliverance’ = <span dir="rtl" lang="he">תְּשׁוּעָה</span>):<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> 1&nbsp;Chron 11:14;  
+* ποιέω, ‘to make, bring about’ (+ σωτηρίαν, ‘deliverance’ = <span dir="rtl" lang="he">תְּשׁוּעָה</span>):<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup> 1&nbsp;Chron 11:14;  
 * ῥύομαι, ‘to rescue’: Exod 2:17; 14:30; Josh 22:22; Isa 49:25, 26; 63:5; Ezek 37:23;  
 * σωτήρ, ‘saviour, deliverer’: Judg 3:9, 15; 1&nbsp;Sam 10:19; 2 Sam 22:3 (1st, LXX<sup>Ant</sup>); Isa 45:15, 21; Neh 9:27;  
 * σωτηρία, ‘deliverance, salvation’: 2&nbsp;Sam 22:3 (1st); 2&nbsp;Kgs 13:5; 14:27; Isa 38:20; 47:15; 63:8;  
@@ -508,9 +508,9 @@ Hiphil:
 9:27; 1&nbsp;Chron 16:35; 18:6, 13; 19:12; 2&nbsp;Chron 20:9; 32:22; 
 * Omitted: 2&nbsp;Kgs 19:34; Isa 25:9; Job 26:2?; Sir 31:6.    
 
-[^3]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>, <i>s.v.</i>.
-[^4]: <i>GELS</i>, 78; LEH<sup><small>3</small></sup>, 70, ‘let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves’. 
-[^5]: <i>GELS</i>, 568–70, 668; LEH<sup><small>3</small></sup>, 501, 603; cf. <i>NETS</i>.
+[^4]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>, <i>s.v.</i>.
+[^5]: <i>GELS</i>, 78; LEH<sup><small>3</small></sup>, 70, ‘let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves’. 
+[^6]: <i>GELS</i>, 568–70, 668; LEH<sup><small>3</small></sup>, 501, 603; cf. <i>NETS</i>.
 
 
 Large omission: Jer 30:10, 11.  
@@ -521,9 +521,9 @@ Niphal:
 * διασώζω passive, `to come safe through/ to’: Num 10:9; Jer 8:20;  
 * \[[πλανάω, ‘to wander, go astray’]]: Isa 64:4;  
 * σώζω active, ‘to save, keep alive’: Zech 9:9;  
-* σώζω passive, ‘to be saved, attain salvation’:<sup id="fnref:6a"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6a')">6a</a></sup> Deut 33:29; 2&nbsp;Sam 22:4; Isa 30:15; 45:17, 22; Jer 4:14; 17:14; 23:6; 30[37]:7; Pss 18[17]:4; 33[32]:16; 80[79]:4, 8, 20; 119[119]:117.  
+* σώζω passive, ‘to be saved, attain salvation’:<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup> Deut 33:29; 2&nbsp;Sam 22:4; Isa 30:15; 45:17, 22; Jer 4:14; 17:14; 23:6; 30[37]:7; Pss 18[17]:4; 33[32]:16; 80[79]:4, 8, 20; 119[119]:117.  
 
-[^6a]: LEH<sup><small>3</small></sup>, 602, offers for σώζω passive also the meaning ‘to save oneself, escape’. 
+[^7]: LEH<sup><small>3</small></sup>, 602, offers for σώζω passive also the meaning ‘to save oneself, escape’. 
 
 
 Large omission: Jer 33:16.  
@@ -563,7 +563,7 @@ although others have followed the MT (e.g. Watts 1987:238).
 Hiphil:   
 
 * <span dir="rtl" lang="-">ܙܟܝ</span>/<span dir="rtl" lang="-">ܙܟܐ</span>
-(<i>zky</i>/<i>zkʾ </i>) <i>pael</i>, `to make victorious’:<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup> Judg 7:2;
+(<i>zky</i>/<i>zkʾ </i>) <i>pael</i>, `to make victorious’:<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> Judg 7:2;
 * <span dir="rtl" lang="-">ܢܦܩ</span>
 (<i>npq</i>) <i>aphel</i>, ‘to bring out’: Ps 107:19;  
 * <span dir="rtl" lang="-">ܣܡܟ</span>
@@ -611,7 +611,7 @@ Sir 4:9; 31:6; 36:1; 48:20;
 * Omitted: 1&nbsp;Sam 25:31; Josh 10:6; Isa 43:11.  
 
 
-[^7]: The English renderings of the Syriac are based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
+[^8]: The English renderings of the Syriac are based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
 
 
@@ -653,7 +653,7 @@ most part to render the ptc.
 
 Hiphil:  
 
-* <span dir="rtl" lang="he">חשׁב</span>, ‘to think’:<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> Ps 18:28;
+* <span dir="rtl" lang="he">חשׁב</span>, ‘to think’:<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> Ps 18:28;
 * <span dir="rtl" lang="he">פרוק</span>, ‘redeemer’: Hos 13:4;
 * <span dir="rtl" lang="he">פּרק</span>, ‘to redeem’: Exod 2:17; 14:30; 
 Deut 20:4; 22:27; 28:29, 31; Josh 10:6; 22:22;
@@ -678,7 +678,7 @@ Lam 4:17;
 * <span dir="rtl" lang="he">שׁיזב</span> Shaph., ‘to release, save’: Obad 21;
 * Omitted: Ps 118:25; Neh 7:29.
 
-[^8]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
+[^9]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
 
 
@@ -713,7 +713,7 @@ may be made with Ps 33:16 where in the Tg נושׁע is rendered מתפריק
 
 Hiphil:  
 
-* <i>adiuvo</i>, ‘to give aid to, to help’:<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> Deut 28:31; 1&nbsp;Chron 18:6;  
+* <i>adiuvo</i>, ‘to give aid to, to help’:<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup> Deut 28:31; 1&nbsp;Chron 18:6;  
 * <i>audio</i>, ‘to hear, to listen’: Sir 48:22;
 * <i>auxilior</i>, ‘to give help, aid to’: 2&nbsp;Sam 10:11; 
 * [[<i>conloquor</i>, ‘to converse with’: Sir 11:20]]; 
@@ -752,7 +752,7 @@ Neh 9:27;
 * <i>ulciscor</i>, ‘to avenge, to take vengeance’: 1&nbsp;Sam 25:31, 33;  
 * Omitted: Judg 12:3.
 
-[^9]: The English renderings of the Latin are based on Lewis and Short, <i>LD</i>, <i>s.v.</i>
+[^10]: The English renderings of the Latin are based on Lewis and Short, <i>LD</i>, <i>s.v.</i>
 
 
 
