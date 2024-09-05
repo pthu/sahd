@@ -86,7 +86,7 @@ as the rendering of <span dir="rtl">וּפְ/מְרַק פִּגֻּלִ֖ים �
 
 <b>c. Targum (Tg: J)</b>:
 
-* <span dir="rtl">רְטַף</span>/<span dir="rtl">רְטַב</span>, ‘juice, broth’:[^av1] Isa 65:4.
+* <span dir="rtl">רְטַף</span>/<span dir="rtl">רְטַב</span>, ‘juice, broth’:<sup id="fnref:av1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:av1')">av1</a></sup> Isa 65:4.
 
 [^av1]: Jastrow, <i>DTT</i>, 1471.
 

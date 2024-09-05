@@ -61,8 +61,8 @@ all the others are derived (see B.1 below).
 
 <span id="RCMA3"><b>A.3</b></span> In <i>North-West Semitic</i> the earliest occurrences are in Ugaritic, in
 a formulaic idiom <i>yprq lṣb</i> (<i>KTU</i> 1.4 iv:28; 1.6 iii:16; 1.17 ii:10), which was formerly understood to refer to the ‘opening’ of ‘the passage of the throat’ (see the earlier refs. in <i>HAL</i>, 916) but which is now known to mean ‘he unknitted (his) brow’, from a broader sense ‘release, slacken’ (<i>DULAT</i><small><sup> 1</sup></small>, 681; for the newer understanding of <i>lṣb</i> see p. 505). In later Hebrew the most common meanings are ‘remove’, ‘separate’ and ‘take to pieces’ (for other meanings see Jastrow, <i>DTT</i>, 1238-39). In Aramaic there is one early occurrence in a fragmentary portion of the Sefire treaties (<i>KAI</i> 222B 34), for which <i>DNWSI</i>, 943, proposed ‘cut off (water-supply?)’, but the context is damaged and unclear (<i>HAL</i>, 916, has ‘zerstören’, Ges<small><sup>18</sup></small>, 1083, ‘auflösen, befreien’) and no secure conclusions can be drawn. In early Jewish rendering for Heb. <span dir="rtl">נצל</span> (4Q157=TgJob f1 ii 9, prob. Job 5:7), <span dir="rtl">פדה</span> (11Q10=TgJob 23:6, Job 33:28) and  <span dir="rtl">חלץ</span> (ibid. 27:9; Job 36:15), implying the meaning ‘save, redeem’. The contexts in 4Q541 f24 ii:3 and 4Q546 f8 1 are badly damaged and
-unclear (but see DJD XXXI, 252-54, 360, which suggests ‘redeemed’ [i.e. ‘forgave (faults)’] for the former passage). In Nabataean the sense ‘redeem’ is attested,[^rcm1] while in Jewish magical texts it means ‘loosen’ (a demon: better ‘remove’?)
-according to <i>DNWSI</i>, 943. In other Jewish Aramaic texts, especially the Targums, the meanings ‘redeem’ and ‘rescue’ are most common, but ‘remove’, ‘fall apart’, ‘untie’ and ‘divide’ are also attested.[^rcm2] 
+unclear (but see DJD XXXI, 252-54, 360, which suggests ‘redeemed’ [i.e. ‘forgave (faults)’] for the former passage). In Nabataean the sense ‘redeem’ is attested,<sup id="fnref:rcm1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:rcm1')">rcm1</a></sup> while in Jewish magical texts it means ‘loosen’ (a demon: better ‘remove’?)
+according to <i>DNWSI</i>, 943. In other Jewish Aramaic texts, especially the Targums, the meanings ‘redeem’ and ‘rescue’ are most common, but ‘remove’, ‘fall apart’, ‘untie’ and ‘divide’ are also attested.<sup id="fnref:rcm2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:rcm2')">rcm2</a></sup> 
 Samaritan Aramaic knows the meanings ‘redeem’, ‘go away’, ‘unload’,
 ‘dismantle’, ‘be discharged’ and (uniquely) ‘be specified’ (<i>CAL</i>, s.v.).
 In Syriac the meanings ‘remove’, ‘rescue, free’ and also ‘withdraw’
@@ -190,7 +190,7 @@ Ezek 19:12<small><sup>LXX</sup></small>;
 * <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>peal</i>, ‘to save, liberate’: Exod 32:3; 
 * <span dir="rtl">ܦܪܩ</span> (<i>prq</i>) <i>ithpeel</i>, ‘to be saved, liberated’: Ezek 19:12.
 
-<b>c. Targum (Tg: O/N/PsJ/J/K)</b>:[^av1]
+<b>c. Targum (Tg: O/N/PsJ/J/K)</b>:<sup id="fnref:av1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:av1')">av1</a></sup>
 
 [^av1]: See also the useful review of all the occurrences of Aram. <span dir="rtl">פרק</span> in Tg<small><sup>J</sup></small> of Isa by van Zyl 1972.
 
@@ -328,7 +328,7 @@ there is a need for violence in the removal of the jewellery by the men
 <span id="ExA2"><b>A.2</b></span> Violence is also implied in Gen 27:40, Ezek 19:12 and Zech 11:16,
 where  <span dir="rtl">פרק</span> is used metaphorically of either the overthrow of political
 power or (in Zech 11:16, part of a passage that is based on Ezek
-34:1-10) of the cruel use of political power.[^ex1] 
+34:1-10) of the cruel use of political power.<sup id="fnref:ex1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:ex1')">ex1</a></sup> 
 
 [^ex1]: See Gunkel 1910:314; Westermann 1981:540 (with a comparison to 2 Kgs 8:20-22); Cooke 1936:210, 212, Zimmerli 1979:398; Rudolph 1976:201, 203; Petersen 1995:98-99.
 
@@ -342,7 +342,7 @@ of Gen 27:40 - and the use of  <span dir="rtl">נתץ</span> with  <span dir="rt
 
 <b>A.4</b>  In Ps 5:7 too (see <a href="#TDB1">Text Doubtful</a>)  <span dir="rtl">פרק</span> is probably used as a
 continuation of the violent animal metaphor in the first part of the
-verse.[^ex2] 
+verse.<sup id="fnref:ex2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:ex2')">ex2</a></sup> 
 
 [^ex2]: So Gunkel 1926:25; and even Briggs and Briggs 1907-09:52-53, 57, who prefer to emend with LXX.
 
@@ -352,7 +352,7 @@ verse.[^ex2]
 
 
 <b>B.1</b>  In view of the clear evidence of a violent meaning it is a mistake to interpret occurrences of  <span dir="rtl">פרק</span> on the basis of a predominantly positive
-sense.[^ex3] 
+sense.<sup id="fnref:ex3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:ex3')">ex3</a></sup> 
 
 [^ex3]: So Propp 2006:549, who sees the sense in Exod 32 as ironic; Provan 1991:129, who cites parallels in Judges (using <span dir="rtl">ישׁע</span> <i>hiph.</i>) without noting the difference; Kraus 1978:190-91, 194, who cites this as a reason for emending with LXX.
 
@@ -377,7 +377,7 @@ Dissatisfaction with the syntax presupposed may have led the NEB
 translators to adopt the unparalleled meaning ‘throw away’ for  <span dir="rtl">פרק</span>. In
 fact ‘tear off their hooves’ is a perfectly acceptable sense and reflects
 the shepherd’s determination to consume every last piece of meat from
-the animal.[^ex4] 
+the animal.<sup id="fnref:ex4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:ex4')">ex4</a></sup> 
 
 [^ex4]: So Rudolph 1976:201, 203, citing Dalman, <i>AuS,</i> 6:230; Petersen 1995:86, 88.
 
