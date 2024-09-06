@@ -48,10 +48,10 @@ post-biblical Hebrew.
 <b>A.4</b>  In <i>Akkadian</i> only <i>pīrqu</i> is attested, first (by metathesis from <i>paqrū</i> or <i>baqrū</i>) at Nuzi in the sense ‘vindication’, and then, more relevantly, in late Babylonian for ‘redemption’, where it is plausibly seen as an Aram. loan-word (<i>AHw</i>, 867).
 
 <span id="RCMA5"><b>A.5</b>  In <i>post-biblical Hebrew</i>  <span dir="rtl">פֶּרֶק</span> (vowels certain?) occurs frequently
-with the meanings ‘joint, limb’ (and then of comparable parts of inanimate objects), ‘section, chapter’ (of a book) and ‘(period of) time, season’.<sup id="fnref:rcm1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:rcm1')">rcm1</a></sup> A meaning ‘load’ is given for one passage (Yalk. Lam. 1000;
+with the meanings ‘joint, limb’ (and then of comparable parts of inanimate objects), ‘section, chapter’ (of a book) and ‘(period of) time, season’.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> A meaning ‘load’ is given for one passage (Yalk. Lam. 1000;
 cf. Jastrow, <i>DTT</i>, 1240). A different word,  <span dir="rtl">פֵּרָקוֹן</span> (Jastrow, <i>DTT</i>, 1240), is used for ‘redemption’.
 
-[^rcm1]: Cf. Jastrow</i>, <i>DTT</i>, 1239-40 ,for instances. The meaning ‘part, section’ is also claimed by Dupont-Sommer for some Jewish magical texts (cf. <i>DNWSI</i>, 943).
+[^1]: Cf. Jastrow</i>, <i>DTT</i>, 1239-40 ,for instances. The meaning ‘part, section’ is also claimed by Dupont-Sommer for some Jewish magical texts (cf. <i>DNWSI</i>, 943).
 
 <b>A.6</b></span> In <i>Jewish Aramaic</i> <span dir="rtl">פִּרְקָא</span> occurs with similar meanings to  <span dir="rtl">פֶּרֶק</span>, but also once for a ‘cross-roads’ (Tg<small><sup>J</sup></small> Obad 1:14, based on the Heb.) and several times for a ‘session’ of a school 
 (Jastrow, <i>DTT</i>, 1240, presumably derived from the meaning ‘[period of] time’). <span dir="rtl">פִּרְקוּנָא</span> is used for ‘redemption’, and likewise  <span dir="rtl">פּוּרְקָנָא</span> (also for the payment itself).  <span dir="rtl">פַּרְקוּתָא</span> is attested once (Tg<small><sup>J</sup></small> 1 Sam 4:18, pres. in the sense ‘neck’, as in the Heb.).
@@ -95,9 +95,9 @@ fugitives.
 ## 4. Ancient Versions
 
 <b>a. Septuagint (LXX) and other Greek translations 
-(αʹ, σʹ)</b>:<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>
+(αʹ, σʹ)</b>:<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup>
 
-[^3]: Aquila (αʹ) and Symmachus (σʹ) are given according to Field<sup>II</sup>.
+[^2]: Aquila (αʹ) and Symmachus (σʹ) are given according to Field<sup>II</sup>.
 
 * ἀδικία, ‘wrongdoing, iniquity’: Nah 3:1<small><sup>LXX</sup></small>;
 * ἀποτομία, ‘cutting off’, or μελοκοπία, ‘mutilation’: Nah 3:1<small><sup>σʹ</sup></small>;
@@ -147,9 +147,9 @@ with the similar <span dir="rtl">נכה</span> <i>hiph.</i> in narrative context
 ## 6. Exegesis
 
 <b>A.1</b>  Commentators and translations generally adopt different meanings for the two occurrences of this word, although both have a context of war. Obad 1:14 is part of a passage which is critical of the behaviour of the Edomites after the fall of Jerusalem to the Babylonians, and <span dir="rtl">פֶּרֶק</span> is understood to mean a place where the Edomites waited (in ambush?) to capture the fleeing inhabitants. Both Bewer (1911:27, 42) and Wolff (1977:37) waver between
-‘breaches (in the wall of the city)’ and ‘parting of the ways’,<sup id="fnref:ex1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:ex1')">ex1</a></sup> citing versional and etymological support for these renderings (on the translation and textual note, see B.1 below).
+‘breaches (in the wall of the city)’ and ‘parting of the ways’,<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> citing versional and etymological support for these renderings (on the translation and textual note, see B.1 below).
 
-[^ex1]: For the latter, cf. BDB, 830; Marti 1904:236; van Hoonacker 1908:306-07 (cf. Arab. <i>frq</i>, <i>fariq</i>).
+[^3]: For the latter, cf. BDB, 830; Marti 1904:236; van Hoonacker 1908:306-07 (cf. Arab. <i>frq</i>, <i>fariq</i>).
 
 
 <b>A.2</b>  Neither Smith (1911:334-35, 355) nor Rudolph (1975:174-76) has any doubt about the meaning ‘plunder’ in Nah 3:1; in favour of it they cite the accusations in 2:10, 12-13 and parallels in Assyrian and Old
