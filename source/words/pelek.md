@@ -7,6 +7,9 @@ semantic_fields: utensils, craft, textile production,
 contributors: klaas_r._veenhof, paul_sanders  
 first_published: 2021-11-08  
 last_update: 2023-05-16   
+contributors_footnote: Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023; 
+professor emeritus Protestant Theological University, Kampen) and Benjamin Bogerd (Veenendaal) for their valuable suggestions.
+
  
 ---
 
@@ -780,7 +783,7 @@ Several modern translations rightly reflect the interpretation of פֶּלֶךְ
 ## Bibliography
 
 For the abbreviations see the 
-<a href=“/store/abbreviations/“>List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1084,9 +1087,4 @@ K. Lawson Younger, Jr., ‘The Phoenician Inscription of Azatiwada: An Integrate
 
 ## Notes
 
-<small>
-Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023; 
-professor emeritus Protestant Theological University, Kampen)
-and Benjamin Bogerd (Veenendaal) for their valuable suggestions.
-</small>
 

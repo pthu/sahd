@@ -7,7 +7,8 @@ semantic_fields: knowledge
 contributors: m._patrizia_sciumbata    
 first_published: 2009-09-16  
 last_update: 2024-06-30 (Raymond de Hoop, Paul Sanders)   
-update_info:   
+update_info:  
+contributors_footnote: Translated from Italian by Graham I. Davies. The section on the Peshitta benefited from the collaboration of Giovanni Lenzi, a Syriac specialist and a monk of the Piccola Famiglia dell’Annunziata.   
 additional_info: 
 
 ---
@@ -941,8 +942,7 @@ Document; Rules of the Community etc.
 
 
 ## Notes
-* Translated from Italian by Graham I. Davies. The section on the Peshitta benefited from the collaboration of Giovanni Lenzi, a Syriac specialist and a monk of the Piccola Famiglia dell’Annunziata. 
-
+ 
 [^1]: Cf. <i>BHS</i>; <i>HAL</i>, 1549; Harper 1905:395; Cathcart and Gordon 1989:58.
 [^2]: Mandelkern erroneously gives the <span dir="rtl">ו</span> for Job 32:11 in his concordance.
 [^3]: For the functional languages, see Sciumbata 1996-97:153-54; and the <a href="#Appendix">Appendix</a> above.

@@ -59,3 +59,5 @@ x 4; 30:5; 11QT 29:9(?); 53:3.
 For this entry, see James K. Aitken, <i>The Semantics of Blessing and Cursing in Ancient Hebrew</i> (2007), 121-32 (<a href="/store/printed_publications/">Printed publications</a>).
 
 
+
+

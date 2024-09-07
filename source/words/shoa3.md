@@ -55,7 +55,7 @@ however, it cannot support an association of <span dir="rtl">שׁוֹעַ</span> 
 association would only be possible with  <span dir="rtl">תְּשׁוּעָה</span>, whose form and
 meaning (sometimes ‘help’, perhaps related to ‘generosity’) could be linked to a Hebrew root  <span dir="rtl">שׁוע</span> understood in this way. Yet the study of <span dir="rtl">תְּשׁוּעָה</span> has found that its predominant meanings concern the effects of
 such help rather than the help itself (see 
-<a href="/words/thshu3ah/#1-root-and-comparative-material"><span dir="rtl">תְּשׁוּעָה</span>: Conclusions</a>)
+<a href="/words/thshu3ah/#7-conclusion"><span dir="rtl">תְּשׁוּעָה</span>: Conclusions</a>)
 and its root,
 if not <span dir="rtl">ישׁע</span>, is more likely to be a by-form of that than the root from
 which the noun  <span dir="rtl">שׁוֹעַ</span> is derived.

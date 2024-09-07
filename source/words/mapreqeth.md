@@ -143,7 +143,8 @@ specific reference to the (human?) neck-bone(s).
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/store/abbreviations/txt"	>List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
+
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Robinson 1855<br>

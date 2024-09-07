@@ -71,7 +71,7 @@ chain frequent in the Psalms of  <span dir="rtl">אֱלֹהֵי יֵשַׁע</sp
 
 ## 5. Lexical/Semantic Fields
 
-<b>A.1</b> See: <a href="https://sahd-online.com/words/y-sh-3/#5-lexicalsemantic-fields"><span dir="rtl">ישׁע</span>: Lexical/Semantic Fields’</a>.
+<b>A.1</b> See: <a href="https://sahd-online.com/words/y-sh-3/#5-lexicalsemantic-fields"><span dir="rtl">ישׁע</span>: Lexical/Semantic Fields</a>.
 
 <b>A.2</b> The noun <span dir="rtl">מוֹשָעָה</span> is a hapax legomenon, found at Ps 68:21. <span dir="rtl">מוֹשָעָה</span> seems to be in parallelism with both <span dir="rtl">יְשׁוּעָה</span>, ‘salvation’, in the previous verse and <span dir="rtl">לַמָּוֶת תּוֹצָאוֹת</span>, ‘escapes from death’, later in the same verse.
 

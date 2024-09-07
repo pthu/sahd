@@ -7,6 +7,8 @@ semantic_fields: gemstones, metals, cloth, colours, tribute
 contributors: meindert_dijkstra, paul_sanders  
 first_published: 2024-07-27
 last_update:   
+contributors_footnote: Many thanks are due to Ben Haring and Rients de Boer (Leiden) for their valuable suggestions with regard to the  Egyptian and Akkadian evidence.
+
 update_info:   
 shebanq_id: 1XCMNJMn		
 
@@ -1005,8 +1007,6 @@ Emanuel White, <i>A Critical Edition of the Targum of Psalms: A Computer Generat
 
 
 ## Notes 
-
-Many thanks are due to Ben Haring and Rients de Boer (Leiden) for their valuable suggestions with regard to the  Egyptian and Akkadian evidence.
 
 [^2]: KBL, 342; <i>HAL</i>, 348 (cf. <i>HALOT</i>, 362);   Ges<sup>18</sup>, 409: <i>DCH</i> iii: 333; <i>DCHR</i> iii: 433, 587.
 [^3]: The personal name <sup>m</sup><i>Ḫa-aš-ma-nu-um</i> is already attested in the Old Akkadian period; see Gelb 1957:135. The relationship with  the noun <i>ḫašmānu</i> is unclear.
