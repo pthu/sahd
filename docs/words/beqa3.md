@@ -148,25 +148,25 @@ Exod 39:3<sup>α’</sup> (38:26<sup><small>MT</small></sup>).
 
 * <span dir="rtl" lang="-">ܡܬܩܠܐ</span>
 (<i>maṯqālā</i>),
-‘weight, scale, shekel’:<sup id="fnref:21"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:21')">21</a></sup> Gen 24:22; Exod 38:26.
+‘weight, scale, shekel’:<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> Gen 24:22; Exod 38:26.
 
-[^21]: Payne Smith, <i>CSD</i>, 321; Sokoloff, <i>SLB</i>, 875.
+[^17]: Payne Smith, <i>CSD</i>, 321; Sokoloff, <i>SLB</i>, 875.
 
 
 <b> c. Targumim (Tg.: O/N/PsJ/Smr):</b>  
 
 * <span dir="rtl" lang="he">דרכמון</span>,
- ‘drachma’:<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> Gen 24:22<sup><small>PsJ</small></sup>; Exod 38:26<sup><small>PsJ</small></sup>;  
+ ‘drachma’:<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup> Gen 24:22<sup><small>PsJ</small></sup>; Exod 38:26<sup><small>PsJ</small></sup>;  
 * <span dir="rtl" lang="he">טבע</span>/* <span dir="rtl" lang="he">טבי</span>,
- ‘half-shekel, coin’:<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup> Gen 24:22<sup><small>N,Smr</small></sup>; Exod 38:26<sup><small>Smr</small></sup>;
+ ‘half-shekel, coin’:<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup> Gen 24:22<sup><small>N,Smr</small></sup>; Exod 38:26<sup><small>Smr</small></sup>;
 * <span dir="rtl" lang="he">תקלא</span>,
-‘shekel’:<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup> Gen 24:22<sup><small>O</small></sup>; Exod 38:26<sup><small>O</small></sup>;  
-* No rendering: Exod 38:26<sup><small>N</small></sup>.<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup>
+‘shekel’:<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup> Gen 24:22<sup><small>O</small></sup>; Exod 38:26<sup><small>O</small></sup>;  
+* No rendering: Exod 38:26<sup><small>N</small></sup>.<sup id="fnref:21"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:21')">21</a></sup>
 
-[^17]:  Levy, <i>CWT</i> vol. I:188: ‘<i>Dareicos</i>, eine persische Goldmünze = einem gemeinen Shekel’; Jastrow, <i>DTT</i>, 324: ‘(late b.h.) = דַּרְכּוֹן (= <i>Daric</i>, <i>ad loc.</i>); Dalman, <i>ANHT</i>, 105: ‘(δραχμή) Drachme’; Sokoloff, <i>DJPA</i>, 156.
-[^18]:  Tal, <i>DSA</i>, 302 s.v.  טבע; Levy, <i>CWT</i>, vol. I:294: ‘1. <i>geprägte Münze</i>, … bes. die Hälfte eines heiligen Sekel’. Jastrow, <i>DTT</i>, 519: ‘<i>Teb‛a</i>, a coin equal to half a Sela’. Dalman, <i>ANHT</i>, 166: ‘1. Münze; 2. eine bestimmte Münze (ein halber Sela)’.
-[^19]:  Levy, <i>CWT</i>, vol. II:551, ‘<i>Siclus</i>, u.zw. der gemeine Sekel = der Hälfte eines heiligen Sekels oder Sela = Dareikon, ungef. 13 Sgr. nach unserm Gelde’. Jastrow, <i>DTT</i>, 1691: ‘<i>weight</i>, esp. (<i>half a</i>) <i>Shekel</i>’. Dalman, <i>ANHT</i>, 447: ‘II. Sekel (Gewicht u. Münze)".
-[^20]: Only in the marginalia of Tg.<sup><small>N</small></sup> an equivalent טבע for MT בֶּקַע is found.
+[^18]:  Levy, <i>CWT</i> vol. I:188: ‘<i>Dareicos</i>, eine persische Goldmünze = einem gemeinen Shekel’; Jastrow, <i>DTT</i>, 324: ‘(late b.h.) = דַּרְכּוֹן (= <i>Daric</i>, <i>ad loc.</i>); Dalman, <i>ANHT</i>, 105: ‘(δραχμή) Drachme’; Sokoloff, <i>DJPA</i>, 156.
+[^19]:  Tal, <i>DSA</i>, 302 s.v.  טבע; Levy, <i>CWT</i>, vol. I:294: ‘1. <i>geprägte Münze</i>, … bes. die Hälfte eines heiligen Sekel’. Jastrow, <i>DTT</i>, 519: ‘<i>Teb‛a</i>, a coin equal to half a Sela’. Dalman, <i>ANHT</i>, 166: ‘1. Münze; 2. eine bestimmte Münze (ein halber Sela)’.
+[^20]:  Levy, <i>CWT</i>, vol. II:551, ‘<i>Siclus</i>, u.zw. der gemeine Sekel = der Hälfte eines heiligen Sekels oder Sela = Dareikon, ungef. 13 Sgr. nach unserm Gelde’. Jastrow, <i>DTT</i>, 1691: ‘<i>weight</i>, esp. (<i>half a</i>) <i>Shekel</i>’. Dalman, <i>ANHT</i>, 447: ‘II. Sekel (Gewicht u. Münze)".
+[^21]: Only in the marginalia of Tg.<sup><small>N</small></sup> an equivalent טבע for MT בֶּקַע is found.
 
 
 <b> d. Vulgate (Vulg.):</b>  
@@ -200,12 +200,12 @@ volume (De Vaux, <i>IAT</i>&nbsp;I, 309)
 
 
 <b> A.1</b> 
-The word  בֶּקַע has the basic meaning ‘split off’, ‘piece’, ‘part’,<sup id="fnref:25"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:25')">25</a></sup>
+The word  בֶּקַע has the basic meaning ‘split off’, ‘piece’, ‘part’,<sup id="fnref:24"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:24')">24</a></sup>
 and in Exod 38:26 it is a ‘part’ (from two parts) of a 
-shekel.<sup id="fnref:26"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:26')">26</a></sup>
+shekel.<sup id="fnref:25"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:25')">25</a></sup>
 
-[^25]:  Gesenius, <i>TPC</i> 1:232; BDB, 132; KBL,  144: ‘Teil, Stück <i>part, piece</i>’; Zorell, 124; <i>HAL</i>, 144; <i>HALOT</i>, 150; Ges<sup><small>18</small></sup>, 169.
-[^26]:  Gesenius, <i>TPC</i> 1:232: ‘pars dimidia, a findendo dicta (...), nonnisi spec. dimidius siclus’; <i>HAWAT</i>,  46: ‘1/2  Šeqel: ca. acht Gramm’; BDB, 132: ‘fraction, half, i.e. half-shekel, a weight’; <i>GB</i>,  111: ‘halber Sekel’; Zorell, 124: ‘… sec. Ex 38 26 dimidia pars sicli sacri (= 8,18 gr. nostri ponderis…)’; <i>HAL</i>, 144: ‘e. Gewicht als Metallwert 1/2 שֶׁקֶל; Halbschekel’. <i>DCH</i> ii:249: ‘half a shekel’. Ges<sup><small>18</small></sup>, 169: ‘GBdtg Abgespaltenes, bzw. Teil, i. MT Beka, Halbschekel 1. Gewicht (…) = ca. 6 g. m.lok. Abweichungen’.
+[^24]:  Gesenius, <i>TPC</i> 1:232; BDB, 132; KBL,  144: ‘Teil, Stück <i>part, piece</i>’; Zorell, 124; <i>HAL</i>, 144; <i>HALOT</i>, 150; Ges<sup><small>18</small></sup>, 169.
+[^25]:  Gesenius, <i>TPC</i> 1:232: ‘pars dimidia, a findendo dicta (...), nonnisi spec. dimidius siclus’; <i>HAWAT</i>,  46: ‘1/2  Šeqel: ca. acht Gramm’; BDB, 132: ‘fraction, half, i.e. half-shekel, a weight’; <i>GB</i>,  111: ‘halber Sekel’; Zorell, 124: ‘… sec. Ex 38 26 dimidia pars sicli sacri (= 8,18 gr. nostri ponderis…)’; <i>HAL</i>, 144: ‘e. Gewicht als Metallwert 1/2 שֶׁקֶל; Halbschekel’. <i>DCH</i> ii:249: ‘half a shekel’. Ges<sup><small>18</small></sup>, 169: ‘GBdtg Abgespaltenes, bzw. Teil, i. MT Beka, Halbschekel 1. Gewicht (…) = ca. 6 g. m.lok. Abweichungen’.
 
 <b> A.2</b> 
 The designation בֶּקַע is mentioned as a weight in Gen 24:22: 
@@ -236,8 +236,8 @@ A בֶּקַע is further referred to in Exod 38:26 as half a shekel
 
 <b> A.1</b> 
 Some pictures or drawings of <i>beka</i> weights have been 
-published.<sup id="fnref:27"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:27')">27</a></sup>
-[^27]:  Diringer 1934: Tav. XXIII, \#\# 14–17; Diringer 1958:231, pl. 13; Moscatti 1951: Tav. XXIV, \#\# 9–10; Scott 1959:36, fig. 7, \#\# 4–6; Strobel 1964:1166, Abb. 3, \# 3; Kletter 1998:218, Fig. 36; Stern 2001:196, Fig.  I.85.
+published.<sup id="fnref:26"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:26')">26</a></sup>
+[^26]:  Diringer 1934: Tav. XXIII, \#\# 14–17; Diringer 1958:231, pl. 13; Moscatti 1951: Tav. XXIV, \#\# 9–10; Scott 1959:36, fig. 7, \#\# 4–6; Strobel 1964:1166, Abb. 3, \# 3; Kletter 1998:218, Fig. 36; Stern 2001:196, Fig.  I.85.
 Two of these are presented below (Figs. 1–2), of which the round, stone weight is the most common 
 example.  
 
@@ -245,10 +245,10 @@ example.
 ![Beka iron weight](../images/photos/beka-cube1.jpg)&nbsp;
 
 
-Stone beka-weight<sup id="fnref:28"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:28')">28</a></sup> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Metal beka-weight<sup id="fnref:29"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:29')">29</a></sup>
+Stone beka-weight<sup id="fnref:27"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:27')">27</a></sup> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Metal beka-weight<sup id="fnref:28"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:28')">28</a></sup>
 
-[^28]:  Photograph: Zev Radovan; courtesy of the Israel Museum, Jerusalem. 
-[^29]:  Photograph: Zev Radovan; private collection.  
+[^27]:  Photograph: Zev Radovan; courtesy of the Israel Museum, Jerusalem. 
+[^28]:  Photograph: Zev Radovan; private collection.  
 
 
 <b> A.2</b> 
@@ -257,8 +257,8 @@ A First Temple period <i>beka</i> weight was discovered during the sifting proje
 ![](../images/photos/beka-mirror3.jpg)
 ![](../images/photos/beka-mirror4.jpg)
 
-<i>Beka</i> weight inscribed in mirror script.<sup id="fnref:31"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:31')">31</a></sup>
-[^31]:  Photograph: Eliyahu Yanai; Courtesy of the City of David Archive. 
+<i>Beka</i> weight inscribed in mirror script.<sup id="fnref:29"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:29')">29</a></sup>
+[^29]:  Photograph: Eliyahu Yanai; Courtesy of the City of David Archive. 
 
 
 <a id="archaeology"></a>
@@ -266,19 +266,19 @@ A First Temple period <i>beka</i> weight was discovered during the sifting proje
 
 
 <b> A.1</b> 
-Kletter mentions thirty-five weights designated  as a בֶּקָע with the letters ק ,ב, and ע (or one or two of these letters).<sup id="fnref:32"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:32')">32</a></sup> Their provenance is, as far as is known, for the most part in Judah. They date from 
+Kletter mentions thirty-five weights designated  as a בֶּקָע with the letters ק ,ב, and ע (or one or two of these letters).<sup id="fnref:30"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:30')">30</a></sup> Their provenance is, as far as is known, for the most part in Judah. They date from 
 the late 8th century BCE, and later centuries and vary in 
-weight from 5.51 to about 6.90 grams, with an average of 6,003 grams.<sup id="fnref:33"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:33')">33</a></sup>
-These weights, all homogeneous in shape, are as a rule made of stone as all weights were,<sup id="fnref:34"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:34')">34</a></sup>
-although a metal weight has been found.<sup id="fnref:35"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:35')">35</a></sup> 
+weight from 5.51 to about 6.90 grams, with an average of 6,003 grams.<sup id="fnref:31"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:31')">31</a></sup>
+These weights, all homogeneous in shape, are as a rule made of stone as all weights were,<sup id="fnref:32"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:32')">32</a></sup>
+although a metal weight has been found.<sup id="fnref:33"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:33')">33</a></sup> 
 It is also possible to point out a number of uninscribed <i>beka</i> weights (6.0-6.6 grams, mostly of stone), of which it is difficult to say whether they date from the same or from an earlier period (Kletter 1998: 132–37, 143, 254).
 
-[^32]: Kletter 1998:17, 43, 60, 76, 78–80, 52–53, 211–17, 243. 
-[^33]: Cf. Barrois 1953:255; Diringer 1958:228; Scott 1959:35; De Vaux, <i>IAT</i>, vol. I:311;  Kletter 
+[^30]: Kletter 1998:17, 43, 60, 76, 78–80, 52–53, 211–17, 243. 
+[^31]: Cf. Barrois 1953:255; Diringer 1958:228; Scott 1959:35; De Vaux, <i>IAT</i>, vol. I:311;  Kletter 
 1998:211–17, 243;  Kletter 2009:834–35; Röllig 
 2003:435–36; Bashan 2007:706; Cf. also Powell 1992:907. Heltzer 1998:44\*-46\*, argues for 6.82 gr as the weight of a Judaean half-shekel, whereas most studies assume the average weight in line with Kletter’s observations. In this respect the comment by Marvin Powell (Powell 1992:905) should be kept in mind: ‘Most surviving weight specimens are small and deviation from a given norm increases as the size of the weight decreases.’ Similarly Weippert 1977:93. 
-[^34]:  Cf. the reference to weights as ‘stones’ (אֶבֶן), comparable to Akk. and Ug.; e.g. Lev 19:36; 2 Sam 14:26; Mic 6:11; cf. <i>HALOT</i>, 8; Barrois 1953:252; De Vaux, <i>IAT</i>, vol. I:309; Weippert 1977:93; Powell 1992:905; Bashan 2007:703. 
-[^35]:  Shany 1967:54–55;  Kletter 1998:216, \# 20. Other (larger) weights were also cast, see Bashan 
+[^32]:  Cf. the reference to weights as ‘stones’ (אֶבֶן), comparable to Akk. and Ug.; e.g. Lev 19:36; 2 Sam 14:26; Mic 6:11; cf. <i>HALOT</i>, 8; Barrois 1953:252; De Vaux, <i>IAT</i>, vol. I:309; Weippert 1977:93; Powell 1992:905; Bashan 2007:703. 
+[^33]:  Shany 1967:54–55;  Kletter 1998:216, \# 20. Other (larger) weights were also cast, see Bashan 
 2007:703; for some illustrations of cast weights, see  <i>ANEP</i>, 36, \#\# 118–21; 341, \# 777.
 
 

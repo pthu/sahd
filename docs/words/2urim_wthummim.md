@@ -885,7 +885,7 @@ The conclusion was drawn that such astragali were cast or drawn in the context o
 
 
 &nbsp;&nbsp;
-![Worked astragali](../images/photos/UenT-Astralgi.jpg)&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Worked astragali<sup id="fnref:astragali"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:astragali')">astragali</a></sup>
+![Worked astragali](../images/photos/UenT-Astralgi.jpg)&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Worked astragali<sup id="fnref:67"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:67')">67</a></sup>
 
 <b>A.2</b>
 For the possibility that that cup-marked stones and rocks excavated in the Hittite capital Hattuša functioned 
@@ -1304,4 +1304,4 @@ Berlin: Reimer.
 [^64]: Lambert 2007:19.
 [^65]: E.g., Orlamünde 2001; Marcuson 2016:100-75; Warbinek 2019b:137-39.
 [^66]: We quote from the translation of <i>KUB</i> 5.1 by Beal (1999:48). His translation of some other Hittite KIN texts was published in <i>COS</i> 1:207-11 (1.79).
-[^astragali]: Photo by Matthew Susnow, courtesy of the Tel Abel Beth Maacah Excavations.<p id="contributors_footnote">Many thanks are due to Johannes C. de Moor(†) for his valuable suggestions.</p>
+[^67]: Photo by Matthew Susnow, courtesy of the Tel Abel Beth Maacah Excavations.<p id="contributors_footnote">Many thanks are due to Johannes C. de Moor(†) for his valuable suggestions.</p>
