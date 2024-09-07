@@ -1088,4 +1088,4 @@ K. Lawson Younger, Jr., ‘The Phoenician Inscription of Azatiwada: An Integrate
 ## Notes
 
 
-<p id="contributors_footnote">Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023;</p>
+<p id="contributors_footnote">Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023; professor emeritus Protestant Theological University, Kampen) and Benjamin Bogerd (Veenendaal) for their valuable suggestions.</p>
