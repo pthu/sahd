@@ -317,9 +317,11 @@ No rendering: Ps 118:15.
 
 [^4]: The English renderings of the Latin are based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
 
-<b>A.1</b>  The Versions in general choose the same translation equivalents as those of the cognate noun יֵשַׁע. What is striking in comparison with <span dir="rtl" lang="he">יֵשַׁע</span> is the rarity of translations denoting a ‘saviour’, since the LXX only gives the rendering σωτήρ on four occasions (Deut. 32:15; Isa 12:2a; Ps 62[61]:3, 7), Tg <span dir="rtl" lang="he">פרק</span> part. once (Deut 32:15), and the Vg<sup><small>PsH</small></sup> <i>Iesus</i> once (Ps 149:4).[^4a]
+<b>A.1</b>  The Versions in general choose the same translation equivalents as those of the cognate noun יֵשַׁע. What is striking in comparison with <span dir="rtl" lang="he">יֵשַׁע</span> is the rarity of translations denoting a ‘saviour’, since the LXX only gives the rendering σωτήρ on four occasions (Deut. 32:15; Isa 12:2a; Ps 62[61]:3, 7), Tg <span dir="rtl" lang="he">פרק</span> part. once (Deut 32:15), and the Vg<sup><small>PsH</small></sup> <i>Iesus</i> once (Ps 149:4).
+Vg applied the rendering <i>Iesus</i> five times for the noun <span dir="rtl">יֵשַׁע</span>, see
+<a href="/words/yesha3/#4-ancient-versions"><span dir="rtl"lang="he">יֵשַׁע</span>: 4. Ancient Versions</a>.[^5]
 
-[^4a]: For the translation in Vg see Margoni-Kögler 2017:61-64. Vg applied the rendering <i>Iesus</i> four times for the word <span dir="rtl">יֵשַׁע</span>, see YESHA-link.
+[^5]: For the translation in Vg see Margoni-Kögler 2017:61-64. 
 
 <b>B.1</b>  In Jon 2:10 Pesh’s use of 
 <span dir="rtl" lang="-">ܦܘܪܥܢܐ</span> (<i>purʿānā</i>), ‘recompense’, which is usually

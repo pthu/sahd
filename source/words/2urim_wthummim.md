@@ -885,7 +885,7 @@ The conclusion was drawn that such astragali were cast or drawn in the context o
 
 
 &nbsp;&nbsp;
-![Worked astragali](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/UenT-Astralgi.jpg)&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Worked astragali[^astragali]
+![Worked astragali](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/UenT-Astralgi.jpg)&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Worked astragali[^67]
 
 <b>A.2</b>
 For the possibility that that cup-marked stones and rocks excavated in the Hittite capital Hattuša functioned 
@@ -1304,4 +1304,4 @@ Berlin: Reimer.
 [^64]: Lambert 2007:19.
 [^65]: E.g., Orlamünde 2001; Marcuson 2016:100-75; Warbinek 2019b:137-39.
 [^66]: We quote from the translation of <i>KUB</i> 5.1 by Beal (1999:48). His translation of some other Hittite KIN texts was published in <i>COS</i> 1:207-11 (1.79).
-[^astragali]: Photo by Matthew Susnow, courtesy of the Tel Abel Beth Maacah Excavations.
+[^67]: Photo by Matthew Susnow, courtesy of the Tel Abel Beth Maacah Excavations.
