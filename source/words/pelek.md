@@ -7,8 +7,7 @@ semantic_fields: utensils, craft, textile production,
 contributors: klaas_r._veenhof, paul_sanders  
 first_published: 2021-11-08  
 last_update: 2023-05-16   
-contributors_footnote: Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023; 
-professor emeritus Protestant Theological University, Kampen) and Benjamin Bogerd (Veenendaal) for their valuable suggestions.
+contributors_footnote: Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023; professor emeritus Protestant Theological University, Kampen) and Benjamin Bogerd (Veenendaal) for their valuable suggestions.
 
  
 ---
