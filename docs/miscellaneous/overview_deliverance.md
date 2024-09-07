@@ -2,7 +2,7 @@
 
 # Overview of SAHD Entries for ‘Deliverance’ Words
 
-Author: <a href="/sahd/contributors/graham_i._davies//">Graham Davies</a>   
+Author: <a href="https://sahd-online.com/contributors/graham_i._davies/">Graham Davies</a>   
 First published: 2011-01-01  
 Last update: 2023-05-16 (Raymond de Hoop and Paul Sanders)  
 Citation: Graham I. Davies, Overview of SAHD Entries for  
