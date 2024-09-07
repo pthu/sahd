@@ -316,8 +316,8 @@ in a different direction.
 
 ## Bibliography
 
-For the abbreviations, see the 
-<a href="/store/abbreviations/txt"	>List of Abbreviations</a>.
+For the abbreviations see the 
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Barr 1987  <br>

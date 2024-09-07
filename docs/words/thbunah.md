@@ -9,7 +9,7 @@
 
 Semantic Fields:
 [Knowledge](../semantic_fields/knowledge.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[M. Patrizia Sciumbata](../contributors/m._patrizia_sciumbata.md)<br>
+[M. Patrizia Sciumbata](../contributors/m._patrizia_sciumbata.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
 First published: 2009-09-16<br>Last update: 2024-06-30 (Raymond de Hoop, Paul Sanders) <br>Citation: M. Patrizia Sciumbata, תְּבוּנָה <i>t<small><sup>e</sup></small>būnāh</i> – understanding, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2009 (update: 2024)
 
 
@@ -942,8 +942,7 @@ Document; Rules of the Community etc.
 
 
 ## Notes
-* Translated from Italian by Graham I. Davies. The section on the Peshitta benefited from the collaboration of Giovanni Lenzi, a Syriac specialist and a monk of the Piccola Famiglia dell’Annunziata. 
-
+ 
 [^1]: Cf. <i>BHS</i>; <i>HAL</i>, 1549; Harper 1905:395; Cathcart and Gordon 1989:58.
 [^2]: Mandelkern erroneously gives the <span dir="rtl">ו</span> for Job 32:11 in his concordance.
 [^3]: For the functional languages, see Sciumbata 1996-97:153-54; and the <a href="#Appendix">Appendix</a> above.
@@ -956,3 +955,4 @@ Document; Rules of the Community etc.
 
 
 
+<p id="contributors_footnote">Translated from Italian by Graham I. Davies. The section on the Peshitta benefited from the collaboration of Giovanni Lenzi, a Syriac specialist and a monk of the Piccola Famiglia dell’Annunziata.</p>

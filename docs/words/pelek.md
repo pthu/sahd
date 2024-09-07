@@ -9,7 +9,7 @@
 
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Craft](../semantic_fields/craft.md)&nbsp;&nbsp;&nbsp;[Textile Production](../semantic_fields/textile production.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[Klaas R. Veenhof](../contributors/klaas_r._veenhof.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<br>
+[Klaas R. Veenhof](../contributors/klaas_r._veenhof.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
 First published: 2021-11-08<br>Last update: 2023-05-16 <br>Citation: Klaas R. Veenhof,&nbsp;Paul Sanders, פֶּלֶךְ <i>pèlek</i> – spindle, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2021 (update: 2023)
 
 
@@ -783,7 +783,7 @@ Several modern translations rightly reflect the interpretation of פֶּלֶךְ
 ## Bibliography
 
 For the abbreviations see the 
-<a href=“/store/abbreviations/“>List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -1087,9 +1087,5 @@ K. Lawson Younger, Jr., ‘The Phoenician Inscription of Azatiwada: An Integrate
 
 ## Notes
 
-<small>
-Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023; 
-professor emeritus Protestant Theological University, Kampen)
-and Benjamin Bogerd (Veenendaal) for their valuable suggestions.
-</small>
 
+<p id="contributors_footnote">Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023;</p>

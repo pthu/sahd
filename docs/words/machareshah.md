@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># מַחֲרֵשָׁה/מַחֲרֶשֶׁת <i>maḥ<small><sup>a</sup></small>rēšāh</i>/<i>maḥ<small><sup>a</sup></small>rèšet – plough, hoe (?)
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># מַחֲרֵשָׁה/מַחֲרֶשֶׁת <i>maḥ<small><sup>a</sup></small>rēšāh</i>/<i>maḥ<small><sup>a</sup></small>rèšet</i> – plough, hoe (?)
 
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Agriculture](../semantic_fields/agriculture.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[Paul Sanders](../contributors/paul_sanders.md)<br>
-First published: 2017-12-29<br>Last update: 2023-11-29 <br>Citation: Paul Sanders, מַחֲרֵשָׁה/מַחֲרֶשֶׁת <i>maḥ<small><sup>a</sup></small>rēšāh</i>/<i>maḥ<small><sup>a</sup></small>rèšet – plough, hoe (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2017 (update: 2023)
+[Paul Sanders](../contributors/paul_sanders.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
+First published: 2017-12-29<br>Last update: 2023-11-29 <br>Citation: Paul Sanders, מַחֲרֵשָׁה/מַחֲרֶשֶׁת <i>maḥ<small><sup>a</sup></small>rēšāh</i>/<i>maḥ<small><sup>a</sup></small>rèšet</i> – plough, hoe (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2017 (update: 2023)
 
 
 ##<span id="I">Introduction</span>
@@ -810,14 +810,6 @@ G. Ernest Wright, ‘Archaeological News and Views’, <i>BA</i> 6/2:32-36.
 
 ## Notes 
 
-<small>
-
-Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project. 
-Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amsterdam). 
-
-</small>
-
-
 
 [^1]: If <span dir="rtl">מחרשֹׁת</span> in 13:21 were a plural form of  \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span>, the expected vocalisation in 13:21 would be  <span dir="rtl">מַחֲרָשֹׁת</span> (with <i>qameṣ</i>). Cf.  <span dir="rtl">מַעֲרָכוֹת</span> in Lev 24:6, <span dir="rtl">מַאֲכָלוֹת</span> in Prov 30:14, and the similar plural forms of other nouns mentioned in BL, 490&nbsp;aζ.
 [^2]: <i>DCH</i> v: 229-30. See also the discussion in <a href="#Versions">4. A.1-2</a> and <a href="#Exe-lit">6.1</a>.
@@ -905,3 +897,4 @@ Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amste
 [^83]: For the gradual replacing of bronze implements by iron implements in Israel/Palestine during the twelfth to tenth centuries <span style="text-transform:uppercase;">bce</span>, see McNutt 1990:209-11.
 [^84]: Borowski 1987:51, with  several drawings of plough-points (50-51, fig. 3, 4) and a survey of the sites where they were   discovered (49, 51).   For a similar description as well as drawings of plough-points, see <i>BRL</i><sup><small>2</small></sup>, 255 (fig. 66/1).  Excellent drawings of two iron plough-points excavated in Kinneret are offered in Fritz 1990:366-67   (Plate 116).  For a photo of an iron plough-point and other iron implements from Tel Miqne-Ekron,   see King & Stager 2001:93.
 [^85]: Cf. also  Wright 1943:35; Dietrich 2015:28.
+<p id="contributors_footnote">Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project.</p>

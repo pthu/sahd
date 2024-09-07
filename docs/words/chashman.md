@@ -9,7 +9,7 @@
 
 Semantic Fields:
 [Gemstones](../semantic_fields/gemstones.md)&nbsp;&nbsp;&nbsp;[Metals](../semantic_fields/metals.md)&nbsp;&nbsp;&nbsp;[Cloth](../semantic_fields/cloth.md)&nbsp;&nbsp;&nbsp;[Colours](../semantic_fields/colours.md)&nbsp;&nbsp;&nbsp;[Tribute](../semantic_fields/tribute.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[Meindert Dijkstra](../contributors/meindert_dijkstra.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<br>
+[Meindert Dijkstra](../contributors/meindert_dijkstra.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
 First published: 2024-07-27<br>Citation: Meindert Dijkstra,&nbsp;Paul Sanders, חַשְׁמַן <i>ḥašman</i> – amethyst(?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2024
 
 
@@ -1007,8 +1007,6 @@ Emanuel White, <i>A Critical Edition of the Targum of Psalms: A Computer Generat
 
 ## Notes 
 
-Many thanks are due to Ben Haring and Rients de Boer (Leiden) for their valuable suggestions with regard to the  Egyptian and Akkadian evidence.
-
 [^2]: KBL, 342; <i>HAL</i>, 348 (cf. <i>HALOT</i>, 362);   Ges<sup>18</sup>, 409: <i>DCH</i> iii: 333; <i>DCHR</i> iii: 433, 587.
 [^3]: The personal name <sup>m</sup><i>Ḫa-aš-ma-nu-um</i> is already attested in the Old Akkadian period; see Gelb 1957:135. The relationship with  the noun <i>ḫašmānu</i> is unclear.
 [^4]: In 1940 Virolleaud transcribed the noun as  <i>tar-ma-nu</i>, although he already indicated that  the first cuneiform sign could represent <i>ḫas</i> instead of <i>tar</i> (1940:259 n. 1). It was later confirmed that the interpretation as <i>ḫas</i> is correct.
@@ -1042,3 +1040,4 @@ Many thanks are due to Ben Haring and Rients de Boer (Leiden) for their valuable
  
 
 
+<p id="contributors_footnote">Many thanks are due to Ben Haring and Rients de Boer (Leiden) for their valuable suggestions with regard to the  Egyptian and Akkadian evidence.</p>

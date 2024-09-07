@@ -430,7 +430,7 @@ suppose that  <span dir="rtl">פרק</span> ever had the technical sense ‘rede
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/store/abbreviations/txt"	>List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Anderson 1972 <br>

@@ -174,7 +174,7 @@ piles of what they had taken from the city (cf. v. 13) to take prisoner the flee
 ## Bibliography
 
 For the abbreviations see the 
-<a href="/store/abbreviations/txt"	>List of Abbreviations</a>.
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Bewer 1911<br>

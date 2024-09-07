@@ -9,7 +9,7 @@
 
 Semantic Fields:
 [Knowledge](../semantic_fields/knowledge.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[M. Patrizia Sciumbata](../contributors/m._patrizia_sciumbata.md)<br>
+[M. Patrizia Sciumbata](../contributors/m._patrizia_sciumbata.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
 First published: 2009-09-16<br>Last update: 2024-06-30 (Raymond de Hoop) <br>Citation: M. Patrizia Sciumbata, תִּפְלָה <i>tiplāh</i> – senselessness, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2009 (update: 2024)
 
 
@@ -513,12 +513,10 @@ Document; Rules of the Community, etc.
 
 ## Notes 
 
-* Translated from Italian by Graham I. Davies. The section on the Peshitta benefited from the collaboration of Giovanni Lenzi, a Syriac specialist and a monk of the Piccola Famiglia dell’Annunziata. 
-
 [^1]: See, e.g., Dhorme 1926; Driver and Gray 1921, 1:209; 2:10, 169; Clines 1989; <i>DBHE</i>, 804.
 [^2]: For the functional languages, see Sciumbata 1996-97:277; and the <a href="#Appendix">Appendix</a> above.
 [^3]: Cf. Driver and Gray 1921, 2:10; <i>HAL</i>, 1634; BDB, 1074; Zorell, 907.
 [^4]: On the other hand, good sense is linked to salt:  consider the Latin expression <i>cum grano salis</i> or the Italian ‘avere sale in zucca’. For a more general connection between taste and knowledge see the Latin <i>sapio</i>; see Sciumbata 1996-97:278; Kedar-Kopfstein 1988:54.
 [^5]: The same in σʹ at Jer 23:13 and θʹ at Job 24:12. σʹ also has ἀφρονεύομαι in Job 1:22; cf. <i>fatuitatem</i> in Vg at Jer 23:13.
 [^6]: Hence LXX ἀνομήματα, ‘impious deeds’, and Tg <span dir="rtl">רשׁע</span>, ‘wickedness’, in Jer 23:13; note the ambiguity offered by Zorell, 907 for this verse: ‘fatuitas, impietas’.
-[^7]: Cf. Clines 1989:2, ‘speak irreverently’; BDB, 1074, ‘unsavouriness, unseemliness’ of a moral kind; <i>HAL</i>, 1635, ‘Fades, Anstössiges’.
+[^7]: Cf. Clines 1989:2, ‘speak irreverently’; BDB, 1074, ‘unsavouriness, unseemliness’ of a moral kind; <i>HAL</i>, 1635, ‘Fades, Anstössiges’.<p id="contributors_footnote">Translated from Italian by Graham I. Davies. The section on the Peshitta benefited from the collaboration of Giovanni Lenzi, a Syriac specialist and a monk of the Piccola Famiglia dell’Annunziata.</p>

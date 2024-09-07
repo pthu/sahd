@@ -9,7 +9,7 @@
 
 Semantic Fields:
 [Light](../semantic_fields/light.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Cornelis Houtman](../contributors/cornelis_houtman.md)<br>
+[Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Cornelis Houtman](../contributors/cornelis_houtman.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
 First published: 2011-03-24<br>Last update: 2019-11-16 <br>Citation: Raymond de Hoop,&nbsp;Cornelis Houtman, מָאוֹר <i>māʾōr</i> – light (source), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2019)
 
 
@@ -917,11 +917,6 @@ Zimmerli 1979 <br>
 
 ## Notes 
 
-<small>
-
-The first version of this article was published  March 24th, 2011, as Cornelis Houtman, ‘<span dir="rtl">מָאוֹר</span>, luminary, lightbearer’. For the publication in the  <i>Semantics of Ancient Hebrew Database</i>   the article was thoroughly reworked and expanded by Raymond de Hoop and is published   as a co-publication by both authors. Thanks are due to Mrs Alice Deken (Amsterdam), who was so kind as to correct the English of this paper. 
-
-</small>
 
 [^1]: In Ex. 25:6 the word has the defective spelling: <span dir="rtl">מָאֹר</span>.
 [^2]: Based on <i>Accordance</i> XII; checked against the relevant  volumes in the series DJD.
@@ -1079,3 +1074,4 @@ The first version of this article was published  March 24th, 2011, as Cornelis H
 [^158]: Also   published in <i>ANEP</i>, 143, # 411.
 [^159]: A similar stela is published   in <i>ANEP</i>, 142, # 408.
 
+<p id="contributors_footnote">The first version of this article was published  March 24th, 2011 as Cornelis Houtman, ‘<span dir="rtl">מָאוֹר</span>, luminary, lightbearer’. For the publication in the  <i>Semantics of Ancient Hebrew Database</i>   the article was thoroughly reworked and expanded by Raymond de Hoop. Thanks are due to Mrs Alice Deken (Amsterdam), who was so kind as to correct the English of this paper.</p>
