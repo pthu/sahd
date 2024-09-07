@@ -6,7 +6,7 @@ Author: <a href="https://sahd-online.com/contributors/graham_i._davies/">Graham 
 First published: 2011-01-01  
 Last update: 2023-05-16 (Raymond de Hoop and Paul Sanders)  
 Citation: Graham I. Davies, Overview of SAHD Entries for  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‘Deliverance’ Words (https://pthu.github.io/sahd), 2011 (update: 2023)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‘Deliverance’ Words (sahd-online.com), 2011 (update: 2023).
 
 
 
