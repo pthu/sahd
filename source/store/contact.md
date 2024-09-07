@@ -8,7 +8,7 @@ President of  SAHD<br>
 Assistant professor of Old Testament at the 
 [Protestant Theological University](https://www.pthu.nl/){target=_blank} (Utrecht, the Netherlands).
 
-E-mail: [p.sanders@pthu.nl](mailto:psanders@pthu.nl)
+E-mail: [psanders@pthu.nl](mailto:psanders@pthu.nl)
 
 ### Dr. Raymond de Hoop
 
