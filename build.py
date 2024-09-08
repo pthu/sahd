@@ -536,27 +536,38 @@ def write_editorial_board(contributors_dict):
         rmtree(EDITORIAL_BOARD_DOCS)
     copytree(EDITORIAL_BOARD, EDITORIAL_BOARD_DOCS)
 
+    editors = {}
     for filename in os.listdir(EDITORIAL_BOARD_DOCS):
         if filename != ".DS_Store":
             name = Path(filename).stem
             if name in contributors_dict:
-                words = contributors_dict[name]
+                for word in contributors_dict[name]:
+                    if name in editors.keys():
+                        editors[name][word[0]] = word[1]
+                    else:
+                        editors[name] = {word[0]: word[1]}
             else:
-                words = []
+                editors[name] = {"": ""}
 
-            text = [HEADER]
-            with open(EDITORIAL_BOARD_DOCS / filename, 'r') as f:
-                lines = f.readlines()
-                for line in lines:
-                    line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT, line) # modify possible photo path
-                    text.append(line)
-                if len(words) > 0:
-                    text.append("\n### Contributions\n")
-                    for word in words:
-                        text.append(f"[{word[0]} – {word[1][0].replace('_', ' ')}](../words/{word[1][1]})<br>")
+    editors_dict = sort_latin(editors, True)
+    for editor in editors_dict:
+        words = editors_dict[editor]
 
-            with open(EDITORIAL_BOARD_DOCS / f"{name}.md", 'w') as f:
-                f.write("".join(text))
+        text = [HEADER]
+        with open(EDITORIAL_BOARD_DOCS / f"{editor}.md", 'r') as f:
+            lines = f.readlines()
+            for line in lines:
+                line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT, line) # modify possible photo path
+                text.append(line)
+            if words[0][0]:
+                text.append("\n### Contributions\n")
+                for word in words:
+                    text.append(f"[{word[0]} – {word[1][0].replace('_', ' ')}](../words/{word[1][1]})<br>")
+
+        with open(EDITORIAL_BOARD_DOCS / f"{editor}.md", 'w') as f:
+            f.write("".join(text))
+
+    return editors_dict
 
 
 def write_miscellaneous_file(filename):
@@ -618,7 +629,7 @@ def copy_pdfs():
     copytree(PDFS, PDFS_DOCS)
 
 
-def write_navigation(semantic_fields_dict, contributors_dict):
+def write_navigation(semantic_fields_dict, contributors_dict, editors_dict):
 
     text = []
     with open(SRC / "mkdocs_in.yml", 'r') as f:
@@ -647,10 +658,8 @@ def write_navigation(semantic_fields_dict, contributors_dict):
                 for contributor in contributors_dict:
                     text.append(f"            - {capitalize_name(contributor)}: contributors/{contributor}.md\n")
             elif line.replace(" ", "").startswith("-Editorialboard:"):
-                for filename in os.listdir(EDITORIAL_BOARD_DOCS):
-                    if filename != ".DS_Store":
-                        name = Path(filename).stem
-                        text.append(f"            - {capitalize_name(name)}: editorial_board/{name}.md\n")
+                for editor in editors_dict:
+                    text.append(f"            - {capitalize_name(editor)}: editorial_board/{editor}.md\n")
             elif line.replace(" ", "").startswith("-Miscellaneous:"):
                 for article in os.listdir(MISCELLANEOUS):
                     if article != ".DS_Store":
@@ -698,12 +707,12 @@ def make_docs():
     write_words(shebanq_dict, ubs_dict)
     write_semantic_fields(semantic_fields_dict)
     write_contributors(contributors_dict)
-    write_editorial_board(contributors_dict)
+    editors_dict = write_editorial_board(contributors_dict)
     write_miscellaneous()
     write_store()
     copy_photos()
     copy_pdfs()
-    write_navigation(semantic_fields_dict, contributors_dict)
+    write_navigation(semantic_fields_dict, contributors_dict, editors_dict)
     check_lemmas_index_consistency(words_dict)
     write_word_list(words_dict)
     return not show_errors()
