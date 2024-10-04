@@ -17,7 +17,7 @@ First published: 2009-09-16<br>Last update: 2024-06-30 (Raymond de Hoop) <br>Cit
 
 ## Introduction
 
-Grammatical type: n.f.   
+Grammatical type: noun fem.   
 Occurrences: 3x HB (0/1/2); 0x Sir; 0x Qum.; 0x inscr. (Total: 3)
 
 * Nebiim: Jer 23:13.

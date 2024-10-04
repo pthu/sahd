@@ -16,7 +16,7 @@ First published: 2010-08-02<br>Last update: 2024-06-30 <br>Citation: T. Jonathan
 
 ## Introduction
 
-Grammatical Type: n. m./f.  
+Grammatical Type: noun masc./fem.  
 Occurrences: 322x HB (15/258/49); 5x Sir; 68x Qum.; 4x inscr. (Total: 399).
 
 * Torah: Gen 20:7; Exod 7:1; 15:20; Num
@@ -42,8 +42,8 @@ Sam 7:2; 12:25; 24:11; 1 Kgs 1:8, 10, 22, 23, 32, 34, 38, 44, 45; 11:29; 13:11, 
 12:5, 15; 13:22; 15:8; 18:5, 6, 9, 11, 12, 21, 22; 20:20; 21:12; 24:19;
 25:15, 16; 26:22; 28:9; 29:25(2x); 32:20, 32; 34:22; 35:18; 36:12, 16.
 * Sir: 36:21<sup><small>B</small></sup>; 48:1<sup><small>B</small></sup>, 8<sup><small>B</small></sup>; 49:7<sup><small>B</small></sup>, 10<sup><small>B</small></sup>.
-* Qumran:<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> CD 3:21; 4:13; 7:10, 17; 19:7;<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> 1QS
-1:3; 8:16; 9:11;<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> 1QPHab 1:1; 2:9; 7:5, 8; 1QH<sup><small>a</small></sup> 12:17(=4Q430
+* Qumran:<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> CD 3:21; 4:13; 7:10, 17; 19:7;<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> 1QS
+1:3; 8:16; 9:11;<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> 1QPHab 1:1; 2:9; 7:5, 8; 1QH<sup><small>a</small></sup> 12:17(=4Q430
 f1:4); 1Q29 f1:5; 4Q88 8:14; 4Q158 f6:6, 9; 4Q163 15-16:1;
 4Q166 2:5; 4Q174 f1-2i:15, 16; f1-3ii:3; 4Q175 1:5, 7; 4Q177
 f1-4:9; f5-6:2, 5; f7:3; f12-13i:1; 4Q265 f1:3; f7:8 4Q285 f4:3;
@@ -53,7 +53,7 @@ f7:1(=11Q14 f1i:9); 4Q292 f2:4; 4Q375 f1i:1, 4, 6; 4Q376 f1ii:4;
 f14-21:10(=4Q398 f14-17i:3), 15; 4Q408 f11:4; 4Q418 f221:2;
 4Q481a f2:4; 4Q504 f1-2Riii:13; 11Q5 22:5, 14; 28:8, 13; 11Q13
 2:15, 17; 11Q19 54:8, 11, 15; 61:2, 3, 4.
-* Inscr.: 1.003.20 (=Lak(6):1.3:20); 1.016.5 (=Lak(6):1.16:5); Vision of Gabriel: 15, 70.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup>
+* Inscr.: 1.003.20 (=Lak(6):1.3:20); 1.016.5 (=Lak(6):1.16:5); Vision of Gabriel: 15, 70.<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup>
 
 
 ### Text Doubtful
@@ -93,7 +93,7 @@ f14-21:10(=4Q398 f14-17i:3), 15; 4Q408 f11:4; 4Q418 f221:2;
 <b>A.13</b> 4Q382 f9:8, a paraphrase of Kings, relies on 2 Kgs 2:5/15 so
     that the reconstruction of  <span dir="rtl">בני הנביאים</span> appears plausible.
 
-<b>A.14</b> The tiny fragment 4Q383 f6 which was edited by Dimant has the letters <span dir="rtl">הנב</span> in line 1 going into a break. She tentatively suggests that  <span dir="rtl">הנב[יא</span> should be read, but acknowledges that a <i>niph.</i> imperative  <span dir="rtl">הִנָּבֵ[א</span>, ‘prophesy’ is also possible. 
+<b>A.14</b> The tiny fragment 4Q383 f6 which was edited by Dimant has the letters <span dir="rtl">הנב</span> in line 1 going into a break. She tentatively suggests that  <span dir="rtl">הנב[יא</span> should be read, but acknowledges that a <i>niph.</i> imperative  <span dir="rtl">הִנָּבֵ[א</span>, ‘prophesy’, is also possible. 
 
 <b>A.15</b> It seems likely that Dimant’s reconstruction  <span dir="rtl">יר]מיהו הנב[יא</span> in 4Q385<sup><small>a</small></sup> fB:1 is correct.
 
@@ -127,8 +127,8 @@ f14-21:10(=4Q398 f14-17i:3), 15; 4Q408 f11:4; 4Q418 f221:2;
 While this reconstruction is theoretically possible, the now common reconstruction  <span dir="rtl">ה[שרים</span> appears better as it picks up the term  <span dir="rtl">שרים</span> already used in the letter.
 
 <b>B.3</b>  It is possible that the Lachish stamp seal 100.258.3 should be reconstructed to read  
-<span dir="rtl">הנבי[א]</span>.<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup> The name 
-<span dir="rtl">נבי</span> (Nobai) occurs three further times on Hebrew bullae as a patronym and is, according to Avigad, well attested in South-Arabic. It may also refer to the city <span dir="rtl">נֹב</span>. The other three bullae (all unprovenanced) are: 100.343.2; 100.785.2; 100.886.2.<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup>
+<span dir="rtl">הנבי[א]</span>.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> The name 
+<span dir="rtl">נבי</span> (Nobai) occurs three further times on Hebrew bullae as a patronym and is, according to Avigad, well attested in South-Arabic. It may also refer to the city <span dir="rtl">נֹב</span>. The other three bullae (all unprovenanced) are: 100.343.2; 100.785.2; 100.886.2.<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup>
 
 ### Qere/Ketiv:
 
@@ -138,43 +138,44 @@ While this reconstruction is theoretically possible, the now common reconstructi
 
 <b>A.1</b>  The root √<i>nbʾ</i>/<i>y</i> is a common Semitic root and is attested in
     Akkadian, Eblaite, Emarite, Hebrew, Arabic, Aramaic, Ethiopic and
-    Old South Arabic.<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> It also appears once in a Punic name and
-    possibly once in a Ugaritic name.<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup>
+    Old South Arabic.<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup> It also appears once in a Punic name and
+    possibly once in a Ugaritic name.<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup>
 
 <b>A.2</b>  In Arabic, the associated verb appears in the I<sup><small>st</small></sup>, II<sup><small>nd</small></sup>, IV<sup><small>th</small></sup>, and X<sup><small>th</small></sup> stems. Müller holds that in Arabic and the Old
     South Arabian dialects the verb is the primary form of this root and
-    the nouns are denominative.<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup>
+    the nouns are denominative.<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup>
 
-<b>A.3</b>  The verb <i>nabû</i> II is the standard word for ‘call’ in Akkadian and
-    is therefore attested widely in Akkadian literature.<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup> The
+<b>A.3</b>  The verb <i>nabû</i> II is the standard word for ‘to call’ in Akkadian and
+    is therefore attested widely in Akkadian literature.<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup> The
     adjective is used as a royal title in its uncontracted and
     contracted forms (<i>nabīu</i> and <i>nabû</i> respectively): RN <i>nabīu</i> GN,
     e.g. Hammurapi, called by Anu (LIH 94:10).
 
-<b>A.4</b>  The root is attested also in Emar Akkadian in the D-stem as a verb (<i>nubbû</i>, ‘to invoke’) and in two derived nominal forms, a D part. fem.pl. <i>*munabbiātu</i> and as a G verbal adj. masc.pl. <i>nabî</i>. The feminine form is attested three times in the expression <i>Išḫara ša munabbiāti</i>, ‘Išḫara of the <i>m.</i>’,  and once as the recipients of meat in a ration list.<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup> The masculine term is attested once in line 11 of version F of Emar 387 in the expression <i>ina bīt nabî</i>, ‘in the temple of the <i>nabû</i>s’.<sup id="fnref:13"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:13')">13</a></sup> On the basis of these texts, Daniel Fleming has argued that Heb. <span dir="rtl">נביא</span> should be understood as an active form, ‘he who calls’. In contrast, Huehnergard argues that 
-<span dir="rtl">נביא</span> is a <i>qātīl</i>-pattern of the root <span dir="rtl">נבא</span>. Proto-Semitic <i>qatīl</i> appears in the <i>qātīl</i>-pattern in Hebrew and is normally passive (or ‘patiens’).<sup id="fnref:14"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:14')">14</a></sup>
+<b>A.4</b>  The root is attested also in Emar Akkadian in the D-stem as a verb (<i>nubbû</i>, ‘to invoke’) and in two derived nominal forms, a D part. fem.pl. <i>*munabbiātu</i> and as a G verbal adj. masc.pl. <i>nabî</i>. The feminine form is attested three times in the expression <i>Išḫara ša munabbiāti</i>, ‘Išḫara of the <i>m.</i>’,  and once as the recipients of meat in a ration 
+list.<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup> The masculine term is attested once in line 11 of version F of Emar 387 in the expression <i>ina bīt nabî</i>, ‘in the temple of the <i>nabû</i>s’.<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup> On the basis of these texts, Daniel Fleming has argued that Heb. <span dir="rtl">נביא</span> should be understood as an active form, ‘he who calls’. In contrast, Huehnergard argues that 
+<span dir="rtl">נביא</span> is a <i>qātīl</i>-pattern of the root <span dir="rtl">נבא</span>. Proto-Semitic <i>qatīl</i> appears in the <i>qātīl</i>-pattern in Hebrew and is normally passive (or ‘patiens’).<sup id="fnref:13"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:13')">13</a></sup>
 
 <b>A.5</b>  In Eblaite the root appears parallel to 
-Sumerian <small>PÀ(D)</small>, ‘name/call’, in lexical lists.<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup> The verb also appears in the G-stem especially in names: <i>i</i>-<i>bi</i>+GN, ‘GN called’ and <i>na</i>-<i>bí</i>+GN ‘called by GN’.
+Sumerian <small>PÀ(D)</small>, ‘name/call’, in lexical lists.<sup id="fnref:14"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:14')">14</a></sup> The verb also appears in the G-stem especially in names: <i>i</i>-<i>bi</i>+GN, ‘GN called’ and <i>na</i>-<i>bí</i>+GN ‘called by GN’.
 
 <b>A.6</b>  It appears that the noun
-<span dir="rtl">נביא</span> is primary in Hebrew, from which the verbs <span dir="rtl">הנבא</span> (<i>niph.</i>) and  <span dir="rtl">התנבא</span> (hithp.) are derived. This has the effect that the root operates primarily as a nominal root in Hebrew.<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup>
+<span dir="rtl">נביא</span> is primary in Hebrew, from which the verbs <span dir="rtl">הנבא</span> (<i>niph.</i>) and  <span dir="rtl">התנבא</span> (hithp.) are derived. This has the effect that the root operates primarily as a nominal root in Hebrew.<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup>
 
 
 <b>A.7</b> Torczyner (1931:322), Rinaldi (1963) and Mánek (1962) argue that <span dir="rtl">נביא</span> is a loan from Akkadian. This view is opposed strongly by Müller (1984) and in view of the fact that the semantics in Akkadian and Hebrew differ so considerably it appears difficult to uphold the idea that  
 <span dir="rtl">נביא</span> is a direct loan from Akkadian into Hebrew. That the two words are etymologically related, however, is clear.
 
 <b>B.1</b>  Several attempts have been made in the past to provide  <span dir="rtl">נביא</span> with an Egyptian etymology. The first to attempt this was Norman Walker (1961), who suggested Egyptian <i>n-b i-3-w</i>, the ‘(God-)honoured one’. The sound changes involved, however, make this derivation unlikely 
-(Barr 1968:102). Later Manfred Görg made a sustained attempt to derive  <span dir="rtl">נביא</span> from the Egyptian verb <i>nb3</i>, ‘rave, be excited’ attested solely in medical texts.<sup id="fnref:21"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:21')">21</a></sup>
+(Barr 1968:102). Later Manfred Görg made a sustained attempt to derive  <span dir="rtl">נביא</span> from the Egyptian verb <i>nb3</i>, ‘rave, be excited’ attested solely in medical texts.<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup>
 
 <b>B.2</b>  The root √<span dir="rtl">נבא</span> used to be regarded as linked to the root 
-√<span dir="rtl">נבע</span>, ‘bubble up’ by softening of the <span dir="rtl">ע</span>.<sup id="fnref:22"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:22')">22</a></sup> The required 
+√<span dir="rtl">נבע</span>, ‘bubble up’ by softening of the <span dir="rtl">ע</span>.<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> The required 
 sound-change from  <span dir="rtl">ע</span> to <span dir="rtl">א</span> renders this suggestion 
 unlikely (Johnson 1962:24 n.5; Jeremias 1976:7; Müller 1984:147).
 
 <b>B.3</b>  The folk etymology in 1 Sam 9 plays with the theoretical
-    possibility that  <span dir="rtl">נביא</span> is a 1cp PC (imperfect) <i>hiph.</i> of  <span dir="rtl">בוא</span>.<sup id="fnref:24"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:24')">24</a></sup>
-    Land and Pfeiffer proposed that  <span dir="rtl">נביא</span> is a passive form of  <span dir="rtl">בוא</span>.<sup id="fnref:25"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:25')">25</a></sup>
+    possibility that  <span dir="rtl">נביא</span> is a 1cp PC (imperfect) <i>hiph.</i> of  <span dir="rtl">בוא</span>.<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup>
+    Land and Pfeiffer proposed that  <span dir="rtl">נביא</span> is a passive form of  <span dir="rtl">בוא</span>.<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup>
 
 <b>B.4</b>  Bewer (1902:120) suggested understanding <span dir="rtl">נביא</span> as a passive form of a root √<span dir="rtl">נבא</span> III, which according to Delitzsch’s dictionary (1896:442) means ‘carry away’. That Akkadian verb is now recognised to be <i>napāṣu</i> (<i>CAD</i> N<sup><small>II</small></sup>, 171).
 
@@ -187,7 +188,7 @@ unlikely (Johnson 1962:24 n.5; Jeremias 1976:7; Müller 1984:147).
 <b>A.1</b> <span dir="rtl">נביא</span>(<span dir="rtl">ה</span>) is subject of the following verbs: 
 
 * <span dir="rtl">אכל</span>, ‘eat’ in 1 Kgs
-    18:19; Ezek 22:25;<sup id="fnref:29"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:29')">29</a></sup>  
+    18:19; Ezek 22:25;<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup>  
 * <span dir="rtl">אמן</span> <i>hiph.</i>, ‘believe’ in Sir 36:21;  
 * <span dir="rtl">אמר</span>, ‘say’ in Judg 6:8; 1 Kgs 13:26; 20:13, 22; 22:6; Jer 14:13, 15;
     23:25, 34; 26:11; 27:9, 14; Ezek 22:28; 2 Chron 18:5; 25:15, 16; 28:9;
@@ -230,8 +231,8 @@ unlikely (Johnson 1962:24 n.5; Jeremias 1976:7; Müller 1984:147).
 * <span dir="rtl">מצא</span>, ‘find’ in Lam 2:9;  
 * <span dir="rtl">משׁח</span>, ‘anoint’ in 11Q5<sup><small>a</small></sup> 28:8, 13;  
 * <span dir="rtl">נאם</span> <i>pi.</i>, ‘utter’ in Jer 23:31; 
-* <span dir="rtl">נבא</span> <i>niph.</i>, ‘prophesy’ in 1 Sam 19:20;<sup id="fnref:30"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:30')">30</a></sup> 1 Kgs 22:12; Jer 2:8; 5:31; 14:14, 15; 23:13, 16, 21, 25, 26; 27:15, 16; 28:8, 9; Ezek 13:2, 16; 38:17; Am 2:12; Zech 13:4; 2 Chron 18:11;  
-* <span dir="rtl">נבא</span> <i>hithp.</i>, ‘prophesy’ in 1 Sam 10:5;<sup id="fnref:31"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:31')">31</a></sup> 1 Kgs 22:10; Jer 14:14; 2 Chron 18:9;
+* <span dir="rtl">נבא</span> <i>niph.</i>, ‘prophesy’ in 1 Sam 19:20;<sup id="fnref:21"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:21')">21</a></sup> 1 Kgs 22:12; Jer 2:8; 5:31; 14:14, 15; 23:13, 16, 21, 25, 26; 27:15, 16; 28:8, 9; Ezek 13:2, 16; 38:17; Am 2:12; Zech 13:4; 2 Chron 18:11;  
+* <span dir="rtl">נבא</span> <i>hithp.</i>, ‘prophesy’ in 1 Sam 10:5;<sup id="fnref:22"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:22')">22</a></sup> 1 Kgs 22:10; Jer 14:14; 2 Chron 18:9;
 *  <span dir="rtl">נגשׁ</span>, ‘approach’ in 1 Kgs 20:13;  
 *  <span dir="rtl">נגשׁ</span> <i>niph.</i>, ‘approach’ in 1 Kgs 20:13;  
 *  <span dir="rtl">נוח</span>  <i>hiph.</i>, ‘lay’ in 1 Kgs 13:29;  
@@ -248,7 +249,7 @@ unlikely (Johnson 1962:24 n.5; Jeremias 1976:7; Müller 1984:147).
 *  <span dir="rtl">עשׂה</span>, ‘do/make’ in 1 Kgs 18:25; Jer 6:13; 8:10;
 *  <span dir="rtl">פגע</span>, ‘intercede’ in Jer 27:18;  
 *  <span dir="rtl">פוק</span>, ‘reel’ in Isa 28:7; 
-*  <span dir="rtl">פחז</span>, ‘be treacherous’ in Zeph 3:4;<sup id="fnref:31a"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:31a')">31a</a></sup>  
+*  <span dir="rtl">פחז</span>, ‘be treacherous’ in Zeph 3:4;<sup id="fnref:23"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:23')">23</a></sup>  
 *  <span dir="rtl">פקד</span> <i>niph.</i>, ‘be missed’ in 2 Kgs 10:19;  
 *  <span dir="rtl">פתה</span> <i>pu.</i>, ‘be deceived’ in Ezek 14:9;  
 *  <span dir="rtl">קדשׁ</span> <i>pi.</i>, ‘consecrate’ in Mic 3:5; 
@@ -690,7 +691,7 @@ that version at all.
 * not extant:  Jer 28:6; 38:10; 42:2; 45:1; Ps 51:2; Ezra 9:11; Neh 6:7, 14(2x); 9:26, 30, 32; 2 Chron 9:29; 12:5.
 
 
-<b>c. Targum (Tg):</b><sup id="fnref:32"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:32')">32</a></sup>
+<b>c. Targum (Tg):</b><sup id="fnref:24"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:24')">24</a></sup>
 
 * <span dir="rtl">נבי</span> <i>ethpeel</i>, ‘to prophesy’: Jer 23:26(2<sup><small>nd</small></sup>); Ezek 13:2(2<sup><small>nd</small></sup>); 1 Chron 25:1;
 * <span dir="rtl">נבי</span> (noun), ‘prophet’: Gen 20:7; Exod 7:1<sup><small>PsJ</small></sup>; Num 11:29; 12:6; 
@@ -708,14 +709,14 @@ Hab 1:1; 3:1; Zeph 3:4; Hag 1:1, 3, 12; 2:1, 10; Zech 1:1, 4, 5, 6, 7;
 Chron 16:22; 17:1; 29:29; 2 Chron 9:29; 12:5, 15; 13:22; 15:8;
 18:5, 6, 21, 22; 20:20; 21:12; 24:19; 25:15, 16; 26:22; 28:9; 29:25(2x); 32:20, 32; 35:18; 36:12, 16; 
 * <span dir="rtl">נבי שקר</span>, ‘false prophet’: Deut<sup><small>PsJ,N</small></sup> 13:2, 4, 6; Deut<sup><small>PsJ</small></sup> 22(2x); 1 Kgs
-13:11, 18, 20, 25, 29(2x); 19:1; 22:6, 10, 12, 13, 22; 2 Kgs 23:18;<sup id="fnref:33"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:33')">33</a></sup> Jer 2:8, 26; 4:9; 5:13, 31; 8:1; 13:13; 14:13, 14, 15(2x);
+13:11, 18, 20, 25, 29(2x); 19:1; 22:6, 10, 12, 13, 22; 2 Kgs 23:18;<sup id="fnref:25"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:25')">25</a></sup> Jer 2:8, 26; 4:9; 5:13, 31; 8:1; 13:13; 14:13, 14, 15(2x);
 23:9, 15(1<sup><small>st</small></sup>), 16, 21, 25, 26(1<sup><small>st</small></sup>), 30, 31; 27:9, 14, 15, 16;
 28:1, 5(2<sup><small>nd</small></sup>), 10(1<sup><small>st</small></sup>), 12(1<sup><small>st</small></sup>), 15(2<sup><small>nd</small></sup>), 17; 32:32; 37:19; Ezek
 14:10; 22:28; Hos 4:5; Zech 13:2, 4; Lam 2:14; 4:13; 2 Chron 18:9, 11, 12; 
 * <span dir="rtl">נביאה</span>, ‘prophetess’: Exod 15:20; Judg 4:4; 2 Kgs 22:14; Isa 8:3; 2 Chron 34:22;
 * <span dir="rtl">מתורגמן</span>, ‘interpreter’: Exod<sup><small>O</small></sup> 7:1;
 * <span dir="rtl">ספר</span>, ‘scribe’: 1 Sam 10:5, 10, 11(2x); 19:20, 24; 28:6, 15; 2 Kgs 17:13 (1<sup><small>st</small></sup>);
-23:2;<sup id="fnref:34"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:34')">34</a></sup> Isa 3:2; 9:14; 28:7; 29:10; Jer 6:13; 8:18; 18:18; 23:11, 33, 34; 26:7, 8, 11, 16; Ezek 7:26; Zech 7:3; 
+23:2;<sup id="fnref:26"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:26')">26</a></sup> Isa 3:2; 9:14; 28:7; 29:10; Jer 6:13; 8:18; 18:18; 23:11, 33, 34; 26:7, 8, 11, 16; Ezek 7:26; Zech 7:3; 
 * <span dir="rtl">פתגמי נבואתא</span>, ‘decrees of prophesy’: 1 Sam 3:20;
 * <span dir="rtl">תרגמן</span>, ‘interpreter’: Exod<sup><small>N</small></sup> 7:1;
 * no equivalent: Dan 9:2, 6, 10, 24; Ezra 9:11; Neh 6:7, 14(2x); 9:26, 30, 32.
@@ -751,7 +752,7 @@ Chron 16:22; 17:1; 29:29; 2 Chron 9:29; 12:5, 15; 13:22; 15:8;
 
 <b>A.1</b>  In Deut 18:20 the Vulgate uses an implicit subject in the verb <i>interficietur</i>, ‘he shall die’, instead of repeating <i>propheta</i>.
 
-<b>A.2</b>  In 1 Kgs 13:26 most Targum manuscripts have two times  <span dir="rtl">נבי</span>, for MT <span dir="rtl">נָבִיא</span> and  <span dir="rtl">אִישׁ הָאֶלֹהִים</span>. In order to make the distinction easier between these two men in the Targum two manuscripts add <span dir="rtl">שקר</span> to the first <span dir="rtl">נבי</span>.<sup id="fnref:35"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:35')">35</a></sup>
+<b>A.2</b>  In 1 Kgs 13:26 most Targum manuscripts have two times  <span dir="rtl">נבי</span>, for MT <span dir="rtl">נָבִיא</span> and  <span dir="rtl">אִישׁ הָאֶלֹהִים</span>. In order to make the distinction easier between these two men in the Targum two manuscripts add <span dir="rtl">שקר</span> to the first <span dir="rtl">נבי</span>.<sup id="fnref:27"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:27')">27</a></sup>
 
 <b>A.3</b>  1 Kgs<sup><small>LXX</small></sup> 12:24, where 1 Kgs<sup><small>MT</small></sup> 14:2, 8 is narrated in the LXX, is one of the verses in which LXX goes its own way. MT is contained in that verse, but there is no equivalent for the title <span dir="rtl">נביא</span> in the Greek.
 
@@ -795,7 +796,7 @@ understood here to include both technical (e.g. haruspicy, dream interpretation)
 <span dir="rtl">תֹפְשֵׂי הַתֹּרָה</span>, 
 but also with less religious roles such as the 
 <span dir="rtl">חֲרָשִׁים</span> and 
-<span dir="rtl">נָזִיר</span> (see <a href="#SynA9">§3. Syntagmatics A.9</a> above for attestations). This wide array of different roles shows the range of possible understandings. The fact that many of these titles are within the divinatory realm shows that this is the most obvious place to find the semantics of the word. In particular 1 Sam 9:9 is often interpreted as an old text and taken at face value.<sup id="fnref:37"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:37')">37</a></sup>
+<span dir="rtl">נָזִיר</span> (see <a href="#SynA9">§3. Syntagmatics A.9</a> above for attestations). This wide array of different roles shows the range of possible understandings. The fact that many of these titles are within the divinatory realm shows that this is the most obvious place to find the semantics of the word. In particular 1 Sam 9:9 is often interpreted as an old text and taken at face value.<sup id="fnref:28"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:28')">28</a></sup>
 
 <b>A.3</b>  Interestingly, the  <span dir="rtl">נביא</span> is often used in parallel with other members
     of the elite, such as priests, or even the  <span dir="rtl">נזיר</span>, suggesting that the
@@ -803,22 +804,22 @@ but also with less religious roles such as the
 
 <b>A.4</b>  Until a 1960 article by Alfred Jepsen the consensus view was that
     the feminine form  <span dir="rtl">נביאה</span> did not denote a female prophet but could
-    refer to the wife of a male prophet.<sup id="fnref:38"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:38')">38</a></sup> As Jepsen argues, this is
+    refer to the wife of a male prophet.<sup id="fnref:29"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:29')">29</a></sup> As Jepsen argues, this is
     unlikely as in ancient Hebrew feminine titles are not conferred due
     to a woman’s marriage, but only because of a role she herself
     carries out.
 
 ## 6.  Exegesis
 
-<b>A.1</b>  Most scholars understand the term  <span dir="rtl">נביא</span> to refer to prophecy of all kinds.<sup id="fnref:39"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:39')">39</a></sup> Jeremias (1976:7-8) asks the important question whether  <span dir="rtl">נביא</span> is to be regarded as a professional title or a term describing behaviour. Not surprisingly his answer is that in different regions and times it had a different meaning but that the Hebrew Bible does not provide us with enough evidence to decide that.
+<b>A.1</b>  Most scholars understand the term  <span dir="rtl">נביא</span> to refer to prophecy of all kinds.<sup id="fnref:30"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:30')">30</a></sup> Jeremias (1976:7-8) asks the important question whether  <span dir="rtl">נביא</span> is to be regarded as a professional title or a term describing behaviour. Not surprisingly his answer is that in different regions and times it had a different meaning but that the Hebrew Bible does not provide us with enough evidence to decide that.
 
 <b>A.2</b>  There is a debate as to the connection between ecstasy and the  <span dir="rtl">נביא</span>,
     some pointing to the connection with groups of  <span dir="rtl">נביאים</span> in the
     Deuteronomistic History and links to ecstatic phenomena elsewhere in
     the ancient Near East and elsewhere in the anthropological
-    record.<sup id="fnref:41"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:41')">41</a></sup> Often it is assumed that pre-classical  <span dir="rtl">נביאים</span> were
+    record.<sup id="fnref:31"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:31')">31</a></sup> Often it is assumed that pre-classical  <span dir="rtl">נביאים</span> were
     generally ecstatics while that aspect lost its importance with the
-    so-called Writing Prophets, most of whom do not bear the title.<sup id="fnref:42"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:42')">42</a></sup> This interpretation is often supported by an analysis of the verbal forms of  <span dir="rtl">נבא</span>: usually the interpretation goes according to the following outline. The <i>hithpaʿel</i> is seen as occurring in early texts to denote ecstatic behaviour while the <i>niphʿal</i> is used to express understandable oracular speech. As the <i>hithpaʿel</i> is used less and less it starts to merge in meaning with the <i>niphʿal</i>.<sup id="fnref:43"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:43')">43</a></sup>
+    so-called Writing Prophets, most of whom do not bear the title.<sup id="fnref:32"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:32')">32</a></sup> This interpretation is often supported by an analysis of the verbal forms of  <span dir="rtl">נבא</span>: usually the interpretation goes according to the following outline. The <i>hithpaʿel</i> is seen as occurring in early texts to denote ecstatic behaviour while the <i>niphʿal</i> is used to express understandable oracular speech. As the <i>hithpaʿel</i> is used less and less it starts to merge in meaning with the <i>niphʿal</i>.<sup id="fnref:33"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:33')">33</a></sup>
 
 <b>A.3</b>  1 Sam 9:9 claims that  <span dir="rtl">נביא</span> is a modern term for what used to be
     called  <span dir="rtl">רֹאֶה</span>, and most biblical scholars take this claim on board at
@@ -830,7 +831,7 @@ but also with less religious roles such as the
     turn, indicates that the three terms have to some extent lost their
     differences, which suggests that either the terms were always very
     similar, or that the author of Amos 7 uses them in a way that is
-    reminiscent of 1-2 Chrononicles.<sup id="fnref:44"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:44')">44</a></sup>
+    reminiscent of 1-2 Chronicles.<sup id="fnref:34"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:34')">34</a></sup>
 
 <b>A.4</b>  Due to his analysis of most of the Deuteronomistic History as ‘Ephraimite’, and thus Northern texts, Wilson (1980) takes <span dir="rtl">נביא</span> to be an Israelite rather than Judean term (see also Petersen 1981:51-69; Zobel 1985:87).
 
@@ -838,15 +839,15 @@ but also with less religious roles such as the
 
 <b>A.6</b>  Ever since Mowinckel’s magisterial study on the Psalms prophecy in
     the Hebrew Bible,  <span dir="rtl">נביא</span> has also been connected to the cult in the
-    form of cultic prophecy.<sup id="fnref:47"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:47')">47</a></sup> The idea has been taken up
+    form of cultic prophecy.<sup id="fnref:35"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:35')">35</a></sup> The idea has been taken up
     enthusiastically, but there are few connections between it and the
     noun  <span dir="rtl">נביא</span>, apart from the three Psalmists, Asaph, Heman and
-    Yeduthun, who are referred to as  <span dir="rtl">נביאים</span> in 1 Chron 25.<sup id="fnref:48"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:48')">48</a></sup> That the
+    Yeduthun, who are referred to as  <span dir="rtl">נביאים</span> in 1 Chron 25.<sup id="fnref:36"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:36')">36</a></sup> That the
     singers in the temple are said ‘to prophesy’ (use of verb  <span dir="rtl">הנבא</span>) is
     striking, and suggests that the verb could be used with a wide
     meaning indeed. This connects with the tendency by the Chronicler to
     use divinatory titles more freely and also to attribute his sources
-    to the writing activity of prophets.<sup id="fnref:49"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:49')">49</a></sup>
+    to the writing activity of prophets.<sup id="fnref:37"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:37')">37</a></sup>
 
 <b>A.7</b>  It is striking that in Genesis-Numbers the term  <span dir="rtl">נביא</span> is used
     only five times (4x  <span dir="rtl">נביא</span>, 1x <span dir="rtl">נביאה</span>), once for Abraham (Gen 20:7),
@@ -859,9 +860,9 @@ but also with less religious roles such as the
 
 <b>B.1</b>  Winckler states that the  <span dir="rtl">נביא</span> is best understood as a ‘Sachwalter’
     (‘royal minister’) comparing the prophet to Herod’s historian
-    Nicolaus of Damascus.<sup id="fnref:50"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:50')">50</a></sup>
+    Nicolaus of Damascus.<sup id="fnref:38"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:38')">38</a></sup>
 
-<b>B.2</b>  Junge suggests interpreting the <i>nbʾ</i> in the Lachish letters as a normal messenger.<sup id="fnref:51"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:51')">51</a></sup> Müller’s sympathies (Müller 1970:240-42) for the position are well critiqued by Barstad (1993:9*): there is simply no indication in the text that the <i>nbʾ</i> is anything but a prophet.
+<b>B.2</b>  Junge suggests interpreting the <i>nbʾ</i> in the Lachish letters as a normal messenger.<sup id="fnref:39"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:39')">39</a></sup> Müller’s sympathies (Müller 1970:240-42) for the position are well critiqued by Barstad (1993:9*): there is simply no indication in the text that the <i>nbʾ</i> is anything but a prophet.
 
 ## 7.  Conclusions
 
@@ -1866,81 +1867,81 @@ Hans-Jürgen Zobel, ‘Prophet in Israel und Juda’, <i>ZTK</i> 82:281-99.
 
 ## Notes
 
-[^1]: For the publication of this text see Yardeni and Elizur (2007:104-05).
+[^1]: The Damascus Document and the Community Rule are treated as one document here and therefore attestations in various documents are counted as if they are one. 4Q265 on the other hand will be counted as an independent source. The same is true for the various works called Apocryphon of Jeremiah as it is at this point unclear whether they form one coherent composition or are better understood to evidence various different literary works.
 
-[^2]: The Damascus Document and the Community Rule are treated as one document here and therefore attestations in various documents are counted as if they are one. 4Q265 on the other hand will be counted as an independent source. The same is true for the various works called Apocryphon of Jeremiah as it is at this point unclear whether they form one coherent composition or are better understood to evidence various different literary works.
+[^2]: The occurrences in the actual manuscripts are 4Q266 f3i:7, f3iii:18 and 4Q269 f5:1.
 
-[^3]: The occurrences in the actual manuscripts are 4Q266 f3i:7, f3iii:18 and 4Q269 f5:1.
+[^3]: The actual occurrences are 1Q28<sup><small>b</small></sup> 1:27, 4Q255 f1:4 and 4Q258 6:8.
 
-[^4]: The actual occurrences are 1Q28<sup><small>b</small></sup> 1:27, 4Q255 f1:4 and 4Q258 6:8.
+[^4]: For the publication of this text see Yardeni and Elizur (2007:104-05).
 
-[^6]: Aharoni (1968). Two imprints of this bullae, dated to the late 7<sup><small>th</small></sup> century, were found at Lachish. See also Aharoni (1975:21-22, pl. 20:6-7).
+[^5]: Aharoni (1968). Two imprints of this bullae, dated to the late 7<sup><small>th</small></sup> century, were found at Lachish. See also Aharoni (1975:21-22, pl. 20:6-7).
 
-[^7]: Avigad (1975:71 (no. 20), pl.14:20; 1985:305 (no.3), pl.57; and 1990:91-92 (no.4).
+[^6]: Avigad (1975:71 (no. 20), pl.14:20; 1985:305 (no.3), pl.57; and 1990:91-92 (no.4).
 
-[^8]: In Biblical Hebrew the root appears as √<i>nb’</i>. In comparative Semitics, the root is given as √<i>nby</i>, √<i>nbi</i> or √<i>nb</i>. However, the last radical was most likely the vowel /i/, cf. Müller (1984:143-44 and 1985) and Müller (1986). According to Müller (1984) this root ultimately goes back to a biliteral root √<i>bi</i> with an <i>n</i>-prefix. Conversely, Smith (1895:389-90) posited a bilateral base <i>NB</i> to w hich various third radicals such as <i>k</i>, ʾ and ʿ were added.
+[^7]: In Biblical Hebrew the root appears as √<i>nb’</i>. In comparative Semitics, the root is given as √<i>nby</i>, √<i>nbi</i> or √<i>nb</i>. However, the last radical was most likely the vowel /i/, cf. Müller (1984:143-44 and 1985) and Müller (1986). According to Müller (1984) this root ultimately goes back to a biliteral root √<i>bi</i> with an <i>n</i>-prefix. Conversely, Smith (1895:389-90) posited a bilateral base <i>NB</i> to w hich various third radicals such as <i>k</i>, ʾ and ʿ were added.
 
-[^9]: Müller (1984:144-45). The interpretation of Ugaritic <i>nbʿm</i> as a contracted form of <i>nbʾ ʿm</i> (<i>nabaʿ ʿammu</i>; ‘Ammu has called’) is far from certain and therefore it is also uncertain whether the root occurs in Ugaritic at all, cf. Gröndahl (1967:17).
+[^8]: Müller (1984:144-45). The interpretation of Ugaritic <i>nbʿm</i> as a contracted form of <i>nbʾ ʿm</i> (<i>nabaʿ ʿammu</i>; ‘Ammu has called’) is far from certain and therefore it is also uncertain whether the root occurs in Ugaritic at all, cf. Gröndahl (1967:17).
 
-[^10]: Müller (1984) <i>contra</i>  <i>HAL</i>. For an extensive list of Old South Arabic forms see Huehnergard (1999:91).
+[^9]: Müller (1984) <i>contra</i>  <i>HAL</i>. For an extensive list of Old South Arabic forms see Huehnergard (1999:91).
 
-[^11]: See <i>CAD</i> N<sup><small>I</small></sup> and <i>AHw</i> II.
+[^10]: See <i>CAD</i> N<sup><small>I</small></sup> and <i>AHw</i> II.
 
-[^12]: Emar 373:97’, Arnaud (1987:353, 360); Emar 379:11-12, Arnaud (1987:375); and Emar 383:10’, Arnaud (1987:377). The ration list is Emar 406:5’, Arnaud (1987:402-03).
+[^11]: Emar 373:97’, Arnaud (1987:353, 360); Emar 379:11-12, Arnaud (1987:375); and Emar 383:10’, Arnaud (1987:377). The ration list is Emar 406:5’, Arnaud (1987:402-03).
 
-[^13]: Arnaud (1986:385-86); the tablet on which this variant is attested is Msk 74286b:47’.
+[^12]: Arnaud (1986:385-86); the tablet on which this variant is attested is Msk 74286b:47’.
 
-[^14]: Fleming (1993a; 1993b ; 1993c and 2004) and Huehnergard (1999). Pentiuc (2001:111-13) sides with Fleming. Torczyner (1931:322); Jepsen (1934:10); Guillaume (1938:112-13); Albright (1940:231-32, 332); Würthwein (1950:24); Lindblom (1958:102); Dhorme (1959:xi-xiii); Rendtorff (1959:796); Mccarter (1980:99); Huehnergard (1999); Jeremias (2003:1694) and Fox (2003:192-93) opt for a passive understanding of  <span dir="rtl">נביא</span>. An active understanding is defended by König (1882:71-78); Smith (1895); Davidson (1903:83-84); Brockelmann (1908:§138); Kittel (1925:329); Dürr (1926:3-4); Junker (1927:36); Eichrodt (1933:206); Smith and Irwin (1941:3-4); Haldar (1945:109, esp. n.2); Meek (1950:150); Buber (1956:135-36, 218-19); Fenton (1997:34-35). Ramlot (1972:922) remains agnostic as to whether the form should be understood as an active or passive, but appears to be leaning toward an active interpretation, while Mánek (1962); Jeremias (1976:7); Wilson (1980:137) and  <i>HAL</i>, 625 (=ET  <i>HALOT</i> 662) lean toward a passive interpretation. Von Rad (1958:21-23); Johnson (1962:24 n.5); Shepherd Jr. (1962:896-97); Jassen (2007:26) remain agnostic and deny the use of etymological information for the semantics of  <span dir="rtl">נביא</span>.
+[^13]: Fleming (1993a; 1993b ; 1993c and 2004) and Huehnergard (1999). Pentiuc (2001:111-13) sides with Fleming. Torczyner (1931:322); Jepsen (1934:10); Guillaume (1938:112-13); Albright (1940:231-32, 332); Würthwein (1950:24); Lindblom (1958:102); Dhorme (1959:xi-xiii); Rendtorff (1959:796); Mccarter (1980:99); Huehnergard (1999); Jeremias (2003:1694) and Fox (2003:192-93) opt for a passive understanding of  <span dir="rtl">נביא</span>. An active understanding is defended by König (1882:71-78); Smith (1895); Davidson (1903:83-84); Brockelmann (1908:§138); Kittel (1925:329); Dürr (1926:3-4); Junker (1927:36); Eichrodt (1933:206); Smith and Irwin (1941:3-4); Haldar (1945:109, esp. n.2); Meek (1950:150); Buber (1956:135-36, 218-19); Fenton (1997:34-35). Ramlot (1972:922) remains agnostic as to whether the form should be understood as an active or passive, but appears to be leaning toward an active interpretation, while Mánek (1962); Jeremias (1976:7); Wilson (1980:137) and  <i>HAL</i>, 625 (=ET  <i>HALOT</i> 662) lean toward a passive interpretation. Von Rad (1958:21-23); Johnson (1962:24 n.5); Shepherd Jr. (1962:896-97); Jassen (2007:26) remain agnostic and deny the use of etymological information for the semantics of  <span dir="rtl">נביא</span>.
 
-[^15]: This equivalence is common in lexical lists also in Babylonia, Müller (1984:143).
+[^14]: This equivalence is common in lexical lists also in Babylonia, Müller (1984:143).
 
-[^16]: Huehnergard (1999:91); Müller (1984:143); Jeremias (1976:7); Mánek (1962);  <i>HAL</i>, 622;  <i>HALOT</i>, 659; Rendtorff (1959:796); and Tawil (2009:231-32).
+[^15]: Huehnergard (1999:91); Müller (1984:143); Jeremias (1976:7); Mánek (1962);  <i>HAL</i>, 622;  <i>HALOT</i>, 659; Rendtorff (1959:796); and Tawil (2009:231-32).
 
-[^21]: Görg (1982; 1983; 1985 and 1986). For the Egyptian see <i>WÄS</i> ii:43; Ebbell (1938:25-26); Grapow and Erichsen (1940-55:ii, 346) and Von Deines and Westendorf (1961-62:I, 455).
+[^16]: Görg (1982; 1983; 1985 and 1986). For the Egyptian see <i>WÄS</i> ii:43; Ebbell (1938:25-26); Grapow and Erichsen (1940-55:ii, 346) and Von Deines and Westendorf (1961-62:I, 455).
 
-[^22]: Gesenius, <i>TPC</i>, 838a; Kuenen (1877:42-45); Duhm (1922b:81); Hackermann (1934:42) and Plöger (1951). Jeffers (1996:82) quotes Kuenen and reconstructs a root √<i>nby</i> with the meaning ‘bubble up’, by which she presumably means the root √<i>nbʿ</i>.
+[^17]: Gesenius, <i>TPC</i>, 838a; Kuenen (1877:42-45); Duhm (1922b:81); Hackermann (1934:42) and Plöger (1951). Jeffers (1996:82) quotes Kuenen and reconstructs a root √<i>nby</i> with the meaning ‘bubble up’, by which she presumably means the root √<i>nbʿ</i>.
 
-[^24]: This has led many to believe that the services of  <span dir="rtl">נביאים</span> were available to the paying public, Briggs Curtis (1979) and Lindblom (1962:71). The idea that certain bi-radical roots were extended by the addition of a  <span dir="rtl">נ</span> is defended by Müller (1984:144-45).
+[^18]: This has led many to believe that the services of  <span dir="rtl">נביאים</span> were available to the paying public, Briggs Curtis (1979) and Lindblom (1962:71). The idea that certain bi-radical roots were extended by the addition of a  <span dir="rtl">נ</span> is defended by Müller (1984:144-45).
 
-[^25]: Land (1868:170-75) and Pfeiffer (1947:15). This is explicitly rejected in Johnson (1962:24 n.5).
+[^19]: Land (1868:170-75) and Pfeiffer (1947:15). This is explicitly rejected in Johnson (1962:24 n.5).
 
-[^29]: While it could be argued that the noun  <span dir="rtl">קֶשֶׁר</span> is the subject here, the plural verb-form indicates that the <i>nomen rectum</i>,  <span dir="rtl">נְבִיאֶהָ</span> is the implied subject.
+[^20]: While it could be argued that the noun  <span dir="rtl">קֶשֶׁר</span> is the subject here, the plural verb-form indicates that the <i>nomen rectum</i>,  <span dir="rtl">נְבִיאֶהָ</span> is the implied subject.
 
-[^30]: See n. 20 above.
+[^21]: See n. 20 above.
 
-[^31]: See n. 20 above.
+[^22]: See n. 20 above.
 
-[^31a]: For the rendering of פחז, ‘to be, act treacherous’; see De Hoop 1997; 2023.
+[^23]: For the rendering of פחז, ‘to be, act treacherous’; see De Hoop 1997; 2023.
 
-[^32]: Where the Targums offer different renderings I will make this clear, as e.g. the case of Exod 7:10.
+[^24]: Where the Targums offer different renderings I will make this clear, as e.g. the case of Exod 7:10.
 
-[^33]: Ms. Or. 2363 of the British Museum has simply  <span dir="rtl">נביא</span> here.
+[^25]: Ms. Or. 2363 of the British Museum has simply  <span dir="rtl">נביא</span> here.
 
-[^34]: According to Sperber, the text in the <i>Biblia Regia</i> from Antwerp has  <span dir="rtl">נבי</span> instead of <span dir="rtl">ספר</span>.
+[^26]: According to Sperber, the text in the <i>Biblia Regia</i> from Antwerp has  <span dir="rtl">נבי</span> instead of <span dir="rtl">ספר</span>.
 
-[^35]: The two manuscripts are British Museum MS. Or. 944 and Ms. Solger no. 2 of the Stadtbibliothek in Nürnberg.
+[^27]: The two manuscripts are British Museum MS. Or. 944 and Ms. Solger no. 2 of the Stadtbibliothek in Nürnberg.
 
-[^37]: Jepsen (1934). See the more careful assessment in Johnson (1962:9).
+[^28]: Jepsen (1934). See the more careful assessment in Johnson (1962:9).
 
-[^38]: Jepsen (1960). Jepsen’s more formal approach was prefigured by Knobl (1872:76); Box (1908:50); Hylander (1931:53-66); Reynolds (1935) and, to some extend, Bentzen (1944). See also Gunneweg (1959:102-03); Kaiser (1960:81); Heschel (1962:509); Vogt (1967); Rendtorff (1968:804); Falk (1969); Wildberger (1980:317-18); Blenkinsopp (2000:238-39); Fischer (2002:194-96); Watts (2005:150); Gafney (2008:104-05) and Williamson (2010). Dillmann (1890:79); Duhm (1892:56); Marti (1900:82); Whitehouse (1905:138); Thomson and Skinner (1910:29); Gray (1912:144); Hölscher (1914:125, 196); Skinner (1915:72); Duhm (1922a:79); Feldmann (1925:100); König (1926:9-10); Proksch (1930:130); Kissane (1941:97); Eising (1970:75); Fohrer (1974:124) and Ackerman (1998:173) are examples of scholars who think the anonymous woman bears the title prophet only as Isaiah’s wife. Herntrich (1957:140-42) translates female prophet but does not comment on the issue. Von Orelli (1887:39-41) and Clements (1980:95) grant the woman a prophetic role as part of Isaiah’s family who all take part in the physical manifestation of his message. Hempel (1936:32) simply translates ‘Prophet(in)’. Delitzsch (1889:152) does not specify either, but the way that he refers to the woman simply as Isaiah’s young wife (‘seine[] junge[] Frau’) implies that he regards the title as conferred on her because she is Isaiah’s wife. Grogan (1986:67) is unsure whether the  <span dir="rtl">נביאה</span> is a prophet out of her own right, by virtue of the pregnancy, or whether she is ‘Mrs. prophet Isaiah’.
+[^29]: Jepsen (1960). Jepsen’s more formal approach was prefigured by Knobl (1872:76); Box (1908:50); Hylander (1931:53-66); Reynolds (1935) and, to some extend, Bentzen (1944). See also Gunneweg (1959:102-03); Kaiser (1960:81); Heschel (1962:509); Vogt (1967); Rendtorff (1968:804); Falk (1969); Wildberger (1980:317-18); Blenkinsopp (2000:238-39); Fischer (2002:194-96); Watts (2005:150); Gafney (2008:104-05) and Williamson (2010). Dillmann (1890:79); Duhm (1892:56); Marti (1900:82); Whitehouse (1905:138); Thomson and Skinner (1910:29); Gray (1912:144); Hölscher (1914:125, 196); Skinner (1915:72); Duhm (1922a:79); Feldmann (1925:100); König (1926:9-10); Proksch (1930:130); Kissane (1941:97); Eising (1970:75); Fohrer (1974:124) and Ackerman (1998:173) are examples of scholars who think the anonymous woman bears the title prophet only as Isaiah’s wife. Herntrich (1957:140-42) translates female prophet but does not comment on the issue. Von Orelli (1887:39-41) and Clements (1980:95) grant the woman a prophetic role as part of Isaiah’s family who all take part in the physical manifestation of his message. Hempel (1936:32) simply translates ‘Prophet(in)’. Delitzsch (1889:152) does not specify either, but the way that he refers to the woman simply as Isaiah’s young wife (‘seine[] junge[] Frau’) implies that he regards the title as conferred on her because she is Isaiah’s wife. Grogan (1986:67) is unsure whether the  <span dir="rtl">נביאה</span> is a prophet out of her own right, by virtue of the pregnancy, or whether she is ‘Mrs. prophet Isaiah’.
 
-[^39]: E.g., Schniedewind (1995:34-37); Blenkinsopp (1995:28-29; 1996:28-30); Floyd (2006:3) and Jassen (2007:27).
+[^30]: E.g., Schniedewind (1995:34-37); Blenkinsopp (1995:28-29; 1996:28-30); Floyd (2006:3) and Jassen (2007:27).
 
-[^41]: Fohrer (1969:224) regards the prophets as ecstatics like other Near Eastern cult-officials.
+[^31]: Fohrer (1969:224) regards the prophets as ecstatics like other Near Eastern cult-officials.
 
-[^42]: See Smend (1893:79-80); Hölscher (1914:125, 145-47); Duhm (1922b:81-82); Puukko (1935); Lindblom (1958; 1962); von Rad (1958:22-25) and Uffenheimer (1988; 1999 and 2001). On the question of the use of the title  <span dir="rtl">נביא</span> in the Writing Prophets see already Jepsen (1934) and later Auld (1983a:104-05 and 1983b); Carroll (1983); Williamson (1983) and Gonçalves (2001). In reaction to Jepsen, Gunneweg (1959) emphatically states that the Writing Prophets were  <span dir="rtl">נביאים</span>, but he fails to explain that the LXX of Jeremiah uses the term προφήτης so much less frequently than MT. Soggin (1987:7-9) also argues for understanding the nominal sentence in Amos 7:14 as a past tense. The question whether or not Amos was a  <span dir="rtl">נביא</span> is ultimately of no importance to the <i>semantics</i> of the term. Wolff (1969:359-62) offers the solution that using the verb  <span dir="rtl">הנבא</span> does not make one into a  <span dir="rtl">נביא</span>. In a careful piece Vawter (1985) argues that while Amos and Hosea themselves did not bear the title  <span dir="rtl">נביא</span> it had been adopted for prophets by the seventh century, while the LXX refined the terminology by adding the term ψευδοπροφήτης (‘false prophet’).
+[^32]: See Smend (1893:79-80); Hölscher (1914:125, 145-47); Duhm (1922b:81-82); Puukko (1935); Lindblom (1958; 1962); von Rad (1958:22-25) and Uffenheimer (1988; 1999 and 2001). On the question of the use of the title  <span dir="rtl">נביא</span> in the Writing Prophets see already Jepsen (1934) and later Auld (1983a:104-05 and 1983b); Carroll (1983); Williamson (1983) and Gonçalves (2001). In reaction to Jepsen, Gunneweg (1959) emphatically states that the Writing Prophets were  <span dir="rtl">נביאים</span>, but he fails to explain that the LXX of Jeremiah uses the term προφήτης so much less frequently than MT. Soggin (1987:7-9) also argues for understanding the nominal sentence in Amos 7:14 as a past tense. The question whether or not Amos was a  <span dir="rtl">נביא</span> is ultimately of no importance to the <i>semantics</i> of the term. Wolff (1969:359-62) offers the solution that using the verb  <span dir="rtl">הנבא</span> does not make one into a  <span dir="rtl">נביא</span>. In a careful piece Vawter (1985) argues that while Amos and Hosea themselves did not bear the title  <span dir="rtl">נביא</span> it had been adopted for prophets by the seventh century, while the LXX refined the terminology by adding the term ψευδοπροφήτης (‘false prophet’).
 
-[^43]: Jacobi (1920:5-6); Lofthouse (1924); Haeussermann (1932:10-11); Jepsen (1934:5-10); Rendtorff (1959:797-99) and Parker (1978) take both <i>niphʿal</i> and <i>hitpaʿel</i> to mean ‘to be in, or to fall into a possession trance.’ On the question see now also Adam (2009). In contrast Wilson (1980:136-38) takes the <i>hitpaʿel</i> to mean simply ‘to act like a prophet’ as there are passages that do not support the meaning ‘to be ecstatic’.
+[^33]: Jacobi (1920:5-6); Lofthouse (1924); Haeussermann (1932:10-11); Jepsen (1334:5-10); Rendtorff (1959:797-99) and Parker (1978) take both <i>niphʿal</i> and <i>hitpaʿel</i> to mean ‘to be in, or to fall into a possession trance.’ On the question see now also Adam (2009). In contrast Wilson (1980:136-38) takes the <i>hitpaʿel</i> to mean simply ‘to act like a prophet’ as there are passages that do not support the meaning ‘to be ecstatic’.
 
-[^44]: Neher (1981:22) states that ‘dans le Livre d’Amos, l’emploi des trois termes se fait avec une indifference parfaite’.
+[^34]: Neher (1981:22) states that ‘dans le Livre d’Amos, l’emploi des trois termes se fait avec une indifference parfaite’.
 
-[^47]: Mowinckel (1923). Gunneweg (1959:81-97) emphatically argues for the link of cultic prophets with  <span dir="rtl">נביאים</span>. All relevant lexicon entries also affirm the existence of cult-prophets but few of them link this to the term  <span dir="rtl">נביא</span> as does Koch (1996:482-84). Petersen (1976:55-96) argues that given the title and status of the temple singers by the time of the Chronicler, they should be regarded as the inheritors of classical prophecy, against which see e.g. Williamson (1982:165-67) who argues that they stand in the same tradition but that their function is to play instruments and sing rather than to prophecy in the strict sense.
+[^35]: Mowinckel (1923). Gunneweg (1959:81-97) emphatically argues for the link of cultic prophets with  <span dir="rtl">נביאים</span>. All relevant lexicon entries also affirm the existence of cult-prophets but few of them link this to the term  <span dir="rtl">נביא</span> as does Koch (1996:482-84). Petersen (1976:55-96) argues that given the title and status of the temple singers by the time of the Chronicler, they should be regarded as the inheritors of classical prophecy, against which see e.g. Williamson (1982:165-67) who argues that they stand in the same tradition but that their function is to play instruments and sing rather than to prophecy in the strict sense.
 
-[^48]: See, e.g., von Rad (1930:113-15); Haldar (1945); Johnson (1962; 1979); Gese (1963); Tournay (1991:57-68) and Hilber (2005). Against this idea see de Vaux (1960:249-52).
+[^36]: See, e.g., von Rad (1930:113-15); Haldar (1945); Johnson (1962; 1979); Gese (1963); Tournay (1991:57-68) and Hilber (2005). Against this idea see de Vaux (1960:249-52).
 
-[^49]: On prophecy in Chronicles see Welch (1939:42-54); Rudolph (1955:170-71); Willi (1972:216-29); Newsome (1973); Petersen (1976:55-96); Seeligmann (1978); Weinberg (1978); Micheel (1983); Tournay (1991:34-45); Kleinig (1993:148-57) and Beentjes (2001).
+[^37]: On prophecy in Chronicles see Welch (1939:42-54); Rudolph (1955:170-71); Willi (1972:216-29); Newsome (1973); Petersen (1976:55-96); Seeligmann (1978); Weinberg (1978); Micheel (1983); Tournay (1991:34-45); Kleinig (1993:148-57) and Beentjes (2001).
 
-[^50]: Winckler (1906:23-24) followed by Erbt (1909) with a first negative reaction by König (1907) and again König (1926:10-11).
+[^38]: Winckler (1906:23-24) followed by Erbt (1909) with a first negative reaction by König (1907) and again König (1926:10-11).
 
-[^51]: Junge (1937:17 n.75). The same view is taken up by Elliger (1938) who is followed by Winton Thomas (1946).
+[^39]: Junge (1937:17 n.75). The same view is taken up by Elliger (1938) who is followed by Winton Thomas (1946).
 

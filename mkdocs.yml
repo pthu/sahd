@@ -8,14 +8,21 @@ nav:
     - Home: index.md
     - Lemmas:
             - א:
+                - אָדֹם - red: words/2adom.md
                 - אוּרִים וְתֻמִּים - Urim Thummim: words/2urim_wthummim.md
+                - אַרְגְּוָן - bright purple: words/2argwan.md
+                - אַרְגָּמָן - bright purple: words/2argaman.md
+                - ארר - to curse: words/2-r-r.md
             - ב:
                 - בֶּקַע - beka: words/beqa3.md
-                - בְּרָכָה - blessing: words/brakah.md
+                - ברך - to bless: words/b-r-k_2.md
+                - blessing - brakah: words/בְּרָכָה.md
             - ג:
                 - גְּאוּלִים - redemption: words/g2ulim.md
                 - גאל - to redeem: words/g-2-l.md
                 - גְּאֻלָּה - redemption, right of: words/g2ullah.md
+            - ה:
+                - הֲדֹם - footstool: words/hadom.md
             - ח:
                 - חֹזֶה - (court) diviner: words/chozeh.md
                 - חַשְׁמַן - amethyst(?): words/chashman.md
@@ -25,6 +32,11 @@ nav:
                 - יְשׁוּעָה - protection: words/yshu3ah.md
                 - ישׁע - to save, help: words/y-sh-3.md
                 - יֵשַׁע - safety: words/yesha3.md
+            - כ:
+                - כְּלִי - vessel: words/kli.md
+                - כַּרְמִיל - bright, rich red: words/karmil.md
+            - ל:
+                - לָבָן - white: words/laban.md
             - מ:
                 - מָאוֹר - light: words/ma2or.md
                 - מְגִלָּה - scroll: words/mgillah.md
@@ -33,6 +45,8 @@ nav:
                 - מַפְרֶקֶת - neck: words/mapreqeth.md
             - נ:
                 - נָבִיא/נְבִיאָה - prophet(ess): words/nabi2.md
+            - ע:
+                - עֶזְרָה - help: words/3ezrah.md
             - פ:
                 - פדה - to liberate: words/p-d-h.md
                 - פְּדוּיִם - redemption price: words/pduyim.md
@@ -44,13 +58,17 @@ nav:
                 - פֶּרֶק - plunder: words/pereq.md
             - צ:
                 - צלה - to roast: words/ts-l-h.md
+            - ק:
+                - קבב - to curse: words/q-b-b.md
             - ר:
                 - רֹאֶה - seer: words/ro2eh.md
             - ש:
+                - שָׁנִי - bright red dye: words/shani_1.md
                 - שׁוֹעַ - great man: words/shoa3.md
                 - שׁוּעַ - cry for help: words/shua3.md
             - ת:
                 - תְּבוּנָה - understanding: words/thbunah.md
+                - תְּכֵלֶת - bluish purple: words/thkeleth.md
                 - תִּפְלָה - senselessness: words/thiplah.md
                 - תְּשׁוּעָה - deliverance, state of: words/thshu3ah.md
     - Semantic fields:
@@ -60,6 +78,7 @@ nav:
             - Colours: semantic_fields/colours.md
             - Craft: semantic_fields/craft.md
             - Cult: semantic_fields/cult.md
+            - Cursing: semantic_fields/cursing.md
             - Deliverance: semantic_fields/deliverance.md
             - Divination: semantic_fields/divination.md
             - Food Preparation: semantic_fields/food preparation.md
@@ -74,13 +93,16 @@ nav:
             - Writing: semantic_fields/Writing.md
     - Contributors:
             - James K. Aitken: contributors/james_k._aitken.md
+            - Bob Becking: contributors/bob_becking.md
             - Graham I. Davies: contributors/graham_i._davies.md
             - Raymond de Hoop: contributors/raymond_de_hoop.md
             - Kees den Hertog: contributors/kees_den_hertog.md
             - Meindert Dijkstra: contributors/meindert_dijkstra.md
             - Alison Gray: contributors/alison_gray.md
+            - John E. Hartley: contributors/john_e._hartley.md
             - Cornelis Houtman: contributors/cornelis_houtman.md
             - Kurtis Peters: contributors/kurtis_peters.md
+            - Alison Salvesen: contributors/alison_salvesen.md
             - Paul Sanders: contributors/paul_sanders.md
             - M. Patrizia Sciumbata: contributors/m._patrizia_sciumbata.md
             - Klaas A. D. Smelik: contributors/klaas_a._d._smelik.md

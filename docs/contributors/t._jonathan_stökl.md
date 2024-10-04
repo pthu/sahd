@@ -9,4 +9,4 @@ Jonathan Stökl is Associate Professor at Leiden University. His research covers
 ![t. jonathan stokl](../images/photos/t._jonathan_stokl.jpg "T. Jonathan Stökl")
 
 ### Contributions
-[חֹזֶה – (court) diviner](../words/chozeh.md)<br>[נָבִיא/נְבִיאָה – prophet(ess)](../words/nabi2.md)<br>[רֹאֶה – seer](../words/ro2eh.md)<br>
+[חֹזֶה – seer](../words/chozeh.md)<br>[נָבִיא/נְבִיאָה – prophet(ess)](../words/nabi2.md)<br>[רֹאֶה – seer](../words/ro2eh.md)<br>

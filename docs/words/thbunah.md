@@ -17,7 +17,7 @@ First published: 2009-09-16<br>Last update: 2024-06-30 (Raymond de Hoop, Paul Sa
 
 ## Introduction
 
-Grammatical Type: n.f.  
+Grammatical Type: noun fem.  
 Occurrences: 42x HB (4/11/27); 8x Sir; 1x Qum.; 0x inscr. (Total: 51)
 
 * Torah: Exod 31:3; 35:31; 36:1; Deut 32:28; 
@@ -55,7 +55,7 @@ corruption there is also a greater awareness of the special meaning of <span dir
 <b>A.5</b>  Sir 15:3<small><sup>A</sup></small>  presents the reading <span dir="rtl">תבואה</span>, 
 which is cancelled and corrected with <span dir="rtl">תבונה</span> (which is the reading of ms B).
 
-<b>A.6</b>  In Sir 15:15<small><sup>B</sup></small> presents in the body of the text the reading <span dir="rtl">אמונה</span> in place of <span dir="rtl">תבונה</span> of ms. A (the reading accepted by the Greek text): <span dir="rtl">תבונה</span> is, however, given in the adjacent margin.
+<b>A.6</b>  In Sir 15:15<small><sup>B</sup></small> presents in the body of the text the reading <span dir="rtl">אמונה</span> in place of <span dir="rtl">תבונה</span> of ms. A (the reading accepted by the Greek text): <span dir="rtl">תבונה</span> is, however, given in the adjacent margin (B<sup>mg</sup>).
 
 <b>B.1</b>  The figure of 44 occurrences furnished by Fox (1993:151) is totally incomprehensible.
 

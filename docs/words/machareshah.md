@@ -8,14 +8,14 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># מַחֲרֵשָׁה/מַחֲרֶשֶׁת <i>maḥ<small><sup>a</sup></small>rēšāh</i>/<i>maḥ<small><sup>a</sup></small>rèšet</i> – plough, hoe (?)
 
 Semantic Fields:
-[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Agriculture](../semantic_fields/agriculture.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Agriculture](../semantic_fields/agriculture.md)&nbsp;&nbsp;&nbsp;[Metals](../semantic_fields/metals.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Paul Sanders](../contributors/paul_sanders.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
 First published: 2017-12-29<br>Last update: 2023-11-29 <br>Citation: Paul Sanders, מַחֲרֵשָׁה/מַחֲרֶשֶׁת <i>maḥ<small><sup>a</sup></small>rēšāh</i>/<i>maḥ<small><sup>a</sup></small>rèšet</i> – plough, hoe (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2017 (update: 2023)
 
 
 ##<span id="I">Introduction</span>
 
-Grammatical type: n.f.  
+Grammatical type: noun fem.  
 Occurrences:   3x HB (0/3/0); 0x Sir; 0x Qum; 0x Inscr.  (Total: 3)  
 
 * Nebiim: 1 Sam 13:20 (2x), 21;
@@ -810,6 +810,8 @@ G. Ernest Wright, ‘Archaeological News and Views’, <i>BA</i> 6/2:32-36.
 
 ## Notes 
 
+Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project. 
+Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amsterdam).
 
 [^1]: If <span dir="rtl">מחרשֹׁת</span> in 13:21 were a plural form of  \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span>, the expected vocalisation in 13:21 would be  <span dir="rtl">מַחֲרָשֹׁת</span> (with <i>qameṣ</i>). Cf.  <span dir="rtl">מַעֲרָכוֹת</span> in Lev 24:6, <span dir="rtl">מַאֲכָלוֹת</span> in Prov 30:14, and the similar plural forms of other nouns mentioned in BL, 490&nbsp;aζ.
 [^2]: <i>DCH</i> v: 229-30. See also the discussion in <a href="#Versions">4. A.1-2</a> and <a href="#Exe-lit">6.1</a>.

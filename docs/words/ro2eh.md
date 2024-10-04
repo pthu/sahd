@@ -15,7 +15,7 @@ First published: 2010-08-02<br>Last update: 2024-06-30 <br>Citation: T. Jonathan
 
 ## Introduction
 
-Grammatical Type: n. m.  
+Grammatical Type: noun masc.  
 Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
 
 * Nebiim: 1 Sam 9:9 (2x), 11, 18, 19; Isa 30:10. 
@@ -47,11 +47,11 @@ Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
 
   See the verb  <span dir="rtl">רָאָה</span> (in preparation).
 
-<b>A.1</b>   <span dir="rtl">רָאָה</span> is the common Hebrew root for ‘to see’. In other Semitic languages, the root appears most commonly in Old South Arab. as <i>rʾy</i> , Eth. <i>rěʾěya</i> , and Arab. <i>raʾā</i> with the same meaning.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup>
+<b>A.1</b>   <span dir="rtl">רָאָה</span> is the common Hebrew root for ‘to see’. In other Semitic languages, the root appears most commonly in Old South Arab. as <i>rʾy</i> , Eth. <i>rěʾěya</i> , and Arab. <i>raʾā</i> with the same meaning.<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>
 
 <b>A.2</b>  The attestation of the verb in the Meša-stele in lines four (H-Stem)
     and seven (G-stem) indicates that Moabite shared the root with
-    Hebrew.<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup>
+    Hebrew.<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup>
 
 <b>A.3</b>  Ugaritic and Akkadian use the root <i>ʾmr</i> for the verb ‘to see’.
 
@@ -137,7 +137,7 @@ Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
 
 <b>A.1</b>  Zorell translates <i>videns</i>.  <i>HAL</i> and Ges<sup><small>18</small></sup> translate ‘Seher’. BDB and  <i>DCH</i> have ‘seer’.
 
-<b>A.2</b>  It is common, as the dictionaries do, to regard <span dir="rtl">רֹאֶה</span> and <span dir="rtl">חֹזֶה</span> as synonymous, with <span dir="rtl">רֹאֶה</span> as the older and <span dir="rtl">חֹזֶה</span> as the younger term (see, e.g., Vetter 1976:699). The possibility that both are synonymous with the  <span dir="rtl">נָבִיא</span> is usually denied but the dictionaries point to 1 Sam 9:9 where <span dir="rtl">רֹאֶה</span> is explained as the older term for <span dir="rtl">נָבִיא</span>.<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup>
+<b>A.2</b>  It is common, as the dictionaries do, to regard <span dir="rtl">רֹאֶה</span> and <span dir="rtl">חֹזֶה</span> as synonymous, with <span dir="rtl">רֹאֶה</span> as the older and <span dir="rtl">חֹזֶה</span> as the younger term (see, e.g., Vetter 1976:699). The possibility that both are synonymous with the  <span dir="rtl">נָבִיא</span> is usually denied but the dictionaries point to 1 Sam 9:9 where <span dir="rtl">רֹאֶה</span> is explained as the older term for <span dir="rtl">נָבִיא</span>.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup>
 
 <b>A.3</b>  The attestations of  <span dir="rtl">רֹאֶה</span> are clustered in 1 Sam 9 and 1-2 Chronicles (5x each). This indicates that temporal distinction does not explain any possible difference between
 <span dir="rtl">חֹזֶה</span> and 
@@ -145,7 +145,7 @@ Occurrences: 11x HB (0/6/5); 0x Sir; 2x Qum.; 0x inscr. (Total: 13).
 
 <b>A.4</b>  As morphologically  <span dir="rtl">רֹאֶה</span> is the <i>qal</i> active participle of the verb <span dir="rtl">רָאָה</span> (‘to see’) the standard translation to be found in the dictionaries (‘seer’) seems justified.
 
-<b>A.5</b>  As a direct title  <span dir="rtl">רֹאֶה</span> is attributed to Samuel three times and once to Hanani in 1-2 Chronicles. In addition, the five attestations in 1 Samuel 9 all refer to Samuel as well, which means that eight out of thirteen attestations of the term refer to Samuel.<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup>
+<b>A.5</b>  As a direct title  <span dir="rtl">רֹאֶה</span> is attributed to Samuel three times and once to Hanani in 1-2 Chronicles. In addition, the five attestations in 1 Samuel 9 all refer to Samuel as well, which means that eight out of thirteen attestations of the term refer to Samuel.<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup>
 
 <b>A.6</b>  Jastrow (1909:46-49) links the <span dir="rtl">רֹאֶה</span> with the Babylonian <i>bārû</i> as a priestly seer, similar to the  <span dir="rtl">חֹזֶה</span>, but–in contrast to the  <span dir="rtl">חֹזֶה</span>–access to whom is open to the wider public and not restricted to the royal court. He bases this on the observation that Samuel is approached by common people while Gad–the <span dir="rtl">חֹזֶה</span> <i>par excellence</i>–is closely linked to the court.
 
@@ -255,13 +255,13 @@ Dieter Vetter,  ‘<span dir="rtl">ראה</span>, r’h - sehen’, <i>THAT</i> 
 
 [^2]:  The term is used as a participle in CD 5:7; 1QM 10:10; 4QPešIsa<sup><small>c</small></sup> (163) f17:1; 4QPešIsa<sup><small>c</small></sup> (163) f23ii:17; 4QPešNah (169) f3-4iii:2; 4QpapJub<sup><small>h</small></sup> (223-224) f2ii:3; 4QpapJub<sup><small>h</small></sup> (223-224) f2v:9; 4QDam<sup><small>a</small></sup> (266) f13:3; 4QDam<sup><small>e</small></sup> (270) f4:2; 4QRewPent<sup><small>b</small></sup> (364) f25a-c:7; 4QRewPent<sup><small>b</small></sup> (364) f30:3; 4QPsaJosh<sup><small>b</small></sup> (379) f4:2; 4QLetHal<sup><small>a</small></sup> (394) f8iii:20; 4QLetHal<sup><small>a</small></sup> (394) f8iv:1; 4QLetHal<sup><small>c</small></sup> (396) f1-2ii:2; 4QLetHal<sup><small>c</small></sup> (396) f1-2ii:3.
 
-[^5]:  <i>SD</i>, 112-13; <i>DOSA</i>, 473-74.
+[^3]:  <i>SD</i>, 112-13; <i>DOSA</i>, 473-74.
 
-[^6]:  In line twelve the hapax legomenon <i>ryt</i> used to be the accepted reading, based on Clermont-Ganneau (1887). Lemaire (1987) suggested a reading <i>hyt</i> , which has been generally accepted. Schade (2007) recently challenged this reading arguing that the old reading (<i>ryt</i>) is correct but Lemaire (2007) has defended his new reading.
+[^4]:  In line twelve the hapax legomenon <i>ryt</i> used to be the accepted reading, based on Clermont-Ganneau (1887). Lemaire (1987) suggested a reading <i>hyt</i> , which has been generally accepted. Schade (2007) recently challenged this reading arguing that the old reading (<i>ryt</i>) is correct but Lemaire (2007) has defended his new reading.
 
-[^8]:  In addition to the dictionaries see e.g. Hentschke (1957:150); Rendtorff (1968:809-10); Vetter (1976:699).
+[^5]:  In addition to the dictionaries see e.g. Hentschke (1957:150); Rendtorff (1968:809-10); Vetter (1976:699).
 
-[^9]:  Blenkinsopp (1995:124-25) focuses on 1 Sam 9 and the parallel use of  <span dir="rtl">נביא</span> and  <span dir="rtl">חֹזֶה</span> there.
+[^6]:  Blenkinsopp (1995:124-25) focuses on 1 Sam 9 and the parallel use of  <span dir="rtl">נביא</span> and  <span dir="rtl">חֹזֶה</span> there.
 
 
 

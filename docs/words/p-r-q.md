@@ -7,7 +7,8 @@
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=2PRQv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># פרק <i>pāraq</i> – to pull off, tear away
 
-Author(s):
+Semantic Fields:
+[Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Graham I. Davies](../contributors/graham_i._davies.md)<br>
 First published: 2010-07-31<br>Last update: 2024-08-13 (Paul Sanders) <br>Citation: Graham I. Davies, פרק <i>pāraq</i> – to pull off, tear away, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
 
@@ -18,7 +19,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 ## Introduction
 
 Grammatical Type: vb. <i>qal</i>, <i>piel</i>, <i>hithp.</i>  
-Occurrences: 10x HB (<i>qal</i> 1/0/3; <i>piel</i> 1/2/0; <i>hithp.</i> 2/1/0); 1x Qum (<i>qal</i>); 0x Sir; 0x inscr. (Total: 11).
+Occurrences: 10x HB (<i>qal</i> 1/0/3; <i>piel</i> 1/2/0; <i>hithp.</i> 2/1/0); 0x Sir; 1x Qum (<i>qal</i>); 0x inscr. (Total: 11).
 
 * Torah – <i>qal</i>: Gen 27:40.
 * Ketubim – <i>qal</i>: Pss 7:3; 136:24; Lam 5:8.

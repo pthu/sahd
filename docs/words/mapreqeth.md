@@ -18,7 +18,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
 
-Grammatical Type: n.f.  
+Grammatical Type: noun fem.  
 Occurrences: 1x HB (0/1/0); 0x Qum; 0x Sir; 0x inscr. (Total: 1).
 
 * Nebiim: 1 Sam 4:18.

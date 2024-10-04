@@ -10,4 +10,4 @@
 
  
 ### Contributions
-[בְּרָכָה – blessing](../words/brakah.md)<br>[יְשׁוּעָה – protection](../words/yshu3ah.md)<br>[יֵשַׁע – safety](../words/yesha3.md)<br>[ישׁע – to save, help](../words/y-sh-3.md)<br>[מוֹשָׁעָה – deliverance](../words/mosha3ah.md)<br>[שׁוּעַ – cry for help](../words/shua3.md)<br>[תְּשׁוּעָה – deliverance, state of](../words/thshu3ah.md)<br>
+[ארר – to curse](../words/2-r-r.md)<br>[בְּרָכָה – blessing](../words/brakah.md)<br>[ברך – to blessing](../words/b-r-k_2.md)<br>[יְשׁוּעָה – protection](../words/yshu3ah.md)<br>[יֵשַׁע – safety](../words/yesha3.md)<br>[ישׁע – to save, help](../words/y-sh-3.md)<br>[מוֹשָׁעָה – deliverance](../words/mosha3ah.md)<br>[עֶזְרָה – help](../words/3ezrah.md)<br>[קבב – to curse](../words/q-b-b.md)<br>[שׁוּעַ – cry for help](../words/shua3.md)<br>[תְּשׁוּעָה – deliverance, state of](../words/thshu3ah.md)<br>

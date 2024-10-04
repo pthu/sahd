@@ -18,7 +18,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
 
-Grammatical Type: noun.   
+Grammatical Type: noun masc.   
 Occurrences: 2x HB (0/2/0); 0x Qum; 0x Sir; 0x inscr. (Total: 2).
 
 * Nebiim: Obad 1:14; Nah 3:1;
@@ -51,7 +51,7 @@ post-biblical Hebrew.
 with the meanings ‘joint, limb’ (and then of comparable parts of inanimate objects), ‘section, chapter’ (of a book) and ‘(period of) time, season’.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> A meaning ‘load’ is given for one passage (Yalk. Lam. 1000;
 cf. Jastrow, <i>DTT</i>, 1240). A different word,  <span dir="rtl">פֵּרָקוֹן</span> (Jastrow, <i>DTT</i>, 1240), is used for ‘redemption’.
 
-[^1]: Cf. Jastrow</i>, <i>DTT</i>, 1239-40 ,for instances. The meaning ‘part, section’ is also claimed by Dupont-Sommer for some Jewish magical texts (cf. <i>DNWSI</i>, 943).
+[^1]: Cf. Jastrow</i>, <i>DTT</i>, 1239-40, for instances. The meaning ‘part, section’ is also claimed by Dupont-Sommer for some Jewish magical texts (cf. <i>DNWSI</i>, 943).
 
 <b>A.6</b></span> In <i>Jewish Aramaic</i> <span dir="rtl">פִּרְקָא</span> occurs with similar meanings to  <span dir="rtl">פֶּרֶק</span>, but also once for a ‘cross-roads’ (Tg<small><sup>J</sup></small> Obad 1:14, based on the Heb.) and several times for a ‘session’ of a school 
 (Jastrow, <i>DTT</i>, 1240, presumably derived from the meaning ‘[period of] time’). <span dir="rtl">פִּרְקוּנָא</span> is used for ‘redemption’, and likewise  <span dir="rtl">פּוּרְקָנָא</span> (also for the payment itself).  <span dir="rtl">פַּרְקוּתָא</span> is attested once (Tg<small><sup>J</sup></small> 1 Sam 4:18, pres. in the sense ‘neck’, as in the Heb.).

@@ -16,7 +16,7 @@ First published: 2024-07-27<br>Citation: Meindert Dijkstra,&nbsp;Paul Sanders, �
 <span id="I"></span>
 ## Introduction
 
-Grammatical type: n.m.  
+Grammatical type: noun masc.  
 Occurrences:   1x HB (0/0/1); 0x Sir; 0x Qum; 0x Inscr.  (Total: 1).
 
 * Ketubim: Ps 68:32. 
@@ -177,7 +177,9 @@ which mentions SÍG <i>ḫusmāni</i>
 and SÍG <i>takilta</i> 
  to designate two different kinds of wool that were given to an Ugaritic queen named Šarelli
 (see Virolleaud 1951:54-56; PRU 3, 1955: 14-15).
-Since <i>takiltu</i> denotes ‘blue(-purple) cloth’ (see Heb. <span dir="rtl">תְּכֵלֶת</span>; cf. Hartley 2010:38, 185-90),
+Since <i>takiltu</i> denotes ‘blue(-purple) cloth’ (see Heb.
+<a href="/words/thkeleth/><span dir="rtl" lang="he">תְּכֵלֶת</span></a>;
+cf. Hartley 2010:38, 185-90),
 Albright interpreted <i>ḫašmānu</i> as denoting a category of textile with a different colour, namely red.
 However, he still assumed that there is a relationship with Egyptian <i>ḥsmn</i>, ‘natron’ (see A.2), supposing that
 red dyes could be dissolved with the help of natron. 
@@ -365,7 +367,7 @@ Others have proposed a connection with Akkadian <i>ḫašmānu</i> (see A.3-A.5 
 If there is indeed a connection with Egyptian <i>ḥsmn</i>, <span dir="rtl">חַשְׁמַל</span> and \*<span dir="rtl">חַשְׁמַן</span> 
 can be seen as directly related, with each of them designating bronze (Ges<sup>18</sup>, 409 s.v. <span dir="rtl">חַשְׁמַנִּים</span>;
 cf. Mowinckel 1953:61-62).
-In Egyptian, the spelling <i>ḥsml</i> instead of <i>ḥsmn</i>, ‘bronze’, is not attested, but the final letter of <i>ḥsmn</i> may have been pronounced more or less as <i>l</i> (cf. Muchiki 1999:246; Allen 2020:41, 81-82).
+In Egyptian, the spelling <i>ḥsml</i> instead of <i>ḥsmn</i>, ‘bronze’, is not attested, but the final letter of <i>ḥsmn</i> may have been pronounced more or less as /l/ (cf. Muchiki 1999:246; Allen 2020:41, 81-82).
 
 <span id="Gen10:14"><b>A.9</b> </span>
 Barthélemy (2005:463-65) preferred to interpret <span dir="rtl">חַשְׁמַנִּים</span> as a gentilic. 
@@ -566,6 +568,9 @@ gemstones, metals, cloth, or colours.
 <span id="Exe"></span>
 ##6. Exegesis
 
+### 6.1 Textual Evidence
+
+
 <b>A.1</b> The noun *<span dir="rtl">חַשְׁמַן</span> occurs only in Ps 68:32. 
 Following the Masoretic vocalisation and leaving the form <span dir="rtl">חַשְׁמַנִּים</span> untranslated, this verse can be translated as follows: 
    
@@ -664,12 +669,25 @@ In Israel, certain types of garments were also highly valued as spoil or tribute
 However, interpreting <span dir="rtl">חַשְׁמַנִּים</span> in Ps 68:32 as ‘dyed cloth’ is problematic, 
 since in Egypt, where <span dir="rtl">חַשְׁמַנִּים</span> is said to come from, <i>ḥsmn</i> never relates to textiles. 
 Moreover, there are no indications that the Akkadian word <i>ḫašmānu</i> was used in Hebrew, Ugaritic, or any other North-West Semitic language to designate
-dyed textiles. In Hebrew, reddish purple was designated as <span dir="rtl">אַרְגָּמָן</span>, and bluish purple as <span dir="rtl">תְּכֵלֶת</span> (Hartley 2010:38, 185-90, 198-204).
+dyed textiles. In Hebrew, reddish purple was designated as 
+<a href="/words/2argaman/><span dir="rtl" lang="he">אַרְגָּמָן</span></a>, 
+and bluish purple as 
+<a href="/words/thkeleth/><span dir="rtl" lang="he">תְּכֵלֶת</span></a> (Hartley 2010:38, 185-90, 198-204).
 
-<b>A.7</b> <span id="Am2"><i>Amethyst</i></span> has apparently not yet been proposed as the meaning of <span dir="rtl">חַשְׁמַנִּים in Ps 68:32, since the word was overlooked</span>
+<b>A.7</b> <span id="Am2"><i>Amethyst</i></span> has apparently not yet been proposed as the meaning of <span dir="rtl">חַשְׁמַנִּים</span> in Ps 68:32. The word was overlooked</span>
 by Black and Thavapalan, who did assume a connection between Egyptian <i>ḥsmn</i>, ‘amethyst’, and Akkadian <i>ḫašmānu</i>.
 Both authors interpreted Akkadian <i>ḫašmānu</i>
 also as amethyst, and additionally as amethyst-like colours of cloth, leather, etc. (see <a href="#Ameth">Root and Comparative Material, A.5</a>).
+If Akkadian <i>ḫašmānu</i> and Egyptian <i>ḥsmn</i>, ‘amethyst’, are indeed cognates, it is not surprising that 
+a cognate occurs also in Biblical Hebrew. 
+Identifying *<span dir="rtl">חַשְׁמַן</span> in Ps 68:32 with amethyst is not problematic if Psalm 68, or at least the part including 68:32, 
+is an early composition.<sup id="fnref:27"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:27')">27</a></sup> 
+A tribute including precious stones was highly valued; see 1 Kgs 10:2, 10-11.
+
+
+### 6.2 Pictorial Material and Archaeology
+
+<b>A.1</b>
 Amethyst was a valued gemstone, and since exceptional efforts were required to mine it, it was also precious.
 Amethyst was used in the form of scarabs, amulets, and beads, mainly for necklaces
 (Seyfried 1981:143-44; Thavapalan 2020:272-73).
@@ -678,13 +696,8 @@ Thavapalan 2020:273-74).
 However, in view of its geographical location, it is quite probable that amethyst used in Israel had come from Egypt, 
 more specifically from Wadi el-Hudi in southern Egypt. This area is close to Kush (cf. Ps 68:32b), which explains why a stela of Usersatet, Viceroy of Kush
 (ca. 1400 BCE), was erected there (Liszka 2017:38-39). 
-An amethyst scarab beetle with hieroglyphic signs that turned up in Byblos (Lebanon) had probably been produced in Egypt in the time of the Middle Kingdom.<sup id="fnref:27"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:27')">27</a></sup>
+An amethyst scarab beetle with hieroglyphic signs that turned up in Byblos (Lebanon) had probably been produced in Egypt in the time of the Middle Kingdom.<sup id="fnref:28"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:28')">28</a></sup>
 The connection of <span dir="rtl">חַשְׁמַנִּים</span> with Egypt in Ps 68:32 corresponds with the assumption that the Hebrew word denotes amethyst.
-If Akkadian <i>ḫašmānu</i> is indeed a derivative of Egyptian <i>ḥsmn</i>, ‘amethyst’, it is not surprising that 
-a cognate occurs also in Biblical Hebrew. 
-Identifying *<span dir="rtl">חַשְׁמַן</span> in Ps 68:32 with amethyst is not problematic if Psalm 68, or at least the part including 68:32, 
-is regarded as an early composition.<sup id="fnref:28"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:28')">28</a></sup> 
-A tribute including precious stones was highly valued; see 1 Kgs 10:2, 10-11.
 
 
 ![Amethyst scarab](../images/photos/scarab.jpg)
@@ -725,7 +738,7 @@ and that it was mined in Egypt, in an area close to Kush (see Ps 68:32b).
 It implies that <span dir="rtl">חַשְׁמַנִּים</span> is a cognate of Egyptian <i>ḥsmn</i>, ‘amethyst’, just like Akkadian <i>ḫašmānu</i>
 (see <a href="#Ameth">Root and Comparative Material, A.5</a>;
 <a href="#Am2">Exegesis, A.7</a>).
-In Egyptian, there are only relatively early attestations of <i>ḥsmn</i>, ‘amethyst’ ,
+In Egyptian, there are only relatively early attestations of <i>ḥsmn</i>, ‘amethyst’,
 but if Psalm 68 is an old composition the occurrence of a cognate in 68:32 is explicable.
 We propose the following translation: <br>
 
@@ -1007,6 +1020,8 @@ Emanuel White, <i>A Critical Edition of the Targum of Psalms: A Computer Generat
 
 ## Notes 
 
+Many thanks are due to Ben Haring and Rients de Boer (Leiden) for their valuable suggestions with regard to the  Egyptian and Akkadian evidence.
+
 [^1]: KBL, 342; <i>HAL</i>, 348 (cf. <i>HALOT</i>, 362);   Ges<sup>18</sup>, 409: <i>DCH</i> iii: 333; <i>DCHR</i> iii: 433, 587.
 [^2]: The personal name <sup>m</sup><i>Ḫa-aš-ma-nu-um</i> is already attested in the Old Akkadian period; see Gelb 1957:135. The relationship with  the noun <i>ḫašmānu</i> is unclear.
 [^3]: In 1940 Virolleaud transcribed the noun as  <i>tar-ma-nu</i>, although he already indicated that  the first cuneiform sign could represent <i>ḫas</i> instead of <i>tar</i> (1940:259 n. 1). It was later confirmed that the interpretation as <i>ḫas</i> is correct.
@@ -1033,10 +1048,10 @@ Emanuel White, <i>A Critical Edition of the Targum of Psalms: A Computer Generat
 [^24]: White 1988:289; Edwards 2007:237-38, 241 (Breslau Ms).
 [^25]: https://thesaurus-linguae-aegyptiae.de/, lemmas 110020,  110060, and 110070, respectively.
 [^26]: For the term <i>ḥsmn</i>, ‘natron’, in Demotic texts, see <a href="https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/CDD_H2.pdf"><i>Chicago Demotic Dictionary</i> Ḥ</a>
-[^27]: See Martin 1996. The beetle is now kept in the <a href="https://collections.louvre.fr/en/ark:/53355/cl010006920">Louvre</a>.
-[^28]: See, e.g., De Moor 1997:181-88.
-[^29]: https://picryl.com/media/scarab-f34154.
-[^30]: https://picryl.com/media/string-of-46-round-beads-in-graded-sizes-19ad36.
+[^27]: See, e.g., De Moor 1997:181-88.
+[^28]: See Martin 1996. The beetle is now kept in the <a href="https://collections.louvre.fr/en/ark:/53355/cl010006920">Louvre</a>.
+[^29]: https://picryl.com/media/scarab-f34154
+[^30]: https://picryl.com/media/string-of-46-round-beads-in-graded-sizes-19ad36
  
 
 

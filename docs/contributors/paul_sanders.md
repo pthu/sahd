@@ -11,4 +11,4 @@ Paul Sanders is assistant professor of Old Testament at Protestantse Theologisch
 
 
 ### Contributions
-[אוּרִים וְתֻמִּים – Urim Thummim](../words/2urim_wthummim.md)<br>[חַשְׁמַן – amethyst(?)](../words/chashman.md)<br>[טוה – to spin, twist](../words/t-w-h.md)<br>[מְגִלָּה – scroll](../words/mgillah.md)<br>[מַחֲרֵשָׁה/מַחֲרֶשֶׁת – plough](../words/machareshah.md)<br>[פֶּלֶךְ – spindle](../words/pelek.md)<br>
+[אוּרִים וְתֻמִּים – Urim Thummim](../words/2urim_wthummim.md)<br>[חַשְׁמַן – amethyst(?)](../words/chashman.md)<br>[טוה – to spin, twist](../words/t-w-h.md)<br>[כְּלִי – vessel](../words/kli.md)<br>[מְגִלָּה – scroll](../words/mgillah.md)<br>[מַחֲרֵשָׁה/מַחֲרֶשֶׁת – plough](../words/machareshah.md)<br>[פֶּלֶךְ – spindle](../words/pelek.md)<br>

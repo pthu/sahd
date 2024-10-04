@@ -31,7 +31,14 @@ Occurrences: 205x HB (<i>hiph.</i>: 6/110/67; <i>niph</i>.: 2/12/7); 7x Sir; 27x
 * Nebiim – <i>niph</i>.: 2 Sam 22:4; Isa 30:15; 45:17, 22; 64:4; Jer 4:14; 8:20; 17:14; 23:6; 30:7; 33:16; Zech  9:9.
 * Ketubim - <i>hiph.</i>: Pss 3:8; 6:5; 7:2, 11; 12:2; 17:7; 18:28, 42; 20:7, 10; 22:22; 28:9; 31:3, 17; 34:7, 19; 36:7; 37:40; 44:4, 7, 8; 54:3; 55:17; 57:4; 59:3; 60:7; 69:2, 36; 71:2, 3; 72:4, 13; 76:10; 86:2, 16; 98:1; 106:8, 10, 21, 47; 107:13, 19; 108:7; 109:26, 31; 116:6; 118:25; 119:94, 146; 138:7; 145:19; Job 5:15; 22:29; 26:2; 40:14; Prov 20:22; Lam 4:17; Neh 9:27 (2x); 1 Chron 11:14; 16:35; 18:6, 13; 19:12, 19; 2 Chron 20:9; 32:22. 
 * Ketubim – <i>niph</i>.: Pss 18:4; 33:16; 80:4, 8, 20; 119:117; Prov 28:18.
-* Sir – <i>hiph.</i>: ms A, 4:9; 11:20 (Beentjes, <i>BBSH</i>, 11:18); ms B, 31:6; 36:1; 48:20; 49:10; 51:3.
+* Sir – <i>hiph.</i>:
+4:9<sup><small>A</small></sup>;
+11:20[18]<sup><small>A</small></sup> (damaged);
+31:6<sup><small>B</small></sup>;
+36:1<sup><small>B</small></sup>;
+48:20<sup><small>B</small></sup>;
+49:10<sup><small>B</small></sup>;
+51:3<sup><small>B</small></sup>.
 * Qum: CD 5:19(A) (dupl. in 4Q267 2:2 and 6Q15 3:2); 9:9(A), 10(A);
 1QH<sup><small>a</small></sup> 10:25; (?)11:6 (<i>DCH</i> iv: 336 = Sukenik 3:6); 1QM 10:4, 8; 11:3; 1QS
 6:27; 4Q166 2:14; 4Q171 4:21; 4Q174 1:13; 4Q183 2:3; 4Q288 1:5; 4Q365 6a
@@ -50,7 +57,7 @@ amenable to semantic analysis: 4Q226 5:1; 4Q372 8:3; 4Q374 2 ii 10;
 
 <b>A.2</b>  At Isa 64:4 the verb should probably be read as וַנִּפְשַׁע.
 
-<b>A.3</b>  Ms B at Sir 31:6 reads the <i>niph.</i> inf. להושׁע, but B-mg corrects this to the <i>hiph.</i> להושׁיע, the error in B being explicable by the easy loss of a <i>yodh</i>.
+<b>A.3</b>  Ms B at Sir 31:6 seems to read the <i>niph.</i> inf. (להושׁע), but B-mg corrects this to the <i>hiph.</i> (להושׁיע), the error in B being explicable by the easy loss of a <i>yodh</i>.
 
 <b>B.1</b>  Although the LXX ἐσώζετο (cf. Pesh: 
 ܙܟܐ ܗܘܐ
@@ -483,11 +490,11 @@ it is the predicate of and <span dir="rtl" lang="he">יהוה</span>
 Hiphil:   
 
 * ἀμύνομαι, ‘to help and defend’:<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> Isa 59:16;  
-* ἀνασώζω, ‘to rescue’: Zech 8:7;  
+* ἀνασῴζω, ‘to rescue’: Zech 8:7;  
 * \[[ἀπόλλυμι]], ‘to destroy’:<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> Job 5:15;  
 * βοηθέω, ‘to aid, help’: Deut 22:27; 28:29, 31; Prov 20:22; 1&nbsp;Chron 19:19;  
 * βοηθός:, ‘helper, help’: 2&nbsp;Sam 22:42;  
-* διασώζω, ‘to preserve, save’: Deut 20:4; Hos 13:10; Zech 8:13;  
+* διασῴζω, ‘to preserve, save’: Deut 20:4; Hos 13:10; Zech 8:13;  
 * \[[εἰσακούω]], ‘to give ear’: Ps 55[54]:17;  
 * ἐλεέω, ‘to have pity on’: Sir 33:1;  
 * ἐξαιρέω, ‘to take (out)’: Josh 10:6; Sir 4:9;  
@@ -497,7 +504,7 @@ Hiphil:
 * σωτήρ, ‘saviour, deliverer’: Judg 3:9, 15; 1&nbsp;Sam 10:19; 2 Sam 22:3 (1st, LXX<sup>Ant</sup>); Isa 45:15, 21; Neh 9:27;  
 * σωτηρία, ‘deliverance, salvation’: 2&nbsp;Sam 22:3 (1st); 2&nbsp;Kgs 13:5; 14:27; Isa 38:20; 47:15; 63:8;  
 * σωτήριον, ‘deliverance, salvation’: Isa 63:1;  
-* σώζω, ‘to save, keep alive’: Judg 2:16, 18; 3:9, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam 4:3; 7:8; 9:16; 10:27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26, 31 [+χεῖρα], 33; 2&nbsp;Sam 3:18; 8:6, 14; 10:11, 19; 14:4; 22:3 (2nd), 28, 42 (LXX<sup>Ant</sup>);
+* σῴζω, ‘to save, keep alive’: Judg 2:16, 18; 3:9, 31; 6:14, 15, 31, 36, 37; 7:2, 7; 8:22; 10:1, 12, 13, 14; 12:2, 3; 13:5; 1&nbsp;Sam 4:3; 7:8; 9:16; 10:27; 11:3; 14:6, 23, 39; 17:47; 23:2, 5; 25:26, 31 [+χεῖρα], 33; 2&nbsp;Sam 3:18; 8:6, 14; 10:11, 19; 14:4; 22:3 (2nd), 28, 42 (LXX<sup>Ant</sup>);
 2&nbsp;Kgs 6:26, 27 (2x); 16:7; 19:19; Isa 19:20; 33:22; 35:4; 37:20, 35; 43:3, 11, 12; 45:20 (pl.); 46:7; 47:13; 59:1; 60:16; 63:9; Jer 2:27, 28; 11:12 (1x); 14:8, 9; 15:20; 17:14; 31[38]:7; 42[49]:11; 46[26]:27; Ezek 34:22; 36:29; Hos 1:7 (2x); 13:4; 14:4; Obad 1:21 (pass.); Hab 1:2; Zeph 3:17, 19; Zech 9:16; 10:6; 12:7; Pss 3:8; 6:5; 7:2,
 11; 12[11]:2; 17[16]:7; 18[17]:28, 42; 20[19]:7, 10; 22[21]:22;
 28[27]:9; 31[30]:3, 17; 34[33]:7, 19; 36[35]:7; 37[36]:40; 44[43]:4, 7,
@@ -518,18 +525,18 @@ Large omission: Jer 30:10, 11.
 Niphal:  
 
 * βοηθέω passive, `to be assisted, receive help’: Prov 28:18;  
-* διασώζω passive, `to come safe through/ to’: Num 10:9; Jer 8:20;  
+* διασῴζω passive, `to come safe through/ to’: Num 10:9; Jer 8:20;  
 * \[[πλανάω, ‘to wander, go astray’]]: Isa 64:4;  
-* σώζω active, ‘to save, keep alive’: Zech 9:9;  
-* σώζω passive, ‘to be saved, attain salvation’:<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup> Deut 33:29; 2&nbsp;Sam 22:4; Isa 30:15; 45:17, 22; Jer 4:14; 17:14; 23:6; 30[37]:7; Pss 18[17]:4; 33[32]:16; 80[79]:4, 8, 20; 119[119]:117.  
+* σῴζω active, ‘to save, keep alive’: Zech 9:9;  
+* σῴζω passive, ‘to be saved, attain salvation’:<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup> Deut 33:29; 2&nbsp;Sam 22:4; Isa 30:15; 45:17, 22; Jer 4:14; 17:14; 23:6; 30[37]:7; Pss 18[17]:4; 33[32]:16; 80[79]:4, 8, 20; 119[119]:117.  
 
-[^7]: LEH<sup><small>3</small></sup>, 602, offers for σώζω passive also the meaning ‘to save oneself, escape’. 
+[^7]: LEH<sup><small>3</small></sup>, 602, offers for σῴζω passive also the meaning ‘to save oneself, escape’. 
 
 
 Large omission: Jer 33:16.  
 
 
-<b>A.1</b>  Although the primary translation of ישׁע in the LXX is σώζω and its
+<b>A.1</b>  Although the primary translation of ישׁע in the LXX is σῴζω and its
 compounds (for both the <i>hiph.</i> and the <i>niph.</i>), there are some
 equivalents that express various other nuances corresponding to some of
 the translations for the cognate Hebrew nouns. ἀμύνομαι ‘to ward off
@@ -544,7 +551,7 @@ the noun ἔλεος in the LXX for translating the nouns
 <span dir="rtl" lang="he">יְשׁוּעָה</span> (Sir).
 
 
-<b>A.3</b>  For the active of σώζω to translate the <i>niph.</i> at Zech 9:9, see Tg.
+<b>A.3</b>  For the active of σῴζω to translate the <i>niph.</i> at Zech 9:9, see Tg.
 
 <b>B.1</b>  ἀπόλλυμι at Job 5:15 is probably an attempt to explain a difficult syntax, or arose from a corruption to יגוע ‘to let perish’ 
 (LEH<sup><small>1</small></sup>, 53; LEH<sup><small>3</small></sup>, 70).

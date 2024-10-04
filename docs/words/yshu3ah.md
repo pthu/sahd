@@ -20,7 +20,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
 
-Grammatical Type: n.f.  
+Grammatical Type: noun fem.  
 Occurrences: 79x HB (4/25/50); 1x Sir; 23x (+ 6 pars.) Qum; 0x inscr. (Total: 103).   
 
 * Torah: Gen 49:18; Exod 14:13; 15:2; Deut 32:15.
@@ -32,7 +32,7 @@ Occurrences: 79x HB (4/25/50); 1x Sir; 23x (+ 6 pars.) Qum; 0x inscr. (Total: 10
 69:30; 70:5; 74:12; 78:22; 80:3; 88:2; 89:27; 91:16; 96:2; 98:2, 3;
 106:4; 116:13; 118:14, 15, 21; 119:123, 155, 166, 174; 140:8; 149:4; Job
 13:16; 30:15; 1 Chron 16:23; 2 Chron 20:17, 78.
-* Sir: ms B, 35:25.
+* Sir: 35:25<sup><small>B</small></sup>.
 * Qum: CD 20:34; 1QH<sup><small>a</small></sup> 6:5; 7:19; 19:23 (= 4QH<sup><small>a</small></sup> 1:5); 20:3 (=
 4QH<sup><small>a</small></sup>3:2-3); 26:10 (= 4QH<sup><small>a</small></sup> 7 i 14); 1QS 1:19; 10:17 (= 4QS<sup><small>b</small></sup> 20:6;
 4QS<sup><small>f</small></sup> 4:4); 11:12; 1QM 1:5; 4:13; 13:13; 14:5; 18:7; 4Q185 2:13; 4Q381 15:9; 4Q438 4 ii+5:3; 4Q491 (4QM<sup><small>a</small></sup>) 11 ii 17 (cf. 1QM 16:16ff.); 15:7; 4Q503 48-50:6; 4Q511 1:5; 10:8.  
@@ -246,9 +246,9 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 
 ## 4. Ancient Versions
 
-<b>a. Septuagint (LXX):</b>
+<b>a. Septuagint (LXX):</b><sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup>
 
-* ἔλεος, ‘pity, mercy’:<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> Sir 35:25
+* ἔλεος, ‘pity, mercy’: Sir 35:25;
 * σωτήρ, ‘saviour’: Deut 32:15; Isa 12:2a; Ps 62[61]:3, 7;  
 * σωτηρία, ‘rescue, deliverance’: Gen 49:18; Exod 14:13; 15:2; 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 10:11; 22:51; Isa 12:2b; 25:9; 26:18 [pl. for sg.]; 33:2, 6 [pl. for sg.]; 49:6, 8; 52:7, 10;
 59:11; Hab 3:8; Pss 3:3, 9; 18[17]:51; 22[21]:2; 35[34]:3; 42[41]:12 [sg. for pl.]; 44[43]:5 [sg. for pl.]; 69[68]:30; 74[73]:12 [sg. for pl.]; 88[87]:2;
@@ -259,14 +259,14 @@ adverbially in ‘apposition in the wider sense’ (cf. Ezek 16:27; 24:13; 2&nbs
 [s for pl]; 43[42]:5 [s for pl]; 53[52]:7 [s for pl]; 62[61]:2;
 67[66]:3; 68[67]:20; 70[69]:5; 78[77]:22; 91[90]:16; 96[95]:2; 98[97]:2,
 3; 106[105]:4; 116[115]:13[4]; 119[118]:123, 166, 174;
-* σώζω, ‘to save’ as articular infinitive: Ps 80[79]:3.
+* σῴζω, ‘to save’ as articular infinitive: Ps 80[79]:3.
 
 [^1]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>, <i>s.v.</i>.
 
 
-<b>b. Peshitta (Pesh):</b>   
+<b>b. Peshitta (Pesh):</b><sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> 
 
-* <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’:<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> Gen 49:18; Exod 14:13; 
+* <span dir="rtl" lang="-">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’: Gen 49:18; Exod 14:13; 
 1&nbsp;Sam 2:1; 14:45; 2&nbsp;Sam 22:51; 
 Isa 12:2<sup>2nd</sup>, 3; 25:9; 26:1; 33:6; 49:6, 8; 51:6, 8; 52:7, 10; 56:1; 59:11, 17; 60:18; 62:1; 
 Hab 3:8; 
@@ -281,9 +281,9 @@ Job 30:15; 1&nbsp;Chron 16:23; 2&nbsp;Chron 20:17;
 [^2]: The English renderings of the Syriac are based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
 
-<b>c. Targum (Tg: O/J/K):</b>  
+<b>c. Targum (Tg: O/J/K):</b><sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>  
 
-* <span dir="rtl" lang="he">פרק</span>, ‘to redeem’:<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>
+* <span dir="rtl" lang="he">פרק</span>, ‘to redeem’:
  Exod 15:2; Deut 32:15; 2&nbsp;Sam 10:11; Isa 12:2<sup>2nd</sup>; Pss 35:3; 80:3; 118:14, 21;  
 * <span dir="rtl" lang="he">פורקנא</span>, ‘redemption, salvation’:
  Gen 49:18; 
@@ -303,9 +303,9 @@ Isa 33:6; Hab 3:8.
 
 No rendering: Ps 118:15.
 
-<b>d. Vulgate (Vg):</b>  
+<b>d. Vulgate (Vg):</b><sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup>  
 
-* <i>adiutorium</i>, ‘to help’:<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> 2&nbsp;Sam 10:11;  
+* <i>adiutorium</i>, ‘to help’: 2&nbsp;Sam 10:11;  
 * <i>auxilium</i>, ‘help’: 2&nbsp;Chron 20:17;  
 * <i>Iesus</i>, ‘Jesus’: Ps 149:4 (Vg<sup><small>PsH </small></sup>)  
 * [[<i>iustitia</i>, ‘justice, righteousness’: Isa 51:8]];  

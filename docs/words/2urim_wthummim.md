@@ -15,7 +15,7 @@ First published: 2022-08-02<br>Last update: 2024-05-30 <br>Citation: Kees den He
 
 ##<span id="I">Introduction</span>
 
-Grammatical type: 2x n.m. pl.   
+Grammatical type: 2x noun masc. pl.   
 Occurrences: 7x HB (4/1/2); 0x Sir; 2x SP; 3x Qum.; 0x inscr. (Total: 12)
 
 * Torah: Exod 28:30; Lev 8:8; Num 27:21 (only <span dir="rtl">אוּרִים</span>); Deut 33:8 (reverse order);
@@ -1235,6 +1235,7 @@ Berlin: Reimer.
 
 ## Notes 
 
+Many thanks are due to Johannes C. de Moor(<sup>†</sup>2023; professor emeritus Protestant Theological University, Kampen) for his valuable suggestions.
 
 
 [^1]: Cf. <i>DCH</i> viii:644 (<i>sub</i> d); <i>HALOT</i>, 1750 (<i>sub</i> D).
@@ -1304,4 +1305,4 @@ Berlin: Reimer.
 [^64]: Lambert 2007:19.
 [^65]: E.g., Orlamünde 2001; Marcuson 2016:100-75; Warbinek 2019b:137-39.
 [^66]: We quote from the translation of <i>KUB</i> 5.1 by Beal (1999:48). His translation of some other Hittite KIN texts was published in <i>COS</i> 1:207-11 (1.79).
-[^67]: Photo by Matthew Susnow, courtesy of the Tel Abel Beth Maacah Excavations.<p id="contributors_footnote">Many thanks are due to Johannes C. de Moor(†) for his valuable suggestions.</p>
+[^67]: Photo by Matthew Susnow, courtesy of the Tel Abel Beth Maacah Excavations.<p id="contributors_footnote">Many thanks are due to Johannes C. de Moor(<sup>†</sup>2023; professor emeritus Protestant Theological University, Kampen) for his valuable suggestions.</p>
