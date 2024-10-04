@@ -19,7 +19,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
 
-Grammatical Type: n.f.  
+Grammatical Type: noun fem.  
 Occurrences: 1x HB (0/0/1); 0x Sir; 0x Qum; 0x inscr. (Total: 1).
 
 * Ketubim: Ps 68:21.
@@ -51,7 +51,7 @@ chain frequent in the Psalms of  <span dir="rtl">אֱלֹהֵי יֵשַׁע</sp
 
 <b>a. Septuagint (LXX)</b>: 
 
-* σώζω, ‘to save’, as articular infinitive: Ps 67:21 (68:21<small><sup>MT</sup></small>).
+* σῴζω, ‘to save’, as articular infinitive: Ps 67:21 (68:21<small><sup>MT</sup></small>).
 
 <b>b. Peshitta (Pesh)</b>: 
 

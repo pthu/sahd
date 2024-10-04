@@ -17,7 +17,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies; but cf. <a 
 
 ## Introduction
 
-Grammatical Type: n.m.(?)  
+Grammatical Type: noun masc.(?)  
 Occurrences: 2x HB (0/0/2); 0x Sir; 0x Qum; 0x inscr. (Total: 2).
 
 * Ketubim: Job 30:24; 36:19.

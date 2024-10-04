@@ -7,7 +7,7 @@ semantic_fields: utensils, cult, divination
 contributors: kees_den_hertog, paul_sanders   
 first_published: 2022-08-02  
 last_update: 2024-05-30   
-contributors_footnote: Many thanks are due to Johannes C. de Moor(†) for his valuable suggestions.   
+contributors_footnote: Many thanks are due to Johannes C. de Moor(<sup>†</sup>2023; professor emeritus Protestant Theological University, Kampen) for his valuable suggestions.   
 update_info:  
 additional_info: 
 
@@ -15,7 +15,7 @@ additional_info:
 
 ##<span id="I">Introduction</span>
 
-Grammatical type: 2x n.m. pl.   
+Grammatical type: 2x noun masc. pl.   
 Occurrences: 7x HB (4/1/2); 0x Sir; 2x SP; 3x Qum.; 0x inscr. (Total: 12)
 
 * Torah: Exod 28:30; Lev 8:8; Num 27:21 (only <span dir="rtl">אוּרִים</span>); Deut 33:8 (reverse order);
@@ -1235,6 +1235,7 @@ Berlin: Reimer.
 
 ## Notes 
 
+Many thanks are due to Johannes C. de Moor(<sup>†</sup>2023; professor emeritus Protestant Theological University, Kampen) for his valuable suggestions.
 
 
 [^1]: Cf. <i>DCH</i> viii:644 (<i>sub</i> d); <i>HALOT</i>, 1750 (<i>sub</i> D).

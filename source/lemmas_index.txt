@@ -3,21 +3,28 @@
 
 
 א
+אָדֹם : red : 2adom  
 אוּרִים וְתֻמִּים : Urim Thummim : 2urim_wthummim
+אַרְגְּוָן : bright purple : 2argwan
+אַרְגָּמָן : bright purple : 2argaman
+ארר : to curse : 2-r-r
+ 
 
 ב
 בֶּקַע : beka : beqa3
-בְּרָכָה : blessing : brakah
-
+ברך : to bless : b-r-k_2
+blessing: brakah : בְּרָכָה
 
 ג
 גְּאוּלִים : redemption : g2ulim
 גאל : to redeem : g-2-l
 גְּאֻלָּה : redemption, right of : g2ullah
 
+
 ד
 
 ה
+הֲדֹם : footstool : hadom
 
 ו
 
@@ -38,8 +45,11 @@
 ך
 
 כ
+כְּלִי : vessel : kli
+כַּרְמִיל : bright, rich red : karmil
 
 ל
+לָבָן : white : laban
 
 מ
 מָאוֹר : light : ma2or
@@ -55,6 +65,7 @@
 ס
 
 ע
+עֶזְרָה : help : 3ezrah
 
 פ
 פדה : to liberate : p-d-h
@@ -71,15 +82,21 @@
 צלה : to roast : ts-l-h
 
 ק
+קבב : to curse : q-b-b
+
 
 ר
 רֹאֶה : seer : ro2eh
 
 ש
+שָׁנִי : bright red dye : shani_1
 שׁוֹעַ : great man : shoa3
 שׁוּעַ : cry for help : shua3
 
 ת
 תְּבוּנָה : understanding : thbunah
+תְּכֵלֶת : bluish purple : thkeleth
 תִּפְלָה : senselessness : thiplah
 תְּשׁוּעָה : deliverance, state of : thshu3ah
+
+

@@ -16,7 +16,7 @@ contributors_footnote: Many thanks are due to Johannes C. de Moor (<sup>†</sup
 
 ## Introduction
 
-Grammatical type: n.m.  
+Grammatical type: noun masc.  
 Occurrences:   2x HB (0/1/1); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2)
 
 * Nebiim: 2 Sam 3:29
@@ -136,9 +136,9 @@ tKelim Bava Batra 1:6 includes the expression
 The פֶּלֶךְ is regarded as an instrument typically used by women: 
 אֵין חׇכְמָה לָאִשָּׁה אֶלָּא בְּפֶלֶךְ,
 ‘a woman has no wisdom except at a spindle’ (bYoma 66b, with reference to the spinning [→ <a href="/words/t-w-h"><span dir="rtl" lang="he">טוה</span></a>]
- of women in Exod 35:25a).[^postH] 
+ of women in Exod 35:25a).[^5] 
 
-[^postH]: See also the references in Jastrow, <i>DTT</i>, 1182, s.v. פֶּלֶךְ; Dalman, <i>AuS</i> V, 49.
+[^5]: See also the references in Jastrow, <i>DTT</i>, 1182, s.v. פֶּלֶךְ; Dalman, <i>AuS</i> V, 49.
 
 <b>A.6</b>  <i>Jewish Aramaic</i>:
 The JAram. cognate is פִּילְכָא, ‘spindle’ (Jastrow, <i>DTT</i>, 1182; Sokoloff, <i>DJBA</i>, 900-01).
@@ -154,7 +154,7 @@ bBava Batra 13b refers to a woman
 ‘who knows (how to use) the spindle and the loom’. 
 <a id="QR"></a>Qohelet Rabba (ad 7:9) presupposes the emphatic 
 form *פלכתא, 
-which is also interpreted as ‘spindle’:[^3a] 
+which is also interpreted as ‘spindle’:[^6] 
 <span dir="rtl" lang="he">הֵכְמָא דְּמַעֲזֵלָא עָזֵיל עַל פְּלַכְתֵּיהּ כֵּן סָלֵיק לֵיהּ בִּפְלַכְתֵּיהּ הוּא נָסֵיב</span>, ‘just as the spinner (masc.) spins upon his spindle, so he manages 
 to take by means of his spindle’. 
 For a jar with the inscription פלכה שמעון, see section <a href="#Nav">6.3 A.2</a>.
@@ -168,10 +168,10 @@ Sokoloff, <i>DJBA</i>, 913;
 cf. Jastrow, <i>DTT</i>, 1182). 
 However, the spelling פילכא in part of the manuscripts and editions reflects the interpretation as the noun פִּילְכָא. 
 
-[^3a]: The noun is wrongly translated as ‘distaff’ in Sokoloff, <i>DJPA</i>, 322, s.v. <span dir="rtl" lang="he">מעזל</span>; 401, s.v. <span dir="rtl" lang="he">עזל</span>; 436, s.v. <span dir="rtl" lang="he">פלכה</span>.
+[^6]: The noun is wrongly translated as ‘distaff’ in Sokoloff, <i>DJPA</i>, 322, s.v. <span dir="rtl" lang="he">מעזל</span>; 401, s.v. <span dir="rtl" lang="he">עזל</span>; 436, s.v. <span dir="rtl" lang="he">פלכה</span>.
 
 
-<a id="Arabic"></a><b>A.7</b> <i>Arabic</i>:  Several BHeb. dictionaries[^4a] 
+<a id="Arabic"></a><b>A.7</b> <i>Arabic</i>:  Several BHeb. dictionaries[^7] 
 present an etymology by referring to the Arab. verb <i>falaka</i>, ‘to be(come) round’ 
 (Lane, 2443).
 The Arab. noun  <i>falkat<sup> un</sup></i>/ <i>filkat<sup> un</sup></i>,
@@ -179,7 +179,7 @@ The Arab. noun  <i>falkat<sup> un</sup></i>/ <i>filkat<sup> un</sup></i>,
 ‘thus called because of its roundness’ (Lane, 2444). 
 However, <i>falaka</i> can also be a denominative verb.
 
-[^4a]: E.g., Gesenius, <i>TPC</i> ii:1105; KBL, 763; <i>HALOT</i>, 933; Ges<sup><small>18</small></sup>, 1056.
+[^7]: E.g., Gesenius, <i>TPC</i> ii:1105; KBL, 763; <i>HALOT</i>, 933; Ges<sup><small>18</small></sup>, 1056.
 
 
 ## 2. Formal Characteristics
@@ -204,44 +204,44 @@ which indicates that the פֶּלֶךְ is grasped.
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
-* ἄτρακτος, ‘spindle’:[^5] 
-2 Sam 3:29<sup><small>αʹσʹ</small></sup>;[^6] 
+* ἄτρακτος, ‘spindle’:[^8] 
+2 Sam 3:29<sup><small>αʹσʹ</small></sup>;[^9] 
 Prov 31:19<sup><small>LXX</small></sup>;  
-* σκυτάλη, ‘staff, cudgel, club’:[^7]
+* σκυτάλη, ‘staff, cudgel, club’:[^10]
 2 Sam 3:29<sup><small>LXX</small></sup>.
 
-[^5]: LSJ, 272; <i>GELS</i>, 101.
-[^6]: Field<sup><small>I</small></sup>, 552. 
-[^7]: LSJ, 1617; <i>GELS</i>, 628.
+[^8]: LSJ, 272; <i>GELS</i>, 101.
+[^9]: Field<sup><small>I</small></sup>, 552. 
+[^10]: LSJ, 1617; <i>GELS</i>, 628.
 
 <b>b.  Peshitta (Pesh):</b>  
 
 * <span dir="rtl">ܡܘܥܙܠܐ</span>
-(<i>mu‘zālā</i>), ‘spindle’:[^8] 2 Sam 3:29; Prov 31:19.
+(<i>mu‘zālā</i>), ‘spindle’:[^11] 2 Sam 3:29; Prov 31:19.
 
-[^8]: Sokoloff, <i>SLB</i>, 727 (cf. 800: ܡܥܙܠܐ, ‘spindle’); derivative of  ܥܙܠ, ‘to spin’ (<i>SLB</i>, 1090).
+[11]: Sokoloff, <i>SLB</i>, 727 (cf. 800: ܡܥܙܠܐ, ‘spindle’); derivative of  ܥܙܠ, ‘to spin’ (<i>SLB</i>, 1090).
 
 
 <b>c. Targum (Tg: J/K):</b>  
 
 * <span dir="rtl" lang="he">אַגְרָא</span>,
- ‘wages, reward, profit’:[^9] 2 Sam 3:29<sup><small>J</small></sup>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff, crutch, pole’,[^10] is questionable (Van Staalduine-Sulman 2002:499-500).   
+ ‘wages, reward, profit’:[^12] 2 Sam 3:29<sup><small>J</small></sup>. The emendation of <span dir="rtl" lang="he">אגר</span> to <span dir="rtl" lang="he">אגד</span>, ‘long staff, crutch, pole’,[^13] is questionable (Van Staalduine-Sulman 2002:499-500).   
 * <span dir="rtl" lang="he">מעזלא</span>,
 derivative of עזל,
 ‘to spin’,
-probably either ‘spindle’ or ‘spun wool/yarn’:[^11] Prov 31:19<sup><small>K</small></sup>. 
+probably either ‘spindle’ or ‘spun wool/yarn’:[^14] Prov 31:19<sup><small>K</small></sup>. 
 
-[^9]: Jastrow, <i>DTT</i>, 14; Sokoloff, <i>DJBA</i>, 80-81; <i>DJPA</i>, 34-35.
-[^10]: Jastrow, <i>DTT</i>, 10. Sokoloff, <i>DJBA</i>, 78, mentions only ‘carrying pole’ (with uncertain etymology) as a possible meaning.
-[^11]: Cf. Sokoloff, <i>DJPA</i>, 322; Jastrow, <i>DTT</i>, 814. Since in Prov 31:19 מעזלא is the object of Aram. לבך, ‘to grasp’, the word must denote something tangible.
+[^12]: Jastrow, <i>DTT</i>, 14; Sokoloff, <i>DJBA</i>, 80-81; <i>DJPA</i>, 34-35.
+[^13]: Jastrow, <i>DTT</i>, 10. Sokoloff, <i>DJBA</i>, 78, mentions only ‘carrying pole’ (with uncertain etymology) as a possible meaning.
+[^14]: Cf. Sokoloff, <i>DJPA</i>, 322; Jastrow, <i>DTT</i>, 814. Since in Prov 31:19 מעזלא is the object of Aram. לבך, ‘to grasp’, the word must denote something tangible.
 
 
 <b>d.  Vulgate (Vg):</b>  
 
-* <i>fusus</i>, ‘spindle’:[^14]
+* <i>fusus</i>, ‘spindle’:[^15]
 2 Sam 3:29; Prov 31:19. 
 
-[^14]: Lewis & Short, <i>LD</i>, 798;  <i>OLD</i>, 751.
+[^15]: Lewis & Short, <i>LD</i>, 798;  <i>OLD</i>, 751.
 
 
 <b>A.1</b>
@@ -339,7 +339,7 @@ There is no cognate usage of <i>plk</i> which firmly points to a meaning of staf
 
 
 Most dictionaries interpret פֶּלֶךְ both in 2 Sam 3:29 and Prov 31:19
-as a spindle or spindle-whorl.[^dic] 
+as a spindle or spindle-whorl.[^16] 
 The interpretation as a spindle in 2 Sam 3:29
 is not only in agreement with Prov 31:19, but it is also confirmed by several 
 <a href="#AV">ancient translations</a> 
@@ -353,7 +353,7 @@ connects the expression with the ill treatment of King Joash by the Arameans
 וְהָיוּ מְעַנִּין בּוֹ כְּדֶרֶךְ שֶׁמְּעַנִּין אֶת הָאִשָּׁה,
  ‘they violated him as they violate a woman’ (yQiddushin 1, 61a). 
 
-[^dic]: BDB, 813; GB, 643; <i>HAWAT</i>, 364; KBL, 763; <i>HALOT</i>, 933; Ges<sup><small>18</small></sup>, 1056.
+[^16]: BDB, 813; GB, 643; <i>HAWAT</i>, 364; KBL, 763; <i>HALOT</i>, 933; Ges<sup><small>18</small></sup>, 1056.
 
 That having a ‘(male) holder of a spindle’ in a family with military commanders 
 was regarded as a severe curse seems quite likely
@@ -391,7 +391,7 @@ After categories of temple personnel, a lexical list mentions a
 
 The following curse in Esarhaddon’s Succession Treaty may indicate that also in Mesopotamia, outside the specific cultic contexts, holding 
 a spindle was regarded as a disgrace to men:
-‘May they (the gods) make you whirl(?)[^15]
+‘May they (the gods) make you whirl(?)[^17]
 like a spindle (<sup><small>GIŠ</small></sup></i>pilaqqu</i>), may they make you like a woman 
 before your enemy’ (SAA 2:56, text 6, §91). 
 Brigitte Groneberg (1986:190-91)
@@ -402,7 +402,7 @@ The idea that depriving soldiers of their masculinity and turning them into wome
 in the treaty of Aššur-Nerari V with King Mati’-Ilu of Arpad (<i>COS</i> iv:151-52; V:8-15) and
 other Akk.  texts (Bergmann 2007:666-67).
 
-[^15]: <i>lušaṣbirukunu</i> (<i>ṣabārum</i> š stem) is translated as ‘may (the gods) make you whirl(?)’ in <i>CAD</i> P, 372, as ‘may (the gods) have you oscillate’ in <i>CAD</i> Ṣ, 4, and as ‘may (the gods) spin you around’ in SAA 2:56 (cf. <i>COS</i> iv:165).
+[^17]: <i>Lušaṣbirukunu</i> (<i>ṣabārum</i> š stem) is translated as ‘may (the gods) make you whirl(?)’ in <i>CAD</i> P, 372, as ‘may (the gods) have you oscillate’ in <i>CAD</i> Ṣ, 4, and as ‘may (the gods) spin you around’ in SAA 2:56 (cf. <i>COS</i> iv:165).
 
 In view of all this extra-biblical evidence, David’s use of the 
 expression מַחֲזִיק בַּפֶּלֶךְ, 
@@ -443,10 +443,11 @@ these women, who are said to have spun with their hands (בְּיָדֶיהָ;
 v.&nbsp;26),
 made use of a פֶּלֶךְ. 
 The materials spun by these woman were sheep wool coloured with costly dyes 
-(<span dir="rtl" lang="he">תְּכֵלֶת</span>, ‘bluish purple’; 
-<span dir="rtl" lang="he">אַרְגָּמָן</span>, ‘reddish purple’; 
+(<a href="/words/thkeleth/><span dir="rtl" lang="he">תְּכֵלֶת</span></a>, ‘bluish purple’; 
+<a href="/words/2argaman/><span dir="rtl" lang="he">אַרְגָּמָן</span></a>, 
+‘reddish purple’; 
 <span dir="rtl" lang="he">תּוֹלַעַת הַשָָּׁנִי</span>, 
-<span dir="rtl" lang="he">שָׁנִי</span>, ‘scarlet’),
+<a href="/words/shani_1/><span dir="rtl" lang="he">שָׁנִי</span></a>, ‘scarlet’),
 fine linen (שֵׁשׁ), 
 and goat hair (עִזִּים).
 See further → <a href="/words/t-w-h"><span dir="rtl" lang="he">טוה</span></a>.
@@ -485,18 +486,18 @@ that in Egypt linen was more widely used than in the rest  of the ancient Near E
 central Jordan river and in the Beth Shean valley, 
 made it possible to cultivate flax also there (Shamir 1996:142), but
 from those areas no relevant pictorial evidence remains.
-Flax and wool have different properties and, consequently, their fibres had to be processed differently before they could be spun.[^17a]
+Flax and wool have different properties and, consequently, their fibres had to be processed differently before they could be spun.[^18]
 
-[^17a]: <i>BRL</i><sup><small>2</small></sup>, 311-12; Barber 1991:11-15, 20-22; Andersson Strand 2015:40-44.  
+[^18]: <i>BRL</i><sup><small>2</small></sup>, 311-12; Barber 1991:11-15, 20-22; Andersson Strand 2015:40-44.  
 
 
 <a id="Exe-Eg"></a><b>A.2</b> 
 Ancient Egyptian depictions of the consecutive stages of textile production include representations of spindles and help to understand how they were 
-used.[^17b]
+used.[^19]
 Although several depictions seem to be somewhat schematic, they 
 demonstrate that the processing of flax into linen went differently from the processing of wool.
 
-[^17b]: See the illustrations in <i>ANEP</i>, no. 142, 143; Dothan 1963:106-09; Barber 1991:45, 48, 74, 76; Spinazzi-Lucchesi 2018:190. 
+[^19]: See the illustrations in <i>ANEP</i>, no. 142, 143; Dothan 1963:106-09; Barber 1991:45, 48, 74, 76; Spinazzi-Lucchesi 2018:190. 
 
 In ancient Egypt, the spindle whorl was placed near the top of the spindle. 
 Before the high-whorl spindles were used, the long flax fibres were spliced into continuous threads by twisting the ends of the fibres together
@@ -589,13 +590,13 @@ e.g., Lam. I: 197, Lam. II: 99, 173 (Farber 2014:91, 110, 123, 158, 172, 178; cf
 Spindles consisted of a rod and a spindle whorl. 
 Spindle whorls are circular, often disk-shaped objects with a perforation in the centre that allows the rod to be inserted through it. 
 Remains of ancient spindles made of bone, ivory, or metal have been preserved across the Near East,
-but their number is quite small.[^17c] 
+but their number is quite small.[^20] 
 Much more numerous are the surviving ancient spindle whorls without a rod. 
 Most of them are made of durable materials, such as stone, bone, reworked pottery sherds, or baked clay.
 They have been excavated all over the Near East, including Ugarit, Ebla, Hazor, Megiddo, Masada, and other sites in Israel/Palestine
 (Spinazzi-Lucchesi 2018:34-48). 
 
-[^17c]: Barber 1991:57-65; Sauvage 2014:186-88, 210-11; Spinazzi-Lucchesi 2018:30-33.
+[^20]: Barber 1991:57-65; Sauvage 2014:186-88, 210-11; Spinazzi-Lucchesi 2018:30-33.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/achzib.jpg)
 
@@ -642,10 +643,10 @@ materials of which they were usually made were cheap. Furthermore, spinning with
 which implied the twisting of fibres by hand or by rolling them against the thigh. 
 Other advantages of spinning with a spindle were that 
 its weight helped to keep the fibres taut
-and prevented the spun yarn from tangling and untwisting, while the whorl increased the regularity of the spinning.[^17d] 
+and prevented the spun yarn from tangling and untwisting, while the whorl increased the regularity of the spinning.[^21] 
 For these reasons, it is no surprise that the use of spindles was so widespread in the world of the Bible.  
 
-[^17d]: Barber 1991:41-42; Sauvage 2014:184-85; Spinazzi-Lucchesi 2018:25-26. 
+[^21]: Barber 1991:41-42; Sauvage 2014:184-85; Spinazzi-Lucchesi 2018:25-26. 
 
 A vast majority of the excavated objects identified as spindle whorls weighs between 2 and 30 grams, but there are also examples of heavier whorls.
 Illustrative are the Late Bronze Age spindle whorls from Ugarit (Sauvage 2013:192-95, 200-01), those from Iron Age II unearthed in Tel Miqne-Ekron (Shamir 2007:45-46), and whorls from the Hellenistic and Early Roman Periods 
@@ -685,7 +686,7 @@ Spindles were not only used for producing individual strands of yarn, but also f
 two or more strands together in order to get a plied yarn. 
 While the fibres of the individual threads had been twisted in the same direction,
 either to the right or the left, these threads were usually plied together in the opposite direction to create a balanced yarn,
-without the tendency to twist upon itself.[^17e] 
+without the tendency to twist upon itself.[^22] 
 <a id="heavy"></a>Spindles with relatively large 
 and heavy whorls, such as the one from Ugarit inscribed with the word <i>plk</i>
 (cf. section <a href="#Ugaritic">1: A.3</a>; Sauvage 2013:193, 201: 114.2 grams),
@@ -696,25 +697,23 @@ In Tell el-Ḥammah, in the central Jordan valley, a spindle with linen threads 
 (Shamir 1996:142). 
 Unfortunately, figures and more details of this find are not available.
 
-[^17e]: <i>BRL</i><sup><small>2</small></sup>, 312-13; Andersson Strand 2015:47; Skals <i>et al</i>. 2015:62, 64, 67. See also → <a href="/sahd/words/to_spin%2C_twist"><span dir="rtl" lang="he">טוה</span></a>.
-<!-- <span dir="rtl" lang="he">שׁזר</span>, and-->
-
+[^22]: <i>BRL</i><sup><small>2</small></sup>, 312-13; Andersson Strand 2015:47; Skals <i>et al</i>. 2015:62, 64, 67. See also → <a href="/words/t-w-h"><span dir="rtl" lang="he">טוה</span></a>.
 
 
 Ancient spindles entirely or partially made of precious materials, such as
-copper, bronze, silver, gold, or ivory, have been discovered mainly in graves of women, but sometimes in domestic contexts.[^17f]
+copper, bronze, silver, gold, or ivory, have been discovered mainly in graves of women, but sometimes in domestic contexts.[^23]
  References to spindles made of such costly materials occur in several texts 
 (Hittite: <i>HW</i> III/2:632;
 El-Amarna: <a href="#EA25">EA 25</a>).
 Such precious spindles probably represent status symbols 
 rather than being tools of everyday use (Spinazzi-Lucchesi 2018:30). 
 
-[^17f]: Barber 1991:57-65, with figures; Sauvage 2014:186-88, 210-11, with figures; Spinazzi-Lucchesi 2018:30-33.
+[^23]: Barber 1991:57-65, with figures; Sauvage 2014:186-88, 210-11, with figures; Spinazzi-Lucchesi 2018:30-33.
 
 <b>A.2</b> <i>Spinning bowls</i>: 
 Ancient bowls with two (rarely one, three or four) interior handle-like loops have been discovered
 at several locations in Egypt and Israel/Palestine. 
-These bowls have been interpreted as spinning bowls.[^18]
+These bowls have been interpreted as spinning bowls.[^24]
 They were made to keep threads of spliced flax or threads of spun wool before they were twisted together with a spindle
 in order to get a plied yarn. The threads were passed through different loops to prevent them from entangling.
 The constant rubbing of the threads past the undersides of the loops left grooves, apparently due to the tension that was placed on them. 
@@ -725,7 +724,7 @@ These Egyptian spinning bowls were made of either clay or stone.
 The spinning bowls discovered in Israel/Palestine
 date from the Late Bronze Age until the middle of the first millennium and are made of clay.
 
-[^18]: Dothan 1963; <i>BRL</i><sup>2</small></sup>, 312-13, with fig. 81:11, 12; Barber 1991:70-76; Rahmstorf 2015:10-11; Spinazzi-Lucchesi 2018:48-50, 116-18. 
+[^24]: Dothan 1963; <i>BRL</i><sup>2</small></sup>, 312-13, with fig. 81:11, 12; Barber 1991:70-76; Rahmstorf 2015:10-11; Spinazzi-Lucchesi 2018:48-50, 116-18. 
 
 
 <a id="Nav"></a>A peculiar jar from Israel/Palestine, presumably dating from late Roman or Byzantine times, was published and discussed by Joseph Naveh 
@@ -1086,4 +1085,5 @@ K. Lawson Younger, Jr., ‘The Phoenician Inscription of Azatiwada: An Integrate
 
 ## Notes
 
+Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023; professor emeritus Protestant Theological University, Kampen) and Benjamin Bogerd (Veenendaal) for their valuable suggestions.
 

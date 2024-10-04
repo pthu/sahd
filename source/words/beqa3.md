@@ -16,7 +16,7 @@ contributors_footnote: Thanks are due to Mrs Alice Deken (Amsterdam), who was  s
 
 ## Introduction
 
-Grammatical type: n.m.   
+Grammatical type: noun masc.   
 Occurrences:  2x HB (2/0/0); 0x Sir.; 0x Qum.; 35x Inscr. (Total: 37).  
 
 * Torah: Gen 24:22; Exod 38:26. 
@@ -194,7 +194,7 @@ volume (De Vaux, <i>IAT</i>&nbsp;I, 309)
 
 ## 6. Exegesis
 
-### 6.1 Literal Use
+### 6.1 Textual Evidence
 
 
 
@@ -431,6 +431,7 @@ Ephraim Stern,
 
 ## Notes
 
+Thanks are due to Mrs Alice Deken (Amsterdam), who was  so kind as to correct the English of this paper.
 
 
 <!--

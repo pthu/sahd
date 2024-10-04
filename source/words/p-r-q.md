@@ -3,7 +3,7 @@ word_english: to_pull_off
 word_hebrew: פרק  
 transcription: <i>pāraq</i>       
 title: to pull off, tear away    
-semantic_fields:   
+semantic_fields: deliverance  
 contributors: graham_i._davies      
 first_published: 2010-07-31   
 last_update: 2024-08-13 (Paul Sanders)  
@@ -18,7 +18,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 ## Introduction
 
 Grammatical Type: vb. <i>qal</i>, <i>piel</i>, <i>hithp.</i>  
-Occurrences: 10x HB (<i>qal</i> 1/0/3; <i>piel</i> 1/2/0; <i>hithp.</i> 2/1/0); 1x Qum (<i>qal</i>); 0x Sir; 0x inscr. (Total: 11).
+Occurrences: 10x HB (<i>qal</i> 1/0/3; <i>piel</i> 1/2/0; <i>hithp.</i> 2/1/0); 0x Sir; 1x Qum (<i>qal</i>); 0x inscr. (Total: 11).
 
 * Torah – <i>qal</i>: Gen 27:40.
 * Ketubim – <i>qal</i>: Pss 7:3; 136:24; Lam 5:8.

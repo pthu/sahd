@@ -19,7 +19,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
 
-Grammatical type: n.f.  
+Grammatical type: noun fem.  
 Occurrences: 14x HB (9/3/2); 0x Sir; 2x Qum; 0x inscr. (Total: 16).
 
 * Torah: Lev 25:24, 26, 29 (2x), 31, 32, 48, 51, 52;
@@ -84,9 +84,9 @@ been reconstructed using a parallel text 4Q506 124:4
 
 ## 4. Ancient Versions:
 
-<b>a. Septuagint (LXX):</b>
+<b>a. Septuagint (LXX):</b>[^1]
 
-* ἀγχιστεία, ‘claim as nearest of kin’:[^1] Ruth 4:6, 7;
+* ἀγχιστεία, ‘claim as nearest of kin’: Ruth 4:6, 7;
 * [αἰχμαλωσία, ‘captivity’: Ezek 11:15];
 * λύτρον, ‘sum payable as ransom’: Lev 25:24, 26, 51, 52;
 * λύτρωσις, ‘redemption, ransom’:[^2] Lev 25:29 (2x), 48;
@@ -98,10 +98,10 @@ been reconstructed using a parallel text 4Q506 124:4
 [^2]: <i>GELS</i>, 437, ‘<i>act of procuring release from bondage,</i> “redemption” <i>… claim on that which is currently not in one’s possession</i>’. LEH<sup><small>3</small></sup>, 378, ‘<i>ransoming, redemption</i>’; NETS, ‘ransom’.
 
 
-<b>b. Peshitta (Pesh):</b>
+<b>b. Peshitta (Pesh):</b>[^3]
 
 * ܘܠܐ\ܘܠܝ
-(<i>wlʾ/ wly</i>), ‘(it is) fitting’:[^3] Jer 32:8;
+(<i>wlʾ/ wly</i>), ‘(it is) fitting’: Jer 32:8;
 * <span dir="rtl">ܝܪܬܘܬܐ</span>
 (<i>yārtūṯā</i>), ‘inheritance, heirship’: Jer 32:7; Ruth 4:6, 7;
 * <span dir="rtl">ܦܘܪܩܢܐ</span> (<i>purqānā</i>), ‘salvation, redemption’: 
@@ -112,10 +112,10 @@ Lev 25:24, 26, 29 (2x), 31, 32, 48, 51, 52; Isa 63:4;
 [^3]: The English renderings of the Syriac are based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
 
-<b>c. Targum (Tg: O/N/PsJ/J/K):</b>
+<b>c. Targum (Tg: O/N/PsJ/J/K):</b>[^4]
 
 * אחסנתא,
-‘property, inheritance’:[^4] Jer 32:7<sup><small>J</small></sup> ,8<sup><small>J</small></sup>; Ruth 4:6<sup><small>K</small></sup>;
+‘property, inheritance’: Jer 32:7<sup><small>J</small></sup> ,8<sup><small>J</small></sup>; Ruth 4:6<sup><small>K</small></sup>;
 * פורקן,
 ‘redemption (money)’: Lev 25:24<sup><small>O,PsJ</small></sup>, 26<sup><small>O,PsJ</small></sup>, 29 (2x)<sup><small>O,PsJ</small></sup>, 31<sup><small>O,PsJ</small></sup>, 32<sup><small>O,PsJ</small></sup>, 48<sup><small>O,PsJ</small></sup>, 51<sup><small>O,PsJ</small></sup>, 52<sup><small>O,PsJ</small></sup>;
 * פרקן,
@@ -128,9 +128,9 @@ Lev 25:24, 26, 29 (2x), 31, 32, 48, 51, 52; Isa 63:4;
 
 [^4]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
 
-<b>d. Vulgate (Vg):</b>
+<b>d. Vulgate (Vg):</b>[^5]
 
-* <i>licentia redimendi</i>, ‘freedom to redeem’:[^5] Lev 25:29;
+* <i>licentia redimendi</i>, ‘freedom to redeem’: Lev 25:29;
 * <i>possum redimi</i>, ‘to have right to redeem’: Lev 25:32, 48;
 * <i>pretium</i>, ‘value, price’: Lev 25:51;
 * <i>pretium ad redimendum</i>, ‘price to redeem’: Lev 25:26;

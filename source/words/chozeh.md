@@ -1,5 +1,5 @@
 ---
-word_english: (court)_diviner  
+word_english: seer  
 word_hebrew: חֹזֶה  
 transcription: <i>ḥozeh</i>     
 title: seer, (court) diviner 
@@ -14,7 +14,7 @@ additional_info:
 
 ## Introduction
 
-Grammatical Type: n. m.  
+Grammatical Type: noun masc.  
 Occurrences: 17x HB (0/6/11); 1x Sir; 7x Qum.; 0x inscr. (Total: 25).[^1]
 
 * Nebiim: 2 Sam 24:11; 2 Kgs 17:13; Isa 29:10; 30:10; Amos 7:12; Mic 3:7.
@@ -72,14 +72,14 @@ The restoration 4QpIsa<sup><small>c</small></sup> 15-16:2:  <span dir="rtl">ה�
 
 <b>Qere/Ketiv</b>: none
 
-## 1.  Root and Comparative Material<small><small>[^9]</small></small>
+## 1.  Root and Comparative Material<small><small>[^8]</small></small>
 
 <b>A.1</b>
-The root <i>ḥzy</i> is the standard root for ‘to see’ in Aramaic and is thus widely attested in Aramaic inscriptions.[^10] It refers to both normal seeing as well as seeing in a dream or having a vision. While the root itself (see under  <span dir="rtl">חָזָה</span>) is used frequently, there are only two texts which contain the nominalised participle in its meaning of the professional title: the Zakkur inscription (KAI 202A:12) has <i>ḥzyn</i>, while Deir Alla i:1 has <i>ḥzh ʾlhn</i>. The general consensus is that <span dir="rtl">חֹזֶה</span> is an Aramaic loanword in Hebrew.[^11]
+The root <i>ḥzy</i> is the standard root for ‘to see’ in Aramaic and is thus widely attested in Aramaic inscriptions.[^9] It refers to both normal seeing as well as seeing in a dream or having a vision. While the root itself (see under  <span dir="rtl">חָזָה</span>) is used frequently, there are only two texts which contain the nominalised participle in its meaning of the professional title: the Zakkur inscription (KAI 202A:12) has <i>ḥzyn</i>, while Deir Alla i:1 has <i>ḥzh ʾlhn</i>. The general consensus is that <span dir="rtl">חֹזֶה</span> is an Aramaic loanword in Hebrew.[^10]
 
 <b>A.2</b>
 It is unclear whether Punic <i>ḥzh</i> in KAI 69:11 should be linked
-    to <i>ḥzy</i>.[^11]
+    to <i>ḥzy</i><sub>1</sub>.
 
 <b>A.3</b>
 Hamilton has proposed to read seal UC 51354 from Deir Rifa in Egypt as written in proto-Canaanite. If that is the case and if his reading is correct, the seal bears the inscription <i>lqn hz</i>, which he interprets as ‘belonging to <i>Qn</i>, the seer’ (Hamilton 2009).
@@ -93,12 +93,12 @@ The root is also operational in later forms of Arabic as <i>ḥazā</i>, ‘to s
 The root is attested in Ugaritic. Initially, opinions differed
     considerably whether Ugaritic <i>ḥdy</i> could be linked to Hebrew <i>ḥzh</i>
     because, according to Ginsberg, Phoenician (here: Ugaritic) and
-    Hebrew share the sound-change of Proto-Semitic <i>d</i> to <i>z</i>.[^14]
+    Hebrew share the sound-change of Proto-Semitic <i>ḏ</i> to <i>z</i>.[^11]
     Conversely, Dahood insists on the etymological relation between
-    Hebrew <i>ḥzh</i> and Ugaritic <i>ḥdy</i>.[^15] Aistleitner’s and Ginsberg’s
+    Hebrew <i>ḥzh</i> and Ugaritic <i>ḥdy</i>.[^12] Aistleitner’s and Ginsberg’s
     view is in part a critical reaction to Dahood’s additional theory
     that Hebrew also knows a root II <span dir="rtl">חדה</span>, ‘to see’, which is linked to
-    Ugaritic <i>ḥdy</i>.[^16]
+    Ugaritic <i>ḥdy</i>.[^13]
 
 <b>A.6</b>
 On the basis of Ugaritic <i>ḥdy</i>, Wagner (1966:53-54) suggests that it is possible that the word is not an Aramaic loan but a genuinely Hebrew word. He goes on to state that it is impossible to verify this. Allowing for a Hebrew origin of the verb and its derivatives, he
@@ -108,7 +108,7 @@ On the basis of Ugaritic <i>ḥdy</i>, Wagner (1966:53-54) suggests that it is p
     verbs (<span dir="rtl">ראה</span> and  <span dir="rtl">חזה</span>).
 
 <b>A.7</b>
-A further problem for the etymology of the Hebrew root I <span dir="rtl">חזה</span>,‘to see’, is that there is at least a second root  <span dir="rtl">חזה</span> in Hebrew from which the word  <span dir="rtl">חָזֶה</span>, ‘chest’, is derived, and which in other Semitic languages has a meaning ‘to sit/be across’.[^18] The term <span dir="rtl">חֹזֶה</span> in Isa 28:15 should be connected to that root, which is attested in the form <i>ḥdyt</i> in Old South Arabic with the meaning ‘agreement’.[^19]
+A further problem for the etymology of the Hebrew root I <span dir="rtl">חזה</span>,‘to see’, is that there is at least a second root  <span dir="rtl">חזה</span> in Hebrew from which the word  <span dir="rtl">חָזֶה</span>, ‘chest’, is derived, and which in other Semitic languages has a meaning ‘to sit/be across’.[^14] The term <span dir="rtl">חֹזֶה</span> in Isa 28:15 should be connected to that root, which is attested in the form <i>ḥdyt</i> in Old South Arabic with the meaning ‘agreement’.[^15]
 
 <b>A.8</b>
 There is no etymological equivalent to  <span dir="rtl">חזה</span> in Akkadian. Functionally, <i>amāru</i>, <i>barû</i> and <i>naṭālu</i> are equivalents, expressing ‘seeing’ in the physical sense as well as in the divinatory sense (particularly in dreams and liver omens). The noun
@@ -157,7 +157,7 @@ Additionally, the following verbs are used with individuals who in the same peri
 1QH<sup><small>a</small></sup> 10:17;
 * <span dir="rtl">רמיה</span>, ‘deceit, negligence’: 1QH<sup><small>a</small></sup> 12:10;
 * <span dir="rtl">תעות</span>, ‘error’: 1QH<sup><small>a</small></sup> 12:20;
-* <span dir="rtl">תעודה</span>, ‘ordained time, assembly, testimony’: 1QM 11:8.[^20]
+* <span dir="rtl">תעודה</span>, ‘ordained time, assembly, testimony’: 1QM 11:8.[^16]
 
 <b>A.4</b>
 <span dir="rtl">חֹזֶה</span> is the <i>nomen rectum</i> of: 
@@ -171,10 +171,10 @@ Additionally, the following verbs are used with individuals who in the same peri
 
 <b>A.6</b>
 Only Gad is described as a <span dir="rtl">חֹזֵה דָּוִד</span> (2 Sam 24:11//<span dir="rtl">נָבִיא</span>,
-1 Chron  21:9), while Gad (2 Chron 29:25//<span dir="rtl">נָתָן הַנָּבִיא</span>), Heman (1 Chron 25:5) and Jeduthun (2 Chron 35:15)[^21] are described as <span dir="rtl">חֹזֵה הַמֶּלֶךְ</span>.
+1 Chron  21:9), while Gad (2 Chron 29:25//<span dir="rtl">נָתָן הַנָּבִיא</span>), Heman (1 Chron 25:5) and Jeduthun (2 Chron 35:15)[^17] are described as <span dir="rtl">חֹזֵה הַמֶּלֶךְ</span>.
 
 <b>A.7</b>
-The following individuals are described as <span dir="rtl">הַחֹזֶה</span>: Asaf (2 Chron 29:30), Gad (1 Chron  29:29), Iddo (2 Chron 9:29; 12:15),[^22] Jehu (2 Chron 19:2).[^23] Amos is once referred to as <span dir="rtl">חֹזֶה</span> by Amaziah (Amos 7:12).
+The following individuals are described as <span dir="rtl">הַחֹזֶה</span>: Asaf (2 Chron 29:30), Gad (1 Chron  29:29), Iddo (2 Chron 9:29; 12:15),[^18] Jehu (2 Chron 19:2).[^19] Amos is once referred to as <span dir="rtl">חֹזֶה</span> by Amaziah (Amos 7:12).
 
 ## 4.  Ancient Versions
 
@@ -250,7 +250,7 @@ There is a clear distinction between the versions: LXX and Vg render  <span dir=
 
 <b>A.8</b>  Pesh understands 2 Chron 12:15 completely differently and therefore does not translate the term  <span dir="rtl">חֹזֶה</span>.
 
-<b>A.9</b>  The following verses are not attested in the Peshitta 1 Chron 25:5; 2 Chron 9:29; Sir 46:15.[^24]
+<b>A.9</b>  The following verses are not attested in the Peshitta 1 Chron 25:5; 2 Chron 9:29; Sir 46:15.[^20]
 
 ## 5.  Lexical/Semantic Field(s)
 
@@ -278,12 +278,12 @@ There is a clear distinction between the versions: LXX and Vg render  <span dir=
 <b>A.1</b>  The dictionaries keep with the obvious (and correct) sense and translate  <span dir="rtl">חֹזֶה</span> as ‘seer’. Zorell, 230 translates ‘<i>videns</i> sc. Divina, a Deo sibi revelata, vates, propheta’. <i>HAL</i> and Ges<sup><small>18</small></sup> translate ‘Seher’. BDB and <i>DCH</i> have ‘seer’. The only confusion is with Isa 28:15 which is not always distinguished, and often translated as ‘vision’ (BDB), while <i>HAL</i> and <i>DCH</i> list this word as
 <span dir="rtl">חֹזֶה</span> II, ‘agreement’.
 
-<b>A.2</b>  Adducing Lee and Jastrow, Paul and Zevit suggest that  <span dir="rtl">חֹזֶה</span> should be understood as a technical term for a court diviner, while  <span dir="rtl">נָבִיא</span> refers to any kind of prophet.[^27] Jastrow does not merely identify the  <span dir="rtl">חֹזֶה</span> as a court diviner, but argues that because the term is also used to describe (Levitical) singers Heman, Asaf and Ethan, it follows that it ‘belongs to an early period in the religious history of the Hebrews, when divination formed a part of the priestly office and before the period of the differentiation of the diviner from the true prophet of Jahweh and the concomitant differentiation between ‘prophet’ and ‘priest’’ (Jastrow 1909:50-51). This connection to music means, according to Jastrow, that they were of a lower status similar to those of the ‘singing dervishes whom Saul encounters’, i.e. <span dir="rtl">נְבִיאִים</span> (Jastrow 1909:51). The difference between the  <span dir="rtl">רֹאֶה</span> and the  <span dir="rtl">חֹזֶה</span> lies in that the  <span dir="rtl">רֹאֶה</span> is available to everybody while the  <span dir="rtl">חֹזֶה</span> is the official diviner. Jastrow further distinguishes between the two titles and describes the  <span dir="rtl">רֹאֶה</span> as a technical diviner who works on materials which are to some extent controllable (i.e. hepatoscopy, where the diviner has access to the liver through slaughtering an animal), whereas the  <span dir="rtl">חֹזֶה</span> is a technical diviner who reads more haphazard signs such as bird-flight or clouds.
+<b>A.2</b>  Adducing Lee and Jastrow, Paul and Zevit suggest that  <span dir="rtl">חֹזֶה</span> should be understood as a technical term for a court diviner, while  <span dir="rtl">נָבִיא</span> refers to any kind of prophet.[^21] Jastrow does not merely identify the  <span dir="rtl">חֹזֶה</span> as a court diviner, but argues that because the term is also used to describe (Levitical) singers Heman, Asaf and Ethan, it follows that it ‘belongs to an early period in the religious history of the Hebrews, when divination formed a part of the priestly office and before the period of the differentiation of the diviner from the true prophet of Jahweh and the concomitant differentiation between ‘prophet’ and ‘priest’’ (Jastrow 1909:50-51). This connection to music means, according to Jastrow, that they were of a lower status similar to those of the ‘singing dervishes whom Saul encounters’, i.e. <span dir="rtl">נְבִיאִים</span> (Jastrow 1909:51). The difference between the  <span dir="rtl">רֹאֶה</span> and the  <span dir="rtl">חֹזֶה</span> lies in that the  <span dir="rtl">רֹאֶה</span> is available to everybody while the  <span dir="rtl">חֹזֶה</span> is the official diviner. Jastrow further distinguishes between the two titles and describes the  <span dir="rtl">רֹאֶה</span> as a technical diviner who works on materials which are to some extent controllable (i.e. hepatoscopy, where the diviner has access to the liver through slaughtering an animal), whereas the  <span dir="rtl">חֹזֶה</span> is a technical diviner who reads more haphazard signs such as bird-flight or clouds.
 
 <b>A.3</b>  Many scholars take the term 
-<span dir="rtl">חֹזֶה</span> to be the Judean term for ‘seer’ and thus as the Southern equivalent of the Northern  <span dir="rtl">נביא</span>.[^30]
+<span dir="rtl">חֹזֶה</span> to be the Judean term for ‘seer’ and thus as the Southern equivalent of the Northern  <span dir="rtl">נביא</span>.[^22]
 
-<b>A.4</b>  While Fuhs (1978:245-48) interprets  <span dir="rtl">חֹזֶה</span> as an old technical term he argues against Zevit’s thesis (1975) and that it is a loan from an Aramaic technical term on account of the few  attestations in Aramaic inscriptions and because most of the biblical attestations for a court diviner are in the Chrononistic History and therefore late. Further, according to Fuhs, Amos 7:12 also militates against such a reading as in that verse Amaziah acknowledges Amos’ office as ‘seer’.[^32] Fuhs’ argument here relies both on the antiquity of Amos 7:12, that it relays the wording correctly, and that Amaziah uses the term correctly.
+<b>A.4</b>  While Fuhs (1978:245-48) interprets  <span dir="rtl">חֹזֶה</span> as an old technical term he argues against Zevit’s thesis (1975) and that it is a loan from an Aramaic technical term on account of the few  attestations in Aramaic inscriptions and because most of the biblical attestations for a court diviner are in the Chrononistic History and therefore late. Further, according to Fuhs, Amos 7:12 also militates against such a reading as in that verse Amaziah acknowledges Amos’ office as ‘seer’.[^23] Fuhs’ argument here relies both on the antiquity of Amos 7:12, that it relays the wording correctly, and that Amaziah uses the term correctly.
 
 <b>A.5</b>  In 1 Chron  25:5; 2 Chron 29:30; 35:15,  <span dir="rtl">חֹזֶה</span> is applied to various individuals who are (according to 2 Chron 29:30, levitical) singers whose actions are described with  <span dir="rtl">נבא</span>, <i>niph.</i> While it is true that  this seems to suggest that these singers are acting prophetically, it is equally likely that  <span dir="rtl">חֹזֶה</span> and  <span dir="rtl">נבא</span> <i>niph.</i>, have changed their meaning sufficiently so that they can be used for the performance of cultic music and possibly dance (Fuhs 1978:248-49). If, following Mowinckel, there was an institution of cultic prophecy in pre-exilic (Israel and) Judah, the transfer of the two verbs to the musical cult performers appears plausible.
 
@@ -294,12 +294,12 @@ There is a clear distinction between the versions: LXX and Vg render  <span dir=
 
 The classical theory, as expressed by Lindblom, is that no distinction can be made in meaning between 
 <span dir="rtl">חֹזֶה</span> and <span dir="rtl">רֹאֶה</span>, and that people
-described by either term are indistinguishable from the  <span dir="rtl">נָבִיא</span>.[^34]
+described by either term are indistinguishable from the  <span dir="rtl">נָבִיא</span>.[^24]
 Contrary to this, Hölscher (1914:125-26) distinguishes between the ecstatic  <span dir="rtl">נָבִיא</span> and
-the non-ecstatic  <span dir="rtl">חֹזֶה</span> and  <span dir="rtl">רֹאֶה</span>. Chronicles appears to use  <span dir="rtl">חֹזֶה</span>, <span dir="rtl">רֹאֶה</span> and  <span dir="rtl">נָבִיא</span> almost interchangeably. Focussing on <span dir="rtl">חֹזֶה</span> and <span dir="rtl">רֹאֶה</span>, the distribution of the two titles within Chronicles indicates that the <span dir="rtl">רֹאֶה</span> seems to have been a diviner available to the general public while the <span dir="rtl">חֹזֶה</span> was employed at the court and, in the case of the Levitical singers, at the temple.[^36] The connection with the verb 
+the non-ecstatic  <span dir="rtl">חֹזֶה</span> and  <span dir="rtl">רֹאֶה</span>. Chronicles appears to use  <span dir="rtl">חֹזֶה</span>, <span dir="rtl">רֹאֶה</span> and  <span dir="rtl">נָבִיא</span> almost interchangeably. Focussing on <span dir="rtl">חֹזֶה</span> and <span dir="rtl">רֹאֶה</span>, the distribution of the two titles within Chronicles indicates that the <span dir="rtl">רֹאֶה</span> seems to have been a diviner available to the general public while the <span dir="rtl">חֹזֶה</span> was employed at the court and, in the case of the Levitical singers, at the temple.[^25] The connection with the verb 
 <span dir="rtl">חָזָה</span> plausibly suggests that at least initially the translation ‘seer’ for
 <span dir="rtl">חֹזֶה</span> is correct, but it must remain unclear which form this ‘seeing’
-took.[^37] It is likely that visionary experiences are implied, as they
+took.[^26] It is likely that visionary experiences are implied, as they
 are with many of the other derivatives of the root  <span dir="rtl">חזה</span> such as 
 <span dir="rtl">חִזָּיוֹן</span> and 
 <span dir="rtl">חָזוּת</span>. This holds true particularly in later texts, as by the time
@@ -605,40 +605,40 @@ Hans-Jürgen Zobel, ‘Prophet in Israel und Juda’, <i>ZTK</i> 82:281-99.
 
 [^7]:  Nitzan in Eshel et al. (1998:27-31, 57-58).
 
-[^9]:  A fuller version of the etymological discussion will be presented in the entry on  <span dir="rtl">חָזָה</span>. Contrary, to Jeffers (1996:36) the etymology of  <span dir="rtl">חזה</span> is not quite as straight forward as it appears.
+[^8]:  A fuller version of the etymological discussion will be presented in the entry on  <span dir="rtl">חָזָה</span>. Contrary, to Jeffers (1996:36) the etymology of  <span dir="rtl">חזה</span> is not quite as straight forward as it appears.
 
-[^10]:  For details see <i>DNWSI</i>, 357-61.
+[^9]:  For details see <i>DNWSI</i>, 357-61.
 
-[^11]:  See Vetter (1971) and Jepsen (1976; 1980).
+[^10]:  See Vetter (1971) and Jepsen (1976; 1980).
 
-[^14]:  E.g., Ginsberg (1938; 1967) and <i>WUS</i>, 905.
+[^11]:  E.g., Ginsberg (1938; 1967) and <i>WUS</i>, 905.
 
-[^15]:  Dahood (1964:407-08). <i>UT</i>, 839, is more cautiously.
+[^12]:  Dahood (1964:407-08). <i>UT</i>, 839, is more cautious.
 
-[^16]:  Dahood (1964:407); <i>HAL</i>, 280; <i>HALOT</i>,  292, followed this decision. See also Blau (1970). Against such a view see e.g. Bonnard (1960:226).
+[^13]:  Dahood (1964:407); <i>HAL</i>, 280; <i>HALOT</i>,  292, followed this decision. See also Blau (1970). Against such a view see e.g. Bonnard (1960:226).
 
-[^18]:  For literature see Fuhs (1978:58-66).
+[^14]:  For literature see Fuhs (1978:58-66).
 
-[^19]:  See also Driver (1937:44).
+[^15]:  See also Driver (1937:44).
 
-[^20]:  See Yadin (1955:322-24; 1962:310-11).
+[^16]:  See Yadin (1955:322-24; 1962:310-11).
 
-[^21]:  The LXX and Vulgate use a plural here and therefore understand Asaph, Aeman (Heman) and Idothom (Jeduthun) as prophets (προφήται/<i>prophetae</i>) collectively.
+[^17]:  The LXX and Vulgate use a plural here and therefore understand Asaph, Aeman (Heman) and Idothom (Jeduthun) as prophets (προφήται/<i>prophetae</i>) collectively.
 
-[^22]:  In the LXX the name of this seer is Joel, not Iddo.
+[^18]:  In the LXX the name of this seer is Joel, not Iddo.
 
-[^23]:  Syntactically, Hanani could be the seer here:  <span dir="rtl">יֵהוּא בֶן־חֲנָנִי הַחֹזֶה</span> <span dir="rtl"></span>.
+[^19]:  Syntactically, Hanani could be the seer here:  <span dir="rtl">יֵהוּא בֶן־חֲנָנִי הַחֹזֶה</span> <span dir="rtl"></span>.
 
-[^24]:  1-2 Chronicles according to Gordon (1998). For Ben Sira De Lagarde (1861) is correct, as has been affirmed by Willem van Peursen in a personal communication (May 7<sup><small>th</small></sup> 2010) for which I would like to thank him. The Peshiṭta of Ben Sira represents a modified form of the book, see, e.g., Van Peursen (2007).
+[^20]:  1-2 Chronicles according to Gordon (1998). For Ben Sira De Lagarde (1861) is correct, as has been affirmed by Willem van Peursen in a personal communication (May 7<sup><small>th</small></sup> 2010) for which I would like to thank him. The Peshiṭta of Ben Sira represents a modified form of the book, see, e.g., Van Peursen (2007).
 
-[^27]:  Jastrow (1909:50); Paul (1971); Zevit (1975); Wilson (1980:254-56). This thesis is sometimes attributed to Lee (1860:458-59). Lee, however, says something slightly different. He distinguishes between the royal office of ‘seer of the king’ (who may or may not have a prophetic gift) and the prophetic ‘office’ which does not need to be connected to the court.
+[^21]:  Jastrow (1909:50); Paul (1971); Zevit (1975); Wilson (1980:254-56). This thesis is sometimes attributed to Lee (1860:458-59). Lee, however, says something slightly different. He distinguishes between the royal office of ‘seer of the king’ (who may or may not have a prophetic gift) and the prophetic ‘office’ which does not need to be connected to the court.
 
-[^30]:  Jastrow (1909); Van den Oudenrijn (1925); Haeussermann (1932:7-8); Orlinsky (1965); Zevit (1975); Wilson (1980:254-256); Petersen (1981:56-58) and Zobel (1985). Blenkinsopp (1995:125) acknowledges the predominance of the title in Jerusalemite circles but attributes it to the disrepute into which the title  <span dir="rtl">נביא</span> had fallen and surmises that it had been replaced by  <span dir="rtl">חֹזֶה</span>.
+[^22]:  Jastrow (1909); Van den Oudenrijn (1925); Haeussermann (1932:7-8); Orlinsky (1965); Zevit (1975); Wilson (1980:254-256); Petersen (1981:56-58) and Zobel (1985). Blenkinsopp (1995:125) acknowledges the predominance of the title in Jerusalemite circles but attributes it to the disrepute into which the title  <span dir="rtl">נביא</span> had fallen and surmises that it had been replaced by  <span dir="rtl">חֹזֶה</span>.
 
-[^32]:  Fuhs (1978:187-92). Smend (1963:416-18) also argues that Amos identifies with the title  <span dir="rtl">חֹזֶה</span> and denies being a  <span dir="rtl">נָבִיא</span>, but he does not elaborate on what a  <span dir="rtl">חֹזֶה</span>-seer is.
+[^23]:  Fuhs (1978:187-92). Smend (1963:416-18) also argues that Amos identifies with the title  <span dir="rtl">חֹזֶה</span> and denies being a  <span dir="rtl">נָבִיא</span>, but he does not elaborate on what a  <span dir="rtl">חֹזֶה</span>-seer is.
 
-[^34]:  Lindblom (1962:90). See also Davidson (1903:81); Van den Oudenrijn (1925); Jepsen (1934:43-44); Hentschke (1957:150). See, e.g., also Blau (1970:439-440) and Johnson (1962:12), who understands the two verbs  <span dir="rtl">חָזָה</span> and <span dir="rtl">רָאָה</span> as being slightly distinct in that  <span dir="rtl">רָאָה</span> is used more for normal seeing while <span dir="rtl">חָזָה</span> refers more to the seeing of visions.
+[^24]:  Lindblom (1962:90). See also Davidson (1903:81); Van den Oudenrijn (1925); Jepsen (1934:43-44); Hentschke (1957:150). See, e.g., also Blau (1970:439-440) and Johnson (1962:12), who understands the two verbs  <span dir="rtl">חָזָה</span> and <span dir="rtl">רָאָה</span> as being slightly distinct in that  <span dir="rtl">רָאָה</span> is used more for normal seeing while <span dir="rtl">חָזָה</span> refers more to the seeing of visions.
 
-[^36]:  See the table in Fuhs (1978:245-49).
+[^25]:  See the table in Fuhs (1978:245-49).
 
-[^37]:  Both verbs included synaesthetic perception, that is, they are used in contexts in which we may expect to find a verb ‘to hear’, see Kedar-Kopfstein (1988).
+[^26]:  Both verbs included synaesthetic perception, that is, they are used in contexts in which we may expect to find a verb ‘to hear’, see Kedar-Kopfstein (1988).

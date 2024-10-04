@@ -28,7 +28,7 @@ Occurrences: 103x[^1] HB (qal: 28/31/36; <i>niph.</i>: 7/1/0); 1(2?)x Sir; 16x Q
 * Nebiim – <i>qal</i>: Josh 20:3, 5, 9; 2 Sam 14:11; 1 Kgs 16:11; Isa 35:9; 41:14; 43:1, 14; 44:6, 22, 23, 24; 47:4; 48:17, 20; 49:7, 26; 51:10; 52:9; 54:5, 8; 59:20; 60:16; 62:12; 63:9, 16; Jer 31:11; 50:34; Hos 13:14; Mic 4:10.
 * Nebiim – <i>niph.</i>: Isa 52:3.
 * Ketubim – <i>qal</i>: Pss 19:15; 69:19; 72:14; 74:2; 77:16; 78:35; 103:4; 106:10; 107:2 (2x); 119:154; Job 3:5; 19:25; Prov 23:11; Ruth 2:20; 3:9, 12 (2x), 13 (4x); 4:1, 3, 4 (5x), 6 (4x), 8, 14; Lam 3:58.
-* Sir – <i>qal</i>: 51:8 (and 12?).
+* Sir – <i>qal</i>: 51:8<sup><small>B</small></sup> (and 51:12<sup><small>B</small></sup>?).
 * Qum: 4Q158 14 i 5; 4Q176 3:2, 8-11:4, 7, 10; 4Q185 1-2 ii 10; 4Q251 14:2, 16:5; 4Q266 10 i 9; 4Q367 3:7 (2x]; 4Q381 24a+b.5, 4Q385 2:1; 4Q411 1 ii 8; 4Q471a 3; 11Q5 18:15.
 * Inscr: 15.006:2 Khirbet Beit Lei Burial Cave Inscription A (uncertain).
 * Text doubtful: Sir 37:19; 51:12(e); CD 14:16; 4Q168 1:4; 
@@ -40,7 +40,7 @@ Occurrences: 103x[^1] HB (qal: 28/31/36; <i>niph.</i>: 7/1/0); 1(2?)x Sir; 16x Q
 
 <b>A.1</b>  Sir 37:19 mss B and C have the <i>qal</i> part. גואל but Bmg and D have יאל
 <i>niph.</i>, as follows: 
-<span dir="rtl" lang="he">יש חכם לרבים נחכם ולנפשו הוא נואל</span>
+<span dir="rtl" lang="he">יש חכם לרבים נחכם ולנפשו הוא נואל</span>,
  ‘a person may be
 wise and be a source of wisdom to many, yet for himself be foolish’,
 which may make better sense. This can be explained simply by mss B and C
@@ -288,12 +288,11 @@ walled city’ (Lev 25:30); אָח (from v. 47), ‘brother’ (Lev 25:49 [+ <sp
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ):</b>[^3]
 
-[^3]: The three versions Aquila (αʹ), Symmachus (σʹ), and Theodotion (θʹ) are given according to Field<sup>I</sup> and Field<sup>II</sup>. Their testimony is indicated by their sigla (if applicable including a reference to LXX). In all the other cases the textual references are to the LXX.
-
+[^3]: The three versions Aquila (αʹ), Symmachus (σʹ), and Theodotion (θʹ) are given according to Field<sup>I</sup> and Field<sup>II</sup>. Their testimony is indicated by their sigla (if applicable including a reference to LXX). In all the other cases the textual references are to the LXX. The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>, <i>s.v.</i>
 
 Qal:  
 
-*  ἀγχιστεύς, ‘nearest of kin’:[^4] 1 Kgs 16:11; Isa 59:20<sup><small>σʹθʹ</small></sup>; 60:16<sup><small>αʹ</small></sup>; Ps 78:35<sup><small>αʹ</small></sup>; Job 19:25<sup><small>θʹ</small></sup>; Prov 23:11<sup><small>αʹσʹθʹ</small></sup>; Ruth 3:9, 12 (2x), 4:3, 6, 8, 14;
+*  ἀγχιστεύς, ‘nearest of kin’: 1 Kgs 16:11; Isa 59:20<sup><small>σʹθʹ</small></sup>; 60:16<sup><small>αʹ</small></sup>; Ps 78:35<sup><small>αʹ</small></sup>; Job 19:25<sup><small>θʹ</small></sup>; Prov 23:11<sup><small>αʹσʹθʹ</small></sup>; Ruth 3:9, 12 (2x), 4:3, 6, 8, 14;
 *  ἀγχιστεύς + τοῦ αἷματος, ‘entitled to avenge a kinsman’s death’: 2 Sam 14:11;
 *  ἀγχιστευτής, ‘nearest of kin’:  Ruth 4:1; 
 *  ἀγχιστεύω(ν), ‘to be near in blood-relationship, to act as nearest of kin’: Gen 48:16<sup><small>αʹ</small></sup>; Lev 25:25<sup><small>1st</small></sup>, 26; 27:15<sup><small>αʹ?</small></sup>; Num 5:8; 35:12, 19, 21, 24, 25, 27 (2x); Deut 19:6, 12; Josh 20:3, 5, 9; Isa 35:9<sup><small>αʹσʹ</small></sup>; 47:4<sup><small>αʹ</small></sup>; 52:3<sup><small>αʹ</small></sup>; 
@@ -311,10 +310,9 @@ Lam 3:58<sup><small>αʹ</small></sup>;
 *  λυτρωτής, ‘redeemer’: Pss 19:15; 78:35;
 *  μολύνω, ‘to stain, soil’: Job 3:5<sup><small>αʹ</small></sup>;
 *  ῥύομαι, ‘to rescue’: Gen 48:16; Isa 35:9<sup><small>θʹ</small></sup>; 44:6; 47:4; 48:17, 20; 49:7; 51:10; 52:9; 54:5, 8; 59:20; 63:16;
-*  σώζω, ‘to save, keep alive’: Sir 51:8;
+*  σῴζω, ‘to save, keep alive’: Sir 51:8;
 *  ὑπερμαχέω, ‘to defend, fight on behalf of’: Ps 78:35<sup><small>σʹ</small></sup>.
 
-[^4]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>, <i>s.v.</i>
 
 Niphal:
 
@@ -370,14 +368,14 @@ the λύτρον-group.
 from danger, e.g. ἐξαιρέω, whereas פדה seems to have a broader range of
 meaning. It is translated by verbs which emphasise an exchange in the
 ransom, e.g. ἀλλάσσω, ἀπολυτρόω, but it also shares the general sense of
-liberation and rescue from danger, e.g. σώζω.
+liberation and rescue from danger, e.g. σῴζω.
 
-<b>b. Peshitta (Pesh):</b>
+<b>b. Peshitta (Pesh):</b>[^4]
 
 Qal:
 
 * ܚܘܕܬܐ
-(<i>ḥawdāṯā</i>), ‘renewal, restoration’[^5] +
+(<i>ḥawdāṯā</i>), ‘renewal, restoration’ +
  ܕܡܐ 
 (<i>dmā</i>), ‘blood’: 2 Sam 14:11;
 * ܟܣܝ/ܟܣܐ
@@ -396,7 +394,7 @@ Qal:
 (<i>tbʿ</i>) <i>peal</i>, ‘to avenge’ + ܥܝܪܬܐ ܕܕܡܐ 
 (<i>ʿyārṯā daḏmā</i>), ‘vengeance of blood’: Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12; Josh 20:3, 5, 9.
 
-[^5]: The English renderings of the Syriac are based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
+[^4]: The English renderings of the Syriac are based on Sokoloff, <i>SLB</i>, <i>s.v.</i>
 
 Niphal:
 
@@ -439,18 +437,18 @@ to translate
 in 2 Sam 14:11 emphasises the restoration of blood required by the family, which is the right of the kinsman to claim.
 
 
-<b>c. Targum (Tg: O/N/PsJ/Frg/J/K):</b> 
+<b>c. Targum (Tg: O/N/PsJ/Frg/J/K):</b>[^5]
 
 Qal:
 
 * גא(י)ל,
-‘avenger’:[^6] Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12; Josh 20:3,5,9; 2 Sam 14:11;
+‘avenger’: Num 35:12, 19, 21, 24, 25, 27; Deut 19:6, 12; Josh 20:3,5,9; 2 Sam 14:11;
 * פרוק
 (subst.), ‘redeemer’: Lev 25:26<sup><small>N</small></sup>; Num 5:8<sup><small>N</small></sup>;
 * פר(י)ק
 (subst.), ‘redeemer’: Lev 25:25<sup><small>1st: O,PsJ</small></sup>, 26; Num 5:8<sup><small>O,PsJ</small></sup>; Isa 41:14; 43:14; 44:6,24; 47:4; 48:17; 49:8; 54:5,8; 59:20; 63:16; Jer 50:34;
 * פרק,
-‘to redeem’: Gen 48:16<sup><small>O,N,PsJ</small></sup>; Exod 6:6<sup><small>O,N,PsJ</small></sup>; 15:13<sup><small>O,N,PsJ,Frg</small></sup>;[^7] Lev 25:25<sup><small>2nd: O,N,PsJ</small></sup>,
+‘to redeem’: Gen 48:16<sup><small>O,N,PsJ</small></sup>; Exod 6:6<sup><small>O,N,PsJ</small></sup>; 15:13<sup><small>O,N,PsJ,Frg</small></sup>;[^6] Lev 25:25<sup><small>2nd: O,N,PsJ</small></sup>,
 26<sup><small>N,PsJ</small></sup>, 30, 33<sup><small>O,N,PsJ</small></sup>, 48<sup><small>O,N,PsJ</small></sup>; 27:13<sup><small>O,N,PsJ</small></sup>,
 15<sup><small>O,N,PsJ</small></sup>, 19<sup><small>O,N,PsJ,Frg</small></sup>, 31<sup><small>O,N,PsJ,Frg</small></sup>; Isa 35:9; 43:1;
 44:22,23; 48:20; 52:9; 62:12; Mic 4:10; Pss 19:15; 69:19; 72:14; 74:2; 77:16; 78:35; 103:4; 106:10; 107:2 (2x); 119:154 ; Ruth 2:20; 3:9, 12 (2x), 13 (4x); 4:1 (2x), 3, 4 (5x), 6 (4x), 8 (2x), 14; Lam 3:58;
@@ -461,8 +459,8 @@ Qal:
 * תב(ו)ע,
 ‘claimant, avenger’: Num 35:12<sup><small>N,PsJ</small></sup>, 19<sup><small>N,PsJ</small></sup>, 21<sup><small>N,PsJ</small></sup>, 24<sup><small>N,PsJ</small></sup>, 25<sup><small>N,PsJ</small></sup>, 27<sup><small>N,PsJ</small></sup>; Deut 19:6<sup><small>N,PsJ</small></sup>, 12<sup><small>N,PsJ</small></sup>.
 
-[^6]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
-[^7]: Tg<sup><small>Frg</small></sup> is in Exod 15:13 acc. to mss Paris Bibliotheque nationale Hebr. 110, and Vatican Ebr. 440, Folios 198-227; in the other texts only acc. to the latter ms.
+[^5]: The English renderings of the Aramaic are based on Jastrow, <i>DTT</i>, <i>s.v.</i>; and checked against Sokoloff, <i>DJBA</i>, <i>s.v.</i> and Sokoloff, <i>DJPA</i>, <i>s.v.</i>
+[^6]: Tg<sup><small>Frg</small></sup> is in Exod 15:13 acc. to mss Paris Bibliotheque nationale Hebr. 110, and Vatican Ebr. 440, Folios 198-227; in the other texts only acc. to the latter ms.
 
 Niphal:
 
@@ -481,11 +479,11 @@ translated by פרק.
 <b>A.2</b> It is interesting that in Tg<sup><small>O</small></sup> and Tg<sup><small>J</small></sup> the root גאל is only retained (presumably as a loan-word) in the context of blood vengeance.
 
 
-<b>d. Vulgate (Vg):</b> 
+<b>d. Vulgate (Vg):</b>[^7] 
 
 Qal:
 
-* <i>do</i>, ‘to give’:[^8] Lev 27:13;
+* <i>do</i>, ‘to give’: Lev 27:13;
 *  <i>eruo</i>, ‘to rescue, release’: Gen 48:16;
 *  <i>iure propinquitatis emo</i>, ‘right of kindred, buy it’: Ruth 4:4;
 * <i>libero</i>, ‘to make or set free’: Isa 35:9; 51:10; Jer 31:11; Sir 51:8, Ps 69:19 (Vg<sup><small>PsG</small></sup>);
@@ -498,7 +496,7 @@ Qal:
 * <i>successor familiae</i>, ‘successor in the family’: Ruth 4:14;
 * <i>suscipio</i>, ‘to take up, undertake’: Ruth 3:13.
 
-[^8]: The English renderings of the Latin are based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
+[^7]: The English renderings of the Latin are based on Lewis & Short, <i>LD</i>, <i>s.v.</i>
 
 גֹּאֵל הַדָּם
 
@@ -646,9 +644,9 @@ enemies (in all but two instances above) seems to suggest a transference of owne
 <span dir="rtl" lang="he">לְ</span>, it would be a rather surprising development that re-establishing covenant had become a vehicle of redemption.
 
 
-<b>B.1</b> The role of a man’s גֹּאֵל has been understood by some scholars to be to restore balance and wholeness to his family.[^9] However, although this description fits with a number of examples (e.g. where something is ‘bought back’ for a family member) it seems to ignore the cases where גאל could mean pre-purchase rather than re-purchase (Ruth 4:3 and Jer 32:7), and also see below on <span dir="rtl" lang="he">גֹּאֵל הַדָּם</span>, where the underlying idea does not seem to be one of ‘Wiederherstellung’.
+<b>B.1</b> The role of a man’s גֹּאֵל has been understood by some scholars to be to restore balance and wholeness to his family.[^8] However, although this description fits with a number of examples (e.g. where something is ‘bought back’ for a family member) it seems to ignore the cases where גאל could mean pre-purchase rather than re-purchase (Ruth 4:3 and Jer 32:7), and also see below on <span dir="rtl" lang="he">גֹּאֵל הַדָּם</span>, where the underlying idea does not seem to be one of ‘Wiederherstellung’.
 
-[^9]: Stamm 1971:386; Johnson 1953:70; Jepsen 1957:158.
+[^8]: Stamm 1971:386; Johnson 1953:70; Jepsen 1957:158.
 
 
 <b>B.2</b> Job 3:5 seems to express the idea of גאל as ‘claiming back’. It is the only example of גאל being used with an abstract subject (‘gloom/darkness’) and some argue either that it is a unique usage of 

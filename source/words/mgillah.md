@@ -17,7 +17,7 @@ shebanq_id:
 
 ##<span id="I">Introduction</span>
 
-Grammatical type: n.f.   
+Grammatical type: noun fem.   
 Occurrences: 22x HB (0/20/2); 0x Sir; 1x Qum  (Total: 23)
 
 * Nebiim: Jer 36:2, 4, 6, 14(2x), 20, 21, 23, 25, 27, 28(2x), 29, 32; Ezek 2:9; 3:1, 2, 3; Zech 5:1, 2; 
@@ -96,9 +96,9 @@ see <a href="#AVPesh">Ancient Versions: Peshitta</a>.
 <b>a. Septuagint (LXX)</b>: 
 
 * δρέπανον,  ‘sickle’:[^4] Zech 5:1, 2;
-* κεφαλὶς, ‘little head’ (dim. of κεφαλή),[^7] ‘rounded top end, scroll’:[^8] Ezek 2:9; 3:1, 2, 3; Ps 40:8 (LXX 39:8); Ezra 6:2;
-* χάρτης, ‘papyrus roll’:[^5] Jer 36:23 (LXX 43:23);
-* χαρτίον, ‘papyrus roll’ (dim. of χάρτης):[^6] Jer 36:2, 4, 6, 14<small><sup>1,2</sup></small>, 20, 21, 25, 27, 28<small><sup>1,2</sup></small>, 29, 32 (LXX 43:2, 4, etc.).
+* κεφαλὶς, ‘little head’ (dim. of κεφαλή),[^5] ‘rounded top end, scroll’:[^6] Ezek 2:9; 3:1, 2, 3; Ps 40:8 (LXX 39:8); Ezra 6:2;
+* χάρτης, ‘papyrus roll’:[^7] Jer 36:23 (LXX 43:23);
+* χαρτίον, ‘papyrus roll’ (dim. of χάρτης):[^8] Jer 36:2, 4, 6, 14<small><sup>1,2</sup></small>, 20, 21, 25, 27, 28<small><sup>1,2</sup></small>, 29, 32 (LXX 43:2, 4, etc.).
 
 
 <b><span id="AVPesh">b. Peshitta (Pesh)</span></b>: 
@@ -290,10 +290,10 @@ Philip Zhakevich, <i>Scribal Tools in Ancient Israel. A Study of Biblical Hebrew
 [^2]: Jastrow, <i>DTT</i>, 729; Sokoloff, <i>DJBA</i>, 641.
 [^3]: Payne Smith, <i>CSD</i>, 250; Sokoloff, <i>SLB</i>, 709.
 [^4]: Adrados, <i>DGE</i>, 1167; LEH<small><sup>1</sup></small>, 121;  <i>GELS</i>, 178.
-[^5]: <i>GELS</i>, 729.
-[^6]: <i>GELS</i>, 729.
-[^7]: LSJ, 945.
-[^8]: <i>GELS</i>, 396.
+[^5]: LSJ, 945.
+[^6]: <i>GELS</i>, 396.
+[^7]: <i>GELS</i>, 729.
+[^8]: <i>GELS</i>, 729.
 [^9]: Sokoloff, <i>SLB</i>, 645; similarly Payne Smith, <i>CSD</i>, 227.
 [^10]: Payne Smith, <i>CSD</i>, 539; Sokoloff, <i>SLB</i>, 1462.
 [^11]: Lewis & Short, <i>LD</i>, 997; <i>OLD</i>, 962-63.

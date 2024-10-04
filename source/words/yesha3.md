@@ -17,12 +17,12 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
 
-Grammatical Type: n m.   
+Grammatical Type: noun masc.   
 Occurrences: 36x HB (0/13/23); 2x Sir; 12x Qum; 1x inscr. (Total: 51).
 
 * Nebiim: 2 Sam 22:3, 36, 47; 23:5; Isa 17:10; 45:8; 51:5; 61:10, 11; Mic 7:7; Hab 3:13 (2x), 18;
 * Ketubim: Ps 12:6; 18:3, 36, 47; 20:7; 24:5; 25:5; 27:1, 9; 50:23; 51:14; 62:8; 65:6; 69:14; 79:9; 85:5, 8, 10; 95:1; 132:16; Job 5:4, 11; 1 Chron 16:35;
-* Sir: ms B, 51:1, 10;[^1] 
+* Sir: 51:1<sup><small>B</small></sup>, 10<sup><small>B</small></sup>;[^1] 
 * Qum: CD–B 20:20; 1QH<sup><small>a</small></sup> 13:14; 4Q381 24a+b:7; 31:6; 33ab+35:8, 9; 4Q417 2.i:11; 
 4Q510 2:2; 11Q5 18:2; 22:4; partially reconstructed: 4Q379 19:1; 4Q443 1:12;
 * Inscr: Naveh & Magen 1997:43, text D (=D-50:004); see B.4
