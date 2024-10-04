@@ -13,7 +13,7 @@
 ב
 בֶּקַע : beka : beqa3
 ברך : to bless : b-r-k_2
-blessing: brakah : בְּרָכָה
+בְּרָכָה : blessing: brakah 
 
 ג
 גְּאוּלִים : redemption : g2ulim
