@@ -1,6 +1,11 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-# **John E. Hartley**
+# John E. Hartley
+
+![john e. hartley](../images/photos/john_hartley.jpg "John E. Hartley")
+
+\*1940 — †2019   
+Formerly Azusa Pacific University
 
 
 ### Contributions
