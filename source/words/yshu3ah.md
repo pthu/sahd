@@ -30,8 +30,8 @@ Occurrences: 79x HB (4/25/50); 1x Sir; 23x (+ 6 pars.) Qum; 0x inscr. (Total: 10
 69:30; 70:5; 74:12; 78:22; 80:3; 88:2; 89:27; 91:16; 96:2; 98:2, 3;
 106:4; 116:13; 118:14, 15, 21; 119:123, 155, 166, 174; 140:8; 149:4; Job
 13:16; 30:15; 1 Chron 16:23; 2 Chron 20:17, 78.
-* Sir: 35:25<sup><small>B</small></sup>.
-* Qum: CD 20:34; 1QH<sup><small>a</small></sup> 6:5; 7:19; 19:23 (= 4QH<sup><small>a</small></sup> 1:5); 20:3 (=
+* Sira: 35:25<sup><small>B</small></sup>.
+* Qumran: CD 20:34; 1QH<sup><small>a</small></sup> 6:5; 7:19; 19:23 (= 4QH<sup><small>a</small></sup> 1:5); 20:3 (=
 4QH<sup><small>a</small></sup>3:2-3); 26:10 (= 4QH<sup><small>a</small></sup> 7 i 14); 1QS 1:19; 10:17 (= 4QS<sup><small>b</small></sup> 20:6;
 4QS<sup><small>f</small></sup> 4:4); 11:12; 1QM 1:5; 4:13; 13:13; 14:5; 18:7; 4Q185 2:13; 4Q381 15:9; 4Q438 4 ii+5:3; 4Q491 (4QM<sup><small>a</small></sup>) 11 ii 17 (cf. 1QM 16:16ff.); 15:7; 4Q503 48-50:6; 4Q511 1:5; 10:8.  
 No context: 4Q511 38:3.
