@@ -28,7 +28,7 @@ Occurrences: 71x HB (30/19/22); 13x Sir; 51x Qum; 2x inscr. (Total:
 * Ketubim: Pss 3:9; 21:4, 7; 24:5; 37:26; 84:7; 109:17; 129:8; 133:3;
 Job 29:13; Prov 10:6, 7, 22; 11:11, 25, 26; 24:25; 28:20; Neh 9:5;
 13:2; 2 Chron 20:26(2x).
-* Sir: 3:8<sup><small>A</small></sup>,
+* Sira: 3:8<sup><small>A</small></sup>,
 9<sup><small>A</small></sup>; 
 4:13<sup><small>A</small></sup>;
 7:32<sup><small>A,D</small></sup>; 
@@ -45,7 +45,7 @@ Job 29:13; Prov 10:6, 7, 22; 11:11, 25, 26; 24:25; 28:20; Neh 9:5;
 <span dir="rtl">כבוד</span>);&lrm; 
 46:11<sup><small>B</small></sup>; 
 50:20<sup><small>B</small></sup>. 
-* Qum: 1QH<sup><small>a</small></sup> 4(17):20; 1QM 12:12; 19:4; 1pPs(1Q16) 8:2 
+* Qumran: 1QH<sup><small>a</small></sup> 4(17):20; 1QM 12:12; 19:4; 1pPs(1Q16) 8:2 
 (<span dir="rtl">בר[כת</span>);&lrm;
 1QSb(1Q28b) 1:1; 3:22; 4:3; 3Q15 ii 13 
 (<span dir="rtl">ברכא</span>);&lrm; 
@@ -71,18 +71,18 @@ x 4; 30:5; 11QT 29:9(?); 53:3; see <a href="/store/printed_publications/">Aitken
 
 <b>A.1</b> The ancient versions recognize a variety of meanings for <span dir="rtl">בְּרָכָה</span> and in this they seem to be correct. 
 <span dir="rtl">בְּרָכָה</span> denotes first the act of uttering a blessing upon someone or the action of the verb 
-<a href="/words/b-r-k_2/><span dir="rtl" lang="he">ברך</span></a>.
+<a href="/words/b-r-k_2"/><span dir="rtl" lang="he">ברך</span></a>.
 
 <b>A.2</b> 
 <span dir="rtl">בְּרָכָה</span> has a derived secondary meaning of anything prosperous or benificial.
 
 <b>A.3</b> In LBH
 <span dir="rtl">בְּרָכָה</span>
-develops the meaning of ‘praise’, a probable consequence of the use of the verb <a href="/words/b-r-k_2/><span dir="rtl" lang="he">ברך</span></a>
+develops the meaning of ‘praise’, a probable consequence of the use of the verb <a href="/words/b-r-k_2"/><span dir="rtl" lang="he">ברך</span></a>
 in meaning ‘to praise’.
 
 <b>A.4</b> 
-As the verb <a href="/words/b-r-k_2/><span dir="rtl" lang="he">ברך</span></a> can be found in greeting formulas, <span dir="rtl">בְּרָכָה</span> is attested at the opening of a letter on an inscription.
+As the verb <a href="/words/b-r-k_2"/><span dir="rtl" lang="he">ברך</span></a> can be found in greeting formulas, <span dir="rtl">בְּרָכָה</span> is attested at the opening of a letter on an inscription.
 
 <b>A.5</b> 
 Extensions in use can be seen in <span dir="rtl">בְּרָכָה</span> denoting an object of reciprocal exchange and possibly in its denoting ‘surrender’ or ‘peace’.

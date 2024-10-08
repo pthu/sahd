@@ -20,7 +20,7 @@ Occurrences: 17x HB (0/6/11); 1x Sir; 7x Qum.; 0x inscr. (Total: 25).<sup id="fn
 
 * Nebiim: 2 Sam 24:11; 2 Kgs 17:13; Isa 29:10; 30:10; Amos 7:12; Mic 3:7.
 * Ketubim: 1 Chron 21:9; 25:5; 29:29; 2 Chron 9:29; 12:15; 19:2; 29:25, 30; 33:18, 19; 35:15.
-* Ben Sira: Sir 46:15<sup><small>B</small></sup>;
+* Sira: Sir 46:15<sup><small>B</small></sup>;
 * Qumran: 1QM XI:8; 1QH<sup><small>a</small></sup> X:15; XII:10; XII:20; 4QpIsa<sup><small>c</small></sup> 16:2; 4Q174(MidrEschat<sup><small>a</small></sup>) f5:4; 4Q280 f2:7.
 
 

@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1ARRv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=ארר&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># ארר <i>ʾrr</i> – to curse
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1ARRv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=ארר&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># ארר <i>ʾārar</i> – to curse
 
 Semantic Fields:
 [Cursing](../semantic_fields/cursing.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [James K. Aitken](../contributors/james_k._aitken.md)<br>
-First published: 2024-10-10<br>Citation: James K. Aitken, ארר <i>ʾrr</i> – to curse, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2024
+First published: 2024-10-10<br>Citation: James K. Aitken, ארר <i>ʾārar</i> – to curse, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2024
 
 
 
@@ -25,8 +25,8 @@ Occurrences: 63x HB (41/20/2); 0x Sir; 37x Qum; 10?x inscr. (Total:
 * Nebiim – <i>qal</i>: Josh 6:26; 9:23; Judg 5:23 (3x); 21:18; 1 Sam 14:24, 28; 26:19; 2 Kgs 9:34; Jer 11:13; 17:5; 20:14, 15; 48:10 (2x); Mal 1:14; 2:2 (2x); 
 * Nebiim – <i>niphal</i>: Mal 3:9;
 * Ketubim – <i>qal</i>: Ps 119:21; Job 3:8;
-* Qum: see <a href="/store/printed_publications/">Aitken, <i>The Semantics of Blessing and Cursing</i></a>, 64;
-* Inscr: see <a href="/store/printed_publications/">Aitken, <i>The Semantics of Blessing and Cursing</i></a>, 64.
+* Qumran: see <a href="/store/printed_publications/">Aitken, <i>The Semantics of Blessing and Cursing</i></a>, 64;
+* Inscriptions: see <a href="/store/printed_publications/">Aitken, <i>The Semantics of Blessing and Cursing</i></a>, 64.
 
 
 

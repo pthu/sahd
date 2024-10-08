@@ -178,7 +178,7 @@ and SÍG <i>takilta</i>
  to designate two different kinds of wool that were given to an Ugaritic queen named Šarelli
 (see Virolleaud 1951:54-56; PRU 3, 1955: 14-15).
 Since <i>takiltu</i> denotes ‘blue(-purple) cloth’ (see Heb.
-<a href="/words/thkeleth/><span dir="rtl" lang="he">תְּכֵלֶת</span></a>;
+<a href="/words/thkeleth"/><span dir="rtl" lang="he">תְּכֵלֶת</span></a>;
 cf. Hartley 2010:38, 185-90),
 Albright interpreted <i>ḫašmānu</i> as denoting a category of textile with a different colour, namely red.
 However, he still assumed that there is a relationship with Egyptian <i>ḥsmn</i>, ‘natron’ (see A.2), supposing that
@@ -670,9 +670,9 @@ However, interpreting <span dir="rtl">חַשְׁמַנִּים</span> in Ps 68:3
 since in Egypt, where <span dir="rtl">חַשְׁמַנִּים</span> is said to come from, <i>ḥsmn</i> never relates to textiles. 
 Moreover, there are no indications that the Akkadian word <i>ḫašmānu</i> was used in Hebrew, Ugaritic, or any other North-West Semitic language to designate
 dyed textiles. In Hebrew, reddish purple was designated as 
-<a href="/words/2argaman/><span dir="rtl" lang="he">אַרְגָּמָן</span></a>, 
+<a href="/words/2argaman"/><span dir="rtl" lang="he">אַרְגָּמָן</span></a>, 
 and bluish purple as 
-<a href="/words/thkeleth/><span dir="rtl" lang="he">תְּכֵלֶת</span></a> (Hartley 2010:38, 185-90, 198-204).
+<a href="/words/thkeleth"/><span dir="rtl" lang="he">תְּכֵלֶת</span></a> (Hartley 2010:38, 185-90, 198-204).
 
 <b>A.7</b> <span id="Am2"><i>Amethyst</i></span> has apparently not yet been proposed as the meaning of <span dir="rtl">חַשְׁמַנִּים</span> in Ps 68:32. The word was overlooked</span>
 by Black and Thavapalan, who did assume a connection between Egyptian <i>ḥsmn</i>, ‘amethyst’, and Akkadian <i>ḫašmānu</i>.

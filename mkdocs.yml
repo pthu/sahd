@@ -21,6 +21,8 @@ nav:
                 - גְּאוּלִים - redemption: words/g2ulim.md
                 - גאל - to redeem: words/g-2-l.md
                 - גְּאֻלָּה - redemption, right of: words/g2ullah.md
+            - ד:
+                - דֶּרֶךְ - road, way: words/derek.md
             - ה:
                 - הֲדֹם - footstool: words/hadom.md
             - ח:
@@ -86,7 +88,9 @@ nav:
             - Knowledge: semantic_fields/knowledge.md
             - Light: semantic_fields/light.md
             - Metals: semantic_fields/metals.md
+            - Morality: semantic_fields/morality.md
             - Textile Production: semantic_fields/textile production.md
+            - Transport: semantic_fields/transport.md
             - Tribute: semantic_fields/tribute.md
             - Utensils: semantic_fields/utensils.md
             - Weight: semantic_fields/weight.md

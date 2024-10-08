@@ -17,17 +17,17 @@ First published: 2024-10-10<br>Citation: John E. Hartley, אַרְגָּמָן <
 ##Introduction
 Grammatical Type: noun
 
-Occurrences: ?x HB (?/?/?); 1x Sir; 8x Qum; 0x inscr. (Total:
-?).
+Occurrences: 38x HB (27/4/7); 1x Sir; 8x Qum; 0x inscr. (Total:
+47).
 
-* Torah: ;
-* Nebiim: ;
-* Ketubim: ;
-* Sir: 45:10<sup><small>B</small></sup>;
-* Qum: 1Q33 (1QM) 7:11; 4Q365 (4QRP<small><sup>c</sup></small>) fr12b.iii:4, 6, 8; 4Q525 fr2.iii:5; 11Q19 (11QTemple<small><sup>a</sup></small>) 3:2; 10:12, 14 (<span dir="rtl" lang="he">א]ר֯ג֯מ֯ן֯</span>).    
+* Torah: Exod 25:4; 26:1, 31, 36; 27:16; 28:5, 6, 8, 15, 33; 35:6, 23, 25, 35; 36:8, 35, 37; 38:18, 23; 39:1, 2, 3, 5, 8, 24, 29; Num 4:13; 
+* Nebiim: Judg 8:26; Jer 10:9; Ezek 27:7, 16; 
+* Ketubim: Prov 31:22; Song 3:10; 7:6; Esth 1:6; 8:15; 2 Chron 2:13; 3:14;
+* Sira: 45:10<sup><small>B</small></sup>;
+* Qumran: 1Q33 (1QM) 7:11; 4Q365 (4QRP<small><sup>c</sup></small>) fr12b.iii:4, 6, 8; 4Q525 fr2.iii:5; 11Q19 (11QTemple<small><sup>a</sup></small>) 3:2; 10:12, 14 (<span dir="rtl" lang="he">א]ר֯ג֯מ֯ן֯</span>).    
 
 See also the Aram. lemma 
-<a href="/words/2argwan/><span dir="rtl" lang="he">אַרְגְּוָן</span></a>
+<a href="/words/2argwan"/><span dir="rtl" lang="he">אַרְגְּוָן</span></a>
 in 2 Chron and Dan.
 
 
@@ -39,7 +39,7 @@ articles on
 <a href="https://www.tandfonline.com/doi/full/10.1080/03344355.2023.2190283" target="_blank" rel="noopener noreferrer">www.tandfonline.com</a>, and
 <a href="https://www.nytimes.com/2024/03/05/science/archaeology-tyrian-purple-murex.html" target="_blank" rel="noopener noreferrer">www.nytimes.com</a>.
 
-According to an inscription of the Assyrian king Sennacherib (RINAP 3/1, 4:56), ‘blue-purple wool and red-purple wool’ (SÍG.<i>ta-kil-tú</i> SÍG.<i>ar-ga-man-nu</i>; cf. <a href="/words/thkeleth/><span dir="rtl" lang="he">תְּכֵלֶת</span></a>) were among the gifts that King Hezekiah of Jerusalem sent to Sennacherib.
+According to an inscription of the Assyrian king Sennacherib (RINAP 3/1, 4:56), ‘blue-purple wool and red-purple wool’ (SÍG.<i>ta-kil-tú</i> SÍG.<i>ar-ga-man-nu</i>; cf. <a href="/words/thkeleth"/><span dir="rtl" lang="he">תְּכֵלֶת</span></a>) were among the gifts that King Hezekiah of Jerusalem sent to Sennacherib.
 
 
 ##Conclusion
