@@ -1,5 +1,5 @@
 ---
-word_english: to blessing   
+word_english: to bless   
 word_hebrew: ברך   
 transcription: <i>bārak</i>   
 title: to bless, praise   
@@ -42,8 +42,8 @@ Pss 5:13; 10:3; 16:7; 26:12; 28:9; 29:11; 34:2; 45:3; 49:19; 62:5; 63:5; 65:11; 
 Pss 37:22; 112:2; 113:2; 128:4; Job 1:21; Prov 20:21; 22:9; 1 Chron 17:27;
 * Ketubim – <i>hithpael</i> (1):
 Ps 72:17.
-* Sir – <i>qal</i>: 51:30<sup><small>B</small></sup>;
-* Sir – <i>piel</i>: 
+* Sira – <i>qal</i>: 51:30<sup><small>B</small></sup>;
+* Sira – <i>piel</i>: 
 31[34]:10<sup><small>B</small></sup>,
 23<sup><small>B</small></sup>;
 32[35]:13<sup><small>B</small></sup>;
@@ -57,17 +57,19 @@ Ps 72:17.
 25<sup><small>B</small></sup>;
 50:22<sup><small>B</small></sup>;
 51:12<sup><small>B</small></sup>;
-* Sir – <i>pual</i>: 51:30<sup><small>B</small></sup>.
-* Qum: see <a href="/store/printed_publications/">Aitken, <i>The Semantics of Blessing and Cursing</i></a>, 88-89.
-* Inscr.: see <a href="/store/printed_publications/">Aitken, <i>The Semantics of Blessing and Cursing</i></a>, 89. 
+* Sira – <i>pual</i>: 51:30<sup><small>B</small></sup>.
+* Qumran: see <a href="/store/printed_publications/">Aitken, <i>The Semantics of Blessing and Cursing</i></a>, 88-89.
+* Inscriptions.: see <a href="/store/printed_publications/">Aitken, <i>The Semantics of Blessing and Cursing</i></a>, 89. 
 
-The qal is attested only as the passive participle:
+The <i>qal</i> is attested only as the passive participle:
 <span dir="rtl">בָּרוּךְ</span>, 
 <span dir="rtl">בְּרוּכָה</span>, etc.; ‘blessed, praised’.
-The piel is found 233 times in HB and represents the declarative: ‘to bless, praise’.
+The <i>piel</i> is found 233 times in HB and represents the declarative: ‘to bless, praise’.
 
 
-<b>FOTO EL.jpg</b>
+![EL](../photos/EL.jpg)
+
+An Ugaritic deity, probably El, with a blessing gesture.
 
 
 ## 7. Conclusion
@@ -84,7 +86,7 @@ The piel is found 233 times in HB and represents the declarative: ‘to bless, p
 <b>A.4</b> When <span dir="rtl">ברך</span> has both a human subject and a human object, it denotes the expressing of the favour conferred on the person by God.
 
 <b>A.5</b> A formulaic use of <span dir="rtl">ברך</span> in the agreeing of a covenant or treaty is comparable to the use of 
-<a href="/words/2-r-r/><span dir="rtl" lang="he">ארר</span></a>
+<a href="/words/2-r-r"/><span dir="rtl" lang="he">ארר</span></a>
 in the same context.
 
 <b>A.6</b> A second formulaic use of <span dir="rtl">ברך</span> is a part of a greeting, especially at the beginning of letters.

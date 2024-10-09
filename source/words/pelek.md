@@ -443,11 +443,11 @@ these women, who are said to have spun with their hands (בְּיָדֶיהָ;
 v.&nbsp;26),
 made use of a פֶּלֶךְ. 
 The materials spun by these woman were sheep wool coloured with costly dyes 
-(<a href="/words/thkeleth/><span dir="rtl" lang="he">תְּכֵלֶת</span></a>, ‘bluish purple’; 
-<a href="/words/2argaman/><span dir="rtl" lang="he">אַרְגָּמָן</span></a>, 
+(<a href="/words/thkeleth"/><span dir="rtl" lang="he">תְּכֵלֶת</span></a>, ‘bluish purple’; 
+<a href="/words/2argaman"/><span dir="rtl" lang="he">אַרְגָּמָן</span></a>, 
 ‘reddish purple’; 
 <span dir="rtl" lang="he">תּוֹלַעַת הַשָָּׁנִי</span>, 
-<a href="/words/shani_1/><span dir="rtl" lang="he">שָׁנִי</span></a>, ‘scarlet’),
+<a href="/words/shani_1"/><span dir="rtl" lang="he">שָׁנִי</span></a>, ‘scarlet’),
 fine linen (שֵׁשׁ), 
 and goat hair (עִזִּים).
 See further → <a href="/words/t-w-h"><span dir="rtl" lang="he">טוה</span></a>.

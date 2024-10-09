@@ -41,7 +41,7 @@ Sam 7:2; 12:25; 24:11; 1 Kgs 1:8, 10, 22, 23, 32, 34, 38, 44, 45; 11:29; 13:11, 
 6:7, 14(2x); 9:26, 30, 32; 1 Chron 16:22; 17:1; 25:1; 29:29; 2 Chron 9:29;
 12:5, 15; 13:22; 15:8; 18:5, 6, 9, 11, 12, 21, 22; 20:20; 21:12; 24:19;
 25:15, 16; 26:22; 28:9; 29:25(2x); 32:20, 32; 34:22; 35:18; 36:12, 16.
-* Sir: 36:21<sup><small>B</small></sup>; 48:1<sup><small>B</small></sup>, 8<sup><small>B</small></sup>; 49:7<sup><small>B</small></sup>, 10<sup><small>B</small></sup>.
+* Sira: 36:21<sup><small>B</small></sup>; 48:1<sup><small>B</small></sup>, 8<sup><small>B</small></sup>; 49:7<sup><small>B</small></sup>, 10<sup><small>B</small></sup>.
 * Qumran:[^1] CD 3:21; 4:13; 7:10, 17; 19:7;[^2] 1QS
 1:3; 8:16; 9:11;[^3] 1QPHab 1:1; 2:9; 7:5, 8; 1QH<sup><small>a</small></sup> 12:17(=4Q430
 f1:4); 1Q29 f1:5; 4Q88 8:14; 4Q158 f6:6, 9; 4Q163 15-16:1;

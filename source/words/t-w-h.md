@@ -234,18 +234,18 @@ If in Prov 31:19 the noun
 <span dir="rtl" lang="he">טוה</span> means ‘to spin’.[^10] 
 Exod 35:25-26 recounts that women spun different materials
 that had been collected previously (Exod 25:4; 35:6, 23):  
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="/words/thkeleth/><span dir="rtl" lang="he">תְּכֵלֶת</span></a>,
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/words/thkeleth"/><span dir="rtl" lang="he">תְּכֵלֶת</span></a>,
 ‘bluish purple’,  
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="/words/2argaman/><span dir="rtl" lang="he">אַרְגָּמָן</span></a>,
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/words/2argaman"/><span dir="rtl" lang="he">אַרְגָּמָן</span></a>,
 ‘reddish purple’,  
 &nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="/words/shani_1/><span dir="rtl" lang="he">תּוֹלַעַת (הַ)שָָּׁנִי</span></a>, ‘scarlet’, ‘bright red’,  
+<a href="/words/shani_1"/><span dir="rtl" lang="he">תּוֹלַעַת (הַ)שָָּׁנִי</span></a>, ‘scarlet’, ‘bright red’,  
 &nbsp;&nbsp;&nbsp;&nbsp; <span dir="rtl" lang="he">שֵׁשׁ</span>,
 ‘fine linen’,  
 &nbsp;&nbsp;&nbsp;&nbsp; <span dir="rtl" lang="he">עִזִּים</span>, ‘goat hair’.   
-The three designations <a href="/words/thkeleth/><span dir="rtl" lang="he">תְּכֵלֶת</span></a>,
-<a href="/words/2argaman/><span dir="rtl" lang="he">אַרְגָּמָן</span></a>, and 
-<a href="/words/shani_1/><span dir="rtl" lang="he">תּוֹלַעַת (הַ)שָָּׁנִי</span></a> apparently denote sheep wool that had been coloured with these costly dyes 
+The three designations <a href="/words/thkeleth"/><span dir="rtl" lang="he">תְּכֵלֶת</span></a>,
+<a href="/words/2argaman"/><span dir="rtl" lang="he">אַרְגָּמָן</span></a>, and 
+<a href="/words/shani_1"/><span dir="rtl" lang="he">תּוֹלַעַת (הַ)שָָּׁנִי</span></a> apparently denote sheep wool that had been coloured with these costly dyes 
 before it was spun. 
 Linen usually remained undyed, since its cellulose fibres do not easily absorb dyes[^11]
 (but cf. Ezek 27:7). 

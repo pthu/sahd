@@ -30,8 +30,8 @@ Occurrences: 58x HB (<i>qal</i>: 19/14/20; <i>niph.</i>: 2/1/0; <i>hiph.</i>: 1/
 * Nebiim – <i>qal</i>: 1 Sam 14:45; 2 Sam 4:9; 7:23(2x); 1 Kgs 1:29; Isa 29:22; 35:10; 51:11; Jer 15:21; 31:11; Hos 7:13; 13:14; Mic 6:4; Zech 10:8;
 * Nebiim – <i>niph.</i>: Isa 1:27;
 * Ketubim – <i>qal</i>: Pss 25:22; 26:11; 31:6; 34:23; 44:27; 49:8(2x), 16; 55:19; 69:19; 71:23; 78:42; 119:134; 130:8; Job 5:20; 6:23; 33:28; Neh 1:10; 1 Chron 17:21(2x);
-* Sir 51:2<sup><small>B</small></sup>, 12<sup><small>B</small></sup>;
-* Qum: CD-A 16:8; 1QH<small><sup>a</sup></small> 4:20; 10:32, 35; 11:19; 1Q45 1:2; 4Q171 1-2 ii:18; 4Q374 3:2; 4Q504 4:7; 4Q511 36:3; 6Q9 59:1; 11Q5 22:15; 11Q19 54:16; 59:11, 12; 63:6.
+* Sira: Sir 51:2<sup><small>B</small></sup>, 12<sup><small>B</small></sup>;
+* Qumran: CD-A 16:8; 1QH<small><sup>a</sup></small> 4:20; 10:32, 35; 11:19; 1Q45 1:2; 4Q171 1-2 ii:18; 4Q374 3:2; 4Q504 4:7; 4Q511 36:3; 6Q9 59:1; 11Q5 22:15; 11Q19 54:16; 59:11, 12; 63:6.
 
 ### Text doubtful:
 

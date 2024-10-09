@@ -24,7 +24,7 @@ Occurrences: 34x HB (0/14/20); 3x Sir; 0x Qum; 0x inscr. (Total: 37).
 
 * Nebiim: Judg 15:18; 1 Sam 11:9, 13; 19:5; 2 Sam 19:3; 23:10, 12; 2 Kgs 5:1; 13:17 (2x); Isa 45:17; 46:13 (2x); Jer 3:23;
 * Ketubim: Pss 33:17; 37:39; 38:23; 40:11, 17; 51:16; 60:13; 71:15; 108:13; 119:41, 81; 144:10; 146:3; Prov 11:14; 21:31; 24:6; Lam 3:26; 1 Chron 11:14; 19:12; 2 Chron 6:41;
-* Sir: 39:18<sup><small>B</small></sup>, 20<sup><small>B</small></sup>; 46:1<sup><small>B</small></sup>.
+* Sira: 39:18<sup><small>B</small></sup>, 20<sup><small>B</small></sup>; 46:1<sup><small>B</small></sup>.
 * Text doubtful: -
 
 Qere/Ketiv: none.

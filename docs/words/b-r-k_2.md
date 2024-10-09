@@ -64,13 +64,15 @@ Ps 72:17.
 * Qum: see <a href="/store/printed_publications/">Aitken, <i>The Semantics of Blessing and Cursing</i></a>, 88-89.
 * Inscr.: see <a href="/store/printed_publications/">Aitken, <i>The Semantics of Blessing and Cursing</i></a>, 89. 
 
-The qal is attested only as the passive participle:
+The <i>qal</i> is attested only as the passive participle:
 <span dir="rtl">בָּרוּךְ</span>, 
 <span dir="rtl">בְּרוּכָה</span>, etc.; ‘blessed, praised’.
-The piel is found 233 times in HB and represents the declarative: ‘to bless, praise’.
+The <i>piel</i> is found 233 times in HB and represents the declarative: ‘to bless, praise’.
 
 
-<b>FOTO EL.jpg</b>
+![EL](../images/photos/EL.jpg)
+
+An Ugaritic deity, probably El, with a blessing gesture.
 
 
 ## 7. Conclusion

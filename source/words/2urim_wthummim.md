@@ -1,5 +1,5 @@
 ---
-word_english: Urim_Thummim  
+word_english: Urim_and_Thummim  
 word_hebrew: אוּרִים וְתֻמִּים  
 transcription: <i>ʾūrīm w<small><sup>e</sup></small>ṯummīm</i>
 title: Urim and Thummim  

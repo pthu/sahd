@@ -5,7 +5,8 @@
 
 * H.G.M. Williamson, 
 ‘Semantics and Lexicography: A Methodological Conundrum’, in: E. Bons, J. Joosten, and R. Hunziker-Rodewald (eds), 
-<i>Biblical Lexicology: Hebrew and Greek</i> (BZAW, 443), Berlin: de Gruyter, 2015, 327–39. PDF!
+[<i>Biblical Lexicology: Hebrew and Greek</i>](/Williamson-Semantics_and_Lexicography.pdf/){target=_blank}
+(BZAW, 443), Berlin: de Gruyter, 2015, 327–39.
 * Ida Zatelli, ‘Il progetto internazionale Semantics of Ancient Hebrew Database’, <i>Materia Giudaica</i> 23 (2018): 505-08. PDF:
 http://aisg.cise.unipi.it/Materia-giudaica-2018/033-Zatelli%20pp%20505-508.pdf
 
@@ -20,12 +21,8 @@ http://aisg.cise.unipi.it/Materia-giudaica-2018/033-Zatelli%20pp%20505-508.pdf
 [<i>The Semantics of Blessing and Cursing in Ancient Hebrew</i>](https://www.peeters-leuven.be/detail.php?search_key=9789042918962&series_number_str=23&lang=en) 
 (ANESSup, 23), Leuven: Peeters, 2007.
 
-![Ancient Near Eastern Studies Supplement 23 - The Semantics of Blessing and Cursing in Ancient Hebrew - By J.K. Aitken](Aitken_Semantics_Blessing_Cursing_Peeters.jpg)
-
 * John E. Hartley:
 [<i>The Semantics of Ancient Hebrew Colour Lexemes</i>](https://www.peeters-leuven.be/detail.php?search_key=9789042923119&series_number_str=33&lang=en) (ANESSup, 33), Louvain: Peeters, 2010.
-
-![Ancient Near Eastern Studies Supplement 33 - The Semantics of Ancient Hebrew Colour Lexemes - By J.E. Hartley](Hartley_Semantics_Colour_Lexemes_Peeters.jpg)
 
 
 ### Articles
@@ -45,15 +42,18 @@ T. Muraoka (ed.), [<i>Semantics of Ancient Hebrew</i>](https://www.peeters-leuve
 (AbrNSup, 6), Leuven: Peeters, 1998, 11-37, 74-78, 79-85, 86-88, 101-105, 114-121.
 
 <b>Dr. M. Di Giulio:</b>
+
 - 'I segnali discorsivi in ebraico antico: esempi dal corpus biblico', in: A. Mengozzi (ed.), <i>Studi Afroasiatici: XI Incontro di Linguistica Camitosemitica, Bergamo 5-7 giugno 2003</i>, Milano: Angeli, 2005, 253-258.
 - 'Classi e variazione d’uso nel paradigma degli aggettivi yph e n’ym: un esempio d’analisi semantica nei corpora dell’ebraico antico', 
 <i>Materia Giudaica</i> IX/1-2 (2004): 137-157.
 
 <b>Dr. Alison R. Gray:</b>
+
 - Article ‘גאל’, <i>ThWQ</i> 1: 556-559.
 
 
 <b>Dr. Massimiliano Marrazza:</b>
+
 - 'Oppositions and Lexematic Functions of the Adjectives ŠMN, DŠN and BRYʾ (Positive Pole), and ʾMLL, ʾN(W)Š (Negative Pole) in the Lexical Fields of the Adjectives of ‘Health’ and ‘Illness’ in Ancient Hebrew', 
 in: A. Mengozzi and M. Tosco (eds.), <i>Sound and Words through the Ages: Afroasiatic Studies from Turin</i>, 
 Alessandria: Edizioni dell'Orso, 2013, 323-337.
@@ -63,6 +63,7 @@ Alessandria: Edizioni dell'Orso, 2013, 323-337.
 in: A. Agostini and M.G. Amadasi Guzzo (eds.), <i>Proceedings of the 15th Meeting of Afro-Asiatic Linguistics, 17-19 September 2014, Rome</i> (Quaderni di Vicino Oriente, 12), Sapienza Università di Roma, 2017, 163-173.
 
 <b>Dr. Alison Salvesen:</b>
+
 - 'Royal Family', in: B.T. Arnold and H.G.M. Williamson (eds.), <i>The Dictionary of the Old Testament: Historical Books</i>, 
 Issaquah, WA: IVPress, 2005, 845-50.
 - Entries on “footstool”, “throne”, “consecration”, “crown”, “diadem”, “staff”, and “sceptre”, 
@@ -74,6 +75,7 @@ Sheffield: Sheffield Academic Press, 1998, 119-141.
 - 'Keter – Something to do with a Camel?', <i>JSS </i>44 (1999): 35-46.
 
 <b>Dr. M. Patrizia Sciumbata:</b>
+
 - “Diachronic Change in Ancient Hebrew: a Lexical Test-Case”, 
 in: A. Mengozzi (ed.), <i>Studi Afroasiatici: XI Incontro di Linguistica Camitosemitica, Bergamo 5-7 giugno 2003</i>, Milano: Angeli, 2005, 259-268.
 - 'L’ebraico antico tra filologia e linguistica: il caso della semantica', <i>Materia Giudaica</i> XIII (2003): 5-15.
@@ -89,8 +91,10 @@ in: A. Mengozzi (ed.), <i>Studi Afroasiatici: XI Incontro di Linguistica Camitos
 <i>Quaderni del Dipartimento di Linguistica – Università di Firenze</i> 7 (1996): 213-225.
 
 <b>Dr. Peter J. Williams:</b>
+
 - 'The Difference between the roots mlṭ and plṭ', <i>ZAW</i> 114 (2002): 438-442.
 
 <b>Prof. I. Zatelli:</b>
+
 - 'The Study of Ancient Hebrew Lexicon. Application of the concepts of lexical field and functional language', 
 <i>Kleine Untersuchungen zur Sprache des Alten Testaments und seiner Umwelt</i> 5 (2004): 129-159.

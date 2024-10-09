@@ -1,7 +1,7 @@
 ---
 word_english: to curse   
 word_hebrew: ארר   
-transcription: <i>ʾrr</i>   
+transcription: <i>ʾārar</i>   
 title: to curse
 semantic_fields: cursing   
 contributors: james_k._aitken  
@@ -22,8 +22,8 @@ Occurrences: 63x HB (41/20/2); 0x Sir; 37x Qum; 10?x inscr. (Total:
 * Nebiim – <i>qal</i>: Josh 6:26; 9:23; Judg 5:23 (3x); 21:18; 1 Sam 14:24, 28; 26:19; 2 Kgs 9:34; Jer 11:13; 17:5; 20:14, 15; 48:10 (2x); Mal 1:14; 2:2 (2x); 
 * Nebiim – <i>niphal</i>: Mal 3:9;
 * Ketubim – <i>qal</i>: Ps 119:21; Job 3:8;
-* Qum: see <a href="/store/printed_publications/">Aitken, <i>The Semantics of Blessing and Cursing</i></a>, 64;
-* Inscr: see <a href="/store/printed_publications/">Aitken, <i>The Semantics of Blessing and Cursing</i></a>, 64.
+* Qumran: see <a href="/store/printed_publications/">Aitken, <i>The Semantics of Blessing and Cursing</i></a>, 64;
+* Inscriptions: see <a href="/store/printed_publications/">Aitken, <i>The Semantics of Blessing and Cursing</i></a>, 64.
 
 
 
