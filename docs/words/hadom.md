@@ -8,7 +8,7 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1HDMn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=הֲדֹם&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># הֲדֹם <i>h<small><sup>a</sup></small>dōm</i> – footstool
 
 Semantic Fields:
-[Colours](../semantic_fields/colours.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Kingship](../semantic_fields/kingship.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Alison Salvesen](../contributors/alison_salvesen.md)<br>
 First published: 2024-10-10<br>Citation: Alison Salvesen, הֲדֹם <i>h<small><sup>a</sup></small>dōm</i> – footstool, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2024
 

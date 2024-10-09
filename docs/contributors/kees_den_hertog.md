@@ -7,4 +7,4 @@
 &nbsp;&nbsp;\*3-9-1958 — †31-3-2021
 
 ### Contributions
-[אוּרִים וְתֻמִּים – Urim Thummim](../words/2urim_wthummim.md)<br>
+[אוּרִים וְתֻמִּים – Urim and Thummim](../words/2urim_wthummim.md)<br>

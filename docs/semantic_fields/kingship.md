@@ -1,7 +1,7 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-# **Blessing**
+# **Kingship**
 
 
 ### Related words
-[בְּרָכָה – blessing](../words/brakah.md)<br>[ברך – to bless](../words/b-r-k_2.md)<br>
+[הֲדֹם – footstool](../words/hadom.md)<br>
