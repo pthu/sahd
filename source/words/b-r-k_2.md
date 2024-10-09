@@ -1,5 +1,5 @@
 ---
-word_english: to blessing   
+word_english: to bless   
 word_hebrew: ברך   
 transcription: <i>bārak</i>   
 title: to bless, praise   

@@ -3,7 +3,7 @@ word_english: footstool
 word_hebrew: הֲדֹם   
 transcription: <i>h<small><sup>a</sup></small>dōm</i>   
 title: 
-semantic_fields: colours   
+semantic_fields: kingship   
 contributors: alison_salvesen  
 first_published: 2024-10-10     
 last_update: 

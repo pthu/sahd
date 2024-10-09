@@ -50,7 +50,7 @@ Ruth 1:7; Qoh 10:3; 11:5, 9; 12:5; Lam 1:4, 12; 2:15; 3:9, 11, 40; Ezra 8:21, 22
 (<span dir="rtl">ד֯[רכי</span>);
 * Qumran:[^1] CD 1.9, 11, 13, 15, 2.2, 6, 16, 3.15, 17, 7.19, 8.4, 5, 9, 11, 16, 11.1, 15.7, 19.17 (2x), 21, 23, 29, 20.18, 1QH 1.36, 2.10, 4.4, 18, 21, 24, 31 (2x), 32, 6.7, 20 (2x), 21, 24, 7.31, 8.9, 11.4, 12.34, 14.26, 15.13, 18, 17.21, 18.12, 22, 31.2, fr 1.5, 1QM 3.10, 14.7, 1QpHab 8.12, 11.13, 15.25, 1QS 1.13, 2.2, 3.3, 6, 10, 20, 21, 26, 4.1, 2 (2x), 10, 11, 15,17, 19, 22, 5.4, 7, 11, 24, 8.10, 13, 14, 18, 21, 25, 9.2, 5, 9 (2x), 18, 19, 20, 21, 10.21 (2x), 11.2, 4, 10, 11, 13, 17, 14.7,1QSa i 2, 17, 28, 1QSb v 22, 1Q17 1.4, 27.19, 1Q19 1.3, 1Q22 ii 18, 1Q30 2 I 2, 2QSir 2.7, 2Q22 1 ii 3, 3Q15 8.1, 4QPsf 2 viii 4, 4Q158 1-2 10, 4Q161 1 ii 16, 2.7, 10, 27.10, 4Q162 i 5, 4Q163 1 i 3, 22 i 2, 4Q165 4.2, 4Q166 1.7, 4Q171 1+i 17, 25, 1 ii 16, 17, 1 iii 14, 1 iv 10, 4Q174 1-2 i 14, 4Q175 1.12, 4Q176 1+i 2, 7, 18.2, 4Q180 2-4 I 1, 5-6 i 3,4Q183 1 ii 5, 4Q184 1.8, 9 (2x), 14, 16, 17, 4Q185 1-2 ii 1, 4Q200 2.5, 4.5, 4Q215 1 ii 6, 1 iv 6, 4Q219 21.22, 4Q222 1.3, 25.10, 4Q223-4 2 ii 6, 4Q227 2.5, 4Q256 5.4, 4Q258 1 i 3,3 i 3, 6, 3 ii 2, 4, 5, 4Q259 1 iii 17, 4Q266 1 i 1, 2 i 4, 18 v 11, 4Q267 5.4, 4Q270 1 iii 17, 9 ii 20, 4Q271 1 i 9, 4Q286 2.1, 4Q299 5.2, 79.3, 4Q364 23.5-6, 4Q370 1 i 3, 4Q379 18.3, 4Q381 31 i 3, 4Q382 115.2, 4Q385 2 i, 3, 4Q390 1.3, 4Q391 9.3, 11.2, 32.2, 4Q392 1.4, 4Q397 14.12, 4Q400 1 i 14, 16, 4Q403 1 i 22, 2.3,4Q404 2 i 3, 4Q405 13 i 6, 20 ii-21-22 12, 23 i 11, 4Q408 1.6, 4Q413 i 1, 4Q416 2 iii 10, 14, 4Q417 2 i 7, 2 ii 11, 4Q418 55 iii 4, 4Q419 1.12, 4Q420 1a ii-b 5, 4Q421 1a ii-b 12, 4Q422 C 1, 25.10, 4Q423 9.3,4Q425 1-2 iii 6, 11, 4Q428 7.5, 10, 4Q432 9.2, 4Q434 2 i 4, 10, 11, 2 ii 4, 4Q436 1.6, 4Q464 5 ii 4, 4Q473 2.3, 2.4, 4Q486 1.4, 4Q491 8-10 i 5, 6, 4Q497 6.2, 4Q499 5.2, 4Q502 119.1, 4Q504 1-2 v 20 (2x), 8 recto 13, 4.13, 17 ii 4, 4Q505 121.1, 4Q509 296.1, 4Q510 1 i 9, 22, 4Q511 2 i 6, 10 i 8, 63 iii 3, 4Q517 17.2, 4Q524 5.4, 4Q525 3 ii 2 (2x), 4, 7, 3 v 8, 11, 5 viii 11, 12.3, 14 ii 6, 16, 11QJub 5.2, 11QMelch 1+ii 24, 11QPsa xxi 13, xxii10, xxvii 3, 11QShirShab a 3, 11QT 31.6, 43.12, 52.14, 54.17, 56.18, 58.21, 65.2. 
 
-[^1]: These references are those in James K. Aitken, ‘<span dir="rtl">דֶּרֶךְ</span>’, in: T. Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> (AbrNSup, 6), Leuven: Peeters, 1998, \textbf{??-??}. 
+[^1]: These references are those in James K. Aitken, ‘<span dir="rtl">דֶּרֶךְ</span>’, in: T. Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> (AbrNSup, 6), Leuven: Peeters, 1998, 11. 
 
 The figure of 706 in the OT is the correct number of occurrences in the MT and is that preferred by most scholars; see, e.g., Sauer 1971:456; Andersen-Forbes 1989:305; Dorsey 1991:212, 249 n. 1; also <i>DCH</i> and <i>DCHR</i>. This figure corresponds to the number of citations in Lisowsky (1958:370-75). BDB give the number 715 and <i>HAL</i>/<i>HALOT</i> 710. Mandelkern's list of 707 (1896:301-04) includes the one occurrence of the substantive <span dir="rtl">מִדְרַךְ</span>
 (Deut 2:5; constr. state).
@@ -64,109 +64,84 @@ concern only corrections of the suffixes, while
 
 
 ## Conclusion
+A <span dir="rtl">דֶּרֶךְ</span> can be either a literal road or a metaphorical course of behaviour. As a physical road,
+it is the most general and common word for road, being used to refer to many different types. It also is the one word 
+consistently paired with the other words in the semantic field of ‘road’. It may mean a ‘journey’ or ‘course of travel’,
+and it is in this respect that it appears to have a prepositional sense, expressing the direction of travel. As a course
+of behaviour <span dir="rtl">דֶּרֶךְ</span> can refer to habitual behaviour, good or bad ways of life and to the moral course
+prescribed by God or followed by those who are faithful to him. In a related sense to that of a course of behaviour,
+it may refer to a business enterprise. 
 
-<b>A.1</b> 
+The range of meanings exhibited by <span dir="rtl">דֶּרֶךְ</span> is also reflected by the primary words for ‘road’ in other
+Semitic languages. One may, for example, compare Akk. (as Dorsey 1991:249, n. 2) in which the word <i>ḥarrānu</i> has an
+even wider range of meanings. It may mean a highway, road, path; or a course of travel (not distinguished in 
+<i>CAD</i> 6:107-09); a journey; a business trip or venture (involving travel); a military campaign, expedition; a caravan, 
+or expeditionary force. The Aram. and Syr. <i>ʾwrḥʾ</i> exhibit similar meanings (Jastrow, <i>DTT</i>, 33; Sokoloff, <i>SLB</i>, 21-22), as does Arb 
+<i>ṭarīq</i> (Wehr 1971:559). 
 
-<b>A.2</b> 
+Since <span dir="rtl">דֶּרֶךְ</span> is never in parallel to <span dir="rtl">חוּץ</span>, the most common word for ‘street’,
+it is uncertain whether <span dir="rtl">דֶּרֶךְ</span> could ever denote a street within a city. Therefore, although 
+<span dir="rtl">דֶּרֶךְ</span> has a generally similar range of meanings to Heb <span dir="rtl">אֹרַח</span>, it is possible
+that there is a difference in that <span dir="rtl">אֹרַח</span> could be used of a city street in at least the Hebrew of 
+Qumran (4QapLam<sup>a</sup> 2.7) and Sir (49:6). 
+
 
 
 
 <b>For this entry, see further James K. Aitken, 
-‘<span dir="rtl">דֶּרֶךְ</span>’, in:
-T. Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> 
-(AbrNSup, 6), Leuven: Peeters, 1998, \textbf{??-??} (<a href="/store/printed_publications/">Printed publications</a>).</b>
+‘<span dir="rtl">דֶּרֶךְ</span>’, in: T. Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> 
+(AbrNSup, 6), Leuven: Peeters, 1998, 11-37 (→ <a href="/store/printed_publications/">Printed publications</a>).</b>
 
 ## Bibliography
 
+<div style="padding-left: 22px; text-indent: -22px;">
+
+Andersen-Forbes 1989 <br>
+Francis I. Andersen and A. Dean Forbes.
+<i>The Vocabulary of the Old Testament</i>, Rome: Biblical Institute.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Dorsey 1991 <br>
+David A. Dorsey, <i>The Roads and Highways of Ancient Israel</i>, Baltimore and London: Johns Hopkins University Press.   
+</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Aharoni 1979 <br>
-Y. Aharoni, <i>The Land of the Bible: A Historical Geography</i>, rev. edn. translated and edited by A.F. Rainey. Philadelphia.  
+Bergman, Haldar, Koch, Ringgren 1977 <br>
+J. Bergman, A. Haldar, K. Koch, H. Ringgren, <br>
+‘<span dir="rtl">דֶּרֶךְ</span> <i>dæræk</i>’,
+<i>ThWAT</i> 2:288-312.   
 </div>
 
- 
-Aistleitner, J. 31967. Wörterbuch der ugaritischen Sprache. Berlin.   
-Albrecht, K. 1896. Das Geschlecht der hebräischen Hauptwörter. ZAW 16:41-121.   
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Albright 1934 <br>
-W.F. Albright, W.F. 1934, ‘The North-Canaanite poems of Al’Êyân Ba'al and the"Gracious Gods”’, <i>JPOS</i> 14:101-40.
+Lisowsky 1958 <br>
+G. Lisowsky,
+<i>Konkordanz zum hebräischen Alten Testament</i>,
+2<sup><small>nd</small></sup> ed.,
+Stuttgart.   
 </div>
 
-Albright 1944.The Oracles of Balaam. JBL 63:207-33.   
-Albright 1955. Some Canaanite-Phoenician Sources of Hebrew Wisdom. In Wisdom in Israel and in the Ancient Near East: Presented to Harold Henry Rowley by the Society for Old Testament Study in association with the editorial board of Vetus Testamentum in celebration of his sixty-fifth birthday, 24 March 1955. Edited by M. Noth and D. Winton Thomas (VTS 3). Leiden:1-15.   
-Albright 1957. The Refrain «and God saw ki ִtôb» in Genesis. In Mélanges Bibliques Rédigés en l'honneur de André Robert (Travaux de l’Institut Catholique de Paris, 4). Paris:22-26.   
-Andersen, F.I. and A. Dean Forbes. 1989. The Vocabulary of the Old Testament. Rome.
-Bartina, S. 1956.«Vivat Potentia Beer-Sheba» (Amos 8,14). VD 34:202-10.   
-Bauer, J.B. 1958. Encore une fois Proverbes viii 22. VT 8:91-92.   
-Boling, R.G. 1969. Review of R.C. Culley, Oral Formulaic Languages in the Biblical Psalms. JSS 14:119-22.   
-Budde, K. 1925. Zu Text und Auslegung des Buches Amos. JBL 44:63-122.   
-Cathcart, K.J. & R.P. Gordon. 1989. The Targum of the Minor Prophets, Translated with a Critical Introduction, Appendix and Notes. The Aramaic Bible, 14. Edinburgh.   
-Cook, J. 1997. The Septuagint of Proverbs. Jewish and/or Hellenistic Proverbs? Concerning the Hellenistic Colouring of LXX Proverbs (VTS, 69). Leiden-New York-Köln.   
-Dahood,M. 1952. Review of Gustav Hölscher, Das Buch Hiob. TS 13:593-94.   
-Dahood 1954. Ugaritic drkt and Biblical derek. TS 15:627-31.   
-Dahood 1957. Some Northwest-Semitic words in Job. Bib 38:306-20.   
-Dahood 1965-70. Commentary on Psalms. 3 vols. (AB, 16, 17, 17a). Garden City, NY.   
-Davies, G.I. 1979.The significance of Deuteronomy 1.2 for the location of Mount Horeb. PEQ 111:87-101.   
-Davies 1992. Commentary on Hosea (New Century Bible Commentary). Grand Rapids, Michigan.   
-Díez Merino, L. 1984. Targum de Proverbios: Edicíon príncipe del Ms Villa-Amil no. 5 de Alfonse de Zamora (Bibliotheca Hispana Bíblica). Madrid.    
-Dorsey, D.A. 1991. The Roads and Highways of Ancient Israel. Baltimore and London.   
-Drower, E.S. & R. Macuch. 1963. A Mandaic Dictionary. Oxford.   
-Duhm, B. 1901. Das Buch Jeremia (Kurzer Handcommentar zum Alten Testament, Abt. 11). Tübingen.   
-Falk, Z.W. 1978. Introduction to Jewish Law of the Second Commonwealth, part 2. Leiden.   
-Fisher, L.R. (ed.). 1972-81. Ras Shamra Parallells: The Texts from Ugarit and the Hebrew Bible (Analecta Orientalia, 49-51). Rome.   
-Gadd, C.J. 1954. Inscribed prisms of Sargon II from Nimrud. Iraq 16:173-201.   
-Gray, G.B. 1912. Commentary on Isaiah, I-XXXIX (ICC). Edinburgh.   
-Greenfield, J.C. 1969. Amurrite, Ugaritic and Canaanite. In Proceedings of the International Conference on Semitic Studies held in Jerusalem, 19-23 July 1965. Jerusalem.   
-Harper, W.R. 1905. Commentary on Amos and Hosea (ICC). Edinburgh.   
-Hatch, E. & H.A. Redpath. 1897-1906. A Concordance to the Septuagint and the Other Greek Versions of the Old Testament, 2 Vols. Oxford.   
-Haupt, P. 1904. The Sacred Books of the Old Testament, Part 9: The Books of Kings, with notes by B. Stade, assisted by F. Schwally. Leipzig-Baltimore-London.   
-Hayman, L. 1951. A note on I Kings 18.27. JNES 10:57-58.   
-Hayward, C.T.R. 1987. The Targum of Jeremiah, Translated, with a Critical Introduction, Apparatus, and Notes. The Aramaic Bible, 12. Edinburgh.
-Held, M. 1974. Hebrew ma'gal: A study in lexical parallelism. JANES 6:107-16.   
-Holladay, W.L. 1986. Commentary on Jeremiah 1 (Herm). Philadelphia.   
-Horbury, W. 1982. 1 Thessalonians ii 3 as rebutting the charge of false prophecy. JTS ns 33:492-508.
-Jean, C.F. & Hoftijzer, J. 1965. Dictionnaire des Inscriptions Sémitiques del'Ouest. Leiden.   
-Kahle, P.E. 1902. Der Masoretische Text des Alten Testaments. Leipzig.   
-King, L.W.1902. The Annals of the Kings of Assyria, I. London.   
-Kister, M. 1990. A contribution to the interpretation of Ben Sira [in Hebrew]. Tarbiz 59:303-78.
-Koch, K. 1977. Article דרך in TW 2:288-312.   
-Kutscher, E.Y. 1967. Mittelhebräisch und Jüdisch-aramäisch im neuen Koehler-Baumgartner. In B.Hartmann,E.Jenni & E.Y. Kutscher (eds.). Hebräische Wortforschung: Festschrift zum 80. Geburtstag von Walter Baumgartner (VTS, 16). Leiden:158-75.   
-Kutscher 1967-68. Marginal notes to the Biblical lexicon [in Hebrew]. Leš 32:343-46.   
-Kutscher 1974.The Language and Linguistic Background of the Isaiah Scroll (IQIsaa). Leiden.   
-Lagarde, P. de. 1872. Prophetae Chaldaice. Leipzig.
-Lambdin, T.O. 1978. Introduction to Classical Ethiopic (Ge'ez) (Harvard Semitic Series, 24). Missoula, MT.   
-Landsberger, B. 1957. Materialien zum sumerischen Lexicon V:The Series HAR-ra » hubullu, Tablets I-IV. Roma.   
-Lieberman, S. 1967-68. Forgotten  meanings [in Hebrew]. Leš 32:89-102.   
-Lisowsky, G. 21958. Konkordanz zum hebräischen Alten Testament. Stuttgart.   
-Loretz, O. 1979. Die Psalmen II: Beitrag der Ugarit-Texte zum Verständnis von Kolometrie und Textologie der Psalmen. Psalm 90-150 (AOAT, 207/2). Kevelaer.
-Lust, J. et al. 1996. A Greek-English Lexicon of the Septuagint. Part II K-W. Stuttgart.   
-McKane, W. 1970. Commentary on Proverbs (OTL). London.    
-Mandelkern, S. 1896. Veteris Testamenti concordantiae hebraicae atque chaldaicae. Leipzig.   
-Merrill, E.H. 1997. Article on דרך in W.A. VanGemeren (ed.). The New International Dictionary of Old Testament Theology and Exegesis. Vol. 1, 989-93. Carlisle.   
-Michel, D. 1977. Grundlegung einer hebräischen Syntax: Sprachwissenschaftliche Methodik Genus und Numerus des Nomens. Neukirchen-Vluyn.    
-Muffs, Y. 1992. Love and Joy: Law, Language and Religion in Ancient Israel. New York.   
-Nober, P .1948. «De torrentia in via bibet» (Ps 110.7a) (Nota ugaritica in V.T.). VD 26:351-53.
-Nober, P. 1959. Review of F. Nötscher, Gotteswege. VD 37:176-80.   
-Porten, B. & A. Yardeni. 1989. Textbook of Aramaic Documents from Ancient Egypt, Newly Copied, Edited and Translated into Hebrew and English, Vol. II: Contracts. Winona Lake, IN.   
-Ratner, R. 1983. Gender problems in Biblical Hebrew. Unpublished PhD dissertation. Cincinnati.   
-Ratner 1987. DEREK: Morpho-syntactical considerations. JAOS 7:471-73.   
-Rudolph, W. 31968. Commentary on Jeremia 1 (HzAT, 1, 12). Tübingen.   
-Sauer, G. 1971. Article on דרך in THAT 1:456-60.
-de Savignac, J. 1954. Note sur le sens de verset VIII 22 des Proverbes. VT 4:429-32.   
-Scott, R.B.Y. 1965. Commentary on Proverbs and Ecclesiastes (AB, 18).Garden City, NY.
-Segal, M.H. 21958.The Book of Ben Sira [ספר בן סירא השלם]. Jerusalem.   
-Skehan, P.W. & A.A. di Lella. 1987. Commentary on the Wisdom of Ben Sira (AB, 39). Garden City, NY.   
-Tidwell, N. 1980. A road and a way: A contribution to the study of word-pairs. Semitics 7:50-80.   
-Tomback, R.S. 1978. A Comparative Semitic Lexicon of the Phoenician and Punic Languages. Missoula.   
-Tov, E. 1977. Compound words in the LXX representing two or more Hebrew words. Bib 58:189-212.   
-Toy, C.H. 1899. Commentary on Proverbs (ICC). Edinburgh.   
-Virolleaud, Ch. 1931. Un poème phénicien de Ras-Shamra: La lutte de Môt, fils de dieux, et d'Aleïn, fils de Baal. Syria12:193-224.   
-Watson, W.G.E. 1980. Gender-matched synonymous parallelism in the OT. JBL 99:321-41.   
-Wehr, H. 31971. A Dictionary of Modern Written Arabic, ed. J.M. Cowan. Wiesbaden.   
-Wildberger, H. 1972. Commentary on Isaiah 1-12 (BK, X/1). Neukirchen-Vluyn.   
-Wolff, H.W. 1974. Commentary on Hosea (Herm). Philadelphia.   
-Wolff 1977. Commentary on Joel and Amos (Herm). Philadelphia.   
-Yadin, Y. 1965. The Ben Sira Scroll from Masada. Jerusalem.
+<div style="padding-left: 22px; text-indent: -22px;">
+Mandelkern 1896 <br>
+S. Mandelkern, <i>Veteris Testamenti concordantiae hebraicae atque chaldaicae</i>, Leipzig.   
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Ratner 1987 <br>
+Robert Ratner, ‘<i>Derek</i>: Morpho-syntactical considerations’, <i>JAOS</i> 107:471-73.   
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Sauer 1971 <br>
+G. Sauer, 
+‘<span dir="rtl">דֶּרֶךְ</span> <i>dæræk</i> Weg’,
+<i>THAT</i> 1:456-60.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Wehr 1971 <br>
+Hans Wehr, <i>A Dictionary of Modern Written Arabic</i>, 3<sup><small>rd</small></sup> ed. J. Milton Cowan, Wiesbaden: Harrassowitz.   
+</div>
 
