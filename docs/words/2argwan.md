@@ -31,7 +31,7 @@ Occurrences: 1x HB (0/0/1); 0x Sir; 0x Qum; 0x inscr. (Total:
 
 <span dir="rtl" lang="he">אַרְגְּוָן</span>,
 an Aram. spelling of
-<a href="/words/2argaman/><span dir="rtl" lang="he">אַרְגָּמָן</span></a>,
+<a href="/words/2argaman"/><span dir="rtl" lang="he">אַרְגָּמָן</span></a>,
 has the same meaning as the Heb. word,
 ‘a bright, deep red purple’. It is used in a LBH text and in BAram. (Dan 5:7, 16, 29).
 

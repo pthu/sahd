@@ -30,8 +30,8 @@ Occurrences: 103x<sup id="fnref:1"><a href="#footnote" data-toggle="modal" oncli
 * Nebiim – <i>qal</i>: Josh 20:3, 5, 9; 2 Sam 14:11; 1 Kgs 16:11; Isa 35:9; 41:14; 43:1, 14; 44:6, 22, 23, 24; 47:4; 48:17, 20; 49:7, 26; 51:10; 52:9; 54:5, 8; 59:20; 60:16; 62:12; 63:9, 16; Jer 31:11; 50:34; Hos 13:14; Mic 4:10.
 * Nebiim – <i>niph.</i>: Isa 52:3.
 * Ketubim – <i>qal</i>: Pss 19:15; 69:19; 72:14; 74:2; 77:16; 78:35; 103:4; 106:10; 107:2 (2x); 119:154; Job 3:5; 19:25; Prov 23:11; Ruth 2:20; 3:9, 12 (2x), 13 (4x); 4:1, 3, 4 (5x), 6 (4x), 8, 14; Lam 3:58.
-* Sir – <i>qal</i>: 51:8<sup><small>B</small></sup> (and 51:12<sup><small>B</small></sup>?).
-* Qum: 4Q158 14 i 5; 4Q176 3:2, 8-11:4, 7, 10; 4Q185 1-2 ii 10; 4Q251 14:2, 16:5; 4Q266 10 i 9; 4Q367 3:7 (2x]; 4Q381 24a+b.5, 4Q385 2:1; 4Q411 1 ii 8; 4Q471a 3; 11Q5 18:15.
+* Sira – <i>qal</i>: 51:8<sup><small>B</small></sup> (and 51:12<sup><small>B</small></sup>?).
+* Qumran: 4Q158 14 i 5; 4Q176 3:2, 8-11:4, 7, 10; 4Q185 1-2 ii 10; 4Q251 14:2, 16:5; 4Q266 10 i 9; 4Q367 3:7 (2x]; 4Q381 24a+b.5, 4Q385 2:1; 4Q411 1 ii 8; 4Q471a 3; 11Q5 18:15.
 * Inscr: 15.006:2 Khirbet Beit Lei Burial Cave Inscription A (uncertain).
 * Text doubtful: Sir 37:19; 51:12(e); CD 14:16; 4Q168 1:4; 
 4Q284a 1:7; 

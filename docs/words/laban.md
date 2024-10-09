@@ -22,8 +22,8 @@ Occurrences: 29x HB (25/3/1); 1x Sir; 2x Qum; 2x inscr. (Total: 34).
 * Torah: Gen 30:35, 37 (2x); 49:12; Exod 16:31; Lev 13:3, 4 (2x), 10 (2x), 13, 16, 17, 19 (2x), 20, 21, 24 (2x), 25, 26, 38, 39, 42, 43;
 * Nebiim: Zech 1:8; 6:3, 6;
 * Ketubim: Qoh 9:8;
-* Sir: 43:18<sup><small>B,Mas</small></sup>; 
-* Qum: 1Q33 (1QM) V:10; VII:10; 
+* Sira: 43:18<sup><small>B,Mas</small></sup>; 
+* Qumran: 1Q33 (1QM) V:10; VII:10; 
 * Inscr.: 5/6Ḥev 44:12, 15.
 
 ## 7. Conclusion

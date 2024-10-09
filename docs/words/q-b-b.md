@@ -21,7 +21,7 @@ Occurrences: 14x HB (10/0/4); 1x Sir; 0x Qum, 0x inscr. (Total: 15).
 
 * Torah – Num 22:11, 17; 23:8 (2x), 11, 13, 25 (2x), 27; 24:10;
 * Ketubim – Job 3:8; 5:3; Prov 11:26; 24:24;
-* Sir – 41:7<sup><small>B,Mas</small></sup>.
+* Sira – 41:7<sup><small>B,Mas</small></sup>.
 
 
 

@@ -87,9 +87,9 @@ Qumran (4QapLam<sup>a</sup> 2.7) and Sir (49:6).
 
 
 
+
 <b>For this entry, see further James K. Aitken, 
-‘<span dir="rtl">דֶּרֶךְ</span>’, in:
-T. Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> 
+‘<span dir="rtl">דֶּרֶךְ</span>’, in: T. Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> 
 (AbrNSup, 6), Leuven: Peeters, 1998, 11-37 (→ <a href="/store/printed_publications/">Printed publications</a>).</b>
 
 ## Bibliography
@@ -144,5 +144,4 @@ G. Sauer,
 Wehr 1971 <br>
 Hans Wehr, <i>A Dictionary of Modern Written Arabic</i>, 3<sup><small>rd</small></sup> ed. J. Milton Cowan, Wiesbaden: Harrassowitz.   
 </div>
-
 

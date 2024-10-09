@@ -23,7 +23,7 @@ Occurrences: 9x HB (3/5/1); 0x Sir; 1-4x Qum; 0x inscr. (Total:
 * Torah: Gen 25:30 (2x); Num 19:2;
 * Nebiim: 2 Kgs 3:22; Isa 63:2; Zech 1:8 (2x); 6:2;
 * Ketubim: Song 5:10;
-* Qum: 11Q19 (11QTemple<small><sup>a</sup></small>) X:12; 
+* Qumran: 11Q19 (11QTemple<small><sup>a</sup></small>) X:12; 
 3Q14 fr15:1(?) (<span dir="rtl">א֯דום</span>); 
 3Q15 (Copper Scroll) IV:9(?)
 (<span dir="rtl">האדמא</span>);

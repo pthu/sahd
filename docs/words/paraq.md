@@ -22,7 +22,7 @@ Grammatical Type: noun masc.
 Occurrences: 1x HB (0/1/0); 2x Qum; 0x Sir; 0x inscr. (Total: 3).
 
 * Nebiim: Isa 65:4;
-* Qum: 4Q385 f2 5-6; 4Q386 f1 i:5;
+* Qumran: 4Q385 f2 5-6; 4Q386 f1 i:5;
 * Text doubtful: –
 
 

@@ -27,7 +27,7 @@ Occurrences: 14x HB (9/3/2); 0x Sir; 2x Qum; 0x inscr. (Total: 16).
 * Torah: Lev 25:24, 26, 29 (2x), 31, 32, 48, 51, 52;
 * Nebiim: Jer 32:7, 8; Ezek 11:15;
 * Ketubim: Ruth 4:6, 7;
-* Qum: 4Q504 5 ii 4; 4Q506 124:4;
+* Qumran: 4Q504 5 ii 4; 4Q506 124:4;
 * Text doubtful: Ezek 11:15; 4Q504 5:ii.4.
 
 ### Text Doubtful

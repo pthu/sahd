@@ -23,7 +23,7 @@ Occurrences: 42x HB (4/11/27); 8x Sir; 1x Qum.; 0x inscr. (Total: 51)
 * Torah: Exod 31:3; 35:31; 36:1; Deut 32:28; 
 * Nebiim: 1 Kgs 5:9; 7:14; Isa 40:14, 28; 44:19; Jer 10:12; 51:15; Ezek 28:4; Hos 13:2; Obad 1:7, 8;
 * Ketubim: Pss 49:4; 78:72; 136:5; 147:5; Job 12:12, 13; 26:12; 32:11; Prov 2:2, 3, 6, 11; 3:13, 19; 5:1; 8:1; 10:23; 11:12; 14:29; 15:21; 17:27; 18:2; 19:8; 20:5; 21:30; 24:3; 28:16;
-* Ben Sira: 4:24<sup><small>A</small></sup>; 14:20<sup><small>A</small></sup>; 14:21<sup><small>A</small></sup>; 15:3<sup><small>A,B</small></sup>, 15<sup><small>A,B</small></sup>; 44:3<sup><small>B,Mas</small></sup>; 45:5<sup><small>B</small></sup>; 50:27<sup><small>B</small></sup>; 
+* Sira: 4:24<sup><small>A</small></sup>; 14:20<sup><small>A</small></sup>; 14:21<sup><small>A</small></sup>; 15:3<sup><small>A,B</small></sup>, 15<sup><small>A,B</small></sup>; 44:3<sup><small>B,Mas</small></sup>; 45:5<sup><small>B</small></sup>; 50:27<sup><small>B</small></sup>; 
 * Qumran: 11Q5 26:14.
 
 

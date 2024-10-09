@@ -24,7 +24,7 @@ Occurrences: 2x HB (0/1/1); 0x Sir; 1x Qum; 0x inscr. (Total: 3).
 
 * Nebiim: Isa 32:5;
 * Ketubim: Job 34:19;
-* Qum: 4Q165 6:3.
+* Qumran: 4Q165 6:3.
 * Text doubtful: -
 
 
