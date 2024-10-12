@@ -93,12 +93,11 @@ Qumran (4QapLam<sup>a</sup> 2.7) and Sir (49:6).
 
 <b>For this entry, see further James K. Aitken, 
 ‘<span dir="rtl">דֶּרֶךְ</span>’, in: T. Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> 
-(AbrNSup, 6), Leuven: Peeters, 1998, 11-37 (→ <a href="/store/printed_publications/">Printed publications</a>).</b>
+(AbrNSup, 6), Leuven: Peeters, 1998, 11-37, 137-45 (→ <a href="/store/printed_publications/">Printed publications</a>).</b>
 
 ## Bibliography
 
 <div style="padding-left: 22px; text-indent: -22px;">
-
 Andersen-Forbes 1989 <br>
 Francis I. Andersen and A. Dean Forbes.
 <i>The Vocabulary of the Old Testament</i>, Rome: Biblical Institute.

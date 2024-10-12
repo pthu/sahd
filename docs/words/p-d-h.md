@@ -637,6 +637,6 @@ Reuven Yaron, ‘A Document of Redemption from Ugarit’, <i>VT</i> 10:83-90.
 
 ## Notes 
 
-[^1]: The three versions Aquila (αʹ), Symmachus (σʹ), and Theodotion (θʹ) are given according to Field<sup>I</sup> and Field<sup>II</sup>.
+[^1]: The three versions Aquila (αʹ), Symmachus (σʹ), and Theodotion (θʹ) are given according to Field I and II.
 [^2]: Tg<small><sup>Frg</sup></small> is only extant in Lev 27:27, 29, for the equivalents of the verb <span dir="rtl">פדה</span> in ms Vatican Ebr. 440, Folios 198-227.
 

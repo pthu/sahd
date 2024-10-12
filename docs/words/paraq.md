@@ -22,8 +22,7 @@ Grammatical Type: noun masc.
 Occurrences: 1x HB (0/1/0); 2x Qum; 0x Sir; 0x inscr. (Total: 3).
 
 * Nebiim: Isa 65:4;
-* Qumran: 4Q385 f2 5-6; 4Q386 f1 i:5;
-* Text doubtful: –
+* Qumran: 4Q385 f2 5-6; 4Q386 f1 i:5.
 
 
 <b>A.1</b>  The two Qumran documents are both texts of 4Q Pseudo-Ezekiel and
@@ -40,7 +39,7 @@ is also the reading of 1QIsa<sup>a</sup>).
 <span dir="rtl">מָרַק</span> denotes broth (Judg 6:19-20;
 see further below on Versions and
 Exegesis). <i>BHS</i> retains the Ketiv, but the better attested Qere
-(‘broth’) is followed in many modern translations (Luther, AV, RV, RSV,
+(‘broth’) is followed in many modern translations (Luther, KJV, RV, RSV,
 NEB, REB, NRSV, NIV; but not JB, ‘food’), as well as by BDB, 830. As
 a <i>hapax legomenon</i> in BH, however, the Ketiv is the more difficult
 reading and should perhaps be preferred. See further below, <a href="#ExB1">Exegesis B.1</a>. 
@@ -83,9 +82,9 @@ complement is  <span dir="rtl">כליהם</span>, presumably ‘<i>in</i> their 
 
 <b>b. Peshitta (Pesh)</b>:
 
-* <span dir="rtl">ܛܘܫ</span> (<i>ṭwš</i>) <i>pael</i>, ‘to soil, profane’: Isa 65:4, with <span dir="rtl">ܘܡ݁ܛܘܫܝܢ ܒܫ̈ܠܕܐ ܡܐ̈ܢܝܗܘܢ</span> ,
-‘profaning with corpses their things’,
-as the rendering of <span dir="rtl">וּפְ/מְרַק פִּגֻּלִ֖ים כְּלֵיהֶֽם</span>.
+* <span dir="rtl">ܛܘܫ</span> (<i>ṭwš</i>) <i>pael</i>, ‘to soil, profane’, here apparently pass.: Isa 65:4, with <span dir="rtl">ܘܡ݁ܛܘܫܝܢ ܒܫ̈ܠܕܐ ܡܐ̈ܢܝܗܘܢ</span> (<i>wmṭwšyn bšldʾ mʾnyhwn</i>),
+‘and polluted by corpses are their things’,
+as the rendering of <span dir="rtl">וּפְ/מְרַק פִּגֻּלִ֖ים כְּלֵיהֶֽם</span> (see A.2 below).
 
 <b>c. Targum (Tg: J)</b>:
 
@@ -110,16 +109,15 @@ by μεμολυμμένα, ‘defiled’. Since the verb  <span dir="rtl">פג
 
 
 <b>A.2</b>  The Peshitta has no reference to soup or broth and may therefore have been endeavouring to render the Ketiv. But, apart from its use of 
-<span dir="rtl">ܡܐ̈ܢܝܗܘܢ</span> (<i>mʾnyhwn</i>), ‘their things’, for  <span dir="rtl">כליהם</span>, its choice of equivalents (‘profaning’, 
+<span dir="rtl">ܡܐ̈ܢܝܗܘܢ</span> (<i>mʾnyhwn</i>), ‘their things’, for  <span dir="rtl">כליהם</span>, its choice of equivalents (‘polluted’, 
 if <span dir="rtl">ܡ݁ܛܘܫܝܢ</span> [<i>mṭwšyn</i>]
-is from <span dir="rtl">ܛܘܫ</span> [<i>ṭwš</i>], and ‘with corpses’ [presumably reading  <span dir="rtl">פגרים</span> for  <span dir="rtl">פגלים</span>]) is
+is from <span dir="rtl">ܛܘܫ</span> [<i>ṭwš</i>], and ‘by corpses’ [presumably reading  <span dir="rtl">פגרים</span> for  <span dir="rtl">פגלים</span>]) is
 imprecise and probably based on guesswork inspired by a quest for a
 suitable parallel to ‘eating pig’s flesh’ in the previous stich (for the
 idea, cf. Num 19:14-15). There is no obvious etymological explanation for
 Pesh's understanding of <span dir="rtl">פרק</span> (or  <span dir="rtl">מרק</span>) as meaning ‘profaning’. It is of
 course possible that it got it from LXX’s μεμολυμμένα, not realizing
-that this was intended as the equivalent of <span dir="rtl">פגלים</span> rather than
-<span dir="rtl">פרק</span>/<span dir="rtl">מ</span>, in
+that this was intended as the equivalent of <span dir="rtl">פגלים</span> rather than <span dir="rtl">פרק</span>/<span dir="rtl">מ</span>, in
 which case the rendering is of no relevance to the semantics of  <span dir="rtl">פרק</span>.
 
 ## 5. Lexical/Semantic Fields
@@ -130,8 +128,8 @@ which case the rendering is of no relevance to the semantics of  <span dir="rtl"
 Deut 14:8.
 
 
-<b>A.2</b>  Other materials which are said to be ‘in vessels’ (with  <span dir="rtl">ב</span>) are <span dir="rtl">חטאת</span>, ‘meat’
-(Lev 6:21), a  <span dir="rtl">מנחה</span> (Num 4:16; Isa 66:20), ingredients for making
+<b>A.2</b>  Other materials which are said to be ‘in vessels’ (with  <span dir="rtl">ב</span>) are meat (<span dir="rtl">חטאת</span>,
+Lev 6:21), a  <span dir="rtl">מנחה</span> (Num 4:16; Isa 66:20), ingredients for making
 bread (Ezek 4:9),  <span dir="rtl">קיץ</span> (Jer 40:10), incense (Num 4:16), a mixture of
 solids and liquids (Gen 43:11, but the sense of  <span dir="rtl">כלים</span> may be ‘baggage’),
 water (Num 5:17 [<span dir="rtl">מים קדשׁים</span>]; 1 Kgs 17:10), wine (Est 1:7; Jer 40:10),
@@ -163,7 +161,9 @@ without flesh on them, and the placement after
 <span dir="rtl">עצם</span> 
 (cf. Syntagmatics)
 points to ‘smaller bones, joints’ being meant. This fits a use of  <span dir="rtl">פֶּרֶק</span> in later Heb. (see <span dir="rtl">פֶּרֶק</span>: Root and Etymology A.5), to which there are
-possible parallels in Syriac (cf. ibid., A.7). The BHeb. word  <span dir="rtl">מפרקת</span> (q.v.),
+possible parallels in Syriac (cf. ibid., A.7). The BHeb. word
+<a href="/words/mapreqeth"><span dir="rtl" lang="he">מפרקת</span></a>
+(q.v.),
 ‘neck(-bone)’, may also be connected with this, in view of the
 neck-bone’s composition from several small bones
 (vertebrae).
@@ -206,7 +206,7 @@ John Goldingay, <i>Isaiah 56-66</i> (ICC), London: Bloomsbury T&T Clark.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Marti 1900 <br>
-Karl Marti, <i>Jesaja</i> (KHAT), Tübingen: Mohr Siebeck.
+Karl Marti, <i>Jesaja</i> (KHAT), Tübingen: J.C.B. Mohr (Paul Siebeck).
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">

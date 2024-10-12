@@ -1032,9 +1032,9 @@ Many thanks are due to Ben Haring and Rients de Boer (Leiden) for their valuable
 [^8]: IBoT 1, 31:1: SÍG ZA.GÍN SÍG SA<sub>5</sub> SÍG <i>ḪAŠ-MA-NU</i>. See Burgin 2022:40. The rendering in <i>CAD</i> U/W, 194 s.v. <i>uqnâtu</i>, omits SÍG between SA<sub>5</sub> and <i>ḫašmānu</i>, which results in the incorrect translation ‘blue wool, red <i>ḫašmānu</i>-wool’.
 [^9]: <i>ḪAŠ-MAN</i>(-<i>NI</i>); e.g.,   KBo 18.175a, KBo 18.181.  See Burgin 2022:242, 244, 334.
 [^10]: Adrados, <i>DGE</i> VII, 1419; <i>GELS</i>, 219.
-[^11]: Field<sup><span style="text-transform:uppercase;">ii</span></sup>, 204; Barthélemy 2005:459. For the interpretation of the Greek reading, see Barthélemy 2005:460.
+[^11]: Field II:204; Barthélemy 2005:459. For the interpretation of the Greek reading, see Barthélemy 2005:460.
 [^12]: LSJ, 697.
-[^13]: Field<sup><span style="text-transform:uppercase;">ii</span></sup>, 204; Barthélemy 2005:459.
+[^13]: Field II:204; Barthélemy 2005:459.
 [^14]: LSJ, 1462;  <i>GELS</i>, 582.
 [^15]: Payne Smith, <i>CSD</i>, 12. Sokoloff, <i>SLB</i>, 32-33.
 [^16]: For the readings, see Diez Merino 1982:416.

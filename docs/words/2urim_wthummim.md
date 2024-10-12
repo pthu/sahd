@@ -1262,7 +1262,7 @@ Many thanks are due to Johannes C. de Moor(<sup>†</sup>2023; professor emeritu
 [^21]: <i>DCH</i> viii:644-45.
 [^22]: See BL, 455, §61hʹ. Cf. the forms <span dir="rtl">עֻזִּי</span>, <span dir="rtl">עֻזֵּךְ</span>, etc.
 [^23]: Joüon-Muraoka, <i>GBH</i>, 241, §88.B.i. Cf. BL, 455, §61hʹ.
-[^24]: For αʹ, σʹ, and θʹ, see Field<sup><small>I</small></sup>, 133, 181, 259, 325, 537; Van Dam 1997:84.
+[^24]: For αʹ, σʹ, and θʹ, see Field I:133, 181, 259, 325, 537; Van Dam 1997:84.
 [^25]: <i>GELS</i>, 146.
 [^26]: <i>GELS</i>, 147.
 [^27]: <i>GELS</i>, 164.

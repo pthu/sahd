@@ -212,7 +212,7 @@ Prov 31:19<sup><small>LXX</small></sup>;
 2 Sam 3:29<sup><small>LXX</small></sup>.
 
 [^8]: LSJ, 272; <i>GELS</i>, 101.
-[^9]: Field<sup><small>I</small></sup>, 552. 
+[^9]: Field I:552. 
 [^10]: LSJ, 1617; <i>GELS</i>, 628.
 
 <b>b.  Peshitta (Pesh):</b>  

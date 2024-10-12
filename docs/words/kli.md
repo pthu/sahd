@@ -676,19 +676,19 @@ is too paraphrastic to establish whether specific words represent Hebrew <span d
 
 <b>A.5</b>  Instead of the exceptional renderings of <span dir="rtl">כְּלִי</span> in the LXX, α´σ´θ´ sometimes read a form of σκεῦος. The following examples are illustrative:<sup id="fnref:88"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:88')">88</a></sup>
 
-* In Gen 49:5, α´ has the awkward reading σκεύη ἀδικίας ἀνασκαφαὶ, ‘instruments of injustice (are their) excavations’ (Field<small><sup>I</sup></small>, 69;<sup id="fnref:89"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:89')">89</a></sup> 
+* In Gen 49:5, α´ has the awkward reading σκεύη ἀδικίας ἀνασκαφαὶ, ‘instruments of injustice (are their) excavations’ (Field I:69;<sup id="fnref:89"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:89')">89</a></sup> 
 LXX: συνετέλεσαν ἀδικίαν ἐξαιρέσεως /ἐξ αἱρέσεως αὐτῶν);
-* In Deut 23:26/24:2 (23:25<small><sup>MT</sup></small>), α´ reads σκεύη  (Field<small><sup>I</sup></small>, 308; LXX: ἄγγος);
-* In 1 Sam 17:40, α´ σ´θ´ read σκεύει  (Field<small><sup>I</sup></small>, 517; LXX: καδίῳ);
-* In 1 Sam 21:5 (21:6<small><sup>MT</sup></small>), α´θ´ translate <span dir="rtl">כלי הנערים</span> by τὰ σκεύη τῶν παιδαρίων (Field<small><sup>I</sup></small>, 525;
+* In Deut 23:26/24:2 (23:25<small><sup>MT</sup></small>), α´ reads σκεύη  (Field I:308; LXX: ἄγγος);
+* In 1 Sam 17:40, α´ σ´θ´ read σκεύει  (Field I:517; LXX: καδίῳ);
+* In 1 Sam 21:5 (21:6<small><sup>MT</sup></small>), α´θ´ translate <span dir="rtl">כלי הנערים</span> by τὰ σκεύη τῶν παιδαρίων (Field I:525;
 LXX: πάντα τὰ παιδάρια);
-* In Isa 13:5, σ´ translates <span dir="rtl">כלי זעמו</span> by σκεύη ὀργῆς αὐτοῦ (Field<small><sup>II</sup></small>, 454; LXX: οἱ ὁπλομάχοι αὐτοῦ);
-* In Isa 18:2, <span dir="rtl">כלי גמא</span> is translated by ἐν σκεύεσι βιβλίου (α´), by διὰ σκευῶν παπυρίνων (σ´), or by ἐν σκεύεσι παπύρου (θ´); see Field<small><sup>II</sup></small>, 461. LXX reads ἐπιστολὰς βυβλίνας;
-* In Isa 61:10, α´σ´ read forms of σκεῦος (Field<small><sup>II</sup></small>, 555; LXX: κόσμῳ);
-* In Isa 66:20, σ´ translates <span dir="rtl">בכלי טהור</span> by ἐν σκεύει καθαρῷ  (Field<small><sup>II</sup></small>, 566; LXX: μετὰ ψαλμῶν);
-* In Jer 32:20 (25:34<small><sup>MT</sup></small>), α´σ´ translate <span dir="rtl">ככלי חמדה</span>by ὡς σκεῦος ἐπιθυμητόν (Field<small><sup>II</sup></small>, 641; LXX: ὥσπερ οἱ κριοὶ οἱ ἐκλεκτοί);
-* In Ezek 9:2, α´σ´ translate <span dir="rtl">כלי מפצו</span> by σκεῦος διασκορπισμοῦ αὐτοῦ (Field<small><sup>II</sup></small>, 790; LXX: πέλυξ);
-* In Ezek 32:27, α´σ´θ´ read σκεύεσι (Field<small><sup>II</sup></small>, 859; LXX: ὅπλοις). 
+* In Isa 13:5, σ´ translates <span dir="rtl">כלי זעמו</span> by σκεύη ὀργῆς αὐτοῦ (Field II:454; LXX: οἱ ὁπλομάχοι αὐτοῦ);
+* In Isa 18:2, <span dir="rtl">כלי גמא</span> is translated by ἐν σκεύεσι βιβλίου (α´), by διὰ σκευῶν παπυρίνων (σ´), or by ἐν σκεύεσι παπύρου (θ´); see Field II:461. LXX reads ἐπιστολὰς βυβλίνας;
+* In Isa 61:10, α´σ´ read forms of σκεῦος (Field II:555; LXX: κόσμῳ);
+* In Isa 66:20, σ´ translates <span dir="rtl">בכלי טהור</span> by ἐν σκεύει καθαρῷ  (Field II:566; LXX: μετὰ ψαλμῶν);
+* In Jer 32:20 (25:34<small><sup>MT</sup></small>), α´σ´ translate <span dir="rtl">ככלי חמדה</span>by ὡς σκεῦος ἐπιθυμητόν (Field II:641; LXX: ὥσπερ οἱ κριοὶ οἱ ἐκλεκτοί);
+* In Ezek 9:2, α´σ´ translate <span dir="rtl">כלי מפצו</span> by σκεῦος διασκορπισμοῦ αὐτοῦ (Field II:790; LXX: πέλυξ);
+* In Ezek 32:27, α´σ´θ´ read σκεύεσι (Field II:859; LXX: ὅπλοις). 
 
 <b>A.6</b> Discussion:  
 
