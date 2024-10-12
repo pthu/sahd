@@ -163,4 +163,4 @@ Moshe A. Zipor, ‘<span dir="rtl">עֹרֶף</span>’, <i>TDOT</i> 11:366-71.
 
 ## Notes 
 
-[^1]: Field<small><sup>I</sup></small>, 494.
+[^1]: Field I:494.

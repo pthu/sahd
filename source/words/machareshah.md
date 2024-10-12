@@ -847,14 +847,14 @@ Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amste
 [^31]: This  form is proposed in <i>DCH</i> v:229.
 [^32]: Adrados, <i>DGE</i>, 1167; LEH<sup><small>1</small></sup>, 121;  <i>GELS</i>, 178.
 [^33]: LSJ, 1849; Montanari, <i>BDAG</i>, 2184.
-[^34]: Field<sup><small><span style="text-transform:uppercase;">i</span></small></sup>, 507-08.
-[^35]: Field<sup><small><span style="text-transform:uppercase;">i</span></small></sup>, 507.
-[^36]: Field<sup><small><span style="text-transform:uppercase;">i</span></small></sup>, 508.
+[^34]: Field I:507-08.
+[^35]: Field I:507.
+[^36]: Field I:508.
 [^37]: <i>GELS</i>, 328,  with reference to Van der Meer 2008:592-96. In all the other verses (Gen 24:65; 38:14, 19; Isa 3:23; Song 5:7), θέριστρον  is translated as ‘light summer garment’ or ‘veil’. 
 [^38]: LSJ, 793; <i>GELS</i>, 328.
 [^39]: Fernández Marcos & Busto Saiz 1989:36; Taylor 1992:42.
 [^40]: LSJ, 430; Montanari, <i>BDAG</i>, 530.  Adrados, <i>DGE</i>, 1094:1) ‘<i>azada de dos puntas, laya</i>’, 2) ‘<i>piqueta, azuela</i> para demolición’.
-[^41]: Field<sup><small><span style="text-transform:uppercase;">i</span></small></sup>, 507-08.
+[^41]: Field I:507-08.
 [^42]: Adrados, <i>DGE</i>, 521; LEH<sup><small>1</small></sup>, 62; <i>GELS</i>, 92.
 [^43]: LEH<sup><small>1</small></sup>, 204.
 [^44]: <i>GELS</i>, 328.

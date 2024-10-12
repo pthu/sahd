@@ -155,7 +155,7 @@ protection from enemies (cf. the use of  <span dir="rtl">עזר</span> +  <span 
 
 
 
-## 4. Ancient Versions:
+## 4. Ancient Versions
 
 <b>a. Septuagint (LXX):</b>
 Septuagint (LXX) and other Greek translations (αʹ, etc.):[^1]
@@ -524,7 +524,7 @@ Philadelphia: SBL.
 
 
 
-[^1]: The readings differing from LXX (αʹ, “other”) are given according to Field<small><sup>I</sup></small> and Field<small><sup>II</sup></small>. The references without sigla are to LXX. 
+[^1]: The readings differing from LXX (αʹ, “other”) are given according to Field I and II. The references without sigla are to LXX. 
 
 
 ## Notes

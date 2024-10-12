@@ -288,7 +288,7 @@ walled city’ (Lev 25:30); אָח (from v. 47), ‘brother’ (Lev 25:49 [+ <sp
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ):</b>[^3]
 
-[^3]: The three versions Aquila (αʹ), Symmachus (σʹ), and Theodotion (θʹ) are given according to Field<sup>I</sup> and Field<sup>II</sup>. Their testimony is indicated by their sigla (if applicable including a reference to LXX). In all the other cases the textual references are to the LXX. The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>, <i>s.v.</i>
+[^3]: The three versions Aquila (αʹ), Symmachus (σʹ), and Theodotion (θʹ) are given according to Field I and II. Their testimony is indicated by their sigla (if applicable including a reference to LXX). In all the other cases the textual references are to the LXX. The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>, <i>s.v.</i>
 
 Qal:  
 
