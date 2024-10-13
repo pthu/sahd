@@ -6,7 +6,7 @@ title:
 semantic_fields:   
 contributors: graham_i._davies      
 first_published: 2010-07-31   
-last_update: 2024-08-15 Paul Sanders   
+last_update: 2024-08-15   
 update_info:  
 additional_info:   
 

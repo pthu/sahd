@@ -26,50 +26,54 @@ http://aisg.cise.unipi.it/Materia-giudaica-2018/033-Zatelli%20pp%20505-508.pdf
 ### Articles
 
 * See also the articles in <i>Zeitschrift für Althebräistik</i> 6/1 (1993) and 7/1 (1994)
+
+<b>James K. Aitken:</b>
+
 * ‘Lexical semantics and the cultural context of knowledge in Job 28, illustrated by the meaning of <i>ḥāqar’</i>, 
-in: Ellen van Wolde (ed.), <i>Job 28: Cognition in Context</i> (BibInt.S, 64), Leiden: Brill, 2003, 119-138.
+in: Ellen van Wolde (ed.), <i>Job 28: Cognition in Context</i> (BibInt.S, 64), Leiden: Brill, 2003, 119-38.
 * ‘The Semantics of “Glory” in Ben Sira – Traces of a development in post-Biblical Hebrew?’, in: Takamitsu Muraoka and John F. Elwolde (eds.),
  <i>Sirach, Scrolls and Sages: Proceedings of a Second International Symposium on the Hebrew of the Dead Sea Scrolls, 
  Ben Sira and the Mishnah, held at Leiden University, 15-17 December 1997</i> 
  (STDJ, 33), Leiden: Brill, 1999, 1-24.
-* !CHECK! Entries on <i>derek</i>, <i>mĕʾērāh</i>, <i>maʿgāl</i>, <i>mišʿōl</i>, <i>nāqar II</i>, and <i>qābab</i>, in: 
+* Entries on <i>derek</i>, <i>mĕʾērāh</i>, <i>maʿgāl</i>, <i>mišʿōl</i>, <i>nāqar II</i>, and <i>qābab</i>, in: 
 Takamitsu Muraoka (ed.), [<i>Semantics of Ancient Hebrew</i>](https://www.peeters-leuven.be/detail.php?search_key=9789042905924&series_number_str=6&lang=en) 
-(AbrNSup, 6), Leuven: Peeters, 1998, 11-37, 74-78, 79-85, 86-88, 101-105, 114-121.
+(AbrNSup, 6), Leuven: Peeters, 1998, 11-37, 74-78, 79-85, 86-88, 101-105, 114-21.
 
-<b>Dr. M. Di Giulio:</b>
+<b>Marco Di Giulio:</b>
 
-* ‘I segnali discorsivi in ebraico antico: esempi dal corpus biblico', in: A. Mengozzi (ed.), <i>Studi Afroasiatici: XI Incontro di Linguistica Camitosemitica, Bergamo 5-7 giugno 2003</i>, Milano: Angeli, 2005, 253-258.
-* ‘Classi e variazione d’uso nel paradigma degli aggettivi yph e n’ym: un esempio d’analisi semantica nei corpora dell’ebraico antico', 
-<i>Materia Giudaica</i> IX/1-2 (2004): 137-157.
+* ‘I segnali discorsivi in ebraico antico: esempi dal corpus biblico’, in: A. Mengozzi (ed.), <i>Studi Afroasiatici: XI Incontro di Linguistica Camitosemitica, Bergamo 5-7 giugno 2003</i>, Milano: Angeli, 2005, 253-58.
+* ‘Classi e variazione d’uso nel paradigma degli aggettivi yph e n’ym: un esempio d’analisi semantica nei corpora dell’ebraico antico’, 
+<i>Materia Giudaica</i> IX/1-2 (2004): 137-57.
 
-<b>Dr. Alison R. Gray:</b>
+<b>Alison R. Gray:</b>
 
-* Article ‘גאל’, <i>ThWQ</i> 1: 556-559.
+* Article ‘גאל’, <i>ThWQ</i> 1:556-59.
+* Article ‘פדה’, <i>ThWQ</i> 3:259-63.
 
 
-<b>Dr. Massimiliano Marrazza:</b>
+<b>Massimiliano Marrazza:</b>
 
-* 'Oppositions and Lexematic Functions of the Adjectives ŠMN, DŠN and BRYʾ (Positive Pole), and ʾMLL, ʾN(W)Š (Negative Pole) in the Lexical Fields of the Adjectives of ‘Health’ and ‘Illness’ in Ancient Hebrew', 
+* ‘Oppositions and Lexematic Functions of the Adjectives ŠMN, DŠN and BRYʾ (Positive Pole), and ʾMLL, ʾN(W)Š (Negative Pole) in the Lexical Fields of the Adjectives of ‘Health’ and ‘Illness’ in Ancient Hebrew’, 
 in: A. Mengozzi and M. Tosco (eds.), <i>Sound and Words through the Ages: Afroasiatic Studies from Turin</i>, 
-Alessandria: Edizioni dell'Orso, 2013, 323-337.
-* 'The Lexical Field of the Adjectives of ‘Health’ and ‘Illness’ in Ancient Hebrew: The Case of two Marginal Lexemes (ʾmll and ʾn(w)š) Inserted in the Negative Pole of Lexical Field', 
-<i>Materia Giudaica</i> XIX/1-2 (2014): 549-555.
-* 'Some Remarks on the Lexematic Function of the Adjectives ḥlh and šlm in Afroasiatica Romana', 
-in: A. Agostini and M.G. Amadasi Guzzo (eds.), <i>Proceedings of the 15th Meeting of Afro-Asiatic Linguistics, 17-19 September 2014, Rome</i> (Quaderni di Vicino Oriente, 12), Sapienza Università di Roma, 2017, 163-173.
+Alessandria: Edizioni dell’Orso, 2013, 323-37.
+* ‘The Lexical Field of the Adjectives of ‘Health’ and ‘Illness’ in Ancient Hebrew: The Case of two Marginal Lexemes (ʾmll and ʾn(w)š) Inserted in the Negative Pole of Lexical Field’, 
+<i>Materia Giudaica</i> XIX/1-2 (2014): 549-55.
+* ‘Some Remarks on the Lexematic Function of the Adjectives ḥlh and šlm in Afroasiatica Romana’, 
+in: A. Agostini and M.G. Amadasi Guzzo (eds.), <i>Proceedings of the 15th Meeting of Afro-Asiatic Linguistics, 17-19 September 2014, Rome</i> (Quaderni di Vicino Oriente, 12), Sapienza Università di Roma, 2017, 163-73.
 
-<b>Dr. Alison Salvesen:</b>
+<b>Alison Salvesen:</b>
 
-* 'Royal Family', in: B.T. Arnold and H.G.M. Williamson (eds.), <i>The Dictionary of the Old Testament: Historical Books</i>, 
+* ‘Royal Family’, in: B.T. Arnold and H.G.M. Williamson (eds.), <i>The Dictionary of the Old Testament: Historical Books</i>, 
 Issaquah, WA: IVPress, 2005, 845-50.
 * Entries on “footstool”, “throne”, “consecration”, “crown”, “diadem”, “staff”, and “sceptre”, 
 in: Takamitsu Muraoka (ed.), [<i>Semantics of Ancient Hebrew</i>](https://www.peeters-leuven.be/detail.php?search_key=9789042905924&series_number_str=6&lang=en) 
 (AbrNSup, 6), Leuven: Peeters, 1998, 38-73, 89-100, 106-13, 122-36.
-* 'The Trappings of Royalty in Ancient Hebrew,' in: J. Day (ed.), 
+* ‘The Trappings of Royalty in Ancient Hebrew’, in: J. Day (ed.), 
 <i>King and Messiah in Ancient Israel: Papers from the Oxford Old Testament Seminar</i>, 
 Sheffield: Sheffield Academic Press, 1998, 119-41.
-* 'Keter – Something to do with a Camel?', <i>JSS </i>44 (1999): 35-46.
+* ‘Keter – Something to do with a Camel?’, <i>JSS </i>44 (1999): 35-46.
 
-<b>Dr. M. Patrizia Sciumbata:</b>
+<b>M. Patrizia Sciumbata:</b>
 
 * ‘Diachronic Change in Ancient Hebrew: a Lexical Test-Case’, 
 in: A. Mengozzi (ed.), <i>Studi Afroasiatici: XI Incontro di Linguistica Camitosemitica, Bergamo 5-7 giugno 2003</i>, Milano: Angeli, 2005, 259-68.
@@ -81,14 +85,14 @@ in: A. Mengozzi (ed.), <i>Studi Afroasiatici: XI Incontro di Linguistica Camitos
 <i>Rivista Biblica Italiana</i> XLIV (1996): 3-29.
 * ‘Peculiarità e motivazioni della struttura lessicale dei verbi della ‘conoscenza’ in Qohelet. Abbozzo di una storia dell’epistemologia ebraico-biblica’, 
 <i>Henoch</i> 18 (1996): 235-49.
-* !CHECK! ‘Gli usi e i valori di hkyr in Giobbe: un contributo dell’ analisi paradigmatica alla datazione della lingua del testo’, 
+* ‘Gli usi e i valori di hkyr in Giobbe: un contributo dell’ analisi paradigmatica alla datazione della lingua del testo’, 
 <i>Quaderni del Dipartimento di Linguistica – Università di Firenze</i> 7 (1996): 213–25.
 
-<b>Dr. Peter J. Williams:</b>
+<b>Peter J. Williams:</b>
 
 - ‘The Difference between the Roots <i>mlṭ</i> and <i>plṭ</i>’, <i>ZAW</i> 114 (2002): 438-42.
 
-<b>Prof. I. Zatelli:</b>
+<b>Ida Zatelli:</b>
 
 * ‘The Study of Ancient Hebrew Lexicon. Application of the concepts of lexical field and functional language’, 
-<i>Kleine Untersuchungen zur Sprache des Alten Testaments und seiner Umwelt</i> 5 (2004): 129-159.
+<i>Kleine Untersuchungen zur Sprache des Alten Testaments und seiner Umwelt</i> 5 (2004): 129-59.

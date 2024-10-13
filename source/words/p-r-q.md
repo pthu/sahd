@@ -6,7 +6,7 @@ title: to pull off, tear away
 semantic_fields: deliverance  
 contributors: graham_i._davies      
 first_published: 2010-07-31   
-last_update: 2024-08-13 (Paul Sanders)  
+last_update: 2024-08-13  
 update_info:  
 additional_info:   
 

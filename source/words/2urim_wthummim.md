@@ -6,7 +6,7 @@ title: Urim and Thummim
 semantic_fields: utensils, cult, divination  
 contributors: kees_den_hertog, paul_sanders   
 first_published: 2022-08-02  
-last_update: 2024-05-30   
+last_update: 2024-09-30   
 contributors_footnote: Many thanks are due to Johannes C. de Moor(<sup>†</sup>2023; professor emeritus Protestant Theological University, Kampen) for his valuable suggestions.   
 update_info:  
 additional_info: 
