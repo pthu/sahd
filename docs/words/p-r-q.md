@@ -10,7 +10,7 @@
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Graham I. Davies](../contributors/graham_i._davies.md)<br>
-First published: 2010-07-31<br>Last update: 2024-08-13 (Paul Sanders) <br>Citation: Graham I. Davies, פרק <i>pāraq</i> – to pull off, tear away, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
+First published: 2010-07-31<br>Last update: 2024-08-13 <br>Citation: Graham I. Davies, פרק <i>pāraq</i> – to pull off, tear away, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2010 (update: 2024)
 
 
 For a discussion of the lexical field ‘Deliverance’ as a whole, see on this site the <a href="/miscellaneous/overview_deliverance/">Overview

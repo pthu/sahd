@@ -10,7 +10,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Cult](../semantic_fields/cult.md)&nbsp;&nbsp;&nbsp;[Divination](../semantic_fields/divination.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Kees den Hertog](../contributors/kees_den_hertog.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
-First published: 2022-08-02<br>Last update: 2024-05-30 <br>Citation: Kees den Hertog,&nbsp;Paul Sanders, אוּרִים וְתֻמִּים <i>ʾūrīm w<small><sup>e</sup></small>ṯummīm</i> – Urim and Thummim, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2022 (update: 2024)
+First published: 2022-08-02<br>Last update: 2024-09-30 <br>Citation: Kees den Hertog,&nbsp;Paul Sanders, אוּרִים וְתֻמִּים <i>ʾūrīm w<small><sup>e</sup></small>ṯummīm</i> – Urim and Thummim, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2022 (update: 2024)
 
 
 ##<span id="I">Introduction</span>

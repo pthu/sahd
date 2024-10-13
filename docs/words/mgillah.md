@@ -226,7 +226,10 @@ each of which is read during one of the Jewish religious festivals. Because of t
 
 ###<span id="Exe-ico">6.2 Pictorial Material</span>
 
-\[Pictorial material will be added later.]
+See, e.g., 
+<a href="https://www.deadseascrolls.org.il/featured-scrolls" target="_blank" rel="noopener noreferrer">www.deadseascrolls.org.il</a>
+and
+<a href="http://dss.collections.imj.org.il" target="_blank" rel="noopener noreferrer">dss.collections.imj.org.il</a>.
 
 ###<span id="Exe-ar">6.3 Archaeology</span>
 
