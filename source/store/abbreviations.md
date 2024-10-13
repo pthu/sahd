@@ -1,4 +1,4 @@
-# Abbreviations Biblical Books
+## 	Abbreviations Biblical Books
 
 Most abbreviations of series, handbooks and journals used in
 this database are according to:
