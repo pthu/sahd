@@ -4,7 +4,7 @@
 
 We welcome your input!
 
-As you may have noticed, the documents follow certain strict format:
+As you may have noticed, the entries follow the following format:
 
 	Introduction
 	1. Root and Comparative Material
@@ -16,34 +16,7 @@ As you may have noticed, the documents follow certain strict format:
 	7. Conclusion
 	Bibliography
 
-Read [H.G.M. Williamson’s description of the SAHD-approach](/Williamson-Semantics_and_Lexicography.pdf/){target=_blank} (2015). To make your contribution we ask you to upload a Word document that follows this format.  You don't need to have it complete, just fill in the parts that you have.
-<div class="container" xmlns="http://www.w3.org/1999/html">
-    <h1></h1>
-    <form target="_self" action="https://formsubmit.co/vesaakerman@gmail.com" method="POST" enctype="multipart/form-data">
-        <div class="form-group">
-            <div class="form-row">
-                <label>Contributors:
-                    <input type="text" name="name" class="form-control" placeholder="Full names" required>
-                </label>
-            </div>
-            <div class="form-row">
-                <label>Email address:
-                    <input type="email" name="email" class="form-control" placeholder="Email address" required>
-                </label>
-            </div>
-            <div class="form-row">
-                <label>Document:
-                    <input type="file" name="attachment" accept="application/msword, application/vnd.openxmlformats-officedocument.wordprocessingml.document" required>
-                </label>
-            </div>
-            <div class="form-row">
-                <label>Additional information:
-                    <textarea placeholder="Your Message" class="form-control" name="message" rows="3" cols="95"></textarea>
-                </label>
-            </div>
-        </div>
-        <input type="hidden" name="_autoresponse" value="Thank you for your submission!"/>
-        <input type="hidden" name="_next" value="http://localhost:8000"/>
-        <button type="submit" class="button">Submit</button>
-    </form>
-</div>
+For more about the content of the sections, read [H.G.M. Williamson’s description of the SAHD-approach](/Williamson-Semantics_and_Lexicography.pdf/){target=_blank} (2015).
+
+We ask you to send a Word document of your contribution to [psanders@pthu.nl](mailto:psanders@pthu.nl). Also contributions with only part of the sections are welcome!
+
