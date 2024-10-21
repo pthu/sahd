@@ -35,8 +35,7 @@ and Laser (1968:55 figures 11, 12).
 
 ![EL](../photos/Barrakib.jpeg)    
 
-King Bar-Rakib with his secretary, Zincirli, ca. 730 BCE
-
+King Bar-Rakib with his secretary, Zincirli, ca. 730 BCE   
 <a href="https://commons.wikimedia.org/wiki/File:Relief_of_king_Barrakib_from_Zincirli_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg" target="_blank" rel="noopener noreferrer">https://commons.wikimedia.org/wiki/</a>
 
 <b>A.4</b> Footstools were not luxury items in themselves. Lists from Alalakh demonstrate that they could be ordinary items of household furniture (Baker 1966:208), though Wyatt (1983:275) believes that even here they may have cultic connotations.
@@ -69,6 +68,7 @@ Metzger 1985 <br>
 Martin Metzger, <i>Köningsthron unf Gottesthron: Thronformen und Throndarstellungen in Ägypten und im Vorderen Orient im dritten und zweiten Jahrtausend vor Christus und deren Bedeutung für das Verständnis von Aussagen über den Thron im Alten Testament</i> 
 (AOAT, 15/1), 2 vols., Butzon & Berger: Kevelaer; Neukirchen-Vluyn: Neukirchener.
 </div>
+
 <div style="padding-left: 22px; text-indent: -22px;">
 Wyatt 1983 <br>
 Nick Wyatt,
