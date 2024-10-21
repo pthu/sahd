@@ -1,6 +1,6 @@
 # Bob E.J.H. Becking
 
-Webpage: [https://www.researchgate.net/profile/Johannes-De-Moor](https://www.researchgate.net/profile/Johannes-De-Moor){target=_blank}
+Webpage: [https://uu.academia.edu/BobBecking](https://uu.academia.edu/BobBecking){target=_blank}
 
 
 ![bob becking](../photos/bob_becking.jpg "Bob Becking"	)
