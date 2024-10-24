@@ -43,6 +43,9 @@ King Bar-Rakib with his secretary, Zincirli, ca. 730 BCE
 
 ##Conclusion
 
+See also the entry <a href="/words/kisse2/"><span dir="rtl" lang="he">כִּסֵּא</span>, ‘throne’</a>.
+
+
 Although footrests undoubtedly existed all over the ancient Near East, the use of <span dir="rtl">הֲדֹם</span> in Ancient Hebrew is solely metaphorical, conveying the idea of obeisance and submission. It is symbolic of the conquest of one’s enemies on the one hand (Ps  110), and of the place where Yahweh is worshipped as sovereign on the other.
 
 
@@ -50,6 +53,7 @@ Although footrests undoubtedly existed all over the ancient Near East, the use o
 ‘<span dir="rtl">הֲדֹם</span>’, in:
 T. Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> 
 (AbrNSup, 6), Leuven: Peeters, 1998, 38-43 (<a href="/store/printed_publications/">Printed publications</a>).</b>
+
 
 ## Bibliography
 
@@ -66,13 +70,13 @@ Siegfried Laser, ‘Hausrat’, <i>Archaeologia Homerica</i>, vol. P (eds. F. Ma
 <div style="padding-left: 22px; text-indent: -22px;">
 Metzger 1985 <br>
 Martin Metzger, <i>Köningsthron unf Gottesthron: Thronformen und Throndarstellungen in Ägypten und im Vorderen Orient im dritten und zweiten Jahrtausend vor Christus und deren Bedeutung für das Verständnis von Aussagen über den Thron im Alten Testament</i> 
-(AOAT, 15/1), 2 vols., Butzon & Berger: Kevelaer; Neukirchen-Vluyn: Neukirchener.
+(AOAT, 15), 2 vols., Butzon & Berger: Kevelaer; Neukirchen-Vluyn: Neukirchener.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Wyatt 1983 <br>
-Nick Wyatt,
-‘The Stele of the Seated God from Ugarit’, <i>UF</i> 15:271-77.
+Nicolas Wyatt,
+‘The Stela of the Seated God from Ugarit’, <i>UF</i> 15:271-77.
 </div>
 
 
