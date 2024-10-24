@@ -8,4 +8,4 @@ Webpage: <a href="https://www.ames.ox.ac.uk/people/alison-g-salvesen" target="bl
 ![alison salvesen](../images/photos/alison_salvesen.jpg "Alison Salvesen")
 
 ### Contributions
-[הֲדֹם – footstool](../words/hadom.md)<br>
+[הֲדֹם – footstool](../words/hadom.md)<br>[כִּסֵּא – throne](../words/kisse2.md)<br>

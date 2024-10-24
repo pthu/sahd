@@ -4,4 +4,4 @@
 
 
 ### Related words
-[הֲדֹם – footstool](../words/hadom.md)<br>
+[הֲדֹם – footstool](../words/hadom.md)<br>[כִּסֵּא – throne](../words/kisse2.md)<br>
