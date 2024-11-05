@@ -101,6 +101,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://pthu.github.io/sahd/editorial_board/marilyn_burton/</loc>
+         <lastmod>2024-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://pthu.github.io/sahd/editorial_board/marjo_korpel/</loc>
          <lastmod>2024-11-05</lastmod>
          <changefreq>daily</changefreq>
@@ -187,6 +192,16 @@
     </url>
     <url>
          <loc>https://pthu.github.io/sahd/semantic_fields/gemstones/</loc>
+         <lastmod>2024-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pthu.github.io/sahd/semantic_fields/headdress/</loc>
+         <lastmod>2024-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pthu.github.io/sahd/semantic_fields/honour/</loc>
          <lastmod>2024-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -292,6 +307,11 @@
     </url>
     <url>
          <loc>https://pthu.github.io/sahd/words/2urim_wthummim/</loc>
+         <lastmod>2024-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pthu.github.io/sahd/words/3atarah/</loc>
          <lastmod>2024-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
