@@ -20,8 +20,8 @@ http://aisg.cise.unipi.it/Materia-giudaica-2018/033-Zatelli%20pp%20505-508.pdf</
 * James K. Aitken,
 [<i>The Semantics of Blessing and Cursing in Ancient Hebrew</i>](https://www.peeters-leuven.be/detail.php?search_key=9789042918962&series_number_str=23&lang=en) 
 (ANESSup, 23), Leuven: Peeters, 2007.
-* John E. Hartley:
-[<i>The Semantics of Ancient Hebrew Colour Lexemes</i>](https://www.peeters-leuven.be/detail.php?search_key=9789042923119&series_number_str=33&lang=en) (ANESSup, 33), Louvain: Peeters, 2010.
+* John E. Hartley,
+[<i>The Semantics of Ancient Hebrew Colour Lexemes</i>](https://www.peeters-leuven.be/detail.php?search_key=9789042923119&series_number_str=33&lang=en) (ANESSup, 33), Leuven: Peeters, 2010.
 
 
 ### Articles

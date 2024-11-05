@@ -50,6 +50,7 @@ nav:
                 - נָבִיא/נְבִיאָה - prophet(ess): words/nabi2.md
             - ע:
                 - עֶזְרָה - help: words/3ezrah.md
+                - עֲטָרָה - wreath, crown: words/3atarah.md
             - פ:
                 - פדה - to liberate: words/p-d-h.md
                 - פְּדוּיִם - redemption price: words/pduyim.md
@@ -86,6 +87,8 @@ nav:
             - Divination: semantic_fields/divination.md
             - Food Preparation: semantic_fields/food preparation.md
             - Gemstones: semantic_fields/gemstones.md
+            - Headdress: semantic_fields/headdress.md
+            - Honour: semantic_fields/honour.md
             - Kingship: semantic_fields/kingship.md
             - Knowledge: semantic_fields/knowledge.md
             - Light: semantic_fields/light.md
@@ -116,6 +119,7 @@ nav:
             - Bertus van ’t Veld: contributors/bertus_van_’t_veld.md
             - Klaas R. Veenhof: contributors/klaas_r._veenhof.md
     - Editorial board:
+            - Marilyn Burton: editorial_board/marilyn_burton.md
             - Raymond de Hoop: editorial_board/raymond_de_hoop.md
             - Marjo Korpel: editorial_board/marjo_korpel.md
             - Kurtis Peters: editorial_board/kurtis_peters.md

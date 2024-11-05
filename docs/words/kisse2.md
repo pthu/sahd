@@ -48,12 +48,19 @@ Occurrences: 135x HB (4/85/46); 5x Sir; 25x Qum; 0x inscr. (Total:
 ##Art and Archaeology
 
 <b>A.1</b> 
-Thrones are very frequently represented in the Ancient Near East, especially in Egyptian and Assyrian art, and these represent the two main styles. For thrones of approximately biblical date and provenance, see Broshi (1962:219-20): an Egyptian-style round-backed throne flanked by sphinxes, found in Israel, and the similar one on the Ahiram sarcophagus (also <i>ANEP</i> 458). Metzger (1985:II, figure 271A) provides a drawing of a throne with lion figures on the arm rests, belonging to Rameses III. There is an Assyrian-style throne with cedar cone feet, scroll work on stretcher, and straight backrest on the Bar-Rakib stele (<i>ANEP</i> 460). See also Keel (1977, figures 111, 113, 114, 115).
+Thrones are very frequently represented in the Ancient Near East, especially in Egyptian and Assyrian art, and these represent the two main styles. For thrones of approximately biblical date and provenance, see Broshi (1962:219-20): an Egyptian-style round-backed throne flanked by sphinxes, found in Israel, and the similar one on the Ahiram sarcophagus (see below and <i>ANEP</i> 458). Metzger (1985:II, figure 271A) provides a drawing of a throne with lion figures on the arm rests, belonging to Rameses III. There is an Assyrian-style throne with cedar cone feet, scroll work on stretcher, and straight backrest on the Bar-Rakib stele (<i>ANEP</i> 460). See also Keel (1977, figures 111, 113, 114, 115).
+
+![EL](../images/photos/Ahiram.jpg)
+
+Ahiram sarcophagus, Byblos, 10th cent. BCE?   
+<a href="https://en.m.wikipedia.org/wiki/File:Ahiram.jpg" target="_blank" rel="noopener noreferrer">https://en.m.wikipedia.org/wiki/</a>
+
 
 ![EL](../images/photos/Barrakib.jpeg)    
 
 King Bar-Rakib with his secretary, Zincirli, ca. 730 BCE   
 <a href="https://commons.wikimedia.org/wiki/File:Relief_of_king_Barrakib_from_Zincirli_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg" target="_blank" rel="noopener noreferrer">https://commons.wikimedia.org/wiki/</a>
+
 
 See also the following websites:    
 <a href="https://www.imj.org.il/en/collections/432048-0" target="_blank" rel="noopener noreferrer">https://www.imj.org.il/</a> (Megiddo 1300-1130 BCE)    
@@ -86,7 +93,7 @@ It is an expression used of both human kings and God, and is absolutely central 
 <b>For this entry, see further Alison Salvesen, 
 ‘<span dir="rtl">כִּסֵּא</span>’, in:
 T. Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> 
-(AbrNSup, 6), Leuven: Peeters, 1998, 44-65 (<a href="/store/printed_publications/">Printed publications</a>).</b>
+(AbrNSup, 6), Leuven: Peeters, 1998, 44-65, 146-47 (<a href="/store/printed_publications/">Printed publications</a>).</b>
 
 ## Bibliography
 

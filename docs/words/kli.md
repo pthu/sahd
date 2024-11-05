@@ -425,8 +425,8 @@ The prophet Hosea presents the idea the utensils can be plundered, Hos 13:15.
 ‘vessels of your household’, Gen 31:37.
 * <span dir="rtl">כְּלֵי יְהוָה</span>,
 ‘vessels of YHWH</span>’, Isa 52:11; see also the phrase
-<span dir="rtl">לי יהוה[<span dir="rtl">ת כ</span>]<span dir="rtl">ואקח משם א</span></span>,
- ‘I took from there the [vess]els of YHWH</span>’, in the Mesha Inscription (<i>KAI</i> 181:17-18).
+<i>wʾqḥ mšm ʾ</i>[<i>t k</i>]<i>ly yhwh</i>,
+‘I took from there the [ves]sels of YHWH</span>’, in the Mesha Inscription (<i>KAI</i> 181:17-18).
 * <span dir="rtl">עֲבוֹדָה</span>(<span dir="rtl">הָ</span>) <span dir="rtl">כְּלֵי</span>,
 ‘vessels of the (temple) service’, Exod 39:40; 
 Num 4:26; 1 Chron 9:28; 28:13, 14.
@@ -809,7 +809,7 @@ metaphors are clarified; and lastly, the text is expanded or altered.
 	* In Deut 23:25 (Tg<small><sup>PsJ</sup></small>) <span dir="rtl">כֶּלְיְךָ</span> is rendered as <span dir="rtl">צנך</span>, ‘your basket’, an object in which grapes can be gathered.
 	* In Isa 18:2 Tg<small><sup>J</sup></small> translates the combination <span dir="rtl">כְלֵי־גֹמֶא</span> with a single word: <span dir="rtl">דְּגוֹגִין</span>, ‘fisher boats’. 
 	* In the same way Tg<small><sup>N</sup></small> translates in Num 35:18 the combination <span dir="rtl">כְלִי עֵץ</span> with one word: <span dir="rtl">קֵיסָא</span>, ‘twig’.
-	* As a result of the context in Isa 61:10, Tg<small><sup>J</sup></small>provides the translation <span dir="rtl">בְתִקוּנַהָא</span>, ‘with her adornments’, for the Hebrew <span dir="rtl">כֵלֶיהָ</span>, the <span dir="rtl">ב</span> is added due to the verb.<sup id="fnref:138"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:138')">138</a></sup> In the MT a bride adorns herself with <span dir="rtl">כֵלֶיהָ</span>, jewelry is therefore a logical explanation by Tg.
+	* As a result of the context in Isa 61:10, Tg<small><sup>J</sup></small> provides the translation <span dir="rtl">בְתִקוּנַהָא</span>, ‘with her adornments’, for the Hebrew <span dir="rtl">כֵלֶיהָ</span>, the <span dir="rtl">ב</span> is added due to the verb.<sup id="fnref:138"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:138')">138</a></sup> In the MT a bride adorns herself with <span dir="rtl">כֵלֶיהָ</span>, jewelry is therefore a logical explanation by Tg.
 	* In Exod 35:22 (Tg<small><sup>PsJ</sup></small>) the word <span dir="rtl">כְּלִי</span> is rendered as <span dir="rtl">תַּכְשִׁיטָא</span>, ‘ornament’. In the text all sorts of jewelry are mentioned and therefore <span dir="rtl">כְּלִי</span> is translated as such.
 * Another translation technique of Tg is to clarify and specify abstract metaphors in the MT and translate those into concrete concepts. <span dir="rtl">כְּלִי</span> sometimes has a metaphorical use. The three occurrences in Isa 22:24 are translated in Tg<small><sup>J</sup></small> with the words <span dir="rtl">רַבָּא</span>, ‘master’, <span dir="rtl">כָּהֲנָא</span>, ‘priest’, and  <span dir="rtl">לויא</span>, ‘Levite’, in order to explain the text. In Jer 48:11 the two occurrences of a form of  <span dir="rtl">כְּלִי</span> are translated as <span dir="rtl">אַתְרָא</span>, ‘place’, to interpret the metaphor. It is complicated to derive the meaning of <span dir="rtl">כְּלִי</span> from the translations of those occurrences, because in those instances the metaphors are interpreted by Tg.
 * The exceptional renderings of <span dir="rtl">כְּלִי</span> can also be caused by the expansion or alteration of the text by the Targumim. These expansions are interpretations of the word <span dir="rtl">כְּלִי</span>:
