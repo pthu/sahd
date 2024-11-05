@@ -68,6 +68,7 @@
 
 ע
 עֶזְרָה : help : 3ezrah
+עֲטָרָה : wreath, crown : 3atarah
 
 פ
 פדה : to liberate : p-d-h
