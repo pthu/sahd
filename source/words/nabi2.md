@@ -138,7 +138,7 @@ the omission of the article -<span dir="rtl">ה</span>, ‘the’, and
 the defective spelling 
 <span dir="rtl">נבא</span> in the Lakish ostraca (see Introduction).
 See further Christopher Rollston's comments at 
-<a href="https://www.rollstonepigraphy.com/?m=201802" target="_blank" rel="noopener noreferrer">www.rollstonepigraphy.com</a>.
+<a href="www.rollstonepigraphy.com/?m=201802" target="_blank" rel="noopener noreferrer">www.rollstonepigraphy.com</a>.
  
 <b>B.1</b>  In Sir 49:9 Ben Hayyim reconstructs <span dir="rtl">נ̊[ב]י̊א̊</span> as a title for Job, where LXX does not mention a title and the <span dir="rtl">נ</span>,  <span dir="rtl">י</span> and  <span dir="rtl">א</span> are all
     unclear.
