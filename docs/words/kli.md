@@ -425,7 +425,7 @@ The prophet Hosea presents the idea the utensils can be plundered, Hos 13:15.
 ‘vessels of your household’, Gen 31:37.
 * <span dir="rtl">כְּלֵי יְהוָה</span>,
 ‘vessels of YHWH</span>’, Isa 52:11; see also the phrase
-<i>wʾqḥ mšm ʾ</i>[<i>t k</i>]<i>ly yhwh</i>,
+<span dir="rtl">ואקח משם א[ת כ]לי יהוה</span>,
 ‘I took from there the [ves]sels of YHWH</span>’, in the Mesha Inscription (<i>KAI</i> 181:17-18).
 * <span dir="rtl">עֲבוֹדָה</span>(<span dir="rtl">הָ</span>) <span dir="rtl">כְּלֵי</span>,
 ‘vessels of the (temple) service’, Exod 39:40; 

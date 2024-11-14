@@ -16,6 +16,7 @@ nav:
             - ב:
                 - בֶּקַע - beka: words/beqa3.md
                 - ברך - to bless: words/b-r-k_2.md
+                - בָּרָד - hail: words/barad.md
                 - בְּרָכָה - blessing: words/brakah.md
             - ג:
                 - גְּאוּלִים - redemption: words/g2ulim.md
@@ -98,6 +99,7 @@ nav:
             - Transport: semantic_fields/transport.md
             - Tribute: semantic_fields/tribute.md
             - Utensils: semantic_fields/utensils.md
+            - Weather: semantic_fields/weather.md
             - Weight: semantic_fields/weight.md
             - Writing: semantic_fields/Writing.md
     - Contributors:
@@ -115,6 +117,7 @@ nav:
             - Paul Sanders: contributors/paul_sanders.md
             - M. Patrizia Sciumbata: contributors/m._patrizia_sciumbata.md
             - Klaas A. D. Smelik: contributors/klaas_a._d._smelik.md
+            - Chiara Stornaiuolo: contributors/chiara_stornaiuolo.md
             - T. Jonathan Stökl: contributors/t._jonathan_stökl.md
             - Bertus van ’t Veld: contributors/bertus_van_’t_veld.md
             - Klaas R. Veenhof: contributors/klaas_r._veenhof.md
