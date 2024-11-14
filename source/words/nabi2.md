@@ -122,8 +122,19 @@ Vision of Gabriel: 15, 70.[^4] See also A.21 below.
     not to count the three attestations of  <span dir="rtl">נביא</span> contained in those
     verses as we cannot be sure how the author(s) would have phrased the
     relevant verses.
+ 
+<b>B.1</b>  In Sir 49:9 Ben Hayyim reconstructs <span dir="rtl">נ̊[ב]י̊א̊</span> as a title for Job, where LXX does not mention a title and the <span dir="rtl">נ</span>,  <span dir="rtl">י</span> and  <span dir="rtl">א</span> are all
+    unclear.
 
-<b>A.21</b> A partially preserved seal impression excavated in Jerusalem 
+<b>B.2</b>  Torczyner (Torczyner et al. 1938:138) and Gibson (1971:45-46) reconstruct
+<span dir="rtl">ה[נביא</span> in Lachish 6 (1.006.5 in <i>AHI-1</i>).
+While this reconstruction is theoretically possible, the now common reconstruction  <span dir="rtl">ה[שרים</span> appears better as it picks up the term  <span dir="rtl">שרים</span> already used in the letter.
+
+<b>B.3</b>  It is possible that the Lachish stamp seal 100.258.3 should be reconstructed to read  
+<span dir="rtl">הנבי[א]</span>.[^5] The name 
+<span dir="rtl">נבי</span> (Nobai) occurs three further times on Hebrew bullae as a patronym and is, according to Avigad, well attested in South-Arabic. It may also refer to the city <span dir="rtl">נֹב</span>. The other three bullae (all unprovenanced) are: 100.343.2; 100.785.2; 100.886.2.[^6]
+
+<b>B.4</b> A partially preserved seal impression excavated in Jerusalem 
 displays two damaged lines of text:
 [..]<span dir="rtl">לישעיה</span> and [..]<span dir="rtl">נבי</span>, with one or two letters missing at the end of each line.
 Eilat Mazar (2018) suggested that the seal impression, which had been found near a seal impression of King Hezekiah, belonged to the prophet Isaiah.
@@ -137,19 +148,11 @@ is uncertain in view of
 the omission of the article -<span dir="rtl">ה</span>, ‘the’, and
 the defective spelling 
 <span dir="rtl">נבא</span> in the Lakish ostraca (see Introduction).
+For alternative interpretations of <span dir="rtl">נבי</span>, see B.3.
 See further Christopher Rollston's comments at 
 <a href="http://www.rollstonepigraphy.com/?m=201802" target="_blank" rel="noopener noreferrer">www.rollstonepigraphy.com</a>.
- 
-<b>B.1</b>  In Sir 49:9 Ben Hayyim reconstructs <span dir="rtl">נ̊[ב]י̊א̊</span> as a title for Job, where LXX does not mention a title and the <span dir="rtl">נ</span>,  <span dir="rtl">י</span> and  <span dir="rtl">א</span> are all
-    unclear.
 
-<b>B.2</b>  Torczyner (Torczyner et al. 1938:138) and Gibson (1971:45-46) reconstruct
-<span dir="rtl">ה[נביא</span> in Lachish 6 (1.006.5 in <i>AHI-1</i>).
-While this reconstruction is theoretically possible, the now common reconstruction  <span dir="rtl">ה[שרים</span> appears better as it picks up the term  <span dir="rtl">שרים</span> already used in the letter.
 
-<b>B.3</b>  It is possible that the Lachish stamp seal 100.258.3 should be reconstructed to read  
-<span dir="rtl">הנבי[א]</span>.[^5] The name 
-<span dir="rtl">נבי</span> (Nobai) occurs three further times on Hebrew bullae as a patronym and is, according to Avigad, well attested in South-Arabic. It may also refer to the city <span dir="rtl">נֹב</span>. The other three bullae (all unprovenanced) are: 100.343.2; 100.785.2; 100.886.2.[^6]
 
 ### Qere/Ketiv:
 
