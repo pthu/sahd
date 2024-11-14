@@ -35,7 +35,7 @@ be confidently restored by comparison with 4Q386.
 ### Qere/Ketiv 
 
 In Isa 65:4  <span dir="rtl">ופרק</span> is the Ketiv, but the Qere is  <span dir="rtl">ומרק</span> and this
-is also the reading of 1QIsa<sup>a</sup>). 
+is also the reading of 1QIsa<sup>a</sup>. 
 <span dir="rtl">מָרַק</span> denotes broth (Judg 6:19-20;
 see further below on Versions and
 Exegesis). <i>BHS</i> retains the Ketiv, but the better attested Qere
@@ -115,7 +115,7 @@ is from <span dir="rtl">ܛܘܫ</span> [<i>ṭwš</i>], and ‘by corpses’ [pre
 imprecise and probably based on guesswork inspired by a quest for a
 suitable parallel to ‘eating pig’s flesh’ in the previous stich (for the
 idea, cf. Num 19:14-15). There is no obvious etymological explanation for
-Pesh's understanding of <span dir="rtl">פרק</span> (or  <span dir="rtl">מרק</span>) as meaning ‘profaning’. It is of
+Pesh's understanding of <span dir="rtl">פרק</span> (or  <span dir="rtl">מרק</span>) as meaning ‘polluted’. It is of
 course possible that it got it from LXX’s μεμολυμμένα, not realizing
 that this was intended as the equivalent of <span dir="rtl">פגלים</span> rather than <span dir="rtl">פרק</span>/<span dir="rtl">מ</span>, in
 which case the rendering is of no relevance to the semantics of  <span dir="rtl">פרק</span>.

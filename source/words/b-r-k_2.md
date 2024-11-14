@@ -69,7 +69,6 @@ The <i>piel</i> is found 233 times in HB and represents the declarative: ‘to b
 
 ## 6.2 Pictorial Material
 
-
 ![EL](../photos/EL.jpg)
 
 An Ugaritic deity, probably El, making a blessing gesture.

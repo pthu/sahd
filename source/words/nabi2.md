@@ -53,7 +53,11 @@ f7:1(=11Q14 f1i:9); 4Q292 f2:4; 4Q375 f1i:1, 4, 6; 4Q376 f1ii:4;
 f14-21:10(=4Q398 f14-17i:3), 15; 4Q408 f11:4; 4Q418 f221:2;
 4Q481a f2:4; 4Q504 f1-2Riii:13; 11Q5 22:5, 14; 28:8, 13; 11Q13
 2:15, 17; 11Q19 54:8, 11, 15; 61:2, 3, 4.
-* Inscr.: 1.003.20 (=Lak(6):1.3:20); 1.016.5 (=Lak(6):1.16:5); Vision of Gabriel: 15, 70.[^4]
+* Inscr.: 1.003.20 (Lak(6):1.3:20): 
+<span dir="rtl">הנבא</span>; 
+1.016.5 (Lak(6):1.16:5):
+<span dir="rtl">הנב֯א</span>; 
+Vision of Gabriel: 15, 70.[^4] See also A.21 below.
 
 
 ### Text Doubtful
@@ -119,6 +123,23 @@ f14-21:10(=4Q398 f14-17i:3), 15; 4Q408 f11:4; 4Q418 f221:2;
     verses as we cannot be sure how the author(s) would have phrased the
     relevant verses.
 
+<b>A.21</b> A partially preserved seal impression excavated in Jerusalem 
+displays two damaged lines of text:
+[..]<span dir="rtl">לישעיה</span> and [..]<span dir="rtl">נבי</span>, with one or two letters missing at the end of each line.
+Eilat Mazar (2018) suggested that the seal impression, which had been found near a seal impression of King Hezekiah, belonged to the prophet Isaiah.
+Although the reconstruction
+[<span dir="rtl">ו</span>]<span dir="rtl">לישעיה</span>, 
+‘(belonging) to Isaiah’,
+is probable, her reconstruction 
+<span dir="rtl">נבי[א]</span>, 
+‘prophet’,
+is uncertain in view of 
+the omission of the article -<span dir="rtl">ה</span>, ‘the’, and
+the defective spelling 
+<span dir="rtl">נבא</span> in the Lakish ostraca (see Introduction).
+See further Christopher Rollston's comments at
+<a href="www.rollstonepigraphy.com/?m=201802" target="_blank" rel="noopener noreferrer">www.rollstonepigraphy.com//</a>
+ 
 <b>B.1</b>  In Sir 49:9 Ben Hayyim reconstructs <span dir="rtl">נ̊[ב]י̊א̊</span> as a title for Job, where LXX does not mention a title and the <span dir="rtl">נ</span>,  <span dir="rtl">י</span> and  <span dir="rtl">א</span> are all
     unclear.
 
@@ -1508,6 +1529,12 @@ Carl Marti,  <i>Das Buch Jesaia erklärt</i> (Kurzer Hand-Commentar zum Alten Te
 Tübingen: Mohr Siebeck.
 </div>
 
+<div style="padding-left: 22px; text-indent: -22px;"> 
+Mazar 2018 <br>
+Eilat Mazar,
+‘Is this the Prophet Isaiah's Signature?’
+<i>BAR</i> 44/2-3 (March/April/May/June), 64-73, 92
+</div>
 
 <div style="padding-left: 22px; text-indent: -22px;"> McCarter 1980 <br>
 P. Kyle McCarter, <i>I Samuel: A New Translation, with Introduction, Notes and Commentary</i> (AB, 8), Garden City: Doubleday.
@@ -1613,12 +1640,6 @@ finnisch-ugrischen Parallelen’, <i>ZAW</i> 43:23-35.
 </div>
 
 
-<div style="padding-left: 22px; text-indent: -22px;"> Von Rad 1930 <br>
-Gerhard von Rad,  <i>Das Geschichtsbild des chronistischen Werkes</i> (BWANT, 54),
-Stuttgart: Kohlhammer.
-</div>
-
-
 <div style="padding-left: 22px; text-indent: -22px;"> Von Rad 1958 <br>
 Gerhard von Rad,  <i>Theologie des Alten Testaments, Bd. 2: Die Theologie der
 prophetischen Überlieferungen Israels</i>, München: Kaiser.
@@ -1641,12 +1662,14 @@ Rolf Rendtorff,  ‘προφητης κτλ. B. <span dir="rtl">נביא</span> 
 </div>
 
 
-<div style="padding-left: 22px; text-indent: -22px;"> Reynolds 1935 <br>
+<div style="padding-left: 22px; text-indent: -22px;">
+Reynolds 1935 <br>
 C. B. Reynolds, ‘Isaiah’s Wife’, <i>JTS</i> 36:182-85.
 </div>
 
 
-<div style="padding-left: 22px; text-indent: -22px;"> Rinaldi 1963 <br>
+<div style="padding-left: 22px; text-indent: -22px;">
+Rinaldi 1963 <br>
 Giovanni Rinaldi, ‘Profetismo: gruppo di studio’, <i>RivBibIt</i> 11:396-99.
 </div>
 
@@ -1763,6 +1786,11 @@ Bruce Vawter,  ‘Were the Prophets <i>nābî’s</i>?’, <i>Bib</i> 66:206-19.
 
 <div style="padding-left: 22px; text-indent: -22px;"> Vogt 1967 <br>
 Ernst Vogt,  ‘Einige hebräische Wortbedeutungen’, <i>Bib</i> 48:57-74.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;"> Von Rad 1930 <br>
+Gerhard von Rad,  <i>Das Geschichtsbild des chronistischen Werkes</i> (BWANT, 54),
+Stuttgart: Kohlhammer.
 </div>
 
 

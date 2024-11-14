@@ -41,10 +41,11 @@ mentions favourably) can point to a close parallel in Isa 5:29 (with
 it did not understand on the basis of the similar passages cited, and
 there do seem to be a number of places (see below) where  <span dir="rtl">פרק</span> means
 something other than ‘save’. The other emendation is more attractive,
-but it is by no means certain (even unlikely) that Tg. and Vg were based
-on a different <i>Vorlage</i> from MT (compare modern translations which
-render similarly without departing from MT [EÜ, NRSV; cf. Seybold]). MT
-should probably be retained, with the participle being understood in the
+but it is by no means certain (even unlikely) that Tg and Vg were based
+on a different <i>Vorlage</i> from MT; compare modern translations which
+render similarly without departing from MT (EÜ, NRSV). With reference to Ps 136:24, Seybold (1996:45-46) translates as
+‘reiẞe’ (‘tear away’). 
+MT should probably be retained, with the participle being understood in the
 sense ‘rend’, either adjectivally (cf. KJV, RSV) or as a nominalised
 subject of  <span dir="rtl">יטרף</span> (but the latter involves a less likely stichometry).
 
@@ -61,7 +62,7 @@ all the others are derived (see B.1 below).
 
 <span id="RCMA3"><b>A.3</b></span> In <i>North-West Semitic</i> the earliest occurrences are in Ugaritic, in
 a formulaic idiom <i>yprq lṣb</i> (<i>KTU</i> 1.4 iv:28; 1.6 iii:16; 1.17 ii:10), which was formerly understood to refer to the ‘opening’ of ‘the passage of the throat’ (see the earlier refs. in <i>HAL</i>, 916) but which is now known to mean ‘he unknitted (his) brow’, from a broader sense ‘release, slacken’ (<i>DULAT</i><small><sup> 1</sup></small>, 681; for the newer understanding of <i>lṣb</i> see p. 505). In later Hebrew the most common meanings are ‘remove’, ‘separate’ and ‘take to pieces’ (for other meanings see Jastrow, <i>DTT</i>, 1238-39). In Aramaic there is one early occurrence in a fragmentary portion of the Sefire treaties (<i>KAI</i> 222B 34), for which <i>DNWSI</i>, 943, proposed ‘cut off (water-supply?)’, but the context is damaged and unclear (<i>HAL</i>, 916, has ‘zerstören’, Ges<small><sup>18</sup></small>, 1083, ‘auflösen, befreien’) and no secure conclusions can be drawn. In early Jewish Aramaic <span dir="rtl">פרק</span> is used of the
-‘removal’ or ‘cancellation’ of sins (Deut 4:24) and as the
+‘removal’ or ‘cancellation’ of sins (Dan 4:24) and as the
 rendering for Heb. <span dir="rtl">נצל</span> (4Q157=TgJob f1 ii 9, prob. Job 5:7), <span dir="rtl">פדה</span> (11Q10=TgJob 23:6, Job 33:28) and  <span dir="rtl">חלץ</span> (ibid. 27:9; Job 36:15), implying the meaning ‘save, redeem’. The contexts in 4Q541 f24 ii:3 and 4Q546 f8 1 are badly damaged and
 unclear (but see DJD XXXI, 252-54, 360, which suggests ‘redeemed’ [i.e. ‘forgave (faults)’] for the former passage). In Nabataean the sense ‘redeem’ is attested,[^1] while in Jewish magical texts it means ‘loosen’ (a demon: better ‘remove’?)
 according to <i>DNWSI</i>, 943. In other Jewish Aramaic texts, especially the Targums, the meanings ‘redeem’ and ‘rescue’ are most common, but ‘remove’, ‘fall apart’, ‘untie’ and ‘divide’ are also attested.[^2] 
@@ -528,6 +529,12 @@ Friedrich Reiterer, ‘<span dir="rtl">פָּרַק</span>’, <i>TDOT</i> 12:11
 <div style="padding-left: 22px; text-indent: -22px;">
 Rudolph 1976<br>
 Wilhelm Rudolph, <i>Haggai, Sacharja 1-8, Sacharja 9-14, Maleachi</i> (KAT), Gütersloh: Mohn.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Seybold 1996<br>
+Klaus Seybold, <i> Die Psalmen</i> (HAT I/15),
+Tübingen: J.C.B. Mohr (Paul Siebeck).
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
