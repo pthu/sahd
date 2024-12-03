@@ -17,7 +17,7 @@ First published: 2024-10-10<br>Citation: Bob Becking,&nbsp;Paul Sanders, כְּ�
 ##<span id="I">Introduction</span>
 
 Grammatical type: noun masc.   
-Occurrences:   325x HB (99/140/86); 
+Occurrences: 325x HB (99/140/86); 
 6x Sir; 72x Qum; 
 0x Inscr. (Total: 403)
 

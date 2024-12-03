@@ -17,7 +17,7 @@ First published: 2021-11-08<br>Last update: 2023-05-16 <br>Citation: Klaas R. Ve
 
 ## Introduction
 
-Grammatical type: noun masc.  
+Grammatical type:  noun masc.  
 Occurrences:   2x HB (0/1/1); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2)
 
 * Nebiim: 2 Sam 3:29
