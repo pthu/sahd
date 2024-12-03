@@ -24,6 +24,7 @@ Occurrences: 1x HB (0/1/0); 2x Qum; 0x Sir; 0x inscr. (Total: 3).
 * Nebiim: Isa 65:4;
 * Qumran: 4Q385 f2 5-6; 4Q386 f1 i:5.
 
+### Text Doubtful
 
 <b>A.1</b>  The two Qumran documents are both texts of 4Q Pseudo-Ezekiel and
 overlap where  <span dir="rtl">פרק</span> occurs, enabling more of the total context to be seen.

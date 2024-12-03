@@ -57,7 +57,7 @@ f14-21:10(=4Q398 f14-17i:3), 15; 4Q408 f11:4; 4Q418 f221:2;
 <span dir="rtl">הנבא</span>; 
 1.016.5 (Lak(6):1.16:5):
 <span dir="rtl">הנב֯א</span>; 
-Vision of Gabriel: 15, 70.[^4] See also A.21 below.
+Vision of Gabriel: 15, 70.[^4] 
 
 
 ### Text Doubtful

@@ -1,12 +1,14 @@
 ---
 word_english: hail   
 word_hebrew: בָּרָד  
+transcription: <i>bārād</i>
 title: 
 semantic_fields: weather   
 contributors: chiara_stornaiuolo  
-first_published: 2024-11-1  
-last_update: 2024-11-14 (Paul Sanders)   
-update_info: 
+first_published: 2024-11-28  
+last_update: 2024-12-1 (Paul Sanders)   
+update_info:
+additional_info: (WORK IN PROGRESS)      
 shebanq_id:  
 
 ---
@@ -89,10 +91,10 @@ snow and storehouses of hail’. The next verse in the Masada scroll has:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir 43:15<sup><small>Mas</i></small></sup>: <span dir="rtl">גבורתו חזק ענן ותגדע א֗ב֗ני ברד</span>,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‘His strength buttresses (lit., strengthens) clouds and splinters hailstones’.   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;43:15<sup><small>LXX</i></small></sup>: ἐν μεγαλείῳ αὐτοῦ ἴσχυσεν νεφέλας, 	καὶ διεθρύβησαν,   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‘In his majesty he made clouds strong,		and stones of hail were broken apart.’
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;43:15<sup><small>LXX</i></small></sup>: ἐν μεγαλείῳ αὐτοῦ ἴσχυσεν νεφέλας, 	καὶ διεθρύβησαν λίθοι χαλάζης,   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‘In his majesty he made clouds strong, and stones of hail were broken apart.’
 
-According to Yadin (1999:189) the Masada scroll’s reading of Sir 43:15 is correct on the basis of the Greek version. Furthermore, the genitive construction  <span dir="rtl">אבנ(י) (ה)ברד</span> is attested (Josh 10:11; Isa 30:30) and also the collocation of  <span dir="rtl">ברד</span>, ‘hail’ and  <span dir="rtl">ענן</span>.<b>CHECK (not in Accordance)</b>   
+According to Yadin (1999:189) the Masada scroll’s reading of Sir 43:15 is correct on the basis of the Greek version. Furthermore, the genitive construction  <span dir="rtl">אבנ(י) (ה)ברד</span> is attested (Josh 10:11; Isa 30:30) and also the collocation of  <span dir="rtl">ברד</span>, ‘hail’, and  <span dir="rtl">ענן</span>.   
 Reading the entire sequence of Sir 43:13-15 it seems to have more sense to read  <span dir="rtl">ברד</span> in both verses, because the hailstones and the clouds of Sir 43:15 are a consequence of the divine rebuke in Sir 43:13, that led to unleashing the elements from the storehouse.
 
 <b>A.6</b>
@@ -148,7 +150,7 @@ mentions a house made of hailstones in heaven.
 [^syr]: Payne Smith, <i>CSD</i>, 55.
 [^nsyr]: <i>DISO</i>, 43; KAI ??? ii, 248.
 
-<b>A.6</b>  <i>Arabic</i>: <i>barad</i>, ‘hail’;[^6] <i>barada and baruda</i>, ‘to be cold’, ‘to become cold’; <i>bard</i>, ‘cold’.[^7]
+<b>A.6</b>  <i>Arabic</i>: <i>barad</i>, ‘hail’;[^6] <i>barada</i> and <i>baruda</i>, ‘to be cold’, ‘to become cold’; <i>bard</i>, ‘cold’.[^7]
 
 <b>A.7</b>  <i>Old South Arabic</i>: <i>brd</i> ‘hail’.[^8]
 
@@ -216,26 +218,28 @@ Proto-NW-Semitic \*<i>ā</i> to turn into \*<i>ō</i>. Suchard (2020:72) refers 
 
 <b>a. Septuagint (LXX):</b>
 
-* κρύσταλλος, ‘hail, snow, ice’:[^11] Ps 148:8;
-* χάλαζα, ‘hail’:[^12] Exod 9:18, 19, 22, 23 (2x), 24 (2x), 25 (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10, 11; Isa 28, 2; 28, 17; 30, 30; Hag 2:17; Pss 18[17]:13; 78[77]:47, 48; 105[104]:32; 148:8; Job 38:22; Sir 39:29; 43:15;
+* χάλαζα, ‘hail’:[^12] Exod 9:18, 19, 22, 23 (2x), 24 (2x), 25 (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10, 11; Isa 28:2; 30:30; Hag 2:17; Pss 18[17]:13; 78[77]:47, 48; 105[104]:32; 148:8; Job 38:22; Sir 39:29; 43:15;
 * χιών, ‘snow’:[^13] Sir 43:13;
-* no rendering: Ps 18:14; Sir 32:10 (2x).
+* no rendering: Isa 28:17; Ps 18:14 (χάλαζα in 
+σʹθ´[^20]); Sir 32:10 (2x).
+
+[^20]: Field II:110; cf. Barthélemy 2005: 90.
 
 <b>b. Peshitta (Pesh):</b>  
 
-* <span dir="rtl">ܒܪܕܐ</span> (<i>brdʾ</i>), ‘hail stones’:[^15] Exod 9:18, 19, 22, 23 (2x), 24 (2x), 25 (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10:11; Isa 28:2; 28:17; 30:30; 32:19; Hag 2:17; Pss 18:13, 14; 78:47, 48; 105:32; 148:8; Job 38:22; Sir 39:29<sup><small>B</small></sup>;
+* <span dir="rtl">ܒܪܕܐ</span> (<i>brdʾ</i>), ‘hail stones’:[^15] Exod 9:18, 19, 22, 23 (2x), 24 (2x), 25 (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10:11; Isa 28:2; 28:17; 30:30; Hag 2:17; Pss 18:13, 14; 78:47, 48; 105:32; 148:8; Job 38:22; Sir 39:29<sup><small>B</small></sup>;
 * verse omitted: Sir 32:10; 43:13, 15.
 
 <b>c. Targum (Tg: O/N/PsJ/Frg/J/K):</b>[^14]:
 
-* <span dir="rtl">ברד</span>, ‘hail’: Exod 9:18, 19, 22, 23(2x), 24 (2x), 25 (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10:11; Isa 28:2; Isa 30:30; Hag 2:17; Pss 18:13, 14; 78:47, 48; 105:32; 148:8; Job 38:22;
-* no rendering: Isa 28:17.
+* <span dir="rtl">ברד</span>, ‘hail’: Exod 9:18, 19, 22, 23 (2x), 24 (2x), 25 (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10:11; Isa 28:2; Isa 30:30; Hag 2:17; Pss 18:13, 14; 78:47, 48; 105:32; 148:8; Job 38:22;
+* <span dir="rtl">רְגַז</span>, ‘anger’: Isa 28:17.
 
 
 <b>d.Vulgate (Vg):</b> 
 
-* <i>grando</i>, ‘grandine’:[^16] Exod 9:18, 19, 22, 23 (2x), 24, 25  (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10:11; Isa 28:2; 30:30; 32:19; Hag 2:18; Pss 18:13, 14; 78:47, 48; 105:32; 148:8; Job 38:22; Sir 32:14(10); 39:35(29); 43:16(15);
-* No rendering: Sir 43:13.
+* <i>grando</i>, ‘grandine’:[^16] Exod 9:18, 19, 22, 23 (2x), 24 (1st), 25  (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10:11; Isa 28:2; 30:30; Hag 2:18; Pss 18:13, 14; 78:47, 48; 105:32; 148:8; Job 38:22; Sir 32:14(10); 39:35(29); 43:16(15);
+* no rendering: Exod 9:24 (2nd); Sir 43:13.
 
 <b>A.1</b>  In Josh 10:11<sup><small>LXX</small></sup> the word χάλαζα occurs two times, while in MT the word <span dir="rtl">ברד</span> occurs only once. The second time it is used to render <span dir="rtl">אַבְנֵי הַבָּרָד</span>,
 ‘stones of hail’; the first time, however, is to render <span dir="rtl">אֲבָנִים גְּדֹלוֹת</span>, ‘huge stones’, which later are referred to as <span dir="rtl">אַבְנֵי הַבָּרָד</span>, ‘stones of hail’.
