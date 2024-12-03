@@ -86,7 +86,7 @@ It is an expression used of both human kings and God, and is absolutely central 
  
 <b>A.3</b> God’s throne is located in the sanctuary, and at a later period in the heavens. However, although he is often described as sitting upon the cherubim, the term <span dir="rtl">כִּסֵּא</span> does not appear in this exact context; cf. Ps 61:8, Isa 10:13 of kings where <span dir="rtl">כִּסֵּא</span> is not mentioned.
  
-<b>A.4</b> Only Solomon’s <span dir="rtl">כִּסֵּא</span> is described in detail, and we can only speculate about the form of other thrones and seats, though there are plenty of Ancient Near Eastern representations of ‘Sitzmöbel’.
+<b>A.4</b> Only Solomon’s <span dir="rtl">כִּסֵּא</span> is described in detail (1 Kgs 10:18-20), and we can only speculate about the form of other thrones and seats, though there are plenty of Ancient Near Eastern representations of ‘Sitzmöbel’.
  
 <b>A.5</b> <span dir="rtl">כִּסֵּא</span> in the sense of an ordinary seat exists, but does not often occur. It appears to be understood in 1 Kgs 13:20, Est 6:10, Judg 4:5, but <span dir="rtl">ישׁב</span>, in the sense of sitting could mean that the subject sat on the floor or ground (as implied in Judg 13:9, and stated in Jer 25:5; 35:15; possibly at 2 Kgs 6:32) or on a bed. When a chair is mentioned it may be a significant detail, indicating the honour due to and possibly the function and age of the sitter, as with Eli and Bathsheba. 
 

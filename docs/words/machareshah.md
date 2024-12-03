@@ -19,7 +19,7 @@ Grammatical type: noun fem.
 Occurrences:   3x HB (0/3/0); 0x Sir; 0x Qum; 0x Inscr.  (Total: 3)  
 
 * Nebiim: 1 Sam 13:20 (2x), 21;
-* Qumran: – (see <a href="#Qum">B.1</a> below).
+* Qumran: – (see <a href="#Qum">B.1</a>).
 
 <b> A.1</b> While the first occurrence of
 <span dir="rtl">מחרשתו</span> in 1 Sam 13:20 (<span dir="rtl">מַחֲרַשְׁתּוֹ</span>, with <i>pataḥ</i> as the third vowel) is a form of 
@@ -124,14 +124,14 @@ Contrary to Heb. <span dir="rtl">חרשׁ</span> <span style="text-transform:uppe
 refers to the work of the craftsman or artisan.
 Stephen Cook (1994) supposed that \*<span dir="rtl">מַחֲרֵשָׁה</span> derives from <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>, ‘to plough, engrave’,
 but that \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> derives from <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">ii</span>, 
-‘to manufacture’ (see <a href="#Cook">below</a>).
+‘to manufacture’ (see <a href="#Cook">6.1 A.4</a>).
 <span id="KollerRoot">Aaron Koller (2012:86-89) distinguished a third root, <i>ḫrś</i>/<span dir="rtl">חרשׂ</span>, ‘to scratch’, assuming that <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span> </span>
 means only ‘to plough’, not ‘to engrave’ or ‘to scratch’. 
 He regarded the form <span dir="rtl">חֲרוּשָׁה</span>, ‘scratched’, in Jer 17:1
 as a form of this verb (with <span dir="rtl">ש</span> erroneously pointed as <i>šin</i> instead of <i>śin</i>; cf. <span dir="rtl">חֶרֶשׂ</span> in Job 2:8). 
 Koller saw \*<span dir="rtl">מַחֲרֵשָׁה</span> as a derivative of <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>, ‘to plough’,
-but \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> as deriving from <span dir="rtl">חרשׂ</span>, ‘to scratch’ (see <a href="#Koller">below</a>).
-However, note that in the Babylonian Talmud <span dir="rtl">מחרישה</span> denotes a ‘strigil’, an instrument for scraping the skin (see <a href="#strigil">below</a>).
+but \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> as deriving from <span dir="rtl">חרשׂ</span>, ‘to scratch’ (see <a href="#Koller">6.1 A.4</a>).
+However, note that in the Babylonian Talmud <span dir="rtl">מחרישה</span> denotes a ‘strigil’, an instrument for scraping the skin (see <a href="#strigil">A.6</a>).
 
 <b> A.2</b> <span id="Akk"><i>Akkadian</i>:</span> 
 The Heb. verb <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>
@@ -213,7 +213,7 @@ the price for
 <span dir="rtl">מַחֲרֵשֹׁת</span>
 as well as some other agricultural utensils
 was a → <span dir="rtl">פים</span>. 
-Apparently, the price was paid for either producing or repairing them (see <a href="#Exe">below</a>).
+Apparently, the price was paid for either producing or repairing them (see <a href="#Exe">6.1</a>).
 
 
 ##<span id="AV">4. Ancient Versions</span>
@@ -354,14 +354,14 @@ in the list of utensils in 1 Sam 13:20 denotes an implement used for ploughing.
 Most dictionaries interpret either \*<span dir="rtl">מַחֲרֵשָׁה</span> 
 or \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> as ‘ploughshare’.<sup id="fnref:60"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:60')">60</a></sup>
 In the Mishnah, Tosefta and Talmudim, the noun <span dir="rtl">מַחֲרֵשָׁה</span> designates the entire plough, while the cognates in Arab. and Eth. (and possibly in Ug.) also denote a plough (see 
-<a href="#Ugar">above</a>).   
+<a href="#Ugar">1 A.3</a>).   
 Most of the ancient translations assume that the first item in the list of 13:20 
 represents a plough (α´, θ´), 
 or its cutting part ( σ´, Vg, possibly Tg<sup><small>J</small></sup>). Since the plough is one of the most important agricultural utensils, it is indeed not unlikely that it is represented by the first item in the list.<sup id="fnref:61"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:61')">61</a></sup>
 In view of the evidence from the Mishnah, Tosefta and Talmudim,
 it is attractive to revocalise the first occurrence in 13:20 as <span dir="rtl">מַחֲרֵשָׁתוֹ</span>
 (with <i>ṣ<sup><small>e</small></sup>rē</i>) and to maintain the vocalisation of the parallel item <span dir="rtl">מַחֲרֵשֹׁת</span>
-in 13:21 (see <a href="#seree">above</a>).
+in 13:21 (see <a href="#seree">Introduction A.1</a>).
 
 <b> A.2</b> 
 Ploughs were largely made of wood, as is shown by the burning of
@@ -390,14 +390,14 @@ Only the renderings of <span dir="rtl">חָרָשׁ</span>
 in LXX (τέκτων σιδήρου) and Vg (<i>faber ferrarius</i>)
 specify that the craftsmen concerned were iron smiths.<sup id="fnref:64"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:64')">64</a></sup> Actually, archaeological evidence from consecutive centuries 
 demonstrates that in ancient Israel implements of bronze and implements of iron were used in the same contexts. 
-Bronze plough-points and iron plough-points were also excavated in the same excavation layers (see <a href="#Exe-ar">below</a>).
+Bronze plough-points and iron plough-points were also excavated in the same excavation layers (see <a href="#Exe-ar">6.3</a>).
 The suggestion of LXX and Vg 
 that the Philistines maintained an iron monopoly is 
 an attractive option, but the MT may imply that the Philistines forbade all metallurgical activities among the Israelites.<sup id="fnref:65"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:65')">65</a></sup>   
 The structure of the ancient Israelite ploughs is not described in the HB or other contemporaneous 
 sources. However, a reconstruction is possible on the basis of contemporaneous 
 illustrations from Mesopotamia and Egypt and archaeological finds from
-Israel/Palestine (see <a href="#Exe-ico">below</a>). Further, some terminological information can be found in the 
+Israel/Palestine (see <a href="#Exe-ico">6.2</a>). Further, some terminological information can be found in the 
 Mishnah, the Tosefta and the Talmudim, especially in <span id="Kelim">mKelim 21:2.<sup id="fnref:66"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:66')">66</a></sup> 
 In the latter passage, the word <span dir="rtl">מַחֲרֵשָׁה</span> does not occur, but
 the following terms are used to denote elements of the plough:
@@ -437,7 +437,7 @@ Dominique Barthélemy decided to leave it untranslated (<i>CTAT</i> 1:181).
 <span id="Cook">Stephen Cook supposed that the first of the near-homonyms derives from <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>, ‘to plough, engrave’,</span>
 while the second derives from <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">ii</span>, 
 ‘to manufacture’
-(see <a href="#RCM">above</a>).
+(see <a href="#RCM">1 A.1</a>).
 According to Cook, the first noun clearly refers to a plough,
 while the second noun, which can be translated as ‘crafted/forged tool’, can best be interpreted as an equivalent
 of the parallel term <span dir="rtl">דָּרְבָן</span>,
@@ -448,7 +448,7 @@ was not essential.<sup id="fnref:74"><a href="#footnote" data-toggle="modal" onc
 This noun can also be seen as a derivative of <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span>
 and may refer to a different tool used for ‘engraving’ the soil, wood, etc. 
 <span id="Koller">However, Aaron Koller (2012:86-89) distinguished a third root, <i>ḫrś</i>/<span dir="rtl">חרשׂ</span>, ‘to scratch’, assuming that <span dir="rtl">חרשׁ</span> <span style="text-transform:uppercase;">i</span> </span>
-means only ‘to plough’, not ‘to engrave’ or ‘to scratch’ (see <a href="#KollerRoot">above</a>). He interpreted 
+means only ‘to plough’, not ‘to engrave’ or ‘to scratch’ (see <a href="#KollerRoot">1 A.1</a>). He interpreted 
 \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> as deriving from <span dir="rtl">חרשׂ</span>, ‘to scratch’.
 With reference to Yemeni Arab. <i>mḫrš</i>, ‘harrow’, and <i>ḫrš</i>, ‘to till by hand’,
 he suggested that the noun \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span> designates a hoe or a harrow. 
@@ -840,8 +840,8 @@ Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amste
 [^25]: mSheviʿit 3:7;   tSheviʿit 3:4;  ySheviʿit 3, 34bd;  mʿOrlah 1:3;  yʿOrlah 1, 60c.
 [^26]: <span id="mBM9:13">According </span></span> to mBava Metziʿa 9:13, a creditor who wants to take a pledge from a debtor may take a <span dir="rtl">כַּר</span>, ‘pillow’, by day and must give it back  by night (cf. Deut 24:12-13) and may take a <span dir="rtl">מַחֲרֵשָׁה</span> by night and must return it by day.  Apparently, the <span dir="rtl">כַּר</span> and the <span dir="rtl">מַחֲרֵשָׁה</span> were seen as essential.  The rule is quoted in bBava Metziʿa 113a, yBava Metziʿa 9, 12a, and bTemurah 6a. See also Sifre Devarim 277.
 [^27]: mShabbat 17:4 quotes Rabbi  Yose as saying that on the Shabbat ‘all utensils may be moved except for the large saw and the plough-point’ (<span dir="rtl">כל הכלים נטלין  חוץ מן המסר הגדול ויתד של מחרשה</span>). The saying occurs also  in tShabbat 14:1;  bShabbat 123b, 157a; bʿEruvin 35a; yShabbat 17, 16a.  Further, the expression <span dir="rtl">יתד של מחרישה</span> occurs also in bʿEruvin 86a.
-[^28]: tKelim Bava Batra 1:7, which refers also to the <span dir="rtl">עיין</span>, ‘eye’, as an element that could be detached from the plough.  In mKelim 21:2 the terms <span dir="rtl">חרב</span> and <span dir="rtl">עיין</span> are also used for parts of the plough  (see <a href="#Kelim">above</a>).
-[^29]: Jastrow, <i>DTT</i>, 764,  <i>WTM</i> iii:82, with reference to bKetubbot 68a, bBava Metziʿa 113b.   According to bBava Metziʿa 113ab, Raba son of Rabbah interpreted the word <span dir="rtl">מחרישה</span> in mBava Metziʿa 9:13  (see <a href="#mBM9:13">above</a>) as ‘strigil’, not as ‘plough’.
+[^28]: tKelim Bava Batra 1:7, which refers also to the <span dir="rtl">עיין</span>, ‘eye’, as an element that could be detached from the plough.  In mKelim 21:2 the terms <span dir="rtl">חרב</span> and <span dir="rtl">עיין</span> are also used for parts of the plough  (see <a href="#Kelim">6.1 A.2</a>).
+[^29]: Jastrow, <i>DTT</i>, 764,  <i>WTM</i> iii:82, with reference to bKetubbot 68a, bBava Metziʿa 113b.   According to bBava Metziʿa 113ab, Raba son of Rabbah interpreted the word <span dir="rtl">מחרישה</span> in mBava Metziʿa 9:13  (see <a href="#mBM9:13">n. 26</a>) as ‘strigil’, not as ‘plough’.
 [^30]: This form is proposed in BDB, 361; KBL, 515; <i>HALOT</i>, 572; Ges<sup><small>18</small></sup>, 661.
 [^31]: This  form is proposed in <i>DCH</i> v:229.
 [^32]: Adrados, <i>DGE</i>, 1167; LEH<sup><small>1</small></sup>, 121;  <i>GELS</i>, 178.
@@ -860,7 +860,7 @@ Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amste
 [^45]: Payne Smith, <i>CSD</i>, 250; Sokoloff, <i>SLB</i>, 709.
 [^46]: Payne Smith, <i>CSD</i>, 285; Sokoloff, <i>SLB</i>, 793. <i>SLB</i> gives as a   second translation ‘part of plow’.
 [^47]: Jastrow, <i>DTT</i>, 1059. <i>WTM</i> iii:711 (Heb. <span dir="rtl">עֹושֶׁף</span>): ‘der spitze Theil eines Instrumentes, welcher zum Bohren und Pflügen diente, der andere scharfe Theil dieses Instrumentes diente zum Holzspalten’. According to mKelim 13:3, the → <span dir="rtl">קַרְדֹּם</span>  has an  <span dir="rtl">עֹושֶׁף</span> ‘paring/chipping edge’  and a  <span dir="rtl">בֵּית בִּקּוּעַ</span>   ‘splitting/chopping edge’.
-[^48]: Jastrow, <i>DTT</i>, 1243, distinguishes <span dir="rtl">פְּרָשָׁא</span> I, ‘[driving] goad’ (Tg<sup><small>J</small></sup> Judg 3:31), from <span dir="rtl">פְּרָשָׁא</span> II, ‘[breaker, crusher,] ploughshare’ (1 Sam 13:20). <i>WTM</i> iv:145, and Dalman, <i>ANHT</i>, 354, suggest that <span dir="rtl">פְּרָשָׁא</span> means ‘ox goad’ in Judg 3:31 as well as 1 Sam 13:20. See further the discussion in section <a href="#Targ">A.2</a>.
+[^48]: Jastrow, <i>DTT</i>, 1243, distinguishes <span dir="rtl">פְּרָשָׁא</span> I, ‘[driving] goad’ (Tg<sup><small>J</small></sup> Judg 3:31), from <span dir="rtl">פְּרָשָׁא</span> II, ‘[breaker, crusher,] ploughshare’ (1 Sam 13:20). <i>WTM</i> iv:145, and Dalman, <i>ANHT</i>, 354, suggest that <span dir="rtl">פְּרָשָׁא</span> means ‘ox goad’ in Judg 3:31 as well as 1 Sam 13:20. See further the discussion in section <a href="#Targ">4 A.2</a>.
 [^49]: <i>OLD</i>, 1691. Lewis & Short, <i>LD</i>, 1631, describe <i>sarculum</i> as ‘an implement for loosening the soil, weeding, etc., <i>a light hoe</i>’.
 [^50]: Lewis & Short, <i>LD</i>, 2014;  <i>OLD</i>, 2103.
 [^51]: For the distinctive character of the transmitted LXX text of  1 Samuel, see Hugo 2015:129-32; Hugo 2016:222-23.
@@ -873,22 +873,22 @@ Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amste
 [^58]: Judg 14:18, Hos 10:11, 13; Ps 129:3; Job 4:8.
 [^59]: For other terms used in connection with ploughing, see Borowski 1987:48, 51-53.
 [^60]: Gesenius, <i>TPC</i> i:530; BDB, 361; GB, 416; <i>HAWAT</i>, 219; KBL, 515; Zorell, 428; <i>DCH</i> v:229; <i>HALOT</i>, 572; Ges<sup><small>18</small></sup>, 661.
-[^61]: Compare the rule in mBava Metziʿa 9:13 implying that a creditor may not take a <span dir="rtl">מַחֲרֵשָׁה</span> as a pledge during the day. See <a href="#mBM9:13">above</a>.
+[^61]: Compare the rule in mBava Metziʿa 9:13 implying that a creditor may not take a <span dir="rtl">מַחֲרֵשָׁה</span> as a pledge during the day. See <a href="#mBM9:13">n. 26</a>.
 [^62]: Klein 1983:127-28; Van der Steen 2008:67; 2009:69.
 [^63]: The verb <span dir="rtl">לטשׁ</span> means ‘to forge, hammer, sharpen’. 1 Sam 13:20-21 was often assumed to relate to the repair of metal implements (e.g., McCarter 1980:232; Klein 1983:128), but is likelier that the passage has their production in mind.  See Stoebe 1973:254-55.
 [^64]: However, see also  <span dir="rtl">כל מן דברזל</span>  ‘each iron implement’  in 1 Sam 13:21 Tg<sup><small>J</small></sup>.
 [^65]: McNutt 1990:19, 144, 205, 238.  Cf. also Dietrich 2015:50.
-[^66]: In addition to mKelim 21:2, see the evidence</span> discussed in <a href="#Postbib">1. A.6</a>. tKelim Bava Metziʿa 5:7 mentions    a  <span dir="rtl">ב(ו)רית מחרישה</span>, ‘hoop of the plough’. The <span dir="rtl">בֹּרֶךְ הַמַּחֲרֵשָׁה</span>,  ‘knee of the plough’, is also mentioned in mʾOhalot 17:1-3 and  bTaʿanit 25b.
+[^66]: In addition to mKelim 21:2, see the evidence</span> discussed in <a href="#Postbib">1 A.6</a>. tKelim Bava Metziʿa 5:7 mentions    a  <span dir="rtl">ב(ו)רית מחרישה</span>, ‘hoop of the plough’. The <span dir="rtl">בֹּרֶךְ הַמַּחֲרֵשָׁה</span>,  ‘knee of the plough’, is also mentioned in mʾOhalot 17:1-3 and  bTaʿanit 25b.
 [^67]: For the disputed translation of the terms, see  <i>WTM</i>;  Jastrow, <i>DTT</i>;  Dalman, <i>ANHT</i>;  Krauss 1911:172-73, 553-56; Danby 1933:636; Bunte 1972:372-75; Koller 2012:93-94.  A drawing in Albeck’s edition of the Heb. text (1959:93) shows which elements of the plough were assumed to be designated by the terms <span dir="rtl">חֶרֶב</span>,  <span dir="rtl">בֹּרֶךְ</span>,  <span dir="rtl">יָצוּל</span>  and <span dir="rtl">עֲרָיִין</span>.
 [^68]: See also Borowski 1987:52.
-[^69]: For emendation proposals and Barthélemy’s objections, see <a href="#Emend">above</a>.
+[^69]: For emendation proposals and Barthélemy’s objections, see <a href="#Emend">Introduction A.2</a>.
 [^70]: Gesenius, <i>TPC</i> i:530,  translated one of the occurrences as <i>vomer</i>, ‘ploughshare’, and the other as <i>cultrum</i>, ‘knife’, <i>dens aratri</i>, ‘plough-point’.
 [^71]: KJV, ASV, NJPS. In these translations, not only the final item of the list in 13:20 (MT: <span dir="rtl">מַחֲרֵשָׁתוֹ</span>) is translated as ‘mattock’, but the first item of the list in 13:21 (MT: <span dir="rtl">מַחֲרֵשֹׁת</span>) is also translated as ‘mattocks’, undoubtedly because these forms have the <i>ṣ<sup><small>e</small></sup>rē</i> vowel in common.
 [^72]: Cook 1994. In <i>DCH</i>, where the first occurrence of <span dir="rtl">מחרשׁה</span>/<span dir="rtl">מחרשׁת</span>  in 13:20 is translated as ‘ploughshare’, the second occurrence is also interpreted as ‘goad’ because of the parallelism with <span dir="rtl">דָּרְבָן</span> (<i>DCH</i> v:229-30).
 [^73]: Cook 1994:252, 254, n. 11.
 [^74]: See Stoebe 1973:254.
 [^75]: In NASB not only <span dir="rtl">מחרשׁה</span>/<span dir="rtl">מחרשׁת</span> at the end of 13:20 but also <span dir="rtl">דָּרְבָן</span> at the end of 13:21 is translated as ‘hoe’.
-[^76]: Fokkelman (1986:45) identified the first occurrence of <span dir="rtl">מחרשׁה</span>/<span dir="rtl">מחרשׁת</span> in 1 Sam 13:20 with a scythe, probably due to LXX θέριστρον.  Like many others (see <a href="#Emend2">above</a>), Fokkelman replaced the second occurrence  in the same verse by <span dir="rtl">חֶרְמֵשׁ</span>, ‘sickle’.
+[^76]: Fokkelman (1986:45) identified the first occurrence of <span dir="rtl">מחרשׁה</span>/<span dir="rtl">מחרשׁת</span> in 1 Sam 13:20 with a scythe, probably due to LXX θέριστρον.  Like many others (see <a href="#Emend2">Introduction A.2</a>), Fokkelman replaced the second occurrence  in the same verse by <span dir="rtl">חֶרְמֵשׁ</span>, ‘sickle’.
 [^77]: Wiggermann (1999:189-90, 228) remarks that if one ox is depicted this must be due to artistic convention, ‘since one ox cannot pull a plough in a straight line’ (190). Differently: Borowski 1987:51; Seidl 2003-2005:514.
 [^78]: Egyptian: Fig. 1 in the present article; <i>ANEP</i>, 25 (fig. 84),  27 (fig. 91),  37 (fig. 122);    <i>BRL</i><sup><small>2</small></sup>, 255 (fig. 66/2); Borowski 1987:53 (fig. 5), 58 (fig. 8), 60 (fig. 10); Mesopotamian: Wiggermann 1999:228 (fig. 7a, 7b).
 [^79]: Mesopotamian: Lambert 1979:22-23, regarding Plate VII fig. 63; Wiggermann 1999:228 (fig. 7c), 230 (fig. 9); Egyptian: Borowski 1987:53 (fig. 5); Nicholson & Shaw 2000:270 (fig. 11.2).

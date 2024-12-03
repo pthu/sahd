@@ -81,7 +81,7 @@ indicating cause and effect of the breaking.
 * <i>cervix</i> pl., ‘neck’: 1 Sam 4:18.
 
 
-<b>A.1</b>  The renderings of Symmachus, Vg, Tg<small><sup>J</sup></small>
+<b>A.1</b>  The renderings of Symmachus (specifically the vertebrae), Vg, Tg<small><sup>J</sup></small>
 and Pesh all understand  <span dir="rtl">מפרקת</span> as ‘neck’. The use of the pl. form in Vg conforms to a classical idiom (Lewis and Short, <i>LD</i>, 322).
 
 
