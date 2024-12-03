@@ -16,7 +16,7 @@ contributors_footnote: Many thanks are due to Johannes C. de Moor (<sup>†</sup
 
 ## Introduction
 
-Grammatical type: noun masc.  
+Grammatical type:  noun masc.  
 Occurrences:   2x HB (0/1/1); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2)
 
 * Nebiim: 2 Sam 3:29
