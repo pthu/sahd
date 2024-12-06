@@ -695,7 +695,7 @@ def write_word_list(words_dict):
     f = open(WORDS_LIST, 'w')
     writer = csv.writer(f)
     for word in words_dict:
-        writer.writerow([word[0], word[1]])
+        writer.writerow([word[1], word[0]])
     f.close()
 
 
