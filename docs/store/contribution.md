@@ -16,7 +16,7 @@ As you may have noticed, the entries follow the following format:
 	7. Conclusion
 	Bibliography
 
-For more about the content of the sections, read [H.G.M. Williamson’s description of the SAHD-approach](/Williamson-Semantics_and_Lexicography.pdf/){target=_blank} (2015).
+For more about the content of the sections, read [H.G.M. Williamson’s description of the SAHD-approach](../../pdfs/Williamson-Semantics_and_Lexicography.pdf){target=_blank} (2015).
 
 We ask you to send a Word document of your contribution to [psanders@pthu.nl](mailto:psanders@pthu.nl). Also contributions with only part of the sections are welcome!
 
