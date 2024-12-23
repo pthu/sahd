@@ -6,7 +6,7 @@ title:
 semantic_fields: utensils, craft, textile production,   
 contributors: klaas_r._veenhof, paul_sanders  
 first_published: 2021-11-08  
-last_update: 2023-05-16   
+last_update: 2024-12-21   
 contributors_footnote: Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023; professor emeritus Protestant Theological University, Kampen) and Benjamin Bogerd (Veenendaal) for their valuable suggestions.
 
  
@@ -16,7 +16,7 @@ contributors_footnote: Many thanks are due to Johannes C. de Moor (<sup>†</sup
 
 ## Introduction
 
-Grammatical type:  noun masc.  
+Grammatical type: noun masc.  
 Occurrences:   2x HB (0/1/1); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2)
 
 * Nebiim: 2 Sam 3:29
@@ -293,7 +293,7 @@ It is beyond doubt that in this verse פֶּלֶךְ designates a spindle; see
 <a href="#AV">Ancient Versions</a> and 
 <a href="#RCM">Root and Comparative Material</a>.
 The noun כִּישׁוֹר may designate the distaff, a stick onto which 
-wool or flax <span dir="rtl" lang="he">צֶמֶר</span>, 
+wool or flax (<span dir="rtl" lang="he">צֶמֶר</span>, 
 <span dir="rtl" lang="he">פִּשְׁתִּים</span>; 31:13) 
 was wound that was consequently used for spinning with the help of a spindle. 
 The spun yarn was used for the production of cloth fabrics (31:22, 24). 
@@ -420,7 +420,8 @@ Some dictionaries (BDB, 813; KBL, 763; <i>HALOT</i>, 933)
 assume that פֶּלֶךְ refers to the whorl of the spindle,
 while other dictionaries (GB, 643; Zorell, 651; 
 <i>DCH</i> vi:696)
-suppose that פֶּלֶךְ denotes the entire spindle.
+suppose that פֶּלֶךְ denotes the entire spindle,
+including the rod.
 Except for the late cognate in Arab., the cognates in other Sem. languages designate the spindle in its entirety. 
 Even if the derivation of
 <span dir="rtl">פֶּלֶךְ</span> from a root meaning ‘to be(come) round’ is correct (see section <a href="#Arabic">1 A.7</a>), 
@@ -636,9 +637,11 @@ Wadi Murabba‘at, Early Roman Period</small>
 
 </small>
 
-The archaeological evidence demonstrates that spindles were already widely used 
+The archaeological evidence demonstrates that spinning with spindles began already ca.
+10000 <small>BCE</small> (Yashuv & Grosman 2024) and
+that spindles were already widely used 
 during the Late Bronze Age. 
-This is not surprising, since it was relatively easy to produce them and the
+It was relatively easy to produce them and the
 materials of which they were usually made were cheap. Furthermore, spinning with a spindle was much faster than hand spinning, 
 which implied the twisting of fibres by hand or by rolling them against the thigh. 
 Other advantages of spinning with a spindle were that 
@@ -1074,7 +1077,15 @@ Yadin 1963<br>
 Yigael Yadin, <i>The Finds from the Bar Kokhba Period in the Cave of Letters</i>, 
 Jerusalem: Israel Exploration Society.
 	</div>
-	
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Yashuv & Grosman 2024<br>
+Talia Yashuv, Leore Grosman,
+‘12,000-year-old spindle whorls and the innovation of wheeled rotational technologies’, 
+<i>PLOS ONE</i> 19(11):e0312007;
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312007" target="_blank" rel="noopener noreferrer">https://journals.plos.org/</a>
+	</div>
+
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Younger 1998<br>
