@@ -4,10 +4,12 @@ word_hebrew: גִּלָּיוֹן
 transcription: <i>gillāyōn</i>    
 title:    
 semantic_fields: utensils   
-contributors: archibald_van_wieringen   
+contributors: archibald_l.h.m._van_wieringen   
 first_published: 2025-01-19
 last_update: 
 contributors_footnote: Many thanks are due to Paul Sanders (PThU) for his suggestions.
+additional_info: (WORK IN PROGRESS)      
+shebanq_id:  
 
 
 ---
@@ -33,28 +35,84 @@ Occurrences:   2x HB (0/2/0); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2).
 <span id="Syn"></span>
 ## 3. Syntagmatics
 
+In Isa 3:23, ִגִּלְיֹנִים is part of an enumeration in the verses 18-23 that functions as object of the verbal form יָסִיר in 3:18. In Isa 8:1, ִגִּלָּיוֹן is modified by the adjective 
+<span dir="rtl" lang="he">גָּדוֹל</span> and the noun
+is the object of the imperative קַח.
+The suffix 3 sg. masc. in עָלָיו refers back to ִגִּלָּיוֹן and indicates that something must be written on it (כתב).  
+
 
 <span id="AV"></span>
 ## 4. Ancient Versions
 
 
+<b>a.</i> Septuagint (LXX) and other Greek versions</b>:[^9] 
 
-<b>a.</i> Septuagint (LXX) and other Greek versions</b>:
+* διαφανῆ (from διαφανής) λακωνικὰ, ‘translucent Laconian dresses’:[^10]
+Isa 3:23<sup><small>LXX</small></sup>? (see A.1);
+* διφθέρωμα, ‘hide’:[^11] Isa 8:1<sup><small>θʹ</small></sup>;
+* κεφαλίς, ‘little head’ (dim. of κεφαλή), here probably ‘scroll’:[^12]
+Isa 8:1<sup><small>αʹ</small></sup>;
+* τεῦχος, ‘implement’, here probably ‘roll of writing material’:[^13]
+Isa 8:1<sup><small>σʹ</small></sup>;
+* τόμος, ‘roll’:[^14] Isa 8:1<sup><small>LXX</small></sup>? (see A.2).
 
+[^9]: For Isa 8:1 in αʹσʹθʹ, see Field II:445.
+[^10]: LSJ, 417; <i>GELS</i>, 162.
+[^11]: LSJ, 438. 
+[^12]: LSJ, 945; <i>GELS</i>, 396.
+[^13]: LSJ, 1784.
+[^14]: LSJ, 1804, <i>GELS</i>, 683.
 
 <b>b. Peshitta (Pesh)</b>:
 
+* <span dir="rtl">ܓܠܝܘܢܐ</span> 
+(<i>gellāyūnā</i>) (see A.3): Isa 8:1;
+* <span dir="rtl">ܢܚܬܐ</span> 
+(<i>naḥtā</i>), 
+‘garment’,[^15]
+‘long outer garment reaching to the feet’:[^16]
+Isa 3:23.
 
-<b>c.</i> Targumim  (Tg)</b>:  
+[^15]: Costaz, <i>DSF</i>, 202; Sokoloff, <i>SLB</i>, 910.
+[^16]: Payne Smith, <i>CSD</i>, 336.
 
 
-<b>d. Vulgate (Vg) </b>:
+<b>c.</i> Targumim  (Tg<sup><small>J</small></sup>)</b>:  
+
+* <span dir="rtl" lang="he">לוּחַ רַב</span>,
+‘large tablet (or plank)’:[^17] 
+Isa 8:1;
+* <span dir="rtl" lang="he">מַחְזִיתָא</span>,
+‘mirror’:[^18] Isa 3:23.
+
+[^17]: Jastrow, <i>DTT</i>, ???; <i>WTM</i> II, ???; Dalman, <i>ANHT</i>, ???; Sokoloff, <i>DJPA</i>, 279; <i>DJBA</i>, 619).
+[^18]: Jastrow, <i>DTT</i>, 758 <b>[ook: show]</b>; <i>WTM</i> III, ???; Dalman, <i>ANHT</i>, ???.
+
+<b>d. Vulgate (Vg)</b>:
+
+* <i>liber</i>, ‘book’, ‘roll’:[^19] 
+Isa 8:1;
+* <i>speculum</i>, ‘mirror’, ‘looking-glass’:[^20]
+Isa 3:23.
+
+[^19]: Lewis \& Short, <i>LD</i>, 1057; <i>OLD</i>, 1024. 
+[^20]: Lewis \& Short, <i>LD</i>, 1739; % usually made of polished metal <i>OLD</i>, 1802.} 
 
 
-<b>A.1</b> 
+<b>A.1</b> Usually, τὰ διαφανῆ λακωνικὰ, ‘the translucent Laconian dresses’, in LXX Isa 3:22 is seen as the rendering of MT 3:23
+<span dir="rtl" lang="he">הַגִּלְיֹנִים</span> (e.g., Camilo dos Santos, <i>EHIH</i>, 36; Muraoka, <i>HIS</i>, 34). However, the LXX’s rendering of these verses is very confused and the equation is by no means certain (Van der Meer 2008).
 
+<b>A.2</b> In Isa 8:1 the LXX paraphrases τόμον καινοῦ μεγάλου, ‘a scroll of a new large (book)’, but τόμον καινοῦ μεγάλου 
+could be a corruption of τόμον καινὸν μεγάλον, ‘a new large scroll’. 
+In 1 Esd 6:22 τόμος seems to be the rendering of Aram. <span dir="rtl" lang="he">מְגִלָּה</span>, ‘scroll’, in Ezra 6:2
+(see <a href="/words/mgillah/#4-ancient-versions"><span dir="rtl" lang="he">מְגִלָּה</span>: 4. Ancient Versions</a>).
+Probably all the Greek translators interpreted <span dir="rtl" lang="he">גִּלָּיוֹן</span> as a derivative of <span dir="rtl" lang="he">גלל</span>, ‘to roll’, just like <span dir="rtl" lang="he">מְגִלָּה</span>: αʹ opts for κεφαλίς, here probably ‘scroll’, σʹ for τεῦχος, here apparently also ‘scroll’, while διφθέρωμα, ‘hide’, in θʹ is probably an attempt to explain that it was an unrolled parchment scroll.
 
-<b>A.2</b> 
+<b>A.3</b> In Isa 3:23 Pesh guesses <span dir="rtl">ܢܚ̈ܬܝܗܝܢ</span>, ‘their long mantles’. In Isa 8:1 Pesh simply transcribes the Hebrew into Syriac: <span dir="rtl">ܓܠܝܘܢܐ</span>. The  Syriac dictionaries (Payne Smith, <i>CSD</i><sup><small>3</small></sup>, 71: ‘writing-tablet’; Costaz, <i>DSF</i>, 48: ‘roll (volume)’; SLB, 236: ‘scroll’) fill in the presumed meaning of the Hebrew word and for that reason are not really helpful.
+
+<b>A.4</b> In Isa 3:23 Tg<sup><small>J</small></sup> has the rendering <span dir="rtl" lang="he">מחזיתא</span>
+(var. <span dir="rtl" lang="he">מַחְזִיאתָא</span>), ‘mirrors’. The rendering <span dir="rtl" lang="he">לוּחַ רַב</span>, ‘a large tablet (or plank)’, in Isa 8:1 is possibly due to harmonisation with Hab 2:2.
+
 
 
 <span id="LSF"></span>
@@ -66,15 +124,17 @@ Occurrences:   2x HB (0/2/0); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2).
 ##6. Exegesis
 
 
-![Amethyst scarab](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/scarab.jpg)
+![Mirror Egypt](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/Mirror_Egypt.jpg)
 
 
-Amethyst scarab, Egypt, Middle Kingdom[^29]
+Mirror from Egypt, silver and copper alloy, ca. 1479-1390 <small>BCE</small>,
+<a href="https://commons.wikimedia.org/wiki/File:Mirror_-_Egypt,_reportedly_from_Aswan,_New_Kingdom,_Dynasty_18,_c._1479-1390_BC,_silver_and_copper_alloy_-_Brooklyn_Museum_-_Brooklyn,_NY_-_DSC08678.JPG" target="_blank" rel="noopener noreferrer">https://commons.wikimedia.org/</a>
 
 
-![Amethyst 46 beads](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/46beads.jpg)
+![Mirror Khorsabad](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/Mirror_Khorsabad.jpg)
  
-String of 46 amethyst beads, Egypt, Middle Kingdom–Early New Kingdom[^30]
+Bronze mirror from Khorsabad, Assyria, 900-612 <small>BCE</small>, 
+<a href="https://commons.wikimedia.org/wiki/File:Mirror,_Khorsabad,_Citadel,_residence_K,_room_66,_Neo-Assyrian_period,_900-612_BC,_bronze_-_Oriental_Institute_Museum,_University_of_Chicago_-_DSC07309.JPG" target="_blank" rel="noopener noreferrer">https://commons.wikimedia.org/</a>
 
 
 <span id="Con"></span>
@@ -209,7 +269,7 @@ Robert Lowth,
 Munro 1969<br>
 Peter Munro, 
 ‘Eine Gruppe spätägyptischer Bronzespiegel’, 
-<i>ZÄS</i> 95:92-109 (Pl. II-IX). CHECK
+<i>ZÄS</i> 95:92-109 (Pl. II-IX).
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -288,4 +348,7 @@ Freiburg (Schweiz): Universitätsverlag.
 
 ## Notes 
 
-[^1]: 
+Many thanks are due to Paul Sanders (PThU) for his suggestions.
+
+[^29]: https://picryl.com/media/scarab-f34154
+[^30]: https://picryl.com/media/string-of-46-round-beads-in-graded-sizes-19ad36

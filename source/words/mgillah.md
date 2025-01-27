@@ -96,17 +96,18 @@ see <a href="#AVPesh">Ancient Versions: Peshitta</a>.
 <b>a. Septuagint (LXX)</b>: 
 
 * δρέπανον,  ‘sickle’:[^4] Zech 5:1, 2;
-* κεφαλὶς, ‘little head’ (dim. of κεφαλή),[^5] ‘rounded top end, scroll’:[^6] Ezek 2:9; 3:1, 2, 3; Ps 40:8 (LXX 39:8); Ezra 6:2;
-* χάρτης, ‘papyrus roll’:[^7] Jer 36:23 (LXX 43:23);
-* χαρτίον, ‘papyrus roll’ (dim. of χάρτης):[^8] Jer 36:2, 4, 6, 14<small><sup>1,2</sup></small>, 20, 21, 25, 27, 28<small><sup>1,2</sup></small>, 29, 32 (LXX 43:2, 4, etc.).
+* κεφαλίς, ‘little head’ (dim. of κεφαλή),[^5] ‘rounded top end, scroll’:[^6] Ezek 2:9; 3:1, 2, 3; Ps 40:8 (LXX 39:8); Ezra 6:2 (Aram.);
+* τόμος, ‘roll’:[^7] 1 Esd 6:22, rendering of Aram. <span dir="rtl" lang="he">מְגִלָּה</span> in Ezra 6:2;
+* χάρτης, ‘papyrus roll’:[^8] Jer 36:23 (LXX 43:23);
+* χαρτίον, ‘papyrus roll’ (dim. of χάρτης):[^9] Jer 36:2, 4, 6, 14<small><sup>1,2</sup></small>, 20, 21, 25, 27, 28<small><sup>1,2</sup></small>, 29, 32 (LXX 43:2, 4, etc.).
 
 
 <b><span id="AVPesh">b. Peshitta (Pesh)</span></b>: 
 
-* <span dir="rtl">ܟܪܟܐ</span> (<i>kerkā</i>), ‘book, volume, tome’:[^9] Ezek 2:9; 3:1, 2, 3;
+* <span dir="rtl">ܟܪܟܐ</span> (<i>kerkā</i>), ‘book, volume, tome’:[^10] Ezek 2:9; 3:1, 2, 3;
 * <span dir="rtl">ܡܓܠܬܐ</span> (<i>mgalṯā</i>), ‘scroll’:  Jer 36:2, 4, 6, 14<small><sup>1,2</sup></small></small>, 20, 21, 23, 25, 27, 28<small><sup>1,2</sup></small></small>, 29, 32; Zech 5:1, 2; Ezra 6:2 
 (cf. Syriac under <a href="#RCM">Root and Comparative Material</a>);
-* <span dir="rtl">ܪܝܫܐ</span> (<i>rīšā</i>), ‘head, top’:[^10] Ps 40:8, with 
+* <span dir="rtl">ܪܝܫܐ</span> (<i>rīšā</i>), ‘head, top’:[^11] Ps 40:8, with 
 <span dir="rtl">ܒܪܝܫ ܟܬ̈ܒܐ</span>, ‘in the head of the books’, as the translation of 
 <span dir="rtl">בִּמְגִלַּת סֵפֶר</span>.
 
@@ -120,16 +121,16 @@ Cf. Jewish Aramaic under <a href="#RCM">Root and Comparative Material</a>.
 <b>d. Vulgate (Vg)</b>:
 
 * <i>caput</i>, ‘head’: Ps 40:8 (Vg<small><sup>PsG</sup></small></small>), with <i>in capite libri</i>, ‘in the head of the book’, as the translation of <span dir="rtl">בִּמְגִלַּת סֵפֶר</span>;
-* <i>involutus</i>, ‘rolled up’ (from <i>involvere</i>, ‘to roll’):[^11] Ezek 2:9;
-* <i>liber</i>, ‘a book written for publication, volume, roll’:[^12] Jer 36:25;
-* <i>volumen</i>, ‘a roll of papyrus forming a book or part of a book, a roll of writing, a roll, book, volume’:[^13] Jer 36:2, 4, 6, 14<small><sup>1,2</sup></small></small>, 20, 21, 23, 27, 28<small><sup>1,2</sup></small>, 29, 32; Ezek 3:1, 2, 3; Zech 5:1, 2; Ps 40:8 (Vg<small><sup>PsH</sup></small>); Ezra 6:2.
+* <i>involutus</i>, ‘rolled up’ (from <i>involvere</i>, ‘to roll’):[^12] Ezek 2:9;
+* <i>liber</i>, ‘a book written for publication, volume, roll’:[^13] Jer 36:25;
+* <i>volumen</i>, ‘a roll of papyrus forming a book or part of a book, a roll of writing, a roll, book, volume’:[^14] Jer 36:2, 4, 6, 14<small><sup>1,2</sup></small></small>, 20, 21, 23, 27, 28<small><sup>1,2</sup></small>, 29, 32; Ezek 3:1, 2, 3; Zech 5:1, 2; Ps 40:8 (Vg<small><sup>PsH</sup></small>); Ezra 6:2.
 
 <b>A.1</b> In Jeremiah, LXX translates <span dir="rtl">מְגִלַּת סֵפֶר</span> as χαρτίον βιβλίου, ‘a small roll of a book’ (36:2 = LXX 43:2), 
 but <span dir="rtl">מְגִלָּה</span> alone only by χαρτίον  (36:6 = LXX 43:6). 
 In Ezek 2:9 and Ps 40:8 (LXX 39:8),
 the Greek translators render <span dir="rtl">מְגִלַּת סֵפֶר</span> 
 as κεφαλὶς βιβλίου, ‘a scroll of a book’, 
-but <span dir="rtl">מְגִלָּה</span> alone in Ezek 3:1-3 and Ezra 6:2 as κεφαλὶς . 
+but <span dir="rtl">מְגִלָּה</span> alone in Ezek 3:1-3 and Ezra 6:2 as κεφαλίς. 
 The translators of Zech 5:1-2 opted for δρέπανον, ‘sickle’, which presupposes a different vocalisation (<span dir="rtl">מַגָּל</span>, ‘sickle’).
 
 <b>A.2</b> Vg translates <span dir="rtl">מְגִלַּת סֵפֶר</span> as <i>volumen libri</i> in Jer 36:2, 4; Ps 40:8 (Vg<small><sup>PsH</sup></small>). 
@@ -141,7 +142,7 @@ The entire book could have been referred to as <i>liber</i> and the translation 
 
 <b>A.3</b> In Ps 40:8, the awkward renderings of <span dir="rtl">בִּמְגִלַּת סֵפֶר</span> in 
 Pesh and Vg<small><sup>PsG</sup></small> are due to the reading ἐν κεφαλίδι βιβλίου in LXX.
-Pesh and Vg<small><sup>PsG</sup></small> interpreted κεφαλὶς  as ‘(little) head’ (dim. of κεφαλή) instead of ‘scroll’.
+Pesh and Vg<small><sup>PsG</sup></small> interpreted κεφαλίς  as ‘(little) head’ (dim. of κεφαλή) instead of ‘scroll’.
 
 ##<span id="LSF">5. Lexical/Semantic Fields</span>
 
@@ -295,10 +296,11 @@ Philip Zhakevich, <i>Scribal Tools in Ancient Israel. A Study of Biblical Hebrew
 [^4]: Adrados, <i>DGE</i>, 1167; LEH<small><sup>1</sup></small>, 121;  <i>GELS</i>, 178.
 [^5]: LSJ, 945.
 [^6]: <i>GELS</i>, 396.
-[^7]: <i>GELS</i>, 729.
+[^7]: LSJ, 1804, <i>GELS</i>, 683.
 [^8]: <i>GELS</i>, 729.
-[^9]: Sokoloff, <i>SLB</i>, 645; similarly Payne Smith, <i>CSD</i>, 227.
-[^10]: Payne Smith, <i>CSD</i>, 539; Sokoloff, <i>SLB</i>, 1462.
-[^11]: Lewis & Short, <i>LD</i>, 997; <i>OLD</i>, 962-63.
-[^12]: Lewis & Short, <i>LD</i>, 1054-6; <i>OLD</i>, 1024.
-[^13]: Lewis & Short, <i>LD</i>, 2012; <i>OLD</i>, 2100.
+[^9]: <i>GELS</i>, 729.
+[^10]: Sokoloff, <i>SLB</i>, 645; similarly Payne Smith, <i>CSD</i>, 227.
+[^11]: Payne Smith, <i>CSD</i>, 539; Sokoloff, <i>SLB</i>, 1462.
+[^12]: Lewis & Short, <i>LD</i>, 997; <i>OLD</i>, 962-63.
+[^13]: Lewis & Short, <i>LD</i>, 1054-6; <i>OLD</i>, 1024.
+[^14]: Lewis & Short, <i>LD</i>, 2012; <i>OLD</i>, 2100.

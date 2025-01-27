@@ -8,8 +8,7 @@ semantic_fields: utensils, agriculture, metals,
 contributors: paul_sanders  
 first_published: 2017-12-29  
 last_update: 2023-11-29  
-contributors_footnote: Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project. 
-Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amsterdam). 
+contributors_footnote: Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project. Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amsterdam). 
 update_info:   
 
 ---
@@ -811,8 +810,7 @@ G. Ernest Wright, ‘Archaeological News and Views’, <i>BA</i> 6/2:32-36.
 
 ## Notes 
 
-Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project. 
-Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amsterdam).
+Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project. Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amsterdam).
 
 [^1]: If <span dir="rtl">מחרשֹׁת</span> in 13:21 were a plural form of  \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span>, the expected vocalisation in 13:21 would be  <span dir="rtl">מַחֲרָשֹׁת</span> (with <i>qameṣ</i>). Cf.  <span dir="rtl">מַעֲרָכוֹת</span> in Lev 24:6, <span dir="rtl">מַאֲכָלוֹת</span> in Prov 30:14, and the similar plural forms of other nouns mentioned in BL, 490&nbsp;aζ.
 [^2]: <i>DCH</i> v: 229-30. See also the discussion in <a href="#Versions">4. A.1-2</a> and <a href="#Exe-lit">6.1</a>.

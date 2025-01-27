@@ -137,9 +137,9 @@ against’ (Isa 31:2).
 
 <b>B.1</b>  Dahood proposes that the presence of the preposition  <span dir="rtl">מִן</span> in Ps
 60:13=108:13 indicates that  <span dir="rtl">עֶזְרָה</span> in these instances (and  <span dir="rtl">עֵזֶר</span> at
-Deut 33:7) denotes ‘liberation’ (1970:95-96; 1973:82). He compares it to
-the use of Ug. <i>wy‘drk byd</i> …, ‘and let him help you from the hand of …’
-at <i>KTU</i> 1.18.I:14, where <i>wy‘drk</i> occurs in parallel with
+Deut 33:7) denotes ‘liberation’ (1970:95-96; 1973:82). Dahood compares it to
+Ug. <i>wyʿdrk byd</i> … (<i>KTU</i> 1.18.I:14), which he translates as ‘to liberate you from the hand of …’, although the translation ‘and let him <i>help</i> you from the hand of …’ is more common.
+In this phrase, <i>wyʿdrk</i> occurs in parallel with
 <i>yplṭk</i> (from <i>plṭ</i>,
 ‘to deliver’). Dahood (1970:95) argues that in a similar manner to the
 verb  <span dir="rtl">ישׁע</span> having two meanings, ‘to help’ and ‘to rescue’, Ug. <i>ʿdr</i> and

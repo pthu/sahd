@@ -1,7 +1,7 @@
-# **Archibald van Wieringen**
+# **Archibald L.H.M. van Wieringen**
 
 
-Dr. Archibald van Wieringen is professor of Old Testament at Tilburg University
+Dr. Archibald L.H.M. van Wieringen is professor of Old Testament at Tilburg University
 
 
 Webpage:    
