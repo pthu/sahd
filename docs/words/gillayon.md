@@ -128,7 +128,7 @@ Probably all the Greek translators interpreted <span dir="rtl" lang="he">גִּ�
 
 
 Mirror from Egypt, silver and copper alloy, ca. 1479-1390 <small>BCE</small>,
-<a href="https://commons.wikimedia.org/wiki/File:Mirror_-_Egypt,_reportedly_from_Aswan,_New_Kingdom,_Dynasty_18,_c._1479-1390_BC,_silver_and_copper_alloy_-_Brooklyn_Museum_-_Brooklyn,_NY_-_DSC08678.JPG" target="_blank" rel="noopener noreferrer">https://commons.wikimedia.org/</a>
+<a href="https://commons.wikimedia.org/wiki/File:Mirror_-_Egypt,_reportedly_from_Aswan,_New_Kingdom,_Dynasty_18,_c._1479-1390_BC,_silver_and_copper_alloy_-_Brooklyn_Museum_-_Brooklyn,_NY_-_DSC08678.JPG" target="_blank" rel="noopener noreferrer">wikimedia-commons</a>
 
 
 ![Mirror Khorsabad](../images/photos/Mirror_Khorsabad.jpg)
