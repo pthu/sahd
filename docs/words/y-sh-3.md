@@ -513,14 +513,14 @@ Hiphil:
 107[106]:13, 19; 108[107]:7; 109[108]:26, 31; 116[114]:6; 118[117]:25;
 119[118]:94, 146; 138[137]:7; 145[144]:19; Job 22:29; 40:14; Lam 4:17; Neh
 9:27; 1&nbsp;Chron 16:35; 18:6, 13; 19:12; 2&nbsp;Chron 20:9; 32:22; 
-* Omitted: 2&nbsp;Kgs 19:34; Isa 25:9; Job 26:2?; Sir 31:6.    
+* Omitted: 2&nbsp;Kgs 19:34; Isa 25:9; Job 26:2?; Sir 31:6; large omission: Jer 30:10, 11.    
 
 [^4]: The English renderings of the Greek are based on <i>GELS</i>, <i>s.v.</i>; LEH<sup><small>3</small></sup>, <i>s.v.</i>.
 [^5]: <i>GELS</i>, 78; LEH<sup><small>3</small></sup>, 70, ‘let perish –<span dir="rtl" lang="he">יגוע</span>  for MT <span dir="rtl" lang="he">ישׁע</span> he saves’. 
 [^6]: <i>GELS</i>, 568–70, 668; LEH<sup><small>3</small></sup>, 501, 603; cf. <i>NETS</i>.
 
 
-Large omission: Jer 30:10, 11.  
+  
 
 Niphal:  
 
@@ -528,12 +528,13 @@ Niphal:
 * διασῴζω passive, `to come safe through/ to’: Num 10:9; Jer 8:20;  
 * \[[πλανάω, ‘to wander, go astray’]]: Isa 64:4;  
 * σῴζω active, ‘to save, keep alive’: Zech 9:9;  
-* σῴζω passive, ‘to be saved, attain salvation’:<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup> Deut 33:29; 2&nbsp;Sam 22:4; Isa 30:15; 45:17, 22; Jer 4:14; 17:14; 23:6; 30[37]:7; Pss 18[17]:4; 33[32]:16; 80[79]:4, 8, 20; 119[119]:117.  
+* σῴζω passive, ‘to be saved, attain salvation’:<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup> Deut 33:29; 2&nbsp;Sam 22:4; Isa 30:15; 45:17, 22; Jer 4:14; 17:14; 23:6; 30[37]:7; Pss 18[17]:4; 33[32]:16; 80[79]:4, 8, 20; 119[119]:117;  
+* Large omission: Jer 33:16.  
 
 [^7]: LEH<sup><small>3</small></sup>, 602, offers for σῴζω passive also the meaning ‘to save oneself, escape’. 
 
 
-Large omission: Jer 33:16.  
+
 
 
 <b>A.1</b>  Although the primary translation of ישׁע in the LXX is σῴζω and its
