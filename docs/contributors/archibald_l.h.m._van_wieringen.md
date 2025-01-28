@@ -1,3 +1,5 @@
+<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+
 # **Archibald L.H.M. van Wieringen**
 
 
@@ -14,3 +16,5 @@ Webpage:
 
 
  
+### Contributions
+[גִּלָּיוֹן – mirror, stone tablet (?)](../words/gillayon.md)<br>
