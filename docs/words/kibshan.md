@@ -9,9 +9,9 @@
 
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[Jacques T.A.G.M. van Ruiten](../contributors/jacques_t.a.g.m._van_ruiten.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
+[Jacques T.A.G.M. van Ruiten](../contributors/jacques_t.a.g.m._van_ruiten.md)<br>
 First published: 2025-02-5<br>Citation: Jacques T.A.G.M. van Ruiten, כִּבְשָׁן <i>kibšān</i> – kiln, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2025
+(WORK IN PROGRESS)
 
 
 
-<p id="contributors_footnote">additional_info: (WORK IN PROGRESS)</p>
