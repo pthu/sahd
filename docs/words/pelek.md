@@ -1098,6 +1098,6 @@ K. Lawson Younger, Jr., ‘The Phoenician Inscription of Azatiwada: An Integrate
 
 ## Notes
 
-Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023; professor emeritus Protestant Theological University, Kampen) and Benjamin Bogerd (Veenendaal) for their valuable suggestions.
+Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023; professor emeritus Protestant Theological University, Kampen) and Benjamin Bogerd (Protestant Theological University, Utrecht) for their valuable suggestions.
 
-<p id="contributors_footnote">Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023; professor emeritus Protestant Theological University, Kampen) and Benjamin Bogerd (Veenendaal) for their valuable suggestions.</p>
+<p id="contributors_footnote">Many thanks are due to Johannes C. de Moor (<sup>†</sup>2023; professor emeritus Protestant Theological University, Kampen) and Benjamin Bogerd (Protestant Theological University, Utrecht) for their valuable suggestions.</p>

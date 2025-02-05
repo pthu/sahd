@@ -810,7 +810,7 @@ G. Ernest Wright, ‘Archaeological News and Views’, <i>BA</i> 6/2:32-36.
 
 ## Notes 
 
-Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project. Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amsterdam).
+Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project. Thanks are also due to Benjamin Bogerd (Protestant Theological University, Utrecht).
 
 [^1]: If <span dir="rtl">מחרשֹׁת</span> in 13:21 were a plural form of  \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span>, the expected vocalisation in 13:21 would be  <span dir="rtl">מַחֲרָשֹׁת</span> (with <i>qameṣ</i>). Cf.  <span dir="rtl">מַעֲרָכוֹת</span> in Lev 24:6, <span dir="rtl">מַאֲכָלוֹת</span> in Prov 30:14, and the similar plural forms of other nouns mentioned in BL, 490&nbsp;aζ.
 [^2]: <i>DCH</i> v: 229-30. See also the discussion in <a href="#Versions">4. A.1-2</a> and <a href="#Exe-lit">6.1</a>.
@@ -843,19 +843,19 @@ Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowin
 [^29]: Jastrow, <i>DTT</i>, 764,  <i>WTM</i> iii:82, with reference to bKetubbot 68a, bBava Metziʿa 113b.   According to bBava Metziʿa 113ab, Raba son of Rabbah interpreted the word <span dir="rtl">מחרישה</span> in mBava Metziʿa 9:13  (see <a href="#mBM9:13">n. 26</a>) as ‘strigil’, not as ‘plough’.
 [^30]: This form is proposed in BDB, 361; KBL, 515; <i>HALOT</i>, 572; Ges<sup><small>18</small></sup>, 661.
 [^31]: This  form is proposed in <i>DCH</i> v:229.
-[^32]: Adrados, <i>DGE</i>, 1167; LEH<sup><small>1</small></sup>, 121;  <i>GELS</i>, 178.
-[^33]: LSJ, 1849; Montanari, <i>BDAG</i>, 2184.
-[^34]: Field I:507-08.
-[^35]: Field I:507.
-[^36]: Field I:508.
-[^37]: <i>GELS</i>, 328,  with reference to Van der Meer 2008:592-96. In all the other verses (Gen 24:65; 38:14, 19; Isa 3:23; Song 5:7), θέριστρον  is translated as ‘light summer garment’ or ‘veil’. 
-[^38]: LSJ, 793; <i>GELS</i>, 328.
-[^39]: Fernández Marcos & Busto Saiz 1989:36; Taylor 1992:42.
-[^40]: LSJ, 430; Montanari, <i>BDAG</i>, 530.  Adrados, <i>DGE</i>, 1094:1) ‘<i>azada de dos puntas, laya</i>’, 2) ‘<i>piqueta, azuela</i> para demolición’.
-[^41]: Field I:507-08.
-[^42]: Adrados, <i>DGE</i>, 521; LEH<sup><small>1</small></sup>, 62; <i>GELS</i>, 92.
-[^43]: LEH<sup><small>1</small></sup>, 204.
-[^44]: <i>GELS</i>, 328.
+[^32]: Adrados, <i>DGE</i>, 521; LEH<sup><small>1</small></sup>, 62; <i>GELS</i>, 92.
+[^33]: Field I:507.
+[^34]: Field I:508.
+[^35]: LSJ, 430; Montanari, <i>BDAG</i>, 530.  Adrados, <i>DGE</i>, 1094:1) ‘<i>azada de dos puntas, laya</i>’, 2) ‘<i>piqueta, azuela</i> para demolición’.
+[^36]: Field I:507-08.
+[^37]: Adrados, <i>DGE</i>, 1167; LEH<sup><small>1</small></sup>, 121;  <i>GELS</i>, 178.
+[^38]: LEH<sup><small>1</small></sup>, 204.
+[^39]: <i>GELS</i>, 328.
+[^40]: LSJ, 793; <i>GELS</i>, 328.
+[^41]: Fernández Marcos & Busto Saiz 1989:36; Taylor 1992:42.
+[^42]: <i>GELS</i>, 328,  with reference to Van der Meer 2008:592-96. In all the other verses (Gen 24:65; 38:14, 19; Isa 3:23; Song 5:7), θέριστρον  is translated as ‘light summer garment’ or ‘veil’.
+[^43]: LSJ, 1849; Montanari, <i>BDAG</i>, 2184.
+[^44]: Field I:507-08.
 [^45]: Payne Smith, <i>CSD</i>, 250; Sokoloff, <i>SLB</i>, 709.
 [^46]: Payne Smith, <i>CSD</i>, 285; Sokoloff, <i>SLB</i>, 793. <i>SLB</i> gives as a   second translation ‘part of plow’.
 [^47]: Jastrow, <i>DTT</i>, 1059. <i>WTM</i> iii:711 (Heb. <span dir="rtl">עֹושֶׁף</span>): ‘der spitze Theil eines Instrumentes, welcher zum Bohren und Pflügen diente, der andere scharfe Theil dieses Instrumentes diente zum Holzspalten’. According to mKelim 13:3, the → <span dir="rtl">קַרְדֹּם</span>  has an  <span dir="rtl">עֹושֶׁף</span> ‘paring/chipping edge’  and a  <span dir="rtl">בֵּית בִּקּוּעַ</span>   ‘splitting/chopping edge’.
@@ -881,7 +881,7 @@ Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowin
 [^67]: For the disputed translation of the terms, see  <i>WTM</i>;  Jastrow, <i>DTT</i>;  Dalman, <i>ANHT</i>;  Krauss 1911:172-73, 553-56; Danby 1933:636; Bunte 1972:372-75; Koller 2012:93-94.  A drawing in Albeck’s edition of the Heb. text (1959:93) shows which elements of the plough were assumed to be designated by the terms <span dir="rtl">חֶרֶב</span>,  <span dir="rtl">בֹּרֶךְ</span>,  <span dir="rtl">יָצוּל</span>  and <span dir="rtl">עֲרָיִין</span>.
 [^68]: See also Borowski 1987:52.
 [^69]: For emendation proposals and Barthélemy’s objections, see <a href="#Emend">Introduction A.2</a>.
-[^70]: Gesenius, <i>TPC</i> i:530,  translated one of the occurrences as <i>vomer</i>, ‘ploughshare’, and the other as <i>cultrum</i>, ‘knife’, <i>dens aratri</i>, ‘plough-point’.
+[^70]: Gesenius, <i>TPC</i> i:530,  translated one of the occurrences as <i>vomer</i>, ‘ploughshare’, and the other as <i>cultrum</i>, ‘coulter’, <i>dens aratri</i>, ‘plough-point’.
 [^71]: KJV, ASV, NJPS. In these translations, not only the final item of the list in 13:20 (MT: <span dir="rtl">מַחֲרֵשָׁתוֹ</span>) is translated as ‘mattock’, but the first item of the list in 13:21 (MT: <span dir="rtl">מַחֲרֵשֹׁת</span>) is also translated as ‘mattocks’, undoubtedly because these forms have the <i>ṣ<sup><small>e</small></sup>rē</i> vowel in common.
 [^72]: Cook 1994. In <i>DCH</i>, where the first occurrence of <span dir="rtl">מחרשׁה</span>/<span dir="rtl">מחרשׁת</span>  in 13:20 is translated as ‘ploughshare’, the second occurrence is also interpreted as ‘goad’ because of the parallelism with <span dir="rtl">דָּרְבָן</span> (<i>DCH</i> v:229-30).
 [^73]: Cook 1994:252, 254, n. 11.
@@ -898,4 +898,4 @@ Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowin
 [^83]: For the gradual replacing of bronze implements by iron implements in Israel/Palestine during the twelfth to tenth centuries <span style="text-transform:uppercase;">bce</span>, see McNutt 1990:209-11.
 [^84]: Borowski 1987:51, with  several drawings of plough-points (50-51, fig. 3, 4) and a survey of the sites where they were   discovered (49, 51).   For a similar description as well as drawings of plough-points, see <i>BRL</i><sup><small>2</small></sup>, 255 (fig. 66/1).  Excellent drawings of two iron plough-points excavated in Kinneret are offered in Fritz 1990:366-67   (Plate 116).  For a photo of an iron plough-point and other iron implements from Tel Miqne-Ekron,   see King & Stager 2001:93.
 [^85]: Cf. also  Wright 1943:35; Dietrich 2015:28.
-<p id="contributors_footnote">Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project. Thanks are also due to Benjamin Bogerd (Protestant Theological University, Amsterdam).</p>
+<p id="contributors_footnote">Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project. Thanks are also due to Benjamin Bogerd (Protestant Theological University, Utrecht).</p>
