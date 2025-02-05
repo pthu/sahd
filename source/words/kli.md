@@ -8,7 +8,7 @@ contributors: bob_becking, paul_sanders
 first_published: 2024-10-10    
 last_update:    
 update_info:    
-contributors_footnote: Many thanks are due to Benjamin Bogerd (Veenendaal), especially for his analysis of the renderings in the Targumim.   
+contributors_footnote: Many thanks are due to Benjamin Bogerd (Protestant Theological University, Utrecht), especially for his analysis of the renderings in the Targumim.   
 additional_info: (WORK IN PROGRESS)     
 shebanq_id:     
 
@@ -17,7 +17,7 @@ shebanq_id:
 ##<span id="I">Introduction</span>
 
 Grammatical type: noun masc.   
-Occurrences: 325x HB (99/140/86); 
+Occurrences:   325x HB (99/140/86); 
 6x Sir; 72x Qum; 
 0x Inscr. (Total: 403)
 
@@ -1019,7 +1019,7 @@ Mosheh Zvi Segal, <span dir="rtl">ספר בן סירא השלם׃ כולל כל 
 
 ## Notes
 
-Many thanks are due to Benjamin Bogerd (Veenendaal), especially for his analysis of the renderings in the Targumim.
+Many thanks are due to Benjamin Bogerd (Protestant Theological University, Utrecht), especially for his analysis of the renderings in the Targumim.
 
 [^1]: Ms A inserts Sir 27:5-6 after 6:22 (A IIr 23-25; cf. Beentjes 1997:3-4, 28).
 [^2]: Ms CD-A of the Damascus Document, discovered in the Cairo Genizah, is dated to the 10th century <span style="text-transform:uppercase;">ce</span>.   4Q270/4QD<small><sup>e</sup></small>, 4Q271/4QD<small><sup>f</sup></small>, and other fragmentary manuscripts prove  that the composition was known in Qumran and predates the first century <span style="text-transform:uppercase;">bce</span>. For the reliability of CD-A's text, see DJD XVIII, 6-7. Some of the fragments from Qumran show damaged lines in whose missing parts a form of <span dir="rtl">כלי</span> can be reconstructed on the basis of CD-A or other fragments from Qumran. See the following endnotes.
