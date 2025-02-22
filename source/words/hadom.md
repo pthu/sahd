@@ -27,10 +27,10 @@ Occurrences: 6x HB (0/1/5); 0x Sir; 3x Qum; 0x inscr. (Total:
 
 <b>A.2</b> In contrast, footstools of the 9th-7th centuries have four legs, and are truly stools. Often the legs terminate in pine or cedar cones, as chair and table legs from the region often do. There are stretchers, sometimes with scroll work. Sometimes there are projections to hold a cushion in place (Baker 1966:182 figure 291; 185 figure 297; 187 figures 299-300; 189 figure 302; 190-91 figures 304-5). Layard describes the remains of a throne and footstool at Nimrud: the footstool was of wood overlaid with embossed metal, decorated with the heads of rams or bulls. The feet had lion’s paws and pine cones (Baker 1966:188).
 
-<b>A.3</b> Syrian footstools of the 8th century were plainer, either solid with a little decoration, or with an arch beneath, e.g. the triple-staged footstool depicted on Ahiram’s sarcophagus (<i>ANEP</i> 456, 458: Ahiram of Byblos). However, that of Bar-Rakib at Zincirli is Assyrian in style, with four feet, scroll work on the stretcher and pine-cone feet (Baker 1966:207-208, figures 336-339). See also <i>ANEP</i> 515 (Hammurabi and Shamash),
-518 (Meli-Shipak and goddess),
-630-631 (women, from Zincirli and Marash),
-635 (Agbar the priest from Nerab), 
+<b>A.3</b> Syrian footstools of the 8th century were plainer, either solid with a little decoration, or with an arch beneath, e.g. the triple-staged footstool depicted on Ahiram’s sarcophagus (<i>ANEP</i> 157-58, #456, #458: Ahiram of Byblos). However, that of Bar-Rakib at Zincirli is Assyrian in style, with four feet, scroll work on the stretcher and pine-cone feet (Baker 1966:207-208, figures 336-339). See also <i>ANEP</i> 175, #515 (Hammurabi and Shamash);
+176, #518 (Meli-Shipak and goddess);
+207, #630, #631 (women, from Zincirli and Marash);
+208, #635 (Agbar the priest from Nerab); 
 and Laser (1968:55 figures 11, 12).
 
 ![EL](../photos/Barrakib.jpeg)    

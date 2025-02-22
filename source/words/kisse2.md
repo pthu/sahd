@@ -45,7 +45,7 @@ Occurrences: 135x HB (4/85/46); 5x Sir; 25x Qum; 0x inscr. (Total:
 ##Art and Archaeology
 
 <b>A.1</b> 
-Thrones are very frequently represented in the Ancient Near East, especially in Egyptian and Assyrian art, and these represent the two main styles. For thrones of approximately biblical date and provenance, see Broshi (1962:219-20): an Egyptian-style round-backed throne flanked by sphinxes, found in Israel, and the similar one on the Ahiram sarcophagus (see below and <i>ANEP</i> 458). Metzger (1985:II, figure 271A) provides a drawing of a throne with lion figures on the arm rests, belonging to Rameses III. There is an Assyrian-style throne with cedar cone feet, scroll work on stretcher, and straight backrest on the Bar-Rakib stele (<i>ANEP</i> 460). See also Keel (1977, figures 111, 113, 114, 115).
+Thrones are very frequently represented in the Ancient Near East, especially in Egyptian and Assyrian art, and these represent the two main styles. For thrones of approximately biblical date and provenance, see Broshi (1962:219-20): an Egyptian-style round-backed throne flanked by sphinxes, found in Israel, and the similar one on the Ahiram sarcophagus (see below and <i>ANEP</i> 158, #458). Metzger (1985:II, figure 271A) provides a drawing of a throne with lion figures on the arm rests, belonging to Rameses III. There is an Assyrian-style throne with cedar cone feet, scroll work on stretcher, and straight backrest on the Bar-Rakib stele (<i>ANEP</i> 158 #460). See also Keel (1977, figures 111, 113, 114, 115).
 
 ![EL](../photos/Ahiram.jpg)
 
