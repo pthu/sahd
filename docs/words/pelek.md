@@ -500,7 +500,7 @@ used.<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_mo
 Although several depictions seem to be somewhat schematic, they 
 demonstrate that the processing of flax into linen went differently from the processing of wool.
 
-[^19]: See the illustrations in <i>ANEP</i>, no. 142, 143; Dothan 1963:106-09; Barber 1991:45, 48, 74, 76; Spinazzi-Lucchesi 2018:190. 
+[^19]: See the illustrations in <i>ANEP</i> 42, #142, #143; Dothan 1963:106-09; Barber 1991:45, 48, 74, 76; Spinazzi-Lucchesi 2018:190. 
 
 In ancient Egypt, the spindle whorl was placed near the top of the spindle. 
 Before the high-whorl spindles were used, the long flax fibres were spliced into continuous threads by twisting the ends of the fibres together
@@ -546,7 +546,7 @@ Spinazzi-Lucchesi 2018:27-29, 97-101.
 
 <b>A.3</b> 
 A relief from Susa (western Iran, 8th to early 6th cent. <small>BCE</small>) 
-displays a woman whose hands hold a spindle onto which yarn has been wound (<i>ANEP</i>, no. 144). Reliefs on several neo-Hittite monuments
+displays a woman whose hands hold a spindle onto which yarn has been wound (<i>ANEP</i> 43, # 144). Reliefs on several neo-Hittite monuments
 from northern Syria and southeastern Turkey show women holding a spinning instrument in either their right or their left hand. 
 One of these reliefs displays a woman with yarn wound onto her spindle; see <a href="#Maraş">Figure&nbsp;3</a> (complete figure: Bonatz 2000: pl. 18 C 51).
 

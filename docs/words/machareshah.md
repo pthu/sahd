@@ -10,7 +10,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Agriculture](../semantic_fields/agriculture.md)&nbsp;&nbsp;&nbsp;[Metals](../semantic_fields/metals.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Paul Sanders](../contributors/paul_sanders.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
-First published: 2017-12-29<br>Last update: 2023-11-29 <br>Citation: Paul Sanders, מַחֲרֵשָׁה/מַחֲרֶשֶׁת <i>maḥ<small><sup>a</sup></small>rēšāh</i>/<i>maḥ<small><sup>a</sup></small>rèšet</i> – plough, hoe (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2017 (update: 2023)
+First published: 2017-12-29<br>Last update: 2025-02-15 <br>Citation: Paul Sanders, מַחֲרֵשָׁה/מַחֲרֶשֶׁת <i>maḥ<small><sup>a</sup></small>rēšāh</i>/<i>maḥ<small><sup>a</sup></small>rèšet</i> – plough, hoe (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2017 (update: 2025)
 
 
 ##<span id="I">Introduction</span>
@@ -145,11 +145,12 @@ Derivatives relating to a utensil are not attested.
 
 <span id="Ugar"><b>A.3</b> <i>Ugaritic</i>:</span> 
 The Ug. cognate of Heb. <span dir="rtl">חרשׁ</span> I 
-is <i>ḥrṯ</i>, ‘to plough’.<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> The Ug. noun <i>mḥrṯt</i> (<i>KTU</i> 1.6:IV.3, 14; 6.14:3)
-is usually interpreted as 
-‘ploughed field’.<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup> 
-However, Oswald Loretz proposed to regard it as
-a <i>nomen instrumenti</i> denoting the ploughshare or  the plough as a whole.<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup> 
+is <i>ḥrṯ</i>, ‘to plough’.<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> The Ug. noun <i>mḥrṯt</i> in <i>KTU</i> 1.6:IV.3, 14 and <i>KTU</i> 6.14:3
+is usually either interpreted as 
+‘ploughed field’, or as a <i>nomen instrumenti</i> denoting the ploughshare or the plough as a whole.<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup> 
+The interpretation as ‘plough(share)’
+is more often assumed for <i>KTU</i> 6.14:3 than for 
+<i>KTU</i> 1.6:IV.3, 14.<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup>
 
 <b> A.4</b> 
 <i>Arabic</i>:
@@ -808,6 +809,14 @@ Wright 1943 <br>
 G. Ernest Wright, ‘Archaeological News and Views’, <i>BA</i> 6/2:32-36.
 </div>
 
+<div style="padding-left: 22px; text-indent: -22px;">
+Yogev 2025 <br>
+Jonathan Yogev, ‘A Bull with a Plow: Notes on RS 6.028 (KTU 6.14)’, in 
+???? (eds), <i>‘I, Daniel, Understood from the Scrolls’ (Daniel 9:2): Studies in Honor of Professor Daniel Sivan</i>, ???-???.
+</div>
+
+
+
 ## Notes 
 
 Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project. Thanks are also due to Benjamin Bogerd (Protestant Theological University, Utrecht).
@@ -829,8 +838,8 @@ Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowin
 [^15]: <i>CAD</i> E, 285-89. Similarly: <i>AHw</i> i:238-39.
 [^16]: <i>CAD</i> M II, 23-25. Similarly: <i>AHw</i> ii:645-46.
 [^17]: <i>WUS</i>, 108-09;  <i>UT</i>, 399 (# 905); <i>DULAT</i><sup><small> 1</small></sup>, 371-72; <i>DULAT</i><sup><small> 3</small></sup>, 367; <i>KWU</i>, 47.
-[^18]: <i>WUS</i>, 108;  <i>DLU</i>, 268;  <i>UG</i>, 267;  <i>DULAT</i><sup><small> 1</small></sup>, 537-38; <i>DULAT</i><sup><small> 3</small></sup>, 531.
-[^19]: Loretz 1993.  After a discussion of the various translations, the interpretation as ‘plough(share)’ is rejected in Dietrich & Loretz 2005, 228-30 (<i>bmḥrṯt</i> in <i>KTU</i> 6.14:3 interpreted as ‘from the agricultural field’; cf. <i>TUAT.NF</i> 6: 86). <i>KWU</i>, 71, assumes the meaning ‘Ackerland’ (cultivated land) for the occurrences  in <i>KTU</i> 1.6:IV.3, 14,  but prefers the translation ‘Pflug’ (plough) for the occurrence in <i>KTU</i> 6.14:3.
+[^18]: See <i>WUS</i>, 108; <i>DLU</i>, 268; <i>UG</i>, 267; <i>DULAT</i><sup><small> 1</small></sup>, 537-38; <i>DULAT</i><sup><small> 3</small></sup>, 531. After a discussion of the various translations, the interpretation as ‘plough(share)’ is rejected by Dietrich and Loretz (2005, 228-30; cf. <i>TUAT.NF</i> 6: 86), although Loretz previously interpreted all the three occurrences of <i>mḥrṯt</i> as ‘ploughshare’ (Loretz 1993).
+[^19]: Cf. Yogev 2025. <i>KWU</i>, 71, prefers the translation ‘Pflug’ (plough) for the occurrence in <i>KTU</i> 6.14:3, and suggests that <i>mḥrṯt</i> in <i>KTU</i> 1.6:IV.3, 14 is a different noun with the meaning ‘Ackerland’ (cultivated land).   
 [^20]: Lane,  541-42; Wehr, 166.
 [^21]: <i>SD</i>, 71; <i>DOSA</i>, 192.
 [^22]: <i>CDG</i>, 243.
@@ -889,9 +898,9 @@ Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowin
 [^75]: In NASB not only <span dir="rtl">מחרשׁה</span>/<span dir="rtl">מחרשׁת</span> at the end of 13:20 but also <span dir="rtl">דָּרְבָן</span> at the end of 13:21 is translated as ‘hoe’.
 [^76]: Fokkelman (1986:45) identified the first occurrence of <span dir="rtl">מחרשׁה</span>/<span dir="rtl">מחרשׁת</span> in 1 Sam 13:20 with a scythe, probably due to LXX θέριστρον.  Like many others (see <a href="#Emend2">Introduction A.2</a>), Fokkelman replaced the second occurrence  in the same verse by <span dir="rtl">חֶרְמֵשׁ</span>, ‘sickle’.
 [^77]: Wiggermann (1999:189-90, 228) remarks that if one ox is depicted this must be due to artistic convention, ‘since one ox cannot pull a plough in a straight line’ (190). Differently: Borowski 1987:51; Seidl 2003-2005:514.
-[^78]: Egyptian: Fig. 1 in the present article; <i>ANEP</i>, 25 (fig. 84),  27 (fig. 91),  37 (fig. 122);    <i>BRL</i><sup><small>2</small></sup>, 255 (fig. 66/2); Borowski 1987:53 (fig. 5), 58 (fig. 8), 60 (fig. 10); Mesopotamian: Wiggermann 1999:228 (fig. 7a, 7b).
+[^78]: Egyptian: Fig. 1 in the present article; <i>ANEP</i> 25, #84; 27, #91;  37, #122;  <i>BRL</i><sup><small>2</small></sup>, 255 (fig. 66/2); Borowski 1987:53 (fig. 5), 58 (fig. 8), 60 (fig. 10); Mesopotamian: Wiggermann 1999:228 (fig. 7a, 7b).
 [^79]: Mesopotamian: Lambert 1979:22-23, regarding Plate VII fig. 63; Wiggermann 1999:228 (fig. 7c), 230 (fig. 9); Egyptian: Borowski 1987:53 (fig. 5); Nicholson & Shaw 2000:270 (fig. 11.2).
-[^80]: Only Mesopotamian: <i>ANEP</i>, 25 (fig. 86, cf. 88);  Borowski 1987:55 (fig. 6; cf. 56 fig. 7); Wiggermann 1999:228 (fig. 7d);  Seidl 2003-2005, 514.
+[^80]: Only Mesopotamian: <i>ANEP</i> 25, #86; cf. #88;  Borowski 1987:55 (fig. 6; cf. 56 fig. 7); Wiggermann 1999:228 (fig. 7d);  Seidl 2003-2005, 514.
 [^81]: Borowski 1987:53-56. However, Borowski (47-48, 53-54) shows that also in Israel the relationship between ploughing and sowing  was close, since ploughing was done for the sole   purpose of sowing (cf. Isa 28:24).
 [^82]: See Figure 2 and Dalman, <i>AuS</i> 2,  plates 18-39. See also the discussion in Dalman, <i>AuS</i> 2, 64-115; Borowski 1987:48; King & Stager 2001:92.
 

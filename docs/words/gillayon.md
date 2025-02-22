@@ -8,7 +8,7 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=גִּלָּיֹון&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># גִּלָּיוֹן <i>gillāyōn</i> – mirror, stone tablet (?)
 
 Semantic Fields:
-[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Writing](../semantic_fields/writing.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Archibald L.H.M. van Wieringen](../contributors/archibald_l.h.m._van_wieringen.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
 First published: 2025-02-05<br>Citation: Archibald L.H.M. van Wieringen, גִּלָּיוֹן <i>gillāyōn</i> – mirror, stone tablet (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2025
 (WORK IN PROGRESS)
@@ -23,6 +23,22 @@ Occurrences:   2x HB (0/2/0); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2).
 * Nebiim: Isa 3:23; 8:1.
 
 
+<b>B.1</b> <i>BHS</i> suggested on the basis of Akkadian <i>gulīnu</i>, ‘clothes’, that in Isa 3:23
+*<span dir="rtl" lang="he">וְהַגְּלִיֹנִים</span> should be read instead of MT
+<span dir="rtl" lang="he">וְהַגִּלְיֹנִים</span>.
+
+<b>B.2</b>  There have also been emendation proposals for the reading <span dir="rtl" lang="he">גִּלָּיוֹן גָּדוֹל</span> in Isa 8:1. 
+It has been suggested that in Isa 8:1 LXX
+καινοῦ is a corrupted form of κλήρου, ‘????’,
+‘piece of wood’,
+and that the Hebrew text of Isa 8:1 should read \*<span dir="rtl" lang="he">גִּלְיוֺן גּוֺרָל</span>, ‘????’, instead of <span dir="rtl" lang="he">גִּלָּיוֺן גָּדוֺל</span>
+(<i>BHS</i>; see also <i>HAL</i>, 185 *<span dir="rtl" lang="he">גִּלָּיוֺן גּוֺרָל</span>, ‘eine Allmende-Blatt’).
+However, as Williamson rightly observes,
+‘1QIsa<sup><small>a</small></sup> has exactly the same as MT, and all the versions agree in rendering the second word as ‘‘big, large’’ ’ (Williamson 2018:193).
+
+
+
+
 <span id="RCM"></span>
 ## 1. Root and Comparative Material
 
@@ -30,8 +46,8 @@ Occurrences:   2x HB (0/2/0); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2).
 The nominal formation of <span dir="rtl" lang="he">גִּלָּיוֹן</span> is not unusual in Hebrew and parallels 
 <span dir="rtl" lang="he">בִּזָּיוֹן</span>,
 <span dir="rtl" lang="he">דִּמְיוֹן</span> 
-(cstr. of
-*<span dir="rtl" lang="he">דִּמָּיוֹן</span>?),
+(cstr. of 
+\*<span dir="rtl" lang="he">דִּמָּיוֹן</span>?),
 <span dir="rtl" lang="he">הִגָּיוֹן</span>, 
 <span dir="rtl" lang="he">הֵרָיוֹן</span>,
 <span dir="rtl" lang="he">חִזָּיוֹן</span>, 
@@ -39,23 +55,24 @@ The nominal formation of <span dir="rtl" lang="he">גִּלָּיוֹן</span> i
 <span dir="rtl" lang="he">נִקָּיוֹן</span>, 
 <a href="/words/pidyon"><span dir="rtl" lang="he">פִּדְיוֺן</span></a>
 (cstr. of
-*<span dir="rtl" lang="he">פִּדָּיוֺן</span>?), 
+\*<span dir="rtl" lang="he">פִּדָּיוֺן</span>?), 
 and
 <span dir="rtl" lang="he">שִׁגָּיוֹן</span>;
 cf. <span dir="rtl" lang="he">עֶלְיוֺן</span>.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup>
-The radical <span dir="rtl" lang="he">ה</span> is replaced by <span dir="rtl" lang="he">י</span> (<i>yod</i>) followed by the noun formation ending
+The third radical <span dir="rtl" lang="he">ה</span> of the root of these nouns is replaced by <span dir="rtl" lang="he">י</span> (<i>yod</i>) followed by the noun formation ending
 <span dir="rtl" lang="he">וֺן</span>- according to the pattern <i>qatalān</i>/<i>qatalōn</i>.<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup>
 This background strongly suggests that the word 
 <span dir="rtl" lang="he">גִּלָּיוֹן</span> should be derived from 
 √<span dir="rtl" lang="he">גלה</span>, ‘to uncover, reveal’,<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>
 not from 
-√<span dir="rtl" lang="he">גלל</span>, ‘to roll’ (cf. part of the 
-<a href="#AV">Ancient Versions</a>); 
-<i>pace</i> Norin 2006, whose proposal ‘cylinder seal’ is also objectionable on contextual grounds.
+√<span dir="rtl" lang="he">גלל</span>, ‘to roll’.
+This thwarts the interpretation of <span dir="rtl" lang="he">גִּלָּיוֹן</span>
+as a byform of <a href="/words/mgillah"><span dir="rtl" lang="he">מְגִלָּה</span></a>, ‘scroll’ (<span dir="rtl" lang="he">גִּלָּיוֹן</span> V in <i>DCHR</i> ii:406; cf. part of the <a href="#AV">Ancient Versions</a>), 
+or as ‘(cylinder) seal’ (<span dir="rtl" lang="he">גִּלָּיוֹן</span> IV in <i>DCHR</i> ii:406; cf. Norin 2006). The latter proposal is also objectionable on contextual grounds.
 
 [^1]: See esp. BL 498; Meyer, <i>HG</i>, 41.1.a; Lowth 1815:233; cf. Reckenberger 1749:227: ‘nomen ex coniugatione gravi formatum’.
 [^2]: As in Ugaritic: Gordon, <i>UT</i>, 8.58; Sivan 1997:73-74; Tropper, <i>UG</i>, 271-73.
-[^3]: See already Gesenius, <i>TPC</i> i:285; BDB, 163.
+[^3]: See already Gesenius, <i>TPC</i> i:285; BDB, 163; also KBL, 184; <i>HALOT</i>, 193; Ges<sup><small>18</small></sup>, 218. See also <i>DCHR</i> ii:406 <span dir="rtl" lang="he">גִּלָּיוֹן</span> I (‘tablet’), II (‘mirror)’, and III (‘garment’).
 
 <b>A.2</b> 
 √<i>glw/y</i> is attested in almost all Semitic languages (Cohen <i>et al.</i>, <i>DRS</i>, fasc. 3:120-22; Leslau, <i>CDG</i>, 192-93). 
@@ -237,10 +254,10 @@ It seems that many of the elements in this enumeration form couples or triplets,
 <span dir="rtl" lang="he"> מַעֲטָפָה</span>, ‘cloak’, and 
 <span dir="rtl" lang="he"> מִטְפַּחַת</span>, ‘wrap’. If this is correct, then 
 <span dir="rtl" lang="he"> גִּלָּיוֹן</span> might form a couple with 
-<span dir="rtl" lang="he"> חָרִיט</span>, ‘purse’. This implies that is probably not a garment, but a portable trinket.
+<span dir="rtl" lang="he"> חָרִיט</span>, ‘purse’. This implies that it is probably not a garment, but a portable trinket.
 
 <b>A.2</b> In Isa 8:1, 
-<span dir="rtl" lang="he"> גִּלָּיוֹן</span> is part of the semantic field of writing, expressed in the words
+<span dir="rtl" lang="he"> גִּלָּיוֹן</span> is part of the semantic field of ‘writing’, expressed in the words
 <span dir="rtl" lang="he"> כתב</span>, ‘to write’, and 
 <span dir="rtl" lang="he"> חֶרֶט אֱנוֹשׁ</span>, ‘a normal stylus’ 
 (→ <span dir="rtl" lang="he"> חֶרֶט</span>).
@@ -263,11 +280,9 @@ A few verses later, <i>Maher-šalal-ḥaš-baz</i> appears to be the name of Isa
 In 8:6-8 it is announced that Judah cannot hope to escape the same fate (cf. Waschke 2007:121). 
 However, this explanation had to wait until the child was born and so people passing Isaiah’s <span dir="rtl" lang="he">גִּלָּיוֹן</span> were kept in the dark for nine months.
 
-<b>A.2</b> In past scholarship the meaning of <span dir="rtl" lang="he">גִּלָּיוֹן</span> in Isa 8:1 has been assumed to be ‘board, tablet’ or the like (REFERENCE TO SECTION OR LITERATURE). 
-This still remains a possibility. 
+<b>A.2</b> In past scholarship the meaning of <span dir="rtl" lang="he">גִּלָּיוֹן</span> in Isa 8:1 has been assumed to be ‘board’, ‘tablet’, or the like (BDB, 163; KBL, 184; <i>HALOT</i>, 193; Ges<sup><small>18</small></sup>, 218; <i>DCHR</i> ii:406 <span dir="rtl" lang="he">גִּלָּיוֹן</span> I; cf. <a href="#AVTG">Tg<sup><small>J</small></sup></a>). This still remains a possibility. 
 However, it is difficult to understand then that the word → <span dir="rtl" lang="he">לוּחַ</span>, ‘board, plank’, was not chosen, as it was in Hab 2:2. 
 Therefore, an alternative solution is presented here.
-
 
 <b>A.3</b> The noun <span dir="rtl" lang="he">גִּלָּיוֹן</span> should be derived from √<span dir="rtl" lang="he">גלה</span>, ‘to uncover, reveal’, not from √<span dir="rtl" lang="he">גלל</span>, ‘to roll’; 
 see <a href="#RCM">Root and Comparative Material A.1</a> (cf. also Leopold 1910:68 ‘tabula polita et rasa, specula ex metallo polito confecta’). 
@@ -280,10 +295,11 @@ This tallies with several <a href="#AV">Ancient Versions</a> which understood <s
 
 <b>A.4</b> The writing thus serves various objectives, appropriate to the text-internal communication (cf. Van Wieringen 2006). The divine message is exposed to the general public, in order to recognise themselves in the reflection of the mirror and the prophetic words written on it – and via the general public to the text-internal reader as well. To reach the general public, the message had to be incised in an unusually large tablet or mirror. Normally writing tablets and mirrors were smaller (→ <span dir="rtl" lang="he">מַרְאָה</span> and <span dir="rtl" lang="he">רְאִי</span>). In the second place the inscription in durable stone or metal makes the prophetic words lasting. In case of vandalism of angry people the words remained intact. The object had to prove the reliability of Isaiah's announcement later on (compare Isa 8:16, 17-18). The durability and reliability of the prophetic words on Isaiah’s inscription are confirmed by two reliable witnesses (Isa 8:2).
 
-<b>A.5</b>  The plural <span dir="rtl" lang="he">גִּלְיֹנִים</span> is attested in Isa 3:23. 
+<b>A.5</b>  The plural <span dir="rtl" lang="he">גִּלְיֹנִים</span> is attested in Isa 3:23.
+There is insufficient reason to regard this form as deriving from a different word than <span dir="rtl" lang="he">גִּלָּיוֹן</span> in Isa 8:1 (against Ges<sup><small>18</small></sup>, 218).
 Although the following words are usually explained as garments, the immediately preceding <span dir="rtl" lang="he">חֲרִיטִים</span> 
-means ‘purses’, 
-so there is no reason why mirrors would not be mentioned as objects used predominantly by rich ladies. 
+means ‘purses’. 
+Therefore, there is no reason why mirrors would not be mentioned as objects used predominantly by rich ladies. 
 Ancient pictorial and archaeological evidence also suggests that mirrors were popular among women (see 6.2 below).
 There is insufficient reason to think of  exotic papyrus garments; <i>pace</i> Hönig 1957:118, and <i>CHALOT</i>, 61, who suggest that the meaning of something made of papyrus might be possible for both Isa 3:23, namely garments of papyrus, and 8:1, namely a writing surface of papyrus.
 
@@ -291,10 +307,13 @@ There is insufficient reason to think of  exotic papyrus garments; <i>pace</i> H
 ### 6.2 Pictorial Material and Archaeology
 
 <b>A.1</b> See the following literature for illustrations and discussion:
-<i>ANEP</i> (##71, 76, 78, 216, 631, 632, 854); Winter 1983, Pl. 1-10; Albenda 1985; Anlen & Padiou 1989; Bonatz 2000:82-85; Derriks 2001.
+<i>ANEP</i> 21, #71; 23, #76, #78; 68, #216; 207, #631, #632; Winter 1983, Pl. 1-10; Albenda 1985; Anlen & Padiou 1989; Bonatz 2000:82-85; Derriks 2001.
 The evidence suggests that hand mirrors were used by women.
 
-<b>A.2</b> Mirrors are attested as early as the 20th century <small>BCE</small> in the Egyptian Tale of Sinuhe (<i>COS</i> i:82). For Mesopotamia, see Pappi 2011. Mirrors have been found in graves of women since the Ǧemdet Naṣr period (Salonen, <i>Hausgeräte</i>, Bd. 1, 110), 
+<b>A.2</b> Mirrors are attested as early as the 20th century <small>BCE</small> in the Egyptian Tale of Sinuhe (<i>COS</i> i:82). On her sarcophagus (ca. 2000 <small>BCE</small>), Princess Kawit is depicted with a mirror in her left hand; see <a href="https://upload.wikimedia.org/wikipedia/commons/1/12/Princess_Kaiwit_having_her_hair_dressed%2C_circa_2000BC._Wellcome_M0006211.jpg" target="_blank" rel="noopener noreferrer">https://upload.wikimedia.org/</a> (=
+<i>ANEP</i> 23, #76). 
+
+For Mesopotamia, see Pappi 2011. Mirrors have been found in graves of women since the Ǧemdet Naṣr period (Salonen, <i>Hausgeräte</i>, Bd. 1, 110), 
 were extremely popular among women in Mesopotamia (see, e.g., Nemet-Nejat 1993) and Egypt (Munro 1969). 
 Mirrors occur in dowry lists, e.g., 204 such items in the dowry of an Egyptian princess (EA 14:II.65-66, 75-79; for EA 14 as a dowry list, see Kühne 1973, 70-71).
 
@@ -324,7 +343,7 @@ Already in some of the oldest translations
 Northwest Semitic languages; see <a href="#RCM">Root and Comparative Material</a>
 
 <b>A.2</b> 
-The common interpretation of <span dir="rtl">גִּלָּיוֹן</span> in Isa 8:1 as ‘tablet’ or ‘writing board’ rests on a precarious basis. Only one of the ancient versions supports it (Tg<sup><small>J</small></sup>). Furthermore, it is unclear why the usual designation of such an object (<span dir="rtl" lang="he">לוּחַ</span>) would have been avoided here. For these reasons, this view should be considered a possible but less likely option.
+The common interpretation of <span dir="rtl">גִּלָּיוֹן</span> in Isa 8:1 as ‘tablet’ or ‘writing board’ rests on a precarious basis. Only one of the ancient versions supports it (<a href="#AVTG">Tg<sup><small>J</small></sup></a>). Furthermore, it is unclear why the usual designation of such an object (<span dir="rtl" lang="he">לוּחַ</span>) would have been avoided here. For these reasons, this view should be considered a possible but less likely option.
 
 <b>A.3</b>
 A better solution is to accept the meaning ‘mirror’ also for <span dir="rtl">גִּלָּיוֹן</span> in Isa 8:1. Following this interpretation of Isa 8:1, the goal of Isaiah’s writing on a mirror was apparently to warn passers-by who saw their reflection in it and to make them realise that they were the target of the inscription. 
