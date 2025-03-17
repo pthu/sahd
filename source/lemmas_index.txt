@@ -27,6 +27,7 @@
 
 ה
 הֲדֹם : footstool : hadom
+חֶרֶט : burin : cheret
 
 ו
 
@@ -57,9 +58,9 @@
 מָאוֹר : light : ma2or
 מְגִלָּה : scroll : mgillah
 מוֹשָׁעָה : deliverance : mosha3ah
+מְחוּגָה : callipers : mchugah
 מַחֲרָשָׁה/מַחֲרֶשֶׁת : plough : machareshah
 מַפְרֶקֶת : neck : mapreqeth
-
 
 נ
 נָבִיא/נְבִיאָה : prophet(ess) : nabi2
@@ -68,6 +69,7 @@
 
 ע
 עֶזְרָה : help : 3ezrah
+עֵט : stylus : 3ot
 עֲטָרָה : wreath, crown : 3atarah
 
 פ
@@ -83,15 +85,19 @@
 
 צ
 צלה : to roast : ts-l-h
+צִפֹּרֶן : nail : tsipporen
 
 ק
 קבב : to curse : q-b-b
-
+קֶסֶת : inkpot(?) : qeseth
 
 ר
 רֹאֶה : seer : ro2eh
 
-ש
+שׂ
+שֶׂרֶד : scriber : cered
+
+שׁ
 שָׁנִי : bright red dye : shani_1
 שׁוֹעַ : great man : shoa3
 שׁוּעַ : cry for help : shua3
