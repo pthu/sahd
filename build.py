@@ -233,7 +233,7 @@ def get_pointless(word_hebrew):
 def get_ubs_reference(word_hebrew, ubs_dict):
     pointless = get_pointless(word_hebrew)
     first_char = pointless[len(pointless) - 1]
-    if pointless in ubs_dict[first_char]:
+    if first_char in ubs_dict and pointless in ubs_dict[first_char]:
         index = 0
         if len(ubs_dict[first_char][pointless]) > 1:
             index = get_probable_index(word_hebrew, ubs_dict[first_char][pointless])
