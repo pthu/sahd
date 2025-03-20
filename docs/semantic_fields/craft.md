@@ -4,4 +4,4 @@
 
 
 ### Related words
-[טוה – to spin, twist](../words/t-w-h.md)<br>[פֶּלֶךְ – spindle](../words/pelek.md)<br>[צִפֹּרֶן – nail, tip of angle-tint tool](../words/tsipporen.md)<br>
+[טוה – to spin, twist](../words/t-w-h.md)<br>[פֶּלֶךְ – spindle](../words/pelek.md)<br>

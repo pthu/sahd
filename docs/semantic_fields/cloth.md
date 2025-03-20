@@ -4,4 +4,4 @@
 
 
 ### Related words
-[חֶרֶט – burin, stylus](../words/cheret.md)<br>[חַשְׁמַן – amethyst(?)](../words/chashman.md)<br>
+[חַשְׁמַן – amethyst(?)](../words/chashman.md)<br>
