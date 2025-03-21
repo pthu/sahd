@@ -6,6 +6,6 @@
 
 
 ### Related words
-[גִּלָּיוֹן – mirror, stone tablet (?)](../words/gillayon.md)<br>
+[גִּלָּיוֹן – mirror, stone tablet (?)](../words/gillayon.md)<br>[עֵט – stylus, graver](../words/3ot.md)<br>[קֶסֶת – inkpot (?), writing-case (?)](../words/qeseth.md)<br>
 ### Related words
 [מְגִלָּה – scroll](../words/mgillah.md)<br>

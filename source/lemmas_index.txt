@@ -35,6 +35,7 @@
 
 ח
 חֹזֶה : (court) diviner : chozeh
+ חֶרֶט : burin : cheret
 חַשְׁמַן : amethyst(?) : chashman
 
 ט
@@ -58,6 +59,7 @@
 מָאוֹר : light : ma2or
 מְגִלָּה : scroll : mgillah
 מוֹשָׁעָה : deliverance : mosha3ah
+מְחוּגָה : callipers : mchugah
 מַחֲרָשָׁה/מַחֲרֶשֶׁת : plough : machareshah
 מַפְרֶקֶת : neck : mapreqeth
 
@@ -68,6 +70,7 @@
 
 ע
 עֶזְרָה : help : 3ezrah
+עֵט : stylus : 3ot
 עֲטָרָה : wreath, crown : 3atarah
 
 פ
@@ -83,9 +86,11 @@
 
 צ
 צלה : to roast : ts-l-h
+צִפֹּרֶן : nail : tsipporen
 
 ק
 קבב : to curse : q-b-b
+קֶסֶת : inkpot(?) : qeseth
 
 ר
 רֹאֶה : seer : ro2eh
