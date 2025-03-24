@@ -111,7 +111,6 @@ nav:
             - Weather: semantic_fields/weather.md
             - Weight: semantic_fields/weight.md
             - Writing: semantic_fields/writing.md
-            - Writing: semantic_fields/Writing.md
     - Contributors:
             - Konrad D. Jenner: contributors/konrad_d._Jenner.md
             - James K. Aitken: contributors/james_k._aitken.md
