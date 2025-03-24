@@ -215,13 +215,13 @@ Whether or not one of the depicted carpenters in the tomb of Rekh-mi-Rē is usin
 One might refer to a Egyptian collection of bronze woodworking tools part of a carpenter’s kit (for an example of a kit with tools, see Figure 1). See Figure 2 for an example of bronze awls as found in many excavations in Egypt and the Levant (<i>AEMT</i>, 356).
 
 
-![](../images/photos/ceret1.jpg)
+![](../images/photos/cered1.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;1:&nbsp;&nbsp;
 Carpenter’s chest of Ankhef; Middle Kingdom (ca. 1981-1802 BCE).](https://artsandculture.google.com/asset/UQGClKZKU_wKEQ?childAssetId=sgE1QNm3XZXu9A)</small>
 
 
-![](../images/photos/ceret2.jpg)
+![](../images/photos/cered2.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;2:&nbsp;&nbsp;
 Chisel or Awl From Foundation Deposit 2 of Hatshepsut's Valley Temple from the New Kingdom (ca. 1479-1458 BCE).](https://www.metmuseum.org/art/collection/search/550009)</small>
