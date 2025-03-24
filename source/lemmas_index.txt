@@ -27,7 +27,7 @@
 
 ה
 הֲדֹם : footstool : hadom
-
+חֶרֶט : burin : cheret
 
 ו
 
@@ -35,7 +35,6 @@
 
 ח
 חֹזֶה : (court) diviner : chozeh
- חֶרֶט : burin : cheret
 חַשְׁמַן : amethyst(?) : chashman
 
 ט
@@ -95,6 +94,9 @@
 ר
 רֹאֶה : seer : ro2eh
 
+שׂ
+שֶׂרֶד : scriber : cered
+
 שׁ
 שָׁנִי : bright red dye : shani_1
 שׁוֹעַ : great man : shoa3
@@ -105,7 +107,5 @@
 תְּכֵלֶת : bluish purple : thkeleth
 תִּפְלָה : senselessness : thiplah
 תְּשׁוּעָה : deliverance, state of : thshu3ah
-
-
 
 
