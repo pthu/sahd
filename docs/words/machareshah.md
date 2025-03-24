@@ -10,7 +10,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Agriculture](../semantic_fields/agriculture.md)&nbsp;&nbsp;&nbsp;[Metals](../semantic_fields/metals.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Paul Sanders](../contributors/paul_sanders.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
-First published: 2017-12-29<br>Last update: 2025-02-15 <br>Citation: Paul Sanders, מַחֲרֵשָׁה/מַחֲרֶשֶׁת <i>maḥ<small><sup>a</sup></small>rēšāh</i>/<i>maḥ<small><sup>a</sup></small>rèšet</i> – plough, hoe (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2017 (update: 2025)
+First published: 2017-12-29<br>Last update: 2025-03-20 <br>Citation: Paul Sanders, מַחֲרֵשָׁה/מַחֲרֶשֶׁת <i>maḥ<small><sup>a</sup></small>rēšāh</i>/<i>maḥ<small><sup>a</sup></small>rèšet</i> – plough, hoe (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2017 (update: 2025)
 
 
 ##<span id="I">Introduction</span>
@@ -812,7 +812,8 @@ G. Ernest Wright, ‘Archaeological News and Views’, <i>BA</i> 6/2:32-36.
 <div style="padding-left: 22px; text-indent: -22px;">
 Yogev 2025 <br>
 Jonathan Yogev, ‘A Bull with a Plow: Notes on RS 6.028 (KTU 6.14)’, in 
-???? (eds), <i>‘I, Daniel, Understood from the Scrolls’ (Daniel 9:2): Studies in Honor of Professor Daniel Sivan</i>, ???-???.
+Shamir Yona, Haim Dihi, Asnat Damri, Christian Stadel (eds), <i>‘I, Daniel, Understood from the Scrolls’ (Daniel 9:2): Studies in Honor of Professor Daniel Sivan</i>
+(Publications of the Institute for the Study of the Bible and Ancient History, 11), Rehovot: Megillat Sefer Press, i-xii.
 </div>
 
 
