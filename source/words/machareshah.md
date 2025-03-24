@@ -7,7 +7,7 @@ title: plough, hoe (?)
 semantic_fields: utensils, agriculture, metals,   
 contributors: paul_sanders  
 first_published: 2017-12-29  
-last_update: 2025-02-15  
+last_update: 2025-03-20  
 contributors_footnote: Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project. Thanks are also due to Benjamin Bogerd (Protestant Theological University, Utrecht). 
 update_info:   
 
@@ -812,7 +812,8 @@ G. Ernest Wright, ‘Archaeological News and Views’, <i>BA</i> 6/2:32-36.
 <div style="padding-left: 22px; text-indent: -22px;">
 Yogev 2025 <br>
 Jonathan Yogev, ‘A Bull with a Plow: Notes on RS 6.028 (KTU 6.14)’, in 
-???? (eds), <i>‘I, Daniel, Understood from the Scrolls’ (Daniel 9:2): Studies in Honor of Professor Daniel Sivan</i>, ???-???.
+Shamir Yona, Haim Dihi, Asnat Damri, Christian Stadel (eds), <i>‘I, Daniel, Understood from the Scrolls’ (Daniel 9:2): Studies in Honor of Professor Daniel Sivan</i>
+(Publications of the Institute for the Study of the Bible and Ancient History, 11), Rehovot: Megillat Sefer Press, i-xii.
 </div>
 
 
