@@ -27,7 +27,6 @@
 
 ה
 הֲדֹם : footstool : hadom
-חֶרֶט : burin : cheret
 
 ו
 
@@ -35,7 +34,9 @@
 
 ח
 חֹזֶה : (court) diviner : chozeh
+חֶרֶט : burin : cheret
 חַשְׁמַן : amethyst(?) : chashman
+
 
 ט
 טוה : to spin, twist : t-w-h
