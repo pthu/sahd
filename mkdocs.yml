@@ -113,7 +113,6 @@ nav:
             - Weight: semantic_fields/weight.md
             - Writing: semantic_fields/writing.md
     - Contributors:
-            - Konrad D. Jenner: contributors/konrad_d._Jenner.md
             - James K. Aitken: contributors/james_k._aitken.md
             - Bob Becking: contributors/bob_becking.md
             - Benjamin M. Bogerd: contributors/benjamin_m._bogerd.md
@@ -124,6 +123,7 @@ nav:
             - Alison Gray: contributors/alison_gray.md
             - John E. Hartley: contributors/john_e._hartley.md
             - Cornelis Houtman: contributors/cornelis_houtman.md
+            - Konrad D. Jenner: contributors/konrad_d._jenner.md
             - Kurtis Peters: contributors/kurtis_peters.md
             - Alison Salvesen: contributors/alison_salvesen.md
             - Paul Sanders: contributors/paul_sanders.md

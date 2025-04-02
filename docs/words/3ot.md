@@ -9,7 +9,7 @@
 
 Semantic Fields:
 [Writing](../semantic_fields/writing.md)&nbsp;&nbsp;&nbsp;[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[Konrad D. Jenner](../contributors/konrad_d._Jenner.md),&nbsp;[Geert Jan Veldman](../contributors/geert_jan_veldman.md)<br>
+[Konrad D. Jenner](../contributors/konrad_d._jenner.md),&nbsp;[Geert Jan Veldman](../contributors/geert_jan_veldman.md)<br>
 First published: 2025-03-07<br>Citation: Konrad D. Jenner,&nbsp;Geert Jan Veldman, עֵט <i> ‘ēṭ </i> – stylus, graver, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2025
 (WORK IN PROGRESS)
 
