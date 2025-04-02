@@ -4,7 +4,7 @@ word_hebrew: צִפֹּרֶן
 transcription: <i> ṣipporen </i>   
 title: nail, tip of angle-tint tool  
 semantic_fields: utensils, craft  
-contributors: konrad_d._Jenner, geert_jan_veldman  
+contributors: konrad_d._jenner, geert_jan_veldman  
 first_published: 2025-03-07  
 last_update:  
 additional_info: (WORK IN PROGRESS)

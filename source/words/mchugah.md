@@ -4,7 +4,7 @@ word_hebrew: מְחוּגָה
 title: callipers  
 transcription: <i> m<small><sup>e</sup></small>ḥūgāh </i>   
 semantic_fields: utensils  
-contributors: konrad_d._Jenner, geert_jan_veldman  
+contributors: konrad_d._jenner, geert_jan_veldman  
 first_published: 2025-03-07  
 last_update:  
 update_info:  

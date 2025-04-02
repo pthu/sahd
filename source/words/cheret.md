@@ -4,7 +4,7 @@ word_hebrew: חֶרֶט
 transcription: <i> ḥèreṭ </i>  
 title: burin, stylus  
 semantic_fields: cloth, textile production, utensils  
-contributors: konrad_d._Jenner, geert_jan_veldman  
+contributors: konrad_d._jenner, geert_jan_veldman  
 first_published: 2025-03-07  
 last_update:  
 update_info:  

@@ -4,7 +4,7 @@ word_hebrew: קֶסֶת
 transcription: <i> qèset </i>   
 title: inkpot (?), writing-case (?)  
 semantic_fields: utensils, writing  
-contributors: konrad_d._Jenner, geert_jan_veldman  
+contributors: konrad_d._jenner, geert_jan_veldman  
 first_published: 2025-03-07  
 last_update:  
 update_info:  
