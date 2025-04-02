@@ -2,10 +2,10 @@
 word_english: to_comfort  
 word_hebrew: נחם  
 transcription: <i>nāḥam</i>  
-title: to comfort someone, to change one's action, feeling or mind  
+title: to comfort someone, to change one's action, feeling or mind,  
 semantic_fields:  
 contributors: benjamin_m._bogerd  
-first_published: 2025-04-2 
+first_published: 2025-04-2  
 last_update:  
 update_info:  
 additional_info:  (WORK IN PROGRESS)  
