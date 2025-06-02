@@ -8,10 +8,12 @@ nav:
     - Home: index.md
     - Lemmas:
             - א:
-                - אָדֹם - red: words/2adom.md
+                - אָדֹם - red: words/Radom.md
                 - אוּרִים וְתֻמִּים - Urim Thummim: words/2urim_wthummim.md
+                - אַמְתַּחַת - sack: words/2amthachath.md
+                - אַרְגַּז - box: words/2argaz.md
                 - אַרְגְּוָן - bright purple: words/2argwan.md
-                - אַרְגָּמָן - bright purple: words/2argaman.md
+                - אַרְגָּמָן - bright purple: words/bargeman.md
                 - ארר - to curse: words/2-r-r.md
             - ב:
                 - בֶּקַע - beka: words/beqa3.md
@@ -41,22 +43,30 @@ nav:
                 - כִּבְשָׁן - kiln: words/kibshan.md
                 - כְּלִי - vessel: words/kli.md
                 - כִּסֵּא - throne: words/kisse2.md
+                - כַּר - saddle: words/kar_1.md
                 - כַּרְמִיל - bright, rich red: words/karmil.md
             - ל:
                 - לָבָן - white: words/laban.md
+                - לוּחַ - board: words/luach.md
             - מ:
                 - מָאוֹר - light: words/ma2or.md
                 - מְגִלָּה - scroll: words/mgillah.md
                 - מוֹשָׁעָה - deliverance: words/mosha3ah.md
+                - מַחֲבַת - griddle: words/machabath.md
                 - מְחוּגָה - callipers: words/mchugah.md
                 - מַחֲרָשָׁה/מַחֲרֶשֶׁת - plough: words/machareshah.md
                 - מַפְרֶקֶת - neck: words/mapreqeth.md
+                - מַפְתֵּחַ - key: words/maptheach.md
+                - מַקֵּל - branch, staff: words/maqqel.md
+                - מַרְאָה - vision, mirror: words/mar2ah.md
+                - מֶשֶׁךְ - bag: words/meshek_1.md
+                - מִשְׁפְּתַיִם/שְׁפַתַּיִם - sack: words/mishpthayim.md
             - נ:
                 - נָבִיא/נְבִיאָה - prophet(ess): words/nabi2.md
                 - נחם - to comfort: words/n-ch-m.md
             - ע:
                 - עֶזְרָה - help: words/3ezrah.md
-                - עֵט - stylus: words/3ot.md
+                - עֵט - stylus: words/3et.md
                 - עֲטָרָה - wreath, crown: words/3atarah.md
             - פ:
                 - פדה - to liberate: words/p-d-h.md
@@ -70,11 +80,13 @@ nav:
             - צ:
                 - צלה - to roast: words/ts-l-h.md
                 - צִפֹּרֶן - nail: words/tsipporen.md
+                - צְרוֹר - pouch: words/tsror_1.md
             - ק:
                 - קבב - to curse: words/q-b-b.md
                 - קֶסֶת - inkpot(?): words/qeseth.md
             - ר:
                 - רֹאֶה - seer: words/ro2eh.md
+                - רְאִי - mirror: words/r2i.md
             - שׂ:
                 - שֶׂרֶד - scriber: words/cered.md
             - שׁ:
@@ -115,6 +127,7 @@ nav:
     - Contributors:
             - James K. Aitken: contributors/james_k._aitken.md
             - Bob Becking: contributors/bob_becking.md
+            - W.A.M. Beuken: contributors/w.a.m._beuken.md
             - Benjamin M. Bogerd: contributors/benjamin_m._bogerd.md
             - Graham I. Davies: contributors/graham_i._davies.md
             - Raymond de Hoop: contributors/raymond_de_hoop.md
@@ -124,6 +137,8 @@ nav:
             - John E. Hartley: contributors/john_e._hartley.md
             - Cornelis Houtman: contributors/cornelis_houtman.md
             - Konrad D. Jenner: contributors/konrad_d._jenner.md
+            - M.D. Koster: contributors/m.d._koster.md
+            - Eric G.L. Peels: contributors/eric_g.l._peels.md
             - Kurtis Peters: contributors/kurtis_peters.md
             - Alison Salvesen: contributors/alison_salvesen.md
             - Paul Sanders: contributors/paul_sanders.md

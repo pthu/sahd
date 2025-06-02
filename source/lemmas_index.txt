@@ -3,12 +3,12 @@
 
 
 א
-אָדֹם : red : Radom  
+אָדֹם : red : 2adom  
 אוּרִים וְתֻמִּים : Urim Thummim : 2urim_wthummim
 אַמְתַּחַת : sack : 2amthachath
 אַרְגַּז : box : 2argaz
 אַרְגְּוָן : bright purple : 2argwan
-אַרְגָּמָן : bright purple : bargeman
+אַרְגָּמָן : bright purple : 2argeman
 ארר : to curse : 2-r-r
  
 

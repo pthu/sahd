@@ -4,4 +4,4 @@
 
 
 ### Related words
-[דֶּרֶךְ – road, way](../words/derek.md)<br>
+[אַמְתַּחַת – sack, donkey-pack](../words/2amthachath.md)<br>[דֶּרֶךְ – road, way](../words/derek.md)<br>[כַּר – elaborate ladies' saddle](../words/kar_1.md)<br>

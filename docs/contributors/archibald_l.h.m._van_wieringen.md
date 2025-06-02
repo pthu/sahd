@@ -17,4 +17,4 @@ Webpage:
 
  
 ### Contributions
-[גִּלָּיוֹן – mirror, stone tablet (?)](../words/gillayon.md)<br>
+[גִּלָּיוֹן – mirror, stone tablet (?)](../words/gillayon.md)<br>[לוּחַ – board, tablet](../words/luach.md)<br>[מַרְאָה – vision, mirror](../words/mar2ah.md)<br>[רְאִי – mirror](../words/r2i.md)<br>

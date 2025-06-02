@@ -4,4 +4,4 @@
 
 
 ### Related words
-[גִּלָּיוֹן – mirror, stone tablet (?)](../words/gillayon.md)<br>[מְגִלָּה – scroll](../words/mgillah.md)<br>[עֵט – stylus, graver](../words/3ot.md)<br>[קֶסֶת – inkpot (?), writing-case (?)](../words/qeseth.md)<br>
+[גִּלָּיוֹן – mirror, stone tablet (?)](../words/gillayon.md)<br>[לוּחַ – board, tablet](../words/luach.md)<br>[מְגִלָּה – scroll](../words/mgillah.md)<br>[עֵט – stylus, graver](../words/3ot.md)<br>[קֶסֶת – inkpot (?), writing-case (?)](../words/qeseth.md)<br>

@@ -4,4 +4,4 @@
 
 
 ### Related words
-[חֶרֶט – burin, stylus](../words/cheret.md)<br>[חַשְׁמַן – amethyst(?)](../words/chashman.md)<br>
+[<span dir="rtl">מִשְׁפְּתַיִם</span> / <span dir="rtl">שְׁפַתַּיִם</span> – layered fabric, sack, sheepfold](../words/mishpthayim.md)<br>[חֶרֶט – burin, stylus](../words/cheret.md)<br>[חַשְׁמַן – amethyst(?)](../words/chashman.md)<br>
