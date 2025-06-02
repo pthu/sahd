@@ -8,12 +8,12 @@ nav:
     - Home: index.md
     - Lemmas:
             - א:
-                - אָדֹם - red: words/Radom.md
+                - אָדֹם - red: words/2adom.md
                 - אוּרִים וְתֻמִּים - Urim Thummim: words/2urim_wthummim.md
                 - אַמְתַּחַת - sack: words/2amthachath.md
                 - אַרְגַּז - box: words/2argaz.md
                 - אַרְגְּוָן - bright purple: words/2argwan.md
-                - אַרְגָּמָן - bright purple: words/bargeman.md
+                - אַרְגָּמָן - bright purple: words/2argeman.md
                 - ארר - to curse: words/2-r-r.md
             - ב:
                 - בֶּקַע - beka: words/beqa3.md
