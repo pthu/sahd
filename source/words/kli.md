@@ -962,6 +962,24 @@ Raymond de Hoop, <i>Genesis 49 in Its Literary and Historical Context</i> (OTS 3
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
+Fernández Marcos & Busto Saiz 1989 <br>
+Natalio Fernández Marcos, José Ramón Busto Saiz,
+<i>El texto antioqueno de la Biblia griega</i>, I: <i>1-2 Samuel</i> (TECC 50), Madrid: Instituto de Filología, C.S.I.C.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Fernández Marcos & Busto Saiz 1992 <br>
+Natalio Fernández Marcos, José Ramón Busto Saiz,
+<i>El texto antioqueno de la Biblia griega</i>, II: <i>1-2 Reyes</i> (TECC 53), Madrid: Instituto de Filología, C.S.I.C.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Fernández Marcos & Busto Saiz 1996 <br>
+Natalio Fernández Marcos, José Ramón Busto Saiz,
+<i>El texto antioqueno de la Biblia griega</i>, III: <i>1-2 Crónicas</i> (TECC 60), Madrid: Instituto de Filología, C.S.I.C.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
 Gottlieb 2016 <br>
 Leeor Gottlieb, ‘The Hebrew <i>Vorlage</i> of <i>Targum Chronicles</i>’, 
 <i>Aramaic Studies</i> 14, 36-65.
