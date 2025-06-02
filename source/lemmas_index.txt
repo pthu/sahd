@@ -8,7 +8,7 @@
 אַמְתַּחַת : sack : 2amthachath
 אַרְגַּז : box : 2argaz
 אַרְגְּוָן : bright purple : 2argwan
-אַרְגָּמָן : bright purple : 2argeman
+אַרְגָּמָן : bright purple : 2argaman
 ארר : to curse : 2-r-r
  
 
