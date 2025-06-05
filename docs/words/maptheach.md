@@ -10,7 +10,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [M.D. Koster](../contributors/m.d._koster.md)<br>
-First published: 2014-07-08<br>Last update: may 2025 (Marten van Dam) <br>Citation: M.D. Koster, מַפְתֵּחַ <i> maptē<small><sup>a</sup></small>ḥ </i> – key, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2014 (update: may 2025 (Marten van Dam))
+First published: 2014-07-08<br>Last update: May 2025 (Marten van Dam) <br>Citation: M.D. Koster, מַפְתֵּחַ <i> maptē<small><sup>a</sup></small>ḥ </i> – key, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2014 (update: May 2025 (Marten van Dam))
 (WORK IN PROGRESS)
 
 

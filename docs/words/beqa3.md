@@ -432,10 +432,12 @@ Ephraim Stern,
 
 ## Notes
 
+
+<!--
+
 Thanks are due to Mrs Alice Deken (Amsterdam), who was  so kind as to correct the English of this paper.
 
 
-<!--
 Raymond de Hoop & Bertus van ’t Veld
    
 First published:  8th November 2021.    
