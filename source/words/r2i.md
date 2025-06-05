@@ -34,7 +34,7 @@ On the authority of Smend[^1] <i>HALAT</i>[^2], seems to accept the reading <spa
 
 <b>A.1</b>  
 <i>Semitic.</i>
- The root occurs in several Semitic languages.[^5]  See <a href=https://otw-site.eu/wp-content/uploads/2017/07/mrah.pdf target="_blank">→ <span dir="rtl">מַרְאָה</span></a> where also derivatives meaning ‘mirror’ have been listed.
+ The root occurs in several Semitic languages.[^5]  See <a href=https://sahd-online.com/words/mar2ah/ target="_blank">→ <span dir="rtl">מַרְאָה</span></a> where also derivatives meaning ‘mirror’ have been listed.
 
 ## 2. Formal Characteristics
 
@@ -86,7 +86,7 @@ On the authority of Smend[^1] <i>HALAT</i>[^2], seems to accept the reading <spa
 ### 6.1 Literal Use
 
 <b>A.1</b>
-<span dir="rtl">רְאִי</span> in Job 37:18 is again a <i>hapax legomenon</i> skipped by both Cohen[^8] and Greenspahn.[^9] God invites Job to hammer out (√<span dir="rtl">רקע</span>)  the high sky which is  <span dir="rtl">מוּצָק</span> <span dir="rtl">כִּרְאִי</span> <span dir="rtl">חֲזָקִים</span> ‘hard like a cast <span dir="rtl">רְאִי</span>’. Apparently he challenges Job to imitate his work as the Creator to form the <span dir="rtl">רָקִיעַ</span>, ‘firmament’ (Gen 1:6-8, etc.). The <i>tertium comparationis</i> is the hardness of the firmament.[^10] Since it seems likely that the word <span dir="rtl">רְאִי</span> means ‘mirror’ (see below), it is apt to recall that mirrors were cast from extremely hard (cf. <span dir="rtl">חֲזָקִים</span>) and pure metal, usually bronze, because pitting would make them useless. See further  <a href=https://sahd-online.com/words/gillayon/ target="_blank">→ <span dir="rtl">גִּלָּיֹון</span></a> and <a href=https://otw-site.eu/wp-content/uploads/2017/07/mrah.pdf target="_blank">→ <span dir="rtl">מַרְאָה</span></a>.
+<span dir="rtl">רְאִי</span> in Job 37:18 is again a <i>hapax legomenon</i> skipped by both Cohen[^8] and Greenspahn.[^9] God invites Job to hammer out (√<span dir="rtl">רקע</span>)  the high sky which is  <span dir="rtl">מוּצָק</span> <span dir="rtl">כִּרְאִי</span> <span dir="rtl">חֲזָקִים</span> ‘hard like a cast <span dir="rtl">רְאִי</span>’. Apparently he challenges Job to imitate his work as the Creator to form the <span dir="rtl">רָקִיעַ</span>, ‘firmament’ (Gen 1:6-8, etc.). The <i>tertium comparationis</i> is the hardness of the firmament.[^10] Since it seems likely that the word <span dir="rtl">רְאִי</span> means ‘mirror’ (see below), it is apt to recall that mirrors were cast from extremely hard (cf. <span dir="rtl">חֲזָקִים</span>) and pure metal, usually bronze, because pitting would make them useless. See further  <a href=https://sahd-online.com/words/gillayon/ target="_blank">→ <span dir="rtl">גִּלָּיֹון</span></a> and <a href=https://sahd-online.com/words/mar2ah/ target="_blank">→ <span dir="rtl">מַרְאָה</span></a>.
 
 
 ### 6.2 Figurative Use

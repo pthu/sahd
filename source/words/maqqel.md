@@ -55,6 +55,7 @@ In the Hebrew text of Jesus Sirach and the Dead Sea Scrolls <span dir="rtl">מַ
 * σκυτάλη, ‘staff, pole’: Zech 11:7.[^15] It is also attested as an alternative hexaplaric rendering in Gen 31:37 and Zech 11:7.
 
 <b>b. Samaritan Targum	 (Tg<small><sup>Smr</sup></small>):</b> 
+
 * <span dir="rtl">חטר</span>  and <span dir="rtl">חוטר</span>, ‘stick, staff’: serve as renderings for both <a href=http://otw-site.eu/wp-content/uploads/2017/07/mfh.pdf target="_blank">→ <span dir="rtl">מַטֶּה</a></span> and  <span dir="rtl">מַקֵּל</span>.[^16]
 
 <b>c.  Peshitta (Pesh):</b>  
@@ -124,12 +125,12 @@ In Zech 11:4-14 the staves are a symbol of the prophet’s ideological ministry 
 For the abbreviations see the 
 <a href="/store/abbreviations/">List of Abbreviations</a>.
 
-See in addition to the literature cited with <a href=http://otw-site.eu/wp-content/uploads/2017/07/mfh.pdf target="_blank">→ <span dir="rtl">מַטֶּה</a></span>:    <br>
-
+See in addition to the literature cited with <a href=http://otw-site.eu/wp-content/uploads/2017/07/mfh.pdf target="_blank">→ <span dir="rtl">מַטֶּה</a></span>: <br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Albright 1934<br>
-W.F. Albright, <i>The Vocalization of the Egyptian Syllabic Orthography</i>, New Haven 1934, 45 </div>
+W.F. Albright, <i>The Vocalization of the Egyptian Syllabic Orthography</i>, New Haven 1934, 45 
+</div>
 
 <i>BDB</i>, 596: ‘rod, stick, staff (Hos 4:12: wand)’ <br>
 
@@ -139,13 +140,16 @@ R.P. Carroll, <i>Jeremiah</i> (OTL), London 1986, 102-3 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Cavaletti 1953<br> 
-S. Cavalletti, ‘La terminologia biblica per ‘‘bastone’’ ’, <i>Anton.</i> 28 (1953), 413-417 </div>
+S. Cavalletti, ‘La terminologia biblica per ‘‘bastone’’ ’, <i>Anton.</i> 28 (1953), 413-417 
+</div>
 
 Klein, <i>CEDHL</i>, 379: ‘rod, stick, staff’ 
 
 <i>DCH</i>, vol. 5, 466-7: ‘1. Rod ... staff ... 2. perh. penis ... (Ho 4<sub>12</sub>)’ (with ref. to Ginsberg 1967) <br>
 
-Dietrich & Loretz 2011 - M. Dietrich & O. Loretz, ‘Rhabdomantie im mykenischen Palast von Tyryns’, <i>UF</i> 42 (2010), 141-159 <br>
+<div style="padding-left: 22px; text-indent: -22px;">
+Dietrich & Loretz 2011<br> 
+M. Dietrich & O. Loretz, ‘Rhabdomantie im mykenischen Palast von Tyryns’, <i>UF</i> 42 (2010), 141-159 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Fokkelman 1975<br>
@@ -155,7 +159,8 @@ J.P. Fokkelman, <i>Narrative Art in Genesis: Specimens of Stylistic and Structur
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Ginsberg 1967<br>
-H.L. Ginsberg, ‘Lexicographical Notes’, <i>VT.S</i> 16 (1967), 71-82 (74-75) </div>
+H.L. Ginsberg, ‘Lexicographical Notes’, <i>VT.S</i> 16 (1967), 71-82 (74-75) 
+</div>
 
 <i>HAHAT</i>, 730: ‘Stab, Stock’ <br>
 
@@ -175,13 +180,15 @@ W. Holladay, <i>Jeremiah</i>, vol. 1 (Hermeneia), Philadelphia 1986, 37 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Kopf 1976<br>
-L. Kopf, <i>Studies in Arabic and Hebrew Lexicography</i>, ed. M.H. Goshen-Gottstein, Jerusalem 1976,158 [orig. publ. 1958] </div>
+L. Kopf, <i>Studies in Arabic and Hebrew Lexicography</i>, ed. M.H. Goshen-Gottstein, Jerusalem 1976,158 [orig. publ. 1958]
+</div>
 
 <i>LHA</i>, 468: ‘virga, baculus’ <br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 McKane 1986<br>
-W. McKane, <i>Jeremiah</i>, vol. 1 (ICC), Edinburgh 1986, 15 </div>
+W. McKane, <i>Jeremiah</i>, vol. 1 (ICC), Edinburgh 1986, 15
+</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Meyers & Meyers 1993<br>
@@ -218,6 +225,7 @@ Van der Toorn 1989<br>
 K. van der Toorn, ‘Did Jeremiah See Aaron’s Staff?’, <i>JSOT</i> 43 (1989), 83-94 </div>
 
 
+## Notes
 
 [^1]: Klein, <i>CEDHL</i>, 379.
 [^2]: Albright 1934, 45.
@@ -245,7 +253,4 @@ K. van der Toorn, ‘Did Jeremiah See Aaron’s Staff?’, <i>JSOT</i> 43 (1989)
 [^24]: Dietrich & Loretz 2011, 153-156.
 [^25]: For the exegesis of this passage, cf. Meyers & Meyers 1993, 237-304.
 [^26]: Hoch, <i>SWET</i>, 166.
-[^27]: 
-[^28]: 
-[^29]: 
-[^30]: 
+
