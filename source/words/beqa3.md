@@ -7,8 +7,7 @@ semantic_fields: weight
 contributors: raymond_de_hoop, bertus_van_’t_veld  
 first_published: 2021-02-16    
 last_update: 2023-05-16  
-contributors_footnote: Thanks are due to Mrs Alice Deken (Amsterdam), who was  so kind as to correct the English of this paper.
-
+contributors_footnote: Thanks are due to Mrs Alice Deken (Amsterdam), who was so kind as to correct the English of this paper.  
 
 ---
 
@@ -431,10 +430,11 @@ Ephraim Stern,
 
 ## Notes
 
+Thanks are due to Mrs Alice Deken (Amsterdam), who was  so kind as to correct the English of this paper.
+
+
 
 <!--
-
-Thanks are due to Mrs Alice Deken (Amsterdam), who was  so kind as to correct the English of this paper.
 
 
 Raymond de Hoop & Bertus van ’t Veld
