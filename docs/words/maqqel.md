@@ -123,6 +123,120 @@ Whether ‘branch’ (Gen 30:31-43; Jer 1:11) or ‘instrument to make (walking)
 In Zech 11:4-14 the staves are a symbol of the prophet’s ideological ministry and its failure. People could give names to their staves (Zech 11:7, 10, 14), as they did with other objects of a personal nature, e.g. weapons. More or less magical use of the <span dir="rtl">מַקֵּל</span> might attested in Gen 30:31-43 and Hos 4:12, or it might be a metaphor for the <i>membrum virile</i> there. The word occurs as a Semitic loanword in Egyptian. One of its attestations there seems to indicate that a <span dir="rtl">מַקֵּל</span>  could have a knob of painted wood.<sup id="fnref:26"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:26')">26</a></sup> Perhaps this knob sometimes contained a secret hollow to hide a precious object in (<a href="#rab">1. Root and Comparitive Material, Rabbinical Literature</a>).
 
 
+## Bibliography
+
+For the abbreviations see the 
+<a href="/store/abbreviations/">List of Abbreviations</a>.
+
+In addition to the literature cited with 
+<a href=http://otw-site.eu/wp-content/uploads/2017/07/mfh.pdf target="_blank">→ <span dir="rtl">מַטֶּה</span></a>: <br>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Albright 1934<br>
+W.F. Albright, <i>The Vocalization of the Egyptian Syllabic Orthography</i>, New Haven 1934, 45. 
+</div>
+
+<i>BDB</i>, 596: ‘rod, stick, staff (Hos 4:12: wand)’. <br>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Carroll 1986<br>
+R.P. Carroll, <i>Jeremiah</i> (OTL), London 1986, 102-03. </div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Cavaletti 1953<br> 
+S. Cavalletti, ‘La terminologia biblica per “bastone” ’, <i>Anton</i> 28 (1953), 413-17. 
+</div>
+
+Klein, <i>CEDHL</i>, 379: ‘rod, stick, staff’. 
+
+<i>DCH</i> v:466-67: ‘1. Rod ... staff ... 2. perh. penis ... (Ho 4<sub>12</sub>)’ (with ref. to Ginsberg 1967).<br>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Dietrich & Loretz 2011<br> 
+M. Dietrich & O. Loretz, ‘Rhabdomantie im mykenischen Palast von Tyryns’, <i>UF</i> 42 (2010), 141-59. 
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Fokkelman 1975<br>
+J.P. Fokkelman, <i>Narrative Art in Genesis: Specimens of Stylistic and Structural Analysis</i> (SSN, 17), Assen 1975, 144-51. 
+</div>
+
+<i>GB</i>, 456: ‘Zweig, Rute, Stab’. <br>
+
+Gesenius, <i>TPC</i>, 816: ‘virga, baculus’. <br>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Ginsberg 1967<br>
+H.L. Ginsberg, ‘Lexicographical Notes’, <i>VT.S</i> 16 (1967), 71-82 (74-75). 
+</div>
+
+<i>HAHAT</i>, 730: ‘Stab, Stock’. <br>
+
+<i>HALAT</i>, 593: ‘Rute, Zweig, Stab’ <br>
+
+<i>HAWAT</i>, 242: ‘1) Stab, Stock ... 2) synekd. erweitert: Rute’. <br>
+
+<i>HCHAT</i>, Bd. 1, 780: ‘Ast, belaubter Zweig Jer 48,17, dah. Stab, Stock’. <br>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Holladay 1986<br>
+W. Holladay, <i>Jeremiah</i>, vol. 1 (Hermeneia), Philadelphia 1986, 37. </div>
+
+<i>HWAT</i>, 376: ‘Rute, Gerte ... Stab, beim Reiten gebraucht ... Hirtenstab ... Wanderstab  Zur Rhabdomantie gebraucht, Ho 4,12’. </div>
+
+<i>KBL</i>, 560: ‘Rute, Zweig, Stab’. <br>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Kopf 1976<br>
+L. Kopf, <i>Studies in Arabic and Hebrew Lexicography</i>, ed. M.H. Goshen-Gottstein, Jerusalem 1976, 158 [orig. publ. 1958].
+</div>
+
+<i>LHA</i>, 468: ‘virga, baculus’ <br>.
+
+<div style="padding-left: 22px; text-indent: -22px;">
+McKane 1986<br>
+W. McKane, <i>Jeremiah</i>, vol. 1 (ICC), Edinburgh 1986, 15.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Meyers & Meyers 1993<br>
+C.L. Meyers & E.M. Meyers, <i>Zechariah 9-14</i> (AncB, 25C), New York 1993, 237-304. </div>
+
+<i>MHH</i>, 659: ‘1. 
+<span dir="rtl">ענף אילן חי</span> …
+2. <span dir="rtl"></span> <span dir="rtl"></span> <span dir="rtl">מטה שנכרת מאילן</span> … 
+3. <span dir="rtl">משענת להלכים בדרך ארוכה</span>. <br>
+
+<i>NIDOT</i>, vol. 2, 1088. <br>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Noegel 1997<br>
+S.B. Noegel, ‘Sex, Sticks, and the Trickster in Gen 30:31-43’, <i>JANES</i> 25 (1997), 7-17.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Power 1928<br>
+E. Power, ‘The Shepherd’s Two Rods in Modern Palestine and in Some Passages of the Old Testament’, <i>Bib</i> 9 (1928), 434-42. 
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Salvesen 1998<br>
+A. Salvesen, ‘<span dir="rtl">שֵׁבֶט</span>’, in: T. Muraoka (ed.), <i>Semantics of Ancient Hebrew</i> (Abr-Nahrain.SS, 6), Louvain 1998, 122-36. 
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Sauer 1966<br>
+G. Sauer, ‘Mandelzweig und Kessel in Jer 1.11ff.’, <i>ZAW</i> 79 (1966), 57-59. 
+</div>
+
+<i>ThWAT</i>, Bd. 4, 1129-37. <br>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Van der Toorn 1989<br>
+K. van der Toorn, ‘Did Jeremiah See Aaron’s Staff?’, <i>JSOT</i> 43 (1989), 83-94. 
+</div>
+
+
 ## Notes
 
 [^1]: Klein, <i>CEDHL</i>, 379.

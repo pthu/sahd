@@ -432,10 +432,11 @@ Ephraim Stern,
 
 ## Notes
 
+Thanks are due to Mrs Alice Deken (Amsterdam), who was  so kind as to correct the English of this paper.
+
+
 
 <!--
-
-Thanks are due to Mrs Alice Deken (Amsterdam), who was  so kind as to correct the English of this paper.
 
 
 Raymond de Hoop & Bertus van ’t Veld
@@ -449,4 +450,4 @@ Raymond de Hoop & Bertus van ’t Veld, ‘בֶּקַע –
 beka (a half shekel)’, http://sahd-online.com/.
 -->
 
-<p id="contributors_footnote">Thanks are due to Mrs Alice Deken (Amsterdam), who was  so kind as to correct the English of this paper.</p>
+<p id="contributors_footnote">Thanks are due to Mrs Alice Deken (Amsterdam), who was so kind as to correct the English of this paper.</p>
