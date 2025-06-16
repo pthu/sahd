@@ -105,8 +105,7 @@ interpreted <i>ʾilb</i><sup>15</sup><i>rt</i> as the divine name Ilabrat
 (Dijkstra 1993:161). It seems natural to regard <i>brt</i> as a Hurrian and not as an Ugaritic word, but the preceding word <i>ʾil</i> can best be interpreted as the divine name El, just like the other occurrences of <i>ʾil</i> in the text.
 <!--Aan KTU 1.128 later meer doen-->
 
-<b>A.6</b> 
-<!--DNWSI only bottom p. 31: uncertain; HATRA 3rd BCE - 3rd CE-->
+<b>A.6</b> <!--DNWSI only bottom p. 31: uncertain; HATRA 3rd BCE - 3rd CE-->
 The suggestion that <span dir="rtl">בְּרִית</span> is a Canaanite word is based on the expression <i>ʾilb</i><sup>15</sup><i>rt</i> in <i>KTU</i> 1.128 (see A.5) and
 the references to the deities <span dir="rtl">בַּעַל בְּרִית</span>, ‘Baal-Berith’, in Judg 8:33 and 9:4, and <span dir="rtl">אֵל בְּרִית</span>, ‘El-Berith’, in Judg 9:46. 
 No possible cognates of <span dir="rtl">בְּרִית</span> 
@@ -127,8 +126,7 @@ There are additional occurrences of <i>b-r-t</i> in hieratic texts from the Nine
 
 
 <b>A.8</b> Perhaps relevant for the study of the etymological background of the noun <span dir="rtl">בְּרִית</span> is the common Semitic root
-<span dir="rtl">ברר</span>/<i>brr</i>, ‘to be pure’. In Classical Hebrew this root occurs usually in the context of ‘cleaning’ objects (<i>HALOT</i> 162b-163) and has a cognate noun <span dir="rtl">בֹּרִית</span>, ‘alkaline salt extracted from soap plants’ (<i>HALOT</i> 159a). Its cognate adjective <span dir="rtl">בר</span>, ‘pure’, can be used for people (Job 11:4; Song 6:10), their heart (Ps 24:1; 73:1), and tongue (Sir 19:9). The root occurs particularly in Qumran documents (Byun 2011). Ugaritic also conveys this meaning ‘to be pure’ (of heart, <i>KTU</i> 2.8:4),
-<!--2.3:5)-->
+<span dir="rtl">ברר</span>/<i>brr</i>, ‘to be pure’. In Classical Hebrew this root occurs usually in the context of ‘cleaning’ objects (<i>HALOT</i> 162b-163) and has a cognate noun <span dir="rtl">בֹּרִית</span>, ‘alkaline salt extracted from soap plants’ (<i>HALOT</i> 159a). Its cognate adjective <span dir="rtl">בר</span>, ‘pure’, can be used for people (Job 11:4; Song 6:10), their heart (Ps 24:1; 73:1), and tongue (Sir 19:9). The root occurs particularly in Qumran documents (Byun 2011). Ugaritic also conveys this meaning ‘to be pure’ (of heart, <i>KTU</i> 2.8:4), <!--2.3:5)-->
 or ‘to be free of legal obligations (<i>KTU</i> 3.12:3-4) (<i>DULAT</i><sup>3</sup>, 237). In Jewish Palestinian Aramaic the noun <span dir="rtl">ברר</span> means ‘purity, clearness’ (Sokoloff, <i>DJPA</i>, 115a).
 <!--CHECK 2e ed. 2002-->
 The Classical Syriac adverb 
