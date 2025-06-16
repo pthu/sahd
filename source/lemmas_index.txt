@@ -1,121 +1,122 @@
-# LEMMA INDEX
-# Hebrew word : English word : filename
-
-
-א
-אָדֹם : red : 2adom  
+# LEMMA INDEX
+# Hebrew word : English word : filename
+
+
+א
+אָדֹם : red : 2adom  
 אוּרִים וְתֻמִּים : Urim Thummim : 2urim_wthummim
 אַמְתַּחַת : sack : 2amthachath
-אַרְגַּז : box : 2argaz
-אַרְגְּוָן : bright purple : 2argwan
-אַרְגָּמָן : bright purple : 2argaman
-ארר : to curse : 2-r-r
- 
-
-ב
-בֶּקַע : beka : beqa3
-בָּרָד : hail : barad
-ברך : to bless : b-r-k_2
-בְּרָכָה : blessing: brakah 
-
-ג
-גְּאוּלִים : redemption : g2ulim
-גאל : to redeem : g-2-l
-גְּאֻלָּה : redemption, right of : g2ullah
-גִּלָּיוֹן : mirror : gillayon
-
-ד
-דֶּרֶךְ : road, way : derek
-
-ה
-הֲדֹם : footstool : hadom
-
-ו
-
-ז
-
-ח
-חֹזֶה : (court) diviner : chozeh
-חֶרֶט : burin : cheret
-חַשְׁמַן : amethyst(?) : chashman
-
-
-ט
-טוה : to spin, twist : t-w-h
-
-י
-יְשׁוּעָה : protection : yshu3ah
-ישׁע : to save, help : y-sh-3
-יֵשַׁע : safety : yesha3
-
-כ
-כִּבְשָׁן : kiln : kibshan
-כְּלִי : vessel : kli
+אַרְגַּז : box : 2argaz
+אַרְגְּוָן : bright purple : 2argwan
+אַרְגָּמָן : bright purple : 2argaman
+ארר : to curse : 2-r-r
+ 
+
+ב
+בֶּקַע : beka : beqa3
+בָּרָד : hail : barad
+ברך : to bless : b-r-k_2
+בְּרָכָה : blessing: brakah 
+בְּרִית : covenant : brith
+
+ג
+גְּאוּלִים : redemption : g2ulim
+גאל : to redeem : g-2-l
+גְּאֻלָּה : redemption, right of : g2ullah
+גִּלָּיוֹן : mirror : gillayon
+
+ד
+דֶּרֶךְ : road, way : derek
+
+ה
+הֲדֹם : footstool : hadom
+
+ו
+
+ז
+
+ח
+חֹזֶה : (court) diviner : chozeh
+חֶרֶט : burin : cheret
+חַשְׁמַן : amethyst(?) : chashman
+
+
+ט
+טוה : to spin, twist : t-w-h
+
+י
+יְשׁוּעָה : protection : yshu3ah
+ישׁע : to save, help : y-sh-3
+יֵשַׁע : safety : yesha3
+
+כ
+כִּבְשָׁן : kiln : kibshan
+כְּלִי : vessel : kli
 כִּסֵּא : throne : kisse2
-כַּר : saddle : kar_1
+כַּר : saddle : kar_1
 כַּרְמִיל : bright, rich red : karmil
-
 
-ל
-לָבָן : white : laban
-לוּחַ : board : luach
-מ
-מָאוֹר : light : ma2or
-מְגִלָּה : scroll : mgillah
+
+ל
+לָבָן : white : laban
+לוּחַ : board : luach
+מ
+מָאוֹר : light : ma2or
+מְגִלָּה : scroll : mgillah
 מוֹשָׁעָה : deliverance : mosha3ah
-מַחֲבַת : griddle : machabath
-מְחוּגָה : callipers : mchugah
-מַחֲרָשָׁה/מַחֲרֶשֶׁת : plough : machareshah
-מַפְרֶקֶת : neck : mapreqethמַפְתֵּחַ : key : maptheach
+מַחֲבַת : griddle : machabath
+מְחוּגָה : callipers : mchugah
+מַחֲרָשָׁה/מַחֲרֶשֶׁת : plough : machareshah
+מַפְרֶקֶת : neck : mapreqethמַפְתֵּחַ : key : maptheach
 מַקֵּל : branch, staff : maqqel
 מַרְאָה : vision, mirror : mar2ahמֶשֶׁךְ : bag : meshek_1
-מִשְׁפְּתַיִם/שְׁפַתַּיִם : sack : mishpthayim 
-נ
-נָבִיא/נְבִיאָה : prophet(ess) : nabi2
-נחם : to comfort : n-ch-m
-
-ס
-
-ע
-עֶזְרָה : help : 3ezrah
-עֵט : stylus : 3et
-עֲטָרָה : wreath, crown : 3atarah
-
-פ
-פדה : to liberate : p-d-h
-פְּדוּיִם : redemption price : pduyim
-פְּדוּת : redemption-action : pduth
-פִּדְיוֹן : ransom : pidyon
-פֶּלֶךְ : spindle : pelek
-פרק : to pull off : p-r-q
-פָּרָק : piece of meat : paraq
-פֶּרֶק : plunder : pereq
-
-
-צ
-צלה : to roast : ts-l-h
+מִשְׁפְּתַיִם/שְׁפַתַּיִם : sack : mishpthayim 
+נ
+נָבִיא/נְבִיאָה : prophet(ess) : nabi2
+נחם : to comfort : n-ch-m
+
+ס
+
+ע
+עֶזְרָה : help : 3ezrah
+עֵט : stylus : 3et
+עֲטָרָה : wreath, crown : 3atarah
+
+פ
+פדה : to liberate : p-d-h
+פְּדוּיִם : redemption price : pduyim
+פְּדוּת : redemption-action : pduth
+פִּדְיוֹן : ransom : pidyon
+פֶּלֶךְ : spindle : pelek
+פרק : to pull off : p-r-q
+פָּרָק : piece of meat : paraq
+פֶּרֶק : plunder : pereq
+
+
+צ
+צלה : to roast : ts-l-h
 צִפֹּרֶן : nail : tsipporen
-צְרוֹר : pouch : tsror_1
+צְרוֹר : pouch : tsror_1
+
+ק
+קבב : to curse : q-b-b
+קֶסֶת : inkpot(?) : qeseth
+
+ר
+רֹאֶה : seer : ro2ehרְאִי : mirror : r2i
 
-ק
-קבב : to curse : q-b-b
-קֶסֶת : inkpot(?) : qeseth
+שׂ
+שֶׂרֶד : scriber : cered
 
-ר
-רֹאֶה : seer : ro2ehרְאִי : mirror : r2i
-
-שׂ
-שֶׂרֶד : scriber : cered
-
-שׁ
-שָׁנִי : bright red dye : shani_1
-שׁוֹעַ : great man : shoa3
-שׁוּעַ : cry for help : shua3
+שׁ
+שָׁנִי : bright red dye : shani_1
+שׁוֹעַ : great man : shoa3
+שׁוּעַ : cry for help : shua3
+
+ת
+תְּבוּנָה : understanding : thbunah
+תְּכֵלֶת : bluish purple : thkeleth
+תִּפְלָה : senselessness : thiplah
+תְּשׁוּעָה : deliverance, state of : thshu3ah
 
-ת
-תְּבוּנָה : understanding : thbunah
-תְּכֵלֶת : bluish purple : thkeleth
-תִּפְלָה : senselessness : thiplah
-תְּשׁוּעָה : deliverance, state of : thshu3ah
-
-
+
