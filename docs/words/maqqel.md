@@ -194,7 +194,7 @@ L. Kopf, <i>Studies in Arabic and Hebrew Lexicography</i>, ed. M.H. Goshen-Gotts
 
 <div style="padding-left: 22px; text-indent: -22px;">
 McKane 1986<br>
-W. McKane, <i>Jeremiah</i>, vol. 1 (ICC), Edinburgh 1986, 15.
+W. McKane, <i>Jeremiah</i>, vol. 1 (ICC), Edinburgh 1986, 15.s
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">

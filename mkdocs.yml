@@ -20,6 +20,7 @@ nav:
                 - בָּרָד - hail: words/barad.md
                 - ברך - to bless: words/b-r-k_2.md
                 - בְּרָכָה - blessing: words/brakah.md
+                - בְּרִית - covenant: words/brith.md
             - ג:
                 - גְּאוּלִים - redemption: words/g2ulim.md
                 - גאל - to redeem: words/g-2-l.md
@@ -103,6 +104,7 @@ nav:
             - Blessing: semantic_fields/blessing.md
             - Cloth: semantic_fields/cloth.md
             - Colours: semantic_fields/colours.md
+            - Commitment: semantic_fields/commitment.md
             - Craft: semantic_fields/craft.md
             - Cult: semantic_fields/cult.md
             - Cursing: semantic_fields/cursing.md
@@ -146,6 +148,7 @@ nav:
             - Klaas A. D. Smelik: contributors/klaas_a._d._smelik.md
             - Chiara Stornaiuolo: contributors/chiara_stornaiuolo.md
             - T. Jonathan Stökl: contributors/t._jonathan_stökl.md
+            - Michaël N. van der Meer: contributors/michaël_n._van_der_meer.md
             - Jacques T.A.G.M. van Ruiten: contributors/jacques_t.a.g.m._van_ruiten.md
             - Archibald L.H.M. van Wieringen: contributors/archibald_l.h.m._van_wieringen.md
             - Bertus van ’t Veld: contributors/bertus_van_’t_veld.md
