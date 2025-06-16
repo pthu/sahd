@@ -675,34 +675,19 @@ Stefan Jakob Wimmer, Wolfgang Zwickel (eds), <i> Egypt and the Hebrew Bible: Pro
 </div>
 
 
-
-
-
 <!--<div style="padding-left: 22px; text-indent: -22px;">
 Beeston et al. 1982 <br>
 A.F.L. Beeston, M.A. Ghul, W.W. Müller, J. Ryckmans, <i>Dictionnaire Sabéen (anglais-français-arabe)</i>, Publications of the University of Sanaa, YAR, Louvain-la-Neuve: Peeters; Beyrouth: Libraire du Liban.
 </div>
 Beter in Abbreviations zetten!
 
-
 CIH
 
 Corpus Inscriptionum Semiticarum IV Inscriptiones Ḥimyariticae et Sabaeas continens <***>
 
-
-
 Harl 1994
 
 Marguerite Harl, La Genèse. Deuxième édition, La Bible d’Alexandrie 1 (Paris : Cerf, 1994).-->
-
-
-
-
-
-
-
-
-
 
 
 
