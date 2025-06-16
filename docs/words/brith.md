@@ -154,8 +154,7 @@ Among the verbs of which <span dir="rtl">בְּרִית</span> is frequently the
 * <span dir="rtl">כרת</span> <i>qal</i>, ‘to cut’, occurs with <span dir="rtl">כרת</span> as its object in 
 Gen 15:18; 21:27, 32; 26:28; 31:44; Exod 23:32; 24:8; 34:10, 12, 15, 27; Deut 4:23; 5:2, 3; 7:2; 9:9; 28:69 (2x); 29:11, 13, 24; 31:16; Josh 9:6, 7, 11, 15, 16; 24:25; Judg 2:2; 1 Sam 11:1; 18:3; 23:18; 2 Sam 3:12, 13, 21; 5:3; 1 Kgs 5:26; 8:21; 20:34; 2 Kgs 11:4, 17; 17:15, 35, 38; 23:3; Isa 28:15; 55:3; 61:8; Jer 11:10; 31:31, 32, 33; 32:40; 34:8, 13, 15, 18; Ezek 17:13; 34:25; 37:26; Hos 2:20; 10:4; 12:2; Zech 11:10; Pss 50:5; 83:6; 89:4; Job 31:1; 40:28; Ezra 10:3; Neh 9:8; 1 Chron 11:3; 2 Chron 6:11; 21:7; 23:3, 16; 29:10; 34:31.
 * <span dir="rtl">קום</span> <i>hiph.</i>, ‘to establish’, occurs with <span dir="rtl">בְּרִית</span> as its object in 
-Gen 6:18; 9:9, 11, 17; 17:7, 19, 21; Exod 6:4; Lev 26:9; Deut 8:18; 
-<!--2 Kgs 23:3;--> 
+Gen 6:18; 9:9, 11, 17; 17:7, 19, 21; Exod 6:4; Lev 26:9; Deut 8:18; <!--2 Kgs 23:3;-->
 Ezek 16:60, 62; Sir 45:24; 50:24.
 * <span dir="rtl">נתן</span> <i>qal</i>, ‘to give’, occurs with <span dir="rtl">בְּרִית</span> as its object in 
 Gen 9:12; 17:2; Num 25:12; Sir 44:22.
@@ -252,8 +251,7 @@ Exod 25:15 (LXX<small><sup>a</sup></small>; MT: <span dir="rtl">אֲרוֹן</sp
 27:21 (MT: <span dir="rtl">עֵדֻת</span>); 
 31:7 (MT: <span dir="rtl">עֵדֻת</span>); 
 39:35 (LXX 39:14; MT: <span dir="rtl">עֵדֻת</span>); 
-Lev 26:11 (MT: <span dir="rtl">מִשְׁכָּן</span>);
-<!--Hatch/Redpath: no counterpart in MT)-->
+Lev 26:11 (MT: <span dir="rtl">מִשְׁכָּן</span>); <!--Hatch/Redpath: no counterpart in MT)-->
 Deut 9:5 (MT: <span dir="rtl">דָּבָר</span>); 
 2 Sam 10:19 (LXX<small><sup>a</sup></small>:
 διέθεντο διαθήκην; 
@@ -294,8 +292,7 @@ In 1 Sam 4:3, 4 (2x), 5, and 1 Kgs 8:6, (τῆς) διαθήκης is omitted
 Renderings of <span dir="rtl">בְּרִית</span> are also missing in Deut 9:15; 
 1 Kgs 19:10 (in 19:14 also omission in LXX<small><sup>a</sup></small>, LXX<small><sup>Ant</sup></small>); 
 2 Kgs 17:15 
-(addition διαθήκη in LXX<small><sup>Ant</sup></small>);
-<!--met omkering!--> 
+(addition διαθήκη in LXX<small><sup>Ant</sup></small>); <!--met omkering!--> 
 Job 5:23?; <!--CHECK-->
 Dan 11:22; 
 2 Chron 16:3 (2nd, addition διαθήκη in LXX<small><sup>Ant</sup></small>).
@@ -344,9 +341,7 @@ HOEVEEL IN TOTAAL?-->
 [^15]: Sokoloff, <i>SLB</i>, 1361-62.
 
 
-* <span dir="rtl">ܕܝܬܝܩܐ</span> (<i>dytyqʾ</i> < Greek διαθήκη), ‘covenant’, ‘treaty’, ‘testament’:<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup> 
-<!--in 1 Chron 15-26 also <span dir="rtl">ܕܝܐܬܝܩܐ</span>, <i>???</i>)
-(in 1 Chron 15:28 geen tweede yod: plur? verder nergens plur!)--> 
+* <span dir="rtl">ܕܝܬܝܩܐ</span> (<i>dytyqʾ</i> < Greek διαθήκη), ‘covenant’, ‘treaty’, ‘testament’:<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup> <!--in 1 Chron 15-26 also <span dir="rtl">ܕܝܐܬܝܩܐ</span>, <i>???</i>) (in 1 Chron 15:28 geen tweede yod: plur? verder nergens plur!)--> 
 42 cases, e.g.,
 Josh 3:3, 6 (2x), 8, 11, 14, 17; 4:7, 9, 18; 6:6, 8; 8:33; 23:16; 24:25; 
 <!--Jer 3:16; 11:6, 10; 31:31, 32 (2x), 33; Ezek 20:37; Hos 10:4; 12:2; Zech 9:11; 
@@ -431,8 +426,7 @@ Tg ontbreekt voor Dan, Ezr, Neh.-->
 Exod 2:24; 6:4; 23:32; 24:7, 8; 34:27, 28;
 Lev 2:13; 24:8; 26:25, 42 (1st), 45;
 Num 10:33; 25:12;
-Deut 5:2; 7:2; 9:11, 15; 10:8; 28:69 (29:1, 2x), 11 (29:12), 13 (29:14), 20 (29:21) 
-<!--volgorde in text gewijzigd);--> 
+Deut 5:2; 7:2; 9:11, 15; 10:8; 28:69 (29:1, 2x), 11 (29:12), 13 (29:14), 20 (29:21) <!--volgorde in text gewijzigd);--> 
 31:9, 16, 25, 26; 
 Josh 3:3, 6 (1st), 8, 11, 14, 17; 4:7, 9, 18; 6:6, 8; 8:33; 9:7, 11, 15, 16; 24:25; 
 Judg 2:2; 8:33; 20:27; 1 Sam 4:3, 4 (2x), 5; 
