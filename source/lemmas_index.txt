@@ -15,10 +15,10 @@
 ב
 בֶּקַע : beka : beqa3
 בָּרָד : hail : barad
-ברך : to bless : b-r-k_2
-בְּרָכָה : blessing: brakah 
 בְּרִית : covenant : brith
-
+
+ברך : to bless : b-r-k_2
+בְּרָכָה : blessing: brakah 
 ג
 גְּאוּלִים : redemption : g2ulim
 גאל : to redeem : g-2-l
