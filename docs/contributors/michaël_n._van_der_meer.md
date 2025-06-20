@@ -5,7 +5,7 @@
 
 Webpage: <a href="https://independent.academia.edu/MichaëlNvanderMeer#tab-1" target="blank">independent.academia.edu/MichaëlNvanderMeer</a>. 
 
-![michael n. van der meer](../images/photos/michaelvdmeer.jpg  "Michaël N. van der Meer") 
+![michaël n. van der meer](../images/photos/michaelvdmeer.jpg "Michaël N. van der Meer") 
 
 
 
