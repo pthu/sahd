@@ -4,4 +4,4 @@
 
 
 ### Related words
-[בְּרִית – covenant, agreement, obligation](../words/brith.md)<br>
+[בְּרִית – covenant, agreement, obligation](../words/brith.md)<br>[חֶסֶד – faithfulness](../words/chesed.md)<br>

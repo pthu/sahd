@@ -32,6 +32,7 @@ nav:
                 - הֲדֹם - footstool: words/hadom.md
             - ח:
                 - חֹזֶה - (court) diviner: words/chozeh.md
+                - חֶסֶד - faithfulness: words/chesed.md
                 - חֶרֶט - burin: words/cheret.md
                 - חַשְׁמַן - amethyst(?): words/chashman.md
             - ט:
@@ -101,6 +102,7 @@ nav:
                 - תְּשׁוּעָה - deliverance, state of: words/thshu3ah.md
     - Semantic fields:
             - Agriculture: semantic_fields/agriculture.md
+            - Benevolence: semantic_fields/benevolence.md
             - Blessing: semantic_fields/blessing.md
             - Cloth: semantic_fields/cloth.md
             - Colours: semantic_fields/colours.md
@@ -142,6 +144,7 @@ nav:
             - M.D. Koster: contributors/m.d._koster.md
             - Eric G.L. Peels: contributors/eric_g.l._peels.md
             - Kurtis Peters: contributors/kurtis_peters.md
+            - Jakub M. Pogonowski: contributors/jakub_m._pogonowski.md
             - Alison Salvesen: contributors/alison_salvesen.md
             - Paul Sanders: contributors/paul_sanders.md
             - M. Patrizia Sciumbata: contributors/m._patrizia_sciumbata.md
