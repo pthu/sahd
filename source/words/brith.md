@@ -61,7 +61,7 @@ in 1 Kgs 8:9 and 2 Chron 5:10.
 
 
 <span id="RCM"></span>
-## 1 Root and Comparative Material
+## 1. Root and Comparative Material
 
 The etymology of <span dir="rtl">בְּרִית</span> is disputed. The most important derivations and proposed cognates are described hereafter.
 
@@ -127,7 +127,7 @@ There are additional occurrences of <i>b-r-t</i> in hieratic texts from the Nine
 <!--CHECK DJPA 2e ed. 2002-->
 <b>A.8</b> Perhaps relevant for the study of the etymological background of the noun <span dir="rtl">בְּרִית</span> is the common Semitic root
 <span dir="rtl">ברר</span>/<i>brr</i>, ‘to be pure’. In Classical Hebrew this root occurs usually in the context of ‘cleaning’ objects (<i>HALOT</i> 162b-163) and has a cognate noun <span dir="rtl">בֹּרִית</span>, ‘alkaline salt extracted from soap plants’ (<i>HALOT</i> 159a). Its cognate adjective <span dir="rtl">בר</span>, ‘pure’, can be used for people (Job 11:4; Song 6:10), their heart (Ps 24:1; 73:1), and tongue (Sir 19:9). The root occurs particularly in Qumran documents (Byun 2011). Ugaritic also conveys this meaning ‘to be pure’ (of heart, <i>KTU</i> 2.8:4), <!--2.3:5)-->
-or ‘to be free of legal obligations (<i>KTU</i> 3.12:3-4) (<i>DULAT</i><sup>3</sup>, 237). In Jewish Palestinian Aramaic the noun <span dir="rtl">ברר</span> means ‘purity, clearness’ (Sokoloff, <i>DJPA</i>, 115a).    
+or ‘to be free of legal obligations’ (<i>KTU</i> 3.12:3-4) (<i>DULAT</i><sup>3</sup>, 237). In Jewish Palestinian Aramaic the noun <span dir="rtl">ברר</span> means ‘purity, clearness’ (Sokoloff, <i>DJPA</i>, 115a).    
 The Classical Syriac adverb 
 <span dir="rtl">ܒܪܪ</span>
 (<i>brr</i>, only in pass. part. ܒܪܝܪ) is used to convey the meaning of ‘simple, sincere, pure, innocent’ (Payne-Smith, <i>CSD</i>, 56b; Sokoloff, <i>SLB</i>, 189a). Whether Akkadian <i>barāru</i> and <i>barīru</i> A are related to this root remains dubious (<i>CAD</i> B, 106b-107a, 111b-112a), but in South Semitic languages and dialects this root is well-attested with the meaning ‘to be pure’. Thus in Nabatean and Palmyrene inscriptions the <i>aphel</i> of the verb <i>brr</i> occurs in the sense of ‘to purify’ (an object) (<i>DNWSI</i> 1, 203), Ge’ez <i>brr</i> I (ብር), ‘purify, make white’ (Leslau 2006:106b-107a); see also ancient Arabic and Classical Arabic <i>BRR</i>, ‘purify’ (II or III depending on the lexicon).    
@@ -141,7 +141,7 @@ Important for the question of the etymological background of Hebrew <span dir="r
 ## 2. Formal Characteristics
 
 <b>A.1</b> 
-Bauer and Leander (BL, 604-05) regard <span dir="rtl">בְּרִית</span> as a fem. -<i>it</i> form derived from the <span dir="rtl">ברה</span>.
+Bauer and Leander (BL, 604-05) regard <span dir="rtl">בְּרִית</span> as a fem. -<i>it</i> form derived from the root <span dir="rtl">ברה</span>.
 Meyer (1969:22-23) regards <span dir="rtl">בְּרִית</span> as a <i>qatl</i> form. However, since the derivation of <span dir="rtl">בְּרִית</span> is questionable, these interpretations are also uncertain.
 
 
@@ -150,7 +150,7 @@ Meyer (1969:22-23) regards <span dir="rtl">בְּרִית</span> as a <i>qatl</i
 <b>A.1</b> 
 Among the verbs of which <span dir="rtl">בְּרִית</span> is frequently the object are <span dir="rtl">כרת</span>, <span dir="rtl">קום</span>, <span dir="rtl">נתן</span>:
 
-* <span dir="rtl">כרת</span> <i>qal</i>, ‘to cut’, occurs with <span dir="rtl">כרת</span> as its object in 
+* <span dir="rtl">כרת</span> <i>qal</i>, ‘to cut’, occurs with <span dir="rtl">בְּרִית</span> as its object in 
 Gen 15:18; 21:27, 32; 26:28; 31:44; Exod 23:32; 24:8; 34:10, 12, 15, 27; Deut 4:23; 5:2, 3; 7:2; 9:9; 28:69 (2x); 29:11, 13, 24; 31:16; Josh 9:6, 7, 11, 15, 16; 24:25; Judg 2:2; 1 Sam 11:1; 18:3; 23:18; 2 Sam 3:12, 13, 21; 5:3; 1 Kgs 5:26; 8:21; 20:34; 2 Kgs 11:4, 17; 17:15, 35, 38; 23:3; Isa 28:15; 55:3; 61:8; Jer 11:10; 31:31, 32, 33; 32:40; 34:8, 13, 15, 18; Ezek 17:13; 34:25; 37:26; Hos 2:20; 10:4; 12:2; Zech 11:10; Pss 50:5; 83:6; 89:4; Job 31:1; 40:28; Ezra 10:3; Neh 9:8; 1 Chron 11:3; 2 Chron 6:11; 21:7; 23:3, 16; 29:10; 34:31.
 * <span dir="rtl">קום</span> <i>hiph.</i>, ‘to establish’, occurs with <span dir="rtl">בְּרִית</span> as its object in 
 Gen 6:18; 9:9, 11, 17; 17:7, 19, 21; Exod 6:4; Lev 26:9; Deut 8:18; <!--2 Kgs 23:3;-->
@@ -176,7 +176,7 @@ In the LXX the noun διαθήκη is by far the most common rendering of Hebrew
 Διαθήκη is the rendering of ca. 267 out of the 287 occurrences of <span dir="rtl">בְּרִית</span> in MT.[^12]
 For the few exceptional renderings of <span dir="rtl">בְּרִית</span>, see A.3 below.
 Since some occurences of <span dir="rtl">בְּרִית</span> in MT lack a counterpart in LXX (see A.4 below), διαθήκη is the LXX's translation in more 
-than 95 % of the instances.    
+than 95% of the instances.    
 Although the Hebrew term <span dir="rtl">בְּרִית</span> and the Greek term διαθήκη overlap semantically in as far as both concepts refer to an official arrangement, they differ with respect to the authority of the parties involved. Hebrew <span dir="rtl">בְּרִית</span> refers to an ‘agreement’, a ‘covenant’, something which implies consent from each of the parties involved. The Greek term διαθήκη (< διατίθημι, ‘to arrange’), however, occurs in ancient Greek documents outside the Jewish-Christian tradition — including the so-called apocryphal Jewish Testament literature, such as the Testament of the Twelve Patriarchs, the Testament of Abraham, Job etc. — almost exclusively in the sense of a ‘testament’, or ‘will’. This implies a unilateral arrangement devised by a higher authority for subordinate recipients, usually a disposition of property by a will provided by a testator to her or his heirs 
 (<a href="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aalphabetic+letter%3D*d%3Aentry+group%3D34%3Aentry%3Ddiaqh%2Fkh" target="_blank" rel="noopener noreferrer">LSJ</a>, 394b-395a; Adrados, 
 <a href="http://dge.cchs.csic.es/xdge/διαθήκη" target="_blank" rel="noopener noreferrer"><i>DGE</i> V</a>, 975a-b). 
@@ -497,7 +497,7 @@ Vulgate PsG altijd testamentum, in PsH pactum, behalve in 83:6; 89:4;-->
 
 
 
-## 7 Conclusion
+## 7. Conclusion
 
 
 
