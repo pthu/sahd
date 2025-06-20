@@ -4,7 +4,7 @@ word_hebrew: בְּרִית
 transcription: <i>b<sup>e</sup></small>rīt</i>  
 title:    
 semantic_fields: commitment   
-contributors: paul_sanders, michaël_n._van_der_meer   
+contributors: paul_sanders, michaël_n._van_der_meer    
 first_published: 2025-06-16  
 last_update:  
 update_info:    
