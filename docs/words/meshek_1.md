@@ -9,8 +9,8 @@
 
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[Eric G.L. Peels](../contributors/eric_g.l._peels.md)<br>
-First published: 2011-05-11<br>Last update: May 2025 (Marten van Dam) <br>Citation: Eric G.L. Peels, מֶשֶׁךְ <i>mèšek</i> – leather bag, pouch, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: May 2025 (Marten van Dam))
+[Eric Peels](../contributors/eric_peels.md)<br>
+First published: 2011-05-11<br>Last update: May 2025 (Marten van Dam) <br>Citation: Eric Peels, מֶשֶׁךְ <i>mèšek</i> – leather bag, pouch, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: May 2025 (Marten van Dam))
 (WORK IN PROGRESS)
 
 
@@ -74,7 +74,7 @@ Amharic <i>mas</i> ‘tanned hide’?<sup id="fnref:16"><a href="#footnote" data
 
 <b>A.12</b>
 <i>Greek and others.</i>
-μεσκος, ‘sheepskin, fleece’, a rare Semitic equivalent of κῳvδιον.<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> Possibly it occurs also in other languages as a loanword. Robinson remarks on <span dir="rtl">מֶשֶׁךְ</span>: ‘It is curious that this was not identified long ago, for every one who has spent any time in northern India must be familiar with the <i>mšk</i> (= mšk), the goat-skin bag in which the ‘‘bhisti’’ (water-carrier) bears his precious fluid.’<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup>
+μεσκος, ‘sheepskin, fleece’, a rare Semitic equivalent of κῳδιον.<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> Possibly it occurs also in other languages as a loanword. Robinson remarks on <span dir="rtl">מֶשֶׁךְ</span>: ‘It is curious that this was not identified long ago, for every one who has spent any time in northern India must be familiar with the <i>mšk</i> (= mšk), the goat-skin bag in which the ‘‘bhisti’’ (water-carrier) bears his precious fluid.’<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup>
 
 ## 2. Formal Characteristics
 
@@ -170,7 +170,8 @@ Cf. A. Erman & H. Ranke.
 In the past, scholars trying to establish the meaning of the noun <span dir="rtl">מֶשֶׁךְ</span>  have relied too much on the testimony of the ancient versions, ignoring the fact that the translators were obviously guessing after the meaning and paraphrased the two passages Ps 126:6 and Job 28:18 heavily in order to wrest some sense from them. 
 
 <b>A.2</b> 
-Both careful exegesis and comparative linguistics render it plausible that the rare term <span dir="rtl">מֶשֶׁךְ</span> designates a leather bag or pouch which, depending on its purpose, might have different shapes. In Psalm 126:6 it will have been a fairly large bag for seed, in Job 28:18 a small pouch for valuables.  Since the normal Hebrew word for ‘skin, hide, leather’ is <span dir="rtl">עׂור</span>, one might consider the possibility that <span dir="rtl">מֶשֶׁךְ</span> is an Egyptian or Akkadian loanword (see <a href="#RCM">Root and Comparative material</a>) which, just as the Akkadian equivalent, sometimes acquired the specific meaning of ‘bag, pouch’ through synecdoche. 
+Both careful exegesis and comparative linguistics render it plausible that the rare term <span dir="rtl">מֶשֶׁךְ</span> designates a leather bag or pouch which, depending on its purpose, might have different shapes. In Psalm 126:6 it will have been a fairly large bag for seed, in Job 28:18 a small pouch for valuables.  Since the normal Hebrew word for ‘skin, hide, leather’ is
+<span dir="rtl">עוֹר </span>, one might consider the possibility that <span dir="rtl">מֶשֶׁךְ</span> is an Egyptian or Akkadian loanword (see <a href="#RCM">Root and Comparative material</a>) which, just as the Akkadian equivalent, sometimes acquired the specific meaning of ‘bag, pouch’ through synecdoche. 
 
 ## Bibliography
 
@@ -307,7 +308,7 @@ Costaz, <i>DSF</i>, 193.
 [^14]: Dozy, <i>SDA</i>, t. 2, 600.
 [^15]: Cf. Dillmann, <i>LLAe</i>, 195.
 [^16]: Cf. Leslau, <i>CAmhD</i>, 21.
-[^17]: <i>LSJ</i>, 1106 and 1016; cf. Lewy, <i>SFG</i>, 131; Mayer 1960.
+[^17]: LSJ, 1106 and 1016; cf. Lewy, <i>SFG</i>, 131; Mayer 1960.
 [^18]: Robinson 1961.
 [^19]: Cf. Magne 1958; Dahood 1970.
 [^20]: so e.g. Briggs & Briggs 1907; Gunkel 1968; Kraus 1989; Zenger 2008, 502.

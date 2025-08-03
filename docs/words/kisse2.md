@@ -45,7 +45,34 @@ Occurrences: 135x HB (4/85/46); 5x Sir; 25x Qum; 0x inscr. (Total:
 11Q17 (11QShSh) 5:8; 7:2, 11; 10:7; 
 11Q19 (11QTemple<small><sup>a</sup></small>) 56:20; 59:14; 59:17 (= 4Q524 /  4QTemple<small><sup>b</sup></small> fr6-13:1).
 
-##Art and Archaeology
+##1. Root and Comparative Material
+
+<b>A.1</b> The word <span dir="rtl">כִּסֵּא</span> and its cognates are found very widely in all Semitic languages. It derives ultimately from Sum. <i>gu-za</i>, ‘seat’, via Old Akk. <i>kussium</i> (= Standard Bab. <i>kussû</i>), ‘throne, saddle, stool’ (e.g., Ellenbogen 1962:89; Murtonen 1989:235). There may also be some relation to the Sum. verb <i>guz</i>, ‘cower, squat, be lowered’, etc., and though J. Black (personal communication) doubts this, he supports the Sum. etymology against the objections of Kaufman and Lipiński (1988:67).
+<!--(See B category).-->
+
+<b>A.2</b> The variant Akk. spelling with <i>-rs-</i> for <i>-ss-</i> is the normal form in Aram., and represents the dissimilation of sibilants to a liquid plus sibilant (Salonen 1963:58; Lipiński 1988:67).
+
+<b>A.3</b> Lipiński (1988:67) explains the Heb. vocalization as due to assimilation of the vowel of the first syllable (<i>u</i>) to the vowel of the second syllable (<i>i</i>), and Murtonen suggests that the original Ancient Hebrew form was KUSʾ. The suffixed form (ου)χεσσω appears in the transliteration column of the Hexapla of Ps 89:30, 37 (Murtonen 1988:189).
+
+<b>A.4</b> Ug. <i>ksʾu</i>, ‘throne, seat, saddle’ (<i>DULAT</i><sup>3</sup>, 456); Phoen. <i>ksʾ</i>; Neo-Punic <i>ksʾh</i>; Ancient Heb. and Rabbinic Heb. <span dir="rtl">כִּסֵּא</span>, 
+‘seat, stool, throne’.
+
+<b>A.5</b> In Aram. the geminated sibilants were dissimilated, <i>-ss-</i> to <i>-rs-</i>, hence Zinjirli <span dir="rtl">כרסא</span>, BAram. <span dir="rtl">כָּרְסֵא</span>, and cf. ‘Damascus’,
+<span dir="rtl">דַּמֶּשֶׂק</span> >
+<span dir="rtl">דַּרְמֶשֶׂק</span> in late BHeb. (1/2 Chron) and Aram.
+However, Fraenkel (1960:78-79) argues that the Resh is a lengthening sound (Dehnlaut), and compares other roots in Aram. that appear to have had a Resh introduced in the middle when compared with cognates in Arab. The word is also found in Old Aram., Imperial Aram., Egyptian Aram., Jewish Aram.
+(<span dir="rtl">כּוּרְסְיָא</span>), ‘seat, privy’, Syr. and Christian Palestinian Aram. (<span dir="rtl">ܟܘܪܣܝܐ</span>, <i>kursyā</i>), ‘throne, head of region, bishop’s seat’, Mandaic (<i>kursia</i>), ‘throne’.
+
+<b>A.6</b> Arab. <i>kursī</i>, ‘throne, seat, chair’, of ruler, God, bride.
+
+<b>A.7</b> South Semitic languages: Tigre <i>kursī</i>, ‘little bed, seat’, Tigri <i>kōras</i>, Mehri <i>karsī</i>, ‘chair, rifle butt’, Shauri <i>kersī</i>, Socotori <i>korsiy</i>, ‘throne’, Harari <i>kursi</i>, ‘chair, lectern’, though Leslau (1958:27) says that the Harari is a loanword from Arab,; Bedouin <i>kursi</i>, ‘chair, bench’, Somali <i>kursi</i>, ‘chair’, Saf. <i>kōrō</i>, ‘saddle’, Hausa <i>kujēra</i>, ‘chair’.
+
+<b>B.1</b> Kaufman (1974:28) objects to a Sum. origin, stating that the doubled sibilant (<i>ss</i>) and ‘final Aleph’ are inexplicable on the hypothesis of a loan from Sum.: rather the Sum. word could conceivably be a borrowing from Akk. He goes on to argue that if the NWSem. languages borrowed it in turn from Akk., it would have to be an early loan, since the Akk. word has a final uncontracted diphthong only in Old Akk. and Old Ass. But if the Akk. is not < Sum., all the NWSem. languages may have obtained the word from another non-Sem. source, independently Kaufman (1974:28; and see Salonen 1963:58). A Semitic etymology is just possible (e.g., \*<i>ksî</i> > Akk. <i>ksû</i>, ‘tie, bind’: see Salonen 1963:58, who points to the earliest Mesopotamian seats, which are tied bundles of reeds or rushes), but the form is an unusual one for Sem. Perhaps \*<i>kussiʾ</i> is a foreign or substrate word, hence the odd Ug. spelling <i>kśʾu</i>, using a sibilant normally reserved for foreign words (Kaufman 1974:29; <i>DULAT</i><sup>3</sup>, 462; Tropper, <i>UG</i>, 45, 103).
+
+Lipiński (1963), too, is dubious about a Sumerian etymology on account of the dual spelling of the word in syllabic script: Akk. <i>kussû(m)</i> or <i>kussiʾum</i>. However, according to J. Black (personal communication) Old Akk., Old Bab., Old Ass. <i>kussium</i> contracts naturally to Standard Bab. <i>kussu</i>, which resolves Lipiński’s problem. Regarding Kaufman’s objections, Black’s response is that the doubled sibilant and uncontracted diphthong are not inexplicable, just rather unusual, and that the Akk. is indeed a loanword from Sum.
+ 
+
+##7. Art and Archaeology
 
 <b>A.1</b> 
 Thrones are very frequently represented in the Ancient Near East, especially in Egyptian and Assyrian art, and these represent the two main styles. For thrones of approximately biblical date and provenance, see Broshi (1962:219-20): an Egyptian-style round-backed throne flanked by sphinxes, found in Israel, and the similar one on the Ahiram sarcophagus (see below and <i>ANEP</i> 158, #458). Metzger (1985:II, figure 271A) provides a drawing of a throne with lion figures on the arm rests, belonging to Rameses III. There is an Assyrian-style throne with cedar cone feet, scroll work on stretcher, and straight backrest on the Bar-Rakib stele (<i>ANEP</i> 158 #460). See also Keel (1977, figures 111, 113, 114, 115).
@@ -68,7 +95,7 @@ See also the following websites:
 
  
 
-##Conclusion
+##8. Conclusion
 
 (For good general coverage of the concept of throne, see Brettler 1989:81-85).
     
@@ -111,9 +138,44 @@ in E.L. Sukenik et al. (eds.), <i>Encyclopaedia Biblica</i>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Keel 1977 <br>
-Othmar Keel, <i> Jahwe-Visionen und Siegelkunst: Eine neue Deutung der Majestätsschilderung in Jes 6, Ez 1 and 10 und Sach 4</i> (SBS 84/85), Stuttgart: Katholisches Bibelwerk.
+Ellenbogen 1962 <br>
+Maximilian Ellenbogen, <i>Foreign Words in the Old Testament: Their Origin and Etymology</i>, London: Luzac and co.
 </div>
+
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Fraenkel 1960 <br>
+Meir Fraenkel, 
+‘Bemerkungen zum hebräischen Wortschatz’, <i>HUCA</i> 31:55-102.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Kaufman 1974 <br>
+Stephen Kaufman, <i>The Akkadian Influences on Aramaic</i>, Chicago: Chicago University Press.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Keel 1977 <br>
+Othmar Keel, <i>Jahwe-Visionen und Siegelkunst: Eine neue Deutung der Majestätsschilderung in Jes 6, Ez 1 and 10 und Sach 4</i> (SBS 84/85), Stuttgart: Katholisches Bibelwerk.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Leslau 1958 <br>
+Wolf Leslau, <i>Ethiopic and South Arabic Contributions to the Hebrew Lexicon</i>, Berkeley: University of California. 
+</div>
+
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Lipiński 1963 <br>
+Édouard Lipiński, ‘Yahweh malak’, <i>Bib</i> 44:405-60.
+</div>
+
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Lipiński 1988 <br>
+Édouard Lipiński, ‘Emprunts suméro-akkadiens en hébreu biblique’, <i>ZAH</i> 1:61-73.
+</div>
+
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Metzger 1985 <br>
@@ -121,5 +183,22 @@ Martin Metzger, <i>Köningsthron unf Gottesthron: Thronformen und Throndarstellu
 (AOAT, 15), 2 vols., Butzon & Berger: Kevelaer; Neukirchen-Vluyn: Neukirchener.
 </div>
 
+<div style="padding-left: 22px; text-indent: -22px;">
+Murtonen 1988 <br>
+A. Murtonen, <i>Hebrew in its West Semitic Setting: A Comparative Survey of Non-Masoretic Hebrew Dialects and Traditions, Part 1: A Comparative Lexicon; Section Ba: Root System; Hebrew Material</i>, Leiden: Brill.  
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Murtonen 1989 <br>
+A. Murtonen, <i>Hebrew in its West Semitic Setting: A Comparative Survey of Non-Masoretic Hebrew Dialects and Traditions, Part 1: A Comparative Lexicon; Section Bb: Root System; Comparative Material and Discussion</i>, Leiden: Brill.   
+</div>
+
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Salonen 1963 <br>
+Armas Salonen,
+<i>Die Möbel des alten Mesopotamien nach sumerisch-akkadischen Quellen: Eine lexikalische und kulturgeschichtliche Untersuchung</i>, Helsinki:
+Suomalainen Tiedeakatemia.
+</div>
 
 

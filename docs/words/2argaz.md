@@ -9,8 +9,8 @@
 
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[Eric G.L. Peels](../contributors/eric_g.l._peels.md)<br>
-First published: 2011-05-09<br>Last update: May 2025 (Marten van Dam) <br>Citation: Eric G.L. Peels, אַרְגַּז <i> ’argaz </i> – wagon-box (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: May 2025 (Marten van Dam))
+[Eric Peels](../contributors/eric_peels.md)<br>
+First published: 2011-05-09<br>Last update: May 2025 (Marten van Dam) <br>Citation: Eric Peels, אַרְגַּז <i> ’argaz </i> – wagon-box (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: May 2025 (Marten van Dam))
 (WORK IN PROGRESS)
 
 
@@ -80,7 +80,7 @@ The rare references to <span dir="rtl">אַרְגַּז</span>  in the rabbinica
 
 * At 1 Sam 6:8 LXX renders <span dir="rtl">בארגז</span> with ἐν θέματι βερσεχθαν; θέμα meaning ‘coffer’, βερσεχθαν is seen as a representation of Hebrew <span dir="rtl">בארגז</span>. At 1 Sam 6:11, 15 LXX translates <span dir="rtl">את&thinsp;־ארגז</span> with τὸ θέμα εργαβ - εργαβ is taken as a representation of Hebrew <span dir="rtl">בארגז</span>. So in all cases a double translation has to be assumed, testifying to the difficulty already the early Greek translators experienced with the word. The erroneous transliteration was taken over in the Ethiopic version.<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup>
 
-* <i>GELS-L</i>: ‘treasure; pile; coffer [1 Sam 6:8]’;<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup> <i>LSJ</i>: ‘that what is placed <i>or laid down</i>; treasure; pile; position; burrial-place; case etc.’.<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup>
+* <i>GELS-L</i>: ‘treasure; pile; coffer [1 Sam 6:8]’;<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup> LSJ: ‘that what is placed <i>or laid down</i>; treasure; pile; position; burrial-place; case etc.’.<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup>
 
 * α´ and  σ´ render ƛαρναξ ‘coffer, box, chest’.<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup>
 
@@ -216,8 +216,8 @@ A.H. van Zyl, <i>1 Samuel</i> (PredOT), Nijkerk 1988, 91 </div>
 [^8]: cf. Jastrow, <i>DTT</i>, 115.
 [^9]: cf. Leslau, <i>CDG</i>, 37.
 [^10]: <i>GELS-L</i>, 203.
-[^11]: <i>LSJ</i>, 788.
-[^12]: <i>LSJ</i>, 1030.
+[^11]: LSJ, 788.
+[^12]: LSJ, 1030.
 [^13]: so <i>BDB</i>, 919; <i>HAWAT</i>, 26; Van Zyl 1988; cf. Smith 1899.
 [^14]: cf. <i>GKC</i>, §126 q-s; <i>GBH</i>, §137 f-i; <i>IBHS</i>, §13.5.1.
 [^15]: Morgenstern 1942-43.

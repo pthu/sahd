@@ -31,6 +31,7 @@ nav:
             - ה:
                 - הֲדֹם - footstool: words/hadom.md
             - ח:
+                - חוּם - dark brown: words/chum.md
                 - חֹזֶה - (court) diviner: words/chozeh.md
                 - חֶסֶד - faithfulness: words/chesed.md
                 - חֶרֶט - burin: words/cheret.md
@@ -56,7 +57,7 @@ nav:
                 - מוֹשָׁעָה - deliverance: words/mosha3ah.md
                 - מַחֲבַת - griddle: words/machabath.md
                 - מְחוּגָה - callipers: words/mchugah.md
-                - מַחֲרָשָׁה/מַחֲרֶשֶׁת - plough: words/machareshah.md
+                - מַחֲרֵשָׁה/מַחֲרֶשֶׁת - plough: words/machareshah.md
                 - מַפְרֶקֶת - neck: words/mapreqeth.md
                 - מַפְתֵּחַ - key: words/maptheach.md
                 - מַקֵּל - branch, staff: words/maqqel.md
@@ -142,7 +143,7 @@ nav:
             - Cornelis Houtman: contributors/cornelis_houtman.md
             - Konrad D. Jenner: contributors/konrad_d._jenner.md
             - M.D. Koster: contributors/m.d._koster.md
-            - Eric G.L. Peels: contributors/eric_g.l._peels.md
+            - Eric Peels: contributors/eric_peels.md
             - Kurtis Peters: contributors/kurtis_peters.md
             - Jakub M. Pogonowski: contributors/jakub_m._pogonowski.md
             - Alison Salvesen: contributors/alison_salvesen.md

@@ -47,7 +47,9 @@ Occurrences: 287 HB (82/138/67); 10x Sir; 187x Qum; 1x Inscr. (Total: 485)
 ### Text Doubtful
 
 <b>A.1</b> 
-<i>DCH</i> (ii:264-67) and <i>DCHR</i> (ii:274-77) distinguish a \*<span dir="rtl">בְּרִית</span> II, ‘fetter’ (only in Ezek 20:37), and a 
+<i>DCH</i> (ii:264-67) and <i>DCHR</i> (ii:274-77) distinguish a \*<span dir="rtl">בְּרִית</span> II, ‘fetter’ (only in Ezek 20:37), 
+<!--cf LXX-->
+and a 
  \*<span dir="rtl">בְּרִית</span> III, ‘splendour’ (only in Isa 42:6),
 from \*<span dir="rtl">בְּרִית</span> I, ‘covenant’, ‘agreement’, ‘obligation’ (285x).
 
@@ -173,7 +175,7 @@ Gen 17:14; Lev 26:15, 44; Deut 31:16, 20; Judg 2:1; 1 Kgs 15:19; Isa 24:5; 33:8;
 
 <b>A.1</b> Διαθήκη as dominant rendering of <span dir="rtl">בְּרִית</span> in LXX <br> 
 In the LXX the noun διαθήκη is by far the most common rendering of Hebrew <span dir="rtl">בְּרִית</span>.
-Διαθήκη is the rendering of ca. 267 out of the 287 occurrences of <span dir="rtl">בְּרִית</span> in MT.<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup>
+Διαθήκη is the rendering of ca. 265 out of the 287 occurrences of <span dir="rtl">בְּרִית</span> in MT.<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup>
 For the few exceptional renderings of <span dir="rtl">בְּרִית</span>, see A.3 below.
 Since some occurences of <span dir="rtl">בְּרִית</span> in MT lack a counterpart in LXX (see A.4 below), διαθήκη is the LXX's translation in more 
 than 95% of the instances.    
@@ -185,13 +187,13 @@ The use of this Greek word διαθήκη in the sense of ‘covenant’ is ther
 > ... some Greek words in the LXX have Hebrew meanings, i.e., the chief meaning of the Hebrew counterpart has been transferred to the Greek, which has then become part of the living language—these may be labeled calques (see e.g., <span dir="rtl">בְּרִית</span> = διαθήκη = “covenant” throughout the LXX, but “will, testament” in extra-biblical Greek). Calques may be expected to predate the Septuagint.  (NETS, xvii)
 
 
-[^12]: See Weinfeld 1973:785; Kutsch 1984:352. According to <i>HALOT</i>, 157 s.v. <span dir="rtl">בְּרִית</span>, διαθήκη represents <span dir="rtl">בְּרִית</span> in LXX in 275 cases.
+[^12]: The number is 267 according to Weinfeld (1973:785) and Kutsch (1984:352).  According to <i>HALOT</i>, 157 s.v. <span dir="rtl">בְּרִית</span>, διαθήκη represents <span dir="rtl">בְּרִית</span> in LXX in 275 cases. On the basis of the main text of Rahlfs's edition, we established 265 as the correct number (with omission of Job 31:1, which in LXX is a later addition).
 <!--Hatch/Redpath markeert 277x diatheke = berith-->
 <!--Ezek 17:19 verandering volgorde met alh-->
 <!--Diatheke vaak in Sir. Waarvoor?-->
 <!--Plur diatheke alleen in Sira en Ezek 16:29 (no bryt in LXX)!-->
 <!--1 Kgs 20:34 in LXX 21:34; Dan 11:22 in LXX 11:22-23.-->
-<!--Isa 33:8 + aanv; Ps 74:20 + aanv σου; Neh 9:32 + aanv. σου;  .--> 
+ 
 
 Given the ubiquity of the equation <span dir="rtl">בְּרִית</span> and διαθήκη throughout the Greek translations of Hebrew Scripture (already in Gen 6:18, the first instance where the Greek translators had to decide upon the proper translation) it is probable that the equation was in use among Hellenistic Jews already before the Greek translation of the Pentateuch was made.
 In the relatively late book of Ben Sira,
@@ -271,27 +273,22 @@ other mss.: τῷ Βααλ διαθήκην);
 LXX<small><sup>Ant</sup></small>: διαθήκη; 
 
 * συνωμόται, ‘confederates’, for <span dir="rtl">בַּעֲלֵי בְרִית</span>: Gen 14:13.
-<!--Geen afwijkende Griekse vertalingen bekend voor deze uitdrukking-->
+<!--Geen afwijkende Griekse vertalingen bekend voor deze Hebr uitdrukking-->
 
 <b>A.4</b> Absence of renderings of <span dir="rtl">בְּרִית</span> in LXX   
-The following verses are omitted largely or entirely in the LXX, which 
+The following verses are omitted partially or entirely in the LXX, which 
 explains the absence of renderings of <span dir="rtl">בְּרִית</span>:
 Josh 6:6;
-1 Sam 18:3 (added in LXX<small><sup>Ant</sup></small>: διαθήκη); Jer 11:8; 33:20 (2x <span dir="rtl">בְּרִית</span>), 21, 25.  
+1 Sam 18:3 (added in LXX<small><sup>Ant</sup></small>: διαθήκη); Jer 11:8; 33:20 (2x <span dir="rtl">בְּרִית</span>), 21, 25; Job 5:23; 31:1 (added in mss: διαθήκη).  
 In 1 Sam 4:3, 4 (2x), 5, and 1 Kgs 8:6, (τῆς) διαθήκης is omitted after κιβωτός in the rendering of <span dir="rtl">אֱלֹהִים</span>/<span dir="rtl">אֲרוֹן בְּרִית יְהוָה</span>, but in these cases (τῆς) διαθήκης does represent <span dir="rtl">בְּרִית</span> in LXX<small><sup>a</sup></small> and LXX<small><sup>Ant</sup></small>.
 Renderings of <span dir="rtl">בְּרִית</span> are also missing in Deut 9:15; 
 1 Kgs 19:10 (in 19:14 also omission in LXX<small><sup>a</sup></small>, LXX<small><sup>Ant</sup></small>); 
 2 Kgs 17:15 
 (addition διαθήκη in LXX<small><sup>Ant</sup></small>); <!--met omkering!--> 
-Job 5:23?; <!--CHECK-->
-Dan 11:22; 
+Ezek 20:37;
 2 Chron 16:3 (2nd, addition διαθήκη in LXX<small><sup>Ant</sup></small>).
 
-
-
 <!--How 
-Ezek 20:37; 
-Job 31:1?</b>: Theod addition 
 Sir 11:34; 44:17; 50:24 omission?-->
 
 <b>A.5</b> Antiochene text of LXX (LXX<small><sup>Ant</sup></small>)    
@@ -369,15 +366,15 @@ Ezra 10:3 (plur); Neh 9:8 (plur), 32 (plur); 1 Chron 11:3; 2 Chron 15:12 (plur);
 * Free: Sir 45:24, 25 (beide omission?); 50:24 (omission?)--> 
 
 
-<b>c. Targumim (Tg: O/N/PsJ/Smr/J/K)</b>:  
+<b>c. Targumim</b>:  
 
 <span id="targum"><b>A.1</b> <span dir="rtl">קְיָם</span> as dominant rendering of <span dir="rtl">בְּרִית</span>   
-In the Targumim, the noun <span dir="rtl">קְיָם</span>
+In the Jewish Targumim, the noun <span dir="rtl">קְיָם</span>
 (including variant spellings) is the usual rendering of Hebrew <span dir="rtl">בְּרִית</span>. Jastrow describes its meaning as ‘[<i>that which is established,</i>] <i>law, statute; covenant; oath, vow</i>’ (<i>DTT</i>, 1359).
 
 <!--Deut 5:3 lijkt plur maar is sing.-->
 
-<b>A.2</b> Exceptional renderings of <span dir="rtl">בְּרִית</span>
+<b>A.2</b> Exceptional renderings of <span dir="rtl">בְּרִית</span> in the Jewish targumim are:
 
 * <span dir="rtl">אוֹרָיתָא</span>, ‘Torah, instruction’: Lev 26:25; Ezek 16:61;
 
@@ -400,9 +397,18 @@ Tg Neof: Lev 26:44 is missing; also Num 10:33 omission (part verse); verder alti
 <span dir="rtl">וגזרתך ואורייתך</span> for
 <span dir="rtl">וּבְרִיתְךָ</span>.
 
-Sam Targ?
-
 Tg ontbreekt voor Dan, Ezr, Neh.-->
+
+<b>A.3</b> In the Samaritan Targum, the following rendering are found:
+
+* <span dir="rtl">קיאם</span>, ‘covenant’:<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup> virtually always in Tg<small><sup>SmrJ</sup></small> (but in Gen 17:13 <span dir="rtl">ברית</span>), often also in Tg<small><sup>SmrA</sup></small>. <!--SmrA is de versie links in de editie-->
+<!--Alleen SmrJ Gen 17:13 BRYT-->
+* <span dir="rtl">פסק(ו)ל</span>, ‘covenant’:<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup> frequently in Tg<small><sup>SmrA</sup></small>; Gen 9:13, 15; 14:13; 17:7 (2x), 9, 10, 11, 13, 14; 31:44; Exod 2:24; 19:5.
+<!--Gebaseerd op Tal, <i>STP</i>, vol. 1. Anders banden niet gezien; aanvragen bij VU-->
+
+[^19]: Tal, <i>DSA</i>, 767.
+[^20]: Tal, <i>DSA</i>, 693-94.
+
 
 <b>Vulgate (Vg)</b> 
 
