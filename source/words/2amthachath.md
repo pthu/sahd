@@ -4,7 +4,7 @@ word_hebrew: אַמְתַּחַת
 transcription: <i> ’amtàḥat </i>    
 title: 
 semantic_fields: transport
-contributors: eric_g.l._peels
+contributors: eric_peels
 first_published: 2011-03-24    
 last_update: 2025-05-30 (Marten van Dam)
 contributors_footnote: 
@@ -31,7 +31,7 @@ Ketiv/ Qere: none.
 <b>A.1</b>  <i>Root.</i>
 It is questionable whether etymological research helps us to understand the term <span dir="rtl">אַמְתַּחַת</span> much better. Because the word occurs exclusively in the Joseph narrative, one might suppose that it is an Egyptian loan word. However, no Egyptian etymology has been proposed thus far. A derivation from the Hebrew preposition <span dir="rtl">תַּחַת</span> (‘das Wort bez. ein Gefäss, welches oft zum Reiten benützt wird, so dass es <i>unter</i> dem Reiter sich befindet’[^1]) failed to get any support. Greenfield 1965 connected <span dir="rtl">אַמְתַּחַת</span> with an Assyrian verb <i>matāḫu</i>, ‘to bear, carry, lift up’.[^2] Consequently the word <span dir="rtl">אַמְתַּחַת</span> would not mean ‘sack’, but ‘load, burden, pack’ (this was taken over by <i>HAHAT</i>: ‘Sack, besser Ladung, Last’[^3]). This might also explain the rendering of the word by <span dir="rtl">טוענא</span> ‘load, burden’ in Tg and Pesh (see <a href="#AV">Ancient Versions</a>). However, Greenfields etymological and comparative philological argument in itself is inconclusive because it does not explain the parallelism between <span dir="rtl">אַמְתַּחַת</span>, <span dir="rtl">כְּלִי</span>  and  <span dir="rtl">שַׂק</span> in 42:25, 27, 35; 43:11, 12 and 44:1.
 
-More promising is the long-standing derivation from the Hebrew verb <span dir="rtl">מתח</span>, ‘to stretch, spread out’ which occurs once in Isa 40:22 in parallelism with <span dir="rtl">נטה</span>. In Mishnaic Hebrew it is used frequently (see below).[^4] The following cognates may be mentioned here:
+More promising is the long-standing derivation from the Hebrew verb <span dir="rtl">מתח</span>, ‘to stretch, spread out’ which occurs once in Isa 40:22 in parallelism with <span dir="rtl">נטה</span>. In Mishnaic Hebrew it is used frequently (see below). For the prosthetic <span dir="rtl">א</span>, cf. <i>BL</i>, 487; Klein, <i>CEDHL</i>, 37. The following cognates may be mentioned here:
 
 <b>A.2</b>
 <i>Akkadian.</i>
@@ -82,8 +82,7 @@ Geez <i>matḥa</i> ‘to be thin’.[^20]
 
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ): </b>    
-* μάρσιππος, ‘bag’, ‘pouch’:[^21] 
-LXX all instances. 
+* μάρσιππος, ‘bag’, ‘pouch’:[^21] LXX all instances. 
 
 <b>b. Peshitta (Pesh):</b>  
 * <span dir="rtl">ܛܥܢܐ</span> (<i>ṭaʿnā</i>), ‘load, burden, package’: all instances.[^22]
@@ -307,7 +306,7 @@ G.B. Winer, <i>Lexicon manuale hebraicum et chaldaicum in Veteris Testamenti Lib
 [^1]: So Bacher 1885.
 [^2]: cf. <i>CAD</i> M/1, 403-4.
 [^3]: <i>HAHAT</i>, 79.
-[^4]: For the prosthetic <span dir="rtl">א</span>, cf. <i>BL</i>, 487; Klein, <i>CEDHL</i>, 37. 
+
 [^5]: <i>CAD</i> M/1, 403-5.
 [^6]: Del Olmo Lete, Sanmartín, <i>DULAT</i>, vol. 2, 599.
 [^7]: De Moor 1981 and 1985.
@@ -324,7 +323,7 @@ G.B. Winer, <i>Lexicon manuale hebraicum et chaldaicum in Veteris Testamenti Lib
 [^18]: Payne Smith (Margoliouth), <i>CSD</i>, 314.
 [^19]: Lane, <i>AEL</i>, 2688; Dozy, <i>SDA</i>, t. 2, 575.
 [^20]: Leslau, <i>CDG</i>, 371.
-[^21]: <i>GELS</i>, 441; <i>LSJ</i>, 1081.
+[^21]: <i>GELS</i>, 441; LSJ, 1081.
 [^22]: Payne Smith, <i>CSD</i>, 180. Sokoloff, <i>SLB</i>, 544: ‘sack’ in Gen 43:21.
 [^23]: Tal, <i>DSA</i>, 320.
 [^24]: Greenfield 1965, 90, n. 2: ‘The Samaritan Targum's עדאה for אמתחת is difficult. Prof. Z. Ben-Hayyim has suggested to me orally that this word is from אחד "to hold, contain״ and עדאה means "container".’

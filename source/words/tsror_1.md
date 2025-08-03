@@ -4,7 +4,7 @@ word_hebrew: צְרֹור
 transcription: <i>ṣ<small><sup>e</sup></small>rōr</i>    
 title: 
 semantic_fields: utensils   
-contributors: eric_g.l._peels   
+contributors: eric_peels   
 first_published: 2011-05-11   
 last_update: May 2025 (Marten van Dam)
 additional_info: (WORK IN PROGRESS)
@@ -48,7 +48,7 @@ Levy: ‘Bündel, Päckchen, Beutel’;[^4] Jastrow ‘knot, bundle, bag’.[^5]
 
 <b>A.5</b> 
 <i>Jewish Aramaic.</i>
-Levy: ‘Bündel, Päckchen, Geldbeutel, Geld’;[^6] Sokoloff: ‘money bag, purse’;[^7] Sokoloff: ‘bundle, money bag, security money’.[^8] <br><span dir="rtl">צְרִירָא</span>: not ‘Bündel, Strauss’[^9], or ‘handful, bunch’[10], but ‘pouch (for frankincense)’.
+Levy: ‘Bündel, Päckchen, Geldbeutel, Geld’;[^6] Sokoloff: ‘money bag, purse’;[^7] Sokoloff: ‘bundle, money bag, security money’.[^8] <br><span dir="rtl">צְרִירָא</span>: not ‘Bündel, Strauss’[^9], or ‘handful, bunch’[^10], but ‘pouch (for frankincense)’.
 
 <b>A.6</b> 
 <i>Samaritan Aramaic.</i>
@@ -65,7 +65,7 @@ Costaz:[^13] ‘bourse, sac, <i>purse</i>, <i>bag</i>’; Sokoloff:[^14] ‘smal
 
 <b>A.9</b> 
 <i>Classical Arabic.</i>
-<i>ṣurrat</i> ‘purse for money’;[^17] ‘petit sachet dans lequel on met la poudre d'or ... [ou] les drogues et les épices dont on se sert pour assaisonner des viandes’ (‘small sachet in which people put gold dust ... [or] drugs and spices which people use for seasoning meat’.[^18] <i>ṣarīrat</i> ‘coins wrapped in a purse’.[^19]
+<i>ṣurrat</i> ‘purse for money’;[^17] ‘petit sachet dans lequel on met la poudre d'or ... [ou] les drogues et les épices dont on se sert pour assaisonner des viandes’ (‘small sachet in which people put gold dust ... [or] drugs and spices which people use for seasoning meat’).[^18] <i>ṣarīrat</i> ‘coins wrapped in a purse’.[^19]
 
 <b>A.10</b>
 <i>Rabbinical literature.</i>
@@ -145,7 +145,7 @@ In rabbinic sources the literal meaning of <span dir="rtl">צְרֹור</span> i
 In Gen 42:35 <span dir="rtl">צְרֹור</span> is used twice in the construct state with <span dir="rtl">כֶּסֶף</span> ‘silver, money’ (the second time in double plural[^27]). It is a designation of a kind of money pouch here. Joseph had ordered to put the money with which his brothers had bought grain surreptitiously back into their → <span dir="rtl">שַׂק</span> or <a href=https://otw-site.eu/wp-content/uploads/2017/07/amtjt.pdf target="_blank">→ <span dir="rtl">אַמְתַּחַת</a></span> (Gen 42:25, 27; 43:32; 44:1). Apparently the <span dir="rtl">צְרֹור</span> was smaller than these containers. Every brother - distributive use of <span dir="rtl">אִישׁ</span> - finds his money pouch in his own sack. Apparently it was not unusual to include the purse with the payment. Possibly the latter consisted in small silver bars (German ‘Hacksilber’, a common tender) which were wrapped up in a piece of cloth, the root being <span dir="rtl">צרר</span>, ‘to tie up, bind in, wrap’. <span dir="rtl">צְרֹור&thinsp;־הַכֶּסֶף</span> in Prov 7:20 has the same meaning. Here the ‘loose woman’ who wants to seduce the unsuspecting young man assures him that her husband will not come home for some time because he is on a business trip and has taken with him the <span dir="rtl">צְרֹור&thinsp;־הַכֶּסֶף</span>. A money purse was taken along only if someone was planning to do important business which would occupy him for some time.
 
 <b>A.2</b>
-Less well-filled is the <span dir="rtl">צְרֹור</span> in Hag 1:6 where the general economical depression is sketched with some catching phrases recalling the wording of curses (cf. Lev 26:26; Hos 4:10; Mic 6:14; Zech 8:10). The situation is so desperate that the wages of a daily labourer (<span dir="rtl">הַמִּשְׂתַֹּכֵּר</span>) are insufficient for his daily sustenance. He earns his money <span dir="rtl">נָקוּב</span> <span dir="rtl">אֶל&thinsp;־צְרֹור</span>, so to say, for a purse with holes (pass. part. Qal √<span dir="rtl">נקב</span> ‘to perforate’). The imagery is recognisable: uncoined, sharp-edged pieces of silver cause wear on the bottom of the purse the top of which is tied up. Exactly because the text mentions a purse with holes in it, Hag 1:6 is rightly seen as the first biblical evidence for the use of a money purse.[^28]
+Less well-filled is the <span dir="rtl">צְרֹור</span> in Hag 1:6 where the general economical depression is sketched with some catching phrases recalling the wording of curses (cf. Lev 26:26; Hos 4:10; Mic 6:14; Zech 8:10). The situation is so desperate that the wages of a daily labourer (<span dir="rtl">הַמִּשְׂתַּכֵּר</span>) are insufficient for his daily sustenance. He earns his money <span dir="rtl">נָקוּב</span> <span dir="rtl">אֶל&thinsp;־צְרֹור</span>, so to say, for a purse with holes (pass. part. Qal √<span dir="rtl">נקב</span> ‘to perforate’). The imagery is recognisable: uncoined, sharp-edged pieces of silver cause wear on the bottom of the purse the top of which is tied up. Exactly because the text mentions a purse with holes in it, Hag 1:6 is rightly seen as the first biblical evidence for the use of a money purse.[^28]
 
 <b>A.3</b>
 In these cases it is unclear how and where the purse or sachet was kept, but Song 1:13 suggests that normally it was attached to a string  around the neck and worn on the most safe place, directly on the skin of the breast, hidden by the garment. Not unlike the neck wallets tourists  wear nowadays. Like the signet ring (<a href=https://otw-site.eu/wp-content/uploads/2017/07/jwtm.pdf target="_blank">→ <span dir="rtl">חֹותָם</span></a>), it was not removed, not even at night, when people were sleeping in the nude (cf. Cant 5:3; <i>KTU</i> 1.2:III.20). In Song 1:13 <span dir="rtl">צְרֹור</span> is a pouch containing myrrh. The ‘bride’ compares her beloved to a <span dir="rtl">הַמֹּר</span> <span dir="rtl">צְרֹור</span> which rests (ipf. √<span dir="rtl">לין</span>) between her breasts. In the ambiguous language of love it is he who is represented by the pouch (cf. v. 12). As the myrrh is resting on her breast, so is his head resting lovingly on her breast, he is like a permanent perfume to her, adorably close. A pouch or bag to wear treasured objects on the breast was very common, cf. the pictures in the literature cited under <a href="#PM">Pictorial Material</a> as well as Keel 1986 who interprets <span dir="rtl">הַמֹּר</span> <span dir="rtl">צְרֹור</span> as an amulet: ‘Seine intime und sichere Zugehörigkeit zu ihr schützt sie. Er verleiht ihr Lebenskraft und Ansehen.’.[^29] Others deem it more likely that <span dir="rtl">הַמֹּר</span> <span dir="rtl">צְרֹור</span> is a bundle or posy,[^30] but this is difficult to reconcile with the other occurrences of the word. Because it was the girl’s intention to intoxicate her lover with her fragrance, it is unlikely that the <span dir="rtl">צְרֹור</span> was made of leather. Rather it was made some kind of fabric. Initially myrrh is an oily resin exuding from the incised stems and branches of the <i>Commiphora abyssinica</i> (Berg.) shrub, but eventually it solidifies and can be crushed into granules which give off their perfume when warmed.[^31]
@@ -319,7 +319,7 @@ Winer, <i>LMHC</i>, 835: ‘fasciculus colligatus, spec. fasciculus pecuniae i.e
 Zohari 1982<br>
 M. Zohary, <i>Plants of the Bible: A Complete Handbook</i>, Cambridge 1982, 200.</div>
 
-[^1]: cf. <i>T</i>d. 6, 1113;   <i>AT</i>87,  990; Klein, <i>HL</i>56-7.
+[^1]: Cf. <i>T</i>d. 6, 1113;   <i>AT</i>87,  990; Klein, <i>HL</i>56-7.
 [^2]: Salonen, <i>sgeräte</i>eil 1, 192.
 [^3]: Del Olmo Lete & Sanmartín, <i>AT</i>91.
 [^4]: Levy, <i>WTM</i>, Bd. 4, 224.
@@ -327,8 +327,8 @@ M. Zohary, <i>Plants of the Bible: A Complete Handbook</i>, Cambridge 1982, 200.
 [^6]: Levy, <i>WTM</i>, Bd. 4, 224.
 [^7]: Sokoloff, <i>DJPA</i>, 471.
 [^8]: Sokoloff, <i>DJBA</i>, 974.
-[^9]: so Levy, <i>CWT</i>, 338.
-[^10]: so Sokoloff, <i>DJPA</i>, 470.
+[^9]: So Levy, <i>CWT</i>, 338.
+[^10]: So Sokoloff, <i>DJPA</i>, 470.
 [^11]: Tal, <i>DSA</i>, 745.
 [^12]: Payne Smith (Margoliouth), <i>CSD</i>, 485.
 [^13]: Costaz, <i>DSF</i>, 305.
@@ -340,20 +340,20 @@ M. Zohary, <i>Plants of the Bible: A Complete Handbook</i>, Cambridge 1982, 200.
 [^19]: Wehr, <i>DWMA</i>, 510.
 [^20]: Krauss, <i>TA</i>, Bd. 1, 200.
 [^21]: <i>GELS-L</i>, 99.
-[^22]: <i>LSJ</i>, 880.
-[^23]: <i>LSJ, 975</i>.
-[^24]: <i>GELS-L</i>, 49: ‘bundle’; <i>LSJ</i>, 880: ‘band, breastband, girdle, bundle’.
-[^25]: <i>GELS-L</i>, 76; <i>GELS-M</i>, 112; <i>LSJ</i>, 304.
-[^26]: cf. Van Staalduine 2002.
-[^27]: cf. Brockelman 1956.
+[^22]: LSJ, 880.
+[^23]: LSJ, 975.
+[^24]: <i>GELS-L</i>, 49: ‘bundle’; LSJ, 880: ‘band, breastband, girdle, bundle’.
+[^25]: <i>GELS-L</i>, 76; <i>GELS-M</i>, 112; LSJ, 304.
+[^26]: Cf. Van Staalduine 2002.
+[^27]: Cf. Brockelman 1956.
 [^28]: Loewe 1955.
-[^29]: cf. Fabry, <i>TWAT</i>, Bd. 6, 1120.
-[^30]: e.g. Garrett 2004; Stoop-Van Paridon 2005.
+[^29]: Cf. Fabry, <i>TWAT</i>, Bd. 6, 1120.
+[^30]: E.g., Garrett 2004; Stoop-Van Paridon 2005.
 [^31]: Feliks 1968; Zohary 1982; Exum 2005.
 [^32]: Tur-Sinai 1957 and Clines 1989.
-[^33]: cf. Lambert 1960; Fohrer 1963; Wildberger 1972; Hartley 1988.
-[^34]: cf. Wildberger 1972.
-[^35]: cf. Fokkelman 1986.
+[^33]: Cf. Lambert 1960; Fohrer 1963; Wildberger 1972; Hartley 1988.
+[^34]: Cf. Wildberger 1972.
+[^35]: Cf. Fokkelman 1986.
 [^36]: Oppenheim 1959; Eissfeldt 1960; Abusch 1981; Glassner 2000.
 [^37]: Marmorstein 1925. cf. Fabry, <i>TWAT</i>, Bd. 6, 1121.
 [^38]: Eissfeldt 1960, Fig. 1-7; Abusch 1981, 5, Pl. 2; Keel 1986, 69, Fig. 20.

@@ -71,8 +71,8 @@ has the following reading: <span dir="rtl">שמעון ולוי אחים כלו �
 According to Stefan Schorch (2015: 347-48), the Samaritan tradition interpreted 
 <span dir="rtl">מכרתיהם</span> as ‘covenants’ and regarded this word as the subject of the verbal form <span dir="rtl">כַּלוּ</span>:
 ‘their covenants finished violence’;
-cf. Tg<small><sup>Smr1</sup></small> <span dir="rtl">אסכמו שקר בקיומיון</span>, ‘with their covenant-making’.
-Tg<small><sup>Smr2</sup></small> reads <span dir="rtl">אסכמו שקר בקטעותם</span>. 
+cf. Tg<small><sup>SmrJ</sup></small> <span dir="rtl">אסכמו שקר בקיומיון</span>, ‘with their covenant-making’.
+Tg<small><sup>SmrA</sup></small> reads <span dir="rtl">אסכמו שקר בקטעותם</span>. 
 
 <b>A.2</b> Isa 18:2 mentions <span dir="rtl">כְּלֵי־גֹמֶא</span>, ‘papyrus-vessels’. Traditionally, the first noun is analysed as an attestation of the noun <span dir="rtl">כְּלִי</span>,  which in view of the context should be rendered with ‘ship’. Recently, Noonan (2019:123) suggested to regard <span dir="rtl">כלי</span> in this verse as
 an Egyptian loanword, just like <span dir="rtl">גֹמֶא</span>. In Ramesside texts the nouns <i>qr</i>, ‘cargo boat for carrying corn’, <i>qrr</i>, ‘type of boat’, and <i>kr</i>, ‘kind of small boat’, are known. In Demotic, a noun <i>qry</i>, ‘boat’, occurs, albeit not frequently.  From a phonetic point of view, a shift from Egyptian /r/ into Semitic /l/ is very much possible. The fact that the noun does not occur in Egyptian texts contemporary to Isa 18, renders Noonan's proposal less convincing.
@@ -222,10 +222,10 @@ Schlousz, however, construes <span dir="rtl">פעל כל</span> as ‘someone wh
 
 <span id="samaram"><b>A.10</b> <i>Samaritan Aramaic</i>: </span> The usual rendering of <span dir="rtl">כלי</span> in Tg<small><sup>Smr</sup></small> is <span dir="rtl">מאנא</span>, ‘vessel, instrument, garment’[^38] (see 
 <a href="#targum">Ancient Versions: Targumim</a> below).
-However, Tg<small><sup>Smr2</sup></small>, which displays an alternative version of Tg<small><sup>Smr</sup></small> (see <a href="#smr2">Ancient Versions: Targumim A.2</a>), twice represents Hebrew <span dir="rtl">כלי</span> by a form of <span dir="rtl">כלי</span>:
+However, Tg<small><sup>SmrA</sup></small>, which displays an alternative version of Tg<small><sup>Smr</sup></small> (see <a href="#smrA">Ancient Versions: Targumim A.2</a>), twice represents Hebrew <span dir="rtl">כלי</span> by a form of <span dir="rtl">כלי</span>:
 <span dir="rtl">כליכון</span> for Hebrew <span dir="rtl">כליכם</span> in Gen 43:11; 
 45:20 (Tal, <i>STP</i> I: 185, 197).[^39]
-This unusual rendering must be due to a Hebraising tendency. Tg<small><sup>Smr1</sup></small>, the other version of the Samaritan Targum, reads <span dir="rtl">מניכון</span> in both cases (Tal, <i>STP</i> I: 184, 196).
+This unusual rendering must be due to a Hebraising tendency. Tg<small><sup>SmrA</sup></small>, the other version of the Samaritan Targum, reads <span dir="rtl">מניכון</span> in both cases (Tal, <i>STP</i> I: 184, 196).
 
 <b>A.11</b> <i>Ugaritic</i>: Probably attested in Ug. as <i>kl</i>. The expression <i>yd kl klh</i> corresponds to Akk. <i>qadu gabbi mimmûšu</i>, ‘with all its equipment’,
 in the Babylonian texts from Ugarit. The reading <i>qštm</i> [<i>kl</i>] <i>mhrm</i> in <i>KTU</i> 1.17 vi:39-40, translated in <i>ARTU</i>, 239, 
@@ -748,15 +748,15 @@ In the Targumim, the noun <span dir="rtl">מ(א)נא</span>, ‘vessel, utensil,
 The word <span dir="rtl">מ(א)נא</span> has about the same semantic field as <span dir="rtl">כְּלִי</span>. 
 In Targum Onkelos (Tg<small><sup>O</sup></small>) 96% of the occurrences of <span dir="rtl">כְּלִי</span> are translated by <span dir="rtl">מ(א)נא</span>, in Targum Pseudo-Jonathan (Tg<small><sup>PsJ</sup></small>) 91%, and in Targum Neofiti (Tg<small><sup>N</sup></small>) 94%. In Targum Jonathan to the Nebiim (Tg<small><sup>J</sup></small>) 73% of the occurrences of <span dir="rtl">כְּלִי</span> are translated as <span dir="rtl">מ(א)נא</span>, and in the Targumim to the Ketubim (Tg<small><sup>K</sup></small>) 70%. 
 The exceptions listed below account for ca. 15% of the occurrences.[^105]  
-<span id="smr2">Two versions of the Samaritan Targum</span> have been transmitted, which are here labelled as Tg<small><sup>Smr1</sup></small> and Tg<small><sup>Smr2</sup></small>.[^106]Tg<small><sup>Smr1</sup></small> always has the rendering <span dir="rtl">מ(א)נא</span>, in Gen 49:5 having a reading that is more in line with the Hebrew Samaritan text <span dir="rtl">כלו</span> (see Introduction, A.10). 
-Tg<small><sup>Smr2</sup></small> has a different rendering in four cases (Gen 27:3; 42:25, 43:11; 45:20). 
+<span id="smrA">Two versions of the Samaritan Targum</span> have been transmitted, which are here labelled as Tg<small><sup>SmrJ</sup></small> and Tg<small><sup>SmrA</sup></small>.[^106]Tg<small><sup>SmrJ</sup></small> always has the rendering <span dir="rtl">מ(א)נא</span>, in Gen 49:5 having a reading that is more in line with the Hebrew Samaritan text <span dir="rtl">כלו</span> (see Introduction, A.10). 
+Tg<small><sup>SmrA</sup></small> has a different rendering in four cases (Gen 27:3; 42:25, 43:11; 45:20). 
 
 <b>A.2</b> Renderings with <span dir="rtl">זַיינָא/זֵינָא</span>
 
 Renderings of <span dir="rtl">כְּלִי</span> by <span dir="rtl">זַיינָא/זֵינָא</span> or expressions including forms of <span dir="rtl">זַיינָא/זֵינָא</span>
 are relatively frequent:
 
-* <span dir="rtl">זַיינָא/זֵינָא</span>, ‘weapon, armament, armour, weapon, steel’:[^107] Gen 27:3 (only Tg<small><sup>O,Smr2</sup></small>); Judg 9:54; 1 Sam 14:1, 6, 7, 12 (1,2) 14:13 (1,2), 14,17; 16:21; 17:54; 20:40; 21:9; 31:4 (1,2), 5, 6, 9, 10; 2 Sam 18:15; 23:37; Isa 54:17; Jer 22:7; Ps 7:14; 1 Chron 10:4 (1,2), 5, 9, 10; 11:39; 12:34, 38; 16:42; 2 Chron 23:7, 13; 30:21; 34:12;
+* <span dir="rtl">זַיינָא/זֵינָא</span>, ‘weapon, armament, armour, weapon, steel’:[^107] Gen 27:3 (only Tg<small><sup>O,SmrA</sup></small>); Judg 9:54; 1 Sam 14:1, 6, 7, 12 (1,2) 14:13 (1,2), 14,17; 16:21; 17:54; 20:40; 21:9; 31:4 (1,2), 5, 6, 9, 10; 2 Sam 18:15; 23:37; Isa 54:17; Jer 22:7; Ps 7:14; 1 Chron 10:4 (1,2), 5, 9, 10; 11:39; 12:34, 38; 16:42; 2 Chron 23:7, 13; 30:21; 34:12;
 * <span dir="rtl">זיני זֶמֶר</span>, ‘musical instruments’:[^108] Ps 71:22; 1 Chron 16:5; 23:5, 2 Chron 5:13; 7:6; 29:27;
 * <span dir="rtl">זיני תּוּשְׁבַחְתָּא</span>, ‘instruments of praise’:[^109] 2 Chron 29:26;
 * <span dir="rtl">מאני זיינא שנינא</span>, ‘sharp weapon utensils’:[^110] Gen 49:5 (only Tg<small><sup>PsJ</sup></small>; Tg<small><sup>O</sup></small> unclear; Tg<small><sup>N</sup></small>: <span dir="rtl">מרי זיינה שנינה</span>);
@@ -770,17 +770,17 @@ are relatively frequent:
 * <span dir="rtl">אַתְרָא</span>, ‘place, town’:[^112] Jer 48:11 (1,2);
 * <span dir="rtl">כָּהֲנָא</span>, ‘priest’: Isa 22:24;
 * <span dir="rtl">כָּל</span>, ‘all’:[^113] 2 Chron 36:10, see the discussion below;
-* <span dir="rtl">כלי</span>: Gen 43:11; 45:20 (only Tg<small><sup>Smr2</sup></small>); see <a href="#samaram">Root and Comparative Material A.10</a>; 
+* <span dir="rtl">כלי</span>: Gen 43:11; 45:20 (only Tg<small><sup>SmrA</sup></small>); see <a href="#samaram">Root and Comparative Material A.10</a>; 
 * <span dir="rtl">כְּלִילָא</span>, ‘wreath, crown’, etc.:[^114] Num 31:50? (only Tg<small><sup>N</sup></small>; see A.10 below);
 * <span dir="rtl">לויא/ לואה</span>, ‘Levite’:[^115] Isa 22:24;
 * <span dir="rtl">נבי/נבא</span> (<i>niph.</i>,/<i>itp.</i>) ‘to prophesy’:[^116] Zech 11:15;
 * <span dir="rtl">נִכְסַיָּא</span> (plur), ‘property’, etc.:[^117] Jer 48:12;
-* <span dir="rtl">סכם</span> (<i>aph.</i>), ‘to finish, to put an end to’:[^118] Gen 49:5, <span dir="rtl">אסכמו שקר</span>, ‘they put an end to iniquity’ (Tg<small><sup>Smr1</sup></small>);
+* <span dir="rtl">סכם</span> (<i>aph.</i>), ‘to finish, to put an end to’:[^118] Gen 49:5, <span dir="rtl">אסכמו שקר</span>, ‘they put an end to iniquity’ (Tg<small><sup>SmrJ</sup></small>);
 * <span dir="rtl">עוֹבָדָא</span>, ‘act, action, deed, etc.’:[^119] Isa 32:7;
 * <span dir="rtl">צַנָא</span>, ‘basket’:[^120] Deut 23:25 (only Tg<small><sup>PsJ</sup></small>);
 * <span dir="rtl">רַבָּא</span>, ‘master, superior’,[^121] ‘master, chief, head’:[^122] Isa 22:24;
 * <span dir="rtl">רַבָּנֵי מַשרְיָתֵיה</span>, ‘the masters of his armies’:[^123] Isa 10:28;
-* <span dir="rtl">שקלב</span>, ‘bag’:[^124] Gen 42:25 (Tg<small><sup>Smr2</sup></small>);
+* <span dir="rtl">שקלב</span>, ‘bag’:[^124] Gen 42:25 (Tg<small><sup>SmrA</sup></small>);
 * <span dir="rtl">תִּיקּוּנָא</span>, ‘adornment’, etc.:[^125] Isa 61:10;
 * <span dir="rtl">תִּיקּוּנֵי</span>, ‘adornments’, etc.,[^126] specified by preceding <span dir="rtl">גוליין דציצית ותפילין</span>, ‘fringed cloaks and phylacteries’:[^127] Deut 22:5 (only Tg<small><sup>PsJ</sup></small>);
 * <span dir="rtl">תַּכְשִׁיטָא</span>, ‘jewel’,[^128] ‘ornament’, etc.:[^129] Exod 35:22 (only Tg<small><sup>PsJ</sup></small>).
@@ -817,7 +817,7 @@ metaphors are clarified; and lastly, the text is expanded or altered.
 	* In Isa 10:28 <span dir="rtl">כֵּלָיו</span> is translated as <span dir="rtl">רַבָּנֵי מַשרְיָתֵיה</span>, ‘the masters of their armies’. In Isa 32:7 the translation is <span dir="rtl">עוּבָדֵיהוֹן</span>, ‘their deeds’. In both instances the Targum expands the text or fills in a more specific meaning in the MT.
 	* In Zech 11:15 the Targum renders a verbal form for the noun <span dir="rtl">כְּלִי</span>.  The translation of the Targum is <span dir="rtl">אִתנַבִי</span>, ‘prophesy against’. It is possible that the Hebrew <span dir="rtl">כְּלִי</span> was connected with the Aramaic verb <span dir="rtl">כלא</span> and therefore the noun altered in a verbal paraphrasis.
 	* While in MT 2 Chron 36:10 reads <span dir="rtl">כְּלֵי חֶמְדַּת בֵּית יְהוָה</span>, ‘the precious <i>objects</i> of the house of YHWH</span>’, the Targum reads <span dir="rtl">כל רוגגת בית מקדשא דייי</span>, ‘<i>all</i> that was precious of the holy temple of YHWH’. It is possible that the targumists had a Hebrew source text that differed from MT.[^140] Another possibility is that <span dir="rtl">כל</span> is an interpretation of <span dir="rtl">כְּלֵי</span>. In that case the objects of value (<span dir="rtl">כְּלֵי חֶמְדַּת</span>) in the temple are rendered as everything that was in the temple, because every object in the temple is valuable according to the Targum.
-	* Lastly, Tg<small><sup>Smr2</sup></small> has two Hebraising translations in Gen 43:11 and 45:20 using the Hebrew word <span dir="rtl">כְּלֵי</span>.
+	* Lastly, Tg<small><sup>SmrA</sup></small> has two Hebraising translations in Gen 43:11 and 45:20 using the Hebrew word <span dir="rtl">כְּלֵי</span>.
 * According to the Tgs, all kinds of objects can be meant when <span dir="rtl">כְּלִי</span> is used in the MT, ordinary items, such as a basket, items for decoration, an ornament, a crown, weaponry, musical instruments, holy objects, etc. Most of those renderings of <span dir="rtl">כְּלִי</span> are induced by context. Furthermore, <span dir="rtl">מָנָא/מָאנָא</span> has a broad meaning, ‘vessel, utensil, garment, etc.’ and therefore shows a variety in meaning. 
 
 
@@ -1144,7 +1144,7 @@ Many thanks are due to Benjamin Bogerd (Protestant Theological University, Utrec
 [^103]: Payne Smith, <i>CSD</i>, 339; Sokoloff, <i>SLB</i>, 916.
 [^104]: Jastrow, <i>DTT</i>, 723, 796. </span> Dalman, <i>ANHT</i>, 240: ‘Gerät, Gefäß , Gewand, insbes. Pflug’. Sokoloff, <i>DJBA</i>, 637-8,  ‘vessel, utensil, garment, plowshare’.
 [^105]: This percentage is based on the sum of the total  occurrences of a rendering other than simply a form of <span dir="rtl">מ(א)נא</span> in Tg<small><sup>O</sup></small>, Tg<small><sup>PsJ</sup></small>, Tg<small><sup>N</sup></small>, Tg<small><sup>J</sup></small> (Nebiim), and the Targumim on the Ketubim, taking into account that no Targumim  for Daniel, Ezra and Nehemiah are attested. Because of the three Targumim on the Pentateuch, the occurrences of <span dir="rtl">כְּלִי</span> in the Pentateuch are counted three times:  (95+90+93+102+54)/(99x3+140+74)=0.85.
-[^106]: The two versions are displayedin Tal, <i>STP</i>. Tg<small><sup>Smr2</sup></small> ends in Num 29:39.
+[^106]: The two versions are displayedin Tal, <i>STP</i>. Tg<small><sup>SmrA</sup></small> ends in Num 29:39.
 [^107]: Sokoloff, <i>DJBA</i>, 410. Dalman, <i>ANHT</i>, 127 ‘Waffe’.
 [^108]: <span dir="rtl">זְמָרָא</span> Jastrow, <i>DTT</i>, 405, ‘music, song’; Sokoloff, <i>DJBA</i>, 417, ‘music, song’.
 [^109]: Jastrow, <i>DTT</i>, 1659, ‘song, glory’; Sokoloff, <i>DJBA</i>, 1200, ‘praise’.

@@ -4,7 +4,7 @@ word_hebrew: כַּר
 transcription: <i>kar</i>    
 title: 
 semantic_fields: utensils, transport
-contributors: eric_g.l._peels 
+contributors: eric_peels 
 first_published: 2011-05-10  
 last_update: May 2025 (Marten van Dam)   
 contributors_footnote: 
@@ -202,7 +202,7 @@ A.Th. Hartmann, <i>Die Hebräerin am Putztisch und als Braut</i>, vol. 2, Amster
 <i>HCHAT</i>, Bd. 1, 625: Identify with all other occurrences of <span dir="rtl">כַּר</span>  in biblical Hebrew and explain: ‘eig. Wulstiges, Dickes, dah. übertr. wulstiges Polster, Sattel auf dem Kamel, um darauf zu sitzen, u. dick genug, um darin etwas zu verstecken’, referring to several cognates <br>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Hofman & Gressmann 1923<br>
+Hofmann & Gressmann 1923<br>
 G. Hoffmann, H. Gressmann, ‘Teraphim: Masken und Winkorakel in Ägypten und Vorderasien’, <i>ZAW</i> (40) 1923, 90-1 </div>
 
 <i>KBL</i>, 453: ‘Satteltasche, basket-saddle’ <br>
@@ -262,7 +262,7 @@ Wilson, <i>PPSE</i>, vol. 4, 153.</div>
 [^11]: Lane, <i>AEL</i>, 2637; <i>WKAS</i> (K), 429.
 [^12]: Leslau, <i>CDG</i>, 289.
 [^13]: cf. Krauss, <i>TA</i>, Bd. 1, 64; Bd. 2, 123.
-[^14]: Lust <i>et al.</i>, <i>GELS-L</i>, 421; <i>LSJ</i>, 1580.
+[^14]: Lust <i>et al.</i>, <i>GELS-L</i>, 421; LSJ, 1580.
 [^15]: Tal, <i>DSA</i>, 407.
 [^16]: Jastrow, <i>DTT</i>, 1037.
 [^17]: Levy, <i>CWT</i>, 197.

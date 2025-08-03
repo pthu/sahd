@@ -4,7 +4,7 @@ word_hebrew: <span dir="rtl">מִשְׁפְּתַיִם</span> / <span dir="rtl">
 transcription: <i>mišp<small><sup>e</sup></small>tàyim</i> / <i>š<small><sup>e</sup></small>pattàyim</i>    
 title:  
 semantic_fields: utensils, cloth 
-contributors: eric_g.l._peels
+contributors: eric_peels
 first_published: 2011-05-11   
 last_update: May 2025 (Raymond de Hoop, Marten van Dam)
 contributors_footnote: 
@@ -27,7 +27,7 @@ Occurrences:   2x HB (1/1/0); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2)
 * Nebiim: Judg 5:16.
 
 
-<span dir="rtl">שְׁפַתַיִם</span><br>
+<span dir="rtl">שְׁפַתַּיִם</span><br>
 
 Grammatical type: noun masc.<br>
 
@@ -44,7 +44,7 @@ Occurrences:   2x HB (0/1/1); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2)
 <i>Root.</i> 
 On the basis of Ugaritic and Arabic the Semitic root can be determined as <i>ṯpd</i> ‘to put 
 one thing on another’. This root may have developed into <span dir="rtl">שׁפת</span>  in biblical Hebrew 
-under the influence of nouns like <span dir="rtl">אַשְׁפַּתֹּות</span> (Lam 4:5) and <span dir="rtl">שְׁפַתַיִם</span> (Ezek 40:43; 
+under the influence of nouns like <span dir="rtl">אַשְׁפַּתֹּות</span> (Lam 4:5) and <span dir="rtl">שְׁפַתַּיִם</span> (Ezek 40:43; 
 Ps 68:13) which suggest the development <i>*ʾašpadtu</i> &gt; <i>*ʾašpatt</i> 
 &gt;  <i>*ʾašpat</i> and <i>*šapadtu</i> &gt; <i>*šapatt</i> &gt; 
 <i>*šapat</i>.[^1] 
@@ -59,14 +59,14 @@ Also the verb <i>ṯpd</i> G ‘to place one thing on another’ is attested.[^4
 
 <b>A.3</b> 
 <i>Postbiblical Hebrew.</i>
-As the context betrays, <span dir="rtl">שְׁפַתַיִם</span> ‘border-mounds’ (?) and <span dir="rtl">שׁפת</span> ‘to place, 
+As the context betrays, <span dir="rtl">שְׁפַתַּיִם</span> ‘border-mounds’ (?) and <span dir="rtl">שׁפת</span> ‘to place, 
 pile’[^5] have apparently been borrowed from Biblical Hebrew.
 
 <b>A.4</b> 
 <i>Classical Arabic.</i>
 <i>taffada</i> ... ‘Doubler, garnir en dedans une cuirasse de drap’; <i>ṯafāfīd</i> 
-‘1. Nuages blancs qui s'amoncélent et chevauchent les uns sur les autres. 
-2. Doublure, piéces de drap dont on garnit en dedans. 
+‘1. Nuages blancs qui s'amoncèlent et chevauchent les uns sur les autres. 
+2. Doublure, pièces de drap dont on garnit en dedans. 
 3. Choses cachées sous d'autres’; 
 <i>maṯāfīdu</i> <i>Voy. le précéd.</i> 2.’[^6]
 So the basic meaning in Arabic seems to be ‘to fold one side over the other, make double, provide with 
@@ -98,7 +98,7 @@ LXX<sup>B</sup> has ἀνὰ μέσον τῆς διγομίας , ‘in the m
 σ´  ἀνά μέσον τῶν μεταιχμίων, ‘in the middle of the frontiers’. 
 ἀλλος: ἐν μέσῳ χειλέων, ‘in the middle of ‘lips’ (rims)’.[^10]
 
-<span dir="rtl">שְׁפַתַיִם</span>:<br>
+<span dir="rtl">שְׁפַתַּיִם</span>:<br>
 * Ps 68 [67]:14 LXX ἀνὰ μέσον τῶν κλήρων, as in Gen 49:14.<br>
 * Ezek 40:43 LXX γεῖσος  ‘cornice, coping’.[^11] 
 α´  ἐπιστάσεις  ‘stoppers (?)’
@@ -109,17 +109,17 @@ LXX<sup>B</sup> has ἀνὰ μέσον τῆς διγομίας , ‘in the m
 * Gen 49:14 <i>bêt šbīlê</i> ‘between roads’.<br>
 * Judg 5:16 <i>baynat šbīlayyā</i> ‘between the roads’.<br>
 
-<span dir="rtl">שְׁפַתַיִם</span>:<br>
+<span dir="rtl">שְׁפַתַּיִם</span>:<br>
 * Ezek 40:43 <i>sêp̈wāthōn</i> ‘and their rims, ledges’.[^12]
 * Ps 68:14 <i>bêt špāyê</i> ‘between the clearings’.[^13]
 
 
 <b>c. Targum (Tg):</b>  
 
-* Tg<sup>Smr</sup>: 
-The basic text J has <span dir="rtl">בין כרניה</span>  ‘among the nations’.[^14:]
+Tg<small><sup>Smr</sup></small>: 
+Tg<small><sup>SmrJ</sup></small> has <span dir="rtl">בין כרניה</span>  ‘among the nations’.[^14:]
 Some other manuscripts have <span dir="rtl">לשׁוניה</span>  or <span dir="rtl">לשׁונאיה</span>, apparently etymologizing 
-with Hebrew <span dir="rtl">שָׂפָה</span> ‘tongue’, also ‘language’. Manuscript A has <span dir="rtl">בספיואתה</span>, probably 
+with Hebrew <span dir="rtl">שָׂפָה</span> ‘tongue’, also ‘language’. Tg<small><sup>SmrA</sup></small> has <span dir="rtl">בספיואתה</span>, probably 
 with the same meaning.[^15]
 
 <span dir="rtl">מִשְׁפְּתַיִם</span>:<br>
@@ -131,7 +131,7 @@ T<sup>PsJ</sup> <span dir="rtl">ביני תחומי אחוי</span> ‘between t
 * Judg 5:16 <span dir="rtl">בין תחומיא</span> ‘between the borders’. 
 A variant reading has <span dir="rtl">בפרשׁת אורחא</span> ‘at a cross-road’.[^16]<br>
 
-<a id="targ"></a><span dir="rtl">שְׁפַתַיִם</span>:<br>
+<a id="targ"></a><span dir="rtl">שְׁפַתַּיִם</span>:<br>
 * Ezek 40:43 <span dir="rtl">עונקלין</span>, a Greek loanword (ὄγκινος  or ἀγκάλη), not ‘eine mit Widerhaken versehene Stange’,[^17] 
 but rather ‘hook, rack’. 
 No doubt this was based on the iron ‘hooks’ of m. Midd. 3:5, a passage, however, which 
@@ -144,7 +144,7 @@ bears a hypothetical character itself.<br>
 <span dir="rtl">מִשְׁפְּתַיִם</span>:
 *  Gen 49:14; Judg 5:16 <i>terminus</i> ‘border, boundary’.[^20]
 
-<span dir="rtl">שְׁפַתַיִם</span>:<br>
+<span dir="rtl">שְׁפַתַּיִם</span>:<br>
 * Ezek 40:43 <i>et labia earum</i> ‘and their rims’.<br>
 * Ps 68:14 <i>in medios cleros</i>, after LXX.
 
@@ -202,7 +202,7 @@ inertion (vv. 15b-17). Reuben is asked why he remained sitting (<span dir="rtl">
 <span dir="rtl">מִשְׁפְּתַיִם</span>  without taking part in the action. The singer gives the answer himself: because 
 Reuben preferred ‘to listen to the piping for the flocks’ (<span dir="rtl">לִשְׂמֹעַ שְׁרִקֹות עֲדָרִים</span>). 
 The herds are gathered by the piping of the shepherds, Reuben simply continues the daily routine 
-of going out and comming in. Reuben hears the shepherd's flute, but not the trumpet of war. It 
+of going out and coming in. Reuben hears the shepherd's flute, but not the trumpet of war. It 
 seems likely that <span dir="rtl">מִשְׁפְּתַיִם</span> must be rendered ‘sheepfolds’ here, not ‘donkey packs’ or the 
 like. Yet  a relation between the two may be suspected in two different ways. One might assume 
 that the poet wants to evoke the everyday scene of a mule lying down between his double burden - the very picture of peaceful rest in general. Or, one might assume that the V-shape of the sheepfold 
@@ -210,7 +210,7 @@ in ancient Israel resembled the shape of a donkey pack with its multiple layers 
 
 
 
-In view of the analogous wording and function in the context, most scholars assume that <span dir="rtl">שְׁפַתַיִם</span> in Ps 68:14 is a variant spelling of the term <span dir="rtl">מִשְׁפְּתַיִם</span> in 
+In view of the analogous wording and function in the context, most scholars assume that <span dir="rtl">שְׁפַתַּיִם</span> in Ps 68:14 is a variant spelling of the term <span dir="rtl">מִשְׁפְּתַיִם</span> in 
 Judg 5:16 - without preformative <span dir="rtl">מ־</span> and with geminated 
 <span dir="rtl">ת</span>.[^28]
 Moreover, some of 
@@ -227,17 +227,17 @@ decision on this matter is possible only if the function of the ‘dove’ in v.
 clarified.[^30]
 
 <b>A.5</b>
-The meaning of the technical term <span dir="rtl">שְׁפַתַיִם</span> in Ezek 40:43 is as uncertain as it is 
+The meaning of the technical term <span dir="rtl">שְׁפַתַּיִם</span> in Ezek 40:43 is as uncertain as it is 
 controversial. This verse too has been a <i>crux interpretum</i> from antiquity (see <a href="#targ">Ancient Versions c</a>) to 
 the present day. The context is a description of a room in the neighbourhood of the north gate. 
 The vast majority of commentators agrees that the present sequence of cola in vv. 42-43 is illogical. 
 It is thought that on the tables (<span dir="rtl">שֻׁלְחָנֹות</span>) not both the slaughtering instruments 
 (<span dir="rtl">הַכֵּלִים</span>) and the flesh of victims (43b) can have been laid. Moreover, the function of the 
-<span dir="rtl">שְׁפַתַיִם</span> in v. 43a is missing in MT and v. 43a breaks off rather abruptly at 
+<span dir="rtl">שְׁפַתַּיִם</span> in v. 43a is missing in MT and v. 43a breaks off rather abruptly at 
 <span dir="rtl">אֲלֵיהֶם</span>. It seems most natural to relate v. 43b and  v. 42a, and to reverse the order so that 
-on both sides of the building concerned (<span dir="rtl">בַּבַּיִת סָבִיב סָבִיב</span>) the <span dir="rtl">שְׁפַתַיִם</span> are attached 
+on both sides of the building concerned (<span dir="rtl">בַּבַּיִת סָבִיב סָבִיב</span>) the <span dir="rtl">שְׁפַתַּיִם</span> are attached 
 (<span dir="rtl">מוּכָנִים</span>, Ho. part., v. 43a). They are assumed to serve for storing the slaughtering 
-instruments (v. 42b).[^31] Following various ancient versions (cf. <a href="#AV">Ancient Versions</a>), scholars render <span dir="rtl">שְׁפַתַיִם</span> 
+instruments (v. 42b).[^31] Following various ancient versions (cf. <a href="#AV">Ancient Versions</a>), scholars render <span dir="rtl">שְׁפַתַּיִם</span> 
 as ‘hooks, pegs’ or ‘ledges, shelves’.
 
 <b>A.6</b>
@@ -253,7 +253,7 @@ slabs which were only one cubit high (v. 42b) were on four of the tables mention
 v. 41b <span dir="rtl">אֲלֵיהֶם</span>).[^34] 
 Since the slaughtering instruments, mostly knives and scrapers, were 
 used on these blocks, there is no valid reason to assume that they could not be lying on these ‘tables’ 
-when not in use (v. 42b). The <span dir="rtl">שְׁפַתַיִם</span> which were fastened all around in the building (v. 43) 
+when not in use (v. 42b). The <span dir="rtl">שְׁפַתַּיִם</span> which were fastened all around in the building (v. 43) 
 can only be the sacks in which the butchers used to suspend joints of meat for 
 drying.[^35]
 Apparently the fabric served to keep away flies. The circumstance that they were only one 
@@ -282,7 +282,7 @@ cut, not unlike the European custom to sell hams in a tapering sack or net.
 ## 7. Conclusion
 
 <b>A.1</b>
-The ancient versions are clearly at a loss how to interpret <span dir="rtl">מִשְׁפְּתַיִם</span> and <span dir="rtl">שְׁפַתַיִם</span>, words that apparently had become obsolete by the time the translators started their work. On the basis of context, etymology and iconography it may be assumed that <span dir="rtl">מִשְׁפְּתַיִם</span> and <span dir="rtl">שְׁפַתַיִם</span> designated objects made of fabric folded in two and stitched together at the edges to form a sack 
+The ancient versions are clearly at a loss how to interpret <span dir="rtl">מִשְׁפְּתַיִם</span> and <span dir="rtl">שְׁפַתַּיִם</span>, words that apparently had become obsolete by the time the translators started their work. On the basis of context, etymology and iconography it may be assumed that <span dir="rtl">מִשְׁפְּתַיִם</span> and <span dir="rtl">שְׁפַתַּיִם</span> designated objects made of fabric folded in two and stitched together at the edges to form a sack 
 (<a href=https://sahd-online.com/words/2amthachath/ target="_blank">→ <span dir="rtl">אַמְתַּחַת</a></span>). As such it could designate a sack to dry freshly slaughtered and washed meat (Ezek 40:43). Two or more such folded sacks could be connected and hung over the back of a donkey as a ‘donkey-pack’ (Gen 49:14). Very few versions seem to have preserved a vague notion of this meaning, viz. LXX<sup>B</sup>, which translates ‘in the middle of the double burden’ in Judg 5:16, and the Graeco-Venetus rendering  ‘to the half-packs’ in Gen. 49:14. In a metaphorical sense both words could designate a sheep-fold (Judg 5:16; Ps 68:14) whereas the equivalent in Ugaritic (<i>mṯ pdm</i>) became a metaphor for multiple layers of rock and the Arabic cognate could designate cloud-packs, cumulus.
 
 <b>A.2</b>
@@ -319,7 +319,7 @@ Tübingen <sup>2</sup>1977, 317 (hesitates to accept Eissfeldt's hypothesis).
 
 <div style="padding-left: 22px; text-indent: -22px;">
 CHALOT<br>
-W.L. Holladay, <i>A Concise Hebrew and Aramaic Lexicon of the Old Testament</i>, Leiden 1971, 221: <span dir="rtl">מִשְׁפְּתַיִם</span> ‘the two saddle-bags (of pack-animal)’; 382: <span dir="rtl">שְׁפַתַיִם</span> ‘(rim) of slab? Ez. 40,43; (panniers or) saddle-bags Ps 68,14 (oth.: sheepfolds)’.
+W.L. Holladay, <i>A Concise Hebrew and Aramaic Lexicon of the Old Testament</i>, Leiden 1971, 221: <span dir="rtl">מִשְׁפְּתַיִם</span> ‘the two saddle-bags (of pack-animal)’; 382: <span dir="rtl">שְׁפַתַּיִם</span> ‘(rim) of slab? Ez. 40,43; (panniers or) saddle-bags Ps 68,14 (oth.: sheepfolds)’.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -341,7 +341,7 @@ W.J. Darby <i>et al.</i>, <i>Food: The Gift of Osiris</i>, vol. 1, London 1977, 
 DBHE<br>
 L. Alonso Schökel (ed.), <i>Diccionario Bíblico 
 Hebreo-Español</i>, Madrid 1994, 443:  <span dir="rtl">מִשְׁפְּתַיִם</span> ‘Alforjas Gn 49,14; aprisco?’; 761: 
-<span dir="rtl">שְׁפַתַיִם</span> ‘apriscos ... repisas’.
+<span dir="rtl">שְׁפַתַּיִם</span> ‘apriscos ... repisas’.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -392,7 +392,7 @@ O. Eissfeldt, ‘Noch einmal: Gabelhürden im Ostjordanland’, <i>FuF</i> 28 (1
 
 <div style="padding-left: 22px; text-indent: -22px;">
 FHAWAT<br>
-G. Fohrer <i>et al.</i>, <i>Hebräisches und aramäisches Wörterbuch zum Alten Testament</i>, Berlin 1971, 167: <span dir="rtl">מִשְׁפְּתַיִם</span> ‘Sattelkörbe’; 293 <span dir="rtl">שְׁפַתַיִם</span> ‘<i>Ez 40<sub>43</i></sub> Gabelhaken?; Abstellplatten?; <i>Ps 68<sub>14</i></sub> Hürden?; Packsattel?’.
+G. Fohrer <i>et al.</i>, <i>Hebräisches und aramäisches Wörterbuch zum Alten Testament</i>, Berlin 1971, 167: <span dir="rtl">מִשְׁפְּתַיִם</span> ‘Sattelkörbe’; 293 <span dir="rtl">שְׁפַתַּיִם</span> ‘<i>Ez 40<sub>43</i></sub> Gabelhaken?; Abstellplatten?; <i>Ps 68<sub>14</i></sub> Hürden?; Packsattel?’.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -404,7 +404,7 @@ M. Flashar, ‘Exegetische Studien zum Septuagintapsalter’, <i>ZAW</i> 32 (191
 GB<br>
 W. Gesenius & F. Buhl, <i>Hebräisches und 
 aramäisches Handwörterbuch über das Alte Testament</i>, 
-Leipzig <sup>17</sup>1915, 473: <span dir="rtl">מִשְׁפְּתַיִם</span> ‘wahrsch. Viehhürden’; 859: <span dir="rtl">שְׁפַתַיִם</span> ‘Ps. 68,14: Hürden; Ez. 40,23 erklärt man gew.: gabelförmige Pflöcke’.
+Leipzig <sup>17</sup>1915, 473: <span dir="rtl">מִשְׁפְּתַיִם</span> ‘wahrsch. Viehhürden’; 859: <span dir="rtl">שְׁפַתַּיִם</span> ‘Ps. 68,14: Hürden; Ez. 40,23 erklärt man gew.: gabelförmige Pflöcke’.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -428,7 +428,7 @@ Aramäisches Handwörterbuch über das Alte Testament</i> (6 Lieferungen, Heidel
 HALAT<br>
 W. Baumgartner <i>et al.</i>, <i>Hebräisches und aramäisches 
 Lexikon zum Alten Testament</i>, Leiden 1967-1995, 616: 
-<span dir="rtl">מִשְׁפְּתַיִם</span> ‘Sattelkörbe d. Packesels’; 151 <span dir="rtl">שְׁפַתַיִם</span> ‘Trotz des ug. bleibt das Wort mit seinen zwei verschiedenartigen Belegen unsicher: Rand, Abstellplatte, Gabelförmige Pflöcke, 
+<span dir="rtl">מִשְׁפְּתַיִם</span> ‘Sattelkörbe d. Packesels’; 151 <span dir="rtl">שְׁפַתַּיִם</span> ‘Trotz des ug. bleibt das Wort mit seinen zwei verschiedenartigen Belegen unsicher: Rand, Abstellplatte, Gabelförmige Pflöcke, 
 hürdenartige Pflockreihen (am Tische), Gabelhaken’.
 </div>
 
@@ -440,7 +440,7 @@ V.P. Hamilton, <i>Genesis</i> (NICOT), Grand Rapids 1995.
 <div style="padding-left: 22px; text-indent: -22px;">
 HAWAT<br>
 E. König, <i>Hebräisches und aramäisches 
-Wörterbuch  zum Alten Testament</i>, Leipzig <sup>2-3</sup>1922, 255: <span dir="rtl">מִשְׁפְּתַיִם</span> ‘Hürden, wahrscheinlich wegen der zwei Hauptseiten in Dualform, durch die der betreffende Weideplatz von den beiden Nachbargrundstücken abgegrenzt wurde’; 524: <span dir="rtl">שְׁפַתַיִם</span> ‘Doppelgestelle, Hürden (Ps. 68, 14); Hürdenartige Pflockreihen (um Tische), Hes. 40,43’.
+Wörterbuch  zum Alten Testament</i>, Leipzig <sup>2-3</sup>1922, 255: <span dir="rtl">מִשְׁפְּתַיִם</span> ‘Hürden, wahrscheinlich wegen der zwei Hauptseiten in Dualform, durch die der betreffende Weideplatz von den beiden Nachbargrundstücken abgegrenzt wurde’; 524: <span dir="rtl">שְׁפַתַּיִם</span> ‘Doppelgestelle, Hürden (Ps. 68, 14); Hürdenartige Pflockreihen (um Tische), Hes. 40,43’.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -508,7 +508,7 @@ F. Zorell, <i>Lexicon hebraicum et aramaicum Veteris Testamenti</i>, Roma 1962,
 
 <div style="padding-left: 22px; text-indent: -22px;">
 LMHC<br>
-G.B. Winer, <i>Lexicon manuale hebraicum et chaldaicum in Veteris Testamenti libros</i>, Lipsiae 1828, 1019: <span dir="rtl">מִשְׁפְּתַיִם</span> ‘stabula vel crates, caulae, quibus pecus noctu includitur’; <span dir="rtl">שְׁפַתַיִם</span>: ‘vulgo canales, stabula’.
+G.B. Winer, <i>Lexicon manuale hebraicum et chaldaicum in Veteris Testamenti libros</i>, Lipsiae 1828, 1019: <span dir="rtl">מִשְׁפְּתַיִם</span> ‘stabula vel crates, caulae, quibus pecus noctu includitur’; <span dir="rtl">שְׁפַתַּיִם</span>: ‘vulgo canales, stabula’.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -561,7 +561,7 @@ TPC<br>
 G. (= W.) Gesenius & A. Roediger, <i>Thesaurus 
 philologicus criticus lingvae hebraeae et chaldaeae Veteris 
 Testamenti</i>, 3 vols., Lipsiae 1829-1858,
-1472: <span dir="rtl">מִשְׁפְּתַיִם</span>: ‘caulae pecorum palis septae’; <span dir="rtl">שְׁפַתַיִם</span> ‘paxillus bifidus’ (Ezek 40:43); caulae pecorum palis (et cratibus) constructae (Ps 68:14).
+1472: <span dir="rtl">מִשְׁפְּתַיִם</span>: ‘caulae pecorum palis septae’; <span dir="rtl">שְׁפַתַּיִם</span> ‘paxillus bifidus’ (Ezek 40:43); caulae pecorum palis (et cratibus) constructae (Ps 68:14).
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -592,11 +592,11 @@ H.J. Zobel, <i>Stammesspruch und Geschichte</i> (BZAW, 95), Berlin 1965, 16.
 [^4]: Cf. Del Olmo Lete & Sanmartín, <i>DLU</i>, 925.
 [^5]: Jastrow, <i>DTT</i>, 1620.
 [^6]: Kazimirski, <i>DAF</i>, t. 1, 226; similarly Freytag, <i>LAL</i>, t. 1, 220.
-[^7]: <i>LSJ</i>, 1047.
-[^8]: <i>LSJ</i>, 341. 
-[^9]: <i>GELS-L</i>, 258; <i>LSJ</i>, 960.
+[^7]: LSJ, 1047.
+[^8]: LSJ, 341. 
+[^9]: <i>GELS-L</i>, 258; LSJ, 960.
 [^10]: <i>GELS-L</i>, 1982.
-[^11]: <i>GELS-L</i>, 87; <i>LSJ</i>, 341.
+[^11]: <i>GELS-L</i>, 87; LSJ, 341.
 [^12]: Cf. Payne Smith (Margoliouth), <i>CSD</i></a>, 385.
 [^13]: Cf. Payne Smith (Margoliouth), <i>CSD</i></a>, 590; Brockelmann, <i>LS</i>, 794 ‘offensa’; Costaz, <i>DSF</i>, 376 ‘pierre d'achoppement, stumbling-block’.
 [^14]: Tal, <i>DSA</i>, 411.

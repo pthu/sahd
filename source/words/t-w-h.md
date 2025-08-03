@@ -181,7 +181,7 @@ see <a href="#Sam">Introduction A.1</a>.
 
 <b>a. Septuagint (LXX):</b>
 
-* νήθω , ‘to spin’:[^6] Exod 35:25, 26.
+* νήθω, ‘to spin’:[^6] Exod 35:25, 26.
 
 [^6]: LSJ, 1173; <i>GELS</i>, 474.
 

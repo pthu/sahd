@@ -220,7 +220,7 @@ There have been several unconvincing proposals to derive <span dir="rtl">אוּ�
 
 ##<span id="FC">2. Formal Characteristics</span>
 
-<b>A.1</b> <span dir="rtl">אוּר</span>, ‘fire’, is interpreted as a <i>qul</i> form (BL, 452, §61r). The related noun <span dir="rtl">אוֹר</span>, ‘light’ (plural <span dir="rtl">אוֹרִים</span>, see Ps 136:7), may originally be just a variant form of <span dir="rtl">אוּר</span>, ‘fire’ (BL, 452, §61s), if it is not a <i>qull</i> form, like <span dir="rtl">תֹּם</span> (BL, 455, §61f ʹ, with reference to Akkadian
+<b>A.1</b> <span dir="rtl">אוּר</span>, ‘fire’, is interpreted as a <i>ql</i> form (BL, 452, §61r). The related noun <span dir="rtl">אוֹר</span>, ‘light’ (plural <span dir="rtl">אוֹרִים</span>, see Ps 136:7), may originally be just a variant form of <span dir="rtl">אוּר</span>, ‘fire’ (BL, 452, §61s), if it is not a <i>qull</i> form, like <span dir="rtl">תֹּם</span> (BL, 455, §61fʹ, with reference to Akkadian
 <i>urru</i>, ‘day’).  Although <span dir="rtl">אֻרִים</span> in Isa 24:15 is interpreted as the plural of <span dir="rtl">אוּר</span>, ‘fire’,
 it is uncertain whether <span dir="rtl">אוּרִים</span> is the plural of this noun. See <a href="#RCM">Root and Comparative Material A.1</a>.
 
@@ -695,7 +695,7 @@ Israel who 20 are with him. He shall not
 go out (into war) according to the counsel of his heart until he 
 asks for the judgment of the <i>Urim</i> 
 21 and the <i>Thummim</i>. Then 
-he shall prosper in al his ways when he goes forth 
+he shall prosper in all his ways when he goes forth 
 according to the judgment which … (translation: Charlesworth et al. 2011:151).
 </div>
 
