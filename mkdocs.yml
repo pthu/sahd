@@ -10,9 +10,10 @@ nav:
             - א:
                 - אָדֹם - red: words/2adom.md
                 - אוּרִים וְתֻמִּים - Urim Thummim: words/2urim_wthummim.md
+                - אָזֵן - equipment: words/2azen.md
                 - אַמְתַּחַת - sack: words/2amthachath.md
-                - אַרְגַּז - box: words/2argaz.md
                 - אַרְגְּוָן - bright purple: words/2argwan.md
+                - אַרְגַּז - box: words/2argaz.md
                 - אַרְגָּמָן - bright purple: words/2argaman.md
                 - ארר - to curse: words/2-r-r.md
             - ב:
@@ -25,11 +26,14 @@ nav:
                 - גְּאוּלִים - redemption: words/g2ulim.md
                 - גאל - to redeem: words/g-2-l.md
                 - גְּאֻלָּה - redemption, right of: words/g2ullah.md
+                - גֻּלָּה - bowl: words/gullah.md
                 - גִּלָּיוֹן - mirror: words/gillayon.md
             - ד:
                 - דֶּרֶךְ - road, way: words/derek.md
             - ה:
                 - הֲדֹם - footstool: words/hadom.md
+            - ז:
+                - זִיק - fiery missile: words/ziq.md
             - ח:
                 - חוּם - dark brown: words/chum.md
                 - חֹזֶה - (court) diviner: words/chozeh.md
@@ -37,6 +41,7 @@ nav:
                 - חֶרֶט - burin: words/cheret.md
                 - חַשְׁמַן - amethyst(?): words/chashman.md
             - ט:
+                - טַבַּעַת - ring: words/tabba3at.md
                 - טוה - to spin, twist: words/t-w-h.md
             - י:
                 - יְשׁוּעָה - protection: words/yshu3ah.md
@@ -51,13 +56,17 @@ nav:
             - ל:
                 - לָבָן - white: words/laban.md
                 - לוּחַ - board: words/luach.md
+                - לַפִּּיד - cresset, torch: words/lappid.md
             - מ:
                 - מָאוֹר - light: words/ma2or.md
                 - מְגִלָּה - scroll: words/mgillah.md
                 - מוֹשָׁעָה - deliverance: words/mosha3ah.md
+                - מְזַמֶּרֶת - trimming knife (?): words/mzammereth.md
                 - מַחֲבַת - griddle: words/machabath.md
                 - מְחוּגָה - callipers: words/mchugah.md
                 - מַחֲרֵשָׁה/מַחֲרֶשֶׁת - plough: words/machareshah.md
+                - מִכְבָּר - grating: words/mikbar.md
+                - מְנוֹרָה - lampstand: words/mnorah.md
                 - מַפְרֶקֶת - neck: words/mapreqeth.md
                 - מַפְתֵּחַ - key: words/maptheach.md
                 - מַקֵּל - branch, staff: words/maqqel.md
@@ -67,6 +76,9 @@ nav:
             - נ:
                 - נָבִיא/נְבִיאָה - prophet(ess): words/nabi2.md
                 - נחם - to comfort: words/n-ch-m.md
+                - נִשְׁתְּוָן - official letter: words/nishthwan.md
+            - ס:
+                - סָעִיף - cleft: words/sa3ip.md
             - ע:
                 - עֶזְרָה - help: words/3ezrah.md
                 - עֵט - stylus: words/3et.md
@@ -132,6 +144,7 @@ nav:
     - Contributors:
             - James K. Aitken: contributors/james_k._aitken.md
             - Bob Becking: contributors/bob_becking.md
+            - Panc C. Beentjes: contributors/panc_c._beentjes.md
             - W.A.M. Beuken: contributors/w.a.m._beuken.md
             - Benjamin M. Bogerd: contributors/benjamin_m._bogerd.md
             - Graham I. Davies: contributors/graham_i._davies.md
@@ -142,6 +155,7 @@ nav:
             - John E. Hartley: contributors/john_e._hartley.md
             - Cornelis Houtman: contributors/cornelis_houtman.md
             - Konrad D. Jenner: contributors/konrad_d._jenner.md
+            - Marjo Korpel: contributors/marjo_korpel.md
             - M.D. Koster: contributors/m.d._koster.md
             - Eric Peels: contributors/eric_peels.md
             - Kurtis Peters: contributors/kurtis_peters.md
@@ -149,7 +163,7 @@ nav:
             - Alison Salvesen: contributors/alison_salvesen.md
             - Paul Sanders: contributors/paul_sanders.md
             - M. Patrizia Sciumbata: contributors/m._patrizia_sciumbata.md
-            - Klaas A. D. Smelik: contributors/klaas_a._d._smelik.md
+            - Willem Smelik: contributors/willem_smelik.md
             - Chiara Stornaiuolo: contributors/chiara_stornaiuolo.md
             - T. Jonathan Stökl: contributors/t._jonathan_stökl.md
             - Michaël N. van der Meer: contributors/michaël_n._van_der_meer.md
@@ -167,6 +181,7 @@ nav:
             - Paul Sanders: editorial_board/paul_sanders.md
             - Chiara Stornaiuolo: editorial_board/chiara_stornaiuolo.md
             - T. Jonathan Stökl: editorial_board/t._jonathan_stökl.md
+            - Michael N. van der Meer: editorial_board/michael_n._van_der_meer.md
             - Willem van Peursen: editorial_board/willem_van_peursen.md
     - Printed publications: 'store/printed_publications.md'
     - Miscellaneous:

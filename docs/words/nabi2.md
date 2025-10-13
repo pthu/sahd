@@ -668,7 +668,7 @@ that version at all.
 7:25; 8:1; 13:13; 14:13, 14, 15(2x), 18; 18:18; 20:2;
 23:9, 11, 13, 14, 15(2<sup><small>nd</small></sup>),  16, 21, 25, 26(1<sup><small>st</small></sup>), 28, 30, 31, 33, 34; 25:4;
 26:5; 27:15, 16, 18; 28:8, 9(1<sup><small>st</small></sup>&3<sup><small>rd</small></sup>); 29:15; 32:32; 35:15; 37:19;
-42:2; 43:6; 44:4; 45:1; 51:59; Ezek 2:5; 7:26; 13:2(1<sup><small>st</small></sup>); Ezek<sup><small>LXX-b</small></sup> 13:2(2<sup><small>nd</small></sup>), 4, 9, 16; 14:4, 7, 9(2x), 10; 22:28; 33:33; 38:17; Hos 4:5;
+42:2; 43:6; 44:4; 45:1; 51:59; Ezek 2:5; 7:26; 13:2 (1<sup><small>st</small></sup>), 4, 9, 16; 14:4, 7, 9(2x), 10; 22:28; 33:33; 38:17; Hos 4:5;
 6:5; 9:7, 8; 12:11(2x), 14(2x); Amos 2:11, 12; 3:7; 7:14(2x); Mic
 3:5, 6, 11; Hab 1:1; 3:1; Zeph 3:4; Hag 1:1, 3, 12; 2:1, 10; Zech
 1:1, 4, 5, 6, 7; 7:3, 7, 12; 8:9; 13:4, 5; Pss 51:2; 74:9; 105:15; Lam
@@ -682,7 +682,7 @@ that version at all.
 * ψευδοπροφήτης, ‘false prophet’: Jer 6:13; 26:7, 8, 11, 16; 27:9; 28:1; 29:1(2x), 8, 15, 19, 29;
 29:1(2<sup><small>nd</small></sup>), 15; Zech 13:2;
 * no equivalent 1 Kgs 14:2, 18; 16:7; 18:36,  13 (2<sup><small>nd</small></sup>); 8:10, Jer 23:15(1<sup><small>st</small></sup>), 37; 25:2; 29:1(1<sup><small>st</small></sup>), 19, 29; 32:2; 34:6; 36:8, 26;
-37:2, 3, 6, 13; 38:9, 10, 14; 42:4; 46:1, 13; 47:1; 49:34; 50:1; Ezek<sup><small>LXX-b</small></sup> 13:2(2<sup><small>nd</small></sup>); 22:25; Mal 3:23; Dan 9:24.
+37:2, 3, 6, 13; 38:9, 10, 14; 42:4; 46:1, 13; 47:1; 49:34; 50:1; Ezek 13:2 (2<sup><small>nd</small></sup>, LXX<sup><small>B</small></sup>, etc.; added in other mss); 22:25; Mal 3:23; Dan 9:24.
 
 
 <b>b. Peshitta (Pesh):</b>

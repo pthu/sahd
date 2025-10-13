@@ -4,4 +4,4 @@
 
 
 ### Contributions
-[מָאוֹר – light](../words/ma2or.md)<br>
+[מְזַמֶּרֶת – trimming knife, snuffer (?)](../words/mzammereth.md)<br>[מְנוֹרָה – lampstand](../words/mnorah.md)<br>[מָאוֹר – light](../words/ma2or.md)<br>

@@ -371,7 +371,7 @@ In Egyptian, the spelling <i>ḥsml</i> instead of <i>ḥsmn</i>, ‘bronze’, 
 
 <span id="Gen10:14"><b>A.9</b> </span>
 Barthélemy (2005:463-65) preferred to interpret <span dir="rtl">חַשְׁמַנִּים</span> as a gentilic. 
-He pointed out that Gen 10:14 in LXX<sup>a</sup> includes
+He pointed out that Gen 10:14 in LXX<sup>A</sup> includes
 the gentilic Χασμωνιειμ  (apparently supported by pap. 961)
 as the rendering of MT <span dir="rtl">כַּסְלֻחִים</span>, 
 ‘Kasluḥim’, who are descendants of <span dir="rtl">מִצְרַיִם</span>, ‘Egypt’ (Gen 10:13). 
@@ -1041,7 +1041,7 @@ Many thanks are due to Ben Haring and Rients de Boer (Leiden) for their valuable
 [^17]: Jastrow, <i>DTT</i>, 25; <i>WTM</i> I, 75;  Dalman, <i>ANHT</i>, 17.
 [^18]: <i>WTM</i> I, 126.
 [^19]: Jastrow, <i>DTT</i>, 31;  similarly Dalman, <i>ANHT</i>, 30.
-[^20]: <i>WTM</i> II, 89 (‘Husmanier’);  similarly Dalman, <i>ANHT</i>, 155.  Jastrow, <i>DTT</i>, 31, refers to the gentilic χασμωνιειμ  in Gen 10:14 in LXX<sup>a</sup>; cf. <a href="#Gen10:14">Root and Comparative Material, A.9</a>, and <a href="#TG">Ancient Versions, A.3</a>).
+[^20]: <i>WTM</i> II, 89 (‘Husmanier’);  similarly Dalman, <i>ANHT</i>, 155.  Jastrow, <i>DTT</i>, 31, refers to the gentilic χασμωνιειμ  in Gen 10:14 in LXX<sup>A</sup>; cf. <a href="#Gen10:14">Root and Comparative Material, A.9</a>, and <a href="#TG">Ancient Versions, A.3</a>).
 [^21]: Lewis and Short, <i>LD</i>, 1047; <i>OLD</i>, 1013.
 [^22]: Lewis and Short, <i>LD</i>, 1965; <i>OLD</i>, 2024.
 [^23]: <i>Aramaic Bible</i>, vol. 16, 133 (Ms Bibl. Nat. Paris 17).

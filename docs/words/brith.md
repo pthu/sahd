@@ -229,28 +229,28 @@ For omissions of διαθήκη after κιβωτός, see A.4.
 For other occurrences of διαθήκη in the LXX without 
 a counterpart in MT, see
 Exod 23:22; 
-Num 25:12 (LXX<small><sup>a</sup></small>: double rendering of <span dir="rtl">בְּרִית</span>);
+Num 25:12 (LXX<small><sup>A</sup></small>: double rendering of <span dir="rtl">בְּרִית</span>);
 Deut 29:19; 
-29:26 (LXX<small><sup>a</sup></small>); 
-Josh 24:33a (LXX<small><sup>a</sup></small>);
+29:26 (LXX<small><sup>A</sup></small>); 
+Josh 24:33a (LXX<small><sup>A</sup></small>);
 1 Sam 11:2; <!--ook in Ant, krt-->
 22:8; <!--ook in Ant, krt-->
 1 Kgs 8:9; <!--ook in Ant-->
 Isa 49:6; 
 2 Chron 25:4.    <!--ook in Ant-->   
 Furthermore, διαθήκη represents other words instead of <span dir="rtl">בְּרִית</span> in the following verses:
-Exod 25:15 (LXX<small><sup>a</sup></small>; MT: <span dir="rtl">אֲרוֹן</span>);
+Exod 25:15 (LXX<small><sup>A</sup></small>; MT: <span dir="rtl">אֲרוֹן</span>);
 27:21 (MT: <span dir="rtl">עֵדֻת</span>); 
 31:7 (MT: <span dir="rtl">עֵדֻת</span>); 
 39:35 (LXX 39:14; MT: <span dir="rtl">עֵדֻת</span>); 
 Lev 26:11 (MT: <span dir="rtl">מִשְׁכָּן</span>); <!--Hatch/Redpath: no counterpart in MT)-->
 Deut 9:5 (MT: <span dir="rtl">דָּבָר</span>); 
-2 Sam 10:19 (LXX<small><sup>a</sup></small>:
+2 Sam 10:19 (LXX<small><sup>A</sup></small>:
 διέθεντο διαθήκην; 
 MT: <span dir="rtl">שׁלם</span> <i>hiph.</i>);
-Jer 34:16 (LXX<small><sup>a</sup></small> 41:16; MT: <span dir="rtl">שֵׁם</span>); 
+Jer 34:16 (LXX<small><sup>A</sup></small> 41:16; MT: <span dir="rtl">שֵׁם</span>); 
 Ezek 16:29 (LXX plur.; MT: <span dir="rtl">תַּזְנוּת</span>);
-Zech 11:14 (LXX<small><sup>a</sup></small>, etc.; MT: <span dir="rtl">אַחֲוָה</span>);
+Zech 11:14 (LXX<small><sup>A</sup></small>, etc.; MT: <span dir="rtl">אַחֲוָה</span>);
 Dan 9:13 (MT: <span dir="rtl">תּוֹרָה</span>); 
 9:27. <!--(<b>dubbele weergave??? HIER???</b>).--> 
 
@@ -280,9 +280,9 @@ The following verses are omitted partially or entirely in the LXX, which
 explains the absence of renderings of <span dir="rtl">בְּרִית</span>:
 Josh 6:6;
 1 Sam 18:3 (added in LXX<small><sup>Ant</sup></small>: διαθήκη); Jer 11:8; 33:20 (2x <span dir="rtl">בְּרִית</span>), 21, 25; Job 5:23; 31:1 (added in mss: διαθήκη).  
-In 1 Sam 4:3, 4 (2x), 5, and 1 Kgs 8:6, (τῆς) διαθήκης is omitted after κιβωτός in the rendering of <span dir="rtl">אֱלֹהִים</span>/<span dir="rtl">אֲרוֹן בְּרִית יְהוָה</span>, but in these cases (τῆς) διαθήκης does represent <span dir="rtl">בְּרִית</span> in LXX<small><sup>a</sup></small> and LXX<small><sup>Ant</sup></small>.
+In 1 Sam 4:3, 4 (2x), 5, and 1 Kgs 8:6, (τῆς) διαθήκης is omitted after κιβωτός in the rendering of <span dir="rtl">אֱלֹהִים</span>/<span dir="rtl">אֲרוֹן בְּרִית יְהוָה</span>, but in these cases (τῆς) διαθήκης does represent <span dir="rtl">בְּרִית</span> in LXX<small><sup>A</sup></small> and LXX<small><sup>Ant</sup></small>.
 Renderings of <span dir="rtl">בְּרִית</span> are also missing in Deut 9:15; 
-1 Kgs 19:10 (in 19:14 also omission in LXX<small><sup>a</sup></small>, LXX<small><sup>Ant</sup></small>); 
+1 Kgs 19:10 (in 19:14 also omission in LXX<small><sup>A</sup></small>, LXX<small><sup>Ant</sup></small>); 
 2 Kgs 17:15 
 (addition διαθήκη in LXX<small><sup>Ant</sup></small>); <!--met omkering!--> 
 Ezek 20:37;
@@ -401,10 +401,9 @@ Tg ontbreekt voor Dan, Ezr, Neh.-->
 
 <b>A.3</b> In the Samaritan Targum, the following rendering are found:
 
-* <span dir="rtl">קיאם</span>, ‘covenant’:<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup> virtually always in Tg<small><sup>SmrJ</sup></small> (but in Gen 17:13 <span dir="rtl">ברית</span>), often also in Tg<small><sup>SmrA</sup></small>. <!--SmrA is de versie links in de editie-->
-<!--Alleen SmrJ Gen 17:13 BRYT-->
-* <span dir="rtl">פסק(ו)ל</span>, ‘covenant’:<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup> frequently in Tg<small><sup>SmrA</sup></small>; Gen 9:13, 15; 14:13; 17:7 (2x), 9, 10, 11, 13, 14; 31:44; Exod 2:24; 19:5.
-<!--Gebaseerd op Tal, <i>STP</i>, vol. 1. Anders banden niet gezien; aanvragen bij VU-->
+* <span dir="rtl">קיאם</span>, ‘covenant’:<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup> virtually always in Tg<small><sup>SmrJ</sup></small> (but (<span dir="rtl">ת</span>)<span dir="rtl">ברי</span> in Gen 17:13; Num 25:12, 13), frequently also in Tg<small><sup>SmrA</sup></small>; 
+* <span dir="rtl">פסק(ו)ל</span>, ‘covenant’:<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup> in Tg<small><sup>SmrA</sup></small> in Gen 9:13, 15; 14:13; 17:7 (2x), 9, 10, 11, 13, 14; 31:44; Exod 2:24; 19:5; Lev 26:45. 
+
 
 [^19]: Tal, <i>DSA</i>, 767.
 [^20]: Tal, <i>DSA</i>, 693-94.

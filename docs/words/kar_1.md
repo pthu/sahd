@@ -10,7 +10,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Transport](../semantic_fields/transport.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Eric Peels](../contributors/eric_peels.md)<br>
-First published: 2011-05-10<br>Last update: May 2025 (Marten van Dam) <br>Citation: Eric Peels, כַּר <i>kar</i> – elaborate ladies' saddle, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: May 2025 (Marten van Dam))
+First published: 2011-05-10<br>Last update: 2025-05-15 <br>Citation: Eric Peels, כַּר <i>kar</i> – elaborate ladies' saddle, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2025)
 (WORK IN PROGRESS)
 
 
@@ -21,54 +21,54 @@ First published: 2011-05-10<br>Last update: May 2025 (Marten van Dam) <br>Citati
 Grammatical type: noun masc.   
 Occurrences:   1x HB (1/0/0); 0x Sir; 0x Qum; 0x Inscr.  (Total: 1)
 
-* Torah: Gen 31:34
+* Torah: Gen 31:34.
 
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
 <b>A.1</b> 
-<i>Root.</i> 
+<i>Root:</i> 
 Klein: ‘saddle ... <span style="text-transform:uppercase;">pbh</span> [= Postbiblical Hebrew] bolster, pillow’ ... related to Aram. <span dir="rtl">כַּר</span>, <span dir="rtl">כָּרָא</span> (= bolster, pillow), Arab. <i>kūr</i> (= camel saddle), <i>karr</i> (= mat).’<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup>
 
 <b>A.2</b>
-<i>Egyptian.</i>
+<i>Egyptian:</i>
 The word occurs as a West-Semitic loan in Egyptian, as a designation of a donkey saddle.
 
 
 
 <b>A.3</b>
-<i>Akkadian.</i>
+<i>Akkadian:</i>
 <i>karru</i> (a word for throne).<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> Possibly it is simply a <i>pars pro toto</i> use of the word <i>karru</i> A, ‘knob, pommel’, a costly ornament of chairs for dignitaries.<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup>
 
 <b>A.4</b> 
-<i>Postbiblical Hebrew.</i>
+<i>Postbiblical Hebrew:</i>
 <span dir="rtl">כַּר</span>, ‘bolster, mattress’.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup>
 
 <b>A.5</b> 
-<i>Jewish Aramaic.</i>
+<i>Jewish Aramaic:</i>
 <span dir="rtl">כַּר</span>, <span dir="rtl">כָּרָא</span>, ‘bolster, mattress’.<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup>
 
 <b>A.6</b> 
-<i>Samaritan Aramaic.</i>
+<i>Samaritan Aramaic:</i>
 <span dir="rtl">כר</span>,  ‘saddle’.<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup>
 
 <b>A.7</b> 
-<i>Syriac.</i>
+<i>Syriac:</i>
 <i>kārtā</i>, ‘a burden for the back, a load’;<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup>
 ‘sarcina ... onus’;<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup>
 ‘bundle, pack, load’.<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup>
 
 <b>A.8</b> 
-<i>Classical Arabic.</i>
+<i>Classical Arabic:</i>
 <i>kūr</i> ‘camel saddle’, <i>kūrat</i> ‘bundle of clothes’.<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup>
 
 
 <b>A.9</b> 
-<i>Ethiopic.</i>
+<i>Ethiopic:</i>
 In several Ethiopic dialects <i>kor</i> ‘saddle’ occurs, but this is regarded as an Arabic loanword.<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup>
 
 <b>A.10</b> 
-<i>Judaic Sources.</i>
+<i>Judaic Sources:</i>
 The <span dir="rtl">כר</span> was obviously a mattress or bolster according to the rabbis.<sup id="fnref:13"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:13')">13</a></sup>
 
 ## 2. Formal Characteristics
@@ -86,23 +86,21 @@ The <span dir="rtl">כר</span> was obviously a mattress or bolster according to
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ):</b>  
 
-* LXX σάγμα ‘pack-saddle’.<sup id="fnref:14"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:14')">14</a></sup>
+* LXX σάγμα ‘saddle-bag’.<sup id="fnref:14"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:14')">14</a></sup>
 
-<b>b.  Samaritan Targum	 (Tg<small><sup>Smr</sup></small>):</b>   
-
-* <span dir="rtl">כר</span> ‘saddle’.<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup>
-
-
-<b>c. Targum (Tg):</b>  
-
-* All targumim have <span dir="rtl">עביטא</span> ‘sumpter saddle’;<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup> Levy, <i>CWT</i>, ‘Kamelsattel, Kamelzelt, ein kleines Zeltchen, welches auf den Rücken der Kamele angeschnallt wird u. in welchem die Frauen sitzen’<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup>, but Levy, <i>WTM</i>, simply ‘Sattel’;<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup> Dalman: ‘Kamelsattel’;<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup> Sokoloff: ‘basket saddle of a camel’.<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup>
-
-<b>d. Peshitta (Pesh):</b>  
+<b>c. Peshitta (Pesh):</b>  
 
 * <i>ʿabīṭā</i>, Payne Smith: ‘a camel's saddle for women tented over with a framework’;<sup id="fnref:21"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:21')">21</a></sup> 
 Brockelmann: ‘clitellae (cameli)’ (= camel's sumpter-saddle).<sup id="fnref:22"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:22')">22</a></sup>
 
-<b>e. Vulgate (Vg):</b>  
+
+<b>c. Targum (Tg):</b>  
+
+* All the Jewish targumim have <span dir="rtl">עביטא</span> ‘sumpter saddle’;<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup> Levy, <i>CWT</i>, ‘Kamelsattel, Kamelzelt, ein kleines Zeltchen, welches auf den Rücken der Kamele angeschnallt wird u. in welchem die Frauen sitzen’<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup>, but Levy, <i>WTM</i>, simply ‘Sattel’;<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup> Dalman: ‘Kamelsattel’;<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup> Sokoloff: ‘basket saddle of a camel’.<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup>
+* Samaritan Targum	 (Tg<small><sup>Smr</sup></small>): <span dir="rtl">כר</span> ‘saddle’.<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup>
+
+
+<b>d. Vulgate (Vg):</b>  
 
 * <i>stramen</i> ‘litter’.
 
@@ -263,7 +261,7 @@ Wilson, <i>PPSE</i>, vol. 4, 153.</div>
 [^11]: Lane, <i>AEL</i>, 2637; <i>WKAS</i> (K), 429.
 [^12]: Leslau, <i>CDG</i>, 289.
 [^13]: cf. Krauss, <i>TA</i>, Bd. 1, 64; Bd. 2, 123.
-[^14]: Lust <i>et al.</i>, <i>GELS-L</i>, 421; LSJ, 1580.
+[^14]: <i>GELS</i>, 616.
 [^15]: Tal, <i>DSA</i>, 407.
 [^16]: Jastrow, <i>DTT</i>, 1037.
 [^17]: Levy, <i>CWT</i>, 197.

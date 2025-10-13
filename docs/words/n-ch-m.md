@@ -671,10 +671,10 @@ Exod 13:17Tg<sup>O</sup>.
 Exod 13:17Tg<sup>N</sup>.
 
 <span dir="rtl">נחם</span>, 'to comfort', 'to console':<sup id="fnref:64"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:64')">64</a></sup>
-Gen 24:67Tg<sup>O</sup> Tg<sup>PsJ</sup> & Tg<sup>N</sup>; 38:12Tg<sup>O</sup> Tg<sup>PsJ</sup> Tg<sup>N</sup>  & Tg<sup>Smr</sup><sup>1,2</sup>; Exod 32:12Tg<sup>Smr</sup><sup>1,2</sup>,14Tg<sup>Smr</sup><sup>1,2</sup>; Judg 21:6,15; 2 Sam 13:39;  Isa 1:24; Jer 31:15,19; Ezek 14:22; 31:16; 32:31; Ps 77:3; Job 42:6.
+Gen 24:67Tg<sup>O</sup> Tg<sup>PsJ</sup> & Tg<sup>N</sup>; 38:12Tg<sup>O</sup> Tg<sup>PsJ</sup> Tg<sup>N</sup>  & Tg<sup>Smr</sup><sup>AJ</sup>; Exod 32:12Tg<sup>Smr</sup><sup>AJ</sup>,14Tg<sup>Smr</sup><sup>AJ</sup>; Judg 21:6,15; 2 Sam 13:39;  Isa 1:24; Jer 31:15,19; Ezek 14:22; 31:16; 32:31; Ps 77:3; Job 42:6.
 
 <span dir="rtl">עתד</span>, 'to be prepared (itpa.)':<sup id="fnref:65"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:65')">65</a></sup>
-Exod 13:17Tg<sup>Smr</sup><sup>1,2</sup>.
+Exod 13:17Tg<sup>Smr</sup><sup>AJ</sup>.
 
 <span dir="rtl">רחם</span>, 'to love', 'to have mercy, to show compassion':<sup id="fnref:66"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:66')">66</a></sup>
 Isa 12:1; Ezek 24:14; Joel 2:14; Jon 3:9.
@@ -685,7 +685,7 @@ Isa 12:1; Ezek 24:14; Joel 2:14; Jon 3:9.
 
 
 <span dir="rtl">תהו</span>, 'regret':<sup id="fnref:68"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:68')">68</a></sup> 
-Gen 6:6Tg<sup>N</sup>,7Tg<sup>O</sup> Tg<sup>N</sup>; Exod 13:17Tg<sup>PsJ</sup>Tg<sup>Smr</sup><sup>1,2</sup>; 32:12Tg<sup>PsJ</sup> Tg<sup>N</sup>,14Tg<sup>PsJ</sup> Tg<sup>N</sup>.
+Gen 6:6Tg<sup>N</sup>,7Tg<sup>O</sup> Tg<sup>N</sup>; Exod 13:17Tg<sup>PsJ</sup>Tg<sup>Smr</sup><sup>AJ</sup>; 32:12Tg<sup>PsJ</sup> Tg<sup>N</sup>,14Tg<sup>PsJ</sup> Tg<sup>N</sup>.
 
 <span dir="rtl">תוב</span>, 'to return', 'to answer':<sup id="fnref:69"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:69')">69</a></sup>
 Gen 6:6Tg<sup>O</sup> Tg<sup>PsJ</sup>,7Tg<sup>PsJ</sup>; Exod 32:12Tg<sup>O</sup>,14Tg<sup>O</sup>; Judg 2:18; 1 Sam 15:11,29(1),35; 2 Sam 24:16; Isa 57:6; Jer 4:28; 8:6; 15:6; 18:8,10; 20:16; 26:3,13,19; 42:10; Joel 2:13; Amos 7:3,6; Jon 3:10; 4:2; Zech 8:14; Ps 90:13; 106:45; 110:4; 1 Chron 21:15.
@@ -699,7 +699,7 @@ Gen 6:6Tg<sup>O</sup> Tg<sup>PsJ</sup>,7Tg<sup>PsJ</sup>; Exod 32:12Tg<sup>O</su
 
 
 <span dir="rtl">נחם</span>, 'to comfort', 'to console':<sup id="fnref:70"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:70')">70</a></sup>
- Gen 5:29Tg\supO Tg<sup>PsJ</sup> & Tg<sup>N</sup>; 37:35(1)Tg<sup>O</sup> Tg<sup>PsJ</sup>; Tg<sup>N</sup>  & Tg<sup>Smr</sup><sup>1,2</sup>; 50:21Tg<sup>O</sup> Tg<sup>PsJ</sup> Tg<sup>N</sup>  & Tg<sup>Smr</sup><sup>1,2</sup>; 2 Sam 10:2,3; 12:24; Isa 22:4; 49:13; 51:3(1,2),12,19; 52:9; 61:2; 66:13(1,2); Jer 16:7; 31:13; Ezek 14:23; 16:54; Nah 3:7; Zech  1:17; 10:2; Ps 23:4; 69:21; 71:21; 86:17; 119:76,82; Job 2:11; 7:13; 16:2; 21:34; 29:25; Job 42:11; Eccl 4:1(1,2); Lam 1:2,9,16,17,21; 2:13; 1 Chron 7:22; 19:2(1,2),3.
+ Gen 5:29Tg\supO Tg<sup>PsJ</sup> & Tg<sup>N</sup>; 37:35(1)Tg<sup>O</sup> Tg<sup>PsJ</sup>; Tg<sup>N</sup>  & Tg<sup>Smr</sup><sup>AJ</sup>; 50:21Tg<sup>O</sup> Tg<sup>PsJ</sup> Tg<sup>N</sup>  & Tg<sup>Smr</sup><sup>AJ</sup>; 2 Sam 10:2,3; 12:24; Isa 22:4; 49:13; 51:3(1,2),12,19; 52:9; 61:2; 66:13(1,2); Jer 16:7; 31:13; Ezek 14:23; 16:54; Nah 3:7; Zech  1:17; 10:2; Ps 23:4; 69:21; 71:21; 86:17; 119:76,82; Job 2:11; 7:13; 16:2; 21:34; 29:25; Job 42:11; Eccl 4:1(1,2); Lam 1:2,9,16,17,21; 2:13; 1 Chron 7:22; 19:2(1,2),3.
 
 <span dir="rtl">תַנחוּמִין</span>, 'consolation':<sup id="fnref:71"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:71')">71</a></sup>
 Isa 40:1.
@@ -728,7 +728,7 @@ Gen 27:42Tg<sup>PsJ</sup>.
 Gen 27:42Tg<sup>O</sup>.
 
 <span dir="rtl">נחם</span>, 'to comfort', 'to console':<sup id="fnref:75"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:75')">75</a></sup>
- Gen 37:35(2)Tg<sup>O</sup> Tg<sup>PsJ</sup>; Tg<sup>N</sup>  & Tg<sup>Smr</sup><sup>1,2</sup>; Deut 32:36Tg<sup>N</sup>; Ps 119:52.
+ Gen 37:35(2)Tg<sup>O</sup> Tg<sup>PsJ</sup>; Tg<sup>N</sup>  & Tg<sup>Smr</sup><sup>AJ</sup>; Deut 32:36Tg<sup>N</sup>; Ps 119:52.
 
 
 

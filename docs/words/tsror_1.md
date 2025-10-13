@@ -10,7 +10,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Eric Peels](../contributors/eric_peels.md)<br>
-First published: 2011-05-11<br>Last update: May 2025 (Marten van Dam) <br>Citation: Eric Peels, צְרֹור <i>ṣ<small><sup>e</sup></small>rōr</i> – pouch, purse, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: May 2025 (Marten van Dam))
+First published: 2011-05-11<br>Last update: 2025-05-15 <br>Citation: Eric Peels, צְרֹור <i>ṣ<small><sup>e</sup></small>rōr</i> – pouch, purse, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2025)
 (WORK IN PROGRESS)
 
 
@@ -21,9 +21,9 @@ First published: 2011-05-11<br>Last update: May 2025 (Marten van Dam) <br>Citati
 Grammatical type: noun masc.   
 Occurrences:   7x HB (2/2/3); 0x Sir; 0x Qum; 0x Inscr.  (Total: 7)
 
-* Torah: Gen 42:35 (2x)
-* Nebiim: 1 Sam 25:29; Hag 1:6
-* Ketubim: Job 14:17; Prov 7:20; Cant/Song 1:13
+* Torah: Gen 42:35 (2x);
+* Nebiim: 1 Sam 25:29; Hag 1:6;
+* Ketubim: Job 14:17; Prov 7:20; Cant/Song 1:13.
 
 Ketiv/ Qere: none.
 
@@ -70,8 +70,7 @@ Costaz:<sup id="fnref:13"><a href="#footnote" data-toggle="modal" onclick="show_
 <i>ṣurrat</i> ‘purse for money’;<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> ‘petit sachet dans lequel on met la poudre d'or ... [ou] les drogues et les épices dont on se sert pour assaisonner des viandes’ (‘small sachet in which people put gold dust ... [or] drugs and spices which people use for seasoning meat’).<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup> <i>ṣarīrat</i> ‘coins wrapped in a purse’.<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup>
 
 <b>A.10</b>
-<i>Rabbinical literature.</i>
-
+<i>Rabbinical literature:</i>
 In rabbinic sources the literal meaning of <span dir="rtl">צְרֹור</span> is still attested. The pouch was used to keep precious things like pearls.<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup> A possible allusion to 1 Sam 25:29 is found in Sir 6:15 (16), <span dir="rtl">אמונה</span> <span dir="rtl">אוהב</span> <span dir="rtl">חיים</span> <span dir="rtl">צרור</span> ‘A faithful friend is a pouch of life’. There is no connotation of future bliss here. In 1QH<sup>a</sup> 10:20 (22) the singer exults with an obvious allusion to 1 Sam 25:29, <span dir="rtl">החים</span> <span dir="rtl">בצזרור</span> <span dir="rtl">נפשי</span> <span dir="rtl">שמתה</span> <span dir="rtl">כי</span> <span dir="rtl">אדוני</span> <span dir="rtl">אודכה</span> ‘I give you thanks, Lord, because you have put my soul in the pouch of the living’. The context  indicates clearly that he feared for his life because ‘vicious men have sought my soul’, so he does not apply this phrase to the afterlife, as was the case in later Judaism (e.g.  b. Shab., 152b; b. Ḥag., 12b; b. Meg., 14b; Sifre Num., 139; Deut. R., 10:4; Qoh. R., 3:25; Midr. Ps., 30:3; for an exceptional reference to terrestrial life, cf. Num. R., 11:5). A sixth-century <span style="text-transform:uppercase;">ce</span> Jewish epitaph (CIJ 661:4-5) from Tortosa, Spain, confirms this late interpretation: <span dir="rtl">החיים</span> <span dir="rtl">בצרור</span> <span dir="rtl">נפשה</span> <span dir="rtl">בא</span>  ‘May her soul come into the pouch of the living’. The inscription is trilingual. In the shorter Greek and Latin versions this phrase is missing, probably because the translator was unable to render the biblical metaphor for a public unacquainted with its background. On Jewish graves one often finds the abbreviation <span dir="rtl">תנצב׳׳ה</span> which stands for <span dir="rtl">החיים</span> <span dir="rtl">בצרור</span> <span dir="rtl">צרורה</span> <span dir="rtl">נפשו</span> <span dir="rtl">תהי</span> ‘May his soul be bound up in the pouch of the living’.
 
 ## 2. Formal Characteristics
@@ -90,45 +89,35 @@ In rabbinic sources the literal meaning of <span dir="rtl">צְרֹור</span> i
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
 * Gen 42:35 ὁ δεσμὸς τοῦ ἀργυρίου ‘the money-girdle’:<sup id="fnref:21"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:21')">21</a></sup> ‘band, bond, bundle’; ‘band, bond’<sup id="fnref:22"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:22')">22</a></sup> (with a wide variety of meanings). ἀλλος: κόμβος, ‘roll, band, girth’.<sup id="fnref:23"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:23')">23</a></sup> 
-
 * Also in 1 Sam 25:29, Hag 1:6  and Prov 7:20 LXX has δεσμὸς. The ἀπόδεσμος is also a ‘girdle’.<sup id="fnref:24"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:24')">24</a></sup> 
-
 * In Job 14:17  βαλλάντιον ‘bag, purse’<sup id="fnref:25"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:25')">25</a></sup> is preferred. Apparently most of these Greek renderings reflect the Hellenistic world.
 
-<b>b. Samaritan Targum	 (Tg<small><sup>Smr</sup></small>):</b>  
-* <span dir="rtl">כספיהון</span> <span dir="rtl">צררת</span> ‘their money-purses’.
+
+<b>b. Peshitta (Pesh):</b>  
+
+* Gen 42:35 <i>ṣrārā dkaspeh</i> ‘his money-purse’.<br>
+* 1 Sam 25:29 <i>bṣrārā dḥÿê</i> ‘in the pouch of life/the living’. <br>
+* Hag 1:6 <i>ṣrārā nqībā</i> ‘a perforated purse’.<br>
+* Job 14:17 <i>ḥtūm bṣrārā</i> ‘sealed in a purse’.<br>
+* Prov 7:20 <i>ṣrārā dkaspā</i> ‘a money-purse’.<br>
+* Cant/Song 1:13 <i>ṣrārā dmūrā</i> ‘a sachet of myrrh’.
+
 
 <b>c. Targum (Tg):</b>  
 
 * Gen 42:35 Tg<sup>O</sup> <span dir="rtl">כספיה</span> <span dir="rtl">צרר</span> ‘his money-purse’; Tg<sup>N</sup> <span dir="rtl">דכספא</span> <span dir="rtl">צררא</span> ‘money-purse’; Tg<sup>PsJon</sup> <span dir="rtl">כספיה</span> <span dir="rtl">קטר</span> ‘the knot with his money’.<br>
-
-* 1 Sam 25:29 <span dir="rtl">עלמא</span> <span dir="rtl">חיי</span> <span dir="rtl">בגנז</span> ‘in the storehouse of eternal life’, in accordance with the rabbinical interpretation.<sup id="fnref:26"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:26')">26</a></sup> <br>
-
+* 1 Sam 25:29 <span dir="rtl">עלמא</span> <span dir="rtl">חיי</span> <spandir="rtl">בגנז</span> ‘in the storehouse of eternal life’, in accordance with the rabbinical interpretation.<sup id="fnref:26"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:26')">26</a></sup> <br>
 * Job 14:17 <span dir="rtl">מרודי</span> <span dir="rtl">דוכרניא</span> <span dir="rtl">בספר</span> <span dir="rtl">חתים</span> ‘sealed in the book of records (of) the rebellious’.<br>
-
 * Prov 7:20 no Tg.<br>
-
 * Song 1:13: the elaborate paraphrasis connects <span dir="rtl">צְרֹור</span> with the binding of Isaac. 
-
-<b>d. Peshitta (Pesh):</b>  
-
-* Gen 42:35 <i>ṣrārā dkaspeh</i> ‘his money-purse’.<br>
-
-* 1 Sam 25:29 <i>bṣrārā dḥÿê</i> ‘in the pouch of life/the living’. <br>
-
-* Hag 1:6 <i>ṣrārā nqībā</i> ‘a perforated purse’.<br>
-
-* Job 14:17 <i>ḥtūm bṣrārā</i> ‘sealed in a purse’.<br>
-
-* Prov 7:20 <i>ṣrārā dkaspā</i> ‘a money-purse’.<br>
-
-* Cant/Song 1:13 <i>ṣrārā dmūrā</i> ‘a sachet of myrrh’.
+* Samaritan Targum (Tg<small><sup>Smr</sup></small>): 
+<span dir="rtl">כספיהון</span> <span dir="rtl">צררת</span> ‘their money-purses’.
 
 
-<b>e. Vulgate (Vg):</b>  
+
+<b>d. Vulgate (Vg):</b>  
 
 * Mostly <i>sacculum</i> ‘small bag’ (Hag 1:6; Job 14:17; Prov 7:20), but <i>fasciculus</i> ‘bundle’ in 1 Sam 25:29 (<i>fasciculum viventium</i> ‘bundle of the living’) and Song 1:13. 
-
 * Gen 42:35 <i>ligatas pecunias</i> ‘the money bound in (the opening of the sacks).
 
 

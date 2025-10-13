@@ -10,7 +10,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Cloth](../semantic_fields/cloth.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Eric Peels](../contributors/eric_peels.md)<br>
-First published: 2011-05-11<br>Last update: May 2025 (Raymond de Hoop, Marten van Dam) <br>Citation: Eric Peels, <span dir="rtl">מִשְׁפְּתַיִם</span> / <span dir="rtl">שְׁפַתַּיִם</span> <i>mišp<small><sup>e</sup></small>tàyim</i> / <i>š<small><sup>e</sup></small>pattàyim</i> – layered fabric, sack, sheepfold, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: May 2025 (Raymond de Hoop, Marten van Dam))
+First published: 2011-05-11<br>Last update: 2025-05-15 (Raymond de Hoop, Marten van Dam) <br>Citation: Eric Peels, <span dir="rtl">מִשְׁפְּתַיִם</span> / <span dir="rtl">שְׁפַתַּיִם</span> <i>mišp<small><sup>e</sup></small>tàyim</i> / <i>š<small><sup>e</sup></small>pattàyim</i> – layered fabric, sack, sheepfold, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2025)
 (WORK IN PROGRESS)
 
 
@@ -46,9 +46,9 @@ Occurrences:   2x HB (0/1/1); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2)
 On the basis of Ugaritic and Arabic the Semitic root can be determined as <i>ṯpd</i> ‘to put 
 one thing on another’. This root may have developed into <span dir="rtl">שׁפת</span>  in biblical Hebrew 
 under the influence of nouns like <span dir="rtl">אַשְׁפַּתֹּות</span> (Lam 4:5) and <span dir="rtl">שְׁפַתַּיִם</span> (Ezek 40:43; 
-Ps 68:13) which suggest the development <i>*ʾašpadtu</i> &gt; <i>*ʾašpatt</i> 
-&gt;  <i>*ʾašpat</i> and <i>*šapadtu</i> &gt; <i>*šapatt</i> &gt; 
-<i>*šapat</i>.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> 
+Ps 68:13) which suggest the development \*<i>ʾašpadtu</i> &gt; \*<i>ʾašpatt</i> 
+&gt;  \*<i>ʾašpat</i> and \*<i>šapadtu</i> &gt; \*<i>šapatt</i> &gt; 
+\*<i>šapat</i>.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> 
 E. Klein 
 hesitates between ‘dual ash heaps’,  ‘sheepfolds’, and ‘hook-shaped pegs’, 
 but accepts the derivation from <span dir="rtl">שׁפת</span>.<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup>
@@ -88,64 +88,71 @@ a lining’, from which developed ‘to pile, pack (said of cumulus)’, ‘to h
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
-<span dir="rtl">מִשְׁפְּתַיִם</span>:<br>
+<span dir="rtl">מִשְׁפְּתַיִם</span>:
+
 * Gen 49:14 LXX and α´: ἀνὰ μέσον τῶν κλήρων, ‘in the middle of the inheritances’ 
 (<i>GELS-L</i>, 258). ἀλλος: λιβάδων, ‘streams, pools’;<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup> 
 σ´  ἀνὰ μέσον τῶν γειτόνιων , ‘in the middle of the neighbours’.<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> 
 Graeco-Venetus: ἀνὰ τὰ ἠμιφόρτια  ‘to the half-packs’.<br>
-* Judg 5:16 LXX<sup>A</sup> simply transcribes the Hebrew: μοσφαθαιμ. 
-LXX<sup>B</sup> has ἀνὰ μέσον τῆς διγομίας , ‘in the middle of the double burden’.<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> 
+* Judg 5:16 LXX<sup><small>A</small></sup> simply transcribes the Hebrew: μοσφαθαιμ. 
+LXX<sup><small>B</small></sup> has ἀνὰ μέσον τῆς διγομίας , ‘in the middle of the double burden’.<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> 
 α´  ἀνά μέσον τῶν κλήρων. 
 σ´  ἀνά μέσον τῶν μεταιχμίων, ‘in the middle of the frontiers’. 
 ἀλλος: ἐν μέσῳ χειλέων, ‘in the middle of ‘lips’ (rims)’.<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup>
 
-<span dir="rtl">שְׁפַתַּיִם</span>:<br>
+<span dir="rtl">שְׁפַתַּיִם</span>:
+
 * Ps 68 [67]:14 LXX ἀνὰ μέσον τῶν κλήρων, as in Gen 49:14.<br>
 * Ezek 40:43 LXX γεῖσος  ‘cornice, coping’.<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup> 
 α´  ἐπιστάσεις  ‘stoppers (?)’
 
 <b>b.  Peshitta (Pesh):</b>  
 
-<span dir="rtl">מִשְׁפְּתַיִם</span>:<br>
+<span dir="rtl">מִשְׁפְּתַיִם</span>:
+
 * Gen 49:14 <i>bêt šbīlê</i> ‘between roads’.<br>
 * Judg 5:16 <i>baynat šbīlayyā</i> ‘between the roads’.<br>
 
-<span dir="rtl">שְׁפַתַּיִם</span>:<br>
+<span dir="rtl">שְׁפַתַּיִם</span>:
+
 * Ezek 40:43 <i>sêp̈wāthōn</i> ‘and their rims, ledges’.<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup>
 * Ps 68:14 <i>bêt špāyê</i> ‘between the clearings’.<sup id="fnref:13"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:13')">13</a></sup>
 
 
 <b>c. Targum (Tg):</b>  
 
-Tg<small><sup>Smr</sup></small>: 
-Tg<small><sup>SmrJ</sup></small> has <span dir="rtl">בין כרניה</span>  ‘among the nations’.[^14:]
-Some other manuscripts have <span dir="rtl">לשׁוניה</span>  or <span dir="rtl">לשׁונאיה</span>, apparently etymologizing 
-with Hebrew <span dir="rtl">שָׂפָה</span> ‘tongue’, also ‘language’. Tg<small><sup>SmrA</sup></small> has <span dir="rtl">בספיואתה</span>, probably 
-with the same meaning.<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup>
 
-<span dir="rtl">מִשְׁפְּתַיִם</span>:<br>
+<span dir="rtl">מִשְׁפְּתַיִם</span>:
+
 * Gen 49:14: 
 T<sup>O</sup> has a double translation: 
-<span dir="rtl">אחסנתיה בין תהומיא</span> ‘his inheritance between the borders’. 
-T<sup>N</sup> <span dir="rtl">ביני תרין תחומייא</span> ‘between two borders’ (so also some other Palestinian targums). 
-T<sup>PsJ</sup> <span dir="rtl">ביני תחומי אחוי</span> ‘between the borders of his brothers’.<br>
-* Judg 5:16 <span dir="rtl">בין תחומיא</span> ‘between the borders’. 
+<span dir="rtl">אחסנתיה בין תהומיא</span>, ‘his inheritance between the borders’. 
+T<sup>N</sup> <span dir="rtl">ביני תרין תחומייא</span>, ‘between two borders’ (so also some other Palestinian targums). 
+T<sup>PsJ</sup> <span dir="rtl">ביני תחומי אחוי</span>, ‘between the borders of his brothers’.
+Tg<small><sup>SmrJ</sup></small> has <span dir="rtl">בין כרניה</span>, ‘among the nations’.<sup id="fnref:14"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:14')">14</a></sup>
+Some other manuscripts have <span dir="rtl">לשׁוניה</span>  or <span dir="rtl">לשׁונאיה</span>, apparently etymologizing 
+with Hebrew <span dir="rtl">שָׂפָה</span>, ‘tongue’, also ‘language’. Tg<small><sup>SmrA</sup></small> has <span dir="rtl">בין פספיואתה</span>, probably 
+with the same meaning.<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup>
+* Judg 5:16 <span dir="rtl">בין תחומיא</span>, ‘between the borders’. 
 A variant reading has <span dir="rtl">בפרשׁת אורחא</span> ‘at a cross-road’.<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup><br>
 
-<a id="targ"></a><span dir="rtl">שְׁפַתַּיִם</span>:<br>
+<a id="targ"></a><span dir="rtl">שְׁפַתַּיִם</span>:
+
 * Ezek 40:43 <span dir="rtl">עונקלין</span>, a Greek loanword (ὄγκινος  or ἀγκάλη), not ‘eine mit Widerhaken versehene Stange’,<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> 
 but rather ‘hook, rack’. 
-No doubt this was based on the iron ‘hooks’ of m. Midd. 3:5, a passage, however, which 
+No doubt this was based on the iron ‘hooks’ of m. Middot 3:5, a passage, however, which 
 bears a hypothetical character itself.<br>
-* Ps 68:14 <span dir="rtl">ביני קילקלתא</span> ‘between dunghills’.<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup>
+* Ps 68:14 <span dir="rtl">ביני קילקלתא</span>, ‘between dunghills’.<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup>
 
 <b>d.  Vulgate (Vg):</b>  
 
 
 <span dir="rtl">מִשְׁפְּתַיִם</span>:
+
 *  Gen 49:14; Judg 5:16 <i>terminus</i> ‘border, boundary’.<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup>
 
-<span dir="rtl">שְׁפַתַּיִם</span>:<br>
+<span dir="rtl">שְׁפַתַּיִם</span>:
+
 * Ezek 40:43 <i>et labia earum</i> ‘and their rims’.<br>
 * Ps 68:14 <i>in medios cleros</i>, after LXX.
 
@@ -267,10 +274,12 @@ cut, not unlike the European custom to sell hams in a tapering sack or net.
 
 ### 6.2 Pictorial Material
 
-<b>A.1</b> 
- A good drawing of the type of sack described above is offered by C.W. Wilson (PICTURE BELOW),
- lower right corner;<sup id="fnref:37"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:37')">37</a></sup> 
- but see also the photographs by S. Avitzur and T. Bolen.<sup id="fnref:38"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:38')">38</a></sup>
+<b>A.1</b>
+See the photographs in Avitzur and Bolen.<sup id="fnref:37"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:37')">37</a></sup>
+A good drawing of the type of sack described above is found in Wilson 
+(lower right corner):[^38]:    
+
+![2amthachath](../images/photos/amtjt-PPSE-2-24.jpg)
  
 
  
@@ -284,7 +293,7 @@ cut, not unlike the European custom to sell hams in a tapering sack or net.
 
 <b>A.1</b>
 The ancient versions are clearly at a loss how to interpret <span dir="rtl">מִשְׁפְּתַיִם</span> and <span dir="rtl">שְׁפַתַּיִם</span>, words that apparently had become obsolete by the time the translators started their work. On the basis of context, etymology and iconography it may be assumed that <span dir="rtl">מִשְׁפְּתַיִם</span> and <span dir="rtl">שְׁפַתַּיִם</span> designated objects made of fabric folded in two and stitched together at the edges to form a sack 
-(<a href=https://sahd-online.com/words/2amthachath/ target="_blank">→ <span dir="rtl">אַמְתַּחַת</a></span>). As such it could designate a sack to dry freshly slaughtered and washed meat (Ezek 40:43). Two or more such folded sacks could be connected and hung over the back of a donkey as a ‘donkey-pack’ (Gen 49:14). Very few versions seem to have preserved a vague notion of this meaning, viz. LXX<sup>B</sup>, which translates ‘in the middle of the double burden’ in Judg 5:16, and the Graeco-Venetus rendering  ‘to the half-packs’ in Gen. 49:14. In a metaphorical sense both words could designate a sheep-fold (Judg 5:16; Ps 68:14) whereas the equivalent in Ugaritic (<i>mṯ pdm</i>) became a metaphor for multiple layers of rock and the Arabic cognate could designate cloud-packs, cumulus.
+(<a href=https://sahd-online.com/words/2amthachath/ target="_blank">→ <span dir="rtl">אַמְתַּחַת</a></span>). As such it could designate a sack to dry freshly slaughtered and washed meat (Ezek 40:43). Two or more such folded sacks could be connected and hung over the back of a donkey as a ‘donkey-pack’ (Gen 49:14). Very few versions seem to have preserved a vague notion of this meaning, viz. LXX<sup><small>B</small></sup>, which translates ‘in the middle of the double burden’ in Judg 5:16, and the Graeco-Venetus rendering  ‘to the half-packs’ in Gen. 49:14. In a metaphorical sense both words could designate a sheep-fold (Judg 5:16; Ps 68:14) whereas the equivalent in Ugaritic (<i>mṯ pdm</i>) became a metaphor for multiple layers of rock and the Arabic cognate could designate cloud-packs, cumulus.
 
 <b>A.2</b>
 Actually the English ‘fold’ underwent a similar semantic development.  The verb denotes bending a thing over itself, or  ‘double’. Then also ‘to undergo bending or curvature’, said of rock strata, and ‘to enclose, envelop’. As a noun, it may denote ‘a part doubled or laid over another part’, but also curved or undulating layers of rock (Merrian-Webster), and of course also the ‘(sheep)fold’ has survived, the enclosure in which sheep are driven from the grazing land via its wide V-shaped entrance.
@@ -313,12 +322,6 @@ D.I. Block, <i>The Book of Ezekiel: Chapters 25-48</i> (NICOT), Grand Rapids 199
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-BRL<br>
-K. Galling, <i>Biblisches Reallexikon</i>, 
-Tübingen <sup>2</sup>1977, 317 (hesitates to accept Eissfeldt's hypothesis).
-</div>
-
-<div style="padding-left: 22px; text-indent: -22px;">
 CHALOT<br>
 W.L. Holladay, <i>A Concise Hebrew and Aramaic Lexicon of the Old Testament</i>, Leiden 1971, 221: <span dir="rtl">מִשְׁפְּתַיִם</span> ‘the two saddle-bags (of pack-animal)’; 382: <span dir="rtl">שְׁפַתַּיִם</span> ‘(rim) of slab? Ez. 40,43; (panniers or) saddle-bags Ps 68,14 (oth.: sheepfolds)’.
 </div>
@@ -343,12 +346,6 @@ DBHE<br>
 L. Alonso Schökel (ed.), <i>Diccionario Bíblico 
 Hebreo-Español</i>, Madrid 1994, 443:  <span dir="rtl">מִשְׁפְּתַיִם</span> ‘Alforjas Gn 49,14; aprisco?’; 761: 
 <span dir="rtl">שְׁפַתַּיִם</span> ‘apriscos ... repisas’.
-</div>
-
-<div style="padding-left: 22px; text-indent: -22px;">
-DCH<br>
-D.J.A. Clines (ed.), <i>The Dictionary of Classical Hebrew</i> (vol. 1-8, Sheffield 1993-2011), 
-vol. 5, 564-5: leaves all options open --
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -629,5 +626,5 @@ H.J. Zobel, <i>Stammesspruch und Geschichte</i> (BZAW, 95), Berlin 1965, 16.
 [^34]: Such a stone slab is lying on the slaughtering block in a miniature model of an ancient Egyptian butcher's shop, <i>LÄ</i>, Bd. 1, 1081-82.
 [^35]: W.J. Darby <i>et al.</i>, <i>Food: The Gift of Osiris</i>, vol. 1, London 1977, 147, 152-53; S. Ikram, <i>Choice Cuts: Meat Production in Ancient Egypt</i> (OLA, 69), Leuven 1994, 41-108, 77, Fig. 16; 82-83, with Fig. 17; 85, Fig. 18; Curtis, <i>Ancient Food Technology</i>, 170-2.
 [^36]: Cf. Ikram, ‘Ancient Egyptians?’, 283-89.
-[^37]: Wilson, <i>PPSE</i>, vol. 2, 24.
-[^38]: Avitzur, <span dir="rtl">אדם ועמלו</span>, 89-91; Bolen, <i>PLBL</i>, tb060503203.
+[^37]: Avitzur, <span dir="rtl">אדם ועמלו</span>, 89-91, and Bolen, <i>PLBL</i>, tb060503203.
+[^38]: Wilson, <i>PPSE</i>, vol. 2, 24.

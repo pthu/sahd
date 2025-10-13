@@ -611,7 +611,7 @@ Isa 61:10;
 * κυλίκιον, ‘small cup’, dim. of κύλιξ:<sup id="fnref:64"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:64')">64</a></sup> Est 1:7 (2nd);
 * ὅπλον, ‘implement of warfare’:<sup id="fnref:65"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:65')">65</a></sup> Jer 21:4; Ezek 32:27;
 * ὄργανον, ‘instrument’, etc.:<sup id="fnref:66"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:66')">66</a></sup> 
-1 Chron 15:16 (LXX<small><sup>a</sup></small>); 
+1 Chron 15:16 (LXX<small><sup>A</sup></small>); 
 16:5, 42; 23:5; 2 Chron 5:13; 7:6; 23:13; 29:26, 27; 
 34:12; see further ‘One-word renderings of combinations with <span dir="rtl">כְּלִי</span>’ (below);
 * πᾶς, ‘all’:<sup id="fnref:67"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:67')">67</a></sup> 
@@ -624,14 +624,14 @@ Est 1:7 (3rd?).
 
 <b>A.3</b> One-word renderings of combinations with <span dir="rtl">כְּלִי</span> 
 
-* κατασκευή, ‘fittings, furniture’:<sup id="fnref:73"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:73')">73</a></sup> Exod 27:19, for <span dir="rtl">כְּלֵי הַמִּשְׁכָּן</span>, ‘the vessels of the tabernacle’ (but LXX<small><sup>a</sup></small>: ἀποσκευή, ‘baggage’, etc.);<sup id="fnref:74"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:74')">74</a></sup>    
+* κατασκευή, ‘fittings, furniture’:<sup id="fnref:73"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:73')">73</a></sup> Exod 27:19, for <span dir="rtl">כְּלֵי הַמִּשְׁכָּן</span>, ‘the vessels of the tabernacle’ (but LXX<small><sup>A</sup></small>: ἀποσκευή, ‘baggage’, etc.);<sup id="fnref:74"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:74')">74</a></sup>    
 * κινύρα, ‘string instrument’:<sup id="fnref:75"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:75')">75</a></sup>
 Sir 39:15<small><sup>B</sup></small>, ἐν κινύραις, ‘with string instruments’, for [<span dir="rtl">ם</span>]<span dir="rtl">כלי מיני</span>, ‘instruments of (many) kinds'; 
 * ὁπλομάχος, ‘fighting with heavy arms’:<sup id="fnref:76"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:76')">76</a></sup> 
 Isa 13:5, οἱ ὁπλομάχοι αὐτοῦ, ‘his armed men’ (NETS), for <span dir="rtl">כְּלֵי זַעְמוֹ</span>, ‘instruments of his indignation’;
 * ὄργανον, ‘instrument’, etc.:<sup id="fnref:77"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:77')">77</a></sup> ἐν ὀργάνοις, ‘with instruments’; in 2 Chron 30:21  for MT <span dir="rtl">בִּכְלֵי עֹז</span>, ‘with instruments of power’ (but LXX<small><sup>Ant</sup></small> renders each Hebrew word with a Greek word:
 ἐν ὀργάνοις ἰσχύος, ‘with instruments of power’<sup id="fnref:78"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:78')">78</a></sup>); 
-in 1 Chron 15:16 for MT <span dir="rtl">בִּכְלֵי שִׁיר</span>, ‘with instruments of …’ (LXX<small><sup>a</sup></small>, LXX<small><sup>s</sup></small>, etc., while LXX<small><sup>a</sup></small> renders each Hebrew word with a Greek word: ἐν ὀργάνοις ᾠδῶν, ‘with instruments of songs’; see above); 
+in 1 Chron 15:16 for MT <span dir="rtl">בִּכְלֵי שִׁיר</span>, ‘with instruments of …’ (LXX<small><sup>A</sup></small>, LXX<small><sup>S</sup></small>, etc., while LXX<small><sup>A</sup></small> renders each Hebrew word with a Greek word: ἐν ὀργάνοις ᾠδῶν, ‘with instruments of songs’; see above); 
 * πέλυξ, ‘a kind of axe’:<sup id="fnref:79"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:79')">79</a></sup> 
 Ezek 9:2, for <span dir="rtl">כְּלִי מַפָּץ</span>, 
 ‘instrument of destruction’;
@@ -1084,7 +1084,7 @@ Many thanks are due to Benjamin Bogerd (Protestant Theological University, Utrec
 [^43]: Num 19:17; 1 Sam 17:49; 21:6; 2 Kgs 4:6 (2nd); Jer 48:11 (2nd); Ezek 15:3; Prov 25:4.
 [^44]: See Lefkovits 2000:192.
 [^45]: On the wide 	semantic range of the verb <span dir="rtl">פקד</span>,  see G. André, <i>Determining the destiny: PQD in the Old Testament</i> (CB OT 16), Gleerup 1980, with a discussion of Isa 10:28 at pp. 44-45 and a discussion of Num 4:32 at pp. 27-28, 214-15.
-[^46]: Because of some variety within the Greek tradition, it is not possible to give a fixed number of cases in which σκεῦος  is the counterpart of <span dir="rtl">כְּלִי</span>. The following examples are illustrative.  In the LXX, the expression <span dir="rtl">וְאֶת הַשֻּׁלְחָן וְאֶת כָּל כֵּלָיו</span> in Exod 30:27 is rendered in 30:28 (καὶ τὴν τράπεζαν καὶ πάντα τὰ σκεύη αὐτῆς), but in LXX<small><sup>a</sup></small>  <span dir="rtl">וְאֶת כָּל כֵּלָיו</span> is also represented at the beginning of 30:27 (καὶ πάντα τὰ σκεύη αὐτῆς). In most manuscripts of the LXX 1 Sam 17:22 is omitted, but in LXX<small><sup>Ant</sup></small>  the verse is translated, with τὰ σκεύη  representing the first occurrence of <span dir="rtl">הַכֵּלִים</span>  (Fernández Marcos and Busto Saiz 1989:50).  In 1 Kgs 7:37 (7:51<small><sup>MT</sup></small>)καὶ τὰ σκεύη  represents <span dir="rtl">וְאֶת הַכֵּלִים</span>, but the phrase is missing in LXX<small><sup>a</sup></small>.
+[^46]: Because of some variety within the Greek tradition, it is not possible to give a fixed number of cases in which σκεῦος  is the counterpart of <span dir="rtl">כְּלִי</span>. The following examples are illustrative.  In the LXX, the expression <span dir="rtl">וְאֶת הַשֻּׁלְחָן וְאֶת כָּל כֵּלָיו</span> in Exod 30:27 is rendered in 30:28 (καὶ τὴν τράπεζαν καὶ πάντα τὰ σκεύη αὐτῆς), but in LXX<small><sup>A</sup></small>  <span dir="rtl">וְאֶת כָּל כֵּלָיו</span> is also represented at the beginning of 30:27 (καὶ πάντα τὰ σκεύη αὐτῆς). In most manuscripts of the LXX 1 Sam 17:22 is omitted, but in LXX<small><sup>Ant</sup></small>  the verse is translated, with τὰ σκεύη  representing the first occurrence of <span dir="rtl">הַכֵּלִים</span>  (Fernández Marcos and Busto Saiz 1989:50).  In 1 Kgs 7:37 (7:51<small><sup>MT</sup></small>)καὶ τὰ σκεύη  represents <span dir="rtl">וְאֶת הַכֵּלִים</span>, but the phrase is missing in LXX<small><sup>A</sup></small>.
 [^47]: Exceptions MT sg., LXX pl.:  Deut 22:5; 1 Sam 21:6 (2nd);  1 Kgs 19:21; Ezek 9:1; Hos 13:15; Nah 2:10; Zech 11:15; Job 28:17; similarly  LXX<small><sup>A</sup></small><small><sup><span style="text-transform:uppercase;">a</span>nt</sup></small>  Ps 2:9 (cf. Rev 2:27).   Exceptions MT pl., LXX sg.: Gen 27:3;  2 Kgs 11:8, 11;  2 Chron 23:7; 36:19.
 [^48]: LSJ, 1607; <i>GELS</i>, 623; Montanari, <i>BDAG</i>, 1923-24.
 [^49]: <i>GELS</i>, 4; similarly LSJ, 7.

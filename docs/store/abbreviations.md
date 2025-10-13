@@ -363,7 +363,7 @@ td:nth-child(odd) {
   	<td> Targum Neofiti</td>   
   </tr>   
   <tr>
-  	<td> LXX<small><sup>a</sup></small></td>
+  	<td> LXX<small><sup>A</sup></small></td>
   	<td> Codex Alexandrinus </td>
   	<td> Tg<small><sup>O</sup></small></td>
   	<td> Targum Onqelos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
@@ -376,22 +376,22 @@ td:nth-child(odd) {
   	<td>  Targum Pseudo-Jonathan</td>
   </tr>   
   <tr>
-  	<td> LXX<small><sup>b</sup></small> </td>
+  	<td> LXX<small><sup>B</sup></small> </td>
   	<td> Codex Vaticanus </td>
   	<td> Tg<small><sup>Smr</sup></small></td>
   	<td> Targum SP</td>
   </tr>   
   <tr>
-  	<td> LXX<small><sup>s</sup></small> </td>
+  	<td> LXX<small><sup>S</sup></small> </td>
   	<td> Codex Sinaiticus </td>
-  	<td> Tg<small><sup>Smr1</sup></small></td>
-  	<td> Tg<small><sup>Smr</sup></small>, version 1<a href="#footnote-2"><small><sup>2</sup></small></a></td> 
+  	<td> Tg<small><sup>SmrA</sup></small></td>
+  	<td> Tg<small><sup>Smr</sup></small>, ms A<a href="#footnote-2"><small><sup>2</sup></small></a></td> 
   </tr>   
   <tr>
   	<td> MT </td>
   	<td> Masoretic Text </td>
-  	<td> Tg<small><sup>Smr2</sup></small> </td>
-  	<td> Tg<small><sup>Smr</sup></small>, version 2</td>
+  	<td> Tg<small><sup>SmrJ</sup></small> </td>
+  	<td> Tg<small><sup>Smr</sup></small>, ms J</td>
   </tr>   
   <tr>
   	<td> Pesh </td>
@@ -419,8 +419,8 @@ td:nth-child(odd) {
  </table>
 
 <p id="footnote-1"><small><sup>1</sup></small> Also known as LXX<small><sup><i>L</i></sup></small> (Lucianic recension).</p>
-<p id="footnote-2"><small><sup>2</sup></small> For the differentiation between versions 1 and 2 of Tg<small><sup>Smr</sup></small> see <i>THB</i> 
-1A:235-38, 239-62.
+<p id="footnote-2"><small><sup>2</sup></small> For the mss of Tg<small><sup>Smr</sup></small> see <i>THB</i> 
+1B:167-72.
 </p>
 <p id="footnote-3"><small><sup>3</sup></small> Vulg.<small><sup>PsG</sup></small>= <i>Psalmi iuxta Septuaginta emendati</i>= ‘Ga’ in 
 	<i>BHS</i> and <i>BHQ</i>.

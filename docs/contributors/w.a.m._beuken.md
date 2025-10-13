@@ -4,4 +4,4 @@
 
 
 ### Contributions
-[מַקֵּל – branch, rod, staff](../words/maqqel.md)<br>
+[מַקֵּל – branch, rod, staff](../words/maqqel.md)<br>[סָעִיף – cleft](../words/sa3ip.md)<br>

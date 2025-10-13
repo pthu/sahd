@@ -10,7 +10,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [M.D. Koster](../contributors/m.d._koster.md)<br>
-First published: 2014-07-08<br>Last update: May 2025 (Marten van Dam) <br>Citation: M.D. Koster, מַפְתֵּחַ <i> maptē<small><sup>a</sup></small>ḥ </i> – key, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2014 (update: May 2025 (Marten van Dam))
+First published: 2014-07-08<br>Last update: 2025-10-5 (Paul Sanders) <br>Citation: M.D. Koster, מַפְתֵּחַ <i> maptē<small><sup>a</sup></small>ḥ </i> – key, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2014 (update: 2025)
 (WORK IN PROGRESS)
 
 
@@ -19,65 +19,76 @@ First published: 2014-07-08<br>Last update: May 2025 (Marten van Dam) <br>Citati
 ## Introduction
 
 Grammatical type: noun masc. <br>
-Occurrences: 3x HB (0/2/1); 0x Sir; 0x Qum; 0x Inscr.  (Total: 3)
+Occurrences: 3x HB (0/2/1); 1x Sir; 0x Qum; 0x Inscr.  (Total: 4)
  
 * Nebiim: Judg 3:25; Isa 22:22.
-* Ketubim: 1 Chron 9:27.
+* Ketubim: 1 Chron 9:27;
+* Sira: 42:6<small><sup>Mas</sup></small> (see A.1).
+
+<b>A.1</b>
+Sir 42:6 in the Masada scroll contains the word
+<span dir="rtl">מפתח</span>, which may mean ‘key’.
+Instead, Ms B reads <span dir="rtl">תפתח</span>. The Masada Hebrew text runs:  
+<!--Op basis van bensira.org; zie ook DCH-->
+<span dir="rtl">[על אשה רעה ת]שׄת חותם</span>
+‘[... wield]s a seal’,    
+<span dir="rtl">ומקום ידים רבות מפתח</span> 
+‘or (concerning) a place (where) many hands (hold) a key’.  
+The reading in Ms B is different:  
+<span dir="rtl">על אשה רעה <טפשה> חותם׃ חכם</span>
+‘Of putting a seal upon an unworthy <imprident> wife, wise’ [ ]  
+<span dir="rtl">ומקום ידים רפות תפתח</span> 
+‘or of opening the place where hands are weak’.
+
 
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
 <b>A.1</b> 
-<i>Root.</i> 
-<span dir="rtl">מַפְתֵּחַ</span> is a <i>maqtēl</i>-form<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> of 
-√<span dir="rtl">פתח</span>, ‘to open’, which is common in most Semitic languages.<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> Below only relatively close correspondences are noted.<br>
-In Isa 22:22 the stat. 
-cstr. is <span dir="rtl">מַפְתֵּחַ</span>, not <span dir="rtl">מַפְתַּח</span>, as would be expected (dissimilation?<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>). In TeNaKh it is 
-masc.,<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> but Rosenberg shows that in the Talmud<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> it is 
+<i>Root:</i> 
+<span dir="rtl">מַפְתֵּחַ</span> is a <i>maqtil</i> form of <span dir="rtl">פתח</span>, ‘to open’,<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup>
+which is common in most Semitic languages.<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> Below only relatively close correspondences are noted. 
+In BHeb. the noun is masc.,<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup> but Rosenberg shows that in the Talmud<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> it is 
 sometimes fem. (mss. Ven. and Lowe, 
-respectively).<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup>   <br>
-Other terms for closing instruments are 
-<span dir="rtl">בְּרִיחַ</span>, ‘bar’, Deut 3:5, 1 Sam 23:7; Judg 16:3, Ps 147:13, Neh 3:3, 6, 13-15 (on gates); 1 Kgs 4:13 (bronze), Isa 45:2, Ps 107:16 
-(iron), etc. (mostly of wood<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup>); further *<span dir="rtl">מִנְעַל</span>, ‘lock’, Deut 33:25+, and <span dir="rtl">מַנְעוּל</span>, ‘lock, bolt’, Song 5:5 (!), Neh 3:3, 6, 13-15+, both from the 
-root <span dir="rtl">נָעַל</span> ‘to lock’.<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup>
+respectively).<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> 
+
 
 <b>A.2</b>
-<i>Akkadian.</i>
+<i>Akkadian:</i>
 Even though the etymologically related verb <i>petû</i> is often used with doors and gates, its derivatives <i>naptētu</i> ‘key, small saw’ and <i>naptû</i> ‘part of a lock’ occur in lexical texts only.<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> The normal word for ‘key’ in Akkadian is <i>namzaqu</i>.
 
 <b>A.3</b>
-<i>Ugaritic.</i>
-In a scribal exercise <i>mptḫ</i> ‘key’ occurs.<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup> In this text <i>ḫ</i> represents <i>ḥ</i>.
+<i>Ugaritic:</i>
+In a scribal exercise <i>mptẖ</i>, ‘key’, occurs.<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup> 
 
 <b>A.4</b>
-<i>Postbiblical Hebrew.</i>
+<i>Postbiblical Hebrew:</i>
 <span dir="rtl">מפתח</span> ‘key’.<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup>
 
 <b>A.5</b>
-<i>Jewish Aramaic.</i>
+<i>Jewish Aramaic:</i>
 <span dir="rtl">מפתח</span> ‘key’.<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup>
 
 <b>A.6</b>
-<i>Classical Arabic.</i>
+<i>Classical Arabic:</i>
 <i>miftaḥ</i>, <i>miftāḥ</i> ‘key, instrument for opening’.<sup id="fnref:13"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:13')">13</a></sup>
 
 <b>A.7</b>
-<i>Modern South Arabic.</i>
+<i>Modern South Arabic:</i>
 Soqoṭri <i>miftāḥ</i> ‘key’;<sup id="fnref:14"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:14')">14</a></sup> 
 Mehri <i>mȩftēḥ</i> ‘key’;<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup>
 Jibbāli <i>muftȩḥ</i> ‘key’.<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup>
 
 <b>A.7</b>
-<i>Modern Palestinian Arabic.</i>
+<i>Modern Palestinian Arabic:</i>
 <i>muftāḥ</i> ‘key’.<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup>
 
 <b>A.8</b>
-<i>Ethiopic.</i>
+<i>Ethiopic:</i>
 Geez <i>maftȩḥ</i> ‘instrument for opening (key)’.<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup>
 
 <a id="rab"></a><b>A.9</b>
-<i>Rabbinical literature.</i>
-The Masada Hebrew text of Sir 42:6b runs ‘(be not ashamed of a seal to keep a foolish wife at home)’, <span dir="rtl">מפתח</span> <span dir="rtl">רבות</span> <span dir="rtl">ידים</span> <span dir="rtl">ומקום</span> ‘and of a key where there are many hands’.<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup> <br>
+<i>Rabbinical literature:</i>
 Isa 22:22 underlies the crucial (‘key’-)text Matt 
 16:19 and similar texts about binding and 
 unbinding in the N.T. (see <a href="#Fig">6.2. Figurative Use</a>).<sup id="fnref:20"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:20')">20</a></sup> <br>
@@ -106,7 +117,10 @@ be opened.<sup id="fnref:27"><a href="#footnote" data-toggle="modal" onclick="sh
 ## 2. Formal Characteristics
 
 <b>A.1</b> 
-[Discussion will be added later.]
+<span dir="rtl">מַפְתֵּחַ</span> is a <i>maqtil</i> form of <span dir="rtl">פתח</span>, ‘to open’;
+see BL 492 rζ.
+In Isa 22:22 the stat. 
+cstr. is <span dir="rtl">מַפְתֵּחַ</span>, not <span dir="rtl">מַפְתַּח</span>, as would be expected (dissimilation?<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>). 
 
 
 ## 3. Syntagmatics
@@ -118,41 +132,48 @@ be opened.<sup id="fnref:27"><a href="#footnote" data-toggle="modal" onclick="sh
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
-* τὴν κλεῖδα ‘the key’: Judg 3:25.
-* ἐπὶ τῶν κλειδῶν (plur.!): 1 Chron 9:27. 
-* As to Isa 22:22, a double translation has been preserved: καὶ δώσω τὴν δόξαν Δαυιδ αὐτῷ, ‘and I will give him the glory of David’, and καὶ δώσω τὴν κλεῖδα[ν] οἴκου Δαυιδ ‘and I will give him the key of the house of David’. Cod. B has the first, figurative interpretation of 
-<span dir="rtl">מַפְתֵּחַ</span>  as δόξα.<sup id="fnref:28"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:28')">28</a></sup> In LXX<sup>B</sup> the first half of v. 22b, <span dir="rtl">סֹגֵר</span> <span dir="rtl">וְאֵין</span> <span dir="rtl">וּפָתַח</span>, has been rendered interpretatively too: καὶ ἄρξει, καὶ οὐκ ἔσται ὁ ἀντιλέγων  (continued literally with καὶ κλείσει καὶ οὐκ ἔσται ὁ ἀνοίγων). LXX<sup>a</sup>, LXX<sup>A</sup>  and others have the literal translation (with καὶ ἀνοίξει καὶ οὐκ ἔσται ὁ ἀποκείων in v. 22b<sup>a</sup>), or combinations of the figurative 
-and the literal translation (see the editions of 
-Swete, Rahlfs and Ziegler for further details). 
-As the literal translation figures already in 
-Rev 3:7, this interpretation has old claims too.
+* κλεῖδα, ‘key’: Judg 3:25 (sing.); 1 Chron 9:27 (plur.).
+* δόξα, ‘glory’: Isa 22:22 (see A.1)
+
 
 <b>b.  Peshitta (Pesh):</b>  
 
-* <i>ʾqlydʾ</i> ‘keys’: Judg 3:25; Isa 22:22 (with <i>s<sup>e</i>yamē</sup>, thus plur.; in Judg 3:25 12a1<i>fam</i> omits the <i>s<sup>e</i>yamē</sup>, thus opting for sing.; no variants in Isa 22:22). 
-* Pesh  Chron, which has a very ‘wild’ text in Syriac, 
-substitutes <i>ʿl tarʿʾ</i> ‘over the gate’ for 
-<span dir="rtl">הַמַפְתֵּחַ</span><span dir="rtl">עַל־</span>: 1 Chron 9:27. 
+* <span dir="rtl">ܐܩ̈ܠܝܕܐ</span>/<span dir="rtl">ܩ̈ܠܝܕܐ</span> (<i>(ʾa)qlidè</i> < κλείς), ‘keys’: Judg 3:25; Isa 22:22 (both with <i>s<sup>e</sup>yamē</i>, thus plur.; in Judg 3:25 12a1<i>fam</i> omits the <i>s<sup>e</sup>yamē</i>, thus opting for sing.; no variants in Isa 22:22). 
+* <span dir="rtl">ܬܪܥܐ</span> (<i>tarʿ</i>), ‘door, gate, entrance’: 1 Chron 9:27.
 
 
 <b>c. Targum (Tg):</b>  
 
-* Tg<sup>J</sup> <span dir="rtl">מפתחא</span> ‘key’: Judg 3:25.
-* Tg <span dir="rtl">בידיה</span> <span dir="rtl">דוד</span> <span dir="rtl">בית</span> <span dir="rtl">ושׁלטן</span> <span dir="rtl">מקדשׁא</span> <span dir="rtl">בית</span> <span dir="rtl">מפתח</span> <span dir="rtl">ואתין</span>, ‘I will give the key of the sanctuary and the 
-power of the house of David in his hand’: Isa 22:22. Like LXX, Tg has an interpretative translation. Possibly this reflects the royal priesthood of the Hasmonean era.<sup id="fnref:29"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:29')">29</a></sup> 
-* <span dir="rtl">אקלידיא</span> (Greek loanword: ‘the keys’, plur., cf. LXX and Pesh): 1 Chron 9:27 in Sperber’s edition.    
+* <span dir="rtl">מפתחא</span>, ‘key’: Judg 3:25; Isa 22:22 (see A.2).
+* <span dir="rtl">אקלידיא</span> (plur., <span dir="rtl">אַקְלִידָא</span> < κλείς), ‘the keys’: 1 Chron 9:27.    
 
 
 <b>d.  Vulgate (Vg):</b>  
 
-* <i>clavem</i> ‘key’: Judg 3:25; Isa 22:22.
-* <i>aperirent</i> ‘they opened’: 1 Chron 9:27, interpretatively.
+* <i>clavem</i>, ‘key’: Judg 3:25; Isa 22:22.
+* <i>aperirent</i> ‘they opened’: 1 Chron 9:27 (interpretatively).
 
+
+<b>A.1</b>
+In most of the manuscripts of the LXX, the translation of <span dir="rtl">וְנָתַתִּי מַפְתֵּחַ בֵּית־דָּוִד עַל־שִׁכְמוֹ</span> in Isa 22:22 is
+καὶ δώσω τὴν δόξαν Δαυιδ αὐτῷ, ‘and I will give him the glory of David’. This figurative interpretation is attested in LXX<sup><small>B</small></sup>. In LXX<sup><small>B</small></sup> the following phrase
+<span dir="rtl">וּפָתַח וְאֵין סֹגֵר</span> has been rendered interpretatively too: καὶ ἄρξει, καὶ οὐκ ἔσται ὁ ἀντιλέγων, ‘and he shall rule, and there shall be no one to contradict him’ (continued literally with καὶ κλείσει καὶ οὐκ ἔσται ὁ ἀνοίγων). Instead, a more literal Greek rendering of the beginning of the verse is attested in LXX<sup><small>A</small></sup> and other manuscripts: καὶ δώσω τὴν κλεῖδα[ν] οἴκου Δαυιδ, ‘and I will give the key of the house of David’, with καὶ ἀνοίξει καὶ οὐκ ἔσται ὁ ἀποκείων as the translation of the following phrase <span dir="rtl">וּפָתַח וְאֵין סֹגֵר</span>. Combinations of the figurative 
+and the literal translations exist also (see the editions of 
+Swete, Rahlfs and Ziegler for further details). 
+As the more literal translation figures already in 
+Rev 3:7, this translation seems to be old.
+
+<b>A.2</b>
+Like the LXX, the Tg has an interpretative translation of Isa 22:22. Possibly this reflects the royal priesthood of the Hasmonean era.<sup id="fnref:29"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:29')">29</a></sup>
 
 ## 5. Lexical/Semantic Fields
 
 <b>A.1</b> 
-[Discussion will be added later.]
+Other terms for closing instruments are 
+<span dir="rtl">בְּרִיחַ</span>, ‘bar’, Deut 3:5, 1 Sam 23:7; Judg 16:3, Ps 147:13, Neh 3:3, 6, 13-15 (on gates); 1 Kgs 4:13 (bronze), Isa 45:2, Ps 107:16 
+(iron), etc. (mostly of wood<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup>); further *<span dir="rtl">מִנְעַל</span>, ‘lock’, Deut 33:25+, and <span dir="rtl">מַנְעוּל</span>, ‘lock, bolt’, Song 5:5 (!), Neh 3:3, 6, 13-15+, both from the 
+root <span dir="rtl">נָעַל</span> ‘to lock’.<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup>  
+[More discussion will be added later.]
 
 
 ## 6. Exegesis
@@ -494,18 +515,16 @@ Williamson 1982<br>
 H.G.M. Williamson, <i>1 and 2 Chronicles</i> (NCBC), London 1982.</div>
 
 
-[^1]: &lt; *<i>maqtil</i>, <i>GKC</i>, § 85i; <i>BL</i>, 492q-r [‘<span dir="rtl">מַפְתֵּחַ</span> ‘‘Schlüssel’’ ... und eine Reihe anderer Werkzeuge’]; Joüon, <i>GHB</i>, § 88 L d,h.
+[^1]: *<i>maqtil</i>, <i>GKC</i>, § 85i; <i>BL</i>, 492q-r [‘<span dir="rtl">מַפְתֵּחַ</span> ‘‘Schlüssel’’ ... und eine Reihe anderer Werkzeuge’]; Joüon, <i>GHB</i>, § 88 L d,h.
 [^2]: Orel & Stolbova, <i>HSED</i>, 425-6.
-[^3]: Cf. <i>BL</i>  542m for both 
-possibilities [<i>HALAT</i>, 585b].
-[^4]: Cf. K. Albrecht, ‘Das Geschlecht der Hebräischen Hauptwörter’ (<i>ZAW</i> 15, 313-25, and 16, 
-41-121), (16) 93.
+[^3]: Cf. <i>BL</i>  542m for both possibilities [<i>HALAT</i>, 585b].
+[^4]: Cf. K. Albrecht, ‘Das Geschlecht der Hebräischen Hauptwörter’ (<i>ZAW</i> 15, 313-25, and 16, 41-121), (16) 93.
 [^5]: Tam. III 6 [189a6] and Kel. XIV 8 [198b29].
 [^6]: H. Rosenberg, ‘Zum Geschlecht der hebräischen Hauptwörter’ (<i>ZAW</i> 25, 325-39), 334.
 [^7]: Cf. Josephus, <i>Bell. Jud.</i> 4, 4,6; 6, 5,3.
 [^8]: Cf. Dalman, <i>AuS</i>, Bd. 7, 70f.
 [^9]: <i>CAD</i> (N) 1, 324.
-[^10]: KTU 5.22:12, cf. Del Olmo Lete & Sanmartín, <i>DULAT</i>, 566-7.
+[^10]: KTU 5.22:12; see <i>DULAT</i><sup><small> 3</small></sup>, 559.
 [^11]: Dalman, <i>ANHT</i>, 247.
 [^12]: Sokoloff, <i>DJPA</i>, 324.
 [^13]: Belot 570a; Lane, <i>AEL</i>, 2329.
@@ -514,7 +533,6 @@ possibilities [<i>HALAT</i>, 585b].
 [^16]: Johnstone, <i>JL</i>, 65.
 [^17]: Barthélemy, 592; Elihai, <i>DAPP</i>, 88.
 [^18]: Leslau, <i>CDG</i>, 170.
-[^19]: Cf. <i>DCH</i>, vol. 5, 434a.
 [^20]: Abundance of rabbinic quotations in Strack & Billerbeck 1922, 738-47.
 [^21]: <i>ThWNT</i>, Bd. 3, 745, with notes 24-26 for rabbinic references.
 [^22]: <i>ibid.</i>, 746-7.
@@ -522,9 +540,7 @@ possibilities [<i>HALAT</i>, 585b].
 [^24]: m. Tam. III.6, 7; <i>AuS</i>, Bd. 7, 71, 73.
 [^25]: t. B. Bat. III.1, B. Bat. IV.3.
 [^26]: m. Kel. XVI.7; t. ʿErub. X.1.
-[^27]: m. Kel. XIV 8, etc.; Krauss, <i>TA</i>, BD. 1, 41; Dalman, <i>AuS</i>, Bd. 7, 73; 
-see also 53-4. 
-[^28]: <i>GELS-L</i>, 119b: ‘opinion, estimation, repute’, or [mostly] ‘richess, honour, glory; brightness, splendour’; cf. <i>ThWNT</i>, Bd. 2, 245-48.
+[^27]: m. Kel. XIV 8, etc.; Krauss, <i>TA</i>, BD. 1, 41; Dalman, <i>AuS</i>, Bd. 7, 73; see also 53-4. 
 [^29]: Van der Kooij 1981, 162.
 [^30]: Budde 1897, 31.
 [^31]: Dirksen 1990, 35.

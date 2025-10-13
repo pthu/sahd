@@ -1,7 +1,7 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-# **Klaas A. D. Smelik**
+# **Willem Smelik**
 
 
 ### Contributions
-[מְגִלָּה – scroll](../words/mgillah.md)<br>
+[גֻּלָּה – bowl](../words/gullah.md)<br>

@@ -10,7 +10,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Eric Peels](../contributors/eric_peels.md)<br>
-First published: 2011-05-11<br>Last update: May 2025 (Marten van Dam) <br>Citation: Eric Peels, מֶשֶׁךְ <i>mèšek</i> – leather bag, pouch, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: May 2025 (Marten van Dam))
+First published: 2011-05-11<br>Last update: 2025-05-15 <br>Citation: Eric Peels, מֶשֶׁךְ <i>mèšek</i> – leather bag, pouch, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2025)
 (WORK IN PROGRESS)
 
 
@@ -92,7 +92,6 @@ Amharic <i>mas</i> ‘tanned hide’?<sup id="fnref:16"><a href="#footnote" data
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
 * In Ps 126:6 (LXX 125:6) the LXX and the Quinta avoid a translation.  σ´ has ἑλκυσμός, ‘attraction ... dragging’. 
-
 * In Job 28:18 LXX and θ´ render ἕλκυσον, ‘drag in (wisdom)’, thus apparently deriving from the verb <span dir="rtl">משׁך</span>. This will also be the background of α´ γλυκύς, ‘sweet’ or ‘sweetness’.
 
 <b>b.  Peshitta (Pesh):</b>  
@@ -290,20 +289,17 @@ Zenger 2008<br>
 E. Zenger, in: F.-L. Hossfeld & E. Zenger, <i>Psalmen 101-150</i> (HThKAT), Freiburg 2008, 502: ‘bezeichnet den aus (abgezogener) Haut hergestellten Lederbeutel, hier den Beutel für den auszuwerfenden Samen’.</div>
 
 [^1]: Fronzaroli 1964
-[^2]: cf. <i>HSED</i>, 378.
+[^2]: Cf. <i>HSED</i>, 378.
 [^3]: Hannig, <i>SP</i>, 107.
 [^4]: Erman & Grapow, <i>WÄS</i>, Bd. 2, 150
 [^5]: <i>CAD</i> M/1, 376-79.
 [^6]: according to Caquot & Masson 1977.
 [^7]: cf. <i>DULA</i>, 581-2.
-[^8]: Hoftijzer & Jongeling, <i>DNSI</i>, 700;
-Porten & Lund, <i>ADE</i>, 230.
+[^8]: Hoftijzer & Jongeling, <i>DNSI</i>, 700; Porten & Lund, <i>ADE</i>, 230.
 [^9]: Sokoloff, <i>DJBA</i>, 714.
 [^10]: Sokoloff, <i>DJPA</i>, 334.
 [^11]: Tal, <i>DSA</i>, 490.
-[^12]: Payne Smith (Margoliouth), <i>CSD</i>, 306; 
-Brockelmann, <i>LS</i>, 407;
-Costaz, <i>DSF</i>, 193.
+[^12]: Payne Smith (Margoliouth), <i>CSD</i>, 306; Brockelmann, <i>LS</i>, 407; Costaz, <i>DSF</i>, 193.
 [^13]: Macuch, <i>MD</i>, 270-1.
 [^14]: Dozy, <i>SDA</i>, t. 2, 600.
 [^15]: Cf. Dillmann, <i>LLAe</i>, 195.

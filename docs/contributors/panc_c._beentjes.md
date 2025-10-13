@@ -1,7 +1,7 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-# **Michaël N. van der Meer**
+# **Panc C. Beentjes**
 
 
 ### Contributions
-[בְּרִית – covenant, agreement, obligation](../words/brith.md)<br>
+[אָזֵן – equipment](../words/2azen.md)<br>

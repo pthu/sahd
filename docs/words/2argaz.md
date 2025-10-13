@@ -10,7 +10,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Eric Peels](../contributors/eric_peels.md)<br>
-First published: 2011-05-09<br>Last update: May 2025 (Marten van Dam) <br>Citation: Eric Peels, אַרְגַּז <i> ’argaz </i> – wagon-box (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: May 2025 (Marten van Dam))
+First published: 2011-05-09<br>Last update: 2025-05-15 <br>Citation: Eric Peels, אַרְגַּז <i> ’argaz </i> – wagon-box (?), <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2025)
 (WORK IN PROGRESS)
 
 
@@ -96,12 +96,12 @@ The rare references to <span dir="rtl">אַרְגַּז</span>  in the rabbinica
 
 <b>c. Targum (Tg):</b>  
 
-* <span dir="rtl">תיבתא</span>, ‘box, chest’: all instances. Possibly this rests on nothing but etymologising, cf. Latin <i>arca</i> ‘box, coffer, pouch, coffin, ark’.
+* <span dir="rtl">תיבתא</span>, ‘box, chest’: 1 Sam 6:8, 11, 15. Possibly this rests on nothing but etymologising, cf. Latin <i>arca</i> ‘box, coffer, pouch, coffin, ark’.
 
 
 <b>d.  Vulgate (Vg):</b>  
 
-* <i>capsella</i>, ‘(little) box’, in all instances. Note that <i>capsella</i> is a diminutive form of <i>capsus</i>, ‘wagon-body’.
+* <i>capsella</i>, ‘(little) box’: 1 Sam 6:8, 11, 15. <i>Capsella</i> is a diminutive form of <i>capsus</i>, ‘wagon-body’.
 
 
 
