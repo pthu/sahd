@@ -7,7 +7,5 @@ Michaël N. van der Meer is Assistant Professor of Old Testament at Protestant T
 
 Webpage: <a href="https://independent.academia.edu/MichaëlNvanderMeer#tab-1" target="blank">independent.academia.edu/MichaëlNvanderMeer</a>.
 
-![michael van der meer](../images/photos/michael_vdmeer.jpg "Michaël N. van der Meer")  
+![michael van der meer](../images/photos/michaelvdmeer.jpg "Michaël N. van der Meer")  
 
-
- 

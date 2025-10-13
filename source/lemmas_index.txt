@@ -6,7 +6,7 @@
 אָדֹם : red : 2adom  
 אוּרִים וְתֻמִּים : Urim Thummim : 2urim_wthummim
 
-אָזֵן : equipment : 2azen
+
 
 אַמְתַּחַת : sack : 2amthachath
 
