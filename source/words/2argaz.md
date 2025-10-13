@@ -6,7 +6,7 @@ title:
 semantic_fields: utensils  
 contributors: eric_peels
 first_published: 2011-05-09   
-last_update: May 2025 (Marten van Dam)
+last_update: 2025-05-15  
 contributors_footnote:  
 additional_info: (WORK IN PROGRESS)
 
@@ -94,12 +94,12 @@ The rare references to <span dir="rtl">אַרְגַּז</span>  in the rabbinica
 
 <b>c. Targum (Tg):</b>  
 
-* <span dir="rtl">תיבתא</span>, ‘box, chest’: all instances. Possibly this rests on nothing but etymologising, cf. Latin <i>arca</i> ‘box, coffer, pouch, coffin, ark’.
+* <span dir="rtl">תיבתא</span>, ‘box, chest’: 1 Sam 6:8, 11, 15. Possibly this rests on nothing but etymologising, cf. Latin <i>arca</i> ‘box, coffer, pouch, coffin, ark’.
 
 
 <b>d.  Vulgate (Vg):</b>  
 
-* <i>capsella</i>, ‘(little) box’, in all instances. Note that <i>capsella</i> is a diminutive form of <i>capsus</i>, ‘wagon-body’.
+* <i>capsella</i>, ‘(little) box’: 1 Sam 6:8, 11, 15. <i>Capsella</i> is a diminutive form of <i>capsus</i>, ‘wagon-body’.
 
 
 

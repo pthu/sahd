@@ -2,12 +2,12 @@
 word_english: sack, donkey-pack  
 word_hebrew: אַמְתַּחַת  
 transcription: <i> ’amtàḥat </i>    
-title: 
-semantic_fields: transport
-contributors: eric_peels
+title:  
+semantic_fields: transport  
+contributors: eric_peels  
 first_published: 2011-03-24    
-last_update: 2025-05-30 (Marten van Dam)
-contributors_footnote: 
+last_update: 2025-05-30 (Marten van Dam)  
+contributors_footnote:  
 additional_info: (WORK IN PROGRESS)
 
 ---
@@ -21,7 +21,7 @@ Grammatical type: noun fem. <br>
 
 Occurrences:   15x HB (15/0/0); 0x Sir; 0x Qum; 0x Inscr.  (Total: 15)
 
-* Torah: Gen 42:27, Gen 42:28, Gen 43:12, Gen 43:18, Gen 43:21 (2x), Gen 43:22, Gen 43:23, Gen 44:1 (2x), Gen 44:2, Gen 44:8, Gen 44:11 (2x), Gen 44:12.
+* Torah: Gen 42:27, 28; 43:12, 18, 21 (2x), 22, 23; 44:1 (2x), 2, 8, 11 (2x), 12.
 
 Ketiv/ Qere: none.
 
@@ -35,12 +35,11 @@ More promising is the long-standing derivation from the Hebrew verb <span dir="r
 
 <b>A.2</b>
 <i>Akkadian.</i>
-<i>matāḫu</i>, ‘to carry, transport ... to pickup, lift’.[^5]
+<i>matāḫu</i>, ‘to carry, transport ... to pickup, lift’.[^4]
 
 <b>A.3</b>
 <i>Ugaritic.</i>
-Del Olmo Lete: ‘a measure of length (?)’.[^6] However,
-De Moor proposed to connect Ugaritic <i>mṯpdm</i> and <i>mtḥm</i> with Hebrew → <span dir="rtl">מִשְׁפְּּתַיִם</span> and <span dir="rtl"> אַמְתַּחַת</span> respectively in the sense of ‘donkey-packs’.[^7] In Ugaritic these words are used metaphorically in the sense of layered ‘stretches’ of geological formations.[^8]  
+<i>DULAT</i><sup>3</sup>, 591 s.v. <i>mtḥ</i>: ‘a measure of length (?)’. However, De Moor proposed to connect Ugaritic <i>mṯpdm</i> and <i>mtḥm</i> with Hebrew → <span dir="rtl">מִשְׁפְּּתַיִם</span> and <span dir="rtl"> אַמְתַּחַת</span>, respectively, in the sense of ‘donkey-packs’.[^7] In Ugaritic these words are used metaphorically in the sense of layered ‘stretches’ of geological formations.[^8]  
 
 
 <b>A.4</b>
@@ -55,11 +54,11 @@ Jastrow: ‘Peal to extend, stretch’;[^12]  <span dir="rtl">מִיתּוּחַ
 
 <b>A.6</b>
 <i>Samaritan Aramaic.</i>
-Tal: <span dir="rtl">מתח</span> ‘spreading out’.[^17] 
+<span dir="rtl">מתח</span> ‘spreading out’.[^17] 
 
 <b>A.7</b>
 <i>Syriac.</i>
-Payne Smith: <i>m<sup>e</sup>taḥ</i> Peal ‘to stretch out, extend, prolong’, <i>m<sup>e</sup>tāḥā</i> ‘stretching out’, etc.[^18]
+<i>m<sup>e</sup>taḥ</i>, Peal ‘to stretch out, extend, prolong’, <i>m<sup>e</sup>tāḥā</i> ‘stretching out’, etc.[^18]
 
 <b>A.8</b>
 <i>Classical Arabic.</i>
@@ -84,20 +83,17 @@ Geez <i>matḥa</i> ‘to be thin’.[^20]
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ): </b>    
 * μάρσιππος, ‘bag’, ‘pouch’:[^21] LXX all instances. 
 
+
 <b>b. Peshitta (Pesh):</b>  
 * <span dir="rtl">ܛܥܢܐ</span> (<i>ṭaʿnā</i>), ‘load, burden, package’: all instances.[^22]
 
 
-<b>c. Targum (Tg):</b>  
-* <span dir="rtl">טוּעַן</span>, ‘load, burden’: all instances in all the Targumim.
-
-
-<b>d. Samaritan Targum	 (Tg<small><sup>Smr</sup></small>):</b>  
-* <span dir="rtl">חדה</span>:[^23] all instances. The meaning of the Aramaic noun is disputed. Z. Ben Hayyim's suggestion that <span dir="rtl">חדה</span>
-derives from from <span dir="rtl">אחד</span>, ‘to hold, contain’, is better discarded.[^24]     
-CHECK:    
-Tal, A Dictionary of Samaritan Aramaic, 2 vols., Leiden: Brill, 2000 (2 versies: verschillende vertaingen?)   
-Abraham Tal, The Samaritan Targum of the Pentateuch
+<b>c. Targum (Tg):</b>
+  
+* <span dir="rtl">טוּעַן</span>, ‘load, burden’: all instances in all the Jewish Targumim.  
+* <span dir="rtl">טוען</span>, ‘carrying bag’:[^22a] most instances in Tg<small><sup>SmrA</sup></small>, but in Gen 43:18 <span dir="rtl">לות</span>,‘sack’,[^22b] and in 43:12 <span dir="rtl">עפיך</span>.[^22c]
+* <span dir="rtl">חדי</span>, ‘sack’:[^23] all instances in Tg<small><sup>SmrJ</sup></small>. The precise meaning of the Aramaic noun is disputed. Z. Ben Hayyim's suggestion that <span dir="rtl">חדה</span>
+derives from <span dir="rtl">אחד</span>, ‘to hold, contain’, is better discarded.[^24]   
 
 
 <b>e. Vulgate (Vg):</b>  
@@ -122,13 +118,13 @@ The use of <span dir="rtl"> אַמְתַּחַת</span> is confined to three cha
 In the scholarly literature there is discussion about the exact relation between the various terms used in Gen 42-43. In 42:25, 35 the money is put back into (<span dir="rtl">שׁוב</span>  Hi.) a <span dir="rtl">שַׂק</span>. 42:27 relates how Joseph's brother finds the money in the upper part of his <span dir="rtl"> אַמְתַּחַת</span> when he opens the <span dir="rtl">שַׂק</span>. In the parallel verses 43:18 and 43:21 it is stated that the money was put back (<span dir="rtl">שׁוב</span>  Hi.) into the <span dir="rtl"> אַמְתַּחַת</span>, c.q. that the brothers find the money when their <span dir="rtl"> אַמְתַּחַת</span> is opened. How should this variation be evaluated? Several attempts have been made to distinguish sharply between the terms <span dir="rtl"> אַמְתַּחַת</span>, <span dir="rtl">כְּלִי</span> and <span dir="rtl">שַׂק</span> in Gen 42-43.
 
 <b>A.3</b> 
-At a previous stage of research scholars tried to solve the problem with the help of literary criticism by attributing <span dir="rtl"> אַמְתַּחַת</span> to the Yahwist, and <span dir="rtl">שַׂק</span> to the Elohist.[^27] This necessitated taking 42:27-28 as a Yahwistic intrusion in the Elohistic chapter Gen 42.[^28] This solution fails to convince, mainly because of the parallel use of the two terms in 42:27.[^29] Rather than by invoking source criticism, the ostensible tension between 42:27, 42:35 and 43:21 can be resolved by paying attention to rhetorical strategy.[^30]
+At a previous stage of research scholars tried to solve the problem with the help of literary criticism by attributing <span dir="rtl"> אַמְתַּחַת</span> to the Yahwist, and <span dir="rtl">שַׂק</span> to the Elohist.[^25] This necessitated taking 42:27-28 as a Yahwistic intrusion in the Elohistic chapter Gen 42.[^26] This solution fails to convince, mainly because of the parallel use of the two terms in 42:27. The circumstance that the LXX reads μάρσιππος twice here must be attributed to harmonisation (so Westermann 1982, 118). Rather than by invoking source criticism, the ostensible tension between 42:27, 42:35 and 43:21 can be resolved by paying attention to rhetorical strategy.[^27]
 
 <b>A.4</b> 
-A totally different interpretation has been given by Jacob 2000. In his view <span dir="rtl">כְּלִי</span> in 42:25 and 43:11 specifically denotes the containers (‘Behältnisse’) in which the grain was stored, <span dir="rtl">שַׂק</span> in 42:25, 35 would relate exclusively to the fodder-sack (‘Futtersack’) for the donkeys, whereas <span dir="rtl"> אַמְתַּחַת</span> would denote the baggage/pack of the asses in general. In this manner it would be possible to delineate the semantic content of the three terms precisely. However, this proposal flounders on the circumstance that in 42:27 (see also 43:21)  <span dir="rtl">שַׂק</span> and <span dir="rtl"> אַמְתַּחַת</span> are obviously parallel concepts, as <span dir="rtl">כְּלִי</span> and <span dir="rtl"> אַמְתַּחַת</span> are in 42:25 and 44:1. Therefore it seems best to agree with Soggin 1997: Man beachte die drei verschiedenen Wörter für ‘Sack’: <i>k<sup>e</sup>lî</i>, wörtlich ‘Behälter [im allgemeinen]’, <i>śaq</i>, das übliche, und das seltene <i>ʾam<sup>e</sup>taẖat</i>. Dies weist nicht auf verschiedene Quellen hin, wie man glaubte, sondern auf den reichen Wortschatz des Erzählers.
+A totally different interpretation has been given by Jacob 2000. In his view <span dir="rtl">כְּלִי</span> in 42:25 and 43:11 specifically denotes the containers (‘Behältnisse’) in which the grain was stored, <span dir="rtl">שַׂק</span> in 42:25, 35 would relate exclusively to the fodder-sack (‘Futtersack’) for the donkeys, whereas <span dir="rtl"> אַמְתַּחַת</span> would denote the baggage/pack of the asses in general. In this manner it would be possible to delineate the semantic content of the three terms precisely. However, this proposal flounders on the circumstance that in 42:27 (see also 43:21)  <span dir="rtl">שַׂק</span> and <span dir="rtl"> אַמְתַּחַת</span> are obviously parallel concepts, as <span dir="rtl">כְּלִי</span> and <span dir="rtl"> אַמְתַּחַת</span> are in 42:25 and 44:1. Therefore it seems best to agree with Soggin 1997: ‘Man beachte die drei verschiedenen Wörter für ‘Sack’: <i>k<sup>e</sup>lî</i>, wörtlich ‘Behälter [im allgemeinen]’, <i>śaq</i>, das übliche, und das seltene <i>ʾam<sup>e</sup>taẖat</i>. Dies weist nicht auf verschiedene Quellen hin, wie man glaubte, sondern auf den reichen Wortschatz des Erzählers.’
 
 <b>A.5</b> 
-In the chapters under consideration we are dealing with a variation of idiom to describe the same objects: the sacks of grain or fodder which were attached to the pack animals.[^31] The medieval Jewish exegete Nahmanides describes the <span dir="rtl"> אַמְתַּחַת</span> as ‘a big sack (<span dir="rtl">גדול</span> <span dir="rtl">שׂק</span>) having two sides (<span dir="rtl">צדדין</span>) which in the language of the Talmud is called <span dir="rtl">מטראתא</span>’. The latter is a Greek loan word (μετρητής) which in this instance designates ‘a double sack’.[^32]
+In the chapters under consideration we are dealing with a variation of idiom to describe the same objects: the sacks of grain or fodder which were attached to the pack animals.[^28] The medieval Jewish exegete Nahmanides describes the <span dir="rtl"> אַמְתַּחַת</span> as ‘a big sack (<span dir="rtl">גדול</span> <span dir="rtl">שׂק</span>) having two sides (<span dir="rtl">צדדין</span>) which in the language of the Talmud is called <span dir="rtl">מטראתא</span>’. The latter is a Greek loan word (μετρητής) which in this instance designates ‘a double sack’.[^29]
 
 
 ### 6.2 Figurative Use
@@ -139,21 +135,18 @@ Not attested in Biblical Hebrew.
 
 ### 6.3 Pictorial Material
 
-<b>A.1</b> 
-A good drawing of the type of sack described above is found in Wilson[^33]:    
+<b>A.1</b>
+See the photographs in Avitzur and Bolen.[^30]
+A good drawing of the type of sack described above is found in Wilson 
+(lower right corner):[^31]:    
 
 ![2amthachath](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/amtjt-PPSE-2-24.jpg)
-
-
-<b>A.2</b> 
-See also the photographs in Avitzur and Bolen.[^34]
-
 
 
 ### 6.4 Archeology
 
 <b>A.1</b> 
-In Egypt grain was distributed in sacks.[^35] [Further text will be added later.]
+In Egypt grain was distributed in sacks (Kemp 1994). [Further text will be added later.]
 
 
 
@@ -161,7 +154,7 @@ In Egypt grain was distributed in sacks.[^35] [Further text will be added later.
 ## <span id="Con">7. Conclusion</span>
 
 <b>A.1</b>
-The <span dir="rtl"> אַמְתַּחַת</span> seems to be a sack for storing grain which was extended (<span dir="rtl">מתח</span>) like a piece of cloth and folded over the back of an ass by way of pack-saddle, hanging down both sides of the animal. Such saddles are also attested in Mesopotamian sources.[^36] At the ends the sack was tied shut.[^37] This explanation is supported by the context in which it balances <span dir="rtl">כְּלִי</span>  ‘container’, and  <span dir="rtl">שַׂק</span>  ‘sack’, and also by the etymological cognates of the word, by several renderings in the ancient versions and by the interpretation offered by the medieval exegete Nahmanides. Although its material is not specified in the Bible, there is reason to suppose it was woven from black goat's hair.[^38] Exactly such a double sack made of goat's hair was used for the transport of grain on donkeys in Mesopotamia. It was called a <i>patnu</i> or <i>zurzu</i> there.[^39] Probably the <span dir="rtl"> אַמְתַּחַת</span> did not differ greatly from the <a href=https://sahd-online.com/words/mishpthayim/ target="_blank">→ <span dir="rtl">מִשְׁפְּּתַיִם</a></span> and <a href=https://sahd-online.com/words/mishpthayim/ target="_blank">→ <span dir="rtl">שְׁפַתַּיִם</a></span>.
+The <span dir="rtl"> אַמְתַּחַת</span> seems to be a sack for storing grain which was extended (<span dir="rtl">מתח</span>) like a piece of cloth and folded over the back of an ass by way of pack-saddle, hanging down both sides of the animal. Such saddles are also attested in Mesopotamian sources.[^32] At the ends the sack was tied shut.[^33] This explanation is supported by the context in which it balances <span dir="rtl">כְּלִי</span>  ‘container’, and  <span dir="rtl">שַׂק</span>  ‘sack’, and also by the etymological cognates of the word, by several renderings in the ancient versions and by the interpretation offered by the medieval exegete Nahmanides. Although its material is not specified in the Bible, there is reason to suppose it was woven from black goat's hair.[^34] Exactly such a double sack made of goat's hair was used for the transport of grain on donkeys in Mesopotamia. It was called a <i>patnu</i> or <i>zurzu</i> there.[^35] Probably the <span dir="rtl"> אַמְתַּחַת</span> did not differ greatly from the <a href=https://sahd-online.com/words/mishpthayim/ target="_blank">→ <span dir="rtl">מִשְׁפְּּתַיִם</a></span> and <a href=https://sahd-online.com/words/mishpthayim/ target="_blank">→ <span dir="rtl">שְׁפַתַּיִם</a></span>.
 
 
 ## Bibliography
@@ -251,7 +244,7 @@ B. Jacob, <i>Das Buch Genesis</i>, Stuttgart <sup>2</sup>2000, 772-3 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Keil 1866<br>
-C.F. Keil, <i>Genesis</i> (BCAT), Leipzig <sup>2</sup>1866, 270 </div>
+C.F. Keil, <i>Genesis</i> (BCAT), Leipzig <sup>2</sup>1866. </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Kemp 1994<br>
@@ -306,9 +299,7 @@ G.B. Winer, <i>Lexicon manuale hebraicum et chaldaicum in Veteris Testamenti Lib
 [^1]: So Bacher 1885.
 [^2]: cf. <i>CAD</i> M/1, 403-4.
 [^3]: <i>HAHAT</i>, 79.
-
-[^5]: <i>CAD</i> M/1, 403-5.
-[^6]: Del Olmo Lete, Sanmartín, <i>DULAT</i>, vol. 2, 599.
+[^4]: <i>CAD</i> M/1, 403-5.
 [^7]: De Moor 1981 and 1985.
 [^8]: See also De Hoop 1999.
 [^9]: Levy, <i>WTM</i>, Bd. 3, 295.
@@ -325,19 +316,20 @@ G.B. Winer, <i>Lexicon manuale hebraicum et chaldaicum in Veteris Testamenti Lib
 [^20]: Leslau, <i>CDG</i>, 371.
 [^21]: <i>GELS</i>, 441; LSJ, 1081.
 [^22]: Payne Smith, <i>CSD</i>, 180. Sokoloff, <i>SLB</i>, 544: ‘sack’ in Gen 43:21.
-[^23]: Tal, <i>DSA</i>, 320.
+[^22a]: Tal, <i>DSA</i>, 320.
+[^22b]: Tal, <i>DSA</i>, 431.
+[^22c]: Tal, <i>DSA</i>, 651.
+[^23]: Tal, <i>DSA</i>, 248.
 [^24]: Greenfield 1965, 90, n. 2: ‘The Samaritan Targum's עדאה for אמתחת is difficult. Prof. Z. Ben-Hayyim has suggested to me orally that this word is from אחד "to hold, contain״ and עדאה means "container".’
-[^25]: cf. <i>TWAT</i>, Bd. 7, 851.
+[^25]: cf. <i>ThWAT</i>, vol. 7, 851.
 [^26]: So e.g. Schwally 1891; Gunkel 1902; Skinner 1930.
-[^27]: The circumstance that the LXX reads μάρσιππος twice here must be attributed to harmonisation; so Westermann 1982, 118.
-[^28]: See, for example, Westermann 1982, 118-9; Sternberg 1985; Alter 1981.
-[^29]: So already Keil 1866 and Dalman, <i>AuS</i>, Bd 3, 198; Bd. 7, 246.
-[^30]: cf. Cohen 1999; Sokolof, <i>DJBA</i>, 661.
-[^31]: Wilson, <i>PPSE</i>, vol. 2, 24, lower right corner.
-[^32]: Avitzur, 189-91 and Bolen, <i>PLBL</i>, tb060503203.
-[^33]: Kemp 1994.
-[^34]: Dercksen 2009, 92.
-[^35]: cf. Elliger 1978; see also Bacher 1891: ‘<span dir="rtl"> אַמְתַּחַת</span>, der Sack, der nur so gefüllt oder geleert werden kann, indem man ihn zieht, ausdehnt’.
-[^36]: Dalman, <i>AuS</i>, Bd. 3, 198.
-[^37]: cf. Salonen, <i>Hausgeräte</i>, Bd. 1, 188-90; Veenhof 1972, 8.
+[^27]: See, for example, Westermann 1982, 118-19; Sternberg 1985; Alter 1981.
+[^28]: So already Keil 1866, 270; Dalman, <i>AuS</i>, Bd 3, 198; Bd. 7, 246.
+[^29]: Cf. Cohen 1999; Sokoloff, <i>DJBA</i>, 661.
+[^30]: Avitzur, 189-91, and Bolen, <i>PLBL</i>, tb060503203.
+[^31]: Wilson, <i>PPSE</i>, vol. 2, 24.
+[^32]: Dercksen 2009, 92.
+[^33]: Cf. Elliger 1978; see also Bacher 1891: ‘<span dir="rtl"> אַמְתַּחַת</span>, der Sack, der nur so gefüllt oder geleert werden kann, indem man ihn zieht, ausdehnt’.
+[^34]: Dalman, <i>AuS</i>, Bd. 3, 198.
+[^35]: Cf. Salonen, <i>Hausgeräte</i>, Bd. 1, 188-90; Veenhof 1972, 8.
 

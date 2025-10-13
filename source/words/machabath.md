@@ -6,8 +6,10 @@ title:
 semantic_fields: utensils   
 contributors: m.d._koster   
 first_published: 2014-06-28   
-last_update: May 2025-05 (Marten van Dam)
-additional_info: (WORK IN PROGRESS)
+last_update: 2025-10-10  
+additional_info: (WORK IN PROGRESS)  
+
+ 
 ---
 
 
@@ -16,9 +18,9 @@ additional_info: (WORK IN PROGRESS)
 Grammatical type: noun fem. <br>
 Occurrences: 5x HB (3/1/1); 0x Sir; 0x Qum; 0x Inscr.  (Total: 5)
 
-* Torah: Lev 2:5; 6:14; 7:9
-* Nebiim: Ezek 4:3
-* Ketubim: 1 Chron 23:29
+* Torah: Lev 2:5; 6:14; 7:9;
+* Nebiim: Ezek 4:3;
+* Ketubim: 1 Chron 23:29.
 
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
@@ -53,7 +55,7 @@ Pfanne oder Tiegel wären also wohl die richtigen
 
 ## 2. Formal Characteristics
 
-<b>A.1</b>  
+<b>A.1</b> 
 [Discussion will be added later.]
 
 
@@ -68,7 +70,7 @@ Pfanne oder Tiegel wären also wohl die richtigen
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
-* τήγανον ‘frying-pan’: all instances, also for <span dir="rtl">חֲבִתִּים</span> in 1 Chron 9:31.[^12] The same word describes a fairly large instrument of torture by heat in 2 Macc 7:3, cf. the derivative verb in 2 Macc 7:5. In 2 Sam 13:9 τήγανον is the rendering of → <span dir="rtl">מַשְׂרֵת</span>, a baking-pan.
+* τήγανον ‘frying-pan’:[^12] all instances, also for <span dir="rtl">חֲבִתִּים</span> in 1 Chron 9:31. The same word describes a fairly large instrument of torture by heat in 2 Macc 7:3, cf. the derivative verb in 2 Macc 7:5. In 2 Sam 13:9 τήγανον is the rendering of → <span dir="rtl">מַשְׂרֵת</span>, a baking-pan.
 
 <b>b.  Peshitta (Pesh):</b>  
 
@@ -201,6 +203,11 @@ In scholarly works one often finds references  to the Arabic <i>ṣāǧ</i>, a c
 At least in the case of Ezek 4:3 
 (where it is of iron, see <a href="#Fig">6.2 Figurative Use</a>) it seems to have had a rectangular shape, not unlike modern flat griddles, though the heating will have been far less sophisticated in Antiquity.
 
+![](../photos/wafer-thin_bread.jpg)
+
+Baking wafer-thin bread on a round iron  griddle in Oman   
+(photo Janny de Moor).
+
 <b>A.4</b>
 There is archaeological evidence for ceramic baking-plates, but Ezek 4:3 proves that also iron griddles were in use.  ‘It may be of iron in every 
 instance, as in Ezek iv,3, but the purpose would 
@@ -308,21 +315,17 @@ W. Zimmerli, <i>Ezechiel</i> (BK 13/1), Neukirchen 1969.</div>
 [^2]: Leslau, <i>CDG</i>, 257.
 [^3]: Suggested by Lewy, <i>WTM</i>,Bd. 2, 13.
 [^4]: Thus already Gesenius & Roediger, <i>TPC</i>, 444a.
-[^5]: Lane,<i></i>AEL</i>, 496-7;
-Kazimirski, <i>DAF</i>, 363-4;
-Dozy, <i>SDA</i>, 239-242.
+[^5]: Lane,<i></i>AEL</i>, 496-7; Kazimirski, <i>DAF</i>, 363-4; Dozy, <i>SDA</i>, 239-242.
 [^6]: Kazimirski, <i>DAF</i>, 364.
 [^7]: Barthélemy, <i>DAFA</i>, 141.
 [^8]: Cf. Dalman, <i>AuS</i>, Bd. 4, 42.
 [^9]: See also <i>AuS</i>, Bd. 7, 211; Forbes, <i>SAT</i>, vol. 6, 63.
 [^10]: Men. XI.3; Mid. I.4, cf. Tam. I.3 - <i>AuS</i>, Bd. 4, 42, cf. 66.
-[^11]: Men. V.8, Sifra, 11a, cf. Ezek
-4:3! - <i>AuS</i>, Bd. 4, 42.
-[^12]: See e.g. <i>GELS-L</i>, 474b; <i>GELS-M</i>, 678a.
+[^11]: Men. V.8, Sifra, 11a, cf. Ezek 4:3! - <i>AuS</i>, Bd. 4, 42.
+[^12]: <i>GELS</i>, 678a.
 [^13]: Brockelmann, <i>LS</i>, 268.
 [^14]: Payne Smith, <i>TS</i>, 1431.
-[^15]: Payne Smith (Margoliouth), <i>CSD</i>, 
-167b.
+[^15]: Payne Smith (Margoliouth), <i>CSD</i>, 167b.
 [^16]: Jastrow,  <i>DTT</i>, 812a.
 [^17]: Dalman, <i>ANHT</i>, 244b.
 [^18]: Lewis & Short, <i>LD</i>, 1632.

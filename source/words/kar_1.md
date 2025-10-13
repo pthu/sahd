@@ -4,10 +4,10 @@ word_hebrew: כַּר
 transcription: <i>kar</i>    
 title: 
 semantic_fields: utensils, transport
-contributors: eric_peels 
+contributors: eric_peels  
 first_published: 2011-05-10  
-last_update: May 2025 (Marten van Dam)   
-contributors_footnote: 
+last_update: 2025-05-15    
+contributors_footnote:  
 additional_info: (WORK IN PROGRESS)
 
  
@@ -20,54 +20,54 @@ additional_info: (WORK IN PROGRESS)
 Grammatical type: noun masc.   
 Occurrences:   1x HB (1/0/0); 0x Sir; 0x Qum; 0x Inscr.  (Total: 1)
 
-* Torah: Gen 31:34
+* Torah: Gen 31:34.
 
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
 <b>A.1</b> 
-<i>Root.</i> 
+<i>Root:</i> 
 Klein: ‘saddle ... <span style="text-transform:uppercase;">pbh</span> [= Postbiblical Hebrew] bolster, pillow’ ... related to Aram. <span dir="rtl">כַּר</span>, <span dir="rtl">כָּרָא</span> (= bolster, pillow), Arab. <i>kūr</i> (= camel saddle), <i>karr</i> (= mat).’[^1]
 
 <b>A.2</b>
-<i>Egyptian.</i>
+<i>Egyptian:</i>
 The word occurs as a West-Semitic loan in Egyptian, as a designation of a donkey saddle.
 
 
 
 <b>A.3</b>
-<i>Akkadian.</i>
+<i>Akkadian:</i>
 <i>karru</i> (a word for throne).[^3] Possibly it is simply a <i>pars pro toto</i> use of the word <i>karru</i> A, ‘knob, pommel’, a costly ornament of chairs for dignitaries.[^4]
 
 <b>A.4</b> 
-<i>Postbiblical Hebrew.</i>
+<i>Postbiblical Hebrew:</i>
 <span dir="rtl">כַּר</span>, ‘bolster, mattress’.[^5]
 
 <b>A.5</b> 
-<i>Jewish Aramaic.</i>
+<i>Jewish Aramaic:</i>
 <span dir="rtl">כַּר</span>, <span dir="rtl">כָּרָא</span>, ‘bolster, mattress’.[^6]
 
 <b>A.6</b> 
-<i>Samaritan Aramaic.</i>
+<i>Samaritan Aramaic:</i>
 <span dir="rtl">כר</span>,  ‘saddle’.[^7]
 
 <b>A.7</b> 
-<i>Syriac.</i>
+<i>Syriac:</i>
 <i>kārtā</i>, ‘a burden for the back, a load’;[^8]
 ‘sarcina ... onus’;[^9]
 ‘bundle, pack, load’.[^10]
 
 <b>A.8</b> 
-<i>Classical Arabic.</i>
+<i>Classical Arabic:</i>
 <i>kūr</i> ‘camel saddle’, <i>kūrat</i> ‘bundle of clothes’.[^11]
 
 
 <b>A.9</b> 
-<i>Ethiopic.</i>
+<i>Ethiopic:</i>
 In several Ethiopic dialects <i>kor</i> ‘saddle’ occurs, but this is regarded as an Arabic loanword.[^12]
 
 <b>A.10</b> 
-<i>Judaic Sources.</i>
+<i>Judaic Sources:</i>
 The <span dir="rtl">כר</span> was obviously a mattress or bolster according to the rabbis.[^13]
 
 ## 2. Formal Characteristics
@@ -85,23 +85,21 @@ The <span dir="rtl">כר</span> was obviously a mattress or bolster according to
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ):</b>  
 
-* LXX σάγμα ‘pack-saddle’.[^14]
+* LXX σάγμα ‘saddle-bag’.[^14]
 
-<b>b.  Samaritan Targum	 (Tg<small><sup>Smr</sup></small>):</b>   
-
-* <span dir="rtl">כר</span> ‘saddle’.[^15]
-
-
-<b>c. Targum (Tg):</b>  
-
-* All targumim have <span dir="rtl">עביטא</span> ‘sumpter saddle’;[^16] Levy, <i>CWT</i>, ‘Kamelsattel, Kamelzelt, ein kleines Zeltchen, welches auf den Rücken der Kamele angeschnallt wird u. in welchem die Frauen sitzen’[^17], but Levy, <i>WTM</i>, simply ‘Sattel’;[^18] Dalman: ‘Kamelsattel’;[^19] Sokoloff: ‘basket saddle of a camel’.[^20]
-
-<b>d. Peshitta (Pesh):</b>  
+<b>c. Peshitta (Pesh):</b>  
 
 * <i>ʿabīṭā</i>, Payne Smith: ‘a camel's saddle for women tented over with a framework’;[^21] 
 Brockelmann: ‘clitellae (cameli)’ (= camel's sumpter-saddle).[^22]
 
-<b>e. Vulgate (Vg):</b>  
+
+<b>c. Targum (Tg):</b>  
+
+* All the Jewish targumim have <span dir="rtl">עביטא</span> ‘sumpter saddle’;[^16] Levy, <i>CWT</i>, ‘Kamelsattel, Kamelzelt, ein kleines Zeltchen, welches auf den Rücken der Kamele angeschnallt wird u. in welchem die Frauen sitzen’[^17], but Levy, <i>WTM</i>, simply ‘Sattel’;[^18] Dalman: ‘Kamelsattel’;[^19] Sokoloff: ‘basket saddle of a camel’.[^20]
+* Samaritan Targum	 (Tg<small><sup>Smr</sup></small>): <span dir="rtl">כר</span> ‘saddle’.[^15]
+
+
+<b>d. Vulgate (Vg):</b>  
 
 * <i>stramen</i> ‘litter’.
 
@@ -262,7 +260,7 @@ Wilson, <i>PPSE</i>, vol. 4, 153.</div>
 [^11]: Lane, <i>AEL</i>, 2637; <i>WKAS</i> (K), 429.
 [^12]: Leslau, <i>CDG</i>, 289.
 [^13]: cf. Krauss, <i>TA</i>, Bd. 1, 64; Bd. 2, 123.
-[^14]: Lust <i>et al.</i>, <i>GELS-L</i>, 421; LSJ, 1580.
+[^14]: <i>GELS</i>, 616.
 [^15]: Tal, <i>DSA</i>, 407.
 [^16]: Jastrow, <i>DTT</i>, 1037.
 [^17]: Levy, <i>CWT</i>, 197.
