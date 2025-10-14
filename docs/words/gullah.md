@@ -62,14 +62,13 @@ Probably Sanskrit <i>gôlas</i>, ‘a waterpot’, Greek γαυλός ‘milk-pa
 
 </a><b>A.9</b> 
 <i>Rabbinical Literature:</i>
-In LevR 32.8 the occurrence of <span dir="rtl">גּוּלָה</span> in the meaning of ‘cup, bowl’ is a quotation from Zech 4:2.
+The word <span dir="rtl">גּוּלָה</span> in the meaning of ‘cup, bowl’ occurs only in LevR 32.8 in a quotation from Zech 4:2.
 
 
 ## 2. Formal Characteristics
 
 <b>A.1</b>
-[Discussion will be added later.]
-
+The lexeme <span dir="rtl">גֻּלָּה</span> is a feminine <i>qull</i> form from the root <span dir="rtl">גלל</span>; see BL 455, §61gʹ; cf. <i>HALOT</i>, 192 (with question mark). The <i>mappiq</i> in the letter <span dir="rtl">ה</span> in Zech 4:2 is a pointing error (BL 598, §74hʹ). Steudel <i>et al.</i>(2018:35) refer to the lexeme as <i>qutl-at</i>. 
 
 
 ## 3. Syntagmatics
@@ -86,10 +85,10 @@ In LevR 32.8 the occurrence of <span dir="rtl">גּוּלָה</span> in the mean
 * στρεπτός, ‘twisted’, here ‘wreathed decorative work on the capital of a column’: 1 Kgs 7:41-42 (LXX 7:27-28); 
 * λαμπαδεῖον, ‘bowl (of a lamp)’: Zech 4:2-3; 
 * ἀνθέμιον, ‘small flower’: Qoh 12:6;  
-* γωλαθ, ‘ball, small globe’: 2 Chron 4:12-13.<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup> CHECK: STAAT NIET IN GELS.
+* γωλαθ, ‘ball, small globe’: 2 Chron 4:12-13.<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup>
+Some mss read τὰς βάσεις.<sup id="fnref:15a"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15a')">15a</a></sup>
 
 In Qoh. 12:6 α´ has λύτρωσις, probably representing <span dir="rtl">גְּאֻלָה</span>;  σ´ περιφερὴς, ‘round shape’; θ´ χελώνη, ‘tortoise-shell’.<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup>
-VERWIJZING NAAR FIELD ERBIJ?
 
 <b>b.  Peshitta (Pesh):</b><sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup>  
 
@@ -219,6 +218,10 @@ R. Gordis, </i>Koheleth: The Man and his World: A Study of Ecclesiastes</i>, New
 
 <i>HWAT</i>, 123: ‘1)  Schale a) für Öl ... b) als architekton. Bezeichnung: Kugel des Kapitäls ... 2) Quelle’ <br>
 
+<div style="padding-left: 22px; text-indent: -22px;">
+Kahle 1902 <br>
+Paul Kahle, <i>Der masoretische Text des Alten Testaments nach der Überlieferung der babylonischen Juden</i>, Leipzig: Hinrichs'sche Buchhandlung. </div>
+
 <i>KBL</i>, 183: ‘Becken; wagrechte Scheiben (Becken) an Säulen’ and sv. <span dir="rtl">גֻּלּׂת</span>, 186: place name <br>
 
 <i>LHA</i>, 152: ‘res pilae seu sphaerae figuram habens ... 1) receptaculum olei in lampade pretiosa, ampulla Zch 4  2 (lgd. <span dir="rtl">גֻּלָּה</span>) s. Ec 12  6 2) ornamentum quoddam capitellorum columnarum, prob. sphaerale’ <br>
@@ -237,20 +240,28 @@ R. North, ‘Zechariah’s Seven-Spout Lampstand’, <i>Bib</i> 51 (1970), 183-2
 Petersen 1984<br>
 D.L. Petersen, <i>Haggai and Zechariah 1-8: A Commentary</i> (OTL), London 1984, 220-1 </div>
 
+<div style="padding-left: 22px; text-indent: -22px;">
 Salonen, <i>Hausgeräte</i>, vol. 2, 96-7 <br>
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Steudel <i>et al.</i> 2018<br> 
+Annette Steudel, Reinhard G. Kratz, Ingo Kottsieper, <i>Hebräisches und aramäisches Wörterbuch zu den Texten
+vom Toten Meer: Einschließlich der Manuskripte aus der Kairoer Geniza</i>, Volume 2 ז--ג, Göttingen: Walter de Gruyter.</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Seow 1997 <br>
 C.-L. Seow, <i>Ecclesiastes: A New Translation with Introduction and Commentary</i> (AncB, 18C), New York 1997, 381 </div>
 
-Loewenstamm & Blau, <i>TLB</i>, vol. 2, 228: ‘1. Basin on top of chandelier, apparently round vessel containing oil (Zech. 4,2); so also perhaps ... in Eccl. 12,6; but according to another view, the word there means the chandelier itself. 2. Part of capitals of the pillars Yachin and Boaz (1 K. 7,451), possibly a kind of circular basin round the top of a pillar’ <br>
+<div style="padding-left: 22px; text-indent: -22px;">
+Loewenstamm & Blau, <i>TLB</i>, vol. 2, 228: ‘1. Basin on top of chandelier, apparently round vessel containing oil (Zech. 4,2); so also perhaps ... in Eccl. 12,6; but according to another view, the word there means the chandelier itself. 2. Part of capitals of the pillars Yachin and Boaz (1 K. 7,451), possibly a kind of circular basin round the top of a pillar’</div>
 
-Gesenius & Roediger, <i>TPC</i>, 288: ‘lampas aurea’ <br>
+<div style="padding-left: 22px; text-indent: -22px;">
+Gesenius & Roediger, <i>TPC</i>, 288: ‘lampas aurea’ </div>
 
-Guichard, <i>VLRM</i>, 189-93, 234-5.
+<div style="padding-left: 22px; text-indent: -22px;">
+Guichard, <i>VLRM</i>, 189-93, 234-5.</div>
 	
-
-
 
 	
 
@@ -263,22 +274,23 @@ Guichard, <i>VLRM</i>, 189-93, 234-5.
 [^7]: Leslau, <i>CAmhD</i>, 204.
 [^8]: <i>LSJ</i>,  339,  Suppl. 33.
 [^9]: <i>LD</i>, 803.
-[^10]: cf. Lewy <i>SFG</i>, 150-1; Brown 1995.
+[^10]: Cf. Lewy <i>SFG</i>, 150-1; Brown 1995.
 [^11]: The translations of the Greek are based on <i>GELS</i>.
-[^15]: <i>GELS-L</i>, 94.
+[^15]: <i>GELS-L</i>, 94. Interestingly, the spelling <i>golat</i> occurs in at least one Hebrew manuscript with Babylonian vowels; see Kahle 1902:71. 
+[^15a]: See the Brooke McLean edition, vol. II, 482, and esp. Hanhart, Göttingen edition, 146.
 [^16]: See also Muraoka, <i>GHTIS</i>, 175.
 [^17]: The translations of the Syriac are based on Sokoloff, <i>SLB</i>.
 [^19]: Busink, 315-7; Fritz 1992.
 [^20]: De Moor 1995, esp. 16-7; 1997, 356-8; 1998, 200-1.
 [^21]: Busink, Pl. 52, opposite p. 174.
-[^22]: cf. North 1970; Petersen 1984; → <span dir="rtl">מְנֹרָה</span>.
-[^23]: contrast e.g. Kelso, <i>CVOT</i>, §38; Gordis 1968.
+[^22]: Cf. North 1970; Petersen 1984; → <span dir="rtl">מְנֹרָה</span>.
+[^23]: Contrast, e.g., Kelso, <i>CVOT</i>, §38; Gordis 1968.
 [^24]: Seow 1997.
 [^25]: <i>CAD</i> D, 66; <i>CAD</i> Š/2, 321; Maxwell-Hyslop 1971; Exod 28:14, 22; 39:3: Judg 8:26.
 [^26]: Gen 24; <i>KTU</i> 1.16:I.50-51.
 [^27]: Qoh 12:3; cf. Exod 11:5; Isa 47:2; Mt 24:41 par.; Curtis, <i>AFT</i>, 115.
-[^28]: e.g. Gesenius & Roediger, <i>TPC</i>, 288.
-[^29]: See e.g. <i>PLBL</i>, vol. 2, Benjamin, Gibeon pool (72-30tb.jpg); vol. 4, En Gedi, Nahal Arugat pool (df 022702.jpg).
+[^28]: E.g., Gesenius & Roediger, <i>TPC</i>, 288.
+[^29]: See, e.g., <i>PLBL</i>, vol. 2, Benjamin, Gibeon pool (72-30tb.jpg); vol. 4, En Gedi, Nahal Arugat pool (df 022702.jpg).
 [^30]: See North 1970; <i>BRL</i><sup>2</sup>, 200.
 
 

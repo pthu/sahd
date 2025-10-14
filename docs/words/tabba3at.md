@@ -10,7 +10,7 @@
 Semantic Fields:
 [Cult](../semantic_fields/cult.md)&nbsp;&nbsp;&nbsp;[Kingship](../semantic_fields/kingship.md)&nbsp;&nbsp;&nbsp;[Metals](../semantic_fields/metals.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Marjo Korpel](../contributors/marjo_korpel.md)<br>
-First published: 2011-10-28<br>Last update: 2025-10-10 <br>Citation: Marjo Korpel, טַבַּעַת <i>ṭabbàʿat</i> – ring, signet ring, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2025)
+First published: 2011-10-28<br>Last update: 2025-10-1 <br>Citation: Marjo Korpel, טַבַּעַת <i>ṭabbàʿat</i> – ring, signet ring, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2025)
 (WORK IN PROGRESS)
 
 
@@ -20,13 +20,12 @@ First published: 2011-10-28<br>Last update: 2025-10-10 <br>Citation: Marjo Korpe
 
 Grammatical type: noun fem. 
 
-Occurrences: 50x HB (41/1/6); 0x Sir; 0x Qum; 0x Inscr. (Total: 48)
+Occurrences: 49x HB (42/1/6); 0x Sir; 2x Qum; 0x Inscr. (Total: 51)
 
-VOLGENS MARJO ZIJN ER 43 GEVALLEN IN DE THORA, VOLGENS LOGOS 41. HIERONDER STAAN DUS 41 GEVALLEN: MAAKT EEN TOTAAL VAN 48 I.P.V. 50:
-
-* Torah: Gen 41:42; Exod 25:12 (3x), 14, 15, 26 (2x), 27; 26:24, 29; 27:4, 7; 28:23 (2x), 24, 26, 27, 28; 30:4, 35:22; 36:29, 34; 37:3 (3x), 5, 13 (2x), 14, 27; 38:5, 7: 39:16 (2x), 17, 19, 20, 21 (2x); Num 31:50;
+* Torah: Gen 41:42; Exod 25:12 (3x), 14, 15, 26 (2x), 27; 26:24, 29; 27:4, 7; 28:23 (2x), 24, 26, 27, 28 (2x); 30:4, 35:22; 36:29, 34; 37:3 (3x), 5, 13 (2x), 14, 27; 38:5, 7: 39:16 (2x), 17, 19, 20, 21 (2x); Num 31:50;
 * Nebiim: Isa 3:21;
-* Ketubim: Est 3:10, 12; 8:2, 8 (2x), 10.
+* Ketubim: Est 3:10, 12; 8:2, 8 (2x), 10;
+* Qumran: 11Q19 (11QTemple<small><sup>a</sup></small>) xxxiv:6 (2x).
 
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
@@ -84,7 +83,7 @@ Cf. Geez with metathesis: <i>ʿataba</i> ‘to seal, make the sign of the cross�
 
 <a id="RL"></a><b>A.11</b> 
 <i>Rabbinical Literature.</i>
-According to 11Q19<sup>a</sup> [11QTemple] XXXIV.6 young bulls are tied to apparently sturdy rings. <br>
+According to 11Q19<sup>a</sup> (11QTemple<small><sup>a</sup></small>) xxxiv:6 young bulls are tied to apparently sturdy rings. <br>
 In rabbinic Hebrew the word <span dir="rtl">טבעת</span> keeps the same meaning as in Biblical Hebrew, but could also metaphorically designate the anus.<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup> <br>
 In mSoṭ. 1:6 a woman is described as wearing ornaments of gold and chains of gold
 and nose rings and finger rings (<i>ṭabbaʿat</i>). In mKel. 11:8, the
@@ -97,9 +96,7 @@ mShab. 6:1, 3 it is declared that a woman may not go out bearing a ring, whether
 
 ## 2. Formal Characteristics
 
-<b>A.1</b>  
-[Discussion will be added later.]
-
+<b>A.1</b> Feminine word with the <i>qattalat</i> form; see BL 476-77, §61yβ-aγ.
 
 
 ## 3. Syntagmatics
@@ -114,24 +111,26 @@ mShab. 6:1, 3 it is declared that a woman may not go out bearing a ring, whether
 
 * If translated,  it was rendered as δακτύλιος ‘signet-ring’, ‘finger-ring’.<sup id="fnref:13"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:13')">13</a></sup>
 
-<b>b. Samaritan Targum (Tg<small><sup>Smr</sup></small>):</b>  
-Renders invariably by <i>ʿsqh</i> ‘ring’.<sup id="fnref:14"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:14')">14</a></sup>
 
-<b>c.  Peshitta (Pesh):</b>  
+<b>b.  Peshitta (Pesh):</b>  
 
-* The Peshiṭta does not make use of the obvious Syriac cognate <i>ṭbʿʾ</i> (see <a href="#Syr">Root and Comparative Material, A.7 Syriac</a>). It distinguishes between <i>ʿzqtʾ</i> ‘ring, signet-ring’  (Gen 41:42; Exod 35:22; Num 31:50<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup>) worn on a finger, <i>zqzqtʾ</i> ‘a ring to hold a bar or staff for carrying’ (Exod. 25:12, etc.<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup>) or to link the breast-piece of the chief priest to the ephod (Exod. 39:16, etc.), but for the latter also <i>qwrqsʾ</i> ‘ring, clasp, buckle’<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> could be used (Exod 28:23, 24, 27, etc.). 
+* The Peshitta does not make use of the obvious Syriac cognate <i>ṭbʿʾ</i> (see <a href="#Syr">Root and Comparative Material, A.7 Syriac</a>). It distinguishes between <i>ʿzqtʾ</i> ‘ring, signet-ring’  (Gen 41:42; Exod 35:22; Num 31:50<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup>) worn on a finger, <i>zqzqtʾ</i> ‘a ring to hold a bar or staff for carrying’ (Exod. 25:12, etc.<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup>) or to link the breast-piece of the chief priest to the ephod (Exod. 39:16, etc.), but for the latter also <i>qwrqsʾ</i> ‘ring, clasp, buckle’<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> could be used (Exod 28:23, 24, 27, etc.). 
 
 
-<b>d. Targum (Tg):</b>  
+<b>c. Targum (Tg):</b>  
 
 * The rabbinic Targumim always translate <span dir="rtl">טַבַּעַת</span> by <span dir="rtl">עזקתא</span> ‘ring’.
+* The Samaritan Targum (Tg<small><sup>Smr</sup></small>):</b>  
+Renders invariably by <i>ʿsqh</i> ‘ring’.<sup id="fnref:14"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:14')">14</a></sup>
 
 
-<b>e.  Vulgate (Vg):</b>  
+<b>d.  Vulgate (Vg):</b>  
 
 * In the texts were a real (signet) ring is meant it is translated
 <i>anulus</i>, in the texts about the tabernacle it is rendered as
 <i>circulus</i>.
+
+
 
 ## 5. Lexical/Semantic Fields
 
@@ -210,7 +209,7 @@ Nice example of a woman’s signet ring: Deutsch 2003.<sup id="fnref:22"><a href
 ## 7. Conclusion
 
 <b>A.1</b>
-In contrast to the more general term <a href=http://otw-site.eu/wp-content/uploads/2017/07/jwtm.pdf target="_blank">→ <span dir="rtl">חֹותָם/חֹתֶמֶת</span></a> the word <span dir="rtl">טַבַּעַת</span> specifically refers to a ring, either the signet ring, or a more sturdy type which could hold carrying poles or restrain young bulls. Only the Peshiṭta tries to differentiate between these types. Even though it may be an old loan word from Egyptian, it is attested only in late Biblical Hebrew. 
+In contrast to the more general term <a href=http://otw-site.eu/wp-content/uploads/2017/07/jwtm.pdf target="_blank">→ <span dir="rtl">חֹותָם/חֹתֶמֶת</span></a> the word <span dir="rtl">טַבַּעַת</span> specifically refers to a ring, either the signet ring, or a more sturdy type which could hold carrying poles or restrain young bulls. Only the Peshitta tries to differentiate between these types. Even though it may be an old loan word from Egyptian, it is attested only in late Biblical Hebrew. 
 
 <b>A.2</b>
 Several times <span dir="rtl">טַבַּעַת</span> is used to designate a king’s signet ring (Gen 41:42; Est 3:12; 8:2, 8, 10), but also ordinary people, men and women, could wear a <span dir="rtl">טַבַּעַת</span> (Exod 35:22; Num 31:40) though the contextgives no clue as to its use, both a simple ring to enhance one’s beauty (so possibly Isa 3:21)  as well as a signet ring
@@ -269,23 +268,23 @@ H. Wildberger, <i>Jesaja</i>, Bd. 1: Jesaja 1-12 (BK, 10/1), Neukirchen-Vluyn 19
 [^1]: Leslau, CDG, 267-8, 297-8, 785.
 [^2]: Lambdin 1953, 151;
 Schott 1957, 178-81; Ellenbogen, <i>FWOT</i>, 75; Boochs 1982, 107-124; Keel 1990, 87.
-[^3]: cf. Hannig & Vomberg, <i>SP</i>, 574.
+[^3]: Cf. Hannig & Vomberg, <i>SP</i>, 574.
 [^4]: <i>SP</i>, 172, 320.
 [^5]: Lambdin 1953, 151; Westendorf, <i>KH</i>, 221.
-[^6]: e.g. Lambdin 1953, 151; Klein, <i>CEDHL</i>, 240.
-[^7]: cf. Von Soden, <i>AHw</i>, 1354; <i>UF</i> 13 (1981), 162.
+[^6]: E.g., Lambdin 1953, 151; Klein, <i>CEDHL</i>, 240.
+[^7]: Cf. Von Soden, <i>AHw</i>, 1354; <i>UF</i> 13 (1981), 162.
 [^8]: Tal, <i>DSA</i>, 302.
 [^9]: Payne Smith (Margoliouth), <i>CSD</i>, 167.
-[^10]: cf. Freytag, <i>LAL</i>, t. 3, 38.
+[^10]: Cf. Freytag, <i>LAL</i>, t. 3, 38.
 [^11]: Leslau, <i>CDG</i>, 75-6.
 [^12]: Levy, <i>WTM</i>, Bd.2, 139.
 [^13]: <i>GELS</i>, 140.
 [^14]: Tal, <i>DSA</i>, 649.
-[^15]: cf. <i>CSD</i>, 409.
-[^16]: cf. <i>CSD</i>, 119.
+[^15]: Cf. <i>CSD</i>, 409.
+[^16]: Cf. <i>CSD</i>, 119.
 [^17]: <i>CSD</i>, 499.
 [^18]: Schott 1957, 180; Kaplony1984, with nn. 5, 6.
-[^19]: see on Isa. 3:21 e.g. Wildberger 1972, 136-7.
+[^19]: See on Isa. 3:21 e.g. Wildberger 1972, 136-7.
 [^20]: Schott 1957; Hallo 1983, 9.
 [^21]: Schroer 1987, 404, n. 260.
 [^22]: Deutsch 2003, 73, fig. 44f.

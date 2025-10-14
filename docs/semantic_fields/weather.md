@@ -4,4 +4,4 @@
 
 
 ### Related words
-[בָּרָד – hail](../words/barad.md)<br>
+[בָּרָד – hail](../words/barad.md)<br>[שֶׁלֶג – snow](../words/sheleg.md)<br>
