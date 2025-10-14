@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># span dir="rtl">זֵק</span> <span dir="rtl">/</span> <span dir="rtl">זִיק</span> <i>zīq</i> – fiery missile
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># <span dir="rtl">זֵק</span> <span dir="rtl">/</span> <span dir="rtl">זִיק</span> <i>zīq</i> – fiery missile
 
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Marjo Korpel](../contributors/marjo_korpel.md)<br>
-First published: 2011-10-28<br>Last update: 2025-10-10 <br>Citation: Marjo Korpel, span dir="rtl">זֵק</span> <span dir="rtl">/</span> <span dir="rtl">זִיק</span> <i>zīq</i> – fiery missile, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2025)
+First published: 2011-10-28<br>Last update: 2025-10-10 <br>Citation: Marjo Korpel, <span dir="rtl">זֵק</span> <span dir="rtl">/</span> <span dir="rtl">זִיק</span> <i>zīq</i> – fiery missile, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2025)
 (WORK IN PROGRESS)
 
 

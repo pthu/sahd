@@ -359,4 +359,4 @@ Atlanta: Society of Biblical Literature.
 
 ## Notes
 
-<p id="contributors_footnote">The first version of this article was published March 24th, 2011 as Johannes C. de Moor, ‘<span dir="rtl">קַלַּחַת</span> – stewpot’. For the publication in the Semantics of Ancient Hebrew Database the article was thoroughly reworked and expanded by Raymond de Hoop.</p>
+<p id="contributors_footnote">The first version of this article was published March 24th, 2011 as Johannes C. de Moor, ‘<span dir="rtl">קַלַּחַת</span> – stewpot’. For the publication in the <i>Semantics of Ancient Hebrew Database</i> the article was thoroughly reworked and expanded by Raymond de Hoop.</p>
