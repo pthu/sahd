@@ -76,6 +76,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://pthu.github.io/sahd/contributors/johannes_c._de_moor/</loc>
+         <lastmod>2025-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://pthu.github.io/sahd/contributors/john_e._hartley/</loc>
          <lastmod>2025-10-14</lastmod>
          <changefreq>daily</changefreq>
@@ -682,6 +687,11 @@
     </url>
     <url>
          <loc>https://pthu.github.io/sahd/words/q-b-b/</loc>
+         <lastmod>2025-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pthu.github.io/sahd/words/qallachat/</loc>
          <lastmod>2025-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
