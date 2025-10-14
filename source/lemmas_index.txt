@@ -7,7 +7,6 @@
 אוּרִים וְתֻמִּים : Urim Thummim : 2urim_wthummim
 
 
-
 אַמְתַּחַת : sack : 2amthachath
 
 אַרְגְּוָן : bright purple : 2argwan
@@ -57,9 +56,11 @@
 
 כ
 כִּבְשָׁן : kiln : kibshan
-כְּלִי : vessel : kli
+כְּלִי : vessel : kli
 כִּסֵּא : throne : kisse2
-כַּר : saddle : kar_1
+
+כַּר : saddle : kar_1
+
 כַּרְמִיל : bright, rich red : karmil
 
 
@@ -79,6 +80,7 @@
 מַפְרֶקֶת : neck : mapreqeth
 מַפְתֵּחַ : key : maptheach
 מַקֵּל : branch, staff : maqqel
+
 מַרְאָה : vision, mirror : mar2ah
 מֶשֶׁךְ : bag : meshek_1
 
@@ -123,7 +125,9 @@
 שׁ
 שָׁנִי : bright red dye : shani_1
 שׁוֹעַ : great man : shoa3
-שׁוּעַ : cry for help : shua3
+שׁוּעַ : cry for help : shua3
+שֶׁלֶג : snow : sheleg
+
 
 ת
 תְּבוּנָה : understanding : thbunah
