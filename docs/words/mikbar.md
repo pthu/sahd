@@ -259,7 +259,6 @@ M. Noth, <i>Das zweite Buch Mose: Exodus</i> (ATD, 5), Göttingen <sup>5</sup>19
 <div style="padding-left: 22px; text-indent: -22px;">
 Nowack 1992 <br>
 H. Nowack, ‘Untersuchungen über die materialtechnischen Aspekte des Altars Ex 27’, <i>BN</i>  63 (1992), 62-71 </div>
-</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Propp 2006 <br>
@@ -274,8 +273,12 @@ Swete 1902 <br>
 H.B. Swete, <i>An Introduction to the Old Testament in Greek</i>, Cambridge 1902 </div>
 
 Gesenius, Roediger, <i>TPC</i>, 659a: ‘opus reticulatum’.
+</div>
+</div>
+</div>
 
 
+##Notes
 	
 [^1]: Cf. Leslau,  <i>CDG</i>, 274; <i>HAHAT</i>, 526h.
 [^2]: Cf. <i>GKC</i>, § 85h; <i>BL</i> 490zε.
