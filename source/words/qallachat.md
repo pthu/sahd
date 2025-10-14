@@ -8,8 +8,8 @@ contributors: raymond_de_hoop, johannes_c._de_moor
 first_published: 2011-03-24  
 last_update: 2025-10-01     
 update_info:    
-contributors_footnote: The first version of this article was published March 24th, 2011 as Johannes C. de Moor, ‘<span dir="rtl">קַלַּחַת</span> – stewpot’. For the publication in the Semantics of Ancient Hebrew Database the article was thoroughly reworked and expanded by Raymond de Hoop.
-additional_info: (WORK IN PROGRESS)
+contributors_footnote: The first version of this article was published March 24th, 2011 as Johannes C. de Moor, ‘<span dir="rtl">קַלַּחַת</span> – stewpot’. For the publication in the <i>Semantics of Ancient Hebrew Database</i> the article was thoroughly reworked and expanded by Raymond de Hoop.  
+additional_info: (WORK IN PROGRESS)  
 shebanq_id: 1QLXTn
 
 ---

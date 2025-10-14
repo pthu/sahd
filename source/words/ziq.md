@@ -1,6 +1,6 @@
 ---
 word_english: fiery missile  
-word_hebrew: span dir="rtl">זֵק</span> <span dir="rtl">/</span> <span dir="rtl">זִיק</span>  
+word_hebrew: <span dir="rtl">זֵק</span> <span dir="rtl">/</span> <span dir="rtl">זִיק</span>  
 transcription: <i>zīq</i>    
 title: fiery missile  
 semantic_fields: utensils  
