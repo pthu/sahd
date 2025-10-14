@@ -11,4 +11,4 @@ Raymond (1958) is an independent scholar, working as editor and webmaster for th
 
 
 ### Contributions
-[בֶּקַע – half a shekel](../words/beqa3.md)<br>[מָאוֹר – light](../words/ma2or.md)<br>
+[בֶּקַע – half a shekel](../words/beqa3.md)<br>[מָאוֹר – light](../words/ma2or.md)<br>[קַלַּחַת – stewpot](../words/qallachat.md)<br>
