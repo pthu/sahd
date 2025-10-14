@@ -4,7 +4,7 @@ word_hebrew: קַלַּחַת
 transcription: <i>qallàḥat</i>  
 title:    
 semantic_fields: utensils, food preparation    
-contributors: raymond_de_hoop, johannes_c._de_moor   
+contributors: johannes_c._de_moor, raymond_de_hoop  
 first_published: 2011-03-24  
 last_update: 2025-10-01     
 update_info:    
