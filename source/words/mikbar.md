@@ -206,7 +206,7 @@ Alonso Schökel, <i>DBHE</i>, 399: ‘Enrejado’
 Fensham 1970 <br>
 F.C. Fensham, <i>Exodus</i> (POT), Nijkerk 1970 </div>
 
-<i>GB</i>, 421a: ‘Gitterwerk’ <br>
+<i>GB</i>, 421a: ‘Gitterwerk’ 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Gehman & Montgomery 1951 <br>
@@ -221,32 +221,32 @@ Biblical Words and Phrases’, in: Sarah Israelit-Groll (ed.), <i>Pharaonic Egyp
 Gray 1977 <br>
 J. Gray, <i>I & II Kings</i> (OTL), London <sup>3</sup>1977 </div>
 
-<i>HAHAT</i>, 670: ‘(bronzenes) Gitter (am Altar)’ <br>
+<i>HAHAT</i>, 670: ‘(bronzenes) Gitter (am Altar)’ 
 
-<i>HALAT</i>, 548b: ‘Gitterwerk’ <br>
+<i>HALAT</i>, 548b: ‘Gitterwerk’ 
 
-<i>HAWAT</i>, 222a: ‘Geflecht, Gitter(werk)’ <br>
+<i>HAWAT</i>, 222a: ‘Geflecht, Gitter(werk)’ 
 
-<i>HCHAT</i>, 731: ‘Gitterwerk’ <br>
+<i>HCHAT</i>, 731: ‘Gitterwerk’ 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Houtman 2000 <br> 
 C. Houtman, <i>Exodus</i> (HCOT), vol. 3, Leuven 2000 </div>
 
-<i>HWAT</i>, 344: ‘Gitter am Opferaltar ... netzartig’ <br>
+<i>HWAT</i>, 344: ‘Gitter am Opferaltar ... netzartig’
 
-<i>KBL</i>, 520b: ‘Gitterwerk <i>grating, lattice-work’</i> <br>
+<i>KBL</i>, 520b: ‘Gitterwerk <i>grating, lattice-work’</i> 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Kitchen 1960 <br>
 K.A. Kitchen, ‘Some Egyptian Background to the Old Testament, <i>Tyndale House 
 Bulletin</i>, 5, 6 (1960), 7-13 </div>
 
-<i>LÄ</i>, Bd. 1, Wiesbaden 1975, 145-149 <br>
+<i>LÄ</i>, Bd. 1, Wiesbaden 1975, 145-149 
 
-<i>LHA</i>, 433b: ‘crates, craticula, opus aheneum textum (Gitterwerk, grillage)’ <br>
+<i>LHA</i>, 433b: ‘crates, craticula, opus aheneum textum (Gitterwerk, grillage)’ 
 
-<i>MHH</i>, 610: <span dir="rtl">העליון</span> <span dir="rtl">בחציו</span> <span dir="rtl">המזבח</span> <span dir="rtl">את</span> <span dir="rtl">הסובב</span> <span dir="rtl">שבמשכן</span> <span dir="rtl">העולה</span> <span dir="rtl">ממזבח</span> <span dir="rtl">חלק</span> <br>
+<i>MHH</i>, 610: <span dir="rtl">העליון</span> <span dir="rtl">בחציו</span> <span dir="rtl">המזבח</span> <span dir="rtl">את</span> <span dir="rtl">הסובב</span> <span dir="rtl">שבמשכן</span> <span dir="rtl">העולה</span> <span dir="rtl">ממזבח</span> <span dir="rtl">חלק</span> 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Noth 1973 <br>
@@ -270,11 +270,8 @@ Swete 1902 <br>
 H.B. Swete, <i>An Introduction to the Old Testament in Greek</i>, Cambridge 1902 </div>
 
 Gesenius, Roediger, <i>TPC</i>, 659a: ‘opus reticulatum’.
-</div>
-</div>
 
 
-##Notes
 	
 [^1]: Cf. Leslau,  <i>CDG</i>, 274; <i>HAHAT</i>, 526h.
 [^2]: Cf. <i>GKC</i>, § 85h; <i>BL</i> 490zε.

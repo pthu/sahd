@@ -115,7 +115,7 @@ In Prov 26:18 the plural <span dir="rtl">זִקִּּים</span> is used, which 
 ### 6.2 Pictorial Material
 
 <b>A.1</b> 
-On the well-known relief depicting Sennacherib’s siege of Lachish an Assyrian soldier who is almost entirely hidden behind the archer in the foreground is igniting tightly wrapped missiles with a torch (<a href=http://otw-site.eu/wp-content/uploads/2017/07/lpyd.pdf target="_blank">→ <span dir="rtl">לַפִּּיד</a></span>). 
+On the well-known relief depicting Sennacherib’s siege of Lachish an Assyrian soldier who is almost entirely hidden behind the archer in the foreground is igniting tightly wrapped missiles with a torch (<a href=https://sahd-online.com/words/lappid/ target="_blank">→ <span dir="rtl">לַפִּּיד</a></span>). 
 
 ![](../photos/zyq_lachish.jpg)
 
@@ -138,7 +138,7 @@ In ancient Greece too bundles of splinters were used as torches. They were made 
 ## 7. Conclusion
 
 <b>A.1</b>
-The evidence assembled warrants the conclusion that <span dir="rtl">זִיק</span> and <span dir="rtl">זֵק</span> are the same word which designated a missile made of tightly wrapped rushes or kindle-wood, impregnated with combustible fluids. As such it could also be used as a dreaded type of weapon that could be used to kindle a besieged city. Only later on it became a designation of comets or heavenly demons, although it is possible that this was derived from existing popular belief. See also <a href=http://otw-site.eu/wp-content/uploads/2017/07/lpyd.pdf target="_blank">→ <span dir="rtl">לַפִּּיד</a></span>.
+The evidence assembled warrants the conclusion that <span dir="rtl">זִיק</span> and <span dir="rtl">זֵק</span> are the same word which designated a missile made of tightly wrapped rushes or kindle-wood, impregnated with combustible fluids. As such it could also be used as a dreaded type of weapon that could be used to kindle a besieged city. Only later on it became a designation of comets or heavenly demons, although it is possible that this was derived from existing popular belief. See also <a href=https://sahd-online.com/words/lappid/ target="_blank">→ <span dir="rtl">לַפִּּיד</a></span>.
 
 <b>A.2</b>
 The root from which the word was derived is most likely the Semitic √<i>nzq</i> ‘to wrap tightly’. There is insufficient reason to assume the existence of a feminine form *<span dir="rtl">זִיקָה</span>.
