@@ -9,3 +9,6 @@ Webpage: <a href="https://independent.academia.edu/MichaëlNvanderMeer#tab-1" ta
 
 ![michael van der meer](../images/photos/michaelvdmeer.jpg "Michaël N. van der Meer")  
 
+
+### Contributions
+[בְּרִית – covenant, agreement, obligation](../words/brith.md)<br>
