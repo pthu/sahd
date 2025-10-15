@@ -272,6 +272,7 @@ H.B. Swete, <i>An Introduction to the Old Testament in Greek</i>, Cambridge 1902
 Gesenius, Roediger, <i>TPC</i>, 659a: ‘opus reticulatum’.
 
 
+##Notes 
 	
 [^1]: Cf. Leslau,  <i>CDG</i>, 274; <i>HAHAT</i>, 526h.
 [^2]: Cf. <i>GKC</i>, § 85h; <i>BL</i> 490zε.
