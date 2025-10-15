@@ -8,7 +8,6 @@ from subprocess import run, Popen
 import csv
 from datetime import datetime
 import re
-import unicodedata
 
 SAHD_BASE = Path(".")
 
@@ -130,12 +129,6 @@ def capitalize_name(s):
         else:
             name += part.title() + " "
     return name.strip()
-
-
-def safe_filename(name):
-    normalized = unicodedata.normalize("NFKD", name)
-    ascii_only = normalized.encode("ascii", "ignore").decode("ascii")
-    return ascii_only
 
 
 def get_value(line):
@@ -291,12 +284,8 @@ def sort_contributors(contributors_dict):
     sort_dict = {}
     target_dict = {}
     for key in contributors_dict:
-        parts = key.split("_")
-        surname_key = ""
-        for i in range(len(parts)):
-            if parts[i] in PREFIXES or i == len(parts) - 1:
-                surname_key += parts[i]
-        sort_dict[surname_key] = key
+        reversed_key = "_".join(key.split("_")[::-1])
+        sort_dict[reversed_key] = key
     for key in sorted(sort_dict):
         name = sort_dict[key]
         target_dict[name] = contributors_dict[name]
@@ -453,8 +442,7 @@ def write_words(shebanq_dict, ubs_dict):
                             if not first:
                                 contributors_text += ",&nbsp;"
                                 contributors_citing += ",&nbsp;"
-                            safe_c = safe_filename(c)
-                            contributors_text += f"[{capitalize_name(c)}](../contributors/{safe_c}.md)"
+                            contributors_text += f"[{capitalize_name(c)}](../contributors/{c}.md)"
                             contributors_citing += capitalize_name(c)
                             first = False
                         if (contributors_footnote):
@@ -520,14 +508,13 @@ def write_contributors(contributors_dict):
     for contributor in contributors_dict:
         words = contributors_dict[contributor]
 
-        safe_c = safe_filename(contributor)
-        if not exists(CONTRIBUTORS_DOCS / f"{safe_c}.md"):
-            with open(CONTRIBUTORS_DOCS / f"{safe_c}.md", 'w') as f:
+        if not exists(CONTRIBUTORS_DOCS / f"{contributor}.md"):
+            with open(CONTRIBUTORS_DOCS / f"{contributor}.md", 'w') as f:
                 f.write(f'# **{capitalize_name(contributor)}**\n\n')
                 f.close()
 
         text = [HEADER]
-        with open(CONTRIBUTORS_DOCS / f"{safe_c}.md", 'r') as f:
+        with open(CONTRIBUTORS_DOCS / f"{contributor}.md", 'r') as f:
             lines = f.readlines()
             for line in lines:
                 line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT, line) # modify possible photo path
@@ -536,7 +523,7 @@ def write_contributors(contributors_dict):
             for word in words:
                 text.append(f"[{word[0]} – {word[1][0].replace('_', ' ')}](../words/{word[1][1]})<br>")
 
-        with open(CONTRIBUTORS_DOCS / f"{safe_c}.md", 'w') as f:
+        with open(CONTRIBUTORS_DOCS / f"{contributor}.md", 'w') as f:
             f.write("".join(text))
 
 
@@ -563,8 +550,7 @@ def write_editorial_board(contributors_dict):
         words = editors_dict[editor]
 
         text = [HEADER]
-        safe_e = safe_filename(editor)
-        with open(EDITORIAL_BOARD_DOCS / f"{safe_e}.md", 'r') as f:
+        with open(EDITORIAL_BOARD_DOCS / f"{editor}.md", 'r') as f:
             lines = f.readlines()
             for line in lines:
                 line = re.sub(PHOTO_PATH, PHOTO_PATH_REPLACEMENT, line) # modify possible photo path
@@ -574,7 +560,7 @@ def write_editorial_board(contributors_dict):
                 for word in words:
                     text.append(f"[{word[0]} – {word[1][0].replace('_', ' ')}](../words/{word[1][1]})<br>")
 
-        with open(EDITORIAL_BOARD_DOCS / f"{safe_e}.md", 'w') as f:
+        with open(EDITORIAL_BOARD_DOCS / f"{editor}.md", 'w') as f:
             f.write("".join(text))
 
     return editors_dict
@@ -666,12 +652,10 @@ def write_navigation(semantic_fields_dict, contributors_dict, editors_dict):
                     text.append(f"            - {capitalize(s_field)}: semantic_fields/{s_field}.md\n")
             elif line.replace(" ", "").startswith("-Contributors:"):
                 for contributor in contributors_dict:
-                    safe_c = safe_filename(contributor)
-                    text.append(f"            - {capitalize_name(contributor)}: contributors/{safe_c}.md\n")
+                    text.append(f"            - {capitalize_name(contributor)}: contributors/{contributor}.md\n")
             elif line.replace(" ", "").startswith("-Editorialboard:"):
                 for editor in editors_dict:
-                    safe_e = safe_filename(editor)
-                    text.append(f"            - {capitalize_name(editor)}: editorial_board/{safe_e}.md\n")
+                    text.append(f"            - {capitalize_name(editor)}: editorial_board/{editor}.md\n")
             elif line.replace(" ", "").startswith("-Miscellaneous:"):
                 for article in os.listdir(MISCELLANEOUS):
                     if article != ".DS_Store":
