@@ -31,7 +31,7 @@ Occurrences: 14x HB (2/9/3); 0x Sir; 0x Qum; 0x Inscr. (Total: 14)
 
 <b>A.1</b> 
 <i>Akkadian.</i>
-Zimmern and Segert suggested that Akkadian <i>dipāru</i>, ‘torch’, might be at the origin of Hebrew <i>lappīd</i>.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> This was adapted by Salonen.<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> However, this derivation is phonetically improbable. According to the examples Salonen mentions the <i>dipāru</i> was used ‘to light up the darkness’, and it could glow ‘to shine out high in the sky’. It could also be used for fire signals.<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> All texts Salonen discusses clearly point to a torch made of wood and wool (<a href=http://otw-site.eu/wp-content/uploads/2017/07/zyq.pdf target="_blank">→ <span dir="rtl">זִיק</a></span> ‘fiery missile’). 
+Zimmern and Segert suggested that Akkadian <i>dipāru</i>, ‘torch’, might be at the origin of Hebrew <i>lappīd</i>.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> This was adapted by Salonen.<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> However, this derivation is phonetically improbable. According to the examples Salonen mentions the <i>dipāru</i> was used ‘to light up the darkness’, and it could glow ‘to shine out high in the sky’. It could also be used for fire signals.<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> All texts Salonen discusses clearly point to a torch made of wood and wool (<a href=https://sahd-online.com/words/ziq/ target="_blank">→ <span dir="rtl">זִיק</a></span> ‘fiery missile’). 
 
 <b>A.2</b> 
 <i>Hittite.</i>
@@ -156,13 +156,13 @@ The difficult text Job 12:5 is not taken into consideration here.  Usually <span
 ### 6.3 Pictorial Material
 
 <b>A.1</b> 
-On Sennacherib’s well-known well-known relief depicting the siege of Lachish an Assyrian soldier is kindling a tightly wrapped missile with a torch (<a href=http://otw-site.eu/wp-content/uploads/2017/07/zyq.pdf target="_blank"><span dir="rtl">זֵק</span> <span dir="rtl">/</span> <span dir="rtl">זִיק</span></a>).
+On Sennacherib’s well-known well-known relief depicting the siege of Lachish an Assyrian soldier is kindling a tightly wrapped missile with a torch (<a href=https://sahd-online.com/words/ziq/ target="_blank"><span dir="rtl">זֵק</span> <span dir="rtl">/</span> <span dir="rtl">זִיק</span></a>).
 
 
 ### <a id="Arch"></a>6.4 Archaeology
 
 <b>A.1</b> 
-Cf. <a href=http://otw-site.eu/wp-content/uploads/2017/07/zyq.pdf target="_blank"><span dir="rtl">זֵק</span> <span dir="rtl">/</span> <span dir="rtl">זִיק</span></a>.
+Cf. <a href=https://sahd-online.com/words/ziq/ target="_blank"><span dir="rtl">זֵק</span> <span dir="rtl">/</span> <span dir="rtl">זִיק</span></a>.
 
 
 ## <a id="Con"></a>7. Conclusion
@@ -182,7 +182,7 @@ Lane provides an interesting parallel from modern Egypt,
 Lane offers a more detailed description of this type of torch called <i>mašʿalah</i><sup id="fnref:24"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:24')">24</a></sup> or <i>šaʿlah</i><sup id="fnref:25"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:25')">25</a></sup> in Arabic, ‘A particular sort of large support for a light: (KL:) [i.e. a sort of cresset, consisting of a staff with a cylindrical frame of iron at the top which is filled with flaming pine-wood or the like or tarred rags ... it is borne before travellers and others at night’ ...].
 
 <b>A.5</b>
-Whereas the <a href=http://otw-site.eu/wp-content/uploads/2017/07/zyq.pdf target="_blank"><span dir="rtl">זִיק</span></a> consisted of a bundle of tightly wrapped rushes or kindle-wood, the <span dir="rtl">לַפִּּיד</span> always had a shaft and a cup of clay or metal on top containing an impregnated cloth serving as a wick. It may be assumed that this type of torch with a cup on a handle developed out of the more primitive Egyptian torch with only a conical lump of fat at the top of a stick.<sup id="fnref:26"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:26')">26</a></sup>
+Whereas the <a href=https://sahd-online.com/words/ziq/ target="_blank"><span dir="rtl">זִיק</span></a> consisted of a bundle of tightly wrapped rushes or kindle-wood, the <span dir="rtl">לַפִּּיד</span> always had a shaft and a cup of clay or metal on top containing an impregnated cloth serving as a wick. It may be assumed that this type of torch with a cup on a handle developed out of the more primitive Egyptian torch with only a conical lump of fat at the top of a stick.<sup id="fnref:26"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:26')">26</a></sup>
 
 
 ## Bibliography
