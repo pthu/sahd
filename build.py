@@ -431,9 +431,10 @@ def write_words(shebanq_dict, ubs_dict):
                         shebanq_id = get_shebanq_id(word_hebrew, shebanq_dict)
                     if shebanq_id:
                         text.append(SHEBANQ.replace("replace", shebanq_id))
-                    ubs_reference = get_ubs_reference(word_hebrew, ubs_dict)
-                    if ubs_reference:
-                        text.append(UBS.replace("replace", ubs_reference))
+                    # at the moment disabled because of the change in the UBS website
+                    # ubs_reference = get_ubs_reference(word_hebrew, ubs_dict)
+                    # if ubs_reference:
+                    #     text.append(UBS.replace("replace", ubs_reference))
                     if not word_english or not word_hebrew:
                         error(f"Metadata for {filename} incomplete")
                     title_english = title if title else word_english.replace('_', ' ')
