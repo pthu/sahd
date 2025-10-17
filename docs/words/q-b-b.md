@@ -5,7 +5,7 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1QBBv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=קבב&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># קבב <i>qābab</i> – to curse
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1QBBv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># קבב <i>qābab</i> – to curse
 
 Semantic Fields:
 [Cursing](../semantic_fields/cursing.md)&nbsp;&nbsp;&nbsp;<br>Author(s):

@@ -150,21 +150,19 @@ nav:
             - W.A.M. Beuken: contributors/w.a.m._beuken.md
             - Benjamin M. Bogerd: contributors/benjamin_m._bogerd.md
             - Graham I. Davies: contributors/graham_i._davies.md
+            - Raymond de Hoop: contributors/raymond_de_hoop.md
+            - Johannes C. de Moor: contributors/johannes_c._de_moor.md
+            - Kees den Hertog: contributors/kees_den_hertog.md
             - Meindert Dijkstra: contributors/meindert_dijkstra.md
             - Alison Gray: contributors/alison_gray.md
             - John E. Hartley: contributors/john_e._hartley.md
-            - Kees den Hertog: contributors/kees_den_hertog.md
-            - Raymond de Hoop: contributors/raymond_de_hoop.md
             - Cornelis Houtman: contributors/cornelis_houtman.md
             - Konrad D. Jenner: contributors/konrad_d._jenner.md
             - Marjo Korpel: contributors/marjo_korpel.md
             - M.D. Koster: contributors/m.d._koster.md
-            - Michaël N. van der Meer: contributors/michaël_n._van_der_meer.md
-            - Johannes C. de Moor: contributors/johannes_c._de_moor.md
             - Eric Peels: contributors/eric_peels.md
             - Kurtis Peters: contributors/kurtis_peters.md
             - Jakub M. Pogonowski: contributors/jakub_m._pogonowski.md
-            - Jacques T.A.G.M. van Ruiten: contributors/jacques_t.a.g.m._van_ruiten.md
             - Alison Salvesen: contributors/alison_salvesen.md
             - Paul Sanders: contributors/paul_sanders.md
             - M. Patrizia Sciumbata: contributors/m._patrizia_sciumbata.md
@@ -172,21 +170,23 @@ nav:
             - Willem Smelik: contributors/willem_smelik.md
             - Chiara Stornaiuolo: contributors/chiara_stornaiuolo.md
             - T. Jonathan Stökl: contributors/t._jonathan_stökl.md
-            - Klaas R. Veenhof: contributors/klaas_r._veenhof.md
-            - Bertus van ’t Veld: contributors/bertus_van_’t_veld.md
-            - Geert Jan Veldman: contributors/geert_jan_veldman.md
+            - Michaël N. van der Meer: contributors/michaël_n._van_der_meer.md
+            - Jacques T.A.G.M. van Ruiten: contributors/jacques_t.a.g.m._van_ruiten.md
             - Archibald L.H.M. van Wieringen: contributors/archibald_l.h.m._van_wieringen.md
+            - Bertus van ’t Veld: contributors/bertus_van_’t_veld.md
+            - Klaas R. Veenhof: contributors/klaas_r._veenhof.md
+            - Geert Jan Veldman: contributors/geert_jan_veldman.md
     - Editorial board:
             - Marilyn Burton: editorial_board/marilyn_burton.md
             - Raymond de Hoop: editorial_board/raymond_de_hoop.md
             - Marjo Korpel: editorial_board/marjo_korpel.md
-            - Michaël N. van der Meer: editorial_board/michaël_n._van_der_meer.md
             - Alessandra Pecchioli: editorial_board/alessandra_pecchioli.md
             - Kurtis Peters: editorial_board/kurtis_peters.md
-            - Willem van Peursen: editorial_board/willem_van_peursen.md
             - Paul Sanders: editorial_board/paul_sanders.md
             - Chiara Stornaiuolo: editorial_board/chiara_stornaiuolo.md
             - T. Jonathan Stökl: editorial_board/t._jonathan_stökl.md
+            - Michaël N. van der Meer: editorial_board/michaël_n._van_der_meer.md
+            - Willem van Peursen: editorial_board/willem_van_peursen.md
     - Printed publications: 'store/printed_publications.md'
     - Miscellaneous:
             - Overview Deliverance: miscellaneous/overview_deliverance.md

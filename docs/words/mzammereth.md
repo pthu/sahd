@@ -5,7 +5,7 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="ubs" title="Word in Semantic Dictionary of Biblical Hebrew" href="https://semanticdictionary.org/semdic.php?databaseType=SDBH&language=en&lemma=מְזַמֶּרֶת&startPage=1" target="_blank"><img src="../../images/icons/ubs.png" alt="ubs"></a></div># מְזַמֶּרֶת <i>m<small><sup>e</sup></small>zammèret</i> – trimming knife, snuffer (?)
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># מְזַמֶּרֶת <i>m<small><sup>e</sup></small>zammèret</i> – trimming knife, snuffer (?)
 
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
