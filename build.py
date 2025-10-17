@@ -284,8 +284,18 @@ def sort_contributors(contributors_dict):
     sort_dict = {}
     target_dict = {}
     for key in contributors_dict:
-        reversed_key = "_".join(key.split("_")[::-1])
-        sort_dict[reversed_key] = key
+        parts = key.split("_")
+        new_key, first_part, second_part = "", "", ""
+        in_surname = False
+        for i in range(len(parts)):
+            if parts[i] in PREFIXES or i == len(parts) - 1:
+                in_surname = True
+            if in_surname:
+                first_part += parts[i] + "_"
+            else:
+                second_part += parts[i] + "_"
+        new_key = first_part + second_part
+        sort_dict[new_key] = key
     for key in sorted(sort_dict):
         name = sort_dict[key]
         target_dict[name] = contributors_dict[name]
