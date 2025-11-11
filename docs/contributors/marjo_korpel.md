@@ -5,7 +5,7 @@
 Webpage: [https://www.pthu.nl/en/about-us/people/marjoc.a.korpel](https://www.pthu.nl/en/about-us/people/marjoc.a.korpel/){target=_blank}
 
 
-Marjo Korpel is Associate Professor in Old Testament Studies at Protestantse Theologische Universiteit (Utrecht, the Netherlands). Her publications concern Old Testament exegesis, Canaanite and Israelite religion and ancient Hebrew epigraphy. She is well-known for her  research on metaphorical language describing the divine in Ugarit and the Bible (<i>A Rift in the Clouds</i>, 1990).
+Marjo Korpel is Professor in Old Testament Studies at Protestantse Theologische Universiteit (Utrecht, the Netherlands). Her publications concern Old Testament exegesis, Canaanite and Israelite religion and ancient Hebrew epigraphy. She is well-known for her  research on metaphorical language describing the divine in Ugarit and the Bible (<i>A Rift in the Clouds</i>, 1990).
 
 ![marjo korpel](../images/photos/marjo_korpel.jpg "Marjo Korpel")
 

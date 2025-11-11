@@ -10,6 +10,8 @@ Webpage:
 [https://www.tilburguniversity.edu/nl/medewerkers/a-l-h-m-vanwieringen](https://www.tilburguniversity.edu/nl/medewerkers/a-l-h-m-vanwieringen){target=_blank}    
 
 
+![archibald van wieringen](../images/photos/archibald_van_wieringen.jpg "Archibald van Wieringen")  
+
 
 
 
