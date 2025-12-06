@@ -1,18 +1,18 @@
----
-word_english: stewpot   
-word_hebrew: קַלַּחַת  
-transcription: <i>qallàḥat</i>  
-title:    
-semantic_fields: utensils, food preparation    
-contributors: johannes_c._de_moor, raymond_de_hoop, paul_sanders  
-first_published: 2011-03-24  
-last_update: 2025-11-27     
-update_info:    
-contributors_footnote: The first version of this article was published March 24th, 2011 as Johannes C. de Moor, ‘<span dir="rtl">קַלַּחַת</span> – stewpot’. For the publication in the <i>Semantics of Ancient Hebrew Database</i> the article was thoroughly reworked and expanded by Raymond de Hoop and Paul Sanders.  
-additional_info: (WORK IN PROGRESS)  
-shebanq_id: 1QLXTn
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
----
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1QLXTn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># קַלַּחַת <i>qallàḥat</i> – stewpot
+
+Semantic Fields:
+[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Food Preparation](../semantic_fields/food preparation.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Johannes C. de Moor](../contributors/johannes_c._de_moor.md),&nbsp;[Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
+First published: 2011-03-24<br>Last update: 2025-11-27 <br>Citation: Johannes C. de Moor,&nbsp;Raymond de Hoop,&nbsp;Paul Sanders, קַלַּחַת <i>qallàḥat</i> – stewpot, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2025)
+(WORK IN PROGRESS)
+
 
 <span id="I"></span>
 ## Introduction
@@ -41,7 +41,7 @@ Nevertheless, there are important variants in LXX and 4QSam<small><sup>a</sup></
 
 <b>A.3</b> Most of the manuscripts of LXX mention only three cooking vessels, in the accusative:
 
-* τὸν λέβητα τὸν μέγαν (λέβης + μέγας), ‘the large cauldron’;[^0]
+* τὸν λέβητα τὸν μέγαν (λέβης + μέγας), ‘the large cauldron’;<sup id="fnref:0"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:0')">0</a></sup>
 * τὸ χαλκίον (variants: χαλκεῖον, χαλκὸν), ‘the bronze cauldron’;
 * τὴν κύθραν (variants: κύτραν, χύθραν), ‘the earthen pot’.
 
@@ -49,20 +49,20 @@ These three Greek renderings occur in this order in LXX<sup><small>B</small></su
 καὶ ἐπάταξεν αὐτὴν εἰς τὸν λέβητα τὸν μέγαν ἢ εἰς τὸ χαλκίον ἢ εἰς τὴν κύθραν, ‘and he thrusted it into the large cauldron and into the bronze cauldron and into the earther pot’.
 The deviating order
 λέβης + μέγας - χύθρα - χαλκεῖον  occurs
-in LXX<sup><small>Ant</small></sup>.[^1]
+in LXX<sup><small>Ant</small></sup>.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup>
 LXX<sup><small>A</small></sup> mentions the same three cooking vessels in the order of LXX<sup><small>Ant</small></sup> (λέβης + μέγας, χύθρα, χαλκὸν),
-but in this codex these three are preceded by the phrase εἰς το λουτῆρα, with λουτήρ meaning ‘washing-tub’.[^2]
+but in this codex these three are preceded by the phrase εἰς το λουτῆρα, with λουτήρ meaning ‘washing-tub’.<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup>
 <!--λουτήρ is inderdaad een gebruikelijke vertaling van kiyor-->
 
 <b>A.4</b> 4QSam<small><sup>a</sup></small> apparently mentions 
 only two vessels: <span dir="rtl">בסיר או בׄפ̊רור̊</span> (col. III line 4), with the end of the preceding line reconstructed as \[<span dir="rtl"> בידו והכה</span>] (see DJD XVII:39). 
 The first vessel (<span dir="rtl">סיר</span>) mentioned in 
 4QSam<small><sup>a</sup></small> is not mentioned in MT. According to the editors of 4QSam<sup><small>a</small></sup>, the reading <span dir="rtl">סיר</span> in 4QSam<sup><small>a</small></sup> is certainly original, because the word λέβης, ‘cauldron’, in
-LXX<sup><small>B,Ant</small></sup> mostly represents Heb. <span dir="rtl">סיר</span>.[^3] 
+LXX<sup><small>B,Ant</small></sup> mostly represents Heb. <span dir="rtl">סיר</span>.<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> 
 In addition to 1 Sam 2:14, λέβης only once seems to be the counterpart of MT’s <span dir="rtl">כִּיּוֹר</span> in 1 Kgs 7:40 (3 Kgdms 7:26), which is textual critically uncertain because the text obviously contains <span dir="rtl">הַכִּיֹּרוֹת</span> erroneously for <span dir="rtl">הַסִּירוֹת</span> (cf. MT 1 Kgs 7:45 <span dir="rtl">וְאֶת־הַסִּירוֹת</span> / LXX 3 Kgdms 7:31 καὶ τοὺς λέβητας). 
-On the other hand, λέβης also reflects <span dir="rtl">דּוּד</span>, the second utensil in MT’s list (cf. 2 Chr 35:13; 1 Esdr 1:13).[^4]   
-A serious problem regarding the testimony of 4QSam<sup><small>a</small></sup> is the fact that the narrative sequence differs between MT and 4QSam<small><sup>a</sup></small>: MT’s vv. 13–14 are read as the sequel of 1 Sam 2:16 in 4QSam<sup><small>a</small></sup>. Due to the textual differences of this chapter in MT and 4QSam<sup><small>a</small></sup>, scholars differ with regard to the most original reading. Some tend to give priority to MT’s reading of four vessels, which number in their view decreased subsequently in LXX and 4QSam<sup><small>a</small></sup> (e.g., Rofé 2010; Dietrich 2010). Others give priority the reading of 4QSam<sup><small>a</small></sup> and suppose that the list of vessels gradually expanded during the course of transmission.[^5] 
-However, because MT’s reading of <span dir="rtl">קַּלַּחַת</span> itself is not doubted and presupposed in all LXX retroversions,[^6] the reading  of our lemma is ascertained; cf. also
+On the other hand, λέβης also reflects <span dir="rtl">דּוּד</span>, the second utensil in MT’s list (cf. 2 Chr 35:13; 1 Esdr 1:13).<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup>   
+A serious problem regarding the testimony of 4QSam<sup><small>a</small></sup> is the fact that the narrative sequence differs between MT and 4QSam<small><sup>a</sup></small>: MT’s vv. 13–14 are read as the sequel of 1 Sam 2:16 in 4QSam<sup><small>a</small></sup>. Due to the textual differences of this chapter in MT and 4QSam<sup><small>a</small></sup>, scholars differ with regard to the most original reading. Some tend to give priority to MT’s reading of four vessels, which number in their view decreased subsequently in LXX and 4QSam<sup><small>a</small></sup> (e.g., Rofé 2010; Dietrich 2010). Others give priority the reading of 4QSam<sup><small>a</small></sup> and suppose that the list of vessels gradually expanded during the course of transmission.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> 
+However, because MT’s reading of <span dir="rtl">קַּלַּחַת</span> itself is not doubted and presupposed in all LXX retroversions,<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup> the reading  of our lemma is ascertained; cf. also
 <a href="#AVA1">Ancient Versions A.1</a> below.
 
 [^0]: The translations of the Greek are based on <i>GELS</i>.
@@ -79,7 +79,7 @@ However, because MT’s reading of <span dir="rtl">קַּלַּחַת</span> its
 ## 1 Root and Comparative Material
 
 <b>A.1</b> <i>Egyptian</i>: Thomas Lambdin and Maximilian Ellenbogen 	regard <span dir="rtl">קַלַּחַת</span> as a loan from Egyptian <i>qrḥt</i>, ‘earthen pot’ 
-(<i>WÄS</i>, Bd. 5, 62-3; Hannig, 864).[^9] 
+(<i>WÄS</i>, Bd. 5, 62-3; Hannig, 864).<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> 
 James Hoch (<i>SWET</i>, 331-32), however, is of the opinion that Egyptian <i>krḥt</i>, a type of basket for grapes or flowers, as well as Coptic <i>calaht</i>, a pot (Crum, <i>CD</i> 813-14), are loans from the Canaanite word <i>qlḥt</i>. Hoch’s suggestion is unlikely, however, and the Coptic word is better derived from Egyptian <i>qrḥt</i>. The latter is a rather general term for earthen-ware (Vachala 1992:109–11), but the vessel could also be made of metals like silver, gold, or bronze. The Coptic word denotes a blackened cooking pot and serves as a rendering of κύθρα/χύτρα in 1 Sam 2:14 and Mic 3:3. An Egyptian goddess bearing the name <i>qrḥt</i> is attested, but it is unclear whether she had anything to do with the vessel.
 
 [^9]: Lambdin 1953: 154; <i>FWOT</i>, 149; see also <i>HAL</i>, 1030; <i>HALOT</i> 1102.
@@ -96,7 +96,7 @@ denote a type of jar or pitcher, not a cooking pot.
 
 <b>A.3</b> <i>Ugaritic</i>: 
 Another cognate appears to be Ugaritic <i>qlḫt</i>, attested in <i>KTU</i> 5.22:16. This is a list of seemingly unconnected words and names. Apparently the tablet is a scribal exercise. The circumstance that the 
-preceding two entries have to do with the hand-mill and the following entry is <i>qmḫ</i>, ‘flour’, suggests that the pot was regularly used for recipes containing flour. However, the scribe was very inexperienced and often confused the <i>ḥ</i> that was dictated to him with <i>ḫ</i> (for example in <i>qmḫ</i> = <i>qmḥ</i>, cf. Dietrich, Loretz, and Sanmartín 1975:166). So it is possible that the original Ugaritic form was <i>qlḥt</i>, which in turn might suggest a connection with the Ugaritic divine name <i>qlḥ</i>.[^10] 
+preceding two entries have to do with the hand-mill and the following entry is <i>qmḫ</i>, ‘flour’, suggests that the pot was regularly used for recipes containing flour. However, the scribe was very inexperienced and often confused the <i>ḥ</i> that was dictated to him with <i>ḫ</i> (for example in <i>qmḫ</i> = <i>qmḥ</i>, cf. Dietrich, Loretz, and Sanmartín 1975:166). So it is possible that the original Ugaritic form was <i>qlḥt</i>, which in turn might suggest a connection with the Ugaritic divine name <i>qlḥ</i>.<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup> 
 
 [^10]: De Moor 1970a:225; De Moor 1970b:317; for parallels, cf. Haas 1994:520-38). 
 
@@ -121,8 +121,8 @@ bB.Bat., 74a, however, compares the heat to which the
 
 <b>Septuagint (LXX)</b> 
  
-* χαλκίον (LXX), ‘copper cauldron’,[^21] or χύτρας (LXX<sup><small>Ant</small></sup>), ‘earthen pot’:[^22] 1 Sam 2:14; see A.1 below;
-* χύτρας, ‘<i>earthen pot</i>: receptacle for meat’:[^23] Mic 3:3. 
+* χαλκίον (LXX), ‘copper cauldron’,<sup id="fnref:21"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:21')">21</a></sup> or χύτρας (LXX<sup><small>Ant</small></sup>), ‘earthen pot’:<sup id="fnref:22"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:22')">22</a></sup> 1 Sam 2:14; see A.1 below;
+* χύτρας, ‘<i>earthen pot</i>: receptacle for meat’:<sup id="fnref:23"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:23')">23</a></sup> Mic 3:3. 
 
 [^21]: <i>LEH</i><sup><small>3</small></sup>, 659; <i>GELS</i>, 728.
 [^22]: <i>LEH</i><sup><small>3</small></sup>, 359; <i>GELS</i>,  417, κύθρας is a spelling variant of χύτρας.
@@ -130,8 +130,8 @@ bB.Bat., 74a, however, compares the heat to which the
 
 <b>Peshitta (Pesh)</b> 
 
-* <span dir="rtl">ܩܪܕܠܐ</span> (<i>qerd<sup>e</sup>lā</i>), ‘a large hanging pot</i>’:[^24] 1 Sam 2:14; 
-* <span dir="rtl">ܩܕܪܐ</span> (<i>qedrā</i>), ‘a pot’:[^25] Mic 3:3.
+* <span dir="rtl">ܩܪܕܠܐ</span> (<i>qerd<sup>e</sup>lā</i>), ‘a large hanging pot</i>’:<sup id="fnref:24"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:24')">24</a></sup> 1 Sam 2:14; 
+* <span dir="rtl">ܩܕܪܐ</span> (<i>qedrā</i>), ‘a pot’:<sup id="fnref:25"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:25')">25</a></sup> Mic 3:3.
 
 [^24]: Payne Smith, <i>CSD</i>, 518; Sokoloff, <i>SLB</i>, 1402: ‘pot’.
 [^25]: Payne Smith, <i>CSD</i>, 491; Sokoloff, <i>SLB</i>, 1321–22. The latter lexicon does not take <span dir="rtl">קַלַּחַת</span> as the Hebrew counterpart but <span dir="rtl">סִּיר</span> from the preceding clause. 
@@ -139,14 +139,14 @@ bB.Bat., 74a, however, compares the heat to which the
 
 <b>Targum (Tg)</b>
  
-* <span dir="rtl">קדרא</span>, ‘pot’:[^26] 
+* <span dir="rtl">קדרא</span>, ‘pot’:<sup id="fnref:26"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:26')">26</a></sup> 
 1 Sam 2:14; Mic 3:3.
 
 [^26]: Sokoloff, <i>DJPA</i>, 476: ‘pot’ (of earthenware or bronze, put on a stove); Levy, <i>CWT</i>, 2:346: ‘Kochgeschirr, Kessel, Topf’.
 
 <b>Vulgate (Vg)</b> 
 
-* <i>olla</i>, ‘pot, jar’:[^27] 1 Sam 2:14; Mic 3:3.
+* <i>olla</i>, ‘pot, jar’:<sup id="fnref:27"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:27')">27</a></sup> 1 Sam 2:14; Mic 3:3.
 
 [^27]: Lewis & Short, <i>LD</i>, 1263.
 
@@ -156,11 +156,11 @@ bB.Bat., 74a, however, compares the heat to which the
 <span dir="rtl">קַּלַּחַת</span>,
 and 
 <span dir="rtl">פָּרוּר</span>.
-LXX (supported by VL[^28]) has three cooking utensils: 
+LXX (supported by VL<sup id="fnref:28"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:28')">28</a></sup>) has three cooking utensils: 
 λέβης (+ μέγας), χαλκίον, and κύθρα, while in
-LXX<sup><small>Ant</small></sup> the order of these vessels is different, namely λέβης (+ μέγας), χύθρα, and χαλκεῖον.[^29]  
+LXX<sup><small>Ant</small></sup> the order of these vessels is different, namely λέβης (+ μέγας), χύθρα, and χαλκεῖον.<sup id="fnref:29"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:29')">29</a></sup>  
 The problem starts with the question for which Heb. word the Gr. word λέβης is the counterpart. This is important in view of the reading in 4QSam<sup><small>a</small></sup>, reading only two cooking utensils: <span dir="rtl">סיר</span> and <span dir="rtl">פרור</span> (see <a href="#TDA1">Text Doubtful</a> above). Because λέβης, the first utensil in the LXX text, is used mostly as the counterpart of Heb. <span dir="rtl">סִיר</span>, scholars assume that the Heb. <i>Vorlage</i> of LXX read <span dir="rtl">סִיר</span> similarly to 4QSam<sup><small>a</small></sup> instead of MT’s <span dir="rtl">כִּיּוֹר</span>. The latter reading <span dir="rtl">כִּיּוֹר</span> may orginally have been a defective reading <span dir="rtl">כִּיֹּר</span>, which was a misreading for <span dir="rtl">סִיר</span>. However, this is not completely conclusive because λέβης is also used as rendering of <span dir="rtl">דּוּד</span>, the second utensil in MT’s list (cf. 2 Chron 35:13; 1 Esdr 1:13). 
-LXX’s λέβης thus equals 4QSam<sup><small>B</small></sup>’s <span dir="rtl">סיר</span>/MT’s <span dir="rtl">כִּיּוֹר</span> but also MT’s <span dir="rtl">דּוּד</span>, which may suggest that LXX had a comparable list of utensils in its Vorlage as MT and  condensed the list by using one rendering for the first two utensils.[^31]
+LXX’s λέβης thus equals 4QSam<sup><small>B</small></sup>’s <span dir="rtl">סיר</span>/MT’s <span dir="rtl">כִּיּוֹר</span> but also MT’s <span dir="rtl">דּוּד</span>, which may suggest that LXX had a comparable list of utensils in its Vorlage as MT and  condensed the list by using one rendering for the first two utensils.<sup id="fnref:31"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:31')">31</a></sup>
 If thus LXX’s first word λέβης is the possible eaquivalent of MT’s first and second word, than LXX’s second word, χαλκίον (or LXX<sup><small>Ant</small></sup>’s χύθρα), may be the renderring for MT’s <span dir="rtl">קַּלַּחַת</span>.   
 
 [^28]: According to <i>Palimpsestus Vindobonensis</i>, reading <i></i>cf. Belsheim 1885:7. 
@@ -195,7 +195,7 @@ The use of the verb <span dir="rtl">עלה</span> <i>hiph.</i> might suggest tha
 
 ### 6.2 Figurative Use
 
-<b>A.3</b>  Mic 3:2-3 accuses the leaders of Israel of tearing off the skin from the people (<span dir="rtl">פשׁט</span> <i>hiph.</i>), and their flesh (<span dir="rtl">שְׁאֵר</span>) from their bones, and even of eating the flesh of the people, and flaying their skin from them. Finally they ‘break their bones in pieces, and spread them out in a kettle (<span dir="rtl">בַּסִּיר</span>), like flesh (<span dir="rtl">כְבָשָׂר</span>) in a <span dir="rtl">קַלַּחַת</span>’. Obviously the prophet – probably Micah the Morashtite – does not accuse the leaders of cannibalism here. He compares their policy of dispossessing small farmers (cf. 2:1-2, 9), tearing off the clothes of peaceful passers-by (cf. 2:8, the same verb <span dir="rtl">פשׁט</span> <i>hiph.</i>) and misleading innocent people (3:4-11) with a butcher’s trade.[^30] 
+<b>A.3</b>  Mic 3:2-3 accuses the leaders of Israel of tearing off the skin from the people (<span dir="rtl">פשׁט</span> <i>hiph.</i>), and their flesh (<span dir="rtl">שְׁאֵר</span>) from their bones, and even of eating the flesh of the people, and flaying their skin from them. Finally they ‘break their bones in pieces, and spread them out in a kettle (<span dir="rtl">בַּסִּיר</span>), like flesh (<span dir="rtl">כְבָשָׂר</span>) in a <span dir="rtl">קַלַּחַת</span>’. Obviously the prophet – probably Micah the Morashtite – does not accuse the leaders of cannibalism here. He compares their policy of dispossessing small farmers (cf. 2:1-2, 9), tearing off the clothes of peaceful passers-by (cf. 2:8, the same verb <span dir="rtl">פשׁט</span> <i>hiph.</i>) and misleading innocent people (3:4-11) with a butcher’s trade.<sup id="fnref:30"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:30')">30</a></sup> 
 Nothing here suggests that the <span dir="rtl">קַלַּחַת</span> is a special cultic vessel. Again the material of which it was made remains unclear.   
 The verb <span dir="rtl">פרשׂ</span>, ‘to spread out’, suggests a fairly wide vessel suitable for cooking chunks of meat approximately as long 
 as pieces of bone. Apparently  <span dir="rtl">סִיר</span> was a similar vessel since both are ruled by the same verb in Mic 3:3. Since the <span dir="rtl">סִיר</span> is for cooking the bones whereas the <span dir="rtl">קַלַּחַת</span> is for the meat, the latter might be a cooking pot of higher quality. The spreading out of 
@@ -209,24 +209,24 @@ the chunks suggests a fairly flat bottom.
 <span dir="rtl">סִיר</span>,
 <span dir="rtl">דּוּד</span>,
 and 
-<span dir="rtl">פָּרוּר</span> could be identified with archaeological findings,[^39] 
+<span dir="rtl">פָּרוּר</span> could be identified with archaeological findings,<sup id="fnref:39"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:39')">39</a></sup> 
 it is impossible to provide an illustration of 
-<span dir="rtl">קַלַּחַת</span>.[^40] 
-There is an abundance of cooking vessels from archaeological excations, which may give some ideas about the forms of such receptacles.[^41] 
+<span dir="rtl">קַלַּחַת</span>.<sup id="fnref:40"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:40')">40</a></sup> 
+There is an abundance of cooking vessels from archaeological excations, which may give some ideas about the forms of such receptacles.<sup id="fnref:41"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:41')">41</a></sup> 
 Next to these archaeological findings, there are illustrations of cooking and baking activity in the ancient world. See, e.g., the following two small statues (see also Long 2009:280).
 
 
-![WomanStirringCauldron](../photos/WomanStirringCauldron.jpg)     
+![WomanStirringCauldron](../images/photos/WomanStirringCauldron.jpg)     
 Female servant stirring in a cooking vessel, ISAC Museum Chicago.
 
-![CookingMan](../photos/CookingMan.jpg)   
+![CookingMan](../images/photos/CookingMan.jpg)   
 Servant stirring in a cooking vessel, Ägyptisches Museum Leipzig.
 
 
 See further the following illustration from a bread baking scene in Ancient Egypt, showing the interest in the production of food also in the afterlife:
 
-![bread](../photos/bread.jpg)   
-Scene from production of bread[^42]
+![bread](../images/photos/bread.jpg)   
+Scene from production of bread<sup id="fnref:42"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:42')">42</a></sup>
 
 [^39]: See <i>CVOT</i>, 27 \# 63, with 48 fig. 16 for <span dir="rtl">סִיר</span>; 18 \# 39, with 48 fig. 17 for <span dir="rtl">דּוּד</span>; 29 \# 68, with 48 fig. 19 for <span dir="rtl">פָּרוּר</span> (similarly in <i>BHH</i> 3:2006–07).
 [^40]: According to CVOT, 31 \# 76 <span dir="rtl">קַּלַּחַת</span>’ is a cooking-pot but there is no further clue as to which specific member of the cooking-pot family is so designated’; similarly <i>BHH</i> 3:2007.  
@@ -390,3 +390,4 @@ Atlanta: Society of Biblical Literature.
 
 ## Notes
 
+<p id="contributors_footnote">The first version of this article was published March 24th, 2011 as Johannes C. de Moor, ‘<span dir="rtl">קַלַּחַת</span> – stewpot’. For the publication in the <i>Semantics of Ancient Hebrew Database</i> the article was thoroughly reworked and expanded by Raymond de Hoop and Paul Sanders.</p>

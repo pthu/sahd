@@ -4,11 +4,11 @@ word_hebrew: קַלַּחַת
 transcription: <i>qallàḥat</i>  
 title:    
 semantic_fields: utensils, food preparation    
-contributors: johannes_c._de_moor, raymond_de_hoop  
+contributors: johannes_c._de_moor, raymond_de_hoop, paul_sanders  
 first_published: 2011-03-24  
-last_update: 2025-10-01     
+last_update: 2025-11-27     
 update_info:    
-contributors_footnote: The first version of this article was published March 24th, 2011 as Johannes C. de Moor, ‘<span dir="rtl">קַלַּחַת</span> – stewpot’. For the publication in the <i>Semantics of Ancient Hebrew Database</i> the article was thoroughly reworked and expanded by Raymond de Hoop.  
+contributors_footnote: The first version of this article was published March 24th, 2011 as Johannes C. de Moor, ‘<span dir="rtl">קַלַּחַת</span> – stewpot’. For the publication in the <i>Semantics of Ancient Hebrew Database</i> the article was thoroughly reworked and expanded by Raymond de Hoop and Paul Sanders.  
 additional_info: (WORK IN PROGRESS)  
 shebanq_id: 1QLXTn
 
@@ -21,32 +21,57 @@ Grammatical type: noun fem.
 Occurrences: 2x HB (0/2/0); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2)
 
 * Nebiim: 1 Sam 2:14; Mic 3:3.
-* Text doubtful: None, but see A.1 below.
+* Text doubtful: See A.1 below.
 
 <a id="TDA1"></a>
 ### Text Doubtful
 
-<b>A.1</b> The critical apparatus of <i>BHS</i> does not express any doubt regarding the reading <span dir="rtl">קַלַּחַת</span> in MT 1 Sam 2:14,
-nor regarding the rest of the list of four vessels in that verse. There is, nevertheless, a problem with the text. MT, supported by Pesh, Tg, and Vg, attests four cooking utensils, 
-<span dir="rtl">כִּיּוֹר</span>,
-<span dir="rtl">דּוּד</span>, 
-<span dir="rtl">קַּלַּחַת</span>, 
-and <span dir="rtl">פָּרוּר</span>,
-while LXX mentions only three utensils: λέβης, χαλκίον, and κύθρα.[^1] 
-4QSam<small><sup>a</sup></small> (col. III line 4) represents 
-only two vessels: <span dir="rtl">בסיר או בׄפ̊רור̊</span>, of which the first vessel (<span dir="rtl">סיר</span>) is not attested in MT. According to the editors of 4QSam<sup><small>a</small></sup> the reading of <span dir="rtl">סיר</span> attested in 4QSam<sup><small>a</small></sup> is certainly original, because the word λέβης, ‘cauldron’ (<i>GELS</i>, 427), in
-LXX<sup><small>B,Ant</small></sup>  mostly represents Heb. <span dir="rtl">סיר</span>.[^2] 
+<b>A.1</b> In MT 1 Sam 2:14 <span dir="rtl">קַלַּחַת</span> is part of the following phrase:
+<span dir="rtl">בַכִּיּוֹר אוֹ בַדּוּד אוֹ בַקַּלַּחַת אוֹ בַפָּרוּר</span>. This phrase includes four cooking vessels, with <span dir="rtl">קַלַּחַת</span> as the third one.
+The critical apparatus of <i>BHS</i> does not refer to any variants regarding the reading <span dir="rtl">קַלַּחַת</span> in 1 Sam 2:14,
+nor regarding the rest of the list of four vessels in that verse. 
+Nevertheless, there are important variants in LXX and 4QSam<small><sup>a</sup></small>. On the basis of these variants, Parry (2006) argued that <span dir="rtl">קַלַּחַת</span> was not part of the oldest version of the text.
+
+<b>A.2</b> MT, supported by Pesh, Tg<sup><small>J</small></sup>, and Vg, lists four cooking vessels: 
+
+* <span dir="rtl">כִּיּוֹר</span>;
+* <span dir="rtl">דּוּד</span>; 
+* <span dir="rtl">קַלַּחַת</span>; 
+* <span dir="rtl">פָּרוּר</span>.
+
+<b>A.3</b> Most of the manuscripts of LXX mention only three cooking vessels, in the accusative:
+
+* τὸν λέβητα τὸν μέγαν (λέβης + μέγας), ‘the large cauldron’;[^0]
+* τὸ χαλκίον (variants: χαλκεῖον, χαλκὸν), ‘the bronze cauldron’;
+* τὴν κύθραν (variants: κύτραν, χύθραν), ‘the earthen pot’.
+
+These three Greek renderings occur in this order in LXX<sup><small>B</small></sup>: 
+καὶ ἐπάταξεν αὐτὴν εἰς τὸν λέβητα τὸν μέγαν ἢ εἰς τὸ χαλκίον ἢ εἰς τὴν κύθραν, ‘and he thrusted it into the large cauldron and into the bronze cauldron and into the earther pot’.
+The deviating order
+λέβης + μέγας - χύθρα - χαλκεῖον  occurs
+in LXX<sup><small>Ant</small></sup>.[^1]
+LXX<sup><small>A</small></sup> mentions the same three cooking vessels in the order of LXX<sup><small>Ant</small></sup> (λέβης + μέγας, χύθρα, χαλκὸν),
+but in this codex these three are preceded by the phrase εἰς το λουτῆρα, with λουτήρ meaning ‘washing-tub’.[^2]
+<!--λουτήρ is inderdaad een gebruikelijke vertaling van kiyor-->
+
+<b>A.4</b> 4QSam<small><sup>a</sup></small> apparently mentions 
+only two vessels: <span dir="rtl">בסיר או בׄפ̊רור̊</span> (col. III line 4), with the end of the preceding line reconstructed as \[<span dir="rtl"> בידו והכה</span>] (see DJD XVII:39). 
+The first vessel (<span dir="rtl">סיר</span>) mentioned in 
+4QSam<small><sup>a</sup></small> is not mentioned in MT. According to the editors of 4QSam<sup><small>a</small></sup>, the reading <span dir="rtl">סיר</span> in 4QSam<sup><small>a</small></sup> is certainly original, because the word λέβης, ‘cauldron’, in
+LXX<sup><small>B,Ant</small></sup> mostly represents Heb. <span dir="rtl">סיר</span>.[^3] 
 In addition to 1 Sam 2:14, λέβης only once seems to be the counterpart of MT’s <span dir="rtl">כִּיּוֹר</span> in 1 Kgs 7:40 (3 Kgdms 7:26), which is textual critically uncertain because the text obviously contains <span dir="rtl">הַכִּיֹּרוֹת</span> erroneously for <span dir="rtl">הַסִּירוֹת</span> (cf. MT 1 Kgs 7:45 <span dir="rtl">וְאֶת־הַסִּירוֹת</span> / LXX 3 Kgdms 7:31 καὶ τοὺς λέβητας). 
-On the other hand, λέβης also reflects <span dir="rtl">דּוּד</span>, the second utensil in MT’s list (cf. 2 Chr 35:13; 1 Esdr 1:13).[^3]   
-A serious problem regarding the testimony of 4QSam<sup><small>a</small></sup> is the fact that the narrative sequence differs between MT and 4QSam<small><sup>a</sup></small>: MT’s vv. 13–14 are read as the sequel of 1 Sam 2:16 in 4QSam<sup><small>a</small></sup>. Due to the textual differences of this chapter in MT and 4QSam<sup><small>a</small></sup>, scholars differ with regard to the most original reading. Some tend to give priority to MT’s reading of four vessels, which number in their view decreased subsequently in LXX and 4QSam<sup><small>a</small></sup> (e.g., Rofé 2010; Dietrich 2010). Others give priority the reading of 4QSam<sup><small>a</small></sup> and suppose that the list of vessels gradually expanded during the course of transmission.[^4] 
-However, because MT’s reading of <span dir="rtl">קַּלַּחַת</span> itself is not doubted and presupposed in all LXX retroversions,[^5] the reading  of our lemma is ascertained; cf. also
+On the other hand, λέβης also reflects <span dir="rtl">דּוּד</span>, the second utensil in MT’s list (cf. 2 Chr 35:13; 1 Esdr 1:13).[^4]   
+A serious problem regarding the testimony of 4QSam<sup><small>a</small></sup> is the fact that the narrative sequence differs between MT and 4QSam<small><sup>a</sup></small>: MT’s vv. 13–14 are read as the sequel of 1 Sam 2:16 in 4QSam<sup><small>a</small></sup>. Due to the textual differences of this chapter in MT and 4QSam<sup><small>a</small></sup>, scholars differ with regard to the most original reading. Some tend to give priority to MT’s reading of four vessels, which number in their view decreased subsequently in LXX and 4QSam<sup><small>a</small></sup> (e.g., Rofé 2010; Dietrich 2010). Others give priority the reading of 4QSam<sup><small>a</small></sup> and suppose that the list of vessels gradually expanded during the course of transmission.[^5] 
+However, because MT’s reading of <span dir="rtl">קַּלַּחַת</span> itself is not doubted and presupposed in all LXX retroversions,[^6] the reading  of our lemma is ascertained; cf. also
 <a href="#AVA1">Ancient Versions A.1</a> below.
 
-[^1]: LXX<small><sup>Ant</sup></small> has a different order of the three vessels, namely λέβης, χύθρα, and χαλκεῖον; see Fernandez Marcos and Busto Saiz 1989, PAGE. For differences in the number of cooking vessels in LXX, see Parry 2006:00.
-[^2]: Cf. HRCS<sup><small>2</small></sup>, 863c; Hutzli 2010: ; DJD XVII:42; see also Parry 2006:93; Trebolle 2010:275–76.
-[^3]: See <i>GHTIS</i>, 74, giving three occurrences for <span dir="rtl">דּוּד</span>, and five for <span dir="rtl">סִיר</span>, whereas HRCS<sup><small>2</small></sup>, 863c lists 21 occurrences; cf. also Hützli 2010:217, n. 14. 
-[^4]: See DJD XVII:42; Trebolle 2010; see especially Parry 2006, esp. 84–85.
-[^5]: See DJD XVII:42; Parry 2006: 87; Trebolle 2010:276.
+[^0]: The translations of the Greek are based on <i>GELS</i>.
+[^1]: LXX<sup><small>Ant</small></sup>: εἰς τὸν λέβητα τὸν μέγαν ἢ εἰς τὴν χύθραν ἢ εἰς τὸ χαλκεῖον (Fernández Marcos & Busto Saiz 1989:8).
+[^2]: LXX<sup><small>A</small></sup>: εἰς τὸν λουτῆρα ἢ εἰς τὸν ἢ εἰς τὸν λέβητα τὸν μέγαν ἢ εἰς τὴν χύθραν ἢ εἰς τὸν χαλκὸν. The repetition of ἢ εἰς τὸν after τὸν λουτῆρα is erroneous and does not occur in ms c<sub><small>2</small></sub> (127), which just like LXX<sup><small>A</small></sup> does have the phrase εἰς τὸν λουτῆρα ἢ before εἰς τὸν λέβητα; see Brooke & McLean 1927:7 and Fernández Marcos & Busto Saiz 1989:8. For references to some less important additional variants in other Greek mss, see the same literature.  
+[^3]: Cf. HRCS<sup><small>2</small></sup>, 863c; Hutzli 2010: ; see also Parry 2006:93; Trebolle 2010:275–76.
+[^4]: See <i>GHTIS</i>, 74, giving three occurrences for <span dir="rtl">דּוּד</span>, and five for <span dir="rtl">סִיר</span>, whereas HRCS<sup><small>2</small></sup>, 863c lists 21 occurrences; cf. also Hützli 2010:217, n. 14. 
+[^5]: See DJD XVII:42; Trebolle 2010; see especially Parry 2006, esp. 84–85.
+[^6]: See DJD XVII:42; Parry 2006: 87; Trebolle 2010:276.
 
 
 
@@ -82,7 +107,7 @@ bB.Bat., 74a, however, compares the heat to which the
 
 ## 2. Formal Characteristic
 
-<b>A.1</b> Feminine word with the <i>qattalat</i> form; see BL, 476–77, 476-77, §61yβ-aγ.
+<b>A.1</b> Feminine word with the <i>qattalat</i> form; see BL, 476-77, §61yβ-aγ.
 
 ## 3. Syntagmatics 
 
@@ -105,11 +130,12 @@ bB.Bat., 74a, however, compares the heat to which the
 
 <b>Peshitta (Pesh)</b> 
 
-* <span dir="rtl">ܩܪܕܠܐ݁</span> (<i>qerd<sup>e</sup>lā</i>), ‘a large hanging pot</i>’:[^24] 1 Sam 2:14; 
+* <span dir="rtl">ܩܪܕܠܐ</span> (<i>qerd<sup>e</sup>lā</i>), ‘a large hanging pot</i>’:[^24] 1 Sam 2:14; 
 * <span dir="rtl">ܩܕܪܐ</span> (<i>qedrā</i>), ‘a pot’:[^25] Mic 3:3.
 
 [^24]: Payne Smith, <i>CSD</i>, 518; Sokoloff, <i>SLB</i>, 1402: ‘pot’.
 [^25]: Payne Smith, <i>CSD</i>, 491; Sokoloff, <i>SLB</i>, 1321–22. The latter lexicon does not take <span dir="rtl">קַלַּחַת</span> as the Hebrew counterpart but <span dir="rtl">סִּיר</span> from the preceding clause. 
+<!--PRECEDING CLAUSE?-->
 
 <b>Targum (Tg)</b>
  
@@ -124,21 +150,21 @@ bB.Bat., 74a, however, compares the heat to which the
 
 [^27]: Lewis & Short, <i>LD</i>, 1263.
 
-<b>A.1</b><a id="AVA1"></a> Establishing the correct Greek counterpart of <span dir="rtl">קַלַּחַת</span> in MT 1 Sam 2:14 (LXX 1 Kgdms 2:14) is difficult. As mentioned before, MT has four cooking utensils:
+<b>A.1</b><a id="AVA1"></a> Establishing the correct Greek counterpart of <span dir="rtl">קַלַּחַת</span> in MT 1 Sam 2:14 (LXX 1 Kgdms 2:14) is difficult. As mentioned above, MT has four cooking utensils:
 <span dir="rtl">כִּיּוֹר</span>,
 <span dir="rtl">דּוּד</span>,
 <span dir="rtl">קַּלַּחַת</span>,
 and 
 <span dir="rtl">פָּרוּר</span>.
 LXX (supported by VL[^28]) has three cooking utensils: 
-λέβης, χαλκίον, and κύθρα, while in
-LXX<sup><small>Ant</small></sup> the order of these vessels is different, namely λέβης, χύθρα, and χαλκεῖον.[^29]  
-The problem starts with the question for which Heb. word the Gr. word λέβης is the counterpart. This is important in view of the reading in 4QSam<sup><small>a</small></sup>, reading only two cooking utensils: <span dir="rtl">סיר</span> and <span dir="rtl">פרור</span> (see <a href="#TDA1">Text Doubtful A.1</a> above). Because λέβης, the first utensil in the LXX text, is used mostly as the counterpart of Heb. <span dir="rtl">סִיר</span>, scholars assume that the Heb. <i>Vorlage</i> of LXX read <span dir="rtl">סִיר</span> similarly to 4QSam<sup><small>a</small></sup> instead of MT’s <span dir="rtl">כִּיּוֹר</span>. The latter reading <span dir="rtl">כִּיּוֹר</span> may orginally have been a defective reading <span dir="rtl">כִּיֹּר</span>, which was a misreading for <span dir="rtl">סִיר</span>. However, this is not completely conclusive because λέβης is also used as rendering of <span dir="rtl">דּוּד</span>, the second utensil in MT’s list (cf. 2 Chr 35:13; 1 Esdr 1:13). 
+λέβης (+ μέγας), χαλκίον, and κύθρα, while in
+LXX<sup><small>Ant</small></sup> the order of these vessels is different, namely λέβης (+ μέγας), χύθρα, and χαλκεῖον.[^29]  
+The problem starts with the question for which Heb. word the Gr. word λέβης is the counterpart. This is important in view of the reading in 4QSam<sup><small>a</small></sup>, reading only two cooking utensils: <span dir="rtl">סיר</span> and <span dir="rtl">פרור</span> (see <a href="#TDA1">Text Doubtful</a> above). Because λέβης, the first utensil in the LXX text, is used mostly as the counterpart of Heb. <span dir="rtl">סִיר</span>, scholars assume that the Heb. <i>Vorlage</i> of LXX read <span dir="rtl">סִיר</span> similarly to 4QSam<sup><small>a</small></sup> instead of MT’s <span dir="rtl">כִּיּוֹר</span>. The latter reading <span dir="rtl">כִּיּוֹר</span> may orginally have been a defective reading <span dir="rtl">כִּיֹּר</span>, which was a misreading for <span dir="rtl">סִיר</span>. However, this is not completely conclusive because λέβης is also used as rendering of <span dir="rtl">דּוּד</span>, the second utensil in MT’s list (cf. 2 Chron 35:13; 1 Esdr 1:13). 
 LXX’s λέβης thus equals 4QSam<sup><small>B</small></sup>’s <span dir="rtl">סיר</span>/MT’s <span dir="rtl">כִּיּוֹר</span> but also MT’s <span dir="rtl">דּוּד</span>, which may suggest that LXX had a comparable list of utensils in its Vorlage as MT and  condensed the list by using one rendering for the first two utensils.[^31]
 If thus LXX’s first word λέβης is the possible eaquivalent of MT’s first and second word, than LXX’s second word, χαλκίον (or LXX<sup><small>Ant</small></sup>’s χύθρα), may be the renderring for MT’s <span dir="rtl">קַּלַּחַת</span>.   
 
 [^28]: According to <i>Palimpsestus Vindobonensis</i>, reading <i></i>cf. Belsheim 1885:7. 
-[^29]: See Fernandez Marcos and Busto Saiz 1989: PAGE. <i>LEH</i><sup><small>3</small></sup>, 659; <i>GELS</i>, 728, χαλκεῖον is a variant of χαλκίον, ‘bronze cauldron’.
+[^29]: See Fernández Marcos & Busto Saiz 1989: 8. <i>LEH</i><sup><small>3</small></sup>, 659; <i>GELS</i>, 728, χαλκεῖον is a variant of χαλκίον, ‘bronze cauldron’.
 [^30]: The occurence of the word <span dir="rtl">כִּיֹּרוֹת</span> (pl. of <span dir="rtl">כִּיּוֹר</span>( in 1 Kgs 7:40 is debated and may be a scribal error for <span dir="rtl">סִירוֹת</span>, see <i>BHS</i> Apparatus; MT is supported in this case by Tg; but partly also by Pesh, which has a double translation <span dir="rtl">ܠܩܢܐ ܘܩܕܣܐ</span>  (<i>lqnʾ wqdsʾ</i>) ‘basins and caldrons’, of which the first word equals in the preceding verses MT’s dir="rtl">סִירוֹת</span>. See further Mulder 1998:354–55.
 [^31]: Condensation as translation technique in the LXX is described in, <i>inter alii</i>, Van der Vorm-Croughs 2014:187–200. This translation technique is also known from the Targumim. Smelik (1995:97) labelled this technique as ‘minimalising’.  
 
@@ -230,6 +256,11 @@ Winona Lake: Eisenbrauns.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
+Brooke & McLean 1927 <br>  
+Alan England Brooke, Norman McLean, Henry St. John Thackeray, <i>The Old Testament in Greek according to the text of Codex Vaticanus, supplemented from other uncial manuscripts with a critical apparatus containing the variants of the chief ancient authorities for the text of the LXX</i>, Vol. 2 1: I-II Samuel.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
 Cathcart 1972 <br> 
 Kevin J. Cathcart, ‘Notes on Some Hebrew Words for Vessels and Their Cognates’,
 <i>Rivista degli studi orientali</i> 47:55-58
@@ -255,9 +286,9 @@ Manfried Dietrich, Oswald Loretz, Joaquín Sanmartín,
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Fernández Marcos and Busto Saiz 1989 <br>
-Natalio Fernández Marcos and José R. Busto Saiz, with the collaboration of Victoria Spottorno and S. Peter
-Cowe, <i>El texto antioqueno de la Biblia griega</i> I: I-2 Samuel (TECC, 50),Madrid:  CSIC.
+Fernández Marcos & Busto Saiz 1989 <br>
+Natalio Fernández Marcos, José Ramón Busto Saiz,
+<i>El texto antioqueno de la Biblia griega</i>, I: <i>1-2 Samuel</i> (TECC 50), Madrid: Instituto de Filología, C.S.I.C.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
