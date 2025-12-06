@@ -15,4 +15,4 @@ Johannes C. de Moor was the initiator and one of the coordinators of the KLY pro
 
 
 ### Contributions
-[קַלַּחַת – stewpot](../words/qallachath.md)<br>
+[קַלַּחַת – stewpot](../words/qallachat.md)<br>
