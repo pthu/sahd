@@ -3,7 +3,7 @@
 
 ### Project Descriptions
 
-* Hugh G.M. Williamson, [‘Semantics and Lexicography: A Methodological Conundrum’](../Williamson-Semantics_and_Lexicography.pdf),  in: Eberhard Bons, Jan Joosten, and Regine Hunziker-Rodewald (eds), 
+* Hugh G.M. Williamson, [‘Semantics and Lexicography: A Methodological Conundrum’](pdfs/Williamson-Semantics_and_Lexicography.pdf),  in: Eberhard Bons, Jan Joosten, and Regine Hunziker-Rodewald (eds), 
 <i>Biblical Lexicology: Hebrew and Greek</i> (BZAW, 443), Berlin: de Gruyter, 2015, 327–39.
 * Ida Zatelli, ‘Il progetto internazionale Semantics of Ancient Hebrew Database’, <i>Materia Giudaica</i> 23 (2018): 505-08. Click
 [<i>here</i>](http://aisg.cise.unipi.it/Materia-giudaica-2018/033-Zatelli%20pp%20505-508.pdf){target=_blank} for the 
