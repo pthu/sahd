@@ -210,5 +210,6 @@ extra_css:
 
 extra_javascript:
     - static/javascripts/extra.js
+    - static/javascripts/goatcounter.js
 
 
