@@ -143,6 +143,7 @@ nav:
             - Weather: semantic_fields/weather.md
             - Weight: semantic_fields/weight.md
             - Writing: semantic_fields/writing.md
+    - News: 'store/news.md'
     - Contributors:
             - James K. Aitken: contributors/james_k._aitken.md
             - Bob Becking: contributors/bob_becking.md
