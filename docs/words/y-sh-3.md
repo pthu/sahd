@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1JCOv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># ישׁע <i>yāšaʿ</i> – to save, help
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1JCOv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># ישׁע <i>y-š-ʿ</i> – to save, help
 
 Semantic Fields:
 [Deliverance](../semantic_fields/deliverance.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [James K. Aitken](../contributors/james_k._aitken.md),&nbsp;[Graham I. Davies](../contributors/graham_i._davies.md)<br>
-First published: 2016-01-01<br>Last update: 2023-05-16 (Raymond de Hoop, Paul Sanders) <br>Citation: James K. Aitken,&nbsp;Graham I. Davies, ישׁע <i>yāšaʿ</i> – to save, help, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2016 (update: 2023)
+First published: 2016-01-01<br>Last update: 2023-05-16 (Raymond de Hoop, Paul Sanders) <br>Citation: James K. Aitken,&nbsp;Graham I. Davies, ישׁע <i>y-š-ʿ</i> – to save, help, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2016 (update: 2023)
 
 
 For a fuller discussion of the lexical field ‘Deliverance’ as a whole, see on this site the 

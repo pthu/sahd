@@ -4,4 +4,4 @@
 
 
 ### Related words
-[הֲדֹם – footstool](../words/hadom.md)<br>[טַבַּעַת – ring](../words/tabba3at.md)<br>[כִּסֵּא – throne](../words/kisse2.md)<br>
+[הֲדֹם – footstool](../words/hadom.md)<br>[טַבַּעַת – ring](../words/tabba3at.md)<br>[כִּסֵּא – throne](../words/kisse2.md)<br>[שַׁרְבִיט – sceptre](../words/sharbit.md)<br>

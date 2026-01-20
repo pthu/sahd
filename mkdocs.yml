@@ -11,12 +11,15 @@ nav:
                 - אָדֹם - red: words/2adom.md
                 - אוּרִים וְתֻמִּים - Urim Thummim: words/2urim_wthummim.md
                 - אָזֵן - equipment: words/2azen.md
+                - אַח - brazier: words/2ach.md
+                - אָמָה - female servant: words/2amah.md
                 - אַמְתַּחַת - sack: words/2amthachath.md
                 - אַרְגְּוָן - bright purple: words/2argwan.md
                 - אַרְגַּז - box: words/2argaz.md
                 - אַרְגָּמָן - bright purple: words/2argaman.md
                 - ארר - to curse: words/2-r-r.md
             - ב:
+                - בַּד - pole: words/bad_2.md
                 - בֶּקַע - beka: words/beqa3.md
                 - בָּרָד - hail: words/barad.md
                 - בְּרִית - covenant: words/brith.md
@@ -32,6 +35,8 @@ nav:
                 - דֶּרֶךְ - road, way: words/derek.md
             - ה:
                 - הֲדֹם - footstool: words/hadom.md
+            - ו:
+                - וָו - hook: words/waw.md
             - ז:
                 - זִיק - fiery missile: words/ziq.md
             - ח:
@@ -44,14 +49,17 @@ nav:
                 - טַבַּעַת - ring: words/tabba3at.md
                 - טוה - to spin, twist: words/t-w-h.md
             - י:
+                - יָקוּד - glowing fire: words/yaqud.md
                 - יְשׁוּעָה - protection: words/yshu3ah.md
                 - ישׁע - to save, help: words/y-sh-3.md
                 - יֵשַׁע - safety: words/yesha3.md
             - כ:
                 - כִּבְשָׁן - kiln: words/kibshan.md
+                - כִּיר - cooking-stove: words/kir.md
                 - כְּלִי - vessel: words/kli.md
                 - כִּסֵּא - throne: words/kisse2.md
                 - כַּר - saddle: words/kar_1.md
+                - כְּרוּב - cherub: words/krub.md
                 - כַּרְמִיל - bright, rich red: words/karmil.md
             - ל:
                 - לָבָן - white: words/laban.md
@@ -60,12 +68,14 @@ nav:
             - מ:
                 - מָאוֹר - light: words/ma2or.md
                 - מְגִלָּה - scroll: words/mgillah.md
+                - מוֹט - pole: words/mot.md
                 - מוֹשָׁעָה - deliverance: words/mosha3ah.md
                 - מְזַמֶּרֶת - trimming knife (?): words/mzammereth.md
                 - מַחֲבַת - griddle: words/machabath.md
                 - מְחוּגָה - callipers: words/mchugah.md
                 - מַחֲרֵשָׁה/מַחֲרֶשֶׁת - plough: words/machareshah.md
                 - מִכְבָּר - grating: words/mikbar.md
+                - מֶלְקָחַיִם - forceps: words/melqachayim.md
                 - מְנוֹרָה - lampstand: words/mnorah.md
                 - מַפְרֶקֶת - neck: words/mapreqeth.md
                 - מַפְתֵּחַ - key: words/maptheach.md
@@ -76,10 +86,16 @@ nav:
             - נ:
                 - נָבִיא/נְבִיאָה - prophet(ess): words/nabi2.md
                 - נחם - to comfort: words/n-ch-m.md
+                - נִיר - lamp: words/nir_1.md
+                - נֵר - lamp: words/ner_1.md
                 - נִשְׁתְּוָן - official letter: words/nishthwan.md
             - ס:
                 - סָעִיף - cleft: words/sa3ip.md
+                - סֵפֶר - book: words/seper.md
+                - סִפְרָה - book: words/siprah.md
             - ע:
+                - עֶבֶד - servant, slave: words/3ebed.md
+                - עֲבֹדָה - service: words/3abodah.md
                 - עֶזְרָה - help: words/3ezrah.md
                 - עֵט - stylus: words/3et.md
                 - עֲטָרָה - wreath, crown: words/3atarah.md
@@ -92,13 +108,14 @@ nav:
                 - פרק - to pull off: words/p-r-q.md
                 - פָּרָק - piece of meat: words/paraq.md
                 - פֶּרֶק - plunder: words/pereq.md
+                - פִּשְׁתָּה - wick: words/pishthah.md
             - צ:
                 - צלה - to roast: words/ts-l-h.md
                 - צִפֹּרֶן - nail: words/tsipporen.md
                 - צְרוֹר - pouch: words/tsror_1.md
             - ק:
                 - קבב - to curse: words/q-b-b.md
-                - קַלַּחַת - stewpot: words/qallachat.md
+                - קַלַּחַת - stewpot: words/qallachath.md
                 - קֶסֶת - inkpot(?): words/qeseth.md
             - ר:
                 - רֹאֶה - seer: words/ro2eh.md
@@ -110,6 +127,8 @@ nav:
                 - שׁוֹעַ - great man: words/shoa3.md
                 - שׁוּעַ - cry for help: words/shua3.md
                 - שֶׁלֶג - snow: words/sheleg.md
+                - שִׁפְחָה - maidservant: words/shipchah.md
+                - שַׁרְבִיט - sceptre: words/sharbit.md
             - ת:
                 - תְּבוּנָה - understanding: words/thbunah.md
                 - תְּכֵלֶת - bluish purple: words/thkeleth.md
@@ -136,10 +155,16 @@ nav:
             - Light: semantic_fields/light.md
             - Metals: semantic_fields/metals.md
             - Morality: semantic_fields/morality.md
+            - More?: semantic_fields/MORE?.md
+            - Semantic Field 1: semantic_fields/semantic_field_1.md
+            - Semantic Field 2: semantic_fields/semantic_field_2.md
+            - Servitude: semantic_fields/servitude.md
+            - Supernatural Beings: semantic_fields/supernatural beings.md
             - Textile Production: semantic_fields/textile production.md
             - Transport: semantic_fields/transport.md
             - Tribute: semantic_fields/tribute.md
             - Utensils: semantic_fields/utensils.md
+            - Utensils Or Other: semantic_fields/UTENSILS OR OTHER.md
             - Weather: semantic_fields/weather.md
             - Weight: semantic_fields/weight.md
             - Writing: semantic_fields/writing.md
@@ -154,6 +179,7 @@ nav:
             - Raymond de Hoop: contributors/raymond_de_hoop.md
             - Johannes C. de Moor: contributors/johannes_c._de_moor.md
             - Kees den Hertog: contributors/kees_den_hertog.md
+            - Karel Deurloo: contributors/karel_deurloo.md
             - Meindert Dijkstra: contributors/meindert_dijkstra.md
             - Alison Gray: contributors/alison_gray.md
             - John E. Hartley: contributors/john_e._hartley.md
@@ -167,6 +193,7 @@ nav:
             - Alison Salvesen: contributors/alison_salvesen.md
             - Paul Sanders: contributors/paul_sanders.md
             - M. Patrizia Sciumbata: contributors/m._patrizia_sciumbata.md
+            - Haposan Cornelius Sinaga: contributors/haposan_cornelius_sinaga.md
             - Klaas A. D. Smelik: contributors/klaas_a._d._smelik.md
             - Willem Smelik: contributors/willem_smelik.md
             - Chiara Stornaiuolo: contributors/chiara_stornaiuolo.md
@@ -177,6 +204,8 @@ nav:
             - Bertus van ’t Veld: contributors/bertus_van_’t_veld.md
             - Klaas R. Veenhof: contributors/klaas_r._veenhof.md
             - Geert Jan Veldman: contributors/geert_jan_veldman.md
+            - Arian Verheij: contributors/arian_verheij.md
+            - Alice Wood: contributors/alice_wood.md
     - Editorial board:
             - Marilyn Burton: editorial_board/marilyn_burton.md
             - Raymond de Hoop: editorial_board/raymond_de_hoop.md

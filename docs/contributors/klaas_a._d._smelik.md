@@ -4,4 +4,4 @@
 
 
 ### Contributions
-[מְגִלָּה – scroll](../words/mgillah.md)<br>[נִשְׁתְּוָן – official letter](../words/nishthwan.md)<br>
+[מְגִלָּה – scroll](../words/mgillah.md)<br>[נִשְׁתְּוָן – official letter](../words/nishthwan.md)<br>[סִפְרָה – book](../words/siprah.md)<br>[סֵפֶר – document](../words/seper.md)<br>

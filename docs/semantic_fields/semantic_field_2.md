@@ -1,0 +1,7 @@
+<html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
+
+# **Semantic field 2**
+
+
+### Related words
+[וָו – hook](../words/waw.md)<br>

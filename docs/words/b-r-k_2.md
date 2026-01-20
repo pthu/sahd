@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=2BRKiv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># ברך <i>bārak</i> – to bless, praise
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=2BRKiv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># ברך <i>bērak</i> – to bless, praise
 
 Semantic Fields:
 [Blessing](../semantic_fields/blessing.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [James K. Aitken](../contributors/james_k._aitken.md)<br>
-First published: 2024-10-10<br>Citation: James K. Aitken, ברך <i>bārak</i> – to bless, praise, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2024
+First published: 2024-10-10<br>Citation: James K. Aitken, ברך <i>bērak</i> – to bless, praise, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2024
 
 
 
@@ -71,6 +71,7 @@ The <i>piel</i> is found 233 times in HB and represents the declarative: ‘to b
 
 
 ## 6.2 Pictorial Material
+
 
 ![EL](../images/photos/EL.jpg)
 

@@ -15,7 +15,7 @@ First published: 2014-11-30<br>Last update: 2024-06-30 <br>Citation: Kurtis Pete
 
 ## Introduction:
 
-Grammatical Type: vb.  
+Grammatical Type: verb <i>qal</i>   
 Occurrences: 3x HB (0/3/0); 0x Sir; 0x Qum.; 0x inscr. (Total: 3)
 
 * Nebiim: 1 Sam 2:15; Isa 44:16, 19.

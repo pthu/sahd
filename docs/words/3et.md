@@ -17,7 +17,7 @@ First published: 2025-03-07<br>Citation: Konrad D. Jenner,&nbsp;Geert Jan Veldma
 ## <span id="I">Introduction</span>
 
 
-Grammatical type: n.m.
+Grammatical type: noun masc.
 
 Occurrences: 4x HB (0/2/2); 0x Sir; 0x Qum; 0x Inscr. (Total: 4)
 

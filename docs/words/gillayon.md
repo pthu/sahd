@@ -17,7 +17,7 @@ First published: 2025-02-05<br>Citation: Archibald L.H.M. van Wieringen, גִּ�
 <span id="I"></span>
 ## Introduction
 
-Grammatical type: n.m.  
+Grammatical type: noun masc.  
 Occurrences:   2x HB (0/2/0); 0x Sir; 0x Qum; 0x Inscr.  (Total: 2).
 
 * Nebiim: Isa 3:23; 8:1.

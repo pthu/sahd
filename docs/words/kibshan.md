@@ -10,7 +10,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Jacques T.A.G.M. van Ruiten](../contributors/jacques_t.a.g.m._van_ruiten.md)<br>
-First published: 2025-02-05<br>Last update: 2025-06-02 (Paul Sanders) <br>Citation: Jacques T.A.G.M. van Ruiten, כִּבְשָׁן <i>kibšān</i> – kiln, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2025 (update: 2025)
+First published: 2025-02-05<br>Last update: 2026-01-06 (Paul Sanders) <br>Citation: Jacques T.A.G.M. van Ruiten, כִּבְשָׁן <i>kibšān</i> – kiln, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2025 (update: 2026)
 (WORK IN PROGRESS)
 
 
@@ -19,7 +19,7 @@ First published: 2025-02-05<br>Last update: 2025-06-02 (Paul Sanders) <br>Citati
 
 ## Introduction
 
-Grammatical type:   
+Grammatical type: noun masc.   
 Occurrences:   4x HB (4/0/0); 1x Sir; 1x Qum; 0x Inscr.  (Total: 6)
 
 * Torah: Gen 19:28; Exod 9:8, 10; 19:18.
@@ -41,6 +41,7 @@ Ps 68:23 (see <i>BHK</i><sup><small>a</small></sup>, <i>HALOT</i>, 460).
 ## 2. Formal Characteristics
 
 <b>A.1</b>  
+<!--Kennelijk niet in BL en Meyer-->
 
 ## 3. Syntagmatics 
 
@@ -63,8 +64,17 @@ Gen 19:28; Exod 9:8, 10; 19:18.
 <!--Omission in Sir?-->
 
 
+<b>c. Targum (Tg: O/N/PsJ/Frg/J/K):</b>:
+
+* <span dir="rtl">אַתוּנָא</span>, ‘fire-place, stove’: Gen 19:28; Exod 9:8, 10; 19:18 (in Tg<small><sup>O</sup></small>, Tg<small><sup>PsJ</sup></small>, Tg<small><sup>N</sup></small>; Tg<small><sup>N</sup></small>);
+* <span dir="rtl">נסופה</span>, ‘high’: only in Gen 19:28 Tg<small><sup>SmrA</sup></small> (<span dir="rtl">כתננה נסופה</span>, ‘like the high smoke’).<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup>
+
+<b>d.Vulgate (Vg):</b><sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup> 
+
+* <i>caminus</i>, ‘domestic stove or furnace’: Exod 9:8, 10.
+* <i>fornax</i>, ‘furnace, oven, kiln’: Gen 19:28; Exod 19:18; Sir 27:5[27:6].
 
 
 
-
-
+[^10]: Tal, <i>DSA</i>, 535.
+[^11]: The translations of the Latin are based on <i>OLD</i>.

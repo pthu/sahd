@@ -20,7 +20,7 @@ First published: 2025-03-07<br>Citation: Konrad D. Jenner,&nbsp;Geert Jan Veldma
 
 
 
-Grammatical type: n.m.
+Grammatical type: noun masc.
 
 Occurrences: 1x HB (0/1/0); 0x Sir; 0x Qum; 0x Inscr. (Total: 1)
 

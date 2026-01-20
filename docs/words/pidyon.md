@@ -21,6 +21,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 ## Introduction
 
 Grammatical type: noun masc.
+
 Occurrences: 2x HB (1/0/1); 0x Sir; 0x Qum; 0x inscr. (Total: 2).
 
 * Torah: Exod 21:30.

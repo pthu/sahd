@@ -5,11 +5,11 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1NXMv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># נחם <i>nāḥam</i> – to comfort, to change one's action, feeling or mind
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1NXMv" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># נחם <i>niḥam</i> – to comfort, to change one's action, feeling or mind
 
 Author(s):
 [Benjamin M. Bogerd](../contributors/benjamin_m._bogerd.md)<br>
-First published: 2025-04-02<br>Citation: Benjamin M. Bogerd, נחם <i>nāḥam</i> – to comfort, to change one's action, feeling or mind, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2025
+First published: 2025-04-02<br>Citation: Benjamin M. Bogerd, נחם <i>niḥam</i> – to comfort, to change one's action, feeling or mind, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2025
 (WORK IN PROGRESS)
 
 

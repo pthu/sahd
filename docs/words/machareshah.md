@@ -194,7 +194,7 @@ In modern Hebrew the word <span dir="rtl">מחרישה</span> means ‘plough’
 is a <i>miqtal</i> form with a feminine termination (BL, 490 aζ).
 
 <b> A.2</b>  \*<span dir="rtl">מַחֲרֵשָׁה</span> 
-is a <i>maqtil</i> form with a feminine termination. Many <i>maqtil</i> forms denote a utensil (BL, 492 qζ, sζ; Meyer 1969:34-35). 
+is a <i>maqtil</i> form with a feminine termination. Many <i>maqtil</i> forms denote a utensil (BL, 492 qζ, sζ; Meyer, <i>HG</i>, 34-35). 
 
 
 ##<span id="Syn">3. Syntagmatics</span>
@@ -736,11 +736,6 @@ McNutt 1990 <br>
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Meyer 1969 <br>
-Rudolf Meyer, <i>Hebräische Grammatik</i>, II: <i>Formenlehre, Flexionstabellen</i>, 3. Auflage, Berlin: de Gruyter.
-</div>
-
-<div style="padding-left: 22px; text-indent: -22px;">
 Nicholson & Shaw 2000 <br>
 Paul T. Nicholson, Ian Shaw (eds), <i>Ancient Egyptian Materials and Technology</i>, Cambridge: Cambridge University.
 </div>
@@ -823,7 +818,7 @@ Shamir Yona, Haim Dihi, Asnat Damri, Christian Stadel (eds), <i>‘I, Daniel, Un
 Many thanks are due to Jan A. Wagenaar (formerly Utrecht University) for allowing me to make use of his unpublished contributions to the KLY project. Thanks are also due to Benjamin Bogerd (Protestant Theological University, Utrecht).
 
 [^1]: If <span dir="rtl">מחרשֹׁת</span> in 13:21 were a plural form of  \*<span dir="rtl">מַחֲרֶשֶׁת</span>/\*<span dir="rtl">מַחֲרֵשָׁה</span>, the expected vocalisation in 13:21 would be  <span dir="rtl">מַחֲרָשֹׁת</span> (with <i>qameṣ</i>). Cf.  <span dir="rtl">מַעֲרָכוֹת</span> in Lev 24:6, <span dir="rtl">מַאֲכָלוֹת</span> in Prov 30:14, and the similar plural forms of other nouns mentioned in BL, 490&nbsp;aζ.
-[^2]: <i>DCH</i> v: 229-30. See also the discussion in <a href="#Versions">4. A.1-2</a> and <a href="#Exe-lit">6.1</a>.
+[^2]: <i>DCH</i> v:229-30. See also the discussion in <a href="#Versions">4. A.1-2</a> and <a href="#Exe-lit">6.1</a>.
 [^3]: See <i>BHK</i><sup><small>1</small></sup>, BDB, 361, and the literature mentioned in Barthélemy, <i>CTAT</i> 1:180.
 [^4]: See <i>BHK</i><sup><small>2/3</small></sup>, KBL, 515; Ges<sup><small>18</small></sup>, 661, and the literature mentioned in Barthélemy, <i>CTAT</i> 1:180-81. See also the critical assessment of this emendation by Koller (2012:84-85). In other contexts, δρέπανον  represents Heb. <span dir="rtl">מַזְמֵרָה</span> (Isa 2:4; 18:5; Mic 4:3; Joel 4:10) or Heb. <span dir="rtl">מַגָּל</span> (Jer 50:16 = 27:16<sup><small>LXX</small></sup>; Joel 4:13). Remarkably, no scholars seem to have suggested reading  <span dir="rtl">מזמרתו</span> or <span dir="rtl">מגלו</span> instead of <span dir="rtl">מחרשתו</span> at the end of 1 Sam 13:20. Stoebe (1973:254) proposed reading <span dir="rtl">חֲרִיצֹו</span> instead of <span dir="rtl">מחרשתו</span> (cf. 2 Sam 12:31).
 [^5]: Barthélemy, <i>CTAT</i> 1:181. Similarly: Cook (1994), who retained the MT as the <i>lectio difficilior</i>.

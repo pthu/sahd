@@ -1,17 +1,18 @@
----
-word_english: cherub   
-word_hebrew: כְּרוּב   
-transcription: <i></i>    
-title: 
-semantic_fields: supernatural beings   
-contributors: alice_wood  
-first_published: 2021-11-08  
-last_update: 2024-12-21   
-contributors_footnote: 
-additional_info: (WORK IN PROGRESS)  
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
- 
----
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1KRWBin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># כְּרוּב <i></i> – cherub
+
+Semantic Fields:
+[Supernatural Beings](../semantic_fields/supernatural beings.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Alice Wood](../contributors/alice_wood.md)<br>
+First published: 2021-11-08<br>Last update: 2024-12-21 <br>Citation: Alice Wood, כְּרוּב <i></i> – cherub, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2021 (update: 2024)
+(WORK IN PROGRESS)
+
 
 
 

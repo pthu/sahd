@@ -20,7 +20,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
 
-Grammatical Type: vb <i>qal</i> and <i>niph.</i>  
+Grammatical Type: verb <i>qal</i> and <i>niph.</i>  
 Occurrences: 103x<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> HB (qal: 28/31/36; <i>niph.</i>: 7/1/0); 1(2?)x Sir; 16x Qum; 1(?)x inscr. (Total: 120 [121/122?]).
 
 [^1]: <i>DCH</i> ii: 293, mentions 104x for the HB, and 96x for the <i>qal</i>, but <i>DCHR</i> ii: 315, gives the number of 103x, and 95x for the <i>qal</i>, which agrees with the findings in <i>Accordance</i> and <i>SHEBANQ</i>.

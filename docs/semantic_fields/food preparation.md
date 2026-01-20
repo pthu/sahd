@@ -4,4 +4,4 @@
 
 
 ### Related words
-[צלה – to roast](../words/ts-l-h.md)<br>[קַלַּחַת – stewpot](../words/qallachat.md)<br>
+[כִּיר – cooking-stove](../words/kir.md)<br>[צלה – to roast](../words/ts-l-h.md)<br>[קַלַּחַת – stewpot](../words/qallachath.md)<br>

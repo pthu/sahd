@@ -30,7 +30,7 @@ Occurrences: 15x HB (0/11/4); 0x Sir; 0x Qum; 0x Inscr. (Total: 15)
 
 <b>A.1</b> 
 <i>Root:</i>
-The word <span dir="rtl">גֻּלָּה</span> derives from the √<i>gll</i> ‘to be round’ and basically designates a spherical vessel.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> Other derivatives of the same root designate circular objects, like wheels, disks and balls. In several Semitic languages, among them Arabic, derivatives of the √<i>gwl</i> have similar meanings.
+The word <span dir="rtl">גֻּלָּה</span> derives from the root <i>gll</i>, ‘to be round’, and basically designates a spherical vessel.<sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> Other derivatives of the same root designate circular objects, like wheels, disks and balls. In several Semitic languages, among them Arabic, derivatives of the root <i>gwl</i> have similar meanings.
 
 <b>A.2</b> 
 <i>Akkadian:</i>
@@ -38,7 +38,7 @@ In Mari the <i>gullum</i>, a Syrian vessel,  was a large hemispherical drinking 
 
 <b>A.3</b> 
 <i>Ugaritic:</i>
-<i>gl</i> ‘cup’ (of silver and gold).<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>
+<i>gl</i>, ‘cup’, (of silver and gold).<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup>
 
 <b>A.4</b> 
 <i>Phoenician, Punic:</i>
@@ -46,19 +46,19 @@ See under Greek and Latin.
 
 <b>A.5</b> 
 <i>Samaritan Aramaic:</i>
-<span dir="rtl">אגול</span> ‘pond’, and <span dir="rtl">גולה</span>, a ‘jewel’ (as rendering of <span dir="rtl">כוּמָז</span>, a roundish gold jewel, in Exod. 35:22).<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup>
+<span dir="rtl">אגול</span>, ‘pond’, and <span dir="rtl">גולה</span>, a ‘jewel’ (as rendering of <span dir="rtl">כוּמָז</span>, a roundish gold jewel, in Exod. 35:22).<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup>
 
 <b>A.6</b> 
 <i>Classical Arabic:</i>
-<i>ǧullat</i> ‘a large receptacle ... for dates’; 489, <i>ǧūll</i> ‘wall surrounding a well’.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup>
+<i>ǧullat</i>, ‘a large receptacle ... for dates’; 489, <i>ǧūll</i> ‘wall surrounding a well’.<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup>
 
 <b>A.7</b> 
 <i>Ethiopic:</i>
-<i>g<sup>w</i>ellelāt</sup> ‘metal ornament surmounted by a cross placed atop a church’<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup>; <i>gull<sup>e</i>lat</sup>, ‘clay pot put on the top of an Ethiopian house, cupola, dome’.<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup>
+<i>g<sup>w</sup>ellelāt</i>, ‘metal ornament surmounted by a cross placed atop a church’<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup>; <i>gull<sup>e</sup>lat</i>, ‘clay pot put on the top of an Ethiopian house, cupola, dome’.<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup>
 
 <b>A.8</b> 
 <i>Sanskrit, Greek and Latin:</i>
-Probably Sanskrit <i>gôlas</i>, ‘a waterpot’, Greek γαυλός ‘milk-pail, water-bucket, machine for raising water, any round vessel’, γαῦλος ‘round-built Phoenician ship’<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> and Latin <i>gaulus</i>, ‘pail, round vessel’<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> are all loans from Semitic languages.<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup> 
+Probably Sanskrit <i>gôlas</i>, ‘a waterpot’, Greek γαυλός, ‘milk-pail, water-bucket, machine for raising water, any round vessel’, γαῦλος, ‘round-built Phoenician ship’,<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> and Latin <i>gaulus</i>, ‘pail, round vessel’,<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> are all loans from Semitic languages.<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup> 
 
 </a><b>A.9</b> 
 <i>Rabbinical Literature:</i>
@@ -68,7 +68,7 @@ The word <span dir="rtl">גּוּלָה</span> in the meaning of ‘cup, bowl’
 ## 2. Formal Characteristics
 
 <b>A.1</b>
-The lexeme <span dir="rtl">גֻּלָּה</span> is a feminine <i>qull</i> form from the root <span dir="rtl">גלל</span>; see BL 455, §61gʹ; cf. <i>HALOT</i>, 192 (with question mark). The <i>mappiq</i> in the letter <span dir="rtl">ה</span> in Zech 4:2 is a pointing error (BL 598, §74hʹ). Steudel <i>et al.</i>(2018:35) refer to the lexeme as <i>qutl-at</i>. 
+The lexeme <span dir="rtl">גֻּלָּה</span> is a feminine <i>qull</i> form from the root <span dir="rtl">גלל</span>; see BL 455, §61gʹ; cf. <i>HALOT</i>, 192 (with question mark). The <i>mappiq</i> in the letter <span dir="rtl">ה</span> in Zech 4:2 is a pointing error (BL 598, §74hʹ). Steudel <i>et al.</i> (2018:35) refer to the lexeme as <i>qutl-at</i>. 
 
 
 ## 3. Syntagmatics
@@ -80,7 +80,7 @@ The lexeme <span dir="rtl">גֻּלָּה</span> is a feminine <i>qull</i> form 
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:<sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup>  
 
-* Γολαθμαιν (Josh 15:19, 3x, with many orthographic variants, apparently taking it as a placename, \*<span dir="rtl">מים</span> <span dir="rtl">גאלת</span>), like λύτρωσις ὕδατος ‘ransom of water’ (Judg 1:15, 3x, representing \*<span dir="rtl">מים</span> <span dir="rtl">גאלת</span>);
+* Γολαθμαιν (Josh 15:19, 3x, with many orthographic variants, apparently taking it as a placename, \*<span dir="rtl">מים</span> <span dir="rtl">גאלת</span>), like λύτρωσις ὕδατος, ‘ransom of water’ (Judg 1:15, 3x, representing \*<span dir="rtl">מים</span> <span dir="rtl">גאלת</span>);
 * λύτρωσις, ‘act of procuring release from bondage’, here ‘claim on that which is currently not in one's possession’: Judg 1:15;  
 * στρεπτός, ‘twisted’, here ‘wreathed decorative work on the capital of a column’: 1 Kgs 7:41-42 (LXX 7:27-28); 
 * λαμπαδεῖον, ‘bowl (of a lamp)’: Zech 4:2-3; 
@@ -111,7 +111,7 @@ In Qoh. 12:6 α´ has λύτρωσις, probably representing <span dir="rtl">ג
 * <i>inriguum</i>, ‘watered, sprinkled’: Josh 15:19; Judg 1:15; 
 * <i>funiculos</i>, ‘cord’: 1 Kgs 7:41-42; 
 * <i>lampas</i>, ‘lampstand’: Zech 4:2-3; 
-* <i>vitta</i>, ‘cord’: Qoh 12:6ܚ
+* <i>vitta</i>, ‘cord’: Qoh 12:6;
 * <i>epistylia</i>, ‘architrave’: 2 Chron 4:12-13.
 
 

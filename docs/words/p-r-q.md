@@ -18,7 +18,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
 
-Grammatical Type: vb. <i>qal</i>, <i>piel</i>, <i>hithp.</i>  
+Grammatical Type: verb <i>qal</i>, <i>piel</i>, <i>hithp.</i>  
 Occurrences: 10x HB (<i>qal</i> 1/0/3; <i>piel</i> 1/2/0; <i>hithp.</i> 2/1/0); 0x Sir; 1x Qum (<i>qal</i>); 0x inscr. (Total: 11).
 
 * Torah – <i>qal</i>: Gen 27:40.

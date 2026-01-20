@@ -439,7 +439,7 @@ Deut 33:8<sup><small>VL</small></sup> (order reversed);
 (for <span dir="rtl">תֻּמִּים</span> Ezra 2:63/Neh 7:65). 
 
 <b>A.1</b>
-Some renderings in the older layers of LXX seem to be based on guesses prompted by the context,
+Some renderings in the older layers of LXX seem to be based on the context,
 such as δήλωσις and δῆλος pl. as translations of <span dir="rtl">אוּרִים</span>, but 
 especially ἀλήθεια as translation of <span dir="rtl">תֻּמִּים</span>,
 although these renderings may reflect an early interpretation of <span dir="rtl">אוּרִים</span> as a derivative of <span dir="rtl">ירה</span>
@@ -854,8 +854,7 @@ To ‘the gods’. Third: ‘The enemy’ took for himself ‘battle’, and ‘
 
 
 Only in a small number of reports, no outcome of the procedure is mentioned, even though the ritual was performed three times.
-Some of the sections describing such an unresolved oracular quest end in an extensive unwritten space, perhaps to make a later addition of the outcome possible 
-(Orlamünde 2001:301 n. 42; Warbinek 2019b:143-47).
+Some of the sections describing such an unresolved oracular quest end with an extensive blank space, perhaps to allow for a later addition of the outcome (Orlamünde 2001:301 n. 42; Warbinek 2019b:143-47).
 Unfortunately, we can no longer retrieve how the ritual was performed. In a thorough study of one of the KIN texts (<i>KUB</i> 
 5.1 + 52.65),
 Julia Orlamünde hints at the possibility that 
@@ -943,7 +942,7 @@ cf. <a href="#Exe-ANET">Ancient Near Eastern Parallels A.1</a>.
 <span dir="rtl">תֻּמִּים</span>, ‘Thummim’, is uncertain. The traditional derivation from √אור, ‘to be(come) light’, and from √תמם, ‘to be(come) complete’, respectively, is one of the options. 
 Although the Hebrew Bible includes several references to the Urim and Thummim, 
 their physical nature—including their number, shape and colours—also remains unknown. 
-The manner in which they were operated can neither be retrieved with any precision. 
+Nor can the manner in which they were employed be retrieved with any precision. 
 
 <b>A.2</b> The Urim and Thummim must have been two or more small objects that played a crucial role in a legitimate oracular procedure that
 aimed at determining the will of God. The objects were entrusted to the high priest, who carried them in a 

@@ -16,7 +16,7 @@ First published: 2024-10-10<br>Citation: James K. Aitken, קבב <i>qābab</i> �
 
 ## Introduction
 
-Grammatical Type: vb. <i>qal</i>  
+Grammatical Type: verb <i>qal</i>  
 Occurrences: 14x HB (10/0/4); 1x Sir; 0x Qum, 0x inscr. (Total: 15).
 
 * Torah – Num 22:11, 17; 23:8 (2x), 11, 13, 25 (2x), 27; 24:10;
