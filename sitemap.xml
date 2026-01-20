@@ -246,11 +246,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pthu.github.io/sahd/semantic_fields/UTENSILS%20OR%20OTHER/</loc>
-         <lastmod>2026-01-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://pthu.github.io/sahd/semantic_fields/agriculture/</loc>
          <lastmod>2026-01-20</lastmod>
          <changefreq>daily</changefreq>
@@ -362,6 +357,11 @@
     </url>
     <url>
          <loc>https://pthu.github.io/sahd/semantic_fields/servitude/</loc>
+         <lastmod>2026-01-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pthu.github.io/sahd/semantic_fields/supernatural%20beings/</loc>
          <lastmod>2026-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
