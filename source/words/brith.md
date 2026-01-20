@@ -47,8 +47,7 @@ Occurrences: 287 HB (82/138/67); 10x Sir; 187x Qum; 1x Inscr. (Total: 485)
 ### Text Doubtful
 
 <b>A.1</b> 
-<i>DCH</i> (ii:264-67) and <i>DCHR</i> (ii:274-77) distinguish a \*<span dir="rtl">בְּרִית</span> II, ‘fetter’ (only in Ezek 20:37), 
-<!--cf LXX-->
+<i>DCH</i> (ii:264-67) and <i>DCHR</i> (ii:274-77) distinguish a \*<span dir="rtl">בְּרִית</span> II, ‘fetter’ (only in Ezek 20:37), <!--cf LXX-->
 and a 
  \*<span dir="rtl">בְּרִית</span> III, ‘splendour’ (only in Isa 42:6),
 from \*<span dir="rtl">בְּרִית</span> I, ‘covenant’, ‘agreement’, ‘obligation’ (285x).
@@ -119,7 +118,7 @@ Bir-/Beri "among/between" wel volgens Rainey, EA Correspondence.-->
 
 
 <b>A.7</b>
-The word <i>b-r-t</i> occurs in Egyptian hieratic inscriptions from the time of the Nineteenth Dynasty (ca. 1292 to 1189 BCE). The <a href="https://thesaurus-linguae-aegyptiae.de/lemma/56650" target="_blank" rel="noopener noreferrer">Thesaurus Linguae Aegyptiae</a> includes three occurrences of the word <i>b-r-t</i> in texts from the time of Seti I, and one from the time of Merneptah. Each of the three occurrences from the time of Seti 1 relates to an agreement implying compulsory labour, namely ploughing or harvesting.
+The word <i>b-r-t</i> occurs in Egyptian hieratic inscriptions from the time of the Nineteenth Dynasty (ca. 1292 to 1189 BCE). The <a href="https://thesaurus-linguae-aegyptiae.de/lemma/56650" target="_blank" rel="noopener noreferrer">Thesaurus Linguae Aegyptiae</a> includes three occurrences of the word <i>b-r-t</i> in texts from the time of Seti I, and one from the time of Merneptah. Each of the three occurrences from the time of Seti I relates to an agreement implying compulsory labour, namely ploughing or harvesting.
 There are additional occurrences of <i>b-r-t</i> in hieratic texts from the Nineteenth and Twentieth Dynasties, in which the word relates to an agreement, or forced labour, and in which it also seems to be a Canaanite loanword
 (Wimmer 2022:40-41; see also Ges<sup>18</sup>, 176 s.v. <span dir="rtl">בְּרִית</span>). A text from Medinat Habu from the reign of Ramses III reads:
 ‘Let us make a <i>brt</i> with each other!’ 
@@ -144,7 +143,7 @@ Important for the question of the etymological background of Hebrew <span dir="r
 
 <b>A.1</b> 
 Bauer and Leander (BL, 604-05) regard <span dir="rtl">בְּרִית</span> as a fem. -<i>it</i> form derived from the root <span dir="rtl">ברה</span>.
-Meyer (1969:22-23) regards <span dir="rtl">בְּרִית</span> as a <i>qatl</i> form. However, since the derivation of <span dir="rtl">בְּרִית</span> is questionable, these interpretations are also uncertain.
+Meyer (<i>HG</i>, 22-23) regards <span dir="rtl">בְּרִית</span> as a <i>qatl</i> form. However, since the derivation of <span dir="rtl">בְּרִית</span> is questionable, these interpretations are also uncertain.
 
 
 ##<span id="Syn">3. Syntagmatics</span> 
@@ -610,12 +609,6 @@ Ernst Kutsch, ‘<span dir="rtl">בְּרִית</span>
 Leslau 2006 <br>
 Wolf Leslau, <i>Comparative Dictionary of Ge‘ez (Classical Ehiopic): Ge‘ez-English/English-Ge‘ez with an index of Semitic Roots</i>, Wiesbaden: Harrassowitz.
 </div>
-
-<div style="padding-left: 22px; text-indent: -22px;">
-Meyer 1969 <br>
-Rudolf Meyer, <i>Hebräische Grammatik</i>, II: <i>Formenlehre, Flexionstabellen</i>, 3. Auflage, Berlin: de Gruyter.
-</div>
-
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Noth 1957 <br>

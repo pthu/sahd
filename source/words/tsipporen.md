@@ -22,7 +22,7 @@ additional_info: (WORK IN PROGRESS)
 
 
 
-Grammatical type: n.m.
+Grammatical type: noun masc.
 
 
 Occurrences: 2x HB (1/1/0); 0x Sir; 2x Qum; 0x Inscr. (Total: 4)

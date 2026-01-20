@@ -12,7 +12,7 @@ last_update:
 
 ##<span id="I">Introduction</span>
 
-Grammatical type: verb  
+Grammatical type: verb <i>qal</i>   
 Occurrences: 2x HB (2/0/0); 0x Sir; 0x Qum; 0x Inscr. (Total: 2)
 
 * Torah: Exod 35:25, 26. <br>

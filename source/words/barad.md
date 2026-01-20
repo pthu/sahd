@@ -6,7 +6,7 @@ title:
 semantic_fields: weather   
 contributors: chiara_stornaiuolo  
 first_published: 2024-11-28  
-last_update: 2024-12-1 (Paul Sanders)   
+last_update: 2025-12-24 (Paul Sanders)   
 update_info:
 additional_info: (WORK IN PROGRESS)      
 shebanq_id:  
@@ -16,13 +16,13 @@ shebanq_id:
 
 ## Introduction
 
-Grammatical type: n.m.  
+Grammatical type: noun masc.  
 Occurrences: 29× HB (17/5/7); 5× Sir; 3× Qum; 0× Inscr. (Total: 37)  
 
 * Torah: Exod 9:18, 19, 22, 23 (2x), 24 (2x), 25 (2x), 26, 28, 29, 33, 34; 10:5, 12, 15;
 * Nebiim: Josh 10:11; Isa 28:2, 17; 30:30; Hag 2:17;
 * Ketubim: Pss 18:13, 14; 78:47, 48; 105:32; 148:8; Job 38:22;
-* Sir: 32:10<sup><small>B</small></sup> (2x; see A.4);
+* Sira: 32:10<sup><small>B</small></sup> (2x; see A.4);
 39:29<sup><small>B</small></sup>; 
 43:13<sup><small>Mas</small></sup> (see A.5); 
 43:15<sup><small>Mas</small></sup> (see A.5);
@@ -36,7 +36,7 @@ Occurrences: 29× HB (17/5/7); 5× Sir; 3× Qum; 0× Inscr. (Total: 37)
 4Q222 (4QJub<sup><small>g</small></sup>) fr3:2; see A.6 below. 
 
 
-<b>A.1</b> The lexeme <span dir="rtl">בֶּרֶד</span> (LXX Βαραδ) occurs once as a toponym (Gen 16:14, pausal <span dir="rtl">בָּרֶד</span>) and once as a personal name (1 Chron 7:20; LXX Βαραδ). These occurrences are not taken into consideration for the semantic analysis.
+<b>A.1</b> The lexeme <span dir="rtl">בֶּרֶד</span> occurs once as a toponym (Gen 16:14, pausal <span dir="rtl">בָּרֶד</span>; LXX Βαραδ) and once as a personal name (1 Chron 7:20; LXX Βαραδ). These occurrences are not taken into consideration for the semantic analysis.
 
 <b>A.2</b>  The denominative verb <span dir="rtl">ברד</span> appears only in Isa 32:19: 
 <span dir="rtl">וּבָרַד בְּרֶדֶת הַיָּעַר</span>. The verb is supposed to mean ‘to hail’ (<i>HALOT</i>, 154; <i>DCH</i> ii:259) and a
@@ -49,7 +49,7 @@ the Hebrew text is often regarded as corrupt. It has been proposed to read <span
 
 <b>A.3</b>  In MT Ps 18:14 reads as follows: 
 <span dir="rtl">‏וַיַּרְעֵם בַּשָּׁמַיִם יְֽהוָ֗ה וְעֶלְיוֹן יִתֵּן קֹלוֹ בָּרָד וְגַחֲלֵי־אֵשׁ</span>, ‘and YHWH thundered in heaven; Elyon gave forth his voice; hail and coals of fire’.
-The final colon, <span dir="rtl">בָּרָד וְגַֽחֲלֵי־אֵֽשׁ</span>, ‘hail and coals of fire’, also occurs at the end of Ps 18:13.
+The final colon, <span dir="rtl">בָּרָד וְגַחֲלֵי־אֵשׁ</span>, ‘hail and coals of fire’, also occurs at the end of Ps 18:13.
 The colon is missing in LXX
 (17:14<sup><small>LXX</small></sup>), but is attested in Tg 
 (<span dir="rtl">ברדא וגומרין די נור</span>, ‘hail and coals of fire’),
@@ -68,10 +68,10 @@ Marginal note: <span dir="rtl">בררי נצח ברד</span>, ‘flashed hailsto
 
 <b>A.5</b>  There are different readings between Sir 43:13<sup><small>Mas</small></sup>; 43:15<sup><small>Mas</small></sup> and 43:13<sup><small>B</small></sup>. The Masada Scroll shows  <span dir="rtl">ברד</span> in Sir 43:13<sup><small>Mas</small></sup> and Sir 43:15<sup><small>Mas</small></sup>. In the Cairo Genizah ms B, Sir 43:13<sup><small>B</small></sup> occurs <span dir="rtl">ברק</span> instead of  <span dir="rtl">ברד</span> while Sir 43:15<sup><small>B</small></sup> is not preserved. The different versions read as follows:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir 43:13<sup><small>Mas</small></sup>: <span dir="rtl">גערתו [תתו]ה̊ ברד</span>, ‘his rebuke marks out the hail’.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir 43:13<sup><small>B-<i>text</i></small></sup>: <span dir="rtl">גבורתו תתוה ברק</span>, ‘his strength marks out the thunder’.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir 43:13<sup><small>B-<i>marg</i></small></sup>: <span dir="rtl">גערתו תתוה בקר</span>, ‘his rebuke marks out the morning’.   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir 43:13<sup><small>LXX</small></sup>: προστάγματι αὐτοῦ κατέσπευσεν χιόνα, ‘by his ordinance he urges on snow’.
+* Sir 43:13<sup><small>Mas</small></sup>: <span dir="rtl">גערתו [תתו]ה̊ ברד</span>, ‘his rebuke marks out the hail’.  
+* Sir 43:13<sup><small>B-<i>text</i></small></sup>: <span dir="rtl">גבורתו תתוה ברק</span>, ‘his strength marks out the thunder’.  
+* Sir 43:13<sup><small>B-<i>marg</i></small></sup>: <span dir="rtl">גערתו תתוה בקר</span>, ‘his rebuke marks out the morning’.   
+* Sir 43:13<sup><small>LXX</small></sup>: προστάγματι αὐτοῦ κατέσπευσεν χιόνα, ‘by his ordinance he urges on snow’.
 
 This verse fits into a passage in which the various elements of weather are described as expression of the divine. God manifests his rebuke trough natural elements, like hail, clouds, and thunder. We can compare Sir 43:13 with Ps 8:8-16, a lucid example of the majestic and disruptive power of YHWH.   
 According to Yadin (1999:189) the reading of Sir 43:13<sup><small>B</small></sup> is more appropriate and the author of the Masada Scroll may have miscopied, reading <span dir="rtl">ברד</span> on the basis of Sir 43:15 (<span dir="rtl">גבורתו חזק ענן ותגדע א̊ב̊ני ברד</span>, ‘Clouds derive their strength from his might and his might fells the hailstones’). To deepen the question, as pointed by Shean and di Lella  (1987:493), we should observe the next verse:
@@ -145,21 +145,18 @@ mentions a house made of hailstones in heaven.
 
 <b>A.4</b> <i>Mandaic</i>:  <span dir="rtl">בַּרְדָא</span> <i>barda</i>, ‘cold, hail’.[^5]
 
-<b>A.5</b> <i>Syriac</i>: <span dir="rtl">ܒܰܪܕܳܐ</span>,  ‘hail’;[^syr] New Syriac <i>berda</i>, ‘hail’.[^nsyr] 
+<b>A.5</b> <i>Syriac</i>: <span dir="rtl">ܒܪܕܐ</span> (<i>bardā</i>), ‘hail’;[^6] New Syriac <i>berda</i>, ‘hail’.[^7] 
 
-[^syr]: Payne Smith, <i>CSD</i>, 55.
-[^nsyr]: <i>DISO</i>, 43; KAI ??? ii, 248.
+<b>A.6</b>  <i>Arabic</i>: <i>barad</i>, ‘hail’;[^8] <i>barada</i> and <i>baruda</i>, ‘to be cold’, ‘to become cold’; <i>bard</i>, ‘cold’.[^9]
 
-<b>A.6</b>  <i>Arabic</i>: <i>barad</i>, ‘hail’;[^6] <i>barada</i> and <i>baruda</i>, ‘to be cold’, ‘to become cold’; <i>bard</i>, ‘cold’.[^7]
-
-<b>A.7</b>  <i>Old South Arabic</i>: <i>brd</i> ‘hail’.[^8]
+<b>A.7</b>  <i>Old South Arabic</i>: <i>brd</i> ‘hail’.[^10]
 
 <b>A.8</b> <i>Ethiopian</i>: <i>barad</i>, ‘hail’; 
 Tigre, Tigrinya: <i>bäräd</i>, ‘hail’;
 Amharic: <i>bärädo</i>, ‘hail’; 
 Eth. and Ge’ez: <i>’abrada</i>, ‘cool’; 
 Tigre: <i>bärdä</i>, <i>bärdädä</i>; 
-Amharic: <i>bärrädä</i>, ‘to become cold’.[^9]
+Amharic: <i>bärrädä</i>, ‘to become cold’.[^11]
 
 ## 2. Formal Characteristics
 
@@ -209,7 +206,7 @@ Proto-NW-Semitic \*<i>ā</i> to turn into \*<i>ō</i>. Suchard (2020:72) refers 
 <b>A.5</b>   <span dir="rtl">בָּרָד</span> is governed by the following prepositions:
 
 *  <span dir="rtl">מִן</span>, ‘from’, with verb  <span dir="rtl">שׁאר</span>  <i>niphal</i>, ‘to be left’: Exod 10:5;
-*  <span dir="rtl">בְּ</span>, ‘with’, with verb  <span dir="rtl">נכה</span>, ‘to smite’ <i>hiphil</i>: Hag 2:17, with verb <span dir="rtl">הרג</span>, ‘to destroy’ <i>qal</i>: Ps 78:47, with verb  <span dir="rtl">נכה</span> <i>hiphil</i>, ‘to smite’: 4Q422 3:10;[^10]
+*  <span dir="rtl">בְּ</span>, ‘with’, with verb  <span dir="rtl">נכה</span>, ‘to smite’ <i>hiphil</i>: Hag 2:17, with verb <span dir="rtl">הרג</span>, ‘to destroy’ <i>qal</i>: Ps 78:47, with verb  <span dir="rtl">נכה</span> <i>hiphil</i>, ‘to smite’: 4Q422 3:10;[^12]
 *  <span dir="rtl">לְ</span>, ‘to’, with verb  <span dir="rtl">סגר</span>  <i>hiphil</i>, ‘to hand over’: Ps 78:48;
 * ‎  <span dir="rtl">בְּתוֹךְ</span>, ‘among’, with verb  <span dir="rtl">לקח</span> <i>hithpael</i>, ‘to flash’: Exod 9:24;
 *  <span dir="rtl">לִפְנֵי</span>, ‘before’, with verb  <span dir="rtl">נצח</span>, ‘to flash’: Sir 32:10<sup><small>B</small></sup>.
@@ -218,19 +215,19 @@ Proto-NW-Semitic \*<i>ā</i> to turn into \*<i>ō</i>. Suchard (2020:72) refers 
 
 <b>a. Septuagint (LXX):</b>
 
-* χάλαζα, ‘hail’:[^12] Exod 9:18, 19, 22, 23 (2x), 24 (2x), 25 (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10, 11; Isa 28:2; 30:30; Hag 2:17; Pss 18[17]:13; 78[77]:47, 48; 105[104]:32; 148:8; Job 38:22; Sir 39:29; 43:15;
-* χιών, ‘snow’:[^13] Sir 43:13;
+* χάλαζα, ‘hail’:[^13] Exod 9:18, 19, 22, 23 (2x), 24 (2x), 25 (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10, 11; Isa 28:2; 30:30; Hag 2:17; Pss 18[17]:13; 78[77]:47, 48; 105[104]:32; 148:8; Job 38:22; Sir 39:29; 43:15;
+* χιών, ‘snow’:[^14] Sir 43:13;
 * no rendering: Isa 28:17; Ps 18:14 (χάλαζα in 
-σʹθ´[^20]); Sir 32:10 (2x).
+σʹθ´[^15]); Sir 32:10 (2x).
 
-[^20]: Field II:110; cf. Barthélemy 2005: 90.
+<!--Field II:110; cf. Barthélemy 2005: 90.[^16] CHECK!--> 
 
 <b>b. Peshitta (Pesh):</b>  
 
-* <span dir="rtl">ܒܪܕܐ</span> (<i>brdʾ</i>), ‘hail stones’:[^15] Exod 9:18, 19, 22, 23 (2x), 24 (2x), 25 (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10:11; Isa 28:2; 28:17; 30:30; Hag 2:17; Pss 18:13, 14; 78:47, 48; 105:32; 148:8; Job 38:22; Sir 39:29<sup><small>B</small></sup>;
+* <span dir="rtl">ܒܪܕܐ</span> (<i>bardā</i>), ‘hail’:[^17] Exod 9:18, 19, 22, 23 (2x), 24 (2x), 25 (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10:11; Isa 28:2; 28:17; 30:30; Hag 2:17; Pss 18:13, 14; 78:47, 48; 105:32; 148:8; Job 38:22; Sir 39:29<sup><small>B</small></sup>;
 * verse omitted: Sir 32:10; 43:13, 15.
 
-<b>c. Targum (Tg: O/N/PsJ/Frg/J/K):</b>[^14]:
+<b>c. Targum (Tg: O/N/PsJ/Frg/J/K):</b>[^18]:
 
 * <span dir="rtl">ברד</span>, ‘hail’: Exod 9:18, 19, 22, 23 (2x), 24 (2x), 25 (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10:11; Isa 28:2; Isa 30:30; Hag 2:17; Pss 18:13, 14; 78:47, 48; 105:32; 148:8; Job 38:22;
 * <span dir="rtl">רְגַז</span>, ‘anger’: Isa 28:17.
@@ -238,7 +235,7 @@ Proto-NW-Semitic \*<i>ā</i> to turn into \*<i>ō</i>. Suchard (2020:72) refers 
 
 <b>d.Vulgate (Vg):</b> 
 
-* <i>grando</i>, ‘grandine’:[^16] Exod 9:18, 19, 22, 23 (2x), 24 (1st), 25  (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10:11; Isa 28:2; 30:30; Hag 2:18; Pss 18:13, 14; 78:47, 48; 105:32; 148:8; Job 38:22; Sir 32:14(10); 39:35(29); 43:16(15);
+* <i>grando</i>, ‘grandine’:[^19] Exod 9:18, 19, 22, 23 (2x), 24 (1st), 25  (2x), 26, 28, 29, 33, 34; 10:5, 12, 15; Josh 10:11; Isa 28:2; 30:30; Hag 2:18; Pss 18:13, 14; 78:47, 48; 105:32; 148:8; Job 38:22; Sir 32:14(10); 39:35(29); 43:16(15);
 * no rendering: Exod 9:24 (2nd); Sir 43:13.
 
 <b>A.1</b>  In Josh 10:11<sup><small>LXX</small></sup> the word χάλαζα occurs two times, while in MT the word <span dir="rtl">ברד</span> occurs only once. The second time it is used to render <span dir="rtl">אַבְנֵי הַבָּרָד</span>,
@@ -260,12 +257,12 @@ Proto-NW-Semitic \*<i>ā</i> to turn into \*<i>ō</i>. Suchard (2020:72) refers 
 *  <span dir="rtl">עָנָן</span>, ‘cloud’: Sir 43:15<sup><small>Mas</small></sup>; 4Q381 fr14+5:2;
 *  <span dir="rtl">עבים</span>, ‘clouds’: 4Q381 fr14+5:2.
 
-<b>A.2</b> Besides the lexical field of the meteorological phenomena  <span dir="rtl">בָּרָד</span> is found in close relationship with terms referring to natural phenomena related to water and to fire:
+<b>A.2</b> Besides the lexical field of the meteorological phenomena, <span dir="rtl">בָּרָד</span> is found in close relationship with terms referring to natural phenomena related to water and to fire:
 
 *  <span dir="rtl">מַיִם</span>, ‘water’: Isa 28:17;
 *  <span dir="rtl">חֲנָמַל</span>, ‘flood’: Ps 78:47; 4Q 422 3:10;
 *  <span dir="rtl">קֶרַח</span>, ‘ice’: 4Q473 2:6;
-*  <span dir="rtl">אֵשׁ</span>, ‘fire’: Es 9:23, 24; Pss 105:32; 148:8; Sir 39:29<sup><small>B</small></sup>;
+*  <span dir="rtl">אֵשׁ</span>, ‘fire’: Exod 9:23, 24; Pss 105:32; 148:8; Sir 39:29<sup><small>B</small></sup>;
 *  <span dir="rtl">לַהַב אֵשׁ אוֹכֵלָה</span>, ‘flame of devouring fire’: Isa 30:30;
 *  <span dir="rtl">רְשָׁפִים</span>, ‘flame’: Ps 78:48;
 *  <span dir="rtl">גַחֲלֵי</span>- <span dir="rtl">אֵשׁ</span>, ‘coals of fire’: Ps 18:13, 14.
@@ -292,38 +289,38 @@ Proto-NW-Semitic \*<i>ā</i> to turn into \*<i>ō</i>. Suchard (2020:72) refers 
 
 
 <b>A.5</b>  In Josh 10:11; Isa 28:2, 17; 30:30 and Ps 18:13-14 the hail is a sign of divine power unleashed against the enemies of Israel. In Josh 10:11 we found  <span dir="rtl">אַבְנֵי הַבָּרָד</span>, ‘hailstones’. In the context God provides victory for Israel against his enemies. It is clear that the victory is due to the divine power that manifest itself with disruptive natural and meteorological phenomena. There is, indeed, a cooperation between Joshua and God. The hailstones which killed the Amorites in Josh 10:11 must have come from an exceptionally heavy cumulo-nimbus which had covered the sun. It is important to note that, according to Efrat and Orni (1971:155), ‘the coastal Plain has an average of five to eight days of hail per year, mostly in midwinter’, so it seems to be an unusual and unseasonable hailstorm.  
-In Isa 28:2, 17 this woe saying is directed against Samaria and its political leaders. The fate of the city by the hand of the Assyrian is alluded in the expressive metaphor of a violent storm, recurring often in the book, in Isa 28:17 and 30:30 (Blenkinsopp 2000:387). In Isa 28:2 occurs the construct state  <span dir="rtl">זֶרֶם בָּרָד</span>, ‘hail downpour’, which is in parallelism with  <span dir="rtl">זֶרֶם מַיִם</span>, ‘water downpour’: it emphasizes the disruptive nature of this specific atmospheric phenomenon, the hail. Even in Isa 28:17 there is a parallelism between <span dir="rtl">בָרָד</span>, ‘hail’ and <span dir="rtl">מַיִם</span>, ‘water’. According to the context and the semantic relationship with these two terms, the catastrophic and violent force of the meteorological elements is highlighted and strengthened by this parallelism.   
-In Isa 30:30 <span dir="rtl">בָרָד</span>, ‘hail’ occurs together with  <span dir="rtl">נֶפֶץ</span>, ‘cloudburst’,
-<span dir="rtl">זֶרֶם</span>, ‘downpour’ and  <span dir="rtl">לַהַב אֵשׁ אוֹכֵלָה</span>, ‘flame of devouring fire’. The violence of the atmospheric agents is defined by the close relationship between the terms. Again, all the power of the meteorological elements is unleashed by God against an enemy, Assyria in this case.   
+In Isa 28:2, 17 this woe saying is directed against Samaria and its political leaders. The fate of the city by the hand of the Assyrian is alluded in the expressive metaphor of a violent storm, recurring often in the book, in Isa 28:17 and 30:30 (Blenkinsopp 2000:387). In Isa 28:2 occurs the construct state  <span dir="rtl">זֶרֶם בָּרָד</span>, ‘hail downpour’, which is in parallelism with  <span dir="rtl">זֶרֶם מַיִם</span>, ‘water downpour’: it emphasizes the disruptive nature of this specific atmospheric phenomenon, the hail. Even in Isa 28:17 there is a parallelism between <span dir="rtl">בָרָד</span>, ‘hail’, and <span dir="rtl">מַיִם</span>, ‘water’. According to the context and the semantic relationship with these two terms, the catastrophic and violent force of the meteorological elements is highlighted and strengthened by this parallelism.   
+In Isa 30:30 <span dir="rtl">בָרָד</span>, ‘hail’, occurs together with  <span dir="rtl">נֶפֶץ</span>, ‘cloudburst’,
+<span dir="rtl">זֶרֶם</span>, ‘downpour’, and  <span dir="rtl">לַהַב אֵשׁ אוֹכֵלָה</span>, ‘flame of devouring fire’. The violence of the atmospheric agents is defined by the close relationship between the terms. Again, all the power of the meteorological elements is unleashed by God against an enemy, Assyria in this case.   
 In Isa 30:30 and Ps 18:13–14 theophany is announced by  <span dir="rtl">קֹלוֹ</span>, ‘his voice’, the voice of the divine. The manifestation of the divine power is an act of speech. Mostly the voice of God is represented by a thunder, but in a number of specific case the divine voice has the power to afflict the weather (see also Exod 9:28; 1 Sam 7:10; 2 Sam 22:14; Jer 10:13; 51, 16, Job 37:5).
 
-<b>A.6</b>  In a specific passage <span dir="rtl">בָּרָד</span> is mentioned with <span dir="rtl">בַּשִׁדָפוֹן וּבַיֵּרָקוֹן</span>, ‘blight, mildew and hail’ (Hag 2:17).[^17]
-The meaning of  <span dir="rtl">שִׁדָפוֹן</span> and <span dir="rtl">יֵּרָקוֹן</span> is debated, but both terms refer to diseases that affect grain and grapes before harvest. In fact, they are in close association with hail, that is one of the agent used by God to attack a nation’s agricultural goods, especially on crops in the fields before harvest (Petersen 1985:92). This passage recalls Amos 4:9 and Deut 28:22, in which appears both <span dir="rtl">שִּׁדָּפוֹן</span>, ‘blight’ and  <span dir="rtl">יֵּרָקוֹן</span>, ‘mildew’, but not <span dir="rtl">בָּרָד</span>, ‘hail’. However, the context of these three passages presents similarity: ‘blight’, ‘mildew’ and ‘hail’ are punishment inflicted by God. Even in 4Q473 ‘blight’ appears as a plague in 
+<b>A.6</b>  In a specific passage <span dir="rtl">בָּרָד</span> is mentioned with <span dir="rtl">בַּשִׁדָפוֹן וּבַיֵּרָקוֹן</span>, ‘blight, mildew and hail’ (Hag 2:17).[^20]
+The meaning of  <span dir="rtl">שִׁדָפוֹן</span> and <span dir="rtl">יֵּרָקוֹן</span> is debated, but both terms refer to diseases that affect grain and grapes before harvest. In fact, they are in close association with hail, that is one of the agent used by God to attack a nation’s agricultural goods, especially on crops in the fields before harvest (Petersen 1985:92). This passage recalls Amos 4:9 and Deut 28:22, in which appears both <span dir="rtl">שִּׁדָּפוֹן</span>, ‘blight’, and  <span dir="rtl">יֵּרָקוֹן</span>, ‘mildew’, but not <span dir="rtl">בָּרָד</span>, ‘hail’. However, the context of these three passages presents similarity: ‘blight’, ‘mildew’ and ‘hail’ are punishment inflicted by God. Even in 4Q473 ‘blight’ appears as a plague in 
 co-occurrence with hail, snow, and ice.
 
 <b>A.7</b>  In a number of passages  <span dir="rtl">בָּרָד</span> appears in close relationship with ‘fire’ and ‘flames’: Exod 9:23, 24; Isa 30:30; Pss 18:13, 14; 78:48; 105:32; 148:8; Sir 39:29<sup><small>B</small></sup>. The contexts refer to Egypt plague, theophany and retribution. According to Wiggins (2014:71) in Psalms all of the occurrences of ‘fire’ and ‘flames’ connected to  <span dir="rtl">בָּרָד</span> need to be read as ‘lightning’, because there is no hail without a thunderstorm. However, the hail in the Old Testament is not a natural phenomenon, instead it is a divine phenomenon, and it is not unlikely that it can occurs also with proper fire. In two specific passages, Isa 30:30 and Sir 39:29<sup><small>B</small></sup>, the disruptive force of the element is a manifestation of the anger of God.
 
-<b>A.8</b> The recurring expression  <span dir="rtl">אַבְנֵי הַבָּרָד</span> (Josh 10:11; Isa 30:30; Sir 43:15<sup><small>Mas</small></sup>) is usually translated as ‘hailstone’. Fensham (1963:169) suggests translating as ‘thunder-stone’, because in Isa 30:30 hailstones are mentioned along with lightning, cloudburst and tempest. However, the topic of ‘hailstones’ is found also in  the Sefire Treaty, in which there is a wish that hailstones may shower on Arpad (Fitzmyer, 1995:181, 185). In Assyrian <i>abnu</i> ‘stone’ is attested, which is used in a construct state, even if it’s not found with <i>brd</i> in the dictionaries (<i>CAD</i> A<sup><small>I</small></sup>, 60). In Standard Babylonian the expression ‘hailstone’ occurs once.[^18] It can be related with the Hebrew construct  <span dir="rtl">אַבְנֵי הַבָּרָד</span>, ‘hailstones’ (Josh 10:11; Isa 30:30; Sir 43:15<sup><small>Mas</small></sup>).
+<b>A.8</b> The recurring expression  <span dir="rtl">אַבְנֵי הַבָּרָד</span> (Josh 10:11; Isa 30:30; Sir 43:15<sup><small>Mas</small></sup>) is usually translated as ‘hailstone’. Fensham (1963:169) suggests translating as ‘thunder-stone’, because in Isa 30:30 hailstones are mentioned along with lightning, cloudburst and tempest. However, the topic of ‘hailstones’ is found also in  the Sefire Treaty, in which there is a wish that hailstones may shower on Arpad (Fitzmyer, 1995:181, 185). In Assyrian <i>abnu</i>, ‘stone’, is attested, which is used in a construct state, even if it’s not found with <i>brd</i> in the dictionaries (<i>CAD</i> A<sup><small>I</small></sup>, 60). In Standard Babylonian the expression ‘hailstone’ occurs once.[^21] It can be related with the Hebrew construct  <span dir="rtl">אַבְנֵי הַבָּרָד</span>, ‘hailstones’ (Josh 10:11; Isa 30:30; Sir 43:15<sup><small>Mas</small></sup>).
 
 <b>A.9</b>  As said previously, hail is one of the plagues sent to Egypt and is a typical phenomenon of the theophany of God against the enemies of Israel (Josh 10:11; Isa 28:2; 28:17; 30:30; Ps 18:13-14). According to Propp (1999:351) and Dozeman (2009:235), hail is more typical of Canaan than of Egypt and through this YHWH manifest himself as Storm God. The imagery of the Storm God is common in ancient Mesopotamia and in Syria-Palestine, because thunderstorm is central to the agricultural cycle. KAI 222A:26-27 describes a curse that will be brought by the weather god Hadad:
 <span dir="rtl">ויסך על ארפד [אבני ב]רד</span>,
 ‘and he shall pour out hailstones over Arpad’. [COS II 214 refers to Exod 10:4-5, Ps 105:32, 34.]
-Mythological and epic texts from Ugarit mention the deity <i>Baʽal</i>/ <i>Hadad</i> (these two names are often found in parallelism). He is called ‘the Storm God’ as inscribed on a statue from Alalah.[^19] His representations include images of fertility and control of the weather: Baal brings forth life through the storm rains, but also wages war to his enemies with his lightning bolts. The thunderstorm is an event of revelation, a celebration of life, and a proclamation of political victory and power (<i>ANET</i>, 129-42).  
+Mythological and epic texts from Ugarit mention the deity <i>Baʽal</i>/ <i>Hadad</i> (these two names are often found in parallelism). He is called ‘the Storm God’ as inscribed on a statue from Alalah.[^22] His representations include images of fertility and control of the weather: Baal brings forth life through the storm rains, but also wages war to his enemies with his lightning bolts. The thunderstorm is an event of revelation, a celebration of life, and a proclamation of political victory and power (<i>ANET</i>, 129-42).  
 <span dir="rtl">ברד</span> is also supposed to be a name of an ancient deity of the Canaanite pantheon. References are found in Eblaitic God <i>Baradu madu</i>, who is a personification of the hail. In the Eblaite texts, <i>Baradu madu</i> receives sacrificial offering, so he is probably a minor deity of the Eblaite pantheon or a specific manifestation of the Storm God, <i>Baʽal</i>/ <i>Hadad</i> (<i>DDD</i>, 304-05).  
 The vassal treaties of Esarhaddon (<i>ANET</i>, 534-41), an Assyrian text, mentions the deity <i>Hadad</i>, who manifest his power with plagues which reminds of the Egypt plagues: violent downpour and locust that destroy all the crops.     
 
 
 <b>A.10</b> The fragment 4Q473 contains the word <span dir="rtl">ברד</span> (partially restored). The context probably refers to a punishment from God. 4Q473 2:6 is part of a parabiblical fragment, similar to Deuteronomy 28. 4Q473 contains Deuteronomic material and scholars have suggested a reconstruction of 4Q473 2:6 based on plagues mentioned in Exodus 9:  <span dir="rtl">וירקון שלג קרח וברד</span>, ‘and blight, snow, ice and hail’. 4Q473 is a lucid example of blessing and curses literature, that is also found in other fragments of the Qumran corpus. This fragment fits in the theme of the two ways, a recurring theme in the Old Testament and in the later Jewish and Christian texts (DJD XIII:289-24).   
-4Q422 3:10 is a paraphrase of the sequence of plagues in Exodus and presents resemblances with both Pss 78 and 105. All the plagues but boils are mentioned, even if they are presented in different order than in the Book of Exodus, with darkness before hail and not after locust (as in Exodus).[^20]
+4Q422 3:10 is a paraphrase of the sequence of plagues in Exodus and presents resemblances with both Pss 78 and 105. All the plagues but boils are mentioned, even if they are presented in different order than in the Book of Exodus, with darkness before hail and not after locust (as in Exodus).[^23]
 
 ## 7. Conclusion
 
-<b>A.1</b>  The context in which  <span dir="rtl">בָּרָד</span> appears is mostly a theophany or a retribution inflicted by YHWH to enemies or ‘sinners’. The hail has in no context a positive connotation: the hail brings destruction and disasters and when it manifests it is often associated with other meteorological terms like  <span dir="rtl">שָׁלֶג</span>, ‘snow’ or <span dir="rtl">קֹלוֹת</span>, ‘thunder’; or natural terms like <span dir="rtl">אֵשׁ</span>, ‘fire’.  
+<b>A.1</b>  The context in which  <span dir="rtl">בָּרָד</span> appears is mostly a theophany or a retribution inflicted by YHWH to enemies or ‘sinners’. The hail has in no context a positive connotation: the hail brings destruction and disasters and when it manifests it is often associated with other meteorological terms like  <span dir="rtl">שָׁלֶג</span>, ‘snow’, or <span dir="rtl">קֹלוֹת</span>, ‘thunder’; or natural terms like <span dir="rtl">אֵשׁ</span>, ‘fire’.
 The lexeme seems to have, indeed, a negative implication: when the hail comes, it may destroy crops and hurts people and, in the text, the disruptive strength of this phenomenon is clearly described. It is perfectly plausible that a similar phenomenon is connected with the divine force.
 
-<b>A.2</b>  The lexeme occurs mainly in Early Biblical Hebrew and from the contexts it is clear that the hail is a divine phenomenon, even if it is connected to the natural environment. We have no occurrences in which the hail is intended as stand-alone phenomenon, not connected with the divine will.[^22] 
+<b>A.2</b>  The lexeme occurs mainly in Early Biblical Hebrew and from the contexts it is clear that the hail is a divine phenomenon, even if it is connected to the natural environment. We have no occurrences in which the hail is intended as stand-alone phenomenon, not connected with the divine will. 
 
-<b>A.3</b>  As we’ve seen before, the way in which YHWH reveal his destroying power through the hail is similar to the theophany of the Tempest God of the other ancient Near Eastern religions. This is one of the aspects of divine features: the ability to control a meteorological phenomenon that is not usual in this area and that, certainly, makes people afraid of losing crops and harvests. Giving the power to control the hail to God may have been a way to exorcise the fear.
+<b>A.3</b>  As we have seen before, the way in which YHWH reveal his destroying power through the hail is similar to the theophany of the Tempest God of the other ancient Near Eastern religions. This is one of the aspects of divine features: the ability to control a meteorological phenomenon that is not usual in this area and that, certainly, makes people afraid of losing crops and harvests. Giving the power to control the hail to God may have been a way to exorcise the fear.
 
 
 ## Bibliography
@@ -455,13 +452,6 @@ Yigael Yadin, <i>Masada VI: Hebrew Fragments from Masada</i>. Masada: The
 Yigael Yadin excavations 1963-1965 final reports. Jerusalem: Israel Exploration Society.
 </div>
 
-<div style="padding-left: 22px; text-indent: -22px;">
-Zatelli 2004
-<br>
-Ida Zatelli, ‘The Study of Ancient Hebrew Lexicon:
-Application of the Concepts of Lexical Field
-and Functional Language’, <i>KUSATU</i> 5:129-59.
-</div>
 
 
 ## Notes 
@@ -470,21 +460,23 @@ and Functional Language’, <i>KUSATU</i> 5:129-59.
 [^2]: Sir 43:14<sup><small>B-<i>marg</i></small></sup> has <span dir="rtl">למענו</span>, similar to Sir 43:14<sup><small>Mas</small></sup>. 
 [^3]: <i>DNWSI</i>, 196; <i>DISO</i>, 43.
 [^4]: <i>DJPA</i>, 111.
-[^5]: MdD 50; <i>DTT</i>, 190.
-[^6]: <i>HALOT</i>, 154.
-[^7]: Ges I: 173.
+[^5]: MD 50; <i>DTT</i>, 190.
+[^6]: Payne Smith, <i>CSD</i>, 55. Sokoloff, <i>SLB</i>, 186: ‘hail stones’.
+[^7]: <i>DISO</i>, 43; KAI ??? ii, 248.
 [^8]: <i>HALOT</i>, 154.
-[^9]: ESAC 13.
-[^10]: As suggested in DJD XIII, 433.
-[^11]: <i>GELS</i>, 415.
-[^12]: <i>GELS</i>, 727; LSJ, 1970.
-[^13]: <i>GELS</i>, 733.
-[^14]: <i>DJPA</i>, 111; <i>DTT</i>, 190.
-[^15]: Sokoloff, <i>SLB</i>, 186.
-[^16]: Lewis & Short, <i>LD</i>, 824.
-[^17]: Translation from Petersen 1985:86. CHECK text
-[^18]: Black et al. 2000:2.
-[^19]: <i>DDD</i>, 304-05.
-[^20]: DJD XIII, 429-34.
-[^22]: For functional languages and explanations about Early Biblical Hebrew and Late Biblical Hebrew see Zatelli 2004:140-141.
+[^9]: Ges I: 173.
+[^10]: <i>HALOT</i>, 154.
+[^11]: ESAC 13.
+[^12]: As suggested in DJD XIII, 433.
+[^13]: <i>GELS</i>, 415. CHECK
+[^14]: <i>GELS</i>, 727; LSJ, 1970. CHECK 733?
+[^15]: CHECK FIELD?
+[^16]: FIELD BARTHELEMY?
+[^17]: Payne Smith, <i>CSD</i>, 55. Sokoloff, <i>SLB</i>, 186: ‘hail stones’. 
+[^18]: <i>DJPA</i>, 111; <i>DTT</i>, 190. MOET ANDERS!
+[^19]: Lewis & Short, <i>LD</i>, 824.
+[^20]: Translation from Petersen 1985:86. CHECK text
+[^21]: Black et al. 2000:2.
+[^22]: <i>DDD</i>, 304-05.
+[^23]: DJD XIII, 429-34.
 

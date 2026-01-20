@@ -1,7 +1,7 @@
 ---
 word_english: to_save,_help  
 word_hebrew: ישׁע  
-transcription: <i>yāšaʿ</i>      
+transcription: <i>y-š-ʿ</i>      
 title:  
 semantic_fields: deliverance  
 contributors: james_k._aitken, graham_i._davies  

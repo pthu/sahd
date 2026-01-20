@@ -1,7 +1,7 @@
 ---
 word_english: to bless   
 word_hebrew: ברך   
-transcription: <i>bārak</i>   
+transcription: <i>bērak</i>   
 title: to bless, praise   
 semantic_fields: blessing   
 contributors: james_k._aitken  
@@ -68,6 +68,7 @@ The <i>piel</i> is found 233 times in HB and represents the declarative: ‘to b
 
 
 ## 6.2 Pictorial Material
+
 
 ![EL](../photos/EL.jpg)
 

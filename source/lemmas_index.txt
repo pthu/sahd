@@ -1,139 +1,157 @@
-# LEMMA INDEX
-# Hebrew word : English word : filename
-
-
-א
+# LEMMA INDEX
+# Hebrew word : English word : filename
+
+
+א
 אָדֹם : red : 2adom  
 אוּרִים וְתֻמִּים : Urim Thummim : 2urim_wthummim
 
+
 אָזֵן : equipment : 2azen 
 
+
+אַח : brazier : 2ach
+
+
+אָמָה :female servant : 2amah
+
+
 אַמְתַּחַת : sack : 2amthachath
-
+
 אַרְגְּוָן : bright purple : 2argwan
 
-
-אַרְגַּז : box : 2argaz
-אַרְגָּמָן : bright purple : 2argaman
-ארר : to curse : 2-r-r
- 
-
-ב
-בֶּקַע : beka : beqa3
-בָּרָד : hail : barad
+
+אַרְגַּז : box : 2argaz
+אַרְגָּמָן : bright purple : 2argaman
+ארר : to curse : 2-r-r
+ 
+
+בבַּד : pole : bad_2
+בֶּקַע : beka : beqa3
+בָּרָד : hail : barad
 בְּרִית : covenant : brith
+
+ברך : to bless : b-r-k_2
+בְּרָכָה : blessing: brakah 
+ג
+גְּאוּלִים : redemption : g2ulim
+גאל : to redeem : g-2-l
+גְּאֻלָּה : redemption, right of : g2ullahגֻּלָּה : bowl : gullah
+גִּלָּיוֹן : mirror : gillayon
+
+ד
+דֶּרֶךְ : road, way : derek
+
+ה
+הֲדֹם : footstool : hadom
+
+ווָו : hook : waw
 
-ברך : to bless : b-r-k_2
-בְּרָכָה : blessing: brakah 
-ג
-גְּאוּלִים : redemption : g2ulim
-גאל : to redeem : g-2-l
-גְּאֻלָּה : redemption, right of : g2ullahגֻּלָּה : bowl : gullah
-גִּלָּיוֹן : mirror : gillayon
+זזִיק : fiery missile : ziq  
+
+חחוּם : dark brown : chum
+חֹזֶה : (court) diviner : chozehחֶסֶד : faithfulness : chesed
+חֶרֶט : burin : cheret
+חַשְׁמַן : amethyst(?) : chashman
 
-ד
-דֶּרֶךְ : road, way : derek
-
-ה
-הֲדֹם : footstool : hadom
-
-ו
-
-זזִיק : fiery missile : ziq  
-
-חחוּם : dark brown : chum
-חֹזֶה : (court) diviner : chozehחֶסֶד : faithfulness : chesed
-חֶרֶט : burin : cheret
-חַשְׁמַן : amethyst(?) : chashman
+
+טטַבַּעַת : ring : tabba3at
+טוה : to spin, twist : t-w-h
+
+ייָקוּד : glowing fire : yaqud
+יְשׁוּעָה : protection : yshu3ah
+ישׁע : to save, help : y-sh-3
+יֵשַׁע : safety : yesha3
+
+כ
+כִּבְשָׁן : kiln : kibshanכִּיר : cooking-stove : kir
 
-
-טטַבַּעַת : ring : tabba3at
-טוה : to spin, twist : t-w-h
-
-י
-יְשׁוּעָה : protection : yshu3ah
-ישׁע : to save, help : y-sh-3
-יֵשַׁע : safety : yesha3
-
-כ
-כִּבְשָׁן : kiln : kibshan
-כְּלִי : vessel : kli
+כְּלִי : vessel : kli
 כִּסֵּא : throne : kisse2
-
+
 כַּר : saddle : kar_1
-
-כַּרְמִיל : bright, rich red : karmil
-
-
-ל
-לָבָן : white : laban
-לוּחַ : board : luachלַפִּּיד : cresset, torch : lappid
-מ
-מָאוֹר : light : ma2or
-מְגִלָּה : scroll : mgillah
+כְּרוּב : cherub : krub
+כַּרְמִיל : bright, rich red : karmil
+
+ל
+לָבָן : white : laban
+לוּחַ : board : luachלַפִּּיד : cresset, torch : lappid
+מ
+מָאוֹר : light : ma2or
+מְגִלָּה : scroll : mgillahמוֹט : pole : mot
 מוֹשָׁעָה : deliverance : mosha3ah
 
+
 מְזַמֶּרֶת : trimming knife (?) : mzammereth
-
-מַחֲבַת : griddle : machabath
-מְחוּגָה : callipers : mchugah
-מַחֲרֵשָׁה/מַחֲרֶשֶׁת : plough : machareshahמִכְבָּר : grating : mikbar מְנוֹרָה : lampstand : mnorah
+
+מַחֲבַת : griddle : machabath
+מְחוּגָה : callipers : mchugah
+מַחֲרֵשָׁה/מַחֲרֶשֶׁת : plough : machareshahמִכְבָּר : grating : mikbar מֶלְקָחַיִם : forceps : melqachayim מְנוֹרָה : lampstand : mnorah
 מַפְרֶקֶת : neck : mapreqeth
-מַפְתֵּחַ : key : maptheach
+מַפְתֵּחַ : key : maptheach
 מַקֵּל : branch, staff : maqqel
-
+
 מַרְאָה : vision, mirror : mar2ah
 מֶשֶׁךְ : bag : meshek_1
+
+מִשְׁפְּתַיִם/שְׁפַתַּיִם : sack : mishpthayim 
+נ
+נָבִיא/נְבִיאָה : prophet(ess) : nabi2
+נחם : to comfort : n-ch-mנִיר : lamp : nir_1נֵר : lamp : ner_1
+נִשְׁתְּוָן : official letter : nishthwan
+ססָעִיף : cleft : sa3ip
 
-מִשְׁפְּתַיִם/שְׁפַתַּיִם : sack : mishpthayim 
-נ
-נָבִיא/נְבִיאָה : prophet(ess) : nabi2
-נחם : to comfort : n-ch-m
-נִשְׁתְּוָן : official letter : nishthwan
-ססָעִיף : cleft : sa3ip
+סֵפֶר : book : seper 
+
+
+סִפְרָה : book : siprah  
+עעֶבֶד : servant, slave : 3ebedעֲבֹדָה : service : 3abodah
+עֶזְרָה : help : 3ezrah
+עֵט : stylus : 3et
+עֲטָרָה : wreath, crown : 3atarah
+
+פ
+פדה : to liberate : p-d-h
+פְּדוּיִם : redemption price : pduyim
+פְּדוּת : redemption-action : pduth
+פִּדְיוֹן : ransom : pidyon
+פֶּלֶךְ : spindle : pelek
+פרק : to pull off : p-r-q
+פָּרָק : piece of meat : paraq
+פֶּרֶק : plunder : pereq
+פִּשְׁתָּה : wick : pishthah
+
+צ
+צלה : to roast : ts-l-h
+צִפֹּרֶן : nail : tsipporen
+צְרוֹר : pouch : tsror_1
+
+ק
+קבב : to curse : q-b-bקַלַּחַת : stewpot : qallachath
+קֶסֶת : inkpot(?) : qeseth
+
+ר
+רֹאֶה : seer : ro2eh
+
+רְאִי : mirror : r2i
 
-ע
-עֶזְרָה : help : 3ezrah
-עֵט : stylus : 3et
-עֲטָרָה : wreath, crown : 3atarah
+שׂ
+שֶׂרֶד : scriber : cered
 
-פ
-פדה : to liberate : p-d-h
-פְּדוּיִם : redemption price : pduyim
-פְּדוּת : redemption-action : pduth
-פִּדְיוֹן : ransom : pidyon
-פֶּלֶךְ : spindle : pelek
-פרק : to pull off : p-r-q
-פָּרָק : piece of meat : paraq
-פֶּרֶק : plunder : pereq
-
-
-צ
-צלה : to roast : ts-l-h
-צִפֹּרֶן : nail : tsipporen
-צְרוֹר : pouch : tsror_1
-
-ק
-קבב : to curse : q-b-bקַלַּחַת : stewpot : qallachat
-קֶסֶת : inkpot(?) : qeseth
-
-ר
-רֹאֶה : seer : ro2ehרְאִי : mirror : r2i
-
-שׂ
-שֶׂרֶד : scriber : cered
-
-שׁ
-שָׁנִי : bright red dye : shani_1
-שׁוֹעַ : great man : shoa3
+שׁ
+שָׁנִי : bright red dye : shani_1
+שׁוֹעַ : great man : shoa3
 שׁוּעַ : cry for help : shua3
 שֶׁלֶג : snow : sheleg
-
+שִׁפְחָה : maidservant : shipchah
+
+
+
+שַׁרְבִיט : sceptre : sharbit
+ת
+תְּבוּנָה : understanding : thbunah
+תְּכֵלֶת : bluish purple : thkeleth
+תִּפְלָה : senselessness : thiplah
+תְּשׁוּעָה : deliverance, state of : thshu3ah
 
-ת
-תְּבוּנָה : understanding : thbunah
-תְּכֵלֶת : bluish purple : thkeleth
-תִּפְלָה : senselessness : thiplah
-תְּשׁוּעָה : deliverance, state of : thshu3ah
-
-
+

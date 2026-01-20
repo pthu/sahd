@@ -5,7 +5,7 @@ title:
 semantic_fields: weather  
 contributors: chiara_stornaiuolo  
 first_published: 2025-10-10  
-last_update:    
+last_update: 2025-12-24 (Paul Sanders)   
 additional_info: (WORK IN PROGRESS)
 
 ---
@@ -17,22 +17,26 @@ Occurrences: 20x HB (2/5/13); 1x Sir; 2x Qum; 0x Inscr. (Total: 23)
 
 * Torah: Exod 4:6; Num 12:10;
 * Nebiim: 2 Sam 23:20; 2 Kgs 5:27; Isa 1:18; 55:10; Jer 18:14;
-* Ketubim: Pss 51:9; 147:16; 148:8; Job 6:16; 9:30; 24:19; 37:6; 38:22; Prov 25:13; 26:1; 31:21; Lam 4:7; 1 Chron 11:22.
-* Sir: 43:17<small><sup>Mas,B</sup></small>;
-* Qumran: 4Q381 fr14+5:2; 4Q473 fr2:6;[^1]
-* Text doubtful: 4Q186 fr2 ii:3; 4Q216 5:7; 4Q222 fr3:2. 
+* Ketubim: Pss 51:9; 147:16; 148:8; Job 6:16; 9:30; 24:19; 37:6; 38:22; Prov 25:13; 26:1; 31:21; Lam 4:7; 1 Chron 11:22;
+* Sira: 43:17<small><sup>Mas,B</sup></small>;
+* Qumran: 4Q381 fr14+5:2; 4Q473 fr2:6.
+* Text doubtful: 4Q186 fr2 ii:3 (see A.1); 4Q216 
+(4QJub<sup><small>a</small></sup>)
+V:7; 4Q222 (4QJub<sup><small>g</small></sup>) fr3:2 (see A.2). 
+
 
 ### Text Doubtful
 
-<b>A.1</b>  For 4Q216 5:7 scholars have suggested a reconstruction based on Jub 2:1-4. The text mentions all natural phenomena created by God. 4Q222 fr3:2 reflects Jub 48:5, the passage lists the ten plagues sent on Egypt by God (DJD XIII).    
+<b>A.1</b>  4Q186 fr2 ii:3 presents the word <span dir="rtl">גולש</span>. Probably the word is written
+in reverse order in accordance with the rest of the manuscript. Therefore, DJD V:91 suggests reading <span dir="rtl">שלוג</span>, suggesting that it is probably connected to <span dir="rtl">שלג</span>, ‘snow’, indicating the fairness of the skin. According to Popovic (2006:59) it is impossible to decide from the context whether the word should be read ‘non-coded’ or reversed. 
+
+<b>A.2</b>  For 4Q216 V:7 scholars have suggested a reconstruction based on Jub 2:1-4. The text mentions all the natural phenomena created by God. 4Q222 fr3:2 reflects Jub 48:5. This passage lists the ten plagues sent on Egypt by God (DJD XIII).    
 SEE BALAD
 
-<b>A.2</b>  4Q186 fr2 ii:3 presents the word <span dir="rtl">גולש</span>. Probably the word is written
-in reverse order in accordance with the rest of the manuscript. So DJD V:91 suggest reading <span dir="rtl">שלוג</span> and that it is probably connected to <span dir="rtl">שלג</span>, ‘snow’, indicating the fairness of the skin. According to Popovic (2006:59) it is impossible to decide from the context whether the word should be read ‘non-coded’ or reversed. 
+<b>A.3</b>  In Ps 68:15 the denominative verb <span dir="rtl">שׁלג</span>, ‘to snow’ is used: <span dir="rtl">תַּשְׁלֵג בְּצַלְמוֹן</span>, ‘it is snowing in Zalmon’. Because it concerns a verb, this passage is not taken into consideration for the analysis.
 
-<b>A.3</b>  In Ps 68:15 the denominative verb <span dir="rtl">שׁלג</span>, ‘to snow’ is applied: <span dir="rtl">תַּשְׁלֵג בְּצַלְמוֹן</span>, ‘it is snowing in Zalmon’. Because it concerns a verb, this passage is not taken into consideration for the analysis.
-
-<b>B.1</b>  There are different theories for the meaning of  <span dir="rtl">שָׁלֶג</span> in Job 9:30. Dictionaries show two interpretations:[^2] ‘snow’ and ‘soap’, assuming that  <span dir="rtl">שׁלג</span> is equivalent to Akk. <i>ašlāku</i>, Mishnaic <span dir="rtl">אֶשְׁלָג</span> and Talmudic  <span dir="rtl">שַׁלְגָּא</span>, ‘soap, soapwort’, from the name of plant whose roots are used as a soap.   
+<b>B.1</b>  There are different theories for the meaning of  <span dir="rtl">שָׁלֶג</span> in Job 9:30. 
+<i>HALOT</i> (1503) and <i>DCH</i> (viii:364) show two interpretations: ‘snow’ and ‘soap’, assuming that  <span dir="rtl">שׁלג</span> is equivalent to Akk. <i>ašlāku</i>, Mishnaic <span dir="rtl">אֶשְׁלָג</span> and Talmudic  <span dir="rtl">שַׁלְגָּא</span>, ‘soap, soapwort’, from the name of plant whose roots are used as a soap.   
 The ancient translations interpreted <span dir="rtl">שׁלג</span> as ‘snow’: LXX: χιον, ‘snow’; Tg: 
 <span dir="rtl">במי תלגא</span>, ‘with snow water’; Pesh:
 <span dir="rtl">ܒܡ̈ܝܐ ܕܬܠܓܐ</span>, ‘with snow water’; 
@@ -47,12 +51,12 @@ Qere/Ketiv: none.
 <b>A.2</b>  <i>Akkadian</i>: The Akkadian cognate <i>šalgu(m)</i> means ‘snow’ (<i>AHw</i> iii:1147b); Assyrian: <i>šalgu</i>, ‘snow, sleet’; Old Babylonian, Mari, Standard Babylonian: <i>salku</i> (<i>CAD</i> 
 Š<sup><small>I</small></sup>, 241). According to <i>CAD</i> Š<sup><small>I</small></sup>, 242, the word <i>šalgu</i> occurs together with rain in a text from Mari and with ice in a text from Babylon.
 
-<span id="RCMA3"><b>A.3</b></span>  <i>Ugaritic</i>: Most dictionaries accept <i>glṯ</i> as the Ugaritic cognate for <span dir="rtl">שֶׁלֶג</span>, assuming a metathesis from <i>ṯlg</i> to <i>glṯ</i>.[^ug] 
+<span id="RCMA3"><b>A.3</b></span>  <i>Ugaritic</i>: Most dictionaries accept <i>glṯ</i> as the Ugaritic cognate for <span dir="rtl">שֶׁלֶג</span>, assuming a metathesis from <i>ṯlg</i> to <i>glṯ</i>.[^2] 
 However, the meaning of <i>glṯ</i> is debated: possible translations are ‘storm’, ‘downpour’, and ‘snow’.[^3] 
-Aartun (1968:281) suggests that the reading ‘snow’ for <i>glṯ</i> in KTU 1.4.v:6-7 is preferable because of the parallelism with <i>mṭrh</i>, ‘rain’; these two terms, in fact, are related in Hebrew as well (Prov 26:1; Job 37:6).
+Aartun (1968:281) suggests that the reading ‘snow’ for <i>glṯ</i> in KTU 1.4.v:6-7 is preferable because of the parallelism with <i>mṭrh</i>, ‘rain’;[^4] these two terms, in fact, are related in Hebrew as well (Prov 26:1; Job 37:6).
 In addition, the word <i>glṯ</i> appears also in KTU 1.3(+1.8).vi:13-14; 1.92.5; 1.101.7-8.
 
-[^ug]: See, e.g., <i>HALOT</i>, 1503.
+
 
 <b>A.4</b>  <i>Aramaic</i>: The word is attested in Jewish Palestinian Aramaic, Christian Palestinian Aramaic, and Samaritan Aramaic as  <span dir="rtl">תלג</span>, ‘snow’ (Sokoloff, <i>DJPA</i>, 581); the vocalized form is <span dir="rtl">תְּלַג</span> (Jastrow, <i>DTT</i>, 1670; <i>HALOT</i>, 2006). 
 In Syriac ܬܠܓܐ (<i>talgā</i>),‘snow’ is found (Sokoloff, <i>SLB</i>, 1647) and in Mandaic <i>talga</i>, ‘snow’ (MdD 478b). 
@@ -117,19 +121,19 @@ SEE TEXT BALAD.
 
 <b>a. Septuagint (LXX):</b>
 
-ANT PRECIES HETZELFDE
+<!--ANT PRECIES HETZELFDE--> 
 
 * χιον, ‘snow’:[^8] Exod 4:6; Num 12:10; 2 Sam 23:20; 2 Kgs 5:27; Isa 1:18; 55:10; Jer 18:14; Pss 51[50]:9; 147:16[5]; 148:8; Job 6:16; 9:30; 37:6; 38:22; Prov 25:13; Lam 4:7; 1 Chron 11:22; Sir 43:17<small><sup>Mas,B</sup></small>;
 * δρόσος, ‘dew’:[^9] Prov 26:1;
 * No rendering: Job 24:19; Prov 31:21.
 
-<b>b. Targum (Tg: O/N/PsJ/Frg/J/K):</b>[^10]
+<b>b. Targum (Tg: O/N/PsJ/Frg/J/K):</b>
 
-* <span dir="rtl">תלג</span>, ‘snow’: Exod 4:6; Num 12:10; 2 Sam 23:20; 2 Kgs 5:27; Isa 1:18; 55:10; Jer 18:14; Pss 51:9; 147:16; 148:8; Job 6:16; 9:30; 24:19; 37:6; 38:22; Prov 25:13[14]; 26:1; 31:21; Lam 4:7; 1 Chron 11:22.
+* <span dir="rtl">תלג</span>, ‘snow’:[^10] Exod 4:6; Num 12:10; 2 Sam 23:20; 2 Kgs 5:27; Isa 1:18; 55:10; Jer 18:14; Pss 51:9; 147:16; 148:8; Job 6:16; 9:30; 24:19; 37:6; 38:22; Prov 25:13[14]; 26:1; 31:21; Lam 4:7; 1 Chron 11:22.
 
 <b>c. Peshitta (Pesh):</b>
 
-* <span dir="rtl">ܬܠܓܐ</span> (<i>tlgʾ </i>), ‘snow’:[^11] Exod 4:6; Num 12:10; 2 Sam 23:20; 2 Kgs 5:27; Isa 1:18; 55:10; Jer 18:14; Pss 51:9; 147:16; 148:8; Job 6:16; 9:30; 24:19; 37:6; 38:22; Prov 25:13; 26:1; 31:21; Lam 4:7; 1 Chron 11:22. 
+* <span dir="rtl">ܬܠܓܐ</span> (<i>talgā</i>), ‘snow’:[^11] Exod 4:6; Num 12:10; 2 Sam 23:20; 2 Kgs 5:27; Isa 1:18; 55:10; Jer 18:14; Pss 51:9; 147:16; 148:8; Job 6:16; 9:30; 24:19; 37:6; 38:22; Prov 25:13; 26:1; 31:21; Lam 4:7; 1 Chron 11:22. 
 * No text: Sir 43:17.
 
 <b>d.Vulgate (Vg):</b> 
@@ -165,10 +169,7 @@ found in close relationship with terms referring to natural phenomena, cleansing
 In Prov 26:1 ‘snow’ and ‘rain’ are compared with ‘honor’ and in the context are found some antitheses indicating conditions making them unlikely to occur: 
 <span dir="rtl">כַּשֶּׁ֤לֶג ׀ בַּקַּ֗יִץ וְכַמָּטָ֥ר בַּקָּצִ֑יר כֵּ֤ן לֹא־נָאוֶ֖ה לִכְסִ֣יל כָּבֽוֹד׃</span>, ‘as snow in summer and as rain in harvest, so honor is not seemly for a fool’. In Job 24:19 the melting snow is compared to the transgressor who is consumed by the netherworld: <span dir="rtl">צִיָּ֤ה גַם־חֹ֗ם יִגְזְל֥וּ מֵֽימֵי־שֶׁ֗לֶג שְׁא֣וֹל חָטָֽאוּ׃</span>, ‘drought and heat consume the snow waters, <i>Sheol</i> those who have committed iniquities’.    
 In Sir 43:17 there is a simile
-between  <span dir="rtl">שלג</span>, ‘snow’ and <span dir="rtl">רשף</span> ‘flame, flash, plague’: the Masada Scroll reads: <span dir="rtl">כרשף יפרח שלגו</span>,[^MsB]  ‘His snow sprouts forth like a flame’. The meaning of <span dir="rtl">רשף</span> in this context is debated: Askin (2016:38) translates as ‘like sparks his snow scatter’. LXX renders <span dir="rtl">רשף</span> as πετεινὰ, ‘birds’ and Vg as <i>avis</i>, ‘birds’.[^HAL]
-
-[^MsB]: Sir 43:17<sup><small>B</small></sup> has a slightly different reading: <span dir="rtl">[כ]רשף יניף שלגו</span>, ‘his snow sways like a flame’.
-[^HAL]: On the meaning of רשף, see <i>HALOT</i>, 1297, <i>s.v.</i> #4, and the literature mentioned there.
+between  <span dir="rtl">שלג</span>, ‘snow’ and <span dir="rtl">רשף</span> ‘flame, flash, plague’: the Masada Scroll reads: <span dir="rtl">כרשף יפרח שלגו</span>,[^14] ‘his snow sprouts forth like a flame’. The meaning of <span dir="rtl">רשף</span> in this context is debated: Askin (2016:38) translates as ‘like sparks his snow scatter’. LXX renders <span dir="rtl">רשף</span> as πετεινὰ, ‘birds’ and Vg as <i>avis</i>, ‘birds’.[^15]
 
 <b>A.3</b>  In Mishnah and Tosefta the word  <span dir="rtl">שלג</span>, ‘snow’ occurs together with <span dir="rtl">ברד</span>, ‘hail’ (Mishnah Mikva’ot 7:1; Mishnah Oholot 8:5; Tosefta Oholot 14:6). According to the context it is clear that ‘snow’ here is intended as a natural phenomenon. In Mishnah Mikva’ot 7:1 <span dir="rtl">שֶׁלֶג</span> and <span dir="rtl">בָּרָד</span> are mentioned among materials that can raise the mikveh up to the right quantity and do not make it invalid.
 
@@ -180,8 +181,8 @@ between  <span dir="rtl">שלג</span>, ‘snow’ and <span dir="rtl">רשף</s
 <span dir="rtl">הֲיַעֲזֹב ‏ מִצּוּר ‏ שָׂדַי ‏ שֶׁלֶג לְבָנוֹן</span>, 
 ‘Can it leave the mountain highland the snow of Lebanon?’ (translation Lundbom 1999:818).   
 McKane (2014:428) suggests translating as ‘does the snow ever disappear from the rocky slopes of Lebanon?’; he supposed a shift of  <span dir="rtl">לְבָנוֹן</span> as <i>nomen rectum</i> of  <span dir="rtl">מִצּוּר שָׂדַי</span> instead of <span dir="rtl">שֶׁלֶג</span>. 
-Iwry (1952:164) and Albright (1950:23) compared this passage with Ps 68:15 (in which we have the verb <span dir="rtl">שׁלג</span>, ‘to snow’) and suggest as translation ‘will flints forsake the fields or snow Lebanon?’,[^14] because according
-to Albright in the ancient Israel pieces of flint were spread in the fields on the plains. According to Ehrlich (1914:289) and Barbiero (2002:378) the ‘snow of Lebanon’ is ice cold water that flows from Mount Hermon, in Lebanon, down into the valley. Martin Noth (1956:26, 52) refers to one of the names of Hermon used nowadays, viz. ‘<i>dschebel et-teldsch</i>’, ‘Schneeberg’ (‘snow mountain’), because its top is covered over a long period with snow. This supports the rendering by Lundbom, who defended the rendering above on the structure of the two parallel rhetorical questions (Lundbom 1998:821–22).
+Iwry (1952:164) and Albright (1950:23) compared this passage with Ps 68:15 (in which we have the verb <span dir="rtl">שׁלג</span>, ‘to snow’) and suggested as translation ‘will flints forsake the fields or snow Lebanon?’, because according
+to Albright in the ancient Israel pieces of flint were spread in the fields on the plains.[^16] According to Ehrlich (1914:289) and Barbiero (2002:378) the ‘snow of Lebanon’ is ice cold water that flows from Mount Hermon, in Lebanon, down into the valley. Martin Noth (1956:26, 52) refers to one of the names of Hermon used nowadays, viz. ‘<i>dschebel et-teldsch</i>’, ‘Schneeberg’ (‘snow mountain’), because its top is covered over a long period with snow. This supports the rendering by Lundbom, who defended the rendering above on the structure of the two parallel rhetorical questions (Lundbom 1998:821–22).
 
 <b>A.3</b> In ancient Israel snow is unusual but is known as a meteorological phenomenon. Because of its identity as an extraordinary phenomenon the snow is often mentioned in similes and images. Only two passages refer to snow as a real occurence, <i>viz</i>. 2&nbsp;Sam 23:20/ 1&nbsp;Chron 11:22: 
 <span dir="rtl">בְּיוֹם הַשָּׁלֶג</span>, ‘on a snowy day’. It is probably used to refer to a specific timeframe, a locution meaning ‘winter’. Sometimes the term is found in metaphoric context. In Prov 25:13 
@@ -193,28 +194,25 @@ skin diseases, which manifest themselves with symptoms, like
 desquamation resembling the flakiness of snow. 
 
 <b>A.5</b>  Job 38:22 mentions <span dir="rtl">אֹצְרוֹת שָׁ֑לֶג</span>, 
-‘storehouses of snow’. As early as in the Ugaritic period the supposition that snow is stored in warehouses is attested (KTU I.4.VII:59).[^15] As Korpel (1990:299, 302) shows, Baal as well as YHWH are said to store, among others, snow in the heavens. Next to the parallel reference to <span dir="rtl">אֹצְרוֹת בָּרָד</span>, ‘storehouses of hail’ in Job 38:22, there are references to a <span dir="rtl">אוֹצָר</span>, ‘storehouse’ for <span dir="rtl">מָטָר</span>, ‘rain’ (Deut 28:12) and for <span dir="rtl">רוּחַ</span>, ‘wind’ (Jer 10:16; 51:16; Ps 135:7).[^store]
-
-[^store]: Korpel (1990:302, n. 662) refers additionally to Ps 33:7, where the <span dir="rtl">תְּהוֹמֽוֹת</span>,
-‘deeps’ are put in storehouses. 
+‘storehouses of snow’. As early as in the Ugaritic period the supposition that snow is stored in warehouses is attested (KTU 1.4.VII:59).[^17] As Korpel (1990:299, 302) shows, Baal as well as YHWH are said to store, among others, snow in the heavens. Next to the parallel reference to <span dir="rtl">אֹצְרוֹת בָּרָד</span>, ‘storehouses of hail’ in Job 38:22, there are references to a <span dir="rtl">אוֹצָר</span>, ‘storehouse’ for <span dir="rtl">מָטָר</span>, ‘rain’ (Deut 28:12) and for <span dir="rtl">רוּחַ</span>, ‘wind’ (Jer 10:16; 51:16; Ps 135:7).[^18]
 
 <b>A.6</b>  In the Qumran texts snow appears in context with other natural phenomena, like  <span dir="rtl">עננים</span>, ‘clouds’,  <span dir="rtl">עבים</span>, ‘clouds’ and  <span dir="rtl">בָּרד</span>, ‘hail’ in 4Q381 fr14+5:2 and <span dir="rtl">קרח</span>, ‘ice’ and  <span dir="rtl">ברד</span>, ‘hail’ in 4Q473 2:6.   
 4Q381 is a collection of Psalms and, specifically 4Q381 fr14+5 is connected with creation psalm in 4Q381 fr1. Both fragments refer to natural phenomena and this is the reason why they are probably connected. 
 4Q381 fr1 is a creation psalm and since 4Q381 fr14+5 seems to connect to 4Q381 fr1, because of the reference to natural phenomena, it is probably that also 4Q381 fr14+5 is part of this creation psalm (DJD XI:92).  
 4Q473 is a parabiblical composition written in a biblical style, that reminds of Deuteronomy 28 because of the theme of the two ways, a recurring theme in the Old Testament and in later Jewish and Christian texts.  
 In 4Q473 2:6 the term  <span dir="rtl">שֶׁלֶג</span> occurs in parallel with  <span dir="rtl">ירקון</span> ‘blight’,  <span dir="rtl">קרח</span>, ‘ice’ and  <span dir="rtl">ברד</span>, ‘hail’. In this context the snow and the other meteorological phenomena are listed as plagues, perhaps retribution from God to people who are not following his way. This composition recalls a
-Deuteronomic model for warning, cursing, and blessing, even if it shows innovation compared with the biblical text: mention of angels listing of snow and ice among plagues, like in post biblical tradition (Sir 43:17).[^16] In Sir 43:17, in fact, snow is a plague and appears in the same context with locusts.
+Deuteronomic model for warning, cursing, and blessing, even if it shows innovation compared with the biblical text: mention of angels listing of snow and ice among plagues, like in post biblical tradition (Sir 43:17).[^19] In Sir 43:17, in fact, snow is a plague and appears in the same context with locusts.
 
 
 <b>A.7</b> In Isa 55:10 <span dir="rtl">שֶׁלֶג</span> occurs together with  <span dir="rtl">גֶשֶׁם</span> ‘rain’ and the two terms are parallel. In this context the snow and the rain are natural phenomena, and they make the soil bud and sprout, bringing life on the earth. In this passage the benevolent nature of both snow and both rain is clearly and explicitly stated. In two passages <span dir="rtl">שֶׁלֶג</span> occurs in the same context of  <span dir="rtl">מָּטָר</span>, ‘rain’ (Prov 26:1; Job 37:6). The parallel between <i>mṭr</i> and <i>šlg</i> also occurs in KTU 1.4.v:6-7  from Ugarit, as explained in <a href="#RCMA3">Root and Comparative Material A.3</a>.  
-In the mythological and epic texts from Ugarit the deity  <i>Baʽal</i>/ <i>Haddu</i> (these two terms are often found in parallelism) is mentioned. The inscription on the statue of Idrimi from Alalakh calls him ‘the Storm God’. In the Ug. myths he strives to build his own grand palace on the heights of Mount Saphon (nowadays Jebel Aqra). The myth narrates that when he is dead for seven years the land suffers from the lack of rain, and the former prosperous state is restored only after he returns to life.[^17]
+In the mythological and epic texts from Ugarit the deity  <i>Baʽal</i>/ <i>Haddu</i> (these two terms are often found in parallelism) is mentioned. The inscription on the statue of Idrimi from Alalakh calls him ‘the Storm God’. In the Ug. myths he strives to build his own grand palace on the heights of Mount Saphon (nowadays Jebel Aqra). The myth narrates that when he is dead for seven years the land suffers from the lack of rain, and the former prosperous state is restored only after he returns to life.[^20]
 
 <b>A.8</b>  In a number of cases <span dir="rtl">שֶׁלֶג</span> appears in contexts of theophany (Pss 147:16; 148:8; Job 37:6; Job 38:22; Sir 43:17). God
 manifests himself and his power through natural and meteorological phenomena. Depending on the context snow appears with <span dir="rtl">כְּפוֹר</span>, ‘hoarfrost’ (Ps 147:16); <span dir="rtl">אֵשׁ</span>, ‘fire’ (Ps 148:8); <span dir="rtl">רשף</span>, ‘flame, flash’ (Sir 43:17); <span dir="rtl">בָּרָד</span>, ‘hail’
 (Ps 148:8; Job 38:22); <span dir="rtl">קִיטוֹר</span>, ‘fog’ (Ps 148:8); <span dir="rtl">גֶשֶׁם מָטָר</span>, ‘downpour of rain’ (Job 37:6).
 
 
-<b>A.9</b> <span dir="rtl">שֶׁלֶג</span> is used as comparative term for purity in Lam 4:7 <span dir="rtl">זַכּוּ נְזִירֶיהָ מִשֶּׁלֶג צַחוּ מֵחָלָב</span>, ‘her nobles[^18] were purer than snow, more lustrous than milk.’ In Isa 1:18 the snow is a similitude for
+<b>A.9</b> <span dir="rtl">שֶׁלֶג</span> is used as comparative term for purity in Lam 4:7 <span dir="rtl">זַכּוּ נְזִירֶיהָ מִשֶּׁלֶג צַחוּ מֵחָלָב</span>, ‘her nobles[^21] were purer than snow, more lustrous than milk.’ In Isa 1:18 the snow is a similitude for
 the purification of iniquities  <span dir="rtl">אִם יִהְיוּ חֲטָאֵיכֶם כַּשָּׁנִים כַּשֶּׁלֶג יַלְבִּינוּ</span>, ‘even if your iniquities be as scarlet, they
 shall be as white as snow’. 
 Ps 51:9 also  <span dir="rtl">תְּחַטְּאֵ֣נִי בְאֵז֣וֹב וְאֶטְהָ֑ר תְּ֝כַבְּסֵ֗נִי וּמִשֶּׁ֥לֶג אַלְבִּֽין</span>,  ‘purge me with hyssop and I’ll be purified, wash me with snow and I’ll be whiter than snow’. The term hyssop is found in context related to cleansing and purification. The whiteness is a symbolism for forgiveness (Dalglish 1962:136)
@@ -223,7 +221,7 @@ Ps 51:9 also  <span dir="rtl">תְּחַטְּאֵ֣נִי בְאֵז֣וֹב ו
 
 <b>A.1</b> <span dir="rtl">שֶׁלֶג</span> mainly is intended as a natural phenomenon and the term is often used as a similitude. Since the term is used both for positive comparison (purity) and for negative (skin disease) it stands to reason that the term itself is neutral and takes on a different meaning based on the context.
 
-<b>A.2</b>  The lexeme mainly occurs in Early Biblical Hebrew and from the contexts it is clear that snow is a natural phenomenon. We have no occurrences in which the snow is intended as a godlike phenomenon connected with the divine will. Just in Late Biblical Hebrew and in Ben Sira (Pss 147:16; 148:8; Job 38:22; Sir 43:17) snow is mentioned with other natural phenomena in the context of a divine theophany (for functional languages and explanations about Early Biblical Hebrew and Late Biblical Hebrew see Zatelli 2004:140-41).
+<b>A.2</b>  The lexeme mainly occurs in Early Biblical Hebrew and from the contexts it is clear that snow is a natural phenomenon. We have no occurrences in which the snow is intended as a godlike phenomenon connected with the divine will. Just in Late Biblical Hebrew and in Ben Sira (Pss 147:16; 148:8; Job 38:22; Sir 43:17) snow is mentioned with other natural phenomena in the context of a divine theophany.
 
 <b>A.3</b>  In conclusion we can say that snow is not directly connected with the divine will, except for late Hebrew, but even in Late Hebrew most of the occurrences show snow as a natural phenomenon.
 
@@ -236,7 +234,7 @@ For the abbreviations see the
 <div style="padding-left: 22px; text-indent: -22px;">
 Aartun 1968
 <br>
-Kjell Aartun, ‘Beitrage zum ugaritischen Lexikon’, <i>Die Welt des Orients</i> 4:278-99.
+Kjell Aartun, ‘Beiträge zum ugaritischen Lexikon’, <i>Die Welt des Orients</i> 4:278-99.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -349,7 +347,7 @@ Berlin: De Gruyter Mouton, 54–151.
 Korpel 1990
 <br>
 Marjo C.A. Korpel, <i>A Rift in the Clouds: Ugaritic and Hebrew Descriptions of the Divine</i> (UBL, 8), 
-Munster: Ugarit.
+Münster: Ugarit.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -361,7 +359,7 @@ Jack R. Lundbom, <i>Jeremiah 1-20</i> (AYB), New Haven: Yale University Press.
 <div style="padding-left: 22px; text-indent: -22px;">
 McKane 2014
 <br>
-William McKane, <i>Jeremia 1-25</i> (ICC), London: Bloomsbury.
+William McKane, <i>Jeremiah 1-25</i> (ICC), London: Bloomsbury.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -426,21 +424,12 @@ Yigael Yadin, <i>Masada VI: Hebrew Fragments from Masada</i>, Masada: The
 Yigael Yadin excavations 1963-1965 final reports. Jerusalem: Israel Exploration Society.
 </div>
 
-<div style="padding-left: 22px; text-indent: -22px;">
-Zatelli 2004
-<br>
-Ida Zatelli, ‘The Study of Ancient Hebrew Lexicon:
-Application of the Concepts of Lexical Field
-and Functional Language’, <i>KUSATU</i> 5:129-59.
-</div>
-
 
 
 ## Notes
 
-[^1]: According to Dead Sea Scroll Concordance, 2003, II p. 724.
-[^2]: <i>HALOT</i>, 1503; <i>DCH</i> 364.
-[^3]: <i>DULAT</i>, 296; <i>RSP</i>, II: 21 n.35; <i>LSU</i>, 27; De Moor 1987: ...
+[^2]: CHECK <i>DULAT</i>, 296; <i>RSP</i>, II: 21 n.35; <i>LSU</i>, 27; De Moor 1987: ...
+[^3]: CHECK <i>DULAT</i>, 296; <i>RSP</i>, II: 21 n.35; <i>LSU</i>, 27; De Moor 1987: ...
 [^4]: Aartun 1968:281.
 [^5]: <i>HALOT</i>, 1503; Zorell 845.
 [^6]: <i>WÄS</i>, 4:204; Helck 1965:44.
@@ -448,11 +437,14 @@ and Functional Language’, <i>KUSATU</i> 5:129-59.
 [^8]: LSJ, 1192; <i>GELS</i>, 733.
 [^9]: LSJ, 450; <i>GELS</i>, 178.
 [^10]: <i>DJPA</i>, 581b; <i>DTT</i>, 1670a.
-[^11]: CSD, 613.
+[^11]: Sokoloff, <i>SLB</i>, 1647.
 [^12]: LD, 1211a.
+[^14]: Sir 43:17<sup><small>B</small></sup> has a slightly different reading: <span dir="rtl">[כ]רשף יניף שלגו</span>, ‘his snow sways like a flame’.
+[^15]: On the meaning of רשף, see <i>HALOT</i>, 1297, <i>s.v.</i> #4, and the literature mentioned there.
+[^16]: Bright (1965:122) also agrees with Albright regarding the translation.
+[^17]: As restored in de Moor and Spronk (1987:28).
+[^18]: Korpel (1990:302 n. 662) refers additionally to Ps 33:7, where the <span dir="rtl">תְּהוֹמֽוֹת</span>,‘deeps’, are put in storehouses.
+[^19]: DJD XXII, 289-94.
+[^20]: <i>DDD</i>, 304-05.
+[^21]: Translation as ‘nobles’ is supported by Salters (2014:299) and Renkema (1998:512).
 
-[^14]: Bright (1965:122) also agrees with Albright regarding the translation.
-[^15]: As restored in de Moor and Spronk (1987:28).
-[^16]: DJD XXII, 289-94.
-[^17]: <i>DDD</i>, 304-05.
-[^18]: Translation of as ‘nobles’ is supported by Salters (2014:299) and Renkema (1998:512).

@@ -29,7 +29,7 @@ Ketiv/ Qere: none.
 
 
 <b>A.1</b>  <i>Root.</i>
-It is questionable whether etymological research helps us to understand the term <span dir="rtl">אַמְתַּחַת</span> much better. Because the word occurs exclusively in the Joseph narrative, one might suppose that it is an Egyptian loan word. However, no Egyptian etymology has been proposed thus far. A derivation from the Hebrew preposition <span dir="rtl">תַּחַת</span> (‘das Wort bez. ein Gefäss, welches oft zum Reiten benützt wird, so dass es <i>unter</i> dem Reiter sich befindet’[^1]) failed to get any support. Greenfield 1965 connected <span dir="rtl">אַמְתַּחַת</span> with an Assyrian verb <i>matāḫu</i>, ‘to bear, carry, lift up’.[^2] Consequently the word <span dir="rtl">אַמְתַּחַת</span> would not mean ‘sack’, but ‘load, burden, pack’ (this was taken over by <i>HAHAT</i>: ‘Sack, besser Ladung, Last’[^3]). This might also explain the rendering of the word by <span dir="rtl">טוענא</span> ‘load, burden’ in Tg and Pesh (see <a href="#AV">Ancient Versions</a>). However, Greenfields etymological and comparative philological argument in itself is inconclusive because it does not explain the parallelism between <span dir="rtl">אַמְתַּחַת</span>, <span dir="rtl">כְּלִי</span>  and  <span dir="rtl">שַׂק</span> in 42:25, 27, 35; 43:11, 12 and 44:1.
+It is questionable whether etymological research helps us to understand the term <span dir="rtl">אַמְתַּחַת</span> much better. Because the word occurs exclusively in the Joseph narrative, one might suppose that it is an Egyptian loan word. However, no Egyptian etymology has been proposed thus far. A derivation from the Hebrew preposition <span dir="rtl">תַּחַת</span> (‘das Wort bez. ein Gefäss, welches oft zum Reiten benützt wird, so dass es <i>unter</i> dem Reiter sich befindet’[^1]) failed to get any support. Greenfield 1965 connected <span dir="rtl">אַמְתַּחַת</span> with an Assyrian verb <i>matāḫu</i>, ‘to bear, carry, lift up’.[^2] Consequently the word <span dir="rtl">אַמְתַּחַת</span> would not mean ‘sack’, but ‘load, burden, pack’ (this was taken over by <i>HAHAT</i>: ‘Sack, besser Ladung, Last’[^3]). This might also explain the rendering of the word by <span dir="rtl">טוענא</span>, ‘load, burden’ in Tg and Pesh (see <a href="#AV">Ancient Versions</a>). However, Greenfields etymological and comparative philological argument in itself is inconclusive because it does not explain the parallelism between <span dir="rtl">אַמְתַּחַת</span>, <span dir="rtl">כְּלִי</span>  and  <span dir="rtl">שַׂק</span> in 42:25, 27, 35; 43:11, 12 and 44:1.
 
 More promising is the long-standing derivation from the Hebrew verb <span dir="rtl">מתח</span>, ‘to stretch, spread out’ which occurs once in Isa 40:22 in parallelism with <span dir="rtl">נטה</span>. In Mishnaic Hebrew it is used frequently (see below). For the prosthetic <span dir="rtl">א</span>, cf. <i>BL</i>, 487; Klein, <i>CEDHL</i>, 37. The following cognates may be mentioned here:
 
@@ -50,23 +50,23 @@ Jastrow: Qal ‘to extend, stretch’.[^10]
 <b>A.5</b>
 <i>Jewish Aramaic.</i>
 Levy: Peal ‘ausdehnen, ausspannen’;[^11]
-Jastrow: ‘Peal to extend, stretch’;[^12]  <span dir="rtl">מִיתּוּחַ</span> ‘stretching’;[^13] <span dir="rtl">מִתְחָא</span> ‘extension’; <span dir="rtl">מְתַחְתָּא</span> ‘stretching’. Sokoloff: Peal ‘to pull, stretch, elongate’;[^14] <span dir="rtl">מְתָחְתָּא</span> ‘stretching’;[^15] Sokoloff: Peal ‘to stretch’.[^16]
+Jastrow: ‘Peal to extend, stretch’;[^12]  <span dir="rtl">מִיתּוּחַ</span>, ‘stretching’;[^13] <span dir="rtl">מִתְחָא</span>, ‘extension’; <span dir="rtl">מְתַחְתָּא</span>, ‘stretching’. Sokoloff: Peal ‘to pull, stretch, elongate’;[^14] <span dir="rtl">מְתָחְתָּא</span>, ‘stretching’;[^15] Sokoloff: Peal ‘to stretch’.[^16]
 
 <b>A.6</b>
 <i>Samaritan Aramaic.</i>
-<span dir="rtl">מתח</span> ‘spreading out’.[^17] 
+<span dir="rtl">מתח</span>, ‘spreading out’.[^17] 
 
 <b>A.7</b>
 <i>Syriac.</i>
-<i>m<sup>e</sup>taḥ</i>, Peal ‘to stretch out, extend, prolong’, <i>m<sup>e</sup>tāḥā</i> ‘stretching out’, etc.[^18]
+<i>m<sup>e</sup>taḥ</i>, Peal ‘to stretch out, extend, prolong’, <i>m<sup>e</sup>tāḥā</i>, ‘stretching out’, etc.[^18]
 
 <b>A.8</b>
 <i>Classical Arabic.</i>
-<i>mataḥa</i> ‘to draw, extend’.[^19]
+<i>mataḥa</i>, ‘to draw, extend’.[^19]
 
 <b>A.9</b>
 <i>Ethiopic.</i>
-Geez <i>matḥa</i> ‘to be thin’.[^20] 
+Geez <i>matḥa</i>, ‘to be thin’.[^20] 
 
 ## 2. Formal Characteristics
 
@@ -154,7 +154,7 @@ In Egypt grain was distributed in sacks (Kemp 1994). [Further text will be added
 ## <span id="Con">7. Conclusion</span>
 
 <b>A.1</b>
-The <span dir="rtl"> אַמְתַּחַת</span> seems to be a sack for storing grain which was extended (<span dir="rtl">מתח</span>) like a piece of cloth and folded over the back of an ass by way of pack-saddle, hanging down both sides of the animal. Such saddles are also attested in Mesopotamian sources.[^32] At the ends the sack was tied shut.[^33] This explanation is supported by the context in which it balances <span dir="rtl">כְּלִי</span>  ‘container’, and  <span dir="rtl">שַׂק</span>  ‘sack’, and also by the etymological cognates of the word, by several renderings in the ancient versions and by the interpretation offered by the medieval exegete Nahmanides. Although its material is not specified in the Bible, there is reason to suppose it was woven from black goat's hair.[^34] Exactly such a double sack made of goat's hair was used for the transport of grain on donkeys in Mesopotamia. It was called a <i>patnu</i> or <i>zurzu</i> there.[^35] Probably the <span dir="rtl"> אַמְתַּחַת</span> did not differ greatly from the <a href=https://sahd-online.com/words/mishpthayim/ target="_blank">→ <span dir="rtl">מִשְׁפְּּתַיִם</a></span> and <a href=https://sahd-online.com/words/mishpthayim/ target="_blank">→ <span dir="rtl">שְׁפַתַּיִם</a></span>.
+The <span dir="rtl"> אַמְתַּחַת</span> seems to be a sack for storing grain which was extended (<span dir="rtl">מתח</span>) like a piece of cloth and folded over the back of an ass by way of pack-saddle, hanging down both sides of the animal. Such saddles are also attested in Mesopotamian sources.[^32] At the ends the sack was tied shut.[^33] This explanation is supported by the context in which it balances <span dir="rtl">כְּלִי</span>, ‘container’, and  <span dir="rtl">שַׂק</span>, ‘sack’, and also by the etymological cognates of the word, by several renderings in the ancient versions and by the interpretation offered by the medieval exegete Nahmanides. Although its material is not specified in the Bible, there is reason to suppose it was woven from black goat's hair.[^34] Exactly such a double sack made of goat's hair was used for the transport of grain on donkeys in Mesopotamia. It was called a <i>patnu</i> or <i>zurzu</i> there.[^35] Probably the <span dir="rtl"> אַמְתַּחַת</span> did not differ greatly from the <a href=https://sahd-online.com/words/mishpthayim/ target="_blank">→ <span dir="rtl">מִשְׁפְּּתַיִם</a></span> and <a href=https://sahd-online.com/words/mishpthayim/ target="_blank">→ <span dir="rtl">שְׁפַתַּיִם</a></span>.
 
 
 ## Bibliography

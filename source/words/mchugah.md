@@ -28,7 +28,7 @@ additional_info: (WORK IN PROGRESS)
 
 
 
-Grammatical type: n.f.
+Grammatical type: noun fem.
 
 
 Occurrences: 1x HB (0/1/0); 0x Sir; 0x Qum; 0x Inscr. (Total: 1)

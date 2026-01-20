@@ -19,7 +19,7 @@ of SAHD entries for ‘Deliverance’ words</a> by Graham I. Davies.
 
 ## Introduction
 
-Grammatical Type: vb <i><i>qal</i></i>, <i>niph.</i>, <i>hiph.</i>, and <i>hoph.</i>   
+Grammatical Type: verb <i><i>qal</i></i>, <i>niph.</i>, <i>hiph.</i>, and <i>hoph.</i>   
 Occurrences: 58x HB (<i>qal</i>: 19/14/20; <i>niph.</i>: 2/1/0; <i>hiph.</i>: 1/0/0; <i>hoph.</i>:
 1/0/0); 2x Sir; 18x Qum; 0x inscr. (Total: 78).
 

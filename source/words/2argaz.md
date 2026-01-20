@@ -80,7 +80,7 @@ The rare references to <span dir="rtl">אַרְגַּז</span>  in the rabbinica
 
 * <i>GELS-L</i>: ‘treasure; pile; coffer [1 Sam 6:8]’;[^10] LSJ: ‘that what is placed <i>or laid down</i>; treasure; pile; position; burrial-place; case etc.’.[^11]
 
-* α´ and  σ´ render ƛαρναξ ‘coffer, box, chest’.[^12]
+* α´ and  σ´ render ƛαρναξ, ‘coffer, box, chest’.[^12]
 
 <b>b.  Peshitta (Pesh):</b>  
 
@@ -142,13 +142,13 @@ No suggestions.
 The available data is too scant to permit a confident determination of the kind of object an <span dir="rtl">אַרְגַּז</span>  was. All attempts at identification rest either on etymologising or on renderings in the ancient versions which, however, are evidently guesses themselves.
 
 <b>A.2</b>
-Much approval was won by a suggestion of Morgenstern who draws a parallel between pre-islamic transportable tent-shrines and the Israelite tabernacle. He associates the Hebrew <span dir="rtl">אַרְגַּז</span>  with Arabic <i>riǧāzat</i>, according to him a kind of ‘pouch, bag’ in which heavy stones were put as a counterweight to the tent. So the <span dir="rtl">אַרְגַּז</span>  would have been a permanent device necessary for the transport of the tabernacle. The rocking motion of the pouches  might explain the derivation of the word from the root <span dir="rtl">רגז</span> ‘to quiver, quake’. As a matter of fact the same solution had been proposed much earlier by others (see <a href="#Bi">Bibliography</a>).[^15]
+Much approval was won by a suggestion of Morgenstern who draws a parallel between pre-islamic transportable tent-shrines and the Israelite tabernacle. He associates the Hebrew <span dir="rtl">אַרְגַּז</span>  with Arabic <i>riǧāzat</i>, according to him a kind of ‘pouch, bag’ in which heavy stones were put as a counterweight to the tent. So the <span dir="rtl">אַרְגַּז</span>  would have been a permanent device necessary for the transport of the tabernacle. The rocking motion of the pouches  might explain the derivation of the word from the root <span dir="rtl">רגז</span>, ‘to quiver, quake’. As a matter of fact the same solution had been proposed much earlier by others (see <a href="#Bi">Bibliography</a>).[^15]
 
 <b>A.3</b>
 However, the meaning of the Arabic cognate is modified by those who adduce it. Morgenstern selects only one meaning of the word. The primary meaning is ‘palanquin’, a small type of camel litter for women, sometimes provided with a dome-like top. The saddle on which the women sat was called <a href=https://otw-site.eu/wp-content/uploads/2017/07/kr-1.pdf target="_blank">→ <span dir="rtl">כַּר</span></a>.[^16] Others take the Arabic word to mean ‘saddlebag’[^17] which it is definitely not, not even if it sometimes metonymically may designate a special covering that was filled on one side with stones to balance the camel litter if it started to slant.[^18] In any case this is something completely different from the wagons drawn by oxen in 1 Sam 6. Moreover, it may be asked whether it is likely that precious golden objects would have been put into bags containing heavy stones as counterweights. 
 
 <b>A.4</b>
-As a provisional rendering ‘box, chest’ might be retained because it is supported by ancient tradition which, however, rests ultimately on what was obviously a guess of the early Greek translators who expressed their uncertainty by also transcribing the unfamiliar term. The translator of the Peshiṭta does not know the word either and simply transcribes it. Rabbinic sources may have been etymologising on the basis of Latin <i>arca</i> ‘box, chest, ark’. No convincing Semitic etymology has been proposed. The root <i>rgz</i> ‘to shake, sway, be angry’ renders a useful solution only if one surmises that <span dir="rtl">אַרְגַּז</span>  was a swaying object. Therefore Sapir’s hypothesis that we are dealing with an unknown Philistine (Anatolian) loanword may still be valid.[^19]
+As a provisional rendering ‘box, chest’ might be retained because it is supported by ancient tradition which, however, rests ultimately on what was obviously a guess of the early Greek translators who expressed their uncertainty by also transcribing the unfamiliar term. The translator of the Peshiṭta does not know the word either and simply transcribes it. Rabbinic sources may have been etymologising on the basis of Latin <i>arca</i>, ‘box, chest, ark’. No convincing Semitic etymology has been proposed. The root <i>rgz</i>, ‘to shake, sway, be angry’, renders a useful solution only if one surmises that <span dir="rtl">אַרְגַּז</span>  was a swaying object. Therefore Sapir’s hypothesis that we are dealing with an unknown Philistine (Anatolian) loanword may still be valid.[^19]
 
 ## <a id="Bi"></a>Bibliography
 
