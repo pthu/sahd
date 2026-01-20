@@ -4,4 +4,4 @@
 
 
 ### Contributions
-[כְּרוּב – cherub](../words/krub-1.md)<br>
+[כְּרוּב – cherub](../words/krub.md)<br>
