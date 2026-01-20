@@ -1,6 +1,6 @@
 <html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-# **Utensils or other**
+# **Supernatural beings**
 
 
 ### Related words
