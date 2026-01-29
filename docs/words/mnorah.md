@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># מְנוֹרָה <i>m<small><sup>e</sup></small>nõrāh</i> – lampstand
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># מְנוֹרָה <i>m<small><sup>e</sup></small>nōrāh</i> – lampstand
 
 Semantic Fields:
 [Light](../semantic_fields/light.md)&nbsp;&nbsp;&nbsp;[Cult](../semantic_fields/cult.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Cornelis Houtman](../contributors/cornelis_houtman.md)<br>
-First published: 2013-09-29<br>Last update: 2025-10-10 <br>Citation: Cornelis Houtman, מְנוֹרָה <i>m<small><sup>e</sup></small>nõrāh</i> – lampstand, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2013 (update: 2025)
+First published: 2013-09-29<br>Last update: 2025-10-10 <br>Citation: Cornelis Houtman, מְנוֹרָה <i>m<small><sup>e</sup></small>nōrāh</i> – lampstand, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2013 (update: 2025)
 (WORK IN PROGRESS)
 
 

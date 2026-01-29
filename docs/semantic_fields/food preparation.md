@@ -4,4 +4,4 @@
 
 
 ### Related words
-[כִּיר – cooking-stove](../words/kir.md)<br>[צלה – to roast](../words/ts-l-h.md)<br>[קַלַּחַת – stewpot](../words/qallachath.md)<br>
+[כִּבְשָׁן – kiln](../words/kibshan.md)<br>[כִּיר – cooking-stove](../words/kir.md)<br>[צלה – to roast](../words/ts-l-h.md)<br>[קַלַּחַת – stewpot](../words/qallachath.md)<br>

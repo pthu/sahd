@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1CLGin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># שֶׁלֶג  – snow
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1CLGin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># שֶׁלֶג <i>šèleg</i> – snow
 
 Semantic Fields:
 [Weather](../semantic_fields/weather.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Chiara Stornaiuolo](../contributors/chiara_stornaiuolo.md)<br>
-First published: 2025-10-10<br>Last update: 2025-12-24 (Paul Sanders) <br>Citation: Chiara Stornaiuolo, שֶׁלֶג  – snow, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2025 (update: 2025)
+First published: 2025-10-10<br>Last update: 2025-12-24 (Paul Sanders) <br>Citation: Chiara Stornaiuolo, שֶׁלֶג <i>šèleg</i> – snow, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2025 (update: 2025)
 (WORK IN PROGRESS)
 
 

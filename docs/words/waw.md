@@ -8,7 +8,7 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1WWn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># וָו  – hook
 
 Semantic Fields:
-[Semantic Field 1](../semantic_fields/semantic_field_1.md)&nbsp;&nbsp;&nbsp;[Semantic Field 2](../semantic_fields/semantic_field_2.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Arian Verheij](../contributors/arian_verheij.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
 First published: 2026-01-06<br>Citation: Arian Verheij,&nbsp;Paul Sanders, וָו  – hook, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
 (WORK IN PROGRESS)
@@ -55,7 +55,7 @@ The noun <span dir="rtl">וָו</span> is a <i>qal</i> > <i>qāl</i> form; see B
 ## 4. Ancient Versions
 
 
-<b>Septuagint (LXX) and other Greek versions</b><sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup>
+<b>Septuagint (LXX) and other Greek versions</b><sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup>
 
 * ἀγκύλη, ‘loop’, ‘curtain-ring, hook’: Exod 38:17[37:15]; 38:19[37:17]; 38:28[39:5];    
 * κεφαλίς, ‘rounded top end’: Exod 26:32, 37; 27:17;
@@ -67,21 +67,21 @@ The noun <span dir="rtl">וָו</span> is a <i>qal</i> > <i>qāl</i> form; see B
 <b>Peshitta (Pesh)</b> 
 
 * <span dir="rtl">ܩܘܒܥܐ</span>
-(<i>qūbʿā</i>), ‘head covering, skullcap’, ‘capital’:<sup id="fnref:12"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:12')">12</a></sup> in all instances.
+(<i>qūbʿā</i>), ‘head covering, skullcap’, ‘capital’:<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup> in all instances.
 
 <span id="Tg"></span>
 <b>c. Targumim</b>:  
 
 * <span dir="rtl">וָו</span>,
-‘hook’:<sup id="fnref:14"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:14')">14</a></sup> 
+‘hook’:<sup id="fnref:3"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:3')">3</a></sup> 
 Tg<sup>O</sup> and Tg<sup>PsJ</sup> in all instances.  
 * <span dir="rtl">אונקלוון</span> and
 <span dir="rtl">אונקלוות</span> (both plur. of <span dir="rtl">אונקלי</span>), or shortened forms 
 (<span dir="rtl">נקלוות</span>,
 <span dir="rtl">קלוות</span>,
-<span dir="rtl">קליות</span>), ‘hook’, a loan from ἀγκύλη:<sup id="fnref:15"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:15')">15</a></sup>
+<span dir="rtl">קליות</span>), ‘hook’, a loan from ἀγκύλη:<sup id="fnref:4"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:4')">4</a></sup>
 Tg<sup>N</sup> in all instances.  
-* <span dir="rtl">פריחין</span>, ‘blossom’:<sup id="fnref:16"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:16')">16</a></sup> Tg<small><sup>Smr</sup></small> in all instances
+* <span dir="rtl">פריחין</span>, ‘blossom’:<sup id="fnref:5"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:5')">5</a></sup> Tg<small><sup>Smr</sup></small> in all instances
 (the forms <span dir="rtl">פרעיון</span>,
 <span dir="rtl">פריעין</span> and <span dir="rtl">פריון</span> 
 are corrupt).
@@ -89,7 +89,7 @@ are corrupt).
 
 <b>Vulgate (Vg)</b> 
 
-* <i>caput</i>, ‘head’, ‘upper or extreme part of anything’, etc.:<sup id="fnref:17"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:17')">17</a></sup> in all instances, apparently following LXX κεφαλίς, with no representation of the following <span dir="rtl">הָעַמֻּדִים</span> in Exod 27:10, 11; 38:17.
+* <i>caput</i>, ‘head’, ‘upper or extreme part of anything’, etc.:<sup id="fnref:6"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:6')">6</a></sup> in all instances, apparently following LXX κεφαλίς, with no representation of the following <span dir="rtl">הָעַמֻּדִים</span> in Exod 27:10, 11; 38:17.
 
 <b>A.1</b> 
 Some of the ancient translations are discussed by 
@@ -116,7 +116,7 @@ sanctuary; the other eight passages (36:36, 38;
 the order.
 
 <b>A.2</b> 
-English dictionaries usually translate <span dir="rtl">וָו</span> as either ‘nail’, or ‘hook’, or they mention both of these translations.<sup id="fnref:18"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:18')">18</a></sup> The corresponding common German renderings are ‘Nagel’ or ‘Haken’.<sup id="fnref:19"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:19')">19</a></sup> A proper analysis of the textual evidence may show which translation is best. It has been suggested that the name of the letter 
+English dictionaries usually translate <span dir="rtl">וָו</span> as either ‘nail’, or ‘hook’, or they mention both of these translations.<sup id="fnref:7"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:7')">7</a></sup> The corresponding common German renderings are ‘Nagel’ or ‘Haken’.<sup id="fnref:8"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:8')">8</a></sup> A proper analysis of the textual evidence may show which translation is best. It has been suggested that the name of the letter 
 <i>waw</i> was derived from the shape of the <span dir="rtl">וָו</span> (Driver 1954:162).
 
 <!--*LHA*, 201: ‘uncus, clavus aduncus (Haken, crochet, hook)’ --
@@ -311,7 +311,7 @@ For the abbreviations see the
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
-Driver 1954 <br>.
+Driver 1954 <br>
 G.R. Driver, <i>Semitic Writing from Pictograph to Alphabet</i>, London <sup>2</sup>1954.
 </div>
 
@@ -328,14 +328,14 @@ C. Houtman, <i>Exodus</i> (HCOT), vol. 3, Peeters: Leuven.
 
 ## Notes
 
-[^11]: The translations of the Greek are based on <i>GELS</i>.
-[^12]: Sokoloff, <i>SLB</i>, 1323.
-[^14]: Jastrow, <i>DTT</i>, 372. 
-[^15]: Jastrow, <i>DTT</i>, 30.
-[^16]: <i>DSA</i>, 702. Cf. Jastrow, <i>DTT</i>, 1223-24: <span dir="rtl">פֶּרַח</span>, ‘blossom, flower, an ornament in the shape of a flower’.
-[^17]: <i>OLD</i>, 274-75.
-[^18]: <i>BDB</i>, 255: ‘hook, pin or peg (....), fastened on, or in, the posts of the tabernacle to support the various hangings’; K. Lawson Younger, Jr., <i>NIDOTTE</i>, vol. 1, 1064: ‘nail’; <i>TLB</i>, vol. 2, 441: ‘Hook; many believe that it means a bent nail, but perhaps a kind of two-pronged fork on the pillars of the Tabernacle, into which the hem of the curtain was inserted from above’; <i>KBL</i>, 246: ‘hook’, ‘peg’; <i>HALOT</i>, 259: ‘nails, pegs’; <i>DCH</i> ii:598: ‘<b>hook</b>, or, <b>nail</b>’; <i>DCHR</i> ii:743, ‘<b>hook</b>, or perh. rather, <b>nail</b>’.
-[^19]: <i>GB</i>, 190: ‘Nagel, Haken, an die die Vorhänge der Stiftshütte gehängt wurden’; <i>HAWAT</i>, 85: ‘Nagel, Haken’; <i>HCHAT</i>, 342: ‘krummer Haken, Nagel’; <i>KBL</i>, 246: ‘Haken’, ‘Nagel’; <i>HAL</i>, 249: ‘Nagel’; Ges<sup><small>18</small></sup>, 290: ‘Nagel’. Dalman, <i>AuS</i>, Bd. 6, 40, translates as ‘Haken’.
+[^1]: The translations of the Greek are based on <i>GELS</i>.
+[^2]: Sokoloff, <i>SLB</i>, 1323.
+[^3]: Jastrow, <i>DTT</i>, 372. 
+[^4]: Jastrow, <i>DTT</i>, 30.
+[^5]: <i>DSA</i>, 702. Cf. Jastrow, <i>DTT</i>, 1223-24: <span dir="rtl">פֶּרַח</span>, ‘blossom, flower, an ornament in the shape of a flower’.
+[^6]: <i>OLD</i>, 274-75.
+[^7]: <i>BDB</i>, 255: ‘hook, pin or peg (....), fastened on, or in, the posts of the tabernacle to support the various hangings’; K. Lawson Younger, Jr., <i>NIDOTTE</i>, vol. 1, 1064: ‘nail’; <i>TLB</i>, vol. 2, 441: ‘Hook; many believe that it means a bent nail, but perhaps a kind of two-pronged fork on the pillars of the Tabernacle, into which the hem of the curtain was inserted from above’; <i>KBL</i>, 246: ‘hook’, ‘peg’; <i>HALOT</i>, 259: ‘nails, pegs’; <i>DCH</i> ii:598: ‘<b>hook</b>, or, <b>nail</b>’; <i>DCHR</i> ii:743, ‘<b>hook</b>, or perh. rather, <b>nail</b>’.
+[^8]: <i>GB</i>, 190: ‘Nagel, Haken, an die die Vorhänge der Stiftshütte gehängt wurden’; <i>HAWAT</i>, 85: ‘Nagel, Haken’; <i>HCHAT</i>, 342: ‘krummer Haken, Nagel’; <i>KBL</i>, 246: ‘Haken’, ‘Nagel’; <i>HAL</i>, 249: ‘Nagel’; Ges<sup><small>18</small></sup>, 290: ‘Nagel’. Dalman, <i>AuS</i>, Bd. 6, 40, translates as ‘Haken’.
 
 
 

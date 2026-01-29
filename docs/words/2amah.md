@@ -61,13 +61,14 @@ suff:  Gen 20:17; Deut 12:12; Nah 2:8; Job 19:15; Ezra 2:65; Neh 7:67; 4Q215 fr1
 <b>Septuagint (LXX) and other Greek versions</b><sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup> 
 
 * ἅβρα, ‘female personal servant’ (1x): Exod 2:5; 
-* δούλη, ‘<i>female slave, bondswoman</i>’, or ‘<i>submissive and respectful woman</i>: in honorific, self-effacing discourse vis-à-vis a king, as a substitute for the first personal pronoun’ (17-20x): Lev 25:44 (2nd); Judg 19:19 (LXX<sup><small>A</small></sup>); 1 Sam 1:11 (1st, 3rd, in LXX<sup><small>Ant</small></sup> also 2nd), 16; 25:24 (2x), 25, 28, 31, 41; 2 Sam 14:15 (LXX<sup><small>Ant</small></sup>: παιδίσκη), 16; 20:17; 1 Kgs 1:13, 17; 
-<!--1K1:17 omission in Ant 2S25:17-->
+* δούλη, ‘<i>female slave, bondswoman</i>’, or ‘<i>submissive and respectful woman</i>: in honorific, self-effacing discourse vis-à-vis a king, as a substitute for the first personal pronoun’ (17-20x): Lev 25:44 (2nd); Judg 19:19 (LXX<sup><small>A</small></sup>); 1 Sam 1:11 (1st, 3rd, in LXX<sup><small>Ant</small></sup> also 2nd), 16; 25:24 (2x), 25, 28, 31, 41; 2 Sam 14:15 (LXX<sup><small>Ant</small></sup>: παιδίσκη), 16; 20:17; 1 Kgs 1:13, 17;  
 Nah 2:8; Ruth 3:9 (2x);   
 * θεράπαινα, ‘female slave’ (4x): Exod 21:26, 27; Job 19:15; 31:13;   
 * οἰκέτις, ‘female domestic employee’ (1x): Exod 21:7; 
 * παιδίσκη, ‘female servant’, ‘female counterpart of παῖς’, ‘self-effacing appelation’ (29-31x): Gen 20:17; 21:10 (2x), 12, 13; 30:3; 31:33; Exod 20:10, 17; 21:20, 32; 23:12; Lev 25:6, 44 (1st); Deut 5:14 (2x), 21; 12:12, 18; 15:17; 16:11, 14; Judg 9:18; 19:19 (LXX<sup><small>B</small></sup>); 2 Sam 14:15 (only LXX<sup><small>Ant</small></sup>); 2 Sam 6:20, 22; Pss 86:16; 116:16; Ezra 2:65; Neh 7:67;   
 * no translation (2x): 1 Sam 1:11 (2nd, but δούλη in LXX<sup><small>Ant</small></sup>); 1 Kgs 3:20 (also no translation in LXX<sup><small>Ant</small></sup>).
+
+<!--1K1:17 omission in Ant 2S25:17-->
 
 
 <!--<b>A.1</b> 

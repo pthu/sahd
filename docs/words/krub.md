@@ -10,8 +10,7 @@
 Semantic Fields:
 [Supernatural Beings](../semantic_fields/supernatural beings.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Alice Wood](../contributors/alice_wood.md)<br>
-First published: 2021-11-08<br>Last update: 2024-12-21 <br>Citation: Alice Wood, כְּרוּב <i></i> – cherub, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2021 (update: 2024)
-(WORK IN PROGRESS)
+First published: 2014-08-13<br>Citation: Alice Wood, כְּרוּב <i></i> – cherub, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2014
 
 
 
@@ -60,5 +59,141 @@ However, the assertion that the prophet changed the face of the ox to that of a 
 <b>B.4</b> Brown (1968:163) revives an older argument (cf. Ges.:365), which opposes a Semitic origin and makes a link between כְּרוּב and Greek γρύψ (stem γρυπ-). He claims that the words are identical, apart from the shift in articulation between the stops. This may have been assisted in Greek by means of assimilation to Greek γύψ “bird of prey” or γρυπος “hook-nosed” or in Hebrew by means of assimilation to רכב (see Ps 18.11 = 2 Sam 22.11 and “the chariot (merkābāh) of the cherubim” in I Ch 28.18). The latter seems unlikely, however, as the association of cherub with רכב in Ps 18.11 (= 2 Sam 22.11) is purely for poetic purposes and the further association between the cherubim and the merkābāh only occurs in post-exilic texts.
 
 
+
+## 2. Formal Characteristics
+
+<b>A.1</b>  
+
+
+
+## 3. Syntagmatics
+
+<b>A.1</b> 
+
+
+## <a id="AV"></a>4. Ancient Versions
+
+<b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
+
+A.1 The LXX translators transliterate both כְּרוּב and כְּרוּבִים, offering χερούβ and χερουβιμ/χερουβιν.
+
+A.2 The LXX account of the construction of the tabernacle (Ex 36-37) differs considerably from that of the MT. The Greek omits the reference to the cherubim worked into the curtains in 36.8 but includes them in 36.35. The description of the gold cherubim on the kappōret in 37.8-9 is much shorter in the Greek than the Hebrew and the LXX omits the reference to the position of the faces of the cherubim in 37.9.
+
+A.3 In Ps 18.11, the LXX has the plural where the MT has the singular. Thus the Greek reads καὶ ἐπέβη ἐπὶ χερουβιν καὶ ἐπετάσθη (“And he mounted on cherubim and flew…”). It is likely that the LXX translator understood the Hebrew singular to be a collective noun here. The LXX also has the plural in the parallel passage 2Sm 22.11, however, here, a different verb is used. In place of Hebrew רכב, LXX has the verb ἐπιβαίνω (“to mount, board”) in Ps 18.11 but ἐπικαθίζω (“to sit”) in 2Sm 22.11.
+
+A.4 In Ezk 9.3 and 10.2,4, the LXX again supplies the plural χερουβιν, where the Hebrew has the singular כְּרוּב. Once more, it is possible that the LXX translator understood the Hebrew to be a collective in these verses. Alternatively, the LXX text may be the result of a desire to tidy up the inconsistent use of the singular and plural of כְּרוּב in the Hebrew version of Ezk 9-10.
+
+A.5 In Ezk 10.7, the LXX does not clarify who it is that stretches out his hand, where in the MT it is one of the cherubim. This renders the Greek text incoherent and has caused Allen (1994:124) to suggest that an original ἐκ μέσου τῶν χερουβιν could have dropped out by homoeoarcton before εἰς μέσον (εκ).
+
+A.6 Ezk 10.14 is absent from the LXX and most scholars regard the verse as a gloss.
+
+A.7 The Greek version of Ezk 28.14 understands the king of Tyre to be placed with a cherub and reads μετὰ τοῦ χερουβ in place of the Hebrew אַתְּ־כְּרוּב, “You are the cherub”. The original text, without vowels, could have been read either way, although the form of the 2ms pronoun that appears in the MT is rare. In verse 16, the LXX continues to view the king of Tyre as entirely separate from the cherub and understands the cherub to be the instigator, and not the recipient, of the punishment.
+
+
+
+<b>b.  Peshitta (Pesh):</b>  
+
+A.1 Transliterates: ܟܪܘܽܒܳܐ (krūbā)
+
+
+<b>c. Targum (Tg):</b>  
+
+A.1 Tg transliterates the Hebrew, unless the word was indigenous to Aramaic as well as to Hebrew. It always uses the determined singular form כְּרֻובָא and never the undetermined form כְּרוּב. For the plural, the Tg supplies both the undetermined form, כְּרֻובִין, and the determined, כְּרֻובַיָּא.
+
+A.2 As one would expect, the divine epithet יֹשֵׁב הַכְּרוּבִים, with its anthropomorphic undertones, is changed in the Tg to דִשְׁכִינְתֵּיהּ שַׁרְיָא עֵיל מִן כְּרוּבַיָא, “whose Shekinah dwells above the cherubim” (2 Sam 6:2).
+
+A.3 Likewise, in Ps 18.11, the anthropomorphic “And he rode upon a cherub and flew” is changed to ואתגלי בגבורתיה על כרובין קלילין, “And he was revealed in his might upon swift cherubim.” In 2Sm 22.11, it is the Shekinah and not God himself who is revealed. Like the LXX, the Tg has the plural form in place of the MT singular, כְּרוּב. Again, the translator may have understood the Hebrew singular as a collective or, alternatively, the writers of the Tg could be envisaging the cherubim as a chariot-throne, in accordance with the Ezekiel tradition and merkābāh mysticism.
+
+
+
+<b>d.  Vulgate (Vg):</b>  
+
+A.1 Transliterates: cherub (pl. cherubim/cherubin)
+
+A.2 Josephus in Ant 8:73 admits that, by his time, people were ignorant about what the cherubim looked like, “No one can tell, or even conjecture, what was the shape of these Cherubim.” It is likely that the original form and function of the cherubim was rapidly forgotten during and after the exile and this may well account for the reluctance among the translators of the versions to offer an appropriate substitute for כְּרוּב in their target languages.
+
+
+
+
+
+
+
+## 5. Lexical/Semantic Fields
+
+
+<b>A.1</b> 
+
+
+## 6. Exegesis
+
+### 6.1 Textual Evidence
+
+
+<b>A.1</b>
+
+
+
+### 6.2 Pictorial Material
+
+<b>A.1</b> 
+ 
+
+<b>A.2</b> 
+
+
+
+### 6.3 Archaeology
+
+<b>A.1</b> 
+
+## 7. Conclusion
+
+<b>A.1</b>
+
+
+## Bibliography
+
+For the abbreviations see the 
+<a href="/store/abbreviations/">List of Abbreviations</a>.
+
+
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Andersson Strand & Nosch 2015<br>
+Eva Andersson Strand, Marie-Louise Nosch (eds), <i>Tools, Textiles and Contexts: Investigating Textile Production in the Aegean and Eastern
+Mediterranean Bronze Age</i>  
+(Ancient Textiles Series, 21), Oxford: Oxbow.
+	</div>
+	
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Arnaud 1987<br>
+Daniel Arnaud, <i>Recherches au pays d’Aštata, Emar VI/4:
+Textes de la bibliothèque: transcriptions et traductions</i>,
+Paris: Éditions Recherche sur les Civilisations.
+	</div>
+	
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Barber 1991<br>    
+Elizabeth J.W. Barber, 
+<i>Prehistoric Textiles: The Development of Cloth in 
+the Neolithic and Bronze Ages, with Special 
+Reference to the Aegean</i>, Princeton: Princeton University Press.
+	</div>
+	
+
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Bergmann 2007<br>
+Claudia Bergmann, ‘We Have Seen the Enemy, and He is Only a “She”:
+The Portrayal of Warriors as Women’, 
+<i>CBQ</i> 69:651-72.
+	</div>
+	
+
+	
+
+## Notes
 
 

@@ -8,12 +8,10 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1KBCNn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># כִּבְשָׁן <i>kibšān</i> – kiln
 
 Semantic Fields:
-[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Food Preparation](../semantic_fields/food preparation.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Jacques T.A.G.M. van Ruiten](../contributors/jacques_t.a.g.m._van_ruiten.md)<br>
 First published: 2025-02-05<br>Last update: 2026-01-06 (Paul Sanders) <br>Citation: Jacques T.A.G.M. van Ruiten, כִּבְשָׁן <i>kibšān</i> – kiln, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2025 (update: 2026)
 (WORK IN PROGRESS)
-
-
 
 
 
@@ -64,7 +62,7 @@ Gen 19:28; Exod 9:8, 10; 19:18.
 <!--Omission in Sir?-->
 
 
-<b>c. Targum (Tg: O/N/PsJ/Frg/J/K):</b>:
+<b>c. Targum (Tg: O/N/PsJ/Frg/J/K):</b>
 
 * <span dir="rtl">אַתוּנָא</span>, ‘fire-place, stove’: Gen 19:28; Exod 9:8, 10; 19:18 (in Tg<small><sup>O</sup></small>, Tg<small><sup>PsJ</sup></small>, Tg<small><sup>N</sup></small>; Tg<small><sup>N</sup></small>);
 * <span dir="rtl">נסופה</span>, ‘high’: only in Gen 19:28 Tg<small><sup>SmrA</sup></small> (<span dir="rtl">כתננה נסופה</span>, ‘like the high smoke’).<sup id="fnref:10"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:10')">10</a></sup>

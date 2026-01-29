@@ -10,7 +10,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Writing](../semantic_fields/writing.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Klaas A. D. Smelik](../contributors/klaas_a._d._smelik.md)<br>
-First published: 2021-11-08<br>Last update: 2026-01-21 <br>Citation: Klaas A. D. Smelik, סֵפֶר <i>sḗper</i> – written document, book, letter, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2021 (update: 2026)
+First published: 2011-05-25<br>Citation: Klaas A. D. Smelik, סֵפֶר <i>sḗper</i> – written document, book, letter, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011
 (WORK IN PROGRESS)
 
 
@@ -38,8 +38,7 @@ Lachish ostraca no. 3, obverse, lines 5, 9, 10,
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
-<b>A.1</b>  
-
+<b>A.1</b> 
 <i>Egyptian</i>:The Semitic loanword <i>sōpēr</i>,  ‘scribe’, is attested in literature of the New Kingdom as <i>šu-pi-r(a)</i> (Hoch, <i>SWET</i>, 364).
 
 
@@ -158,8 +157,8 @@ All other ancient versions show a similar awareness of the wide semantic spectru
 
 <b>A.1</b>
 Although <span dir="rtl">סֵפֶר</span> can designate any written sheet or collection of sheets in Biblical Hebrew, in most 
-cases <span dir="rtl">סֵפֶר</span> means  ‘book’. For instance, in Eccl. 12:12: <span dir="rtl">קֵצּ</span> <span dir="rtl">אֵין</span> <span dir="rtl">הַרְבֵּה</span> <span dir="rtl">סְפָרִים</span> <span dir="rtl">עֲשֹׂות</span>,  ‘of making many books there is no end’. Especially, <span dir="rtl">סֵפֶר</span> occurs in book-titles, for instance: <span dir="rtl">יְהוָה</span> <span dir="rtl">מִלְחֲמֹת</span> <span dir="rtl">סֵפֶר</span>, ‘the Book of the Wars of YHWH’ (Num. 21:14),
-<span dir="rtl">מֹשֶׁה</span> <span dir="rtl">תֹֹּורַת</span> <span dir="rtl">סֵפֶר</span>,  ‘the Book of the Torah of Moses’ (Josh. 8:31; 23:6), <span dir="rtl">הַיָּשָׁר</span> <span dir="rtl">סֵפֶר</span>, ‘the Book of the Just’ (Josh. 
+cases <span dir="rtl">סֵפֶר</span> means  ‘book’. For instance, in Eccl 12:12: <span dir="rtl">קֵצּ</span> <span dir="rtl">אֵין</span> <span dir="rtl">הַרְבֵּה</span> <span dir="rtl">סְפָרִים</span> <span dir="rtl">עֲשֹׂות</span>,  ‘of making many books there is no end’. Especially, <span dir="rtl">סֵפֶר</span> occurs in book-titles, for instance: <span dir="rtl">יְהוָה</span> <span dir="rtl">מִלְחֲמֹת</span> <span dir="rtl">סֵפֶר</span>, ‘the Book of the Wars of YHWH’ (Num 21:14),
+<span dir="rtl">מֹשֶׁה</span> <span dir="rtl">תֹֹּורַת</span> <span dir="rtl">סֵפֶר</span>,  ‘the Book of the Torah of Moses’ (Josh 8:31; 23:6), <span dir="rtl">הַיָּשָׁר</span> <span dir="rtl">סֵפֶר</span>, ‘the Book of the Just’ (Josh 
 10:13; 2 Sam 1:18), <span dir="rtl">שְׁלֹמֹה</span> <span dir="rtl">דִּבְרֵי</span> <span dir="rtl">סֵפֶר</span>, ‘the Book of the Acts of Solomon’ (1 Kgs 11:41), etc.
 
 
@@ -179,13 +178,13 @@ or an  ‘evidence of purchase’, <span dir="rtl">הַמִּקְנָה</span> <
 distinction is made between the sealed part of 
 the letter (<span dir="rtl">הֶחָתוּם</span>) (vv. 11, 14) and the open letter (<span dir="rtl">הַגָּלוּי</span> <span dir="rtl">סֵפֶר</span>, v. 14).
 
-In Late Biblical Hebrew <span dir="rtl">סֵפֶר</span> can mean  ‘decree’ (Est. 1:22; 3:13 etc.). 
+In Late Biblical Hebrew <span dir="rtl">סֵפֶר</span> can mean  ‘decree’ (Est 1:22; 3:13 etc.). 
 
 
-A special case is <span dir="rtl">סֵפֶר</span> in Num. 5:23: in the case of assumed adultery the priest should write 
+A special case is <span dir="rtl">סֵפֶר</span> in Num 5:23: in the case of assumed adultery the priest should write 
 curses on a <span dir="rtl">סֵפֶר</span> and blot them out with bitter water. In this case the word indicates a sheet or scroll of 
 papyrus. 
-However, in Dan. 1:4, 17 <span dir="rtl">סֵפֶר</span> designates a kind of writing (Chaldaean alphabet) and in Isa 
+However, in Dan 1:4, 17 <span dir="rtl">סֵפֶר</span> designates a kind of writing (Chaldaean alphabet) and in Isa 
 29:11-12  ‘writing’ in general.
 
 

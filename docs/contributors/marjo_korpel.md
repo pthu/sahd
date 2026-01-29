@@ -11,4 +11,4 @@ Marjo Korpel is Professor in Old Testament Studies at Protestantse Theologische 
 
 
 ### Contributions
-[<span dir="rtl">זֵק</span> <span dir="rtl">/</span> <span dir="rtl">זִיק</span> – fiery missile](../words/ziq.md)<br>[טַבַּעַת – ring](../words/tabba3at.md)<br>[לַפִּּיד – cresset, torch](../words/lappid.md)<br>
+[<span dir="rtl">זֵק</span> <span dir="rtl">/</span> <span dir="rtl">זִיק</span> – fiery missile](../words/ziq.md)<br>[חוֹתָם – seal, signet ring](../words/chotam.md)<br>[טַבַּעַת – ring](../words/tabba3at.md)<br>[לַפִּּיד – cresset, torch](../words/lappid.md)<br>

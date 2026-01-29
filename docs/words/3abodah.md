@@ -8,7 +8,7 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1OBDHn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># עֲבֹדָה <i>‘<small><sup>a</sup></small>bōdāh</i> – work, service, servitude
 
 Semantic Fields:
-[Servitude](../semantic_fields/servitude.md)&nbsp;&nbsp;&nbsp;[More?](../semantic_fields/MORE?.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Servitude](../semantic_fields/servitude.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Haposan Cornelius Sinaga](../contributors/haposan_cornelius_sinaga.md)<br>
 First published: 2026-01-06<br>Citation: Haposan Cornelius Sinaga, עֲבֹדָה <i>‘<small><sup>a</sup></small>bōdāh</i> – work, service, servitude, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
 (WORK IN PROGRESS)
@@ -52,7 +52,7 @@ The etymology of <span dir="rtl">אָמָה</span> is
 
 ## 4. Ancient Versions
 
-<b>Septuagint (LXX) and other Greek versions</b><sup id="fnref:11"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:11')">11</a></sup> 
+<b>Septuagint (LXX) and other Greek versions</b><sup id="fnref:1"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:1')">1</a></sup> 
 
 * ἀποσκευή, ‘baggage’ (1x): Exod 39:42;
 * δουλεία, ‘slavery, bondage’, ‘service’ (17x, but see also A.1): Gen 30:26; Exod 6:6; Lev 25:39; 1 Kgs 12:4; Isa 14:3; Ezek 29:18 (2x); Ps 104:14; Lam 1:3; Ezra 8:20; Neh 3:5; 5:18; 10:33, 38; 2 Chron 10:4; 12:8 (2x);
@@ -94,6 +94,9 @@ In 1 Chron 28:20 LXX<sup><small>Ant</small></sup> reads
 λειτουργίαν ἐργασίας instead of 
 ἐργασίαν λειτουργίας (LXX<sup><small>B</small></sup>) for
 <span dir="rtl">מְלֶאכֶת עֲבוֹדַת</span> (MT).<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup>
+
+[^1]: The translations of the Greek are based on <i>GELS</i>. For LXX<sup><small>Ant</small></sup>, see Fernández Marcos & Busto Saiz 1989; Fernández Marcos & Busto Saiz 1992. 
+
 
 [^2]: See Fernández Marcos & Busto Saiz 1996.
 
@@ -160,5 +163,4 @@ Natalio Fernández Marcos, José Ramón Busto Saiz,
 
 ## Notes
 
-[^11]: The translations of the Greek are based on <i>GELS</i>.  
-[^12]: The translations of the Syriac are based on Sokoloff, <i>SLB</i>.  
+<!--[^12]: The translations of the Syriac are based on Sokoloff, <i>SLB</i>.-->  

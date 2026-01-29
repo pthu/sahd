@@ -8,6 +8,7 @@ nav:
     - Home: index.md
     - Lemmas:
             - א:
+                - אדם - to be red: words/2-d-m.md
                 - אָדֹם - red: words/2adom.md
                 - אוּרִים וְתֻמִּים - Urim Thummim: words/2urim_wthummim.md
                 - אָזֵן - equipment: words/2azen.md
@@ -41,6 +42,7 @@ nav:
                 - זִיק - fiery missile: words/ziq.md
             - ח:
                 - חוּם - dark brown: words/chum.md
+                - חוֹתָם - seal: words/chotam.md
                 - חֹזֶה - (court) diviner: words/chozeh.md
                 - חֶסֶד - faithfulness: words/chesed.md
                 - חֶרֶט - burin: words/cheret.md
@@ -123,10 +125,10 @@ nav:
             - שׂ:
                 - שֶׂרֶד - scriber: words/cered.md
             - שׁ:
-                - שָׁנִי - bright red dye: words/shani_1.md
                 - שׁוֹעַ - great man: words/shoa3.md
                 - שׁוּעַ - cry for help: words/shua3.md
                 - שֶׁלֶג - snow: words/sheleg.md
+                - שָׁנִי - bright red dye: words/shani_1.md
                 - שִׁפְחָה - maidservant: words/shipchah.md
                 - שַׁרְבִיט - sceptre: words/sharbit.md
             - ת:
@@ -155,9 +157,6 @@ nav:
             - Light: semantic_fields/light.md
             - Metals: semantic_fields/metals.md
             - Morality: semantic_fields/morality.md
-            - More?: semantic_fields/MORE?.md
-            - Semantic Field 1: semantic_fields/semantic_field_1.md
-            - Semantic Field 2: semantic_fields/semantic_field_2.md
             - Servitude: semantic_fields/servitude.md
             - Supernatural Beings: semantic_fields/supernatural beings.md
             - Textile Production: semantic_fields/textile production.md
@@ -212,6 +211,7 @@ nav:
             - Alessandra Pecchioli: editorial_board/alessandra_pecchioli.md
             - Kurtis Peters: editorial_board/kurtis_peters.md
             - Paul Sanders: editorial_board/paul_sanders.md
+            - Willem Smelik: editorial_board/willem_smelik.md
             - Chiara Stornaiuolo: editorial_board/chiara_stornaiuolo.md
             - T. Jonathan Stökl: editorial_board/t._jonathan_stökl.md
             - Michaël N. van der Meer: editorial_board/michaël_n._van_der_meer.md
