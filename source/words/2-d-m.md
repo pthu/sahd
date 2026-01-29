@@ -2,7 +2,7 @@
 word_english: to be(come) red   
 word_hebrew: אדם   
 transcription: <i>ʾādam</i>   
-title: reddish, brownish
+title: 
 semantic_fields: colours   
 contributors: john_e._hartley  
 first_published: 2026-01-27     
