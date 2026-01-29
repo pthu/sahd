@@ -1,8 +1,7 @@
 # LEMMA INDEX
 # Hebrew word : English word : filename
-
-
-א
+
+אאדם : to be red : 2-d-m 
 אָדֹם : red : 2adom  
 אוּרִים וְתֻמִּים : Urim Thummim : 2urim_wthummim
 
@@ -49,7 +48,7 @@
 
 זזִיק : fiery missile : ziq  
 
-חחוּם : dark brown : chum
+חחוּם : dark brown : chumחוֹתָם : seal : chotam
 חֹזֶה : (court) diviner : chozehחֶסֶד : faithfulness : chesed
 חֶרֶט : burin : cheret
 חַשְׁמַן : amethyst(?) : chashman
@@ -138,12 +137,11 @@
 שׂ
 שֶׂרֶד : scriber : cered
 
-שׁ
-שָׁנִי : bright red dye : shani_1
+שׁ
 שׁוֹעַ : great man : shoa3
 שׁוּעַ : cry for help : shua3
 שֶׁלֶג : snow : sheleg
-שִׁפְחָה : maidservant : shipchah
+שָׁנִי : bright red dye : shani_1שִׁפְחָה : maidservant : shipchah
 
 
 

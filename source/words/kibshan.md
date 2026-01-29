@@ -3,7 +3,7 @@ word_english: kiln
 word_hebrew: כִּבְשָׁן  
 transcription: <i>kibšān</i>    
 title:    
-semantic_fields: utensils   
+semantic_fields: utensils, food preparation   
 contributors: jacques_t.a.g.m._van_ruiten   
 first_published: 2025-02-05   
 last_update: 2026-01-06 (Paul Sanders) 
@@ -13,8 +13,6 @@ shebanq_id:
 
 
 ---
-
-
 
 
 ## Introduction
@@ -64,7 +62,7 @@ Gen 19:28; Exod 9:8, 10; 19:18.
 <!--Omission in Sir?-->
 
 
-<b>c. Targum (Tg: O/N/PsJ/Frg/J/K):</b>:
+<b>c. Targum (Tg: O/N/PsJ/Frg/J/K):</b>
 
 * <span dir="rtl">אַתוּנָא</span>, ‘fire-place, stove’: Gen 19:28; Exod 9:8, 10; 19:18 (in Tg<small><sup>O</sup></small>, Tg<small><sup>PsJ</sup></small>, Tg<small><sup>N</sup></small>; Tg<small><sup>N</sup></small>);
 * <span dir="rtl">נסופה</span>, ‘high’: only in Gen 19:28 Tg<small><sup>SmrA</sup></small> (<span dir="rtl">כתננה נסופה</span>, ‘like the high smoke’).[^10]

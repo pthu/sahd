@@ -3,7 +3,7 @@ word_english: work, service
 word_hebrew: עֲבֹדָה  
 transcription: <i>‘<small><sup>a</sup></small>bōdāh</i>  
 title: work, service, servitude   
-semantic_fields: servitude, MORE?   
+semantic_fields: servitude   
 contributors: haposan_cornelius_sinaga 
 first_published: 2026-01-06  
 last_update:  
@@ -52,7 +52,7 @@ The etymology of <span dir="rtl">אָמָה</span> is
 
 ## 4. Ancient Versions
 
-<b>Septuagint (LXX) and other Greek versions</b>[^11] 
+<b>Septuagint (LXX) and other Greek versions</b>[^1] 
 
 * ἀποσκευή, ‘baggage’ (1x): Exod 39:42;
 * δουλεία, ‘slavery, bondage’, ‘service’ (17x, but see also A.1): Gen 30:26; Exod 6:6; Lev 25:39; 1 Kgs 12:4; Isa 14:3; Ezek 29:18 (2x); Ps 104:14; Lam 1:3; Ezra 8:20; Neh 3:5; 5:18; 10:33, 38; 2 Chron 10:4; 12:8 (2x);
@@ -94,6 +94,9 @@ In 1 Chron 28:20 LXX<sup><small>Ant</small></sup> reads
 λειτουργίαν ἐργασίας instead of 
 ἐργασίαν λειτουργίας (LXX<sup><small>B</small></sup>) for
 <span dir="rtl">מְלֶאכֶת עֲבוֹדַת</span> (MT).[^2]
+
+[^1]: The translations of the Greek are based on <i>GELS</i>. For LXX<sup><small>Ant</small></sup>, see Fernández Marcos & Busto Saiz 1989; Fernández Marcos & Busto Saiz 1992. 
+
 
 [^2]: See Fernández Marcos & Busto Saiz 1996.
 
@@ -160,5 +163,4 @@ Natalio Fernández Marcos, José Ramón Busto Saiz,
 
 ## Notes
 
-[^11]: The translations of the Greek are based on <i>GELS</i>.  
-[^12]: The translations of the Syriac are based on Sokoloff, <i>SLB</i>.  
+<!--[^12]: The translations of the Syriac are based on Sokoloff, <i>SLB</i>.-->  

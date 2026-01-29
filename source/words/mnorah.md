@@ -1,7 +1,7 @@
 ---
 word_english: lampstand
 word_hebrew: מְנוֹרָה  
-transcription: <i>m<small><sup>e</sup></small>nõrāh</i>    
+transcription: <i>m<small><sup>e</sup></small>nōrāh</i>    
 title: lampstand  
 semantic_fields: light, cult  
 contributors: cornelis_houtman   

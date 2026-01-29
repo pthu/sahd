@@ -4,7 +4,7 @@
 word_english: to_comfort  
 word_hebrew: נחם  
 transcription: <i>niḥam</i>  
-title: to comfort, to change one's action, feeling or mind   
+title: to comfort, to change one’s action, feeling or mind   
 semantic_fields:  
 contributors: benjamin_m._bogerd    
 first_published: 2025-04-02   

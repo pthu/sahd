@@ -3,7 +3,7 @@ word_english: cry_for_help
 word_hebrew: שׁוּעַ      
 transcription: <i>šū<small><sup>a</sup></small>ʿ</i>    
 title: cry for help(?)   
-semantic_fields:   
+semantic_fields: deliverance   
 contributors: james_k._aitken, graham_i._davies      
 first_published: 2016-09-30   
 last_update: 2024-06-30   

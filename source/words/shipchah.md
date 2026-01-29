@@ -57,7 +57,7 @@ The etymology of <span dir="rtl">שִׁפְחָה</span> is
 
 ## 4. Ancient Versions
 
-<b>Septuagint (LXX) and other Greek versions</b>[^11]
+<b>Septuagint (LXX) and other Greek versions</b>[^1]
 
 * γυνή, ‘female person’, ‘wife’ (1x): 2 Sam 14:17 (LXX<sup><small>Ant</small></sup>: δούλη); 
 * δούλη, ‘<i>female slave, bondswoman</i>’, or ‘<i>submissive and respectful woman</i>: in honorific, self-effacing discourse vis-à-vis a king, as a substitute for the first personal pronoun’ (16-18x): 1 Sam 1:18; 8:16; 25:27; 28:21, 22; 2 Sam 14:6, 7, 12, 15, 17 (only LXX<sup><small>Ant</small></sup>), 19; 2 Kgs 4:2, 16; 5:26 (only LXX<sup><small>Ant</small></sup>); Isa 14:2; Joel 3:2 (2:29); Ruth 2:13 (1st); 2 Chron 28:10;  
@@ -136,6 +136,6 @@ Natalio Fernández Marcos, José Ramón Busto Saiz,
 
 ## Notes
 
-[^11]: The translations of the Greek are based on <i>GELS</i>. For LXX<sup><small>Ant</small></sup>, see Fernández Marcos & Busto Saiz 1989; Fernández Marcos & Busto Saiz 1992. 
+[^1]: The translations of the Greek are based on <i>GELS</i>. For LXX<sup><small>Ant</small></sup>, see Fernández Marcos & Busto Saiz 1989; Fernández Marcos & Busto Saiz 1992. 
  
-[^12]: The translations of the Syriac are based on Sokoloff, <i>SLB</i>.  
+<!--[^12]: The translations of the Syriac are based on Sokoloff, <i>SLB</i>.-->  

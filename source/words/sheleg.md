@@ -1,6 +1,7 @@
 ---
 word_english: snow   
 word_hebrew: שֶׁלֶג    
+transcription: <i>šèleg</i>    
 title: 
 semantic_fields: weather  
 contributors: chiara_stornaiuolo  
