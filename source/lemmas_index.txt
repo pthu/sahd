@@ -114,7 +114,7 @@
 פְּדוּיִם : redemption price : pduyim
 פְּדוּת : redemption-action : pduth
 פִּדְיוֹן : ransom : pidyon
-פֶּלֶךְ : spindle : pelek
+פֶּלֶךְ : spindle : pelekפֶּרֶס : bird of prey : peres
 פרק : to pull off : p-r-q
 פָּרָק : piece of meat : paraq
 פֶּרֶק : plunder : pereq
@@ -147,7 +147,7 @@
 
 שַׁרְבִיט : sceptre : sharbit
 ת
-תְּבוּנָה : understanding : thbunah
+תְּבוּנָה : understanding : thbunahתּוֹעֵבָה : abomination : tho3ebah
 תְּכֵלֶת : bluish purple : thkeleth
 תִּפְלָה : senselessness : thiplah
 תְּשׁוּעָה : deliverance, state of : thshu3ah

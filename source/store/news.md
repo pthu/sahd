@@ -1,10 +1,7 @@
 # NEWS
 
-## Lorem ipsum
+## In memoriam: Takamitsu Muraoka (1938–2026)
 
-### Curabitur interdum
+On February 10, 2026, professor Takamitsu Muraoka, one of the presidents of the Semantics of Ancient Hebrew Database project passed away. An In Memoriam is found here
+[here](../IM_Muraoka.pdf){target=_blank}. 
 
-Vivamus tristique dolor at justo aliquam rutrum. Nullam et euismod ante, quis efficitur tortor. 
-Maecenas ornare quis nulla id mattis. In hac habitasse platea dictumst. 
-Aenean sit amet pellentesque nunc, non consequat ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Suspendisse non ipsum eu libero convallis tempor. Nam non sodales sem, a condimentum ex.

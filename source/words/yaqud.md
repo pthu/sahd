@@ -27,8 +27,7 @@ Occurrences:   1x HB (0/1/0)<!--; ??x Sir; ??x Qum; ??x Inscr.  (Total: ??)-->
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
-<b>A.1</b>  
-<span dir="rtl">יָקוּד</span>  is a <i>qātūl</i>-form (<i>GKC</i>, § 84<sup>a</sup>m; Joüon, § 88c) from the verb <span dir="rtl">יקד</span> Qal ‘to be kindled, burn’. This verb is rare in biblical Hebrew, but common in other Semitic languages.  
+<b>A.1</b>  <span dir="rtl">יָקוּד</span>  is a <i>qātūl</i>-form (<i>GKC</i>, § 84<sup>a</sup>m; Joüon, §88c) from the verb <span dir="rtl">יקד</span> Qal ‘to be kindled, burn’. This verb is rare in biblical Hebrew, but common in other Semitic languages.  
 
 <i>Akkadian</i>:
 <i>qādu</i>, originally <i>qiādu</i>  (metathesis of √<i>w/yqd</i>), ‘to set afire, kindle, burn’ (<i>CAD</i> (Q), 52). The plural noun <i>qidātu</i> designates ‘lit fires’ or the ‘lighting’ of brush piles (<i>CAD</i> (Q), 249-50).
@@ -42,7 +41,7 @@ Occurrences:   1x HB (0/1/0)<!--; ??x Sir; ??x Qum; ??x Inscr.  (Total: ??)-->
 
 
 <i>Old and Imperial Aramaic</i>:
-<i>yqd</i> ‘to burn’ (Hoftijzer & Jongeling, <i>DNSI</i>, 466; Porten & Lund, <i>ADE</i>,151). The root occurs twice in the Aramaic Targum of Job from Qumran: 11Q10 XVI.7 <span dir="rtl">יקדון</span> <span dir="rtl">גרמי</span> ‘my bones are on fire’;  XXXVI.6 <span dir="rtl">ומגמר</span> <span dir="rtl">יקד</span> <span dir="rtl">לכוש</span> ‘a kettle on the fire and glowing coals’ (among other words describing fiery phenomena). 
+<i>yqd</i> ‘to burn’ (Hoftijzer & Jongeling, <i>DNSI</i>, 466; Porten & Lund, <i>ADE</i>, 151). The root occurs twice in the Aramaic Targum of Job from Qumran: 11Q10 XVI.7 <span dir="rtl">יקדון</span> <span dir="rtl">גרמי</span> ‘my bones are on fire’;  XXXVI.6 <span dir="rtl">ומגמר</span> <span dir="rtl">יקד</span> <span dir="rtl">לכוש</span> ‘a kettle on the fire and glowing coals’ (among other words describing fiery phenomena). 
 
 
 <i>Postbiblical Hebrew</i>: In Qumran the verb <span dir="rtl">יקד</span>  occurs describing the fire of hell (1QM XIV.18; 4Q491, fr. 10, II.17) and the heat of God’s anger (4Q434, fr. 1, 5). 
@@ -121,8 +120,6 @@ heat’ (not: ‘hearth’!).
 
 
 
-<b>A.1</b>
-
 
  
 
@@ -153,22 +150,22 @@ heat’ (not: ‘hearth’!).
 
 Normally the <i>qātūl</i>-form serves as passive participle of the Qal (cf. 
 the adjectival use of the active participle in 
-Isa 65:5 <span dir="rtl">כָּל&thinsp;־הַיֹּום</span> <span dir="rtl">יֹקֶדֶת</span> <span dir="rtl">אֵשׁ</span> ‘a fire burning all day’). Here itseems to have developed into a verbal noun, cf. <i>BL</i>, 
-§ 61x<sup>α</sup>. CHECK GREEK
+Isa 65:5 <span dir="rtl">כָּל&thinsp;־הַיֹּום</span> <span dir="rtl">יֹקֶדֶת</span> <span dir="rtl">אֵשׁ</span> ‘a fire burning all day’). Here it seems to have developed into a verbal noun, cf. <i>BL</i>, 
+§61x<sup>α</sup>. 
 Although the word might denote the low-lying hearth of Palestinian houses by metonymy, the existence of a noun <span dir="rtl">מֹוקֵד</span> which according to many scholars denotes a ‘hearth’ (e.g. Dalman,
 <i>AuS</i>, Bd. 7, 196ff.: ‘Der in Palästina häufige Kochherd’), i.e. the place where a fire is burning continuously, argues in favour of ‘glowing fire’ for <span dir="rtl">יָקוּד</span> (the present writer suggests that also <span dir="rtl">מֹוקֵד</span> could mean ‘glow[ing fire]’ in Isa 33:14 and Ps 102:4).   With regard to the femininum <span dir="rtl">מֹוקְדָה</span> in Lev 6:2 it should be observed that on a big altar only part of the surface was reserved for the fire (or <i>lege</i> sg sf. <span dir="rtl">מֹוקְדָהּ</span> , <i>KBL</i>, 505<sup>b</sup>, cf. <i>HALAT</i>, 530<sup>b</sup>).
 
 
 
-In Isa 30:13-14 ‘this iniquity’ (<span dir="rtl">הַזֶּה</span> <span dir="rtl">הֶעָוֹן</span>) of the people -- they reject all true vision and 
-prophecy (vv. 9-11) -- is compared with a breach 
+In Isa 30:13, 14 ‘this iniquity’ (<span dir="rtl">הַזֶּה</span> <span dir="rtl">הֶעָוֹן</span>) of the people - they reject all true vision and 
+prophecy (vv. 9-11) - is compared with a breach 
 (<span dir="rtl">פֶּּרֶצּ</span>) which causes a high wall to fall down, so that its collapse comes all of a sudden; and 
 again this collapse  is compared 
 with the smashing/crushing of a 
 potter’s vessel (<span dir="rtl">יֹוצְרִים</span> <span dir="rtl">נֵבֶל</span> <span dir="rtl">כְּשֵׁבֶר</span>, v. 14), which is smashed so ruthlessly (<span dir="rtl">יַחְמֹל</span> <span dir="rtl">לֹא</span> <span dir="rtl">כָּתוּת</span>) that among its fragments (<span dir="rtl">מְכִתָֹּתֹו</span>) not a sherd (<span dir="rtl">חֶרֶשׂ</span>) is found which is big enough to snatch some burning coals (<span dir="rtl">אֵשׁ</span> <span dir="rtl">לַחְתֹֹּות</span>) from a  <span dir="rtl">יָקוּד</span> without burning the hand (cf. Levy, <i>WTM</i>, Bd. 2, 260), or to scoop water from a 
 puddle (<span dir="rtl">מִגֶּבֶא</span> <span dir="rtl">מַיִם</span> <span dir="rtl">לַחְשֹׂף</span>).
 
-It is also possible(reading <span dir="rtl">כְּחֹומָה</span> for <span dir="rtl">בְּחֹומָה</span>  in v. 13, and leaving out <span dir="rtl">וּשְׁבָרָהּ</span> in v. 14 [ditt.]) to take vv. 13-14 as three independent metaphors (<span dir="rtl">פֶּּרֶצּ</span>, <span dir="rtl">חֹומָה</span>  and <span dir="rtl">שֶׁבֶר</span>) instead of one long simile (Wildberger 1978, 1174-5, 1178), but this does not affect the interpretation of <span dir="rtl">יָקוּד</span>. 
+It is also possible (reading <span dir="rtl">כְּחֹומָה</span> for <span dir="rtl">בְּחֹומָה</span>  in v. 13, and leaving out <span dir="rtl">וּשְׁבָרָהּ</span> in v. 14 [ditt.]) to take vv. 13-14 as three independent metaphors (<span dir="rtl">פֶּּרֶצּ</span>, <span dir="rtl">חֹומָה</span>  and <span dir="rtl">שֶׁבֶר</span>) instead of one long simile (Wildberger 1978, 1174-5, 1178), but this does not affect the interpretation of <span dir="rtl">יָקוּד</span>. 
 
 
 
@@ -176,7 +173,7 @@ It is also possible(reading <span dir="rtl">כְּחֹומָה</span> for <span 
 There is no indication of the size, the kind of 
 material or the kind of fuel for the fire, but 
 the parallel with scooping water from a puddle
-might suggest that the  <span dir="rtl">יָקוּד</span> is low-lying too.According to several scholars Isa 30:14 alludes 
+might suggest that the  <span dir="rtl">יָקוּד</span> is low-lying too. According to several scholars Isa 30:14 alludes 
 to the custom of using a fairly big potsherd to take a few 
 coals from a charcoal  fire to a neighbour. According to 
 Dalman it served ‘doch wohl um für das Kochen 
@@ -216,7 +213,7 @@ No suggestions, because the word does not refer to a utensil, see Section 7 belo
 
 <b>A.1</b> The Lucianic recension of LXX and Tg<sup>J</sup> understand <span dir="rtl">יָקוּד</span> as the place where fire is burning, so it might be a hearth or a brazier then. The majority of modern translations and commentaries and some of the modern dictionaries of Biblical Hebrewalso point in that direction (see below). Probably the rendering ‘hearth’ arose as a solution for the enigmatic ‘to take fire from the fire’. Isaiah could circumvent this difficulty by using, in continuation of <span dir="rtl">אֵשׁ</span>, the rather uncommon <span dir="rtl">יָקוּד</span> (cf. Pesh <i>nwr’</i>, followed by <i>yqdn’</i>).
 
- However, <i>Pesh</i>, Vg and the cognates argue in favour of the fire itself. This also fits the context of Isa 30:14 -- and that of the similar noun in Isa 10:16 -- even better.
+ However, <i>Pesh</i>, Vg and the cognates argue in favour of the fire itself. This also fits the context of Isa 30:14 - and that of the similar noun in Isa 10:16 - even better.
 Therefore I think that the proper meaning of 
 <span dir="rtl">יָקוּד</span> lies more in the direction of ‘glowing fire’ than of ‘hearth’, ‘brazier’ or ‘oven’. For the place where it is burning <span dir="rtl">מֹוקֵד</span> seems a more likely candidate, although in my opinion this too could designate  ‘glow(ing fire)’.  
 
@@ -224,10 +221,15 @@ Therefore I think that the proper meaning of
 
 ## Bibliography
 
-Procksch 1930: O. Procksch, <i>Jesaja I</i> (KAT, 9/1), Leipzig 1930, 392: ‘um aus einem Brande (<i>miyyaqud</i>) etwas Feuer zu holen’. 
+<div style="padding-left: 22px; text-indent: -22px;">
+Procksch 1930 <br>
+O. Procksch, <i>Jesaja I</i> (KAT, 9/1), Leipzig 1930, 392: ‘um aus einem Brande (<i>miyyaqud</i>) etwas Feuer zu holen’. 
+</div>
 
-Wildberger 1978: H. Wildberger, <i>Jesaja</i> (BK, Bd. 10/13-15), Neukirchen.
-
+<div style="padding-left: 22px; text-indent: -22px;">
+Wildberger 1978 <br>
+H. Wildberger, <i>Jesaja</i> (BK, Bd. 10/13-15), Neukirchen.
+</div>
 
 
 
