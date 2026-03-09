@@ -25,7 +25,6 @@ Occurrences:   6x HB (3/2/1)<!--; ??x Sir; ??x Qum; ??x Inscr.  (Total: ??)-->
 * Nebiim: 1 Kgs 7:49; Isa 6:6;
 * Ketubim: 2 Chron 4:21.
 
-<b>A.1</b> 
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
@@ -34,12 +33,12 @@ The √<i>lqḥ</i> is general Semitic and has the basic meaning ‘to grasp, ta
 
 
 
-<i>Akkadian</i>: The word occurs in the Akkadian of Ugarit (Tawil, <i>ALCBH</i>, 215-6. See below.
+<i>Akkadian</i>: The word occurs in the Akkadian of Ugarit (Tawil, <i>ALCBH</i>, 215-6). See below.
 
 
 
 
-<i>Ugaritic</i>: It has been suggested that Ugaritic <i>mqḥm</i> (a dual) means ‘forceps’ or ‘pincers’ (for a survey of opinions see Watson 2002, 923). This is apparently the same word as the Hebrew <span dir="rtl">מֶלְקַחַיִם</span>, be it that the <i>l</i> was assimilated, as is often the case with forms of √<i>lqḥ</i>. In KTU 4.123:21 <i>mqḥm</i> occurs between various containers in the phrase <i>w . qpt . w . mqḥm</i> which might be interpreted as ‘and a box with a forceps’ (→ <span dir="rtl">מֹאזְנַיִם</span>). KTU 4.127:4 <i>mqḥ mqḥm</i> ‘an excellent forceps’ occurs in broken context. KTU 4. 385:3 <i>spl . mšlt . wmqḥm</i> might be rendered ‘a bowl, a flint-knife and a forceps’ -- it has been suggested that we are dealing with a physician’s equipment here (Stieglitz 1981).
+<i>Ugaritic</i>: It has been suggested that Ugaritic <i>mqḥm</i> (a dual) means ‘forceps’ or ‘pincers’ (for a survey of opinions see Watson 2002, 923). This is apparently the same word as the Hebrew <span dir="rtl">מֶלְקַחַיִם</span>, be it that the <i>l</i> was assimilated, as is often the case with forms of √<i>lqḥ</i>. In KTU 4.123:21 <i>mqḥm</i> occurs between various containers in the phrase <i>w . qpt . w . mqḥm</i> which might be interpreted as ‘and a box with a forceps’ (→ <span dir="rtl">מֹאזְנַיִם</span>). KTU 4.127:4 <i>mqḥ mqḥm</i> ‘an excellent forceps’ occurs in broken context. KTU 4. 385:3 <i>spl . mšlt . wmqḥm</i> might be rendered ‘a bowl, a flint-knife and a forceps’ - it has been suggested that we are dealing with a physician’s equipment here (Stieglitz 1981).
 
 This term is also attested in syllabic Ugaritic transcription. In a list of bronze tools <i>PRU</i> VI, No. 157:13-14 mentions 1 <i>ma-qa-ḫa išāti</i> | 1 <i>ma-qa-ḫa me-e</i> ‘1 forceps for fire’ | ‘1 forceps for intestines’ (cf. Hebr. <span dir="rtl">מֵּעִים</span>). Especially the former tallies with the Hebrew use of the tool in Isa 6:6. Also attested in the Akkadian of Ugarit are two <i>ša la-qí išāti siparri</i> ‘bronze forceps to pick up fire’ (<i>PRU</i> III, 186:38), mentioned just after seven torches. 
 
@@ -66,10 +65,10 @@ This term is also attested in syllabic Ugaritic transcription. In a list of bron
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
-* Exod 25:38(37) ἐπαρυστήρ sing. according to*LSJ</i>, 611: ‘vessel for pouring oil into 
+* Exod 25:38(37) ἐπαρυστήρ sg. according to <i>LSJ</i>, 611: ‘vessel for pouring oil into 
 a lamp’; similarly <i>GELS-L</i>, 165: ‘vessel for pouring oil (into 
-a lamp), funnel’. 1 Kgs 7:49 (LXX 7:35) ἐπαρυστρίς plur., a neologism with the same meaning.  This rendering is also used for → <span dir="rtl">מַחְתָֹּה</span><br>in Exod 37:23 [LXX 38:17]; Num 4:9, 
-and for → <span dir="rtl">מוּצָקָה</span>  in Zech 4:2. In Exod 37:23 (LXX 38:17); Num 4:9; Isa 6:6; 2 Chron 4:21the LXX opts for λαβίς (sing. in Isa 6:6; elsewhere plur.), according to <i>LSJ</i>, 1021: ‘handle’, ‘holder’, ‘forceps’, ‘clamps’, ‘tongs, snuffers to trim lamps’. The latter renderings are also given by <i>GELS-L</i>, 275.
+a lamp), funnel’. 1 Kgs 7:49 (LXX 7:35) ἐπαρυστρίς pl., a neologism with the same meaning.  This rendering is also used for → <span dir="rtl">מַחְתָֹּה</span> in Exod 37:23 (LXX 38:17); Num 4:9, 
+and for → <span dir="rtl">מוּצָקָה</span>  in Zech 4:2. In Exod 37:23 (LXX 38:17); Num 4:9; Isa 6:6; 2 Chron 4:21 the LXX opts for <i>λαβίς</i> (sg. in Isa 6:6; elsewhere pl.), according to <i>LSJ</i>, 1021: ‘handle’, ‘holder’, ‘forceps’, ‘clamps’, ‘tongs, snuffers to trim lamps’. The latter renderings are also given by <i>GELS-L</i>, 275.
 
 
 <b>b.  Peshitta (Pesh):</b>  
@@ -80,21 +79,21 @@ and for → <span dir="rtl">מוּצָקָה</span>  in Zech 4:2. In Exod 37:23 
 
 <b>c. Targum (Tg):</b>  
 
-* Tg<sup>O</sup> on Exod 25:38; 37:23; Num 4:9 <span dir="rtl">ציבתא</span> plur. (Levy, <i>CWT</i>, Bd. 2, 314: ‘Zange, Lichtschneuze’; Jastrow, <i>DTT</i>, 1260: ‘tongs’). 
+* Tg<sup>O</sup> on Exod 25:38; 37:23; Num 4:9 <span dir="rtl">ציבתא</span> pl. (Levy, <i>CWT</i>, Bd. 2, 314: ‘Zange, Lichtschneuze’; Jastrow, <i>DTT</i>, 1260: ‘tongs’). 
 Tg<sup>N</sup>, Tg<sup>PsJ</sup>, Fragment 
-Targum MS Vatican Ebr. 440 (on Num 4:9) <span dir="rtl">מלקחא</span>  plur. (Levy, <i>CWT</i>, Bd. 2, 43: ‘Zangen’, ‘Lichtschneuzen’; 
+Targum MS Vatican Ebr. 440 (on Num 4:9) <span dir="rtl">מלקחא</span>  pl. (Levy, <i>CWT</i>, Bd. 2, 43: ‘Zangen’, ‘Lichtschneuzen’; 
 Jastrow, <i>DTT</i>, 793: ‘snuffers’; Sokoloff, <i>DJPA</i>, 311: ‘tong, 
-snuffer’).  Tg 1 Kgs 7:49; 2 Chron 4:21 <span dir="rtl">ציבתא</span> plur. like Tg<sup>O</sup>. In Isa 6:6 Tg offers a free paraphrasis.
+snuffer’).  Tg 1 Kgs 7:49; 2 Chron 4:21 <span dir="rtl">ציבתא</span> pl. like Tg<sup>O</sup>. In Isa 6:6 Tg offers a free paraphrasis.
 
 
 
 <b>d.  Vulgate (Vg):</b>  
 
 * 
-Exod 25:38; 37:23 <i>emunctorium</i> plur., 
-‘snuffers’ (in Num 4:9  → <span dir="rtl">מַחְתָֹּה</span> plur. is translated with <i>emunctoria</i>). Num 4:9; 1 Kgs 
-7:49; Isa 6:6; 2 Chron 4:21 <i>forceps</i> (sing. in 
-Isa 6:6; elsewhere plur.), ‘(pair of) tongs, pincers, forceps’ (<i>LD</i>, 767).
+Exod 25:38; 37:23 <i>emunctorium</i> pl., 
+‘snuffers’ (in Num 4:9  → <span dir="rtl">מַחְתָֹּה</span> pl. is translated with <i>emunctoria</i>). Num 4:9; 1 Kgs 
+7:49; Isa 6:6; 2 Chron 4:21 <i>forceps</i> (sg. in 
+Isa 6:6; elsewhere pl.), ‘(pair of) tongs, pincers, forceps’ (<i>LD</i>, 767).
 
 
 <b>A.1</b> 
@@ -126,11 +125,11 @@ SP<sup>T</sup>:
 
 
 <b>A.1</b> With the exception of Isa 6:6, <span dir="rtl">מֶלְקַחַיִם</span>  (transliterated by St. Jerome as <i>malcaim</i>; see  Sperber 1937-8, 191, 237), a dualis describing an object
-consisting of two parts (cf. König 1897, § 257a), and a derivative of √<span dir="rtl">לקח</span>, is used to denote some utensils specifically intended for 
+consisting of two parts (cf. König 1897, §257a), and a derivative of √<span dir="rtl">לקח</span>, is used to denote some utensils specifically intended for 
 servicing the lamps (→ <span dir="rtl">נֵר</span>) of the sanctuary lampstand (→ <span dir="rtl">מְנֹרָה</span>), of the Tabernacle (Exod 25:38; 37:23; Num 4:9), as well as of the Temple 
 of Solomon (1 Kgs 7:49 = 2 Chron 4:21). They are 
 made of respectively ‘pure gold’ (<span dir="rtl">טָהֹור</span> <span dir="rtl">זָהָב</span>, Exod 25:38; 37:23) and ‘gold’ (1 Kgs 7:49 = 2 Chron 4:21). In Exod 25:38; 37:23 they are 
-mentioned together with ‘firepans’ (→ <span dir="rtl">מַחְתָֹּה</span> plur.), in Num 4:9 moreover with such things as containers and 
+mentioned together with ‘firepans’ (→ <span dir="rtl">מַחְתָֹּה</span> pl.), in Num 4:9 moreover with such things as containers and 
 funnels for the lampstand’s oil  (<span dir="rtl">שַׁמְנָהּ</span> <span dir="rtl">כָּל&thinsp;־כְּלֵי</span>, cf. also Exod 30:27; 31:8; 35:14; 39:37).
 
 
@@ -140,7 +139,7 @@ for a tool used for servicing
 the wicks of the lamps, such as adjusting the wicks, 
 holding them while trimming (→ <span dir="rtl">מְזַמֶּרֶת</span>), removing old wicks and putting in new ones. In translations, on the 
 assumption that there was more than one pair of 
-tongs, one finds the rendering ‘snuffers’ for  <span dir="rtl">מֶלְקַחַיִם</span> too. However, because in 1 Kgs 7:49f. = 2 Chron 4:21f.  <span dir="rtl">מֶלְקַחַיִם</span> and <span dir="rtl">מְזַמְּרֹות</span> are mentioned side by side it  is likely that the terms refer to two different utensils.Another proposal is that lids for 
+tongs, one finds the rendering ‘snuffers’ for  <span dir="rtl">מֶלְקַחַיִם</span> too. However, because in 1 Kgs 7:49f. = 2 Chron 4:21f.  <span dir="rtl">מֶלְקַחַיִם</span> and <span dir="rtl">מְזַמְּרֹות</span> are mentioned side by side it  is likely that the terms refer to two different utensils. Another proposal is that lids for 
 covering the lamps are meant so that no dirt 
 would fall into the oil (Nachmanides; see Chavel 1973, 460-1). Finally it has been suggested that the  <span dir="rtl">מֶלְקַחַיִם</span> refer to pliers to remove the hot lamps from the stand (cf. Holzinger 1900, 126). 
 
@@ -154,8 +153,7 @@ The rabbinic testimony is based on the biblical testimony and has no independent
 
 ### 6.2 Pictorial Material
 
-<b>A.1</b> In Tell el-Amarna, Egypt, forceps designed like human hands have been found that may have been used to pull up lampwicks (<i>ISBE</i>, vol. 4, 558).
-
+<b>A.1</b> [Will be added later.]
  
 
 </small>
@@ -166,7 +164,9 @@ The rabbinic testimony is based on the biblical testimony and has no independent
 
 ### 6.3 Archaeology
 
-<b>A.1</b> [Will be added later.]
+
+<b>A.1</b> In Tell el-Amarna, Egypt, forceps designed like human hands have been found that may have been used to pull up lampwicks (<i>ISBE</i>, vol. 4, 558).
+
 
 ## 7. Conclusion
 
@@ -177,20 +177,38 @@ holding them while trimming (→ <span dir="rtl">מְזַמֶּרֶת</span>), r
 
 ## Bibliography
 
-Chavel 1973: <i>Ramban (Nachmanides) Commentary on the Torah: Exodus</i>, translated and annotated by C.B. Chavel, New York 
-1973
+<div style="padding-left: 22px; text-indent: -22px;">
+Chavel 1973 <br>
+<i>Ramban (Nachmanides) Commentary on the Torah: Exodus</i>, translated and annotated by C.B. Chavel, New York. 
+</div>
 
-Holzinger 1900: H. Holzinger, <i>Exodus</i> (KHC), Tübingen 1900
+<div style="padding-left: 22px; text-indent: -22px;">
+Holzinger 1900 <br>
+H. Holzinger, <i>Exodus</i> (KHC), Tübingen.
+</div>
 
-König 1897: E. König, 
-*Historisch-comparative Syntax der hebräischen 
-Sprache</i>, Leipzig 1897
+<div style="padding-left: 22px; text-indent: -22px;">
+König 1897 <br>
+E. König, 
+<i>Historisch-comparative Syntax der hebräischen 
+Sprache</i>, Leipzig.
+</div>
 
-Sperber 1937-8: A. Sperber, ‘Hebrew Based upon Greek and Latin Transliterations’, <i>HUCA</i> 12-13 (1937-8), 103-274
-Stieglitz 1981: R.R. Stieglitz, ‘A Physician‘s Equipment List from  Ugarit’, <i>JCS</i> (33) 1981, 52-5
+<div style="padding-left: 22px; text-indent: -22px;">
+Sperber 1937-8 <br>
+A. Sperber, ‘Hebrew Based upon Greek and Latin Transliterations’, <i>HUCA</i> 12-13:103-274.
+</div>
 
-Watson 2002: W.G.E. Watson, ‘Tools of the Trade (KTU 4.127 and 4.385)’, <i>UF</i> 34 (2002), 921-30.
 
+<div style="padding-left: 22px; text-indent: -22px;">
+Stieglitz 1981 <br>
+R.R. Stieglitz, ‘A Physician‘s Equipment List from  Ugarit’, <i>JCS</i> 33:52-55.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Watson 2002 <br>
+W.G.E. Watson, ‘Tools of the Trade (KTU 4.127 and 4.385)’, <i>UF</i> 34:921-30.
+</div>
 
 <!--*AncBD</i>, vol. 6, 75: ‘an instrument to pull up the lampwicks’ --
 Dalman, <i>AuS</i>, Bd. 4, 270; Bd. 7, 232

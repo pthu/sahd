@@ -32,25 +32,19 @@ Gezer Calendar line 3: <span dir="rtl">פשת</span> (possibly defective spellin
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
 <b>A.1</b>  <i>Semitic</i>: 
-~p{\st*t} / <i>pšt(h)</i> is apparently a North-West Semitic word which could not be realised in Aramaic because the <i>{\st</i>} would have developed into a <i>t</i>, making it a homograph of <span dir="rtl">פִּּתָֹּה</span> ‘piece of bread’. 
+<i>pṯt</i>/<i>pšt(h)</i> is apparently a North-West Semitic word which could not be realised in Aramaic because the <i>ṯ</i> would have developped into a <i>t</i>, making it a homograph of <span dir="rtl">פִּּתָֹּה</span>, ‘piece of bread’. 
 
 
 
-<i>Ugaritic</i>: </i>p{\st*t}, plur. <i>p{\st</i>tm} ‘linen, linen fabric’ (Del Olmo Lete & Sanmartín, <i>DULAT</i>, 688, with earlier literature).
+<b>A.2</b> <i>Ugaritic</i>: </i>pṯt</i>, pl. <i>pṯtm</i>, ‘linen, linen fabric’ (Del Olmo Lete & Sanmartín, <i>DULAT</i>, 688, with earlier literature).
 
 
-
-<i>Phoenician, Punic</i>:
-<i>pšt</i> ‘flax, linen’ (Hoftijzer & Jongeling, <i>DNSI</i>, 947;
+<b>A.3</b> <i>Phoenician, Punic</i>:
+<i>pšt</i>, ‘flax, linen’ (Hoftijzer & Jongeling, <i>DNSI</i>, 947;
 Krahmalkov, <i>PPD</i>, 408).
 
 
-
-
-
-
-
-<i>Postbiblical Hebrew</i>: <span dir="rtl">פִּּשְׁתָן</span>, plur. <span dir="rtl">פִּּשְׁתִֹּים</span> -- ‘Lein, Flachs’ (Levy, <i>WTM</i>, Bd. 4, 153).
+<b>A.4</b> <i>Postbiblical Hebrew</i>: <span dir="rtl">פִּּשְׁתָן</span>, pl. <span dir="rtl">פִּּשְׁתִֹּים</span>, ‘Lein, Flachs’ (Levy, <i>WTM</i>, Bd. 4, 153).
 
 
 
@@ -69,7 +63,7 @@ Krahmalkov, <i>PPD</i>, 408).
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
-* Isa 42:3; 43:17 λίνον -- <i>GELS-L</i>, 282: ‘flax, linen-cloth, lamp-wick’.
+* Isa 42:3; 43:17 λίνον - <i>GELS-L</i>, 282: ‘flax, linen-cloth, lamp-wick’.
 
 
 <b>b.  Peshitta (Pesh):</b>  
@@ -90,7 +84,6 @@ Isa 42:3; 43:17 <i>šrgʾ</i> ‘lamp’, → <span dir="rtl">נֵר</span>.
 <i>linum</i>.
 
 
-<b>A.1</b>
 
 
 
@@ -114,7 +107,7 @@ Isa 42:3; 43:17 <i>šrgʾ</i> ‘lamp’, → <span dir="rtl">נֵר</span>.
 <span dir="rtl">פִּּשְׁתָֹּה</span> is a by-form of <span dir="rtl">פֵּּשֶׁת</span></i>, ‘flax, fibre’ (cf. König, <i>Syntax</i>, §255a, g; GK, 
 §122r, t). The latter occurs only in Hos 2:7, 11 in the singular; in the rest of its occurrences always a masculine plural of composition  <span dir="rtl">פִּּשְׁתִֹּים</span> is used (cf. <i>GBHrev</i>, §136b). Flax was a highly valued crop that yielded fibre for the manufacture of linen. The fibre is obtained by soaking the stalks to the point of putrefaction (retting) and drying them again for around two years. Before the whitish fibres within the stalks can be removed, the flax has to be combed to straighten it  (Wilkinson 1998, 61f.). It is possible that the <span dir="rtl">רָצוּצּ</span> <span dir="rtl">קָנֶה</span>  ‘crushed stalk’ of Isa 42:3 designates flax at the next production stage,
 
-The second stage in the process of preparing the flax stems for spinning is the beating or bruising of the plants to separate the fibres from the wooden parts of the stem. (G. Vogelsang-Eastwood, in: <i>AEMT</i>, 271; cf. Dalman, <i>AuS</i>, Bd. 5, 27.)
+The second stage in the process of preparing the flax stems for spinning is the beating or bruising of the plants to separate the fibres from the wooden parts of the stem (G. Vogelsang-Eastwood, in: <i>AEMT</i>, 271; cf. Dalman, <i>AuS</i>, Bd. 5, 27).
 
 
 
@@ -129,7 +122,7 @@ Forbes, <i>SAT</i>, vol. 4, 28; H.-P. Müller, <i>UF</i> 2
 
 As appears from the figurative 
 language of Isa 42:3; 43:17, the word can also
-denote the wick of a lamp (→ <span dir="rtl">נֵר</span>), made out of twined flax fibres (see section 8 below). Placed in the spout(s) of the 
+denote the wick of a lamp (→ <span dir="rtl">נֵר</span>), made out of twined flax fibres (see section 6.3 below). Placed in the spout(s) of the 
 lamp, it sucks up the oil from the reservoir of the lamp by capillary extraction.
 
 
@@ -140,7 +133,7 @@ denotes the burning lamp itself (metonymia,
 synecdoche). As a metaphor, it is used in a 
 similar way as the lamp itself (→ <span dir="rtl">נֵר</span>, and → <span dir="rtl">נִיר</span>). In Isa 43:17 the misfortune, the total destruction of the ennemies is described as the 
 extinguishing (<span dir="rtl">דעך</span>  qal), snuffing out (<span dir="rtl">כבה</span>  qal) of the wick. The smouldering, the dimly burning 
-(<span dir="rtl">כֵּהָה</span>, derivative of <span dir="rtl">כהה</span> I) wick denotes the lamp which does not burn brightly, because its oil 
+(<span dir="rtl">כֵּהָה</span>, derivative of <span dir="rtl">כהה</span>) wick denotes the lamp which does not burn brightly, because its oil 
 is running out. As such it is a symbol of the 
 weak, the people without hope (cf. Tg<sup>J</sup>). Of this wick it is 
 said, however, that it will not be snuffed out 
@@ -156,7 +149,7 @@ discussion in Elliger 1978, 210-4; Koole 1997, 220-2).
 
 ### 6.2 Pictorial Material
 
-<b>A.1</b> 
+<b>A.1</b> [Will be added later.]
  
 </small>
 
@@ -183,20 +176,33 @@ Servant of YHWH. In Isa 43:17 the defeated Babylonian armies are compared to a q
 
 ## Bibliography
 
+<div style="padding-left: 22px; text-indent: -22px;">
+Elliger 1978 <br>
+K. Elliger, <i>Deuterojesaja</i>
+(BK 11/1), 
+Neukirchen-Vluyn, 210-4.
+</div>
 
-Elliger 1978: K. Elliger, <i>Deuterojesaja</i>
-(BK, 11/1), 
-Neukirchen-Vluyn 1978, 210-4
+<div style="padding-left: 22px; text-indent: -22px;">
+Houtman 1993 <br>
+Houtman, <i>Exodus</i>, vol. 1 (HCOT), Kampen, 159.
+</div>
 
-Houtman, <i>Exodus</i>, vol. 1 (HCOT), Kampen 1993, 159
+<div style="padding-left: 22px; text-indent: -22px;">
+Koole 1997 <br>
+J.L. Koole, 
+<i>Isaiah III</i>, Vol. 1 (HCOT), Kampen, 220-2. 
+</div>
 
-Koole 1997: J.L. Koole, 
-<i>Isaiah III</i>, Vol. 1 (HCOT), Kampen 1997, 220-2 --
+<div style="padding-left: 22px; text-indent: -22px;">
+Wilkinson 1998 <br>
+A. Wilkinson, <i>The Garden in Ancient Egypt</i>, London, 61f.
+</div>
 
-Wilkinson 1998: A. Wilkinson, <i>The Garden in Ancient Egypt</i>, London 1998, 61f.
- 
-Zohary 1982: M. Zohary, <i>Plants of the Bible</i>, Cambridge 1982, 78.
-
+<div style="padding-left: 22px; text-indent: -22px;"> 
+Zohary 1982 <br>
+M. Zohary, <i>Plants of the Bible</i>, Cambridge, 78.
+</div>
 
 
 

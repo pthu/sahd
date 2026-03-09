@@ -34,7 +34,7 @@ There is some uncertainty about the number of occurrences since some scholars em
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
 <b>A.1</b>  <i>Semitic</i>: 
-Usually <span dir="rtl">בַּד</span> is derived from √<i>bdd</i>, ‘to separate, put apart’ (e.g. <i>HAHAT</i>, 124; Cohen <i>et al.</i>, <i>DRS</i>, 43-45; <i>NIDOT</i>, vol. 1, 500-501), but for the carrying-pole a derivation from <span dir="rtl">יד</span> + <span dir="rtl">ב</span> ‘in the hand’ would seem more likely (see below on Ugaritic and Phoenician as well as some ancient renderings under section 5).
+Usually <span dir="rtl">בַּד</span> is derived from √<i>bdd</i>, ‘to separate, put apart’ (e.g. <i>HAHAT</i>, 124; Cohen et al., <i>DRS</i>, 43-45; <i>NIDOTTE</i>, vol. 1, 500-501), but for the carrying-pole a derivation from <span dir="rtl">יד</span> + <span dir="rtl">ב</span> ‘in the hand’ would seem more likely (see below on Ugaritic and Phoenician as well as some ancient renderings under section 4).
 
 
 <i>Ugaritic</i>: The Ugaritic cognate <i>bd</i> is evidently a shortened form of <i>byd</i>, ‘in the hand’ (Del Olmo Lete & Sanmartín, <i>DULAT</i>, 214-6). 
@@ -57,7 +57,7 @@ Usually <span dir="rtl">בַּד</span> is derived from √<i>bdd</i>, ‘to sep
 
 
 
-<i>Palestinian Arabic</i>: <i>badd</i> ‘beam of an olive-press’ (Dozy, <i>SDA</i>, t. 1, 56; Denizeau, <i>DPASyr</i>, 20-1), but according to Dalman, <i>AuS</i>, Bd. 4, 220 Palestinian Arabic <i>badd</i> would be a designation of the ‘Olivenmühle’ (<i>pars pro toto?</i>) whereas rabbinic sources seem to use <span dir="rtl">בַּד</span> for the receptacle of the oil (Levy, <i>WTM</i>, Bd. 1, 191; Jastrow, <i>DTT</i>, 138). For illustrations and descriptions of this type of lever press, see Dalman, <i>AuS</i>, Bd. 4, 212-6, Fig. 50-62; <i>BRL</i><sup>2</sup>, 239; Frankel, <i>WOP</i>, 86-121; Bolen, <i>PLBL</i>, disk 1, 1 Galilee and the North: Cultural Pictures: tb041103.jpg; 2 Samaria and the Center, Cultural Pictures: 69-14tb.jpg.
+<i>Palestinian Arabic</i>: <i>badd</i> ‘beam of an olive-press’ (Dozy, <i>SDA</i>, t. 1, 56; Denizeau, <i>DPASyr</i>, 20-21), but according to Dalman, <i>AuS</i>, Bd. 4, 220 Palestinian Arabic <i>badd</i> would be a designation of the ‘Olivenmühle’ (<i>pars pro toto?</i>) whereas rabbinic sources seem to use <span dir="rtl">בַּד</span> for the receptacle of the oil (Levy, <i>WTM</i>, Bd. 1, 191; Jastrow, <i>DTT</i>, 138). For illustrations and descriptions of this type of lever press, see Dalman, <i>AuS</i>, Bd. 4, 212-6, Fig. 50-62; <i>BRL</i><sup>2</sup>, 239; Frankel, <i>WOP</i>, 86-121; Bolen, <i>PLBL</i>, disk 1, 1 Galilee and the North: Cultural Pictures: tb041103.jpg; 2 Samaria and the Center, Cultural Pictures: 69-14tb.jpg.
 
 
 
@@ -76,7 +76,7 @@ Usually <span dir="rtl">בַּד</span> is derived from √<i>bdd</i>, ‘to sep
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
-* Mostly the LXX renders  ἀναφορευς -- LS, 124: ‘bearer, carrying-pole, stave’ (<i>GELS L</i>,  33f.). In Exod 27:6-7 some manuscripts have φορέυς, ‘carrying pole’ (<i>GELS L</i>, 506). στῦλος, ‘pillar’ (<i>GELS L</i>, 443), is the LXX’s choice in Exod 27:15; 35:12; 37:4, 15, possibly a harmonisation with Exod 26:15. Once we find σκυτάλη (Exod 30:4, 5;  <i>GELS L</i>, 431,  ‘pole’) which α´,  σ´ and θ´ harmonise with  ἀναφορευς. In Exod 37:5, 14-15 (LXX 38:4, 10-11) LXX ha διωστήρ, ‘pole running through ring, stave’ (<i>GELS-L</i>, 118). Hos 11:6 <span dir="rtl">בדיו</span> is rendered ἐν ταῖς χερσὶν αὐτοῦ, ‘in his hands’, possibly etymologizing.  σ´ τοὺς βραχίονας αὐτοῦ, ‘his arms’, is based on the LXX. LXX interprets the difficult <span dir="rtl">בדי</span> in Job 17:16 is as μετ΄ ἐμοῦ, ‘with me’.
+* Mostly the LXX renders  <i>ἀναφορευς</i> - LS, 124: ‘bearer, carrying-pole, stave’ (<i>GELS L</i>,  33f.). In Exod 27:6, 7 some manuscripts have <i>φορέυς</i>, ‘carrying pole’ (<i>GELS L</i>, 506). <i>στῦλος</i>, ‘pillar’ (<i>GELS L</i>, 443), is the LXX’s choice in Exod 27:15; 35:12; 37:4, 15, possibly a harmonisation with Exod 26:15. Once we find <i>σκυτάλη</i> (Exod 30:4, 5;  <i>GELS L</i>, 431,  ‘pole’) which α´,  σ´ and θ´ harmonise with <i>ἀναφορευς</i>. In Exod 37:5, 14, 15 (LXX 38:4, 10-11) LXX has <i>διωστήρ</i>, ‘pole running through ring, stave’ (<i>GELS-L</i>, 118). Hos 11:6 <span dir="rtl">בדיו</span> is rendered <i>ἐν ταῖς χερσὶν αὐτοῦ</i>, ‘in his hands’, possibly etymologizing.  σ´ <i>τοὺς βραχίονας αὐτοῦ</i>, ‘his arms’, is based on the LXX. LXX interprets the difficult <span dir="rtl">בדי</span> in Job 17:16 is as <i>μετ΄ ἐμοῦ</i>, ‘with me’.
 
 
 <b>b.  Peshitta (Pesh):</b>  
@@ -88,7 +88,7 @@ Pesh’s rendering of Hos 11:6  seems to be inspired by LXX: <i>mn ʾydyhwn</i>,
 
 <b>c. Targum (Tg):</b>  
 
-* Mostly <span dir="rtl">אריחא</span>,   according to  Levy, <i>CWT</i>, Bd. 1, 62: ‘Latte, viereckige Stange’, according to Sokoloff, <i>DJPA</i>, 74: ‘bar, pole’. In Hos 11:6 Tg paraphrases <span dir="rtl">גיברוהי</span>, ‘his heroes’. 11Q10 (11QtgJob) is missing at this point. The rabbinic Tg Job 17:16 has <span dir="rtl">טנרי</span>, ‘rocks’, but this might be a scribal error for <span dir="rtl">טרני</span>. ‘tyrants’. 
+* Mostly <span dir="rtl">אריחא</span>,   according to  Levy, <i>CWT</i>, Bd. 1, 62: ‘Latte, viereckige Stange’, according to Sokoloff, <i>DJPA</i>, 74: ‘bar, pole’. In Hos 11:6 Tg paraphrases <span dir="rtl">גיברוהי</span>, ‘his heroes’. 11Q10 (11QtgJob) is missing at this point. The rabbinic Tg Job 17:16 has <span dir="rtl">טנרי</span>, ‘rocks’, but this might be a scribal error for <span dir="rtl">טרני</span>, ‘tyrants’. 
 
 
 
@@ -120,8 +120,8 @@ Pesh’s rendering of Hos 11:6  seems to be inspired by LXX: <i>mn ʾydyhwn</i>,
 ### 6.1 Textual Evidence
 
 
-<b>A.1</b> In nearly all the cases of occurrence  <span dir="rtl">בַּדִּים</span> are poles of acacia wood (<span dir="rtl">שִׁטִּים</span> <span dir="rtl">עֲצֵי</span>)                              overlaid (√ <span dir="rtl">צפה</span> Pi.) with gold  (<span dir="rtl">זָהָב</span>, Exod 25:13, 28; 30:5; 37:4, 15, 28) or bronze  (<span dir="rtl">נְחֹשֶׁת</span>, Exod 27:6; 38:6). The wood of the <i>Acacia raddiana Savi</i> which is the only species that can have been meant is extremely hard (Feliks 1968, 96-8; Zohary 1982, 116) and therefore suitable for poles used to carry heavy objects. Such objects are
-the ark (<span dir="rtl">אָרֹון</span>), carried by putting the poles through the four rings (<span dir="rtl">טַבְּעֹת</span>, → <span dir="rtl">טַבַּעַת</span>) of gold thatwere fastened two by two  on the four feet of its 
+<b>A.1</b> In nearly all the cases of occurrence  <span dir="rtl">בַּדִּים</span> are poles of acacia wood (<span dir="rtl">שִׁטִּים</span> <span dir="rtl">עֲצֵי</span>)                              overlaid (√ <span dir="rtl">צפה</span> Pi.) with gold  (<span dir="rtl">זָהָב</span>, Exod 25:13, 28; 30:5; 37:4, 15, 28) or bronze  (<span dir="rtl">נְחֹשֶׁת</span>, Exod 27:6; 38:6). The wood of the <i>Acacia raddiana Savi</i> which is the only species that can have been meant is extremely hard (Feliks 1968, 96-98; Zohary 1982, 116) and therefore suitable for poles used to carry heavy objects. Such objects are
+the ark (<span dir="rtl">אָרֹון</span>), carried by putting the poles through the four rings (<span dir="rtl">טַבְּעֹת</span>, → <span dir="rtl">טַבַּעַת</span>) of gold that were fastened two by two  on the four feet of its 
 sides (Exod 25:12f., 15; 37:3f.; cf. 35:12);
 the  table (<span dir="rtl">שֻׁלְחָן</span>) of shewbread  through the four golden rings at its four cornerlegs close to 
 the rim (Exod 25:26f.; 37:13f.; cf. 
@@ -130,9 +130,9 @@ with rings of bronze at the corners (Exod 27:4f.;
 38:4-7; cf. 35:16; 39:39);
 the altar of incense (<span dir="rtl">הַקְּּטֹרֶת</span> <span dir="rtl">מִזְבַּח</span>)  on its moulding or listel (<span dir="rtl">זֵר</span>)  of gold to which the four golden carrying rings 
 were fixed underneath (Exod 30:4f.; cf. 35:15; 
-37:27f.). The lampstand (<span dir="rtl">מְנֹרָה</span>) too was probably carried on poles (see section 7 below).
+37:27f.). The lampstand (<span dir="rtl">מְנֹרָה</span>) too was probably carried on poles (see section 6.2 below).
 
- The <span dir="rtl">בַּדִּים</span> of the ark remained in their rings (Exod 27:4; cf. 39:35; 40:20). According to 1 Kgs 8:7-8  (cf. 2 Chron 5:8-9) when the ark had been
+ The <span dir="rtl">בַּדִּים</span> of the ark remained in their rings (Exod 27:4; cf. 39:35; 40:20). According to 1 Kgs 8:7, 8  (cf. 2 Chron 5:8, 9) when the ark had been
 brought to its place in the temple, the wings of 
 the cherubim made a covering above the ark and 
 its  <span dir="rtl">בַּדִּים</span> which  were so long that their ends could be seen from the holy place in front of the 
@@ -142,22 +142,21 @@ inner sanctuary.
 In the wilderness the Kohathites, a clan of the 
 Levites (Num 4:2f.) are cast as actors for the 
 task to handle the <span dir="rtl">בַּדִּים</span>   when the camp is set out (Num 4:6, 8, 11, 14; cf. 1 Chron 15:15 
-where Levites carry the ark with poles [<span dir="rtl">מֹטֹות</span>, → <span dir="rtl">מֹּוט</span>]in stead of <span dir="rtl">בַּדִּים</span>).
+where Levites carry the ark with poles [<span dir="rtl">מֹטֹות</span>, → <span dir="rtl">מֹּוט</span>] in stead of <span dir="rtl">בַּדִּים</span>).
 
 In view of the uncertainty of the shape of the ark and the possibility that other ‘arks’ may have existed it is impossible to be sure about the length and weight of the poles. According to Exod 25:10 (P) the dimensions of the ark were modest (1.25 x 0.75 x 0.75 m). Two men were able to carry it (1 Sam 4:4; 2 Sam 15:24, 29), according to the Chronicler on their shoulders (1 Chron 15:15; 2 Chron 35:3).
 
 
-In Hos 11:6 and Job 17:16 <span dir="rtl">בַּדִּים</span> may designate the bars of city gates. If so, this must be seen as an extended use of <span dir="rtl">בַּד</span> ‘(carrying) pole’. The bars of gatedoors were heavy poles indeed (cf. Salonen, <i>Türen</i>, 74-90). However, in both cases other solutions have been proposed (see e.g. Macintosh 1997, 453; Clines 1989, 375).
+In Hos 11:6 and Job 17:16 <span dir="rtl">בַּדִּים</span> may designate the bars of city gates. If so, this must be seen as an extended use of <span dir="rtl">בַּד</span> ‘(carrying) pole’. The bars of gatedoors were heavy poles indeed (cf. Salonen, <i>Türen</i>, 74-90). However, in both cases other solutions have been proposed (see e.g. Macintosh 1997:453; Clines 1989:375).
 
-<span dir="rtl">בַּד</span> is an old word that originally meant ‘in the hand’, which as a noun became ‘handle’ (see section 4 below). Therefore, when  <span dir="rtl">בַּד</span> is used for a branch or twig of a vine (Ezek 17:6; 19:14) this must be regarded as a metaphorical use of the term. According to some commentators <span dir="rtl">בַּדִּים</span> in Hos 11:6 should be understood as ‘branches’ in the metaphorical sense of ‘villages’ subservient to a major city (Macintosh 1997).
+<span dir="rtl">בַּד</span> is an old word that originally meant ‘in the hand’, which as a noun became ‘handle’ (see section 1 above). Therefore, when  <span dir="rtl">בַּד</span> is used for a branch or twig of a vine (Ezek 17:6; 19:14) this must be regarded as a metaphorical use of the term. According to some commentators <span dir="rtl">בַּדִּים</span> in Hos 11:6 should be understood as ‘branches’ in the metaphorical sense of ‘villages’ subservient to a major city (Macintosh 1997:452-55).
 
-The possibility that <span dir="rtl">בַּדִּים</span>  in Isaiah 16:6, Jeremiah 48:30 and  50:36 does not mean ‘prattle’ or ‘prattlers, soothsayers’,  but<br> ‘power’, i.e.  the ‘carrying force’ of a people, or a crocodile (Job 
+The possibility that <span dir="rtl">בַּדִּים</span>  in Isaiah 16:6, Jeremiah 48:30 and  50:36 does not mean ‘prattle’ or ‘prattlers, soothsayers’,  but ‘power’, i.e.  the ‘carrying force’ of a people, or a crocodile (Job 
 41:4), cannot to be excluded.
 
 
 All Judaic references to the carrying-poles of the ark and other objects belonging to the tabernacle are derived from the Bible and for that reason do not offer useful additional  information.
 
-\includegraphics*{bd-Arch-of-Titus.eps}
 
 
 ### 6.2 Pictorial Material
@@ -165,14 +164,18 @@ All Judaic references to the carrying-poles of the ark and other objects belongi
 <b>A.1</b> 
 On the Arch of Titus the poles on which the Menorah was carried are clearly visible. They are round, not square, and were carried on the shoulders of the bearers (cf. Bolen, <i>PLBL</i>, Disk 2, 10. Rome, tb q112002.jpg and tb q112002.jpg). 
 For the door-bar, see Salonen, <i>Türen</i>, 74-90.
- 
 
+
+![Pole](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/bd-Arch-of-Titus.eps)
 
 
 
 ### 6.3 Archaeology
 
 <b>A.1</b> [Will be added later.]
+
+
+
 
 ## 7. Conclusion
 
@@ -182,33 +185,20 @@ The word <span dir="rtl">בַּד</span> in the sense of ‘carrying-pole’ was
 
 ## Bibliography
 
-Clines 1989: D.J.A. Clines, <i>Job 1--20</i> (WBC), Dallas.
+<div style="padding-left: 22px; text-indent: -22px;">
+Clines 1989 <br>
+D.J.A. Clines, <i>Job 1-20</i> (WBC), Dallas.
+</div>
 
-Macintosh 1997: A.A. Macintosh, <i>Hosea</i> (ICC), Edinburgh, 452-55.
+<div style="padding-left: 22px; text-indent: -22px;">
+Macintosh 1997 <br>
+A.A. Macintosh, <i>Hosea</i> (ICC), Edinburgh.
+</div>
 
-Rabin 1973
-Ch. Rabin, ‘Hebrew <i>baddim</i> ‘‘Power’’ Õ’, <i>JSS</i> 18:57-58.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div style="padding-left: 22px; text-indent: -22px;">
+Rabin 1973 <br>
+Chaim Rabin, ‘Hebrew <i>baddim</i> “Power”’, <i>JSS</i> 18:57-58.
+</div>
 
 
 

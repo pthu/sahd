@@ -23,13 +23,11 @@ Occurrences:   4x HB (0/0/4)<!--; ??x Sir; ??x Qum; ??x Inscr.  (Total: ??)-->
 
 * Ketubim: Est 4:11; 5:2 (2x); 8:4.
 
-<b>A.1</b> 
 
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
-<b>A.1</b>  
-König, <i>HAWAT</i>, 527, remarks: ‘mit Übergangs-<i>r</i> (2<sub>473</sub> [= <i>Hist. Komp. Lehrgeb.</i>, Bd. 2, 473]) wie es auch im Aram. gesprochen wird (cf. σκῆπτρον)’. Apparently König means Jewish and Samaritan Aramaic, see below. See also Fürst & Ryssel, <i>HCHAT</i>, Bd. 2, 497. Probably all are loans from Bab. <i>šabbīṭu</i>, ‘staff, sceptre’, with typically Aramaic dissimilation of the geminated consonant (Wagner, <i>LGA</i>, 116, No. 317; Mankowski, <i>ALBH</i>, 147-9). The etymology proposed by Sasson 1972 must be rejected (Mankowksi, <i>ibid.</i>).
+<b>A.1</b> König, <i>HAWAT</i>, 527, remarks: ‘mit Übergangs-<i>r</i> (2<sub>473</sub> [= <i>Hist. Komp. Lehrgeb.</i>, Bd. 2, 473]) wie es auch im Aram. gesprochen wird (cf. σκῆπτρον)’. Apparently König means Jewish and Samaritan Aramaic, see below. See also Fürst & Ryssel, <i>HCHAT</i>, Bd. 2, 497. Probably all are loans from Bab. <i>šabbīṭu</i>, ‘staff, sceptre’, with typically Aramaic dissimilation of the geminated consonant (Wagner, <i>LGA</i>, 116, No. 317; Mankowski, <i>ALBH</i>, 147-9). The etymology proposed by Sasson 1972 must be rejected (Mankowksi, <i>ibid.</i>).
 
 
 <i>Coptic</i>: <i>šarbōt</i> ‘sceptre’ (Crum, <i>CD</i>, 554).
@@ -44,7 +42,7 @@ König, <i>HAWAT</i>, 527, remarks: ‘mit Übergangs-<i>r</i> (2<sub>473</sub> 
 
 
 
-<i>Jewish Aramaic</i>: <span dir="rtl">שַׁרְבִיטā</span> ‘staff, branch’ (Sokoloff, <i>DJPA</i>, 566).
+<i>Jewish Aramaic</i>: <span dir="rtl">שַׁרְבִיט</span> ‘staff, branch’ (Sokoloff, <i>DJPA</i>, 566).
 
 
 <i>Samaritan Aramaic</i>: Tal, <i>DSA</i>, 930: <span dir="rtl">שרביט</span> ‘1. staff ... 2. blow, plague’.
@@ -66,7 +64,7 @@ König, <i>HAWAT</i>, 527, remarks: ‘mit Übergangs-<i>r</i> (2<sub>473</sub> 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
 * 
-LXX translated with χρυσῆ ῥάβδος.
+LXX translated with <i>χρυσῆ ῥάβδος</i>.
 
 <b>b.  Peshitta (Pesh):</b>  
 
@@ -87,7 +85,6 @@ The First Targum to Esther translates with <span dir="rtl">דדהבא</span> <sp
 
 
 
-<b>A.1</b>
 
 
 
@@ -113,13 +110,13 @@ The First Targum to Esther translates with <span dir="rtl">דדהבא</span> <sp
 
 
 <b>A.1</b> 
-It is only attested in the sense of a  golden royal sceptre in the book of Esther (Est 4:11; 5:2 [twice]; 8:4). The lemma is a late (Aramaic) development next to → <span dir="rtl">שֵׁבֶט</span>  ‘stick, staff, tribe’.
+It is only attested in the sense of a  golden royal sceptre in the book of Esther (Est 4:11; 5:2 [2x]; 8:4). The lemma is a late (Aramaic) development next to → <span dir="rtl">שֵׁבֶט</span>  ‘stick, staff, tribe’.
 
 
 
-The term occurs once, in the plural, in Jesus Sirach Hebrew (Sir. 37:17), in ms D, while ms B seems to read <span dir="rtl">שׁבטים</span>, which must have been the Vorlage of LXX (μέρη; cf. Beentjes 1997, 102, 155). Apparently the meaning is ‘branches’ here. The term is not attested in the Dead Sea Scrolls.
+The term occurs once, in the plural, in Jesus Sirach Hebrew (Sir 37:17), in ms D, while ms B seems to read <span dir="rtl">שׁבטים</span>, which must have been the Vorlage of LXX (<i>μέρη</i>; cf. Beentjes 1997, 102, 155). Apparently the meaning is ‘branches’ here. The term is not attested in the Dead Sea Scrolls.
 
-Rabbinic sources maintain the meaning of a royal sceptre, which decides upon chastisement (m. Sanh. II,5; b. Arakh. 19a; Cant. Rabba II, 16. 2). At the same time, the term is used in the sense of a ‘shoot’ or ‘twig’ (Tosephta, Kil. I,10; Uqtsin I,5). This may be due to the fact that several times MT <span dir="rtl">שֵׁבֶט</span> which can mean ‘branch’,  is translated as <span dir="rtl">שרביטא</span> in the Palestinian Targums to Exod. 21:20 and Lev. 27:32 (→ <span dir="rtl">שֵׁבֶט</span>, section 6).
+Rabbinic sources maintain the meaning of a royal sceptre, which decides upon chastisement (m. Sanh. II,5; b. Arakh. 19a; Cant. Rabba II, 16. 2). At the same time, the term is used in the sense of a ‘shoot’ or ‘twig’ (Tosephta, Kil. I,10; Uqtsin I,5). This may be due to the fact that several times MT <span dir="rtl">שֵׁבֶט</span> which can mean ‘branch’,  is translated as <span dir="rtl">שרביטא</span> in the Palestinian Targums to Exod 21:20 and Lev 27:32 (→ <span dir="rtl">שֵׁבֶט</span>, section 6).
 
 
 
@@ -145,9 +142,10 @@ Rabbinic sources maintain the meaning of a royal sceptre, which decides upon cha
 
 ## Bibliography
 
-
-Sasson 1972: J.M. Sasson, ‘A Note on  <i>šarbîṭ</i>’, <i>VT</i> 22 (1972), 111 -- 
-
+<div style="padding-left: 22px; text-indent: -22px;">
+Sasson 1972 <br>
+J.M. Sasson, ‘A Note on  <i>šarbîṭ</i>’, <i>VT</i> 22:111.  
+</div>
 
 
 

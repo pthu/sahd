@@ -39,14 +39,14 @@ Grammatical type:
 * Nebiim: Isa 58:6 (2x), 9: Jer 27:2; 28:10, 12, 13 (2x); Ezek 30:18; 34:27;
 * Ketubim: 1 Chron 15:15.
 
-<b>A.1</b>In 4Q437 fragm 2, II.13 <span dir="rtl">מטותיהם</span> ‘their [y]okes’ occurs in broken context. See further section 1, Postbiblical Hebrew.
+<b>A.1</b> In 4Q437 fragm 2, II.13 <span dir="rtl">מטותיהם</span> ‘their [y]okes’ occurs in broken context. See further section 1, Postbiblical Hebrew.
 
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
 <b>A.1</b>  <i>Semitic</i>:  The root is no doubt <i>mw/yṭ</i> which is attested in several Semitic languages (cf. Klein, <i>CEDHL</i>, 324; Leslau, <i>CDG</i>, 377; <i>HAHAT, 641</i>). It is certainly not related to → <span dir="rtl">מַטֶּה</span> (<i>contra</i> D.M. Fouts, <i>NIDOT</i>, vol. 2, 866). Since the Hebrew √<span dir="rtl">מוט</span>  means ‘to totter’, it has been assumed that the name of the yoke bar <span dir="rtl">מֹוט</span>/<span dir="rtl">מֹוטָה</span> was derived from its back-and-forth, up-and-down motion on the necks of the draught animals. In view of Geez <i>myṭ / meṭa</i>, ‘to turn away, divert, repel’ and Arabic <i>myṭ</i>, ‘to remove, put at a distance, repel’ one might also think of a bar designed to keep the horned heads of the draught oxen apart.
 
-<i>Egyptian</i>: Possibly as a Semitic loanword in Late Egyptian <i>m{,̓*wḏ</i> (Helck, <i>BÄV</i>, 513, No. 86; Hassan 1979).
+<i>Egyptian</i>: Possibly as a Semitic loanword in Late Egyptian <i>m3wḏ</i> (Helck, <i>BÄV</i>, 513, No. 86; Hassan 1979).
 
 
 
@@ -58,7 +58,7 @@ Grammatical type:
 
 
 
-<i>Postbiblical Hebrew</i>: In mBeṣ. 3:3 and derived passages <span dir="rtl">מוט</span>  is supposed to be a long carrying bar, <span dir="rtl">מוטה</span>  a short one. Cf. Levy, <i>WTM</i>, Bd. 3, 44-5;Dalman, <i>ANHT</i>, 227. Actually the passage states nothing about size and <span dir="rtl">ו</span> may have meant in a disjunctive sense, cf. <i>DCH</i>, vol. 2, 596.
+<i>Postbiblical Hebrew</i>: In mBeṣ. 3:3 and derived passages <span dir="rtl">מוט</span>  is supposed to be a long carrying bar, <span dir="rtl">מוטה</span>  a short one. Cf. Levy, <i>WTM</i>, Bd. 3, 44-5; Dalman, <i>ANHT</i>, 227. Actually the passage states nothing about size and <span dir="rtl">ו</span> may have meant in a disjunctive sense, cf. <i>DCH</i>, vol. 2, 596.
 
 
 
@@ -85,11 +85,11 @@ Grammatical type:
 
 * In Lev 26:13  <span dir="rtl">עֻלְּכֶם</span> <span dir="rtl">מֹטֹת</span> is rendered τὸν δεσμὸν τοῦ ζυγοῦ ὑμῶν, so the plural is understood as a singular  ‘band, bond’ (Lust <i>et al.</i>, <i>GELS-L</i>, 99). 
 
-In Num 4:10,12; 13:23: 1 Chron 15:15 LXX renders ἀναφορέυς, ‘bearer, carrying-pole, stave’ (<i>GELS-L</i>, 33-4).
+* In Num 4:10,12; 13:23; 1 Chron 15:15 LXX renders ἀναφορέυς, ‘bearer, carrying-pole, stave’ (<i>GELS-L</i>, 33-4).
 
-In Isa 58:6 LXX understands <span dir="rtl">כָּל&thinsp;־מֹוטָה</span> in a metaphorical sense: πᾶσαν συγγραφὴν ἄδικον, ‘and every unjust contract’ (<i>GELS-L</i>, 444; see below on the Tg) whereas only a few verses further on (Isa 58:9) <span dir="rtl">מֹוטָה</span> is rendered more or less literally: σύνδεσμον, ‘band, fetter’ (<i>GELS-L</i>, 455).
+* In Isa 58:6 LXX understands <span dir="rtl">כָּל&thinsp;־מֹוטָה</span> in a metaphorical sense: πᾶσαν συγγραφὴν ἄδικον, ‘and every unjust contract’ (<i>GELS-L</i>, 444; see below on the Tg) whereas only a few verses further on (Isa 58:9) <span dir="rtl">מֹוטָה</span> is rendered more or less literally: σύνδεσμον, ‘band, fetter’ (<i>GELS-L</i>, 455).
 
-In Jer 28:13; Ezek 34:27 LXX opts for κλοίος, ‘chain, bond’, but also ‘yoke’ (<i>GELS-L</i>, 259). In Ezek 30:18 LXX may have read <span dir="rtl">מַטֹּות</span>, ‘rods’ and in Nah 1:13 <span dir="rtl">מַטֵהוּ</span>, ‘his rod’.
+* In Jer 28:13; Ezek 34:27 LXX opts for κλοίος, ‘chain, bond’, but also ‘yoke’ (<i>GELS-L</i>, 259). In Ezek 30:18 LXX may have read <span dir="rtl">מַטֹּות</span>, ‘rods’ and in Nah 1:13 <span dir="rtl">מַטֵהוּ</span>, ‘his rod’.
 
 
 <b>b.  Peshitta (Pesh):</b>  
@@ -102,7 +102,7 @@ In Jer 28:13; Ezek 34:27 LXX opts for κλοίος, ‘chain, bond’, but also 
 
 * Tg<sup>O</sup> has <span dir="rtl">אריחא</span> in Num 4:10, 12; 13:23, apparently equating <span dir="rtl">מֹוט</span> with →  <span dir="rtl">בַּד</span>. In Num  4:10, 12; 13:23 Tg<sup>N</sup> has <span dir="rtl">קופה</span>, ‘basket’, but Tg<sup>J</sup> has <span dir="rtl">אסלא</span>, ‘pole’ in Num 4:10 and 13:23. The latter rendering is also chosen in the Targum of 1 Chron 15:15. In Jer 27:2; 28;10, 12, 13 Tg renders <span dir="rtl">מֹוטָה</span> by <span dir="rtl">נירא</span>, ‘yoke’. Surprisingly, the same rendering is chosen in Ezek 34:27 where one would expect the Targumist to explain the metaphor.
 
-In Lev 26:13 Tg<sup>O</sup> interprets <span dir="rtl">עֻלְּכֶם</span> <span dir="rtl">מֹטֹת</span> as <span dir="rtl">מינכון</span> <span dir="rtl">עממיא</span> <span dir="rtl">ניר</span>, ‘the yoke of the nations from you’. The Palestinian targums have understood the metaphor in a similar way here. In Isa 58:6 the Targum paraphrases <span dir="rtl">מֹוטָה</span> twice as <span dir="rtl">מסטי</span> <span dir="rtl">דין</span> ‘perverted judgment’ and in 58:9 as <span dir="rtl">דין</span> <span dir="rtl">אסטיות</span> ‘perversion of judgment’. In Ezek 30:18  the metaphor is recognised and rendered by <span dir="rtl">תקופא</span>, ‘strength’.
+* In Lev 26:13 Tg<sup>O</sup> interprets <span dir="rtl">עֻלְּכֶם</span> <span dir="rtl">מֹטֹת</span> as <span dir="rtl">מינכון</span> <span dir="rtl">עממיא</span> <span dir="rtl">ניר</span>, ‘the yoke of the nations from you’. The Palestinian targums have understood the metaphor in a similar way here. In Isa 58:6 the Targum paraphrases <span dir="rtl">מֹוטָה</span> twice as <span dir="rtl">מסטי</span> <span dir="rtl">דין</span> ‘perverted judgment’ and in 58:9 as <span dir="rtl">דין</span> <span dir="rtl">אסטיות</span> ‘perversion of judgment’. In Ezek 30:18  the metaphor is recognised and rendered by <span dir="rtl">תקופא</span>, ‘strength’.
 
 
 
@@ -112,7 +112,6 @@ In Lev 26:13 Tg<sup>O</sup> interprets <span dir="rtl">עֻלְּכֶם</span> <
 
 
 
-<b>A.1</b>
 
 
 
@@ -149,7 +148,7 @@ kept the beam in place on its neck (Schumacher 1889; Turkowski 1969; Zwickel 199
 
 
 In Jeremiah’s 
-case it may have been a light imitation of such a yoke or <span dir="rtl">עֵצּ</span>??? <span dir="rtl">מֹוטֹת</span> in Jer 28:13 designates the wooden pegs around his neck, because Hananiah was able to break them with ease (Jer 28:10-13) which he would not have accomplished if they had been forged of iron (<span dir="rtl">בַּרְזֶל</span>, Jer 28:13).
+case it may have been a light imitation of such a yoke or <span dir="rtl">עֵצּ</span> <span dir="rtl">מֹוטֹת</span> in Jer 28:13 designates the wooden pegs around his neck, because Hananiah was able to break them with ease (Jer 28:10-13) which he would not have accomplished if they had been forged of iron (<span dir="rtl">בַּרְזֶל</span>, Jer 28:13).
 
 Jeremiah’s symbolic act hints at the figurative 
 sense of the terms for yoke: they symbolise subjection, oppression and bondage (cf. Ruwe & Weise 2002). 
@@ -163,7 +162,7 @@ the imagery can be recognised easily: The fast
 for YHWH is meant to undo the thongs (→ <span dir="rtl">אֲגֻדָּה</span>) of the <span dir="rtl">מֹוטָה</span> of oppression they have laid on the shoulders of others and break it, thus setting free the oppressed.
 
 
-In Nah 1:13 <span dir="rtl">מֹטֵהוּ</span>, ‘his yoke bar’ (|  <span dir="rtl">מֹוסְרֹתַיִךְ</span>, ‘your straps’) is a designation of Nineve’s yoke of oppression which lady Zion had to bear and which YHWH will break off her neck now (<span dir="rtl">מֵעָלָיִךְ</span> counsels against the emendation <span dir="rtl">מַטֵהוּ</span>, ‘his rod’, which has been defended by several scholars, e.g. Spronk 1997, 72-3).
+In Nah 1:13 <span dir="rtl">מֹטֵהוּ</span>, ‘his yoke bar’ (<span dir="rtl">מֹוסְרֹתַיִךְ</span>, ‘your straps’) is a designation of Nineve’s yoke of oppression which lady Zion had to bear and which YHWH will break off her neck now (<span dir="rtl">מֵעָלָיִךְ</span> counsels against the emendation <span dir="rtl">מַטֵהוּ</span>, ‘his rod’, which has been defended by several scholars, e.g. Spronk 1997, 72-3).
 
 
 
@@ -192,25 +191,42 @@ yoke (bars) means liberation of the oppressed. Jeremiah wore (a light imitation 
 
 ## Bibliography
 
+<div style="padding-left: 22px; text-indent: -22px;">
+Hassan 1979 <br>
+A.A. Hassan, ‘Die Wörter <i>šbd</i> and <i>m3wḏ</i>’, <i>MDAIK</i> 35:119-24.
+</div>
 
-Hassan 1979: A.A. Hassan, ‘Die Wörter <i>šbd</i> and <i>m{,̓*wḏ</i>’, <i>MDAIK</i> 35 (1979), 119-24.
+<div style="padding-left: 22px; text-indent: -22px;">
+Ruwe & Weise 2002 <br>
+A. Ruwe & U. Weise, ‘Das Joch Assurs und <i>Jhwhs</i> Joch: Ein Realienbegriff und seine Metaphorisierung in neuassyrischen und alttestamentlichen Texten’, <i>ZAR</i> 8:274-307.
+</div>
 
-Ruwe & Weise 2002: A. Ruwe & U. Weise, ‘Das Joch Assurs und <i>Jhwhs</i> Joch: Ein Realienbegriff und seine Metaphorisierung in neuassyrischen und alttestamentlichen Texten’, <i>ZAR</i> 8 (2002), 274-307.
+<div style="padding-left: 22px; text-indent: -22px;">
+Schumacher 1889 <br>
+G. Schumacher, ‘Der arabische PflugÕ, <i>ZDPV</i> 12:157-66.
+</div>
 
-Schumacher 1889: G. Schumacher, ‘Der arabische PflugÕ,</i> ZDPV</i> 12 
-(1889), 157-66.
+<div style="padding-left: 22px; text-indent: -22px;">
+Spronk 1997 <br>
+K. Spronk, <i>Nahum</i> (HCOT), Kampen.
+</div>
 
-Spronk 1997: K. Spronk, <i>Nahum</i> (HCOT), Kampen 1997.
+<div style="padding-left: 22px; text-indent: -22px;">
+Turkowski 1969 <br>
+L. Turkowski, ‘Peasant Agriculture in the Judaean Hills (I)’, <i>PEQ</i> 101:21-33.
+</div>
 
-Turkowski 1969: L. Turkowski, ‘Peasant Agriculture in the Judaean Hills (I)’, <i>PEQ</i> 101 (1969), 21-33.
-
-Tyer 1963
+<div style="padding-left: 22px; text-indent: -22px;">
+Tyer 1963 <br>
 C.L. Tyer, <i>The Yoke in Ancient Eastern, Hebrew and 
 New Testament Materials</i> (unpubl. diss. Vanderbilt 
 University).
+</div>
 
-Viberg 2007: Å. Viberg, <i>Prophets in Action: An Analysis of Prophetic Symbolic Acts in the Old Testament</i> (CB,OT, 55), Stockholm 2007, 128-44.
-
+<div style="padding-left: 22px; text-indent: -22px;">
+Viberg 2007 <br>
+Å. Viberg, <i>Prophets in Action: An Analysis of Prophetic Symbolic Acts in the Old Testament</i> (CB,OT, 55), Stockholm, 128-44.
+</div>
 
 
 

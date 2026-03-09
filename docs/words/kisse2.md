@@ -111,7 +111,7 @@ See also the following websites:
 <span dir="rtl">משׁל</span>. 
 It is an expression used of both human kings and God, and is absolutely central to the concept of kingship both symbolically and literally, with a significance similar to that of ‘crown’ and ‘coronation’ in English.
  
-<b>A.3</b> God’s throne is located in the sanctuary, and at a later period in the heavens. However, although he is often described as sitting upon the cherubim, the term <span dir="rtl">כִּסֵּא</span> does not appear in this exact context; cf. Ps 61:8, Isa 10:13 of kings where <span dir="rtl">כִּסֵּא</span> is not mentioned.
+<b>A.3</b> God’s throne is located in the sanctuary, and at a later period in the heavens. However, although he is often described as sitting upon the cherubim (→ <a href="/words/krub/"><span dir="rtl" lang="he">כְּרוּב</span></a>), the term <span dir="rtl">כִּסֵּא</span> does not appear in this exact context; cf. Ps 61:8, Isa 10:13 of kings where <span dir="rtl">כִּסֵּא</span> is not mentioned.
  
 <b>A.4</b> Only Solomon’s <span dir="rtl">כִּסֵּא</span> is described in detail (1 Kgs 10:18-20), and we can only speculate about the form of other thrones and seats, though there are plenty of Ancient Near Eastern representations of ‘Sitzmöbel’.
  

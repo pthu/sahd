@@ -107,6 +107,7 @@ nav:
                 - פְּדוּת - redemption-action: words/pduth.md
                 - פִּדְיוֹן - ransom: words/pidyon.md
                 - פֶּלֶךְ - spindle: words/pelek.md
+                - פֶּרֶס - bird of prey: words/peres.md
                 - פרק - to pull off: words/p-r-q.md
                 - פָּרָק - piece of meat: words/paraq.md
                 - פֶּרֶק - plunder: words/pereq.md
@@ -133,12 +134,14 @@ nav:
                 - שַׁרְבִיט - sceptre: words/sharbit.md
             - ת:
                 - תְּבוּנָה - understanding: words/thbunah.md
+                - תּוֹעֵבָה - abomination: words/tho3ebah.md
                 - תְּכֵלֶת - bluish purple: words/thkeleth.md
                 - תִּפְלָה - senselessness: words/thiplah.md
                 - תְּשׁוּעָה - deliverance, state of: words/thshu3ah.md
     - Semantic fields:
             - Agriculture: semantic_fields/agriculture.md
             - Benevolence: semantic_fields/benevolence.md
+            - Birds: semantic_fields/birds.md
             - Blessing: semantic_fields/blessing.md
             - Cloth: semantic_fields/cloth.md
             - Colours: semantic_fields/colours.md
@@ -163,6 +166,7 @@ nav:
             - Transport: semantic_fields/transport.md
             - Tribute: semantic_fields/tribute.md
             - Utensils: semantic_fields/utensils.md
+            - Utensils Or Other: semantic_fields/UTENSILS OR OTHER.md
             - Weather: semantic_fields/weather.md
             - Weight: semantic_fields/weight.md
             - Writing: semantic_fields/writing.md
@@ -194,6 +198,7 @@ nav:
             - Haposan Cornelius Sinaga: contributors/haposan_cornelius_sinaga.md
             - Klaas A. D. Smelik: contributors/klaas_a._d._smelik.md
             - Willem Smelik: contributors/willem_smelik.md
+            - Cees Stavleu: contributors/cees_stavleu.md
             - Chiara Stornaiuolo: contributors/chiara_stornaiuolo.md
             - T. Jonathan Stökl: contributors/t._jonathan_stökl.md
             - Michaël N. van der Meer: contributors/michaël_n._van_der_meer.md

@@ -26,26 +26,26 @@ Occurrences:   187x HB (18/115/54); <!--??x Sir; ??x Qum; ??x Inscr.  (Total: ??
 
 * Torah: Gen 5:1; Exod 17:14; 24:7; 32:32, 33; Num 5:23; 21:14; Deut 17:18; 24:1, 3; 28:58, 61; 29:19, 20, 26; 30:10; 31:24, 26;
 * Nebiim: Josh 1:8; 8:31, 34; 10:13; 15:15, 16; 18:9; 23:6; 24:26; Judg 1:11, 12; 1 Sam 10:25; 2 Sam 1:18; 11:14, 15; 1 Kgs 11:41; 14:19, 29; 15:7, 23, 31; 16:5, 14, 20, 27; 21:8 (2x), 9, 11; 22:39, 46; 2 Kgs 1:18; 5:5, 6 (2x), 7; 8:23; 10:1, 2, 6, 7, 34; 12:20; 13:8, 12; 14:6, 15, 18, 28; 15:6, 11, 15, 21, 26, 31, 36; 16:19; 19:14; 20:12, 20; 21:17, 25; 22:8 (2x), 10, 11, 13, 16; 23:2, 3, 21, 24, 28; 24:5; Isa 29:11 (2x), 12 (3x), 18; 30:8; 34:4, 16; 37:14; 39:1; 50:1; Jer 3:8; 25:13; 29:1, 25, 29; 30:2; 32:10, 11, 12 (2x), 14 (3x), 16, 44; 36:2, 4, 8, 10, 11, 13, 18, 32; 45:1; 51:60, 63; Ezek 2:9; Nah 1:1; Mal 3:16; 
-* Ketubim: Pss 40:8; 69:29; 139:16; Job 19:23; 31:35; Eccl 12:12; Est 1:22; 2:23; 3:13; 6:1; 8:5, 10; 9:20, 25, 30, 32; 10:2; Dan 1:4, 17; 9:2; 12:1, 4; Neh 7:5; 8:1, 3, 5, 8, 18; 9:3; 12:23; 13:1; 1 Chron 9:1; 2 Chron 16:11; 17:9; 20:34; 24:27; 25:4, 26; 27:7; 28:26; 32:17, 32; 34:14, 15 (2x), 16, 18, 21, 24, 30, 31; 35:12, 27; 36:8.
+* Ketubim: Ps 40:8; 69:29; 139:16; Job 19:23; 31:35; Eccl 12:12; Est 1:22; 2:23; 3:13; 6:1; 8:5, 10; 9:20, 25, 30, 32; 10:2; Dan 1:4, 17; 9:2; 12:1, 4; Neh 7:5; 8:1, 3, 5, 8, 18; 9:3; 12:23; 13:1; 1 Chron 9:1; 2 Chron 16:11; 17:9; 20:34; 24:27; 25:4, 26; 27:7; 28:26; 32:17, 32; 34:14, 15 (2x), 16, 18, 21, 24, 30, 31; 35:12, 27; 36:8.
 
 
 <b>A.1</b>
 The word occurs also 4x in Biblical Aramaic.
 Lachish ostraca no. 3, obverse, lines 5, 9, 10, 
-11; no. 5, lines 6-7, no. 6, lines 3,4 14, <span dir="rtl">ספר</span>  in the meaning of  ‘letter’, written on an ostracon.
+11; no. 5, lines 6-7, no. 6, lines 3, 4, 14, <span dir="rtl">ספר</span>  in the meaning of  ‘letter’, written on an ostracon.
 
  
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
 <b>A.1</b> 
-<i>Egyptian</i>:The Semitic loanword <i>sōpēr</i>,  ‘scribe’, is attested in literature of the New Kingdom as <i>šu-pi-r(a)</i> (Hoch, <i>SWET</i>, 364).
+<i>Egyptian</i>: The Semitic loanword <i>sōpēr</i>,  ‘scribe’, is attested in literature of the New Kingdom as <i>šu-pi-r(a)</i> (Hoch, <i>SWET</i>, 364).
 
 
 
 
 
-<i>Akkadian</i>: <i>sipru</i>  ‘document in Aramaic’; <i>sepēru</i>,  ‘to write alphabetic script’; <i>sepīru</i>  ‘scribe writing alphabetic script (mostly on skin) (<i>CAD</i> (S), 225,  304; <i>AEAD</i>, 99-100) are late loans from Aramaic. 
+<i>Akkadian</i>: <i>sipru</i>  ‘document in Aramaic’; <i>sepēru</i>,  ‘to write alphabetic script’; <i>sepīru</i>  ‘scribe writing alphabetic script (mostly on skin)’ (<i>CAD</i> (S), 225,  304; <i>AEAD</i>, 99-100) are late loans from Aramaic. 
 
 
 A relation with genuine Akkadian <i>šapāru</i>, ‘to send’, but also  ‘to send word, to send a report, a message, to write’ (<i>CAD</i> [Š] 1, 430-448; <i>AHw</i>, 1170-1) and its derivatives, among them <i>šiprētu</i>,  ‘sealed document’, and <i>šipru</i>,  ‘report, message’, is likely, despite the irregular correspondence between the sibilants (<i>AHw</i>, 1170; <i>HALAT</i>, 723; <i>HAHAT</i>, 898-900; Klein, <i>CEDHL</i>, 455; Tawil, <i>ALCBH</i>, 266). In Akkadian the semantic notion of writing was taken over by <i>šaṭāru</i>,  ‘to write’, and its derivatives, e.g., the nouns <i>šaṭāru</i>,  ‘copy, exemplar, text, inscription, writing’, <i>šiṭirtu</i>,  ‘inscription, text’, <i>šiṭru</i>,  ‘text, document, inscription’; cf. <i>CAD</i> (Š) 2, 221-41; (Š) 3, 144-7.
@@ -92,7 +92,7 @@ Porten & Lund, <i>ADE</i>, 243). Also a literary text like the Book of Balaam, s
 
 
 
-<i>Old Arabic</i>:Sabaean <i>sfrt</i>,  ‘measure’ (Biella, <i>DOSA</i>, 342).
+<i>Old Arabic</i>: Sabaean <i>sfrt</i>,  ‘measure’ (Biella, <i>DOSA</i>, 342).
 
 
 
@@ -100,10 +100,10 @@ Porten & Lund, <i>ADE</i>, 243). Also a literary text like the Book of Balaam, s
 
 
 
-<i>Modern Arabic</i>:Mehri <i>ś<sup>e</sup>būr</i>,  ‘to measure’, <i>śēb<sup>e</sup>r</i>,  ‘span of outspread fingers’. Palestinian Arabic <i>sēfer</i>,  ‘book’, is no doubt a loanword (Barthélemy, 344).
+<i>Modern Arabic</i>: Mehri <i>ś<sup>e</sup>būr</i>,  ‘to measure’, <i>śēb<sup>e</sup>r</i>,  ‘span of outspread fingers’. Palestinian Arabic <i>sēfer</i>,  ‘book’, is no doubt a loanword (Barthélemy, 344).
 
 
-<i>Ethiopic</i>:Geez <i>safara</i>,  ‘to measure’, <i>sefrat</i>,  ‘measure’, <i>masfart</i>,  ‘length’ (Leslau, <i>ESAC</i>, 488-9).
+<i>Ethiopic</i>: Geez <i>safara</i>,  ‘to measure’, <i>sefrat</i>,  ‘measure’, <i>masfart</i>,  ‘length’ (Leslau, <i>ESAC</i>, 488-9).
 Amharic <i>säfärä</i>,  ‘measure’ (Leslau, <i>CAmhD</i>, 60).
 
 
@@ -122,7 +122,7 @@ Amharic <i>säfärä</i>,  ‘measure’ (Leslau, <i>CAmhD</i>, 60).
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
-* The LXX offers several translations, among them βίβλος, ‘scroll, book, letter’, diminutive βιβλίον, γράμμα, ‘written character, letter, book’, ἐπιστολή, ‘letter’ (Muraoka, <i>HIS</i>, 105; Lust <i>et al.</i>, <i>GELS-L</i>, 80, 92, 175).
+* The LXX offers several translations, among them βίβλος, ‘scroll, book, letter’, diminutive βιβλίον, γράμμα, ‘written character, letter, book’, ἐπιστολή, ‘letter’ (Muraoka, <i>HIS</i>, 105; Lust et al., <i>GELS-L</i>, 80, 92, 175).
 
 <b>b.  Peshitta (Pesh):</b>  
 
@@ -162,13 +162,13 @@ cases <span dir="rtl">סֵפֶר</span> means  ‘book’. For instance, in Eccl
 10:13; 2 Sam 1:18), <span dir="rtl">שְׁלֹמֹה</span> <span dir="rtl">דִּבְרֵי</span> <span dir="rtl">סֵפֶר</span>, ‘the Book of the Acts of Solomon’ (1 Kgs 11:41), etc.
 
 
-The physical object can be designated by <span dir="rtl">סֵפֶר</span>  (see e.g. Exod 17:24; 32:32-33) but more 
+The physical object can be designated by <span dir="rtl">סֵפֶר</span>  (see e.g. Exod 17:24; 32:32, 33) but more 
 specifically by the combination <span dir="rtl">מְגִלַּת־סֵפֶר</span> or <span dir="rtl">מְגִלָּה</span>  alone (→ <span dir="rtl">מְגִלָּה</span>). 
 
-However, it is not always certain that a <span dir="rtl">סֵפֶר</span> was an object of papyrus or leather/parchment. In Ugaritic <i>spr</i> may designate a clay tablet and in Phoenician and Old Aramaic an inscription in or on  a durable kind of stone like basalt (see section 4). There is no reason at all to suppose that in al these cases the text was copied from a scroll (<i>pace</i> Vander Toorn 2007, 176). In Isa 30:8 <span dir="rtl">סֵפֶר</span> is used in parallelism with → <span dir="rtl">לוּחַ</span>,  ‘tablet’  and the explicit addition that it had to serve  ‘as a witness for ever’ suggests that this <span dir="rtl">סֵפֶר</span> at least was made of  durable stone. Obviously this recalls the <span dir="rtl">הָאֶבֶן</span> <span dir="rtl">לֻחֹת</span>,  ‘tablets of stone’, given to Moses according to Exod 24:12 (cf. Liedke 1971, 156-7; Korpel 1990, 471-3). In Deut 31:26 the additional teachings incorporated in the Law are designated <span dir="rtl">הַתֹֹּורָה</span> <span dir="rtl">סֵפֶר</span>,  ‘Book of the Law’ and are put beside the Ark containing the tablets of the Decalogue. Because in this case too it is added that this  <span dir="rtl">סֵפֶר</span> shall be  ‘a witness for ever’, the suggestion is created that the writing material was able to stand te tooth of time. Nothing in the text suggests that it was a scroll protected by a container, as some scholars have suggested.
+However, it is not always certain that a <span dir="rtl">סֵפֶר</span> was an object of papyrus or leather/parchment. In Ugaritic <i>spr</i> may designate a clay tablet and in Phoenician and Old Aramaic an inscription in or on  a durable kind of stone like basalt (see section 4). There is no reason at all to suppose that in al these cases the text was copied from a scroll (<i>pace</i> Van der Toorn 2007, 176). In Isa 30:8 <span dir="rtl">סֵפֶר</span> is used in parallelism with → <span dir="rtl">לוּחַ</span>,  ‘tablet’  and the explicit addition that it had to serve  ‘as a witness for ever’ suggests that this <span dir="rtl">סֵפֶר</span> at least was made of  durable stone. Obviously this recalls the <span dir="rtl">הָאֶבֶן</span> <span dir="rtl">לֻחֹת</span>,  ‘tablets of stone’, given to Moses according to Exod 24:12 (cf. Liedke 1971, 156-7; Korpel 1990, 471-3). In Deut 31:26 the additional teachings incorporated in the Law are designated <span dir="rtl">הַתֹֹּורָה</span> <span dir="rtl">סֵפֶר</span>,  ‘Book of the Law’ and are put beside the Ark containing the tablets of the Decalogue. Because in this case too it is added that this  <span dir="rtl">סֵפֶר</span> shall be  ‘a witness for ever’, the suggestion is created that the writing material was able to stand te tooth of time. Nothing in the text suggests that it was a scroll protected by a container, as some scholars have suggested.
 
 A less frequent but also important meaning of 
-<span dir="rtl">סֵפֶר</span> is  ‘letter’ (cf. e.g. 2 Sam 11:14-15; 1 Kgs 21:8-9, 11; Jer 29:1). Letters were 
+<span dir="rtl">סֵפֶר</span> is  ‘letter’ (cf. e.g. 2 Sam 11:14, 15; 1 Kgs 21:8, 9, 11; Jer 29:1). Letters were 
 written (√<span dir="rtl">כתב</span>), sealed (√<span dir="rtl">חתם</span>, → <span dir="rtl">חֹותָם</span>), and sent (√<span dir="rtl">שׁלח</span>) (cf. 1 Kgs 21:9).
 
 
@@ -205,7 +205,6 @@ For some excellent photographs of early Hebrew manuscripts, see e.g. Parry & Qim
  
 
 
-<b>A.2</b> 
 
 
 
@@ -233,64 +232,38 @@ special designation, <span dir="rtl">מְגִלַּת־סֵפֶר</span>, or mer
 
 ## Bibliography
 
-Korpel 1990: M.C.A. Korpel, <i>A Rift in the Clouds: Ugaritic and Hebrew Descriptions of the Divine</i> (UBL, 8), Münster.
+<div style="padding-left: 22px; text-indent: -22px;">
+Korpel 1990 <br>
+M.C.A. Korpel, <i>A Rift in the Clouds: Ugaritic and Hebrew Descriptions of the Divine</i> (UBL, 8), Münster.
+</div>
 
-Liedke 1971: G. Liedke, <i>Gestalt und Bezeichnung alttestamentlicher Rechtssätze: Eine formgeschichtlich-terminologische Studie</i> (WMANT, 39), Neukirchen-Vluyn.
+<div style="padding-left: 22px; text-indent: -22px;">
+Liedke 1971 <br>
+G. Liedke, <i>Gestalt und Bezeichnung alttestamentlicher Rechtssätze: Eine formgeschichtlich-terminologische Studie</i> (WMANT, 39), Neukirchen-Vluyn.
+</div>
 
-Parry & Qimron 1999: D.W. Parry & E. Qimron, <i>The Great Isaiah Scroll (1QIsa<sup>a</i>)</sup>, Leiden 1999
+<div style="padding-left: 22px; text-indent: -22px;">
+Parry & Qimron 1999 <br>
+D.W. Parry & E. Qimron, <i>The Great Isaiah Scroll (1QIsa<sup>a</i>)</sup>, Leiden.
+</div>
 
-Smelik 1990: K.A.D. Smelik,  ‘Ostracon, schrijftafel of 
+<div style="padding-left: 22px; text-indent: -22px;">
+Smelik 1990 <br>
+K.A.D. Smelik,  ‘Ostracon, schrijftafel of 
 boekrol? Jeremia 36, Jesaja 30:8 en twee ostraca 
 uit Saqqara’, <i>NedThT</i>
-24 (1990), 198-207.
+24:198-207.
+</div>
 
-Tov 2004: E. Tov, <i>Scribal Practices and Approaches Reflected in the Texts Found in the Judean Desert</i> (STDJ, 54), Leiden.
+<div style="padding-left: 22px; text-indent: -22px;">
+Tov 2004 <br>
+E. Tov, <i>Scribal Practices and Approaches Reflected in the Texts Found in the Judean Desert</i> (STDJ, 54), Leiden.
+</div>
 
+<div style="padding-left: 22px; text-indent: -22px;">
 Zhakevich 2020 <br>
-Philip Zhakevich, <i>Scribal Tools in Ancient Israel. A Study of Biblical Hebrew Terms for Writing Materials and Implements</i> (History, archaeology, and culture of the Levant, 9), Pennsylvania (PA): Penn State University Press, Eisenbrauns.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Philip Zhakevich, <i>Scribal Tools in Ancient Israel. A Study of Biblical Hebrew Terms for Writing Materials and Implements</i> (History, archaeology, and culture of the Levant, 9), Pennsylvania (PA).
+</div>
 
 
 

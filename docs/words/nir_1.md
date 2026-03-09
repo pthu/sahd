@@ -19,7 +19,7 @@ First published: 2011-03-24<br>Citation: Cornelis Houtman, נִיר <i>nīr</i> 
 ## Introduction
 
 Grammatical type:   
-Occurrences:   5x HB (0/3/2); ??x Sir; ??x Qum; ??x Inscr.  (Total: ??)
+Occurrences:   5x HB (0/3/2)<!--; ??x Sir; ??x Qum; ??x Inscr.  (Total: ??)-->
 
 * Nebiim: 1 Kgs 11:36; 15:4; 2 Kgs 8:19;
 * Ketubim: 2 Chron 21:7; Prov 21:4.
@@ -50,10 +50,10 @@ Occurrences:   5x HB (0/3/2); ??x Sir; ??x Qum; ??x Inscr.  (Total: ??)
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
-* LXX 2 Kgs 8:19; 2 Chron 21:7 λύχνος -- <i>GELS-L</i>, 286: ‘lamp’; <i>LSJ</i>, 1068: ‘portable light, lamp’.  Prov 21:4 λαμπτήρ -- <i>GELS-L</i>, 277: ‘lantern, lamp, torch’; <i>LSJ</i>, 1028: (1) ‘stand or grate for pine and other wood used for lightning 
+* LXX 2 Kgs 8:19; 2 Chron 21:7 λύχνος - <i>GELS-L</i>, 286: ‘lamp’; <i>LSJ</i>, 1068: ‘portable light, lamp’.  Prov 21:4 λαμπτήρ - <i>GELS-L</i>, 277: ‘lantern, lamp, torch’; <i>LSJ</i>, 1028: (1) ‘stand or grate for pine and other wood used for lightning 
 rooms’ (2) ‘lantern’. In the dynamic-equivalent 
 translation of 1 Kgs 11:36; 15:4 a literal 
-rendering of <span dir="rtl">נִיר</span> is lacking (in contrast toα´ and  σ´: λύχνος). In Hos 10:12 <span dir="rtl">נִיר</span> IIis translated as φως, ‘light’.
+rendering of <span dir="rtl">נִיר</span> is lacking (in contrast to α´ and  σ´: λύχνος). In Hos 10:12 <span dir="rtl">נִיר</span> is translated as φως, ‘light’.
 
 
 <b>b.  Peshitta (Pesh):</b>  
@@ -64,7 +64,7 @@ rendering of <span dir="rtl">נִיר</span> is lacking (in contrast toα´ and 
 
 <b>c. Targum (Tg):</b>  
 
-* 2 Chron 21:7 <span dir="rtl">מלכו</span>; 1 Kgs 11:36; 15:4; 2 Kgs 8:19 <span dir="rtl">מלכותא</span> -- Levy, <i>CWT</i>, vol. 2, 41: ‘Königthum, Herrschaft, Regierung’; 
+* 2 Chron 21:7 <span dir="rtl">מלכו</span>; 1 Kgs 11:36; 15:4; 2 Kgs 8:19 <span dir="rtl">מלכותא</span> - Levy, <i>CWT</i>, vol. 2, 41: ‘Königthum, Herrschaft, Regierung’; 
 Jastrow, <i>DTT</i>, 791: ‘kingdom, rulership’; Sokoloff, <i>DJPA</i>,
 310: ‘kingdom, government’. Prov 21:4 <span dir="rtl">שרגא</span> → <span dir="rtl">נֵר</span>, section 5. 
 
@@ -76,8 +76,6 @@ Jastrow, <i>DTT</i>, 791: ‘kingdom, rulership’; Sokoloff, <i>DJPA</i>,
 21:4; 2 Chron 21:7 <i>lucerna</i> ‘lamp’.
 
 
-
-<b>A.1</b>
 
 
 
@@ -104,10 +102,10 @@ undisputed. With reference to the Akkadian <i>nīru</i>, ‘yoke’, in a figura
 <i>nr</i>, ‘power’ (Görg 1985), the meaning ‘dominion, 
 sovereignty’ has been defended. So, using a different argument, a 
 return is made to the targumic interpretation 
-(see section 5) which was based on exegesis with help of the 
-Aramaic <span dir="rtl">נִרָה</span>  ‘yoke’. However, the use of Akkadian <i>nūru</i> ‘light, lamp’ as a royal epithet (CAD (N) 2, 349) argues in favour of the metaphorical use.
+(see section 4) which was based on exegesis with help of the 
+Aramaic <span dir="rtl">נִרָה</span>  ‘yoke’. However, the use of Akkadian <i>nūru</i> ‘light, lamp’ as a royal epithet (<i>CAD</i> (N) 2, 349) argues in favour of the metaphorical use.
 
-The text and sense of  <span dir="rtl">נִר</span> inProv. 21:4b are doubtful.  <span dir="rtl">נִר</span>  is equated by some with <span dir="rtl">נֵר</span>  (‘the lamp [= happiness, delight] of the wicked is sin’), by others with <span dir="rtl">נִיר</span> (Torah: 0. Nebiim: 2. Ketubim: 1. Total: 3; Prov 21:4b: 
+The text and sense of  <span dir="rtl">נִר</span> in Prov. 21:4b are doubtful.  <span dir="rtl">נִר</span>  is equated by some with <span dir="rtl">נֵר</span>  (‘the lamp [= happiness, delight] of the wicked is sin’), by others with <span dir="rtl">נִיר</span> (Torah: 0. Nebiim: 2. Ketubim: 1. Total: 3; Prov 21:4b: 
 ‘the tillage [or, ploughing] of the wicked is 
 sin’; cf. the use of <span dir="rtl">נִיר</span> [‘the tillable, untilled or fallow ground’] in Jer 4:3; Hos 
 10:12; Prov 13:23). Another possibility that might be explored is to connect the word with Akkadian <i>nīru</i> III, a mark for the identification of animals; Arab. <i>nāra</i> ‘to make a mark upon a camel with a hot iron’, <i>nār</i> ‘brand, mark made with a hot iron’. For a similar proposal see Driver 1951, 185. This would result in the translation ‘Haughty eyes and a proud heart, the hallmark of the wicked, are sin.’  However, all three interpretations remain uncertain.
@@ -142,12 +140,17 @@ its light. As such it is used a few times for the Davidic king or descendant. In
 
 ## Bibliography
 
+<div style="padding-left: 22px; text-indent: -22px;">
+Görg 1985 <br>
+M. Görg, ‘Ein 
+‘‘Machtzeichen’’ Davids 1 Könige xi 36’, <i>VT</i> 35:363-368.
+</div>
 
-Görg 1985: M. Görg, ‘Ein 
-‘‘Machtzeichen’’ Davids 1 Könige xi 36’, <i>VT</i> 35 (1985), 363-368
-
-Hanson 1968: P.D. Hanson, 
-'The Song of Heshbon and David’s <i>N\^{I*R}</i>’, <i>HThR</i> 61 (1968), 297-320
+<div style="padding-left: 22px; text-indent: -22px;">
+Hanson 1968 <br>
+P.D. Hanson, 
+'The Song of Heshbon and David’s <i>NÎR</i>’, <i>HThR</i> 61:297-320.
+</div>
 
 See also the literature cited under → <span dir="rtl">נֵר</span>.
 
