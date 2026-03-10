@@ -3,7 +3,7 @@
 The Semantics of Ancient Hebrew Database project aims to provide a structured and critical survey of scholarly literature on the vocabulary of classical Hebrew. As it grows, it will offer an in-depth resource to complement traditional dictionaries, and also provide pointers to further research. This international, cooperative project involves a growing number of research centres with coordination provided by
 [PThU Utrecht](http://pthu.nl/){target=_blank}.
 
-Read the <a href="store/project_description.md"> foundational description of the project</a> (1994) and <a href="pdfs/Williamson-Semantics_and_Lexicography.pdf" target="_blank" rel="noopener noreferrer">H.G.M. Williamson’s description of the SAHD-approach</a>  (2015).
+Read the <a href=“../store/project_description.md"> foundational description of the project</a> (1994) and <a href="pdfs/Williamson-Semantics_and_Lexicography.pdf" target="_blank" rel="noopener noreferrer">H.G.M. Williamson’s description of the SAHD-approach</a>  (2015).
 
 The currently participating centres include the following universities: VU-Amsterdam, Bonn, 
 [Cambridge](https://www.sahd.divinity.cam.ac.uk/){target=_blank}, 
