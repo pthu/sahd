@@ -11,7 +11,7 @@ Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Food Preparation](../semantic_fields/food preparation.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Johannes C. de Moor](../contributors/johannes_c._de_moor.md),&nbsp;[Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
 First published: 2011-03-24<br>Last update: 2025-11-27 <br>Citation: Johannes C. de Moor,&nbsp;Raymond de Hoop,&nbsp;Paul Sanders, קַלַּחַת <i>qallàḥat</i> – stewpot, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2025)
-(WORK IN PROGRESS)
+WORK IN PROGRESS
 
 
 <span id="I"></span>

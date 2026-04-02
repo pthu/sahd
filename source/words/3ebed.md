@@ -81,7 +81,8 @@ suff:  Gen 20:17; Deut 12:12; Nah 2:8; Job 19:15; Ezra 2:65; Neh 7:67; 4Q215 fr1
 
 <b>Septuagint (LXX) and other Greek versions</b>[^11] 
 
-The following survey of Greek renderings is based on the main text in Alfred Rahlfs, <i>Septuaginta</i>, 1935. <!--text from Accordance--> 
+The following survey of Greek renderings of <span dir="rtl">עֶבֶד</span> is based on the main text in Alfred Rahlfs, <i>Septuaginta</i>, 1935, which usually follows the text of LXX<sup><small>B</small></sup>. 
+<!--text Rahlfs from Accordance--> 
 
 
 * Αβδησελμα, PN (2x): Ezra 2:55, 58;
@@ -93,11 +94,12 @@ The following survey of Greek renderings is based on the main text in Alfred Rah
 * δουλεύω, ‘<i>to perform the duties</i> incumbent upon oneself <i>dutifully and obediently</i>’ (11x): Isa 53:11; 65:8, 13 (3x), 14, 15; Jer 27:6; Zech 2:13; Prov 11:29; 12:9;
 * δούλη, ‘female slave, bondswoman’, etc. (1x): Exod 21:7 (see also A.10);
 * δοῦλος, ‘male slave, bondsman’, ‘submissive and respectful person’ (300x): Lev 25:44 (2nd); 26:13; Deut 32:36; Josh 9:23; 24:29; Judg 2:8; 6:27; 15:18; 19:19; 1 Sam 3:9, 10; 8:14, 15, 16, 17; 12:19; 16:16; 17:9 (2x), 32, 34, 36; 19:4; 20:7, 8 (2x); 22:8, 14, 15 (2x); 23:10, 11 (2x); 25:10 (2nd), 39; 26:18, 19; 27:5, 12; 28:2; 29:3, 8; 30:13; 2 Sam 3:18; 6:20; 7:5, 8, 19, 20, 21, 25, 27 (2x), 28, 29 (2x); 8:2, 6, 14; 9:2 (2nd), 6, 8, 10 (2x), 11 (2x), 12; 10:2 (1st), 19; 11:9, 11, 13, 17, 21, 24 (3rd); 12:18; 13:24 (1st, 3rd), 35; 14:19, 20, 22 (2x); 15:2, 8, 21, 34; 18:29 (2x); 19:6, 8, 15, 18, 21, 27 (1st, 3rd), 28, 29, 36 (2x), 37, 38 (2x); 21:22; 24:10, 21; 1 Kgs 1:19, 26 (2x), 27, 33, 47, 51; 2:38, 39 (2x), 40 (2x); 3:6, 7, 8, 9; 5:20 (1st, 2nd), 23; 8:23, 24, 25, 28 (2nd), 29, 30, 36, 52, 53, 56, 59, 66; 11:11, 13, 26, 32, 34, 36, 38; 12:7 (2x); 15:29; 18:9, 12, 36; 20:9, 32, 39, 40; 2 Kgs 1:13; 4:1 (3x); 5:6, 15, 17 (2x), 18 (2x), 25; 6:3; 8:13, 19; 9:7 (2x), 36; 10:10, 23; 12:21, 22; 14:5, 25; 16:7; 17:3, 13, 23; 18:12, 24; 19:34; 20:6; 21:8, 10; 22:9, 12; 24:1, 2; Isa 14:2; 42:19 (2nd); 48:20; 49:3, 5, 7; 56:6; 63:17; 65:9; Jer 2:14; 7:25; 25:4; 46:27; Ezek 28:25; 34:23; 37:24, 25 (2x); 38:17; Joel 3:2; Amos 3:7; Hag 2:23; Zech 1:6; 3:8; Mal 1:6; 3:22; Pss 19:12, 14; 27:9; 31:17; 34:23; 35:27; 36:1; 69:37; 78:70; 79:2, 10; 86:2, 4; 89:4, 21, 40, 51; 90:13, 16; 102:15, 29; 105:6, 17, 25, 26, 42; 109:28; 116:16 (2x); 119:17, 23, 38, 49, 65, 76, 84, 122, 124, 125, 135, 140, 176; 123:2; 132:10; 134:1; 135:1, 9, 14; 136:22; 143:2, 12; 144:10; Job 40:28; Eccl/Qoh 2:7; 7:21; 10:7 (2x); Lam 5:8; Ezra 2:65; 9:9, 11; Neh 1:6 (2x), 11 (1st); 2:10, 19, 20; 5:5; 7:57, 60, 67; 9:14, 36 (1st); 10:30; 11:3; 1 Chron 17:7, 18 (2nd), 26; 2 Chron 2:7 (1st); 6:23, 42; 28:10; 36:20;
-* δοῦλος ‘subordinate’ (adjective), (1x): Ps 119:91; 
+* δοῦλος, ‘subordinate’ (adjective), (1x): Ps 119:91; 
 * δύναμις, ‘power, capacity’, ‘armed military force’ (1x): Est 2:18;
 * Ἑβραῖος, ‘Hebrew’ (1x): 1 Sam 17:8;
 * ἐγώ, ‘I’ (1x): Josh 9:24 (1st);
-* ἡμίονος, ‘mule’ (1x): 1 Sam 22:9; <!--4QSam-a?-->
+* ἐργασία, ‘labour’: Eccl/Qoh 9:1;
+* ἡμίονος, ‘mule’ (1x): 1 Sam 22:9; 
 * θεραπεία, ‘worship service’, ‘a body of attendants’ (1x): Gen 45:16;
 * θεραπεύω, ‘to serve devotedly’ (1x): Isa 54:17;
 * θεράπων, ‘one devoted to sbd else's service’ (44x): Gen 50:17; Exod 4:10; 5:21; 7:10, 20, 28, 29; 8:5, 7, 17, 20, 25, 27; 9:14, 20, 30, 34; 10:1, 6, 7; 11:3; 12:30; 14:5, 31; Num 11:11; 12:7, 8; 32:31; Deut 3:24; 9:27; 29:1; 34:11; Josh 1:2; 8:31, 33; Job 2:3; 3:19; 7:2; 19:16; 31:13; 42:7; 42:8 (3x);
@@ -118,11 +120,11 @@ The following survey of Greek renderings is based on the main text in Alfred Rah
 
 
 <b>A.1</b> 
-During the transmission of the LXX, certain renderings of <span dir="rtl">עֶבֶד</span> were replaced by other renderings of <span dir="rtl">עֶבֶד</span>, especially in LXX<sup><small>Ant</small></sup>, as will be shown in the following paragraphs.[^13]
+During the transmission of the LXX, certain Greek renderings of <span dir="rtl">עֶבֶד</span> were replaced by other Greek renderings, as will be shown in the following paragraphs. There are solid reasons to assume that in general LXX<sup><small>Ant</small></sup> is closer to the original Greek translation than the text of LXX<sup><small>B</small></sup>, especially in the Greek translation of 2 Sam 10:1 to 1 Kgs 2:11, and of 2 Kgs 22-25.[^13] The text of the latter two sections in LXX<sup><small>B</small></sup> results from a revision of the so-called <i>kaige</i> type (Kreuzer 2017:349-350).
 
 <b>A.2</b> 
 In the following cases, LXX<sup><small>Ant</small></sup> reads a form of δοῦλος instead of a form of παῖς:
-2 Sam 10:2 (2nd), 4; 11:24 (2nd); 
+2 Sam 10:2 (2nd), 3, 4; 11:24 (1st, 2nd); 
 14:30 (2x), 31; 15:14; 
 19:20, 27 (2nd);
 2 Kgs 5:26; 10:5; 
@@ -135,7 +137,9 @@ In the following cases, LXX<sup><small>Ant</small></sup> reads a form of δου�
 10:7; 12:8; 24:9; 34:16. 
 
 <b>A.3</b> 
-LXX<sup><small>Ant</small></sup> also replaced the following older renderings by a form of δοῦλος: παιδαρίων in
+LXX<sup><small>Ant</small></sup> reads a form of δοῦλος
+instead of the following words in LXX<sup><small>B</small></sup>:
+παιδαρίων in
 1 Sam 21:8; δουλείας in
 1 Kgs 5:20 (LXX<sup><small>Ant</small></sup> 5:9).
 
@@ -144,27 +148,29 @@ LXX<sup><small>Ant</small></sup> also replaced the following older renderings by
 In the following cases, LXX<sup><small>Ant</small></sup> reads a form of παῖς instead of a form of δοῦλος:
 2 Sam 11:9, 11, 13; 12:18; 18:29 (1st);
 19:6, 8, 15; 21:22; 
-1 Kgs 1:33 (2 Sam 25:19 in LXX<sup><small>Ant</small></sup>);
+1 Kgs 1:33 (2 Sam 25:33 in LXX<sup><small>Ant</small></sup>);
 2 Kgs 14:5; 21:8, 10.
 
 
 <b>A.5</b> 
-LXX<sup><small>Ant</small></sup> replaced the following expressions including a form of δοῦλος by another translation: οἱ δοῦλοι > οἱ συμπορευόμενοι
-2 Sam 10:19;
-ἐκ τῶν δούλων > κατὰ τὸν λόγον 2 Sam 11:17.
-In 2 Sam 21:15, LXX<sup><small>Ant</small></sup> replaced παῖδες by ἄνδρες.
+LXX<sup><small>Ant</small></sup> has some unusual renderings of forms of 
+<span dir="rtl">עֶבֶד</span>: 
+οἱ συμπορευόμενοι instead of οἱ δοῦλοι in 2 Sam 10:19;
+κατὰ τὸν λόγον instead of ἐκ τῶν δούλων in 2 Sam 11:17;
+ἄνδρες instead of παῖδες in 2 Sam 21:15. The three readings
+including a form of δοῦλος in LXX<sup><small>B</small></sup> can be ascribed to a recension that preferred to represent <span dir="rtl">עֶבֶד</span> by one of the standard translations.
 
 
 <b>A.6</b> 
-There is no rendering of <span dir="rtl">עֶבֶד</span> in the older version of the LXX in
+There is no rendering of <span dir="rtl">עֶבֶד</span> in LXX<sup><small>B</small></sup> in
 1 Sam 17:58; 18:5, 30; 2 Sam 7:26; 1 Chron 17:18 (1st), 19, but in these cases LXX<sup><small>Ant</small></sup> represents <span dir="rtl">עֶבֶד</span> by a form of δοῦλος. 
-In 1 Sam 25:8 there is also no rendering of <span dir="rtl">עֶבֶד</span> in the older version of the LXX, but LXX<sup><small>Ant</small></sup> translates it with a pl. form of παῖς.
+In 1 Sam 25:8 there is also no rendering of <span dir="rtl">עֶבֶד</span> in LXX<sup><small>B</small></sup>, but LXX<sup><small>Ant</small></sup> translates it with a pl. form of παῖς.
 
 
 <b>A.7</b> 
-The older version of the LXX translates <span dir="rtl">עֶבֶד</span> with a form of δοῦλος
+LXX<sup><small>B</small></sup> represents <span dir="rtl">עֶבֶד</span> with a form of δοῦλος
 in 1 Kgs 1:19 and 1 Kgs 8:24, but for these occurrences there is no rendering in LXX<sup><small>Ant</small></sup> (1:19 = 2 Sam 25:19 in LXX<sup><small>Ant</small></sup>). 
-In 2 Kgs 25:24 the older version of the LXX translates <span dir="rtl">עַבְדֵי</span> as πάροδον, but there is no rendering in LXX<sup><small>Ant</small></sup>. 
+In 2 Kgs 25:24 LXX<sup><small>B</small></sup> translates <span dir="rtl">עַבְדֵי</span> as πάροδον, but there is no rendering in LXX<sup><small>Ant</small></sup>. 
 
 
 <b>A.8</b> 
@@ -226,16 +232,18 @@ HOE ELDERS LXX-ANT?
 1 Kgs 14:8, 18 inderdaad omitted in Ant.? Wel doulos in LXX-A (zie Hatch-Redpath s.v. doulos). 
 Daniel Theod (vrij laat) 9:6,10,11,17 pais > doulos
 
-Interesting: 1 Sam 16 alternatively doulos/pais, also in 2S 15:34; 2 Chron 2:7.   
+Interesting: 1 Sam 16 alternatively doulos/pais (zie Kim 395), also in 2S 15:34; 2 Chron 2:7.   
 17:8: Εβραῖοι (ook Ant)-->  
 
 
 <!--CHECK IN HATCH/REDPATH WHETHER `EBED IS TRANSLATED LIKE ABOVE IN PART OF THE MSS OF LXX. ALREADY DONE FOR LEMMAS UNTIL DOULH AND FOR LAOS (SEE A.9, A.10) DOULOS P 346-->
 
 
-<!--dierchomai vaak vertaling van ABAR! Ebraios en parodos ook vertaling ABAR-->
+<!--dierchomai vaak vertaling van OABAR! Ebraios en parodos ook vertaling OBR. Zie Kim 391 n. 4. Volgens Kim 401 n. 37 ook συμπορευόμενοι LXXAnt 2S10:19-->
 
-<!--Deur 32:43 textual criticism-->
+<!--Deur 32:43 textual criticism!-->
+
+<!--Kim 391 n. 4: ἡμιόνους in 1S22:9 based on עַיִר, male donkey, but this Greek word never represents עַיִר. The free translation seems to be influenced by ἡμιόνους 1 Sam 21:8. In both cases LXXAnt = LXXB. 4QSam-a?-->
 
 
 <!--<b>Peshitta (Pesh)</b>[^12] 
@@ -292,8 +300,9 @@ Natalio Fernández Marcos, José Ramón Busto Saiz,
 </div>
 
 
-
 <div style="padding-left: 22px; text-indent: -22px;">
+Kreuzer 2017 <br>
+Siegfried Kreuzer, ‘Septuagint (Samuel)’, <i>THB</i> 1B:349-366. 
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">

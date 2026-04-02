@@ -39,7 +39,8 @@
 גִּלָּיוֹן : mirror : gillayon
 
 ד
-דֶּרֶךְ : road, way : derek
+דֶּרֶךְ : road, way : derekדְּלִי  : bucket : dli
+
 ה
 הֲדֹם : footstool : hadom
 

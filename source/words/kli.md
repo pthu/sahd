@@ -14,7 +14,7 @@ shebanq_id:
 
 ---
 
-##<span id="I">Introduction</span>
+## <span id="I">Introduction</span>
 
 Grammatical type: noun masc.   
 Occurrences:   325x HB (99/140/86); 
@@ -171,7 +171,7 @@ The reading in the mediaeval Ms B is different and does not contain the word <sp
 Pesh, <span dir="rtl">ܡܐܢܐ ܕܬܕܡܘܪܬܐ ܥܒܕܗ ܕܡܪܝܡܐ</span>; Vg, <i>vas admirabile opus Excelsi</i>, ‘a wonderful instrument, the work of the Most High’.
 
 
-##<span id="RCM">1. Root and Comparative Material</span> 
+## <span id="RCM">1. Root and Comparative Material</span> 
 
 <b>A.1</b> <i>Root</i>: It is uncertain from which root the noun <span dir="rtl">כְּלִי</span> should be derived. Various proposals have been made. However, none of them is fully convincing and a consensus has not been reached. Some scholars see a connection with a noun 
 <i>kalītu</i> (Akk.), \*<i>klyt</i> (Ug.), \*<span dir="rtl">כליה</span> (Heb.), ‘kidney’. This feminine noun would derive from the same root as <span dir="rtl">כְּלִי</span>
@@ -236,13 +236,13 @@ The fairly broad attestation of apparently related words in pre-dominantly North
 is an ancient Semitic word. In some South Semitic languages it occurs in late texts only and both here and in New Egyptian (Helck, <i>BÄV</i>, No. 254 <i>versus</i> <i>SWET</i>, No. 472) it may well be a loan word from some North-West Semitic language.
 
 
-##<span id="FC">2. Formal Characteristics</span>
+## <span id="FC">2. Formal Characteristics</span>
 
 <span dir="rtl">כְּלִי</span> (sg. st.abs./cstr.), <span dir="rtl">כֶּלִי</span> (pausal),[^43] <span dir="rtl">כֵּלִים</span> (pl. st.abs.; 3Q15: <span dir="rtl">כלין</span>, in 5:6 <i>plene</i> <span dir="rtl">כאלין</span>[^44]), <span dir="rtl">כְּלֵי</span> 
 (pl. st.cstr.).
 
 
-##<span id="Syn">3. Syntagmatics</span>
+## <span id="Syn">3. Syntagmatics</span>
 
 <b>A.1</b> The noun <span dir="rtl">כְּלִי</span> occurs in over a dozen nominal clauses. In addition to this, the noun is the subject of the following descriptive verbs, which describe the character of the <span dir="rtl">כְּלִי</span>: 
 
@@ -572,7 +572,7 @@ A third group indicates a selection of the utensils:
 * <span dir="rtl">ריק</span>, ‘empty’, 2 Kgs 4:3.
 
 
-##<span id="AV">4. Ancient Versions</span>
+## <span id="AV">4. Ancient Versions</span>
 
 <b>a. Septuagint (LXX) and other Greek versions  (αʹ, σʹ, θʹ)</b>:
 
@@ -862,12 +862,12 @@ In the Latin translation of the expression <span dir="rtl">כְּלֵי כֶסֶ
 The most frequent rendering of <span dir="rtl">כְּלִי</span> is <i>vas</i>, which has about the same semantic field as <span dir="rtl">כְּלִי</span>. Relatively frequent renderings of <span dir="rtl">כְּלִי</span> are <i>arma</i> (20 times, pl. tantum), <i>supellex</i> (9 times) and <i>organum</i> (8 times, only in Chron). If a plural form of <span dir="rtl">כְּלִי</span> is preceded by a part. of the verb <span dir="rtl">נשׂא</span>, ‘to carry’, the sequence of these words is virtually always represented by a form of <i>armiger</i>, ‘armour-bearer’ (21 times). The only exception occurs in Isa 52:11, where the <span dir="rtl">כֵּלִים</span> belong to YHWH and not to humans. Here, the expression <span dir="rtl">נֹשְׂאֵי כְּלֵי יְהוָה</span> is rendered as <i>qui fertis vasa Domini</i>, ‘you that carry the vessels of the Lord’. All the other renderings of <span dir="rtl">כְּלִי</span> occur less than five times.
 
 
-##<span id="LSF">5. Lexical/Semantic Fields</span>
+## <span id="LSF">5. Lexical/Semantic Fields</span>
 
 [Discussion will be added later.]
 
 
-##<span id="Exe">6. Exegesis</span>
+## <span id="Exe">6. Exegesis</span>
 
 <b>A.1</b> The masculine noun <span dir="rtl">כְּלִי</span>
 has a broad spectre of meaning.
@@ -918,7 +918,7 @@ Then the multiplication of the olive oil stops.
 [More discussions will be added later.]
 
 
-##<span id="Con">7. Conclusion</span>
+##  7. Conclusion <span id="Con"></span>
 
 Even though the primary meaning of North-West Semitic <i>kly</i> may have been ‘vessel’, 
 the Hebrew noun <span dir="rtl">כְּלִי</span> developed a much broader semantic spectrum. In the majority of its attestations in the Hebrew Bible this semantic potential slumbers. 
@@ -930,7 +930,7 @@ English ‘thing’, German ‘Zeug’ or colloquial French ‘truc’.
 
 
 <span id="Bibl">
-## Bibliography</span>
+##  Bibliography</span>
 
 For the abbreviations see the 
 <a href="/sahd/store/abbreviations/txt"	>List of Abbreviations</a>.
@@ -1035,7 +1035,7 @@ Mosheh Zvi Segal, <span dir="rtl">ספר בן סירא השלם׃ כולל כל 
 </div>
 
 
-## Notes
+##  Notes
 
 Many thanks are due to Benjamin Bogerd (Protestant Theological University, Utrecht), especially for his analysis of the renderings in the Targumim.
 

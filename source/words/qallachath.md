@@ -9,7 +9,7 @@ first_published: 2011-03-24
 last_update: 2025-11-27     
 update_info:    
 contributors_footnote: The first version of this article was published for the KLY project on March 24, 2011, as Johannes C. de Moor, ‘<span dir="rtl">קַלַּחַת</span> – stewpot’. For the <i>Semantics of Ancient Hebrew Database</i> the article was thoroughly reworked and expanded by his former PhD students Raymond de Hoop and Paul Sanders.  
-additional_info: (WORK IN PROGRESS)  
+additional_info: WORK IN PROGRESS  
 shebanq_id: 1QLXTn
 
 ---
