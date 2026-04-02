@@ -34,7 +34,6 @@ nav:
                 - גִּלָּיוֹן - mirror: words/gillayon.md
             - ד:
                 - דֶּרֶךְ - road, way: words/derek.md
-                - דְּלִי - bucket: words/dli.md
             - ה:
                 - הֲדֹם - footstool: words/hadom.md
             - ו:
@@ -147,7 +146,6 @@ nav:
             - Cloth: semantic_fields/cloth.md
             - Colours: semantic_fields/colours.md
             - Commitment: semantic_fields/commitment.md
-            - Containers: semantic_fields/containers.md
             - Craft: semantic_fields/craft.md
             - Cult: semantic_fields/cult.md
             - Cursing: semantic_fields/cursing.md
@@ -203,7 +201,6 @@ nav:
             - Cees Stavleu: contributors/cees_stavleu.md
             - Chiara Stornaiuolo: contributors/chiara_stornaiuolo.md
             - T. Jonathan Stökl: contributors/t._jonathan_stökl.md
-            - Bas ter Haar Romeney: contributors/bas_ter_haar_romeney.md
             - Michaël N. van der Meer: contributors/michaël_n._van_der_meer.md
             - Jacques T.A.G.M. van Ruiten: contributors/jacques_t.a.g.m._van_ruiten.md
             - Archibald L.H.M. van Wieringen: contributors/archibald_l.h.m._van_wieringen.md
