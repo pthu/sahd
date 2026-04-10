@@ -83,6 +83,7 @@ suff:  Gen 20:17; Deut 12:12; Nah 2:8; Job 19:15; Ezra 2:65; Neh 7:67; 4Q215 fr1
 
 The following survey of Greek renderings of <span dir="rtl">עֶבֶד</span> is based on the main text in Alfred Rahlfs, <i>Septuaginta</i>, 1935, which usually follows the text of LXX<sup><small>B</small></sup>. 
 <!--text Rahlfs from Accordance--> 
+<!--See A.8 and A.10 for Judg 19:19; Neh 5:5; 1 Chron 17:4, where Accordance does not display LXX-B.-->
 
 
 * Αβδησελμα, PN (2x): Ezra 2:55, 58;
@@ -98,7 +99,6 @@ The following survey of Greek renderings of <span dir="rtl">עֶבֶד</span> is
 * δύναμις, ‘power, capacity’, ‘armed military force’ (1x): Est 2:18;
 * Ἑβραῖος, ‘Hebrew’ (1x): 1 Sam 17:8;
 * ἐγώ, ‘I’ (1x): Josh 9:24 (1st);
-* ἐργασία, ‘labour’: Eccl/Qoh 9:1;
 * ἡμίονος, ‘mule’ (1x): 1 Sam 22:9; 
 * θεραπεία, ‘worship service’, ‘a body of attendants’ (1x): Gen 45:16;
 * θεραπεύω, ‘to serve devotedly’ (1x): Isa 54:17;
@@ -120,7 +120,7 @@ The following survey of Greek renderings of <span dir="rtl">עֶבֶד</span> is
 
 
 <b>A.1</b> 
-During the transmission of the LXX, certain Greek renderings of <span dir="rtl">עֶבֶד</span> were replaced by other Greek renderings, as will be shown in the following paragraphs. There are solid reasons to assume that in general LXX<sup><small>Ant</small></sup> is closer to the original Greek translation than the text of LXX<sup><small>B</small></sup>, especially in the Greek translation of 2 Sam 10:1 to 1 Kgs 2:11, and of 2 Kgs 22-25.[^13] The text of the latter two sections in LXX<sup><small>B</small></sup> results from a revision of the so-called <i>kaige</i> type (Kreuzer 2017:349-350).
+During the transmission of the LXX, certain Greek renderings of <span dir="rtl">עֶבֶד</span> were replaced by other Greek renderings, as will be shown in the following paragraphs. There are solid reasons to assume that in general LXX<sup><small>Ant</small></sup> is closer to the original Greek translation than the text of LXX<sup><small>B</small></sup>, especially in the Greek translation of 2 Sam 10:1 to 1 Kgs 2:11, and of 1 Kgs 22 to 2 Kgs 25.[^13] The text of the latter two sections in LXX<sup><small>B</small></sup> results from a revision of the so-called <i>kaige</i> type (Kreuzer 2017:349-350).
 
 <b>A.2</b> 
 In the following cases, LXX<sup><small>Ant</small></sup> reads a form of δοῦλος instead of a form of παῖς:
@@ -135,6 +135,7 @@ In the following cases, LXX<sup><small>Ant</small></sup> reads a form of δου�
 2 Chron 6:14, 17, 19 (2x), 20, 21, 27; 
 8:9, 18 (1st);
 10:7; 12:8; 24:9; 34:16. 
+<!--CHECK THB 1C CHRON-->
 
 <b>A.3</b> 
 LXX<sup><small>Ant</small></sup> reads a form of δοῦλος
@@ -258,9 +259,9 @@ Interesting: 1 Sam 16 alternatively doulos/pais (zie Kim 395), also in 2S 15:34;
 
 <b>Vulgate (Vg)</b> 
 
-* <i>ancilla</i>, ‘’:
-* <i>famula</i>, ‘’:
-
+* <i>servus</i>, ‘’: usually
+* <i>puer</i>, ‘’: Gen 19:2   (in Ps older version also becauso of pais)
+Differently: Gen 14:15; Josh 9:23 and more.
 
 
 ## 5. Lexical/Semantic Fields
