@@ -8,11 +8,9 @@ contributors:  bas_ter_haar_romeny, raymond_de_hoop
 first_published: 2026-03-31  
 last_update:    
 update_info:     
-contributors_footnote: This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY-project. For the publication in <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.   
-Next to the link to Shebanq above (offering 9 hits) the following links should be consulted: 
+contributors_footnote: This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY-project. For the publication in <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop. Next to the link to Shebanq above (offering 9 hits) the following links should be consulted: 
 https://shebanq.ancient-data.org/hebrew/word?id=1GLGLin&mr=r&qw=w, https://shebanq.ancient-data.org/hebrew/word?id=1GLGLiin&mr=r&qw=w, and 
-https://shebanq.ancient-data.org/hebrew/word?id=2GLGLn&mr=r&qw=w (BiblAram).
-        
+https://shebanq.ancient-data.org/hebrew/word?id=2GLGLn&mr=r&qw=w (BiblAram).          
 additional_info: WORK IN PROGRESS  
 shebanq_id: 1GLGLn   
 
