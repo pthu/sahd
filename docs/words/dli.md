@@ -9,8 +9,8 @@
 
 Semantic Fields:
 [Containers](../semantic_fields/containers.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[Bas ter Haar Romeney](../contributors/bas_ter_haar_romeney.md)<br>
-First published: 2026-03-11<br>Citation: Bas ter Haar Romeney, דְּלִי  – bucket, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
+[Bas ter Haar Romeny](../contributors/bas_ter_haar_romeny.md),&nbsp;[Raymond de Hoop](../contributors/raymond_de_hoop.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
+First published: 2026-05-11<br>Citation: Bas ter Haar Romeny,&nbsp;Raymond de Hoop, דְּלִי  – bucket, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
 WORK IN PROGRESS
 
 
@@ -520,3 +520,4 @@ Michael P. Weitzman, <i>The Syriac Version of the Old Testament: An Introduction
 [^54]: Levine 2000:197.
 [^55]: Burrows 1938:72.
 [^56]: See already Ephrem  the Syrian, <i>Commentary on Genesis</i> 42.2, ed. Tonneau   [CSCO 152], 111.
+<p id="contributors_footnote">This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY-project. For the publication in  <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.</p>

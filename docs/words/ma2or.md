@@ -1075,4 +1075,4 @@ The first version of this article was published  March 24th, 2011 as Cornelis Ho
 [^139]: Also   published in <i>ANEP</i>, 143, # 411.
 [^140]: A similar stela is published   in <i>ANEP</i>, 142, # 408.
 
-<p id="contributors_footnote">The first version of this article was published  March 24th, 2011 as Cornelis Houtman, ‘<span dir="rtl">מָאוֹר</span>, luminary, lightbearer’. For the publication in the  <i>Semantics of Ancient Hebrew Database</i>   the article was thoroughly reworked and expanded by Raymond de Hoop. Thanks are due to Mrs Alice Deken (Amsterdam), who was so kind as to correct the English of this paper.</p>
+<p id="contributors_footnote">The first version of this article was published  March 24th, 2011 as Cornelis Houtman, ‘<span dir="rtl">מָאוֹר</span>, luminary, lightbearer’. For the publication in <i>Semantics of Ancient Hebrew Database</i> the article was thoroughly reworked and expanded by Raymond de Hoop. Thanks are due to Mrs Alice Deken (Amsterdam), who was so kind as to correct the English of this paper.</p>

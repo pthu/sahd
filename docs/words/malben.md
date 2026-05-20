@@ -9,8 +9,8 @@
 
 Semantic Fields:
 [Tools](../semantic_fields/tools.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
-[Bas ter Haar Romeney](../contributors/bas_ter_haar_romeney.md)<br>
-First published: 2026-03-31<br>Citation: Bas ter Haar Romeney, מַלְבֵּן  – brick-mould, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
+[Bas ter Haar Romeny](../contributors/bas_ter_haar_romeny.md),&nbsp;[Raymond de Hoop](../contributors/raymond_de_hoop.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
+First published: 2026-03-31<br>Citation: Bas ter Haar Romeny,&nbsp;Raymond de Hoop, מַלְבֵּן  – brick-mould, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
 WORK IN PROGRESS
 
 
@@ -377,3 +377,4 @@ Rudolf Meyer, <i>Hebräische Grammatik, II: Formenlehre, Flexionstabellen</i>, 
 [^39]: Cf. Driver 1937-38:122.
 [^40]: Hoffmann 1882:53;   Mallon 1921:136-37;   Flinders Petrie 1938:3-4;   Dalman, <i>AuS</i>, Bd. 7, 18.
 [^41]: Cf. Mallon 1921:137, fig. 36;   Flinders Petrie 1938: pl. 1, fig. 3 (with description on p. 4).
+<p id="contributors_footnote">This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY-project. For the publication in <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.</p>

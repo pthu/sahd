@@ -11,4 +11,4 @@ Raymond (1958) is an independent scholar, working as editor and webmaster for th
 
 
 ### Contributions
-[בֶּקַע – half a shekel](../words/beqa3.md)<br>[מָאוֹר – light](../words/ma2or.md)<br>[קַלַּחַת – stewpot](../words/qallachath.md)<br>
+[בֶּקַע – half a shekel](../words/beqa3.md)<br>[גַּלְגַּל – wheel, well-wheel](../words/galgal.md)<br>[דְּלִי – bucket](../words/dli.md)<br>[מַלְבֵּן – brick-mould](../words/malben.md)<br>[מָאוֹר – light](../words/ma2or.md)<br>[קַלַּחַת – stewpot](../words/qallachath.md)<br>[רַהַט – drinking-trough](../words/rahat.md)<br>[שֹׁ֫קֶת – drinking-trough](../words/shoqeth.md)<br>

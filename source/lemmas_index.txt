@@ -97,7 +97,7 @@
 מַקֵּל : branch, staff : maqqel
 
 מַרְאָה : vision, mirror : mar2ah
-מֶשֶׁךְ : bag : meshed_1
+מֶשֶׁךְ : bag : meshek_1
 
 מִשְׁפְּתַיִם/שְׁפַתַּיִם : sack : mishpthayim 
 נ

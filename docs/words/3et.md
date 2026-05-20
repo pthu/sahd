@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1OVn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># עֵט <i> ‘ēṭ </i> – stylus, graver
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1OVn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># עֵט <i>ʿēṭ</i> – stylus, graver
 
 Semantic Fields:
 [Writing](../semantic_fields/writing.md)&nbsp;&nbsp;&nbsp;[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Konrad D. Jenner](../contributors/konrad_d._jenner.md),&nbsp;[Geert Jan Veldman](../contributors/geert_jan_veldman.md)<br>
-First published: 2025-03-07<br>Citation: Konrad D. Jenner,&nbsp;Geert Jan Veldman, עֵט <i> ‘ēṭ </i> – stylus, graver, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2025
+First published: 2025-03-07<br>Citation: Konrad D. Jenner,&nbsp;Geert Jan Veldman, עֵט <i>ʿēṭ</i> – stylus, graver, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2025
 (WORK IN PROGRESS)
 
 

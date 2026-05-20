@@ -10,10 +10,13 @@ nav:
             - א:
                 - אדם - to be red: words/2-d-m.md
                 - אָדֹם - red: words/2adom.md
+                - אֲדַמְדָּם - bright red: words/2adamdam.md
+                - אַדְמוֹנִי - reddish-brown: words/2admoni.md
                 - אוּרִים וְתֻמִּים - Urim Thummim: words/2urim_wthummim.md
                 - אָזֵן - equipment: words/2azen.md
                 - אַח - brazier: words/2ach.md
                 - אָמָה - female servant: words/2amah.md
+                - אָמֹץ - reddish-white: words/2amots.md
                 - אַמְתַּחַת - sack: words/2amthachath.md
                 - אַרְגְּוָן - bright purple: words/2argwan.md
                 - אַרְגַּז - box: words/2argaz.md
@@ -23,6 +26,7 @@ nav:
                 - בַּד - pole: words/bad_2.md
                 - בֶּקַע - beka: words/beqa3.md
                 - בָּרָד - hail: words/barad.md
+                - בָּרֹד - speckled: words/barod.md
                 - בְּרִית - covenant: words/brith.md
                 - ברך - to bless: words/b-r-k_2.md
                 - בְּרָכָה - blessing: words/brakah.md
@@ -44,29 +48,43 @@ nav:
                 - זִיק - fiery missile: words/ziq.md
             - ח:
                 - חוּם - dark brown: words/chum.md
+                - חוּר - white: words/chur_1.md
+                - חור - to be white: words/ch-w-r_1.md
+                - חוֹרַי - white fabric: words/choray.md
                 - חוֹתָם - seal: words/chotam.md
                 - חֹזֶה - (court) diviner: words/chozeh.md
+                - חַכְלִילִי - dark: words/chaklili.md
+                - חַכְלִלוּת - dullness: words/chakliluth.md
+                - חמר - to foam ?: words/ch-m-r_3.md
                 - חֶסֶד - faithfulness: words/chesed.md
                 - חֶרֶט - burin: words/cheret.md
-                - חַשְׁמַן - amethyst(?): words/chashman.md
+                - חֹרִי - white: words/chori_1.md
+                - חַשְׁמַן - amethyst ?: words/chashman.md
             - ט:
                 - טַבַּעַת - ring: words/tabba3at.md
                 - טוה - to spin, twist: words/t-w-h.md
+                - טלא - to be spotted ?: words/t-l-2.md
             - י:
                 - יָקוּד - glowing fire: words/yaqud.md
+                - יָרוֹק - green(s): words/yaroq.md
+                - יְרַקְרַק - green, yellow: words/yraqraq.md
                 - יְשׁוּעָה - protection: words/yshu3ah.md
                 - ישׁע - to save, help: words/y-sh-3.md
                 - יֵשַׁע - safety: words/yesha3.md
             - כ:
                 - כִּבְשָׁן - kiln: words/kibshan.md
                 - כִּיר - cooking-stove: words/kir.md
+                - כחל - to paint: words/k-ch-l.md
+                - כָּחֹל - dark ?: words/kachol.md
                 - כְּלִי - vessel: words/kli.md
                 - כִּסֵּא - throne: words/kisse2.md
                 - כַּר - saddle: words/kar_1.md
                 - כְּרוּב - cherub: words/krub.md
                 - כַּרְמִיל - bright, rich red: words/karmil.md
             - ל:
+                - לבן - to be white: words/l-b-n_1.md
                 - לָבָן - white: words/laban.md
+                - לֹבֶן - whiteness: words/loben.md
                 - לוּחַ - board: words/luach.md
                 - לַפִּּיד - cresset, torch: words/lappid.md
             - מ:
@@ -74,7 +92,7 @@ nav:
                 - מְגִלָּה - scroll: words/mgillah.md
                 - מוֹט - pole: words/mot.md
                 - מוֹשָׁעָה - deliverance: words/mosha3ah.md
-                - מְזַמֶּרֶת - trimming knife (?): words/mzammereth.md
+                - מְזַמֶּרֶת - trimming knife ?: words/mzammereth.md
                 - מַחֲבַת - griddle: words/machabath.md
                 - מְחוּגָה - callipers: words/mchugah.md
                 - מַחֲרֵשָׁה/מַחֲרֶשֶׁת - plough: words/machareshah.md
@@ -86,12 +104,13 @@ nav:
                 - מַפְתֵּחַ - key: words/maptheach.md
                 - מַקֵּל - branch, staff: words/maqqel.md
                 - מַרְאָה - vision, mirror: words/mar2ah.md
-                - מֶשֶׁךְ - bag: words/meshek_1.md
+                - מֶשֶׁךְ - bag: words/meshed_1.md
                 - מִשְׁפְּתַיִם/שְׁפַתַּיִם - sack: words/mishpthayim.md
             - נ:
                 - נָבִיא/נְבִיאָה - prophet(ess): words/nabi2.md
                 - נחם - to comfort: words/n-ch-m.md
                 - נִיר - lamp: words/nir_1.md
+                - נָקֹד - speckled: words/naqod.md
                 - נֵר - lamp: words/ner_1.md
                 - נִשְׁתְּוָן - official letter: words/nishthwan.md
             - ס:
@@ -104,7 +123,9 @@ nav:
                 - עֶזְרָה - help: words/3ezrah.md
                 - עֵט - stylus: words/3et.md
                 - עֲטָרָה - wreath, crown: words/3atarah.md
+                - עָקֹד - mottled: words/3aqod.md
             - פ:
+                - פָּארוּר - blush ?: words/pa2rur.md
                 - פדה - to liberate: words/p-d-h.md
                 - פְּדוּיִם - redemption price: words/pduyim.md
                 - פְּדוּת - redemption-action: words/pduth.md
@@ -116,11 +137,20 @@ nav:
                 - פֶּרֶק - plunder: words/pereq.md
                 - פִּשְׁתָּה - wick: words/pishthah.md
             - צ:
+                - צהב - to gleam: words/ts-h-b.md
+                - צָהֹב - yellow: words/tsahob.md
+                - צַח - clear: words/tsach.md
+                - צחח - to dazzle: words/ts-ch-ch.md
+                - צַחַר - white ?: words/tsachar.md
+                - צָחֹר - light grey: words/tsachor.md
                 - צלה - to roast: words/ts-l-h.md
                 - צִפֹּרֶן - nail: words/tsipporen.md
                 - צְרוֹר - pouch: words/tsror_1.md
             - ק:
                 - קבב - to curse: words/q-b-b.md
+                - קדר - to be dark: words/q-d-r.md
+                - קַדְרוּת - darkness: words/qadruth.md
+                - קְדֹרַנִּית - darkly: words/qdorannith.md
                 - קַלַּחַת - stewpot: words/qallachath.md
                 - קֶסֶת - inkpot(?): words/qeseth.md
             - ר:
@@ -129,9 +159,16 @@ nav:
                 - רַהַט - drinking-trough: words/rahat.md
             - שׂ:
                 - שֶׂרֶד - scriber: words/cered.md
+                - שׂרק - to shine: words/c-r-q_2.md
+                - שָׂרֹק - reddish: words/caroq.md
             - שׁ:
                 - שׁוֹעַ - great man: words/shoa3.md
                 - שׁוּעַ - cry for help: words/shua3.md
+                - שְׁחוֹר - soot: words/shchor.md
+                - שׁחר - to grow black: words/sh-ch-r_1.md
+                - שָׁחֹר - black: words/shachor.md
+                - שַׁחֲרוּת - black hair: words/shacharuth.md
+                - שְׁחַרְחֹר - swarthy: words/shcharchor.md
                 - שֶׁלֶג - snow: words/sheleg.md
                 - שָׁנִי - bright red dye: words/shani_1.md
                 - שִׁפְחָה - maidservant: words/shipchah.md
@@ -159,6 +196,7 @@ nav:
             - Deliverance: semantic_fields/deliverance.md
             - Divination: semantic_fields/divination.md
             - Food Preparation: semantic_fields/food preparation.md
+            - Food Preparation: semantic_fields/food_preparation.md
             - Gemstones: semantic_fields/gemstones.md
             - Headdress: semantic_fields/headdress.md
             - Honour: semantic_fields/honour.md
@@ -172,6 +210,7 @@ nav:
             - Supernatural Beings: semantic_fields/supernatural beings.md
             - Textile Production: semantic_fields/textile production.md
             - Tools: semantic_fields/tools.md
+            - Toponyms: semantic_fields/toponyms.md
             - Transport: semantic_fields/transport.md
             - Tribute: semantic_fields/tribute.md
             - Utensils: semantic_fields/utensils.md
@@ -211,7 +250,7 @@ nav:
             - Cees Stavleu: contributors/cees_stavleu.md
             - Chiara Stornaiuolo: contributors/chiara_stornaiuolo.md
             - T. Jonathan Stökl: contributors/t._jonathan_stökl.md
-            - Bas ter Haar Romeney: contributors/bas_ter_haar_romeney.md
+            - Bas ter Haar Romeny: contributors/bas_ter_haar_romeny.md
             - Michaël N. van der Meer: contributors/michaël_n._van_der_meer.md
             - Jacques T.A.G.M. van Ruiten: contributors/jacques_t.a.g.m._van_ruiten.md
             - Archibald L.H.M. van Wieringen: contributors/archibald_l.h.m._van_wieringen.md

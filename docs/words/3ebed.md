@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1OBDiin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># עֶבֶד <i>‘èbed</i> – servant, slave
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1OBDiin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># עֶבֶד <i>ʿèbed</i> – servant, slave
 
 Semantic Fields:
 [Servitude](../semantic_fields/servitude.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Haposan Cornelius Sinaga](../contributors/haposan_cornelius_sinaga.md)<br>
-First published: 2026-01-06<br>Citation: Haposan Cornelius Sinaga, עֶבֶד <i>‘èbed</i> – servant, slave, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
+First published: 2026-01-06<br>Citation: Haposan Cornelius Sinaga, עֶבֶד <i>ʿèbed</i> – servant, slave, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
 (WORK IN PROGRESS)
 
 

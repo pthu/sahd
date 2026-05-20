@@ -8,10 +8,10 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1QLXTn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># קַלַּחַת <i>qallàḥat</i> – stewpot
 
 Semantic Fields:
-[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Food Preparation](../semantic_fields/food preparation.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Food Preparation](../semantic_fields/food_preparation.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Johannes C. de Moor](../contributors/johannes_c._de_moor.md),&nbsp;[Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
 First published: 2011-03-24<br>Last update: 2025-11-27 <br>Citation: Johannes C. de Moor,&nbsp;Raymond de Hoop,&nbsp;Paul Sanders, קַלַּחַת <i>qallàḥat</i> – stewpot, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2025)
-WORK IN PROGRESS
+(WORK IN PROGRESS)
 
 
 <span id="I"></span>
@@ -77,7 +77,8 @@ However, because MT’s reading of <span dir="rtl">קַּלַּחַת</span> its
 [^0]: The translations of the Greek are based on <i>GELS</i>.
 [^1]: LXX<sup><small>Ant</small></sup>: εἰς τὸν λέβητα τὸν μέγαν ἢ εἰς τὴν χύθραν ἢ εἰς τὸ χαλκεῖον (Fernández Marcos & Busto Saiz 1989:8).
 [^2]: LXX<sup><small>A</small></sup>: εἰς τὸν λουτῆρα ἢ εἰς τὸν ἢ εἰς τὸν λέβητα τὸν μέγαν ἢ εἰς τὴν χύθραν ἢ εἰς τὸν χαλκὸν. The repetition of ἢ εἰς τὸν after τὸν λουτῆρα is erroneous and does not occur in ms c<sub><small>2</small></sub> (127), which just like LXX<sup><small>A</small></sup> does have the phrase εἰς τὸν λουτῆρα ἢ before εἰς τὸν λέβητα; see Brooke & McLean 1927:7 and Fernández Marcos & Busto Saiz 1989:8. For references to some less important additional variants in other Greek mss, see the same literature.  
-[^3]: Cf. HRCS<sup><small>2</small></sup>, 863c; Hutzli 2010: ; see also Parry 2006:93; Trebolle 2010:275–76.
+[^3]: Cf. HRCS<sup><small>2</small></sup>, 863c; see also Parry 2006:93; Trebolle 2010:275–76.
+<!--Hutzli 2010-->
 [^4]: See <i>GHTIS</i>, 74, giving three occurrences for <span dir="rtl">דּוּד</span>, and five for <span dir="rtl">סִיר</span>, whereas HRCS<sup><small>2</small></sup>, 863c lists 21 occurrences; cf. also Hützli 2010:217, n. 14. 
 [^5]: See DJD XVII, 42; Trebolle 2010; see especially Parry 2006, esp. 84–85.
 [^6]: See DJD XVII, 42; Parry 2006:87; Trebolle 2010:276.
@@ -92,6 +93,8 @@ NOONAN!
 <b>A.1</b> <i>Egyptian</i>: Thomas Lambdin and Maximilian Ellenbogen 	regard <span dir="rtl">קַלַּחַת</span> as a loan from Egyptian <i>qrḥt</i>, ‘earthen pot’ 
 (<i>WÄS</i>, Bd. 5, 62-3; Hannig, 864).<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> 
 James Hoch (<i>SWET</i>, 331-32), however, is of the opinion that Egyptian <i>krḥt</i>, a type of basket for grapes or flowers, as well as Coptic <i>calaht</i>, a pot (Crum, <i>CD</i> 813-14), are loans from the Canaanite word <i>qlḥt</i>. Hoch’s suggestion is unlikely, however, and the Coptic word is better derived from Egyptian <i>qrḥt</i>. The latter is a rather general term for earthen-ware (Vachala 1992:109–11), but the vessel could also be made of metals like silver, gold, or bronze. The Coptic word denotes a blackened cooking pot and serves as a rendering of κύθρα/χύτρα in 1 Sam 2:14 and Mic 3:3. An Egyptian goddess bearing the name <i>qrḥt</i> is attested, but it is unclear whether she had anything to do with the vessel.
+
+<!--Zie Tsumura p. 153 (scan)-->
 
 [^9]: Lambdin 1953: 154; <i>FWOT</i>, 149; see also <i>HAL</i>, 1030; <i>HALOT</i> 1102.
 
@@ -111,10 +114,13 @@ preceding two entries have to do with the hand-mill and the following entry is <
 
 [^10]: De Moor 1970a:225; De Moor 1970b:317; for parallels, cf. Haas 1994:520-38. 
 
-<b>A.4</b> Rabbinic Hebrew</i>: The occurrences of the word <span dir="rtl">קלחת</span> in bBer., 56b; bSanh., 110b; Num. R., XVIII.2 are all derived from  Mic 3:3 and 
-do not help to elucidate the meaning of the word in Classical Hebrew. 
-bB.Bat., 74a, however, compares the heat to which the 
-<span dir="rtl">קלחת</span> is exposed to the fire of hell and seems to indicate that the meat was turned over and over in it (<span dir="rtl">הדר</span>) while searing. 
+<b>A.4</b> <i>Rabbinic Hebrew</i>: bBerakhot 56b contains a quotation of Mic 3:3b, but the context does not cast light on the character of <span dir="rtl">קַּלַּחַת</span>.
+The other occurrences of <span dir="rtl">קַּלַּחַת</span> are also derived from Mic 3:3: <span dir="rtl">כְּבָשָׂר בְּתוֹךְ קַלָּחַת</span> in bSanhedrin 110b;
+<span dir="rtl">כְּבָשָׂר בְּקַלָּחַת</span> in bBava Batra 74a. <br>
+Num. R., XVIII.2 also derives from  Mic 3:3 and 
+does not help to elucidate the meaning of the word in Classical Hebrew. 
+bBat/bSanh, however, compares the heat to which the 
+<span dir="rtl">קלחת</span> is exposed to the fire of hell and seems to indicate that the meat was turned over and over in it (<span dir="rtl">הדר</span>) while searing.
 
 ## 2. Formal Characteristic
 
@@ -212,7 +218,7 @@ The noun <span dir="rtl">סִיר</span> occurs also in 1 Sam 2:14 in
 
 ## 6. Exegesis 
 
-<b>A.1</b> All the renderings of the word <span dir="rtl">קַלַּחַת</span> in lexica and more specific word studies are rather general. James Kelso (<i>CVOT</i>, 31, #76) shortly states that ‘the vessel is used for cooking a meat stew’, whereas Alexander Honeyman (1939:90) concludes that existing evidence is insufficient ‘to fix this cooking-vessel more nearly’. The word is rendered as ‘caldron’ (BDB, 886; <i>KBL</i> 839), ‘cauldron, pot [for cooking]’ (<i>DCH</i> vii:255; similarly <i>HALOT</i>, 1102); ‘<i>olla</i>, <i>lebes</i> carni coquenda’ (Gesenius, <i>TPC</i>, 1216); ‘Topf, Kessel’ (<i>GB</i>, 714; <i>KBL</i> 839; <i>HALAT</i>, 1030); ‘Kessel, Schüssel’ (<i>HCHAT</i>, 2:316); ‘Pfanne uä’ (<i>HAWAT</i>, 409); and as ‘puchero, olla’ (<i>DBHE</i>, 636; similarly <i>LHA</i>, 724).
+<b>A.1</b> All the renderings of the word <span dir="rtl">קַלַּחַת</span> in lexica and more specific word studies are rather general. James Kelso (<i>CVOT</i>, 31 no. 76) shortly states that ‘the vessel is used for cooking a meat stew’, whereas Alexander Honeyman (1939:90) concludes that existing evidence is insufficient ‘to fix this cooking-vessel more nearly’. The word is rendered as ‘caldron’ (BDB, 886; <i>KBL</i> 839), ‘cauldron, pot [for cooking]’ (<i>DCH</i> vii:255; similarly <i>HALOT</i>, 1102); ‘<i>olla</i>, <i>lebes</i> carni coquenda’ (Gesenius, <i>TPC</i>, 1216); ‘Topf, Kessel’ (<i>GB</i>, 714; <i>KBL</i> 839; <i>HALAT</i>, 1030); ‘Kessel, Schüssel’ (<i>HCHAT</i>, 2:316); ‘Pfanne uä’ (<i>HAWAT</i>, 409); and as ‘puchero, olla’ (<i>DBHE</i>, 636; similarly <i>LHA</i>, 724).
 
 
 ### 6.1 Literal Use
@@ -259,8 +265,8 @@ See further the following illustration from a bread baking scene in Ancient Egyp
 ![bread](../images/photos/bread.jpg)   
 Scene from production of bread<sup id="fnref:42"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:42')">42</a></sup>
 
-[^39]: See <i>CVOT</i>, 27 \# 63, with 48 fig. 16 for <span dir="rtl">סִיר</span>; 18 \# 39, with 48 fig. 17 for <span dir="rtl">דּוּד</span>; 29 \# 68, with 48 fig. 19 for <span dir="rtl">פָּרוּר</span> (similarly in <i>BHH</i> 3:2006–07).
-[^40]: According to <i>CVOT</i>, 31 \# 76 <span dir="rtl">קַּלַּחַת</span>’ is a cooking-pot but there is no further clue as to which specific member of the cooking-pot family is so designated’; similarly <i>BHH</i> 3:2007.  
+[^39]: See <i>CVOT</i>, 27 no. 63, with 48 fig. 16, for <span dir="rtl">סִיר</span>; 18 no. 39, with 48 fig. 17, for <span dir="rtl">דּוּד</span>; 29 no. 68, with 48 fig. 19, for <span dir="rtl">פָּרוּר</span> (similarly in <i>BHH</i> 3:2006–07).
+[^40]: According to <i>CVOT</i>, 31 no. 76, <span dir="rtl">קַּלַּחַת</span> ‘is a cooking-pot but there is no further clue as to which specific member of the cooking-pot family is so designated’; similarly <i>BHH</i> 3:2007.  
 [^41]: Cf., e.g., Honeyman 1939, plates 18–20; <i>CVOT</i>, 47–48; <i>ANEP</i>, 44–45 \## 147–48; <i>BRL</i>, 168–85).  
 [^42]: Description: One man makes cake paste, another one monitors the baking of bread molds. Limestone (2500-2350 BC) 5th dynasty. Paris, Musee Du Louvre.
 
@@ -359,6 +365,7 @@ Leiden: Brill.
 Hutzli 2010 <br>
 Jürg Hutzli, ‘Theologische Textänderungen im Massoretischen Text und in der Septuaginta von 1–2 Sam’, in Hugo and Schenker 2010:213–36.
 </div>
+<!--Hutzli waarschijnlijk helemaal weglaten-->
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Lambdin 1953 <br>
