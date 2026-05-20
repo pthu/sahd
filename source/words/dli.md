@@ -3,11 +3,11 @@ word_english: bucket
 word_hebrew: דְּלִי   
 title:      
 semantic_fields: containers  
-contributors: bas_ter_haar_romeney, raymond_de_hoop  
-first_published: 2026-03-11  
+contributors: bas_ter_haar_romeny, raymond_de_hoop   
+first_published: 2026-05-11  
 last_update:  
 update_info:  
-contributors_footnote:  
+contributors_footnote: This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY-project. For the publication in  <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.     
 additional_info: WORK IN PROGRESS  
 shebanq_id: 1DLJn   
 
@@ -217,35 +217,20 @@ Num 24:7<small><sup>O,N</sup></small>;
 * <span dir="rtl">דול</span>, ‘bucket’:[^42] 
 Num 24:7<small><sup>SmrJ</sup></small>; Isa 40:15<small><sup>J</sup></small>.
 
-
-<b>A.1</b> 
-<span dir="rtl">בר</span> in Tg<small><sup>O</sup></small> of Num 24:7 is an interpretative rendering: ‘The king who will be appointed from (among) his sons (<span dir="rtl">מבנוהי</span>) will be great’.
-The reading of Tg<small><sup>N</sup></small> <span dir="rtl">מן ביניהון</span>, ‘from among them’, is in all probability 
-a secondary development from a reading ‘from his sons’. 
-Tg<small><sup>PsJ</sup></small> expands <span dir="rtl">דְּלִי</span> and the rendering of the first three words of Num 24:7 (<span dir="rtl">יִזַּל־מַיִם מִדָּלְיָו</span>) is 
-<span dir="rtl">יקום מנהון מלכהון ופרוקהון מנהון ובהון יהוי</span>, 
-‘from them their king shall arise and their redeemer be of them and among them’. 
-
-
-
-
-
 <b>d. Vulgate (Vg):</b>  
-
 
 * <i>situla</i>,  ‘bucket for drawing water’:[^43] Num 24:7; Isa 40:15.
 
 <b>A.1</b> The renderings of <span dir="rtl">דְּלִי</span> in Num 24:7 by LXX, Pesh and Tg<small><sup>O,N</sup></small> are interpretative.
 LXX has σπέρμα: ‘A person will come out of his seed/ offspring’, i.e., he will come true, be accomplished in it.[^37] Pesh’s rendering <span dir="rtl">ܒܪ</span>
 is also interpretative: ‘A man will come out of his sons 
-<span dir="rtl">[ܡܢ ܒܢ̈ܘܗܝ]</span>’, i.e., he will come true, be accomplished in them.
-
-
-
-
-
-
-Note: The renderings of Num 24:7 in LXX, Pesh, and Tg<small><sup>O</sup></small> seem to be based on a comparable exegetical tradition.[^44]
+<span dir="rtl">[ܡܢ ܒܢ̈ܘܗܝ]</span>’, i.e., he will come true, be accomplished in them. Similarly, 
+<span dir="rtl">בר</span> in Tg<small><sup>O</sup></small> of Num 24:7 is an interpretative rendering: ‘The king who will be appointed from (among) his sons (<span dir="rtl">מבנוהי</span>) will be great’.
+The reading of Tg<small><sup>N</sup></small> <span dir="rtl">מן ביניהון</span>, ‘from among them’, is in all probability a secondary development from a reading ‘from his sons’. 
+Tg<small><sup>PsJ</sup></small> expands <span dir="rtl">דְּלִי</span> and the rendering of the first three words of Num 24:7 (<span dir="rtl">יִזַּל־מַיִם מִדָּלְיָו</span>) is 
+<span dir="rtl">יקום מנהון מלכהון ופרוקהון מנהון ובהון יהוי</span>, 
+‘from them their king shall arise and their redeemer be of them and among them’.   
+The renderings of Num 24:7 in LXX, Pesh, and Tg<small><sup>O</sup></small> seem to be based on a comparable exegetical tradition.[^44]
 It is possible that at least Tg<small><sup>O</sup></small> and Pesh have connected <span dir="rtl">דלי</span> with <span dir="rtl">דלית</span>, ‘branch’, as  σ´ did, though this is not strictly necessary. 
 
 
@@ -488,7 +473,7 @@ Michael P. Weitzman, <i>The Syriac Version of the Old Testament: An Introduction
 [^8]: <i>ATTM</i>,  333.
 [^9]: Kotansky 1991:279.
 [^10]: Schulthess 1903:43, 46: ‘situla’.
-[^11]: <i>WTM</i>,  1,   383: ‘<i>Schöpfgefäss</i>,  <i>Schöpfeimer</i>;   <i>Graben, woraus man das Wasser schöpft</i>; <i>die Berieselung</i>,    <i>das Schöpfen</i>’; cf. Jastrow, <i>DTT</i>,  283f., and <a href="#RCM">1</a>.
+[^11]: <i>WTM</i>,  vol. 1,   383: ‘<i>Schöpfgefäss</i>,  <i>Schöpfeimer</i>;   <i>Graben, woraus man das Wasser schöpft</i>; <i>die Berieselung</i>,    <i>das Schöpfen</i>’; cf. Jastrow, <i>DTT</i>,  283f., and <a href="#RCM">1</a>.
 [^12]: Sokoloff, <i>SLB</i>,  282: ‘water bucket’, ‘Aquarius, name of a constellation’;  Payne Smith, <i>TS</i>,  904: (‘<i>situla</i>,    <i>urna</i> ad aquam hauriendam; <i>Aquarius</i> e signis Zodiaci’.
 [^13]: Drower and Macuch, 98f.: ‘pitcher for drawing water, water-vessel, water-pot, bucket, pail; (as a sign of the Zodiac) Water-carrier, Aquarius’.
 [^14]: <i>ATTM</i>,  333.
@@ -498,7 +483,7 @@ Michael P. Weitzman, <i>The Syriac Version of the Old Testament: An Introduction
 [^18]: Thus also <i>WTM</i>,  vol. 1, 408).
 [^19]: Ed. Hyman-Shiloni, <span dir="rtl">שמות</span>,   2,  789.
 [^20]: Ed. Hyman-Shiloni, <span dir="rtl">נביאים ראשונים</span>, 437.
-[^21]: According to <i>WTM</i>,  1, 383; perhaps rather ‘irrigated land’?
+[^21]: According to <i>WTM</i>,  vol. 1, 383; perhaps rather ‘irrigated land’?
 [^22]: Lane, 909; cf. also Wehr, 336.
 [^23]: <i>HAL</i>,  213; <i>HALOT</i>,  222.
 [^24]: De Moor 1966:69-71.

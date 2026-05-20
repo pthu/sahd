@@ -1,7 +1,7 @@
 ---
 word_english: servant, slave   
 word_hebrew: עֶבֶד  
-transcription: <i>‘èbed</i>  
+transcription: <i>ʿèbed</i>  
 title:    
 semantic_fields: servitude   
 contributors: haposan_cornelius_sinaga 

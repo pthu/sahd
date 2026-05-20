@@ -66,7 +66,7 @@ LXX has the following text in 1 Sam 14:41:
 </div>
 
 <div style="padding-left: 44px; padding-right: 44px; text-indent: 0px;">
-And Saoul said, “O Lord God of Israel, why is it that you have not answered your slave today? If this guilt is in me or in my son Ionathan, O Lord God of Israel, give <i>clear ones</i>, and if this is what you say, ‘In your people Israel,’ give, now, <i>holiness</i>.’’ 
+And Saoul said, “O Lord God of Israel, why is it that you have not answered your slave today? If this guilt is in me or in my son Ionathan, O Lord God of Israel, give <i>clear ones</i>, and if this is what you say, ‘In your people Israel,’ give, now, <i>holiness</i>.” 
 And Ionathan and Saoul were indicated by the lot, and the people were cleared. (NETS)
 </div>
 

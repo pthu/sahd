@@ -1,7 +1,7 @@
 ---
 word_english: stylus, graver  
 word_hebrew: עֵט  
-transcription: <i> ‘ēṭ </i>  
+transcription: <i>ʿēṭ</i>  
 title: stylus, graver  
 semantic_fields: writing, utensils  
 contributors: konrad_d._jenner, geert_jan_veldman  

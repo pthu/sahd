@@ -1,7 +1,7 @@
 ---
 word_english: work, service   
 word_hebrew: עֲבֹדָה  
-transcription: <i>‘<small><sup>a</sup></small>bōdāh</i>  
+transcription: <i>ʿ<small><sup>a</sup></small>bōdāh</i>  
 title: work, service, servitude   
 semantic_fields: servitude   
 contributors: haposan_cornelius_sinaga 

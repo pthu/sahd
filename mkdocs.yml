@@ -30,10 +30,12 @@ nav:
                 - גְּאוּלִים - redemption: words/g2ulim.md
                 - גאל - to redeem: words/g-2-l.md
                 - גְּאֻלָּה - redemption, right of: words/g2ullah.md
+                - גַּלְגַּל - wheel, well-wheel: words/galgal.md
                 - גֻּלָּה - bowl: words/gullah.md
                 - גִּלָּיוֹן - mirror: words/gillayon.md
             - ד:
                 - דֶּרֶךְ - road, way: words/derek.md
+                - דְּלִי - bucket: words/dli.md
             - ה:
                 - הֲדֹם - footstool: words/hadom.md
             - ו:
@@ -77,6 +79,7 @@ nav:
                 - מְחוּגָה - callipers: words/mchugah.md
                 - מַחֲרֵשָׁה/מַחֲרֶשֶׁת - plough: words/machareshah.md
                 - מִכְבָּר - grating: words/mikbar.md
+                - מַלְבֵּן - brick-mould: words/malben.md
                 - מֶלְקָחַיִם - forceps: words/melqachayim.md
                 - מְנוֹרָה - lampstand: words/mnorah.md
                 - מַפְרֶקֶת - neck: words/mapreqeth.md
@@ -123,6 +126,7 @@ nav:
             - ר:
                 - רֹאֶה - seer: words/ro2eh.md
                 - רְאִי - mirror: words/r2i.md
+                - רַהַט - drinking-trough: words/rahat.md
             - שׂ:
                 - שֶׂרֶד - scriber: words/cered.md
             - שׁ:
@@ -131,6 +135,7 @@ nav:
                 - שֶׁלֶג - snow: words/sheleg.md
                 - שָׁנִי - bright red dye: words/shani_1.md
                 - שִׁפְחָה - maidservant: words/shipchah.md
+                - שֹׁ֫קֶת - drinking-trough: words/shoqeth.md
                 - שַׁרְבִיט - sceptre: words/sharbit.md
             - ת:
                 - תְּבוּנָה - understanding: words/thbunah.md
@@ -143,9 +148,11 @@ nav:
             - Benevolence: semantic_fields/benevolence.md
             - Birds: semantic_fields/birds.md
             - Blessing: semantic_fields/blessing.md
+            - Cisterns: semantic_fields/cisterns.md
             - Cloth: semantic_fields/cloth.md
             - Colours: semantic_fields/colours.md
             - Commitment: semantic_fields/commitment.md
+            - Containers: semantic_fields/containers.md
             - Craft: semantic_fields/craft.md
             - Cult: semantic_fields/cult.md
             - Cursing: semantic_fields/cursing.md
@@ -160,15 +167,18 @@ nav:
             - Light: semantic_fields/light.md
             - Metals: semantic_fields/metals.md
             - Morality: semantic_fields/morality.md
+            - Parts: semantic_fields/parts.md
             - Servitude: semantic_fields/servitude.md
             - Supernatural Beings: semantic_fields/supernatural beings.md
             - Textile Production: semantic_fields/textile production.md
+            - Tools: semantic_fields/tools.md
             - Transport: semantic_fields/transport.md
             - Tribute: semantic_fields/tribute.md
             - Utensils: semantic_fields/utensils.md
             - Utensils Or Other: semantic_fields/UTENSILS OR OTHER.md
             - Weather: semantic_fields/weather.md
             - Weight: semantic_fields/weight.md
+            - Wells: semantic_fields/wells.md
             - Writing: semantic_fields/writing.md
     - News: 'store/news.md'
     - Contributors:
@@ -201,6 +211,7 @@ nav:
             - Cees Stavleu: contributors/cees_stavleu.md
             - Chiara Stornaiuolo: contributors/chiara_stornaiuolo.md
             - T. Jonathan Stökl: contributors/t._jonathan_stökl.md
+            - Bas ter Haar Romeney: contributors/bas_ter_haar_romeney.md
             - Michaël N. van der Meer: contributors/michaël_n._van_der_meer.md
             - Jacques T.A.G.M. van Ruiten: contributors/jacques_t.a.g.m._van_ruiten.md
             - Archibald L.H.M. van Wieringen: contributors/archibald_l.h.m._van_wieringen.md

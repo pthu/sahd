@@ -2,7 +2,7 @@
 # Hebrew word : English word : filename
 
 אאדם : to be red : 2-d-m 
-אָדֹם : red : 2adom  
+אָדֹם : red : 2adom  אֲדַמְדָּם : bright red : 2adamdamאַדְמוֹנִי : reddish-brown : 2admoni
 אוּרִים וְתֻמִּים : Urim Thummim : 2urim_wthummim
 
 
@@ -15,19 +15,23 @@
 אָמָה :female servant : 2amah
 
 
+אָמֹץ : reddish-white : 2amots
+
+
 אַמְתַּחַת : sack : 2amthachath
 
 אַרְגְּוָן : bright purple : 2argwan
 
 
 אַרְגַּז : box : 2argaz
-אַרְגָּמָן : bright purple : 2argaman
+אַרְגָּמָן : bright purple : 2argaman
 ארר : to curse : 2-r-r
  
 
 בבַּד : pole : bad_2
 בֶּקַע : beka : beqa3
-בָּרָד : hail : barad
+בָּרָד : hail : baradבָּרֹד : speckled : barod
+
 בְּרִית : covenant : brith
 
 ברך : to bless : b-r-k_2
@@ -35,11 +39,12 @@
 ג
 גְּאוּלִים : redemption : g2ulim
 גאל : to redeem : g-2-l
-גְּאֻלָּה : redemption, right of : g2ullahגֻּלָּה : bowl : gullah
+גְּאֻלָּה : redemption, right of : g2ullahגַּלְגַּל : wheel, well-wheel : galgalגֻּלָּה : bowl : gullah
 גִּלָּיוֹן : mirror : gillayon
 
 ד
-דֶּרֶךְ : road, way : derek
+דֶּרֶךְ : road, way : derekדְּלִי  : bucket : dli
+
 ה
 הֲדֹם : footstool : hadom
 
@@ -47,23 +52,25 @@
 
 זזִיק : fiery missile : ziq  
 
-חחוּם : dark brown : chumחוֹתָם : seal : chotam
-חֹזֶה : (court) diviner : chozehחֶסֶד : faithfulness : chesed
-חֶרֶט : burin : cheret
-חַשְׁמַן : amethyst(?) : chashman
+חחוּם : dark brown : chumחוּר : white : chur_1חור : to be white : ch-w-r_1חוֹרַי : white fabric : chorayחוֹתָם : seal : chotam
+חֹזֶה : (court) diviner : chozehחַכְלִילִי : dark : chakliliחַכְלִלוּת : dullness : chakliluthחמר : to foam ? : ch-m-r_3חֶסֶד : faithfulness : chesed
+חֶרֶט : burin : cheretחֹרִי : white : chori_1
+חַשְׁמַן : amethyst ? : chashman
 
 
 טטַבַּעַת : ring : tabba3at
-טוה : to spin, twist : t-w-h
+טוה : to spin, twist : t-w-hטלא : to be spotted ? : t-l-2
 
-ייָקוּד : glowing fire : yaqud
+ייָקוּד : glowing fire : yaqudיָרוֹק : green(s) : yaroqיְרַקְרַק : green, yellow : yraqraq
+
 יְשׁוּעָה : protection : yshu3ah
 ישׁע : to save, help : y-sh-3
 יֵשַׁע : safety : yesha3
 
 כ
 כִּבְשָׁן : kiln : kibshanכִּיר : cooking-stove : kir
-
+
+כחל : to paint : k-ch-lכָּחֹל : dark ? : kachol 
 כְּלִי : vessel : kli
 כִּסֵּא : throne : kisse2
 
@@ -71,8 +78,8 @@
 כְּרוּב : cherub : krub
 כַּרְמִיל : bright, rich red : karmil
 
-ל
-לָבָן : white : laban
+ללבן : to be white : l-b-n_1
+לָבָן : white : labanלֹבֶן : whiteness : loben
 לוּחַ : board : luachלַפִּּיד : cresset, torch : lappid
 מ
 מָאוֹר : light : ma2or
@@ -80,22 +87,22 @@
 מוֹשָׁעָה : deliverance : mosha3ah
 
 
-מְזַמֶּרֶת : trimming knife (?) : mzammereth
+מְזַמֶּרֶת : trimming knife ? : mzammereth
 
 מַחֲבַת : griddle : machabath
 מְחוּגָה : callipers : mchugah
-מַחֲרֵשָׁה/מַחֲרֶשֶׁת : plough : machareshahמִכְבָּר : grating : mikbar מֶלְקָחַיִם : forceps : melqachayim מְנוֹרָה : lampstand : mnorah
+מַחֲרֵשָׁה/מַחֲרֶשֶׁת : plough : machareshahמִכְבָּר : grating : mikbar מַלְבֵּן  : brick-mould : malbenמֶלְקָחַיִם : forceps : melqachayim מְנוֹרָה : lampstand : mnorah
 מַפְרֶקֶת : neck : mapreqeth
 מַפְתֵּחַ : key : maptheach
 מַקֵּל : branch, staff : maqqel
 
 מַרְאָה : vision, mirror : mar2ah
-מֶשֶׁךְ : bag : meshek_1
+מֶשֶׁךְ : bag : meshed_1
 
 מִשְׁפְּתַיִם/שְׁפַתַּיִם : sack : mishpthayim 
 נ
 נָבִיא/נְבִיאָה : prophet(ess) : nabi2
-נחם : to comfort : n-ch-mנִיר : lamp : nir_1נֵר : lamp : ner_1
+נחם : to comfort : n-ch-mנִיר : lamp : nir_1נָקֹד : speckled : naqod  נֵר : lamp : ner_1
 נִשְׁתְּוָן : official letter : nishthwan
 ססָעִיף : cleft : sa3ip
 
@@ -107,8 +114,8 @@
 עֶזְרָה : help : 3ezrah
 עֵט : stylus : 3et
 עֲטָרָה : wreath, crown : 3atarah
-
-פ
+עָקֹד : mottled : 3aqod
+פפָּארוּר : blush ? : pa2rur
 פדה : to liberate : p-d-h
 פְּדוּיִם : redemption price : pduyim
 פְּדוּת : redemption-action : pduth
@@ -119,29 +126,46 @@
 פֶּרֶק : plunder : pereq
 פִּשְׁתָּה : wick : pishthah
 
-צ
+צצהב : to gleam : ts-h-bצָהֹב : yellow : tsahobצַח : clear : tsachצחח : to dazzle : ts-ch-chצַחַר : white ? : tsacharצָחֹר : light grey : tsachor
 צלה : to roast : ts-l-h
 צִפֹּרֶן : nail : tsipporen
 צְרוֹר : pouch : tsror_1
 
 ק
-קבב : to curse : q-b-bקַלַּחַת : stewpot : qallachath
+קבב : to curse : q-b-bקדר : to be dark : q-d-rקַדְרוּת : darkness : qadruthקְדֹרַנִּית : darkly : qdorannithקַלַּחַת : stewpot : qallachath
 קֶסֶת : inkpot(?) : qeseth
-
+
 ר
 רֹאֶה : seer : ro2eh
 
-רְאִי : mirror : r2i
+רְאִי : mirror : r2iרַהַט  : drinking-trough : rahat
 
 שׂ
-שֶׂרֶד : scriber : cered
-
+שֶׂרֶד : scriber : ceredשׂרק : to shine : c-r-q_2שָׂרֹק : reddish : caroq 
 שׁ
 שׁוֹעַ : great man : shoa3
 שׁוּעַ : cry for help : shua3
-שֶׁלֶג : snow : sheleg
-שָׁנִי : bright red dye : shani_1שִׁפְחָה : maidservant : shipchah
 
+
+שְׁחוֹר : soot : shchor
+
+
+שׁחר : to grow black : sh-ch-r_1
+
+
+שָׁחֹר : black : shachor
+
+
+שַׁחֲרוּת : black hair : shacharuth
+
+
+שְׁחַרְחֹר : swarthy : shcharchor
+
+שֶׁלֶג : snow : sheleg
+שָׁנִי : bright red dye : shani_1שִׁפְחָה : maidservant : shipchah
+
+
+שֹׁ֫קֶת : drinking-trough : shoqeth
 
 
 שַׁרְבִיט : sceptre : sharbit

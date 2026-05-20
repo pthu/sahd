@@ -17,7 +17,7 @@ contributors_footnote:
 ## Introduction
 
 Grammatical type:   
-Occurrences:   117x HB (27/60/30); 3 Sir; x Qum; ??x Inscr.  (Total: ??)
+Occurrences:   117x HB (27/60/30); 4x Sir; ??x Qum; ??x Inscr.  (Total: ??)
 
 
 
@@ -54,21 +54,74 @@ Occurrences:   117x HB (27/60/30); 3 Sir; x Qum; ??x Inscr.  (Total: ??)
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
-* βδέλυγμα
+* βδέλυγμα, ‘what is abominable, loathsome’:[^8] 
 
-<b>b.  Peshitta (Pesh):</b>  
+* ἀνομία, ‘act which is in breach of law’:[^9]
 
-* 
+* ἀσέβεια, ‘impiety, ungodliness’:[^10]:
+
+* μόλυνσις, ‘’:
+
+
+[^8]: <i>GELS</i>, 115. Adrados, <i>DGE</i>: ‘abominación’.
+
+[^9]: <i>GELS</i>, 55,
+
+[^10]: <i>GELS</i>, 96. 
+
+
+<b>b.  Peshitta (Pesh):</b>[^17]
+
+* <span dir="rtl">ܛܡܐܘܬܐ</span> (<i>ṭammūṯā</i>), ‘impurity’:
+
+* <span dir="rtl">ܛܢܦܘܬܐ</span> (<i>ṭanpūṯā</i>), ‘impurity, abomination’:
+
+* <span dir="rtl">ܚܛܗܐ</span> (<i>ḥṭāhā</i>), ‘sin’: 
+
+[^17]: The translations of the Syriac are based on Sokoloff, <i>SLB</i>.
 
 
 <b>c. Targum (Tg):</b>  
 
-* 
+Jewish Targumim:
+
+* <span dir="rtl">תּוֹעֵבָה</span>, ‘’:
+
+* <span dir="rtl">מְרַחַק</span>, ‘’, adj.:
+
+* <span dir="rtl">מרחקה</span>, ‘abomination’:
+
+
+
+Samaritan Targum:  
+
+* <span dir="rtl">תועבה</span>, ‘abhorrence’:[^19] always in Tg<small><sup>SmrJ</sup></small>; pl. <span dir="rtl">תועבאתה</span> in Tg<small><sup>SmrJ</sup></small> in Lev 18:26, 27, 29, 30, and in Tg<small><sup>SmrA</sup></small> in Lev 18:27, 29, 30 (18:26 lost);   
+* <span dir="rtl">תועב</span>, ‘abhorrence’:[^20] Gen 43:32 in Tg<small><sup>SmrA</sup></small>;   
+* <span dir="rtl">ארפשו</span>, ‘disgraceful deeds’:[^21]
+Lev 18:22; 20:13 in Tg<small><sup>SmrA</sup></small>;   
+* <span dir="rtl">גנו</span>, ‘blame’, ‘abhorrence’:[^22]
+Gen 46:34; Exod 8:22 (2x) in Tg<small><sup>SmrA</sup></small>.
+
+<!--Deut missing in Tg<small><sup>SmrA</sup></small>-->
+
+[^19]: Tal, <i>DSA</i>, 958.
+
+[^20]: Tal, <i>DSA</i>, 958.
+
+[^21]: Tal, <i>DSA</i>, 847.
+
+[^22]: Tal, <i>DSA</i>, 152-53.
+
+
+
 
 
 <b>d.  Vulgate (Vg):</b>  
 
-* 
+* <i>abominatio</i>, ‘’: 
+
+* <i>execratio</i>, ‘’: 
+
 
 
 <b>A.1</b>
