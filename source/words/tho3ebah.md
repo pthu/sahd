@@ -5,7 +5,7 @@ transcription: <i>tō‘ēbāh</i>
 title: 
 semantic_fields: morality   
 contributors: paul_sanders  
-first_published: 2026-??-??  
+first_published: 2026-05-01  
 last_update:    
 contributors_footnote: 
 
