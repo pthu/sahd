@@ -8,7 +8,7 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># תּוֹעֵבָה <i>tō‘ēbāh</i> – abomination
 
 Semantic Fields:
-[Utensils Or Other](../semantic_fields/UTENSILS OR OTHER.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Morality](../semantic_fields/morality.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Paul Sanders](../contributors/paul_sanders.md)<br>
 First published: 2026-??-??<br>Citation: Paul Sanders, תּוֹעֵבָה <i>tō‘ēbāh</i> – abomination, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
 

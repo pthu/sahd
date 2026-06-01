@@ -4,4 +4,4 @@
 
 
 ### Related words
-[דֶּרֶךְ – road, way](../words/derek.md)<br>
+[דֶּרֶךְ – road, way](../words/derek.md)<br>[תּוֹעֵבָה – abomination](../words/tho3ebah.md)<br>

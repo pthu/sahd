@@ -38,8 +38,8 @@ nav:
                 - גֻּלָּה - bowl: words/gullah.md
                 - גִּלָּיוֹן - mirror: words/gillayon.md
             - ד:
-                - דֶּרֶךְ - road, way: words/derek.md
                 - דְּלִי - bucket: words/dli.md
+                - דֶּרֶךְ - road, way: words/derek.md
             - ה:
                 - הֲדֹם - footstool: words/hadom.md
             - ו:
@@ -185,7 +185,6 @@ nav:
             - Benevolence: semantic_fields/benevolence.md
             - Birds: semantic_fields/birds.md
             - Blessing: semantic_fields/blessing.md
-            - Cisterns: semantic_fields/cisterns.md
             - Cloth: semantic_fields/cloth.md
             - Colours: semantic_fields/colours.md
             - Commitment: semantic_fields/commitment.md
@@ -196,7 +195,6 @@ nav:
             - Deliverance: semantic_fields/deliverance.md
             - Divination: semantic_fields/divination.md
             - Food Preparation: semantic_fields/food preparation.md
-            - Food Preparation: semantic_fields/food_preparation.md
             - Gemstones: semantic_fields/gemstones.md
             - Headdress: semantic_fields/headdress.md
             - Honour: semantic_fields/honour.md
@@ -205,19 +203,15 @@ nav:
             - Light: semantic_fields/light.md
             - Metals: semantic_fields/metals.md
             - Morality: semantic_fields/morality.md
-            - Parts: semantic_fields/parts.md
             - Servitude: semantic_fields/servitude.md
             - Supernatural Beings: semantic_fields/supernatural beings.md
             - Textile Production: semantic_fields/textile production.md
-            - Tools: semantic_fields/tools.md
             - Toponyms: semantic_fields/toponyms.md
             - Transport: semantic_fields/transport.md
             - Tribute: semantic_fields/tribute.md
             - Utensils: semantic_fields/utensils.md
-            - Utensils Or Other: semantic_fields/UTENSILS OR OTHER.md
             - Weather: semantic_fields/weather.md
             - Weight: semantic_fields/weight.md
-            - Wells: semantic_fields/wells.md
             - Writing: semantic_fields/writing.md
     - News: 'store/news.md'
     - Contributors:

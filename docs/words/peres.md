@@ -15,7 +15,7 @@ First published: 2026-05-20<br>Citation: Cees Stavleu, פֶּרֶס <i>pères</i
 
 
 
-##Introduction
+## Introduction
 Grammatical Type: noun masc.
 
 Occurrences: 2x HB (2/0/0); 0x Sir; 0x Qum; 0x inscr. (Total:
@@ -25,7 +25,7 @@ Occurrences: 2x HB (2/0/0); 0x Sir; 0x Qum; 0x inscr. (Total:
 * Torah: Lev 11:13; Deut 14:12.
 
 
-##1. Root and Comparative Material
+## 1. Root and Comparative Material
 
 <b>A.1</b>  <i>Root</i>: Many Hebrew dictionaries and commentaries derive the
 noun  <span dir="rtl">פֶּרֶס</span> from the root  <span dir="rtl">פרס</span>, meaning ‘to break’ or ‘to tear’.<sup id="fnref:2"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:2')">2</a></sup>
@@ -167,7 +167,8 @@ construction frames the list as a set of dietary prohibitions.
 
 
 
-## <a id="AV"></a>4. Ancient Versions
+## 4. Ancient Versions 
+<a id="AV"></a>
 
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
@@ -303,16 +304,19 @@ such capabilities, this species too could conceivably be identified with
 the  <span dir="rtl">פֶּרֶס</span>, as both birds demonstrate forms of breaking consistent with
 the proposed meaning of the root.<sup id="fnref:44"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:44')">44</a></sup>
 
-[]
+![Bearded Vulture.jpg](../images/photos/Bearded_Vulture.jpg)
 
 Lammergeier (<i>Gypaetus barbatus</i>) carrying a bone in its beak
-(presumably to drop and break it).
+(presumably to drop and break it).  
+<a href="https://en.wikipedia.org/wiki/Bearded_vulture#/media/File:Bearded_Vulture_swallowing_a_big_bone_-_Catalan_Pyrenees_-_Spain.jpg" target="_blank" rel="noopener noreferrer">wikimedia.org</a> Francesco Veronesi, Italy   
+   
+ 
 
-[]
+![Aasgier.jpg](../images/photos/Aasgier.jpg)
 
 Egyptian vulture (<i>Neophron percnopterus</i>) carrying a stone in its beak
-(presumably to break an egg).
-
+(presumably to break an egg).   
+<a href="https://en.wikipedia.org/wiki/Egyptian_vulture#/media/File:Aasgier_(48794413228)_(detail).jpg" target="_blank" rel="noopener noreferrer">wikimedia.org/</a> Tim Strater, Rotterdam, the Netherlands    
 
 <b>A.3</b>  The verbal root  <span dir="rtl">פָּרַס</span> is also interpreted by some scholars as
 expressing a non-violent form of ‘breaking’, better rendered as

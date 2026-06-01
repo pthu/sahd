@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1GLGLn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># גַּלְגַּל  – wheel, well-wheel
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1GLGLn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># גַּלְגַּל <i>galgal</i> – wheel, well-wheel
 
 Semantic Fields:
-[Parts](../semantic_fields/parts.md)&nbsp;&nbsp;&nbsp;[Wells](../semantic_fields/wells.md)&nbsp;&nbsp;&nbsp;[Cisterns](../semantic_fields/cisterns.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Transport](../semantic_fields/transport.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Bas ter Haar Romeny](../contributors/bas_ter_haar_romeny.md),&nbsp;[Raymond de Hoop](../contributors/raymond_de_hoop.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
-First published: 2026-03-31<br>Citation: Bas ter Haar Romeny,&nbsp;Raymond de Hoop, גַּלְגַּל  – wheel, well-wheel, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
+First published: 2026-03-31<br>Citation: Bas ter Haar Romeny,&nbsp;Raymond de Hoop, גַּלְגַּל <i>galgal</i> – wheel, well-wheel, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
 WORK IN PROGRESS
 
 <!-- Next to the link to Shebanq above (offering 9 hits) the following links should be consulted: 
@@ -587,4 +587,4 @@ Philippe Reymond,
 [^50]:   GB, 139: ‘kugelförmig zusammengerollten Stengel d. wilden Artischoke’;  <i>HAWAT</i>, 59: ‘2. radförmig gewundene Stengel der wilden Artischoke’;  KBL, 181: (II) metaph.  <i>Rad</i> (d.  radförmigen Reste der Distel    Gundelia Tournefortii)  Zorell, 151: ‘2. quae ut <i>rotulae currentes</i> apparent particulae plantarum   conglobatae et vento agitatae’;   <i>HAL</i>, 183:  ‘(II) metaph. <i>Rad</i> (Pflanze, d. radförmige abgestorbene Stengel e.    Distelart, <i>Gundelia Tournefortii</i>)’;  <i>DCH</i> ii:347: ‘<i>tumbleweed</i>’;  <i>DCHR</i> ii:396 (idem);  Ges<sup><small>18</small></sup>, 214f.: ‘Wind- od. Steppenhexe, Kugeldistel <i>Gundelia Tournefortii</i>’.  
 [^51]: Gesenius, <i>TPC</i>, 288: ‘<i>turbo</i>’;  BDB, 165f.:  ‘2.a. <i>whirl</i>, b. <i>whirling</i>, c. <i>whirlwind</i>’;  Zorell, 151: ‘3.  <i>turbo</i>’;  <i>DCH</i> ii:347: ‘perh. <i>whirlwind</i>’;  <i>DCHR</i> ii:396: ‘perh. storm-wind’.
 [^52]: GB, 139: ‘Rollen d. Donners’.
-<p id="contributors_footnote">This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY-project. For the publication in <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop. Next to the link to Shebanq above (offering 9 hits) the following links should be consulted:</p>
+<p id="contributors_footnote">This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY project. For the publication in <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.</p>

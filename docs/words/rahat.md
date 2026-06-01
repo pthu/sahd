@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1RHVn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># רַהַט  – drinking-trough
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1RHVn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># רַהַט <i>rahaṭ</i> – drinking-trough
 
 Semantic Fields:
 [Containers](../semantic_fields/containers.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Bas ter Haar Romeny](../contributors/bas_ter_haar_romeny.md),&nbsp;[Raymond de Hoop](../contributors/raymond_de_hoop.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
-First published: 2026-03-31<br>Citation: Bas ter Haar Romeny,&nbsp;Raymond de Hoop, רַהַט  – drinking-trough, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
+First published: 2026-03-31<br>Citation: Bas ter Haar Romeny,&nbsp;Raymond de Hoop, רַהַט <i>rahaṭ</i> – drinking-trough, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
 WORK IN PROGRESS
 
 ## <span id="I">Introduction</span>
@@ -429,4 +429,4 @@ alttestamentlichen Hebräisch</i> (BZAW, 96),  Berlin: de Gruyter.
 [^39]: Gesenius, <i>TPC</i>, 1268,    ‘cincinni, ut videtur, a defluendo dicti’;  BDB, 923 (‘dub., <i>lock</i> of hair’);  GB, 747 (‘unklar, gew.: Locken, Haupt, Vogelfalle.’);  <i>HAWAT</i>, 434 (‘Herabwallung: Locke’);  Zorell, 759 (‘cincinni capillorum [velut defluentes de capite]’);  Ges<sup><small>18</small></sup>, 1223 (‘unbek.: [?] Haarflechten, Locken’);  <i>DCH</i> vii:425 (<span dir="rtl">רַ֫הַט</span> II  ‘lock [of hair]’).
 [^40]: Gerleman 1965:199-200;   cf. <i>HAL</i>, 1114 (‘Deutung   ungewiss. Vorschlage: a. Baume des Webstuhls’);  <i>DCH</i> vii:425 (<span dir="rtl">רַ֫הַט</span> III  ‘beam [of loom]’).
 [^41]: Rudolph 1962:169-70;  cf. <i>HAL</i>, 1114 (‘Deutung ungewiss. Vorschlage: b. Lederstreifen’);  <i>DCH</i> vii:425 (<span dir="rtl">רַ֫הַט</span> IV  ‘leather strip’).
-<p id="contributors_footnote">This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY-project. For the publication in <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.</p>
+<p id="contributors_footnote">This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY project. For the publication in <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.</p>

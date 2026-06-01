@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1DLJn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># דְּלִי  – bucket
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1DLJn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># דְּלִי <i>d<sup>e</sup></small>lī</i> – bucket
 
 Semantic Fields:
-[Containers](../semantic_fields/containers.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Containers](../semantic_fields/containers.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Bas ter Haar Romeny](../contributors/bas_ter_haar_romeny.md),&nbsp;[Raymond de Hoop](../contributors/raymond_de_hoop.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
-First published: 2026-05-11<br>Citation: Bas ter Haar Romeny,&nbsp;Raymond de Hoop, דְּלִי  – bucket, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
+First published: 2026-05-11<br>Citation: Bas ter Haar Romeny,&nbsp;Raymond de Hoop, דְּלִי <i>d<sup>e</sup></small>lī</i> – bucket, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
 WORK IN PROGRESS
 
 
@@ -520,4 +520,4 @@ Michael P. Weitzman, <i>The Syriac Version of the Old Testament: An Introduction
 [^54]: Levine 2000:197.
 [^55]: Burrows 1938:72.
 [^56]: See already Ephrem  the Syrian, <i>Commentary on Genesis</i> 42.2, ed. Tonneau   [CSCO 152], 111.
-<p id="contributors_footnote">This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY-project. For the publication in  <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.</p>
+<p id="contributors_footnote">This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY project. For the publication in  <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.</p>

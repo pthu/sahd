@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1CQTn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># שֹׁ֫קֶת  – drinking-trough
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1CQTn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># שֹׁ֫קֶת <i>šṓqet</i> – drinking-trough
 
 Semantic Fields:
 [Containers](../semantic_fields/containers.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Bas ter Haar Romeny](../contributors/bas_ter_haar_romeny.md),&nbsp;[Raymond de Hoop](../contributors/raymond_de_hoop.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
-First published: 2026-03-31<br>Citation: Bas ter Haar Romeny,&nbsp;Raymond de Hoop, שֹׁ֫קֶת  – drinking-trough, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
+First published: 2026-03-31<br>Citation: Bas ter Haar Romeny,&nbsp;Raymond de Hoop, שֹׁ֫קֶת <i>šṓqet</i> – drinking-trough, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
 WORK IN PROGRESS
 
 ## <span id="I">Introduction</span>
@@ -261,4 +261,4 @@ Philippe Reymond,
 [^26]: Contrast those, who suggest a certain material:  see Gesenius, <i>TPC</i>, 1474: (‘lacus s. canalis potatorius e ligno lapidere inciso et excavato factus’);  GB, 862f.: ‘Tränkrinnen, hölzerne od. steinerne’;  Ges<sup><small>18</small></sup>, 1411 (idem).
 [^27]: Dalman, <i>AuS</i>, vol. 6, 269-70.
 [^28]: Dalman, <i>AuS</i>, vol. 6, 275.
-<p id="contributors_footnote">This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY-project. For the publication in  <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.</p>
+<p id="contributors_footnote">This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY project. For the publication in  <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.</p>

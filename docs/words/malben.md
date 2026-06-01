@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1MLBNn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># מַלְבֵּן  – brick-mould
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1MLBNn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># מַלְבֵּן <i>malbēn</i> – brick-mould
 
 Semantic Fields:
-[Tools](../semantic_fields/tools.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Containers](../semantic_fields/containers.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Bas ter Haar Romeny](../contributors/bas_ter_haar_romeny.md),&nbsp;[Raymond de Hoop](../contributors/raymond_de_hoop.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
-First published: 2026-03-31<br>Citation: Bas ter Haar Romeny,&nbsp;Raymond de Hoop, מַלְבֵּן  – brick-mould, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
+First published: 2026-03-31<br>Citation: Bas ter Haar Romeny,&nbsp;Raymond de Hoop, מַלְבֵּן <i>malbēn</i> – brick-mould, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
 WORK IN PROGRESS
 
 
@@ -377,4 +377,4 @@ Rudolf Meyer, <i>Hebräische Grammatik, II: Formenlehre, Flexionstabellen</i>, 
 [^39]: Cf. Driver 1937-38:122.
 [^40]: Hoffmann 1882:53;   Mallon 1921:136-37;   Flinders Petrie 1938:3-4;   Dalman, <i>AuS</i>, Bd. 7, 18.
 [^41]: Cf. Mallon 1921:137, fig. 36;   Flinders Petrie 1938: pl. 1, fig. 3 (with description on p. 4).
-<p id="contributors_footnote">This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY-project. For the publication in <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.</p>
+<p id="contributors_footnote">This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY project. For the publication in <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.</p>
