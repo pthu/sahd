@@ -309,7 +309,7 @@ the proposed meaning of the root.[^44]
 
 Lammergeier (<i>Gypaetus barbatus</i>) carrying a bone in its beak
 (presumably to drop and break it).  
-<a href="https://en.wikipedia.org/wiki/Bearded_vulture#/media/File:Bearded_Vulture_swallowing_a_big_bone_-_Catalan_Pyrenees_-_Spain.jpg" target="_blank" rel="noopener noreferrer">wikimedia.org</a> Francesco Veronesi, Italy   
+<a href="https://en.wikipedia.org/wiki/Bearded_vulture#/media/File:Bearded_Vulture_swallowing_a_big_bone_-_Catalan_Pyrenees_-_Spain.jpg" target="_blank" rel="noopener noreferrer">commons.wikimedia.org</a> Francesco Veronesi, Italy   
    
  
 
@@ -317,7 +317,7 @@ Lammergeier (<i>Gypaetus barbatus</i>) carrying a bone in its beak
 
 Egyptian vulture (<i>Neophron percnopterus</i>) carrying a stone in its beak
 (presumably to break an egg).   
-<a href="https://en.wikipedia.org/wiki/Egyptian_vulture#/media/File:Aasgier_(48794413228)_(detail).jpg" target="_blank" rel="noopener noreferrer">wikimedia.org/</a> Tim Strater, Rotterdam, the Netherlands    
+<a href="https://en.wikipedia.org/wiki/Egyptian_vulture#/media/File:Aasgier_(48794413228)_(detail).jpg" target="_blank" rel="noopener noreferrer">commons.wikimedia.org</a> Tim Strater, Rotterdam, the Netherlands    
 
 <b>A.3</b>  The verbal root  <span dir="rtl">פָּרַס</span> is also interpreted by some scholars as
 expressing a non-violent form of ‘breaking’, better rendered as
