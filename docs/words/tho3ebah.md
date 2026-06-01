@@ -10,7 +10,7 @@
 Semantic Fields:
 [Morality](../semantic_fields/morality.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Paul Sanders](../contributors/paul_sanders.md)<br>
-First published: 2026-??-??<br>Citation: Paul Sanders, תּוֹעֵבָה <i>tō‘ēbāh</i> – abomination, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
+First published: 2026-05-01<br>Citation: Paul Sanders, תּוֹעֵבָה <i>tō‘ēbāh</i> – abomination, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
 
 
 
