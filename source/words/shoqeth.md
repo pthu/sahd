@@ -2,13 +2,14 @@
 ---
 word_english: drinking-trough   
 word_hebrew: שֹׁ֫קֶת  
+transcription: <i>šṓqet</i>  
 title:   
-semantic_fields: containers, 
+semantic_fields: containers 
 contributors: bas_ter_haar_romeny, raymond_de_hoop   
 first_published: 2026-03-31
 last_update:   
-update_info: 
-contributors_footnote: This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY-project. For the publication in  <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.   
+update_info:  
+contributors_footnote: This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY project. For the publication in  <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.   
 additional_info: WORK IN PROGRESS  
 shebanq_id:  1CQTn  
 

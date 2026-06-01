@@ -3,7 +3,7 @@ word_english: abomination
 word_hebrew: תּוֹעֵבָה   
 transcription: <i>tō‘ēbāh</i>    
 title: 
-semantic_fields: UTENSILS OR OTHER   
+semantic_fields: morality   
 contributors: paul_sanders  
 first_published: 2026-??-??  
 last_update:    

@@ -3,7 +3,7 @@ word_english: stewpot
 word_hebrew: קַלַּחַת  
 transcription: <i>qallàḥat</i>  
 title:    
-semantic_fields: utensils, food_preparation    
+semantic_fields: utensils, food preparation    
 contributors: johannes_c._de_moor, raymond_de_hoop, paul_sanders  
 first_published: 2011-03-24  
 last_update: 2025-11-27     

@@ -516,7 +516,7 @@ With regard to certain depictions of only a single thread per spindle, she obser
 > The fact that in some pictures we are <i>shown</i> spinners pulling only one thread per spindle may be a simplification on the part of the artist, but it may also show a practice
 of adding a strengthening twist to the fine ‘single’ yarns … 
 
-<a id="Khnumhotep"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/Users/raymond/Documents/SAHD-Web/sahd/source/photos/DT204509.jpg)
+<a id="Khnumhotep"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../photos/DT204509.jpg)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Figure&nbsp;2:&nbsp;&nbsp;

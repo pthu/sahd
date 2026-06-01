@@ -1,13 +1,14 @@
 ---
 word_english: bucket  
 word_hebrew: דְּלִי   
+transcription: <i>d<sup>e</sup></small>lī</i>  
 title:      
-semantic_fields: containers  
+semantic_fields: utensils, containers  
 contributors: bas_ter_haar_romeny, raymond_de_hoop   
 first_published: 2026-05-11  
 last_update:  
 update_info:  
-contributors_footnote: This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY-project. For the publication in  <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.     
+contributors_footnote: This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY project. For the publication in  <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.     
 additional_info: WORK IN PROGRESS  
 shebanq_id: 1DLJn   
 
