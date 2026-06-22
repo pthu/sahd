@@ -55,11 +55,13 @@ Athalya Brenner, <i>Colour Terms in the Old Testament</i> (JSOTSup, 21), Sheffie
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dahood 1968<br>
+Dahood, M. <i>Commentary on Psalms 51-100</i> (Anchor Bible 17). Garden City, NY: Doubleday.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Gunkel <sup>5</sup>1968<br>
+Gunkel, H. <i>Commentary on Psalms</i>, 5th ed. Göttingen: Vandenhoeck & Ruprecht. The first four editions published in Göttinger Handkommentar zum Alten Testament; 1929, 4th ed.
 	</div>
 
 

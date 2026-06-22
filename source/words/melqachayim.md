@@ -73,7 +73,7 @@ and for → <span dir="rtl">מוּצָקָה</span>  in Zech 4:2. In Exod 37:23 
 
 <b>b.  Peshitta (Pesh):</b>  
 
-* The normal rendering is <i>malq <sup>eṭā</sup></i>, ‘tweezers, snuffers’ according to Payne Smith (Margoliouth), <i>CSD</i>, 278. The verb <i>lqḥ</i> means ‘to pick, glean’. Only in Isa 6:6 <i>kalb <sup>etā</sup></i> is chosen for which Payne Smith (Margoliouth), <i>CSD</i>, 215 offers the renderings ‘tongs, pincers, tweezers’. 2 Chron 4:21 is lacking in Pesh.
+* The normal rendering is <i>malq <sup>e</sup>ṭā</i>, ‘tweezers, snuffers’ according to Payne Smith (Margoliouth), <i>CSD</i>, 278. The verb <i>lqḥ</i> means ‘to pick, glean’. Only in Isa 6:6 <i>kalb <sup>e</sup>tā</i> is chosen for which Payne Smith (Margoliouth), <i>CSD</i>, 215 offers the renderings ‘tongs, pincers, tweezers’. 2 Chron 4:21 is lacking in Pesh.
 
 
 

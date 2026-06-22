@@ -49,10 +49,12 @@ For the abbreviations see the
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dhorme 1967<br>
+Dhorme, É. Commentary on <i>Job</i>. Translated by H. Knight. Nashville: Thomas Nelson Publishers.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Gordis 1978<br>
+Gordis, R. Commentary on <i>Job</i>. New York: Jewish Theological Seminary of America.
 	</div>
 
 

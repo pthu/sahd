@@ -49,7 +49,7 @@ Sirach 44:4 where <span dir="rtl">בספרתם</span> <span dir="rtl">שיח</sp
 <b>a. Septuagint (LXX) and other Greek versions (αʹ, σʹ, θʹ)</b>:  
 
 * 
-Renders <span dir="rtl">בְּסִפְרָתֶךָ</span> <span dir="rtl">הֲלׂא</span> by <i>ὡς καὶ ἐν τῆ ἐπαγγελίᾳ σου</i>, ‘as also by your promise’, probably taking <span dir="rtl">סִפְרָה</span> as the ‘Book of Life’ (Ps 69:28 and cf. 2 Tim 1:1 <i>κατ’ ἐπαγγελίαν ζωῆς</i>, ‘according to the promise of life’).  σ´ paraphrases <i>μὴ οὐχὶ ὅταν ἐξαριθμῃ'ς</i>, ‘not even when you count?’.
+Renders <span dir="rtl">בְּסִפְרָתֶךָ</span> <span dir="rtl">הֲלׂא</span> by <i>ὡς καὶ ἐν τῆ ἐπαγγελίᾳ σου</i>, ‘as also by your promise’, probably taking <span dir="rtl">סִפְרָה</span> as the ‘Book of Life’ (Ps 69:28 and cf. 2 Tim 1:1 <i>κατ’ ἐπαγγελίαν ζωῆς</i>, ‘according to the promise of life’).  σ´ paraphrases <i>μὴ οὐχὶ ὅταν ἐξαριθμῃς</i>, ‘not even when you count?’.
 
 
 <b>b.  Peshitta (Pesh):</b>  

@@ -44,9 +44,9 @@ Grammatical type:
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
-<b>A.1</b>  <i>Semitic</i>:  The root is no doubt <i>mw/yṭ</i> which is attested in several Semitic languages (cf. Klein, <i>CEDHL</i>, 324; Leslau, <i>CDG</i>, 377; <i>HAHAT, 641</i>). It is certainly not related to → <span dir="rtl">מַטֶּה</span> (<i>contra</i> D.M. Fouts, <i>NIDOT</i>, vol. 2, 866). Since the Hebrew √<span dir="rtl">מוט</span>  means ‘to totter’, it has been assumed that the name of the yoke bar <span dir="rtl">מֹוט</span>/<span dir="rtl">מֹוטָה</span> was derived from its back-and-forth, up-and-down motion on the necks of the draught animals. In view of Geez <i>myṭ / meṭa</i>, ‘to turn away, divert, repel’ and Arabic <i>myṭ</i>, ‘to remove, put at a distance, repel’ one might also think of a bar designed to keep the horned heads of the draught oxen apart.
+<b>A.1</b>  <i>Semitic</i>:  The root is no doubt <i>mw/yṭ</i> which is attested in several Semitic languages (cf. Klein, <i>CEDHL</i>, 324; Leslau, <i>CDG</i>, 377; <i>HAHAT</i>, 641). It is certainly not related to → <span dir="rtl">מַטֶּה</span> (<i>contra</i> D.M. Fouts, <i>NIDOT</i>, vol. 2, 866). Since the Hebrew √<span dir="rtl">מוט</span>  means ‘to totter’, it has been assumed that the name of the yoke bar <span dir="rtl">מֹוט</span>/<span dir="rtl">מֹוטָה</span> was derived from its back-and-forth, up-and-down motion on the necks of the draught animals. In view of Geez <i>myṭ / meṭa</i>, ‘to turn away, divert, repel’ and Arabic <i>myṭ</i>, ‘to remove, put at a distance, repel’ one might also think of a bar designed to keep the horned heads of the draught oxen apart.
 
-<i>Egyptian</i>: Possibly as a Semitic loanword in Late Egyptian <i>m3wḏ</i> (Helck, <i>BÄV</i>, 513, No. 86; Hassan 1979).
+<i>Egyptian</i>: Possibly as a Semitic loanword in Late Egyptian <i>m’,wḏ</i> (Helck, <i>BÄV</i>, 513, No. 86; Hassan 1979).
 
 
 

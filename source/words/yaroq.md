@@ -43,10 +43,12 @@ For the abbreviations see the
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Kellermann 1982 <br>
+Kellermann, D. <span dir="rtl">יָרַק</span> <i>jāraq</i>, <span dir="rtl">יָרוֺק</span> <i>jārôq</i>, <span dir="rtl">יָרָק</span> <i>jārāq</i>, <span dir="rtl">יֶרֶק</span> <i>jæræq, etc.</i>," in <i>TWAT</i> III: 948-53.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Saunders & van Brakel 1997 <br>
+Saunders, B. and van Brakel, J. "Are there non-trivial constraints on colour categorization?" <i>Behavioral and Brain Sciences</i> 20: 167-232.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">

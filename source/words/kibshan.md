@@ -3,7 +3,7 @@ word_english: kiln
 word_hebrew: כִּבְשָׁן  
 transcription: <i>kibšān</i>    
 title:    
-semantic_fields: utensils, food preparation   
+semantic_fields: utensils, food_preparation   
 contributors: jacques_t.a.g.m._van_ruiten   
 first_published: 2025-02-05   
 last_update: 2026-01-06 (Paul Sanders) 
@@ -57,7 +57,7 @@ Gen 19:28; Exod 9:8, 10; 19:18; Sir 27:5.
 
 <b>b. Peshitta (Pesh)</b>:
 
-* <span dir="rtl">ܐܬܘܢܐ</span> (<i>’attūnā</i>), ‘furnace’:
+* <span dir="rtl">ܐܬܘܢܐ</span> (<i>ʾattūnā</i>), ‘furnace’:
 Gen 19:28; Exod 9:8, 10; 19:18.
 <!--Omission in Sir?-->
 

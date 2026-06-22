@@ -64,14 +64,14 @@ Occurrences:   3x HB (0/3/0)<!--; ??x Sir; ??x Qum; ??x Inscr.  (Total: ??)-->
 * Jer 36:22.23 [bis] ἐσχάρα (cf. → <span dir="rtl">מִכְבָּר</span>,5) - <i>LSJ</i>, 699a: 1. ‘hearth, fire-place’; 2. 
 ‘pan of coals, brazier’; etc.;  <i>GELS-L</i>, 182b: 
 ‘grate, grating’ (Exod 27:4 etc.) and ‘hearth, 
-fire-place’ (Prov 26:21 ἐσχάρα ἄνθραξιν καὶ ξύλα πυρί  for MT <span dir="rtl">לְאֵשׁ</span> <span dir="rtl">וְעֵצִים</span> <span dir="rtl">לְגֶחָלִים</span> <span dir="rtl">פֶּּחָם</span>  ‘&lt;as&gt; charcoal to hot embers and wood to fire’). Cf. Curtis, <i>AFT</i>, 290: ‘... unleavened, or flat, breads (ἄρτος ἄζυμος) were baked on a brazier in ashes (ἐγκρυφίας and σποδίτης) or charcoal (ἀπανθρακίς) - sometimes called simply ‘‘brazier-bread’’ (ἐσχάριτης)’. <i>GELS-M</i>, 294: ‘1. hearth ...; 2. grid or lattice-work forming the base of various structures’.
+fire-place’ (Prov 26:21 ἐσχάρα ἄνθραξιν καὶ ξύλα πυρί  for MT <span dir="rtl">לְאֵשׁ</span> <span dir="rtl">וְעֵצִים</span> <span dir="rtl">לְגֶחָלִים</span> <span dir="rtl">פֶּּחָם</span>  ‘&lt;as&gt; charcoal to hot embers and wood to fire’). Cf. Curtis, <i>AFT</i>, 290: ‘... unleavened, or flat, breads (ἄρτος ἄζυμος) were baked on a brazier in ashes (ἐγκρυφίας and σποδίτης) or charcoal (ἀπανθρακίς) - sometimes called simply ‘brazier-bread’ (ἐσχάριτης)’. <i>GELS-M</i>, 294: ‘1. hearth ...; 2. grid or lattice-work forming the base of various structures’.
 
 
 <b>b.  Peshitta (Pesh):</b>  
 
 * 
 Jer 36:22 <i>wnwrʾ symyn hww qdmwhy</i>, ‘and they placed a fire before him’, perhaps inspired by Tg;  Jer 36:23 [1e] <i>wšdh bgwmrʾ dnwrʾ</i> ‘and he threw it in the charcoals of the fire’ (cf. Rom 
-12:20) for MT <span dir="rtl">אֶל&thinsp;־הָאָח</span> <span dir="rtl">אֲשֶׁר</span> <span dir="rtl">אֶל&thinsp;־הָאֵשׁ</span> <span dir="rtl">וְהַשְׁלֵךְ</span>; </i>gmwrtʾ</i> (pl. <i>gwmrʾ</i>, cf. Nöldeke, <i>Kurzgefasste syrische Grammatik</i>, §81); 
+12:20) for MT <span dir="rtl">אֶל&thinsp;־הָאָח</span> <span dir="rtl">אֲשֶׁר</span> <span dir="rtl">אֶל&thinsp;־הָאֵשׁ</span> <span dir="rtl">וְהַשְׁלֵךְ</span>; <i>gmwrtʾ</i> (pl. <i>gwmrʾ</i>, cf. Nöldeke, <i>Kurzgefasste syrische Grammatik</i>, §81); 
 Brockelmann, <i>LS</i>, 121b-22a: 1. ‘pruna, carbo’; 2. 
 ‘variolae’ ἄνθρακες; 3. pl. ‘particula hostiae’; Payne Smith, <i>TS</i>, 740-41: ‘pruna, carbo’ ἄνθραξ; Payne Smith (Margoliouth), <i>CSD</i>, 72a: ‘a coal, live coals’, <i>gwmry dnwrʾ</i> ‘fiery coals’, etc. (but 64b <i>ad</i> <i>gwmryn</i>: ‘burning coals’, cf. RSV <i>ad</i> Rom 12:20);   36:23 
 [2e] <i>dyqdt klh mgltʾ bnwrʾ dʿl qmynʾ</i> ‘so that the complete scroll was burnt in the fire that was on the κάμινος’. The latter is a Greek loanword which designates a furnace, oven or flue (<i>LSJ</i>, 872). Because this is impossible here since the fire is <i>on</i> the <i>qmynʾ</i>,  Payne Smith (Margoliouth) may have opted for a wider semantic range: ‘a stove, fire-place, metal (!, MDK) hearth’ (<i>CSD</i>,  508b).         
@@ -135,7 +135,7 @@ himself in the court (v. 20), in the winter
 house/room (<span dir="rtl">הַחֹרֶף</span> <span dir="rtl">בֵּית</span>, v. 22, cf. Amos 3:15), in the ninth month (November/December) (cf. De Vaux, <i>IAT</i>, t. 1, 290). Before him 
 the king had the  <span dir="rtl">אַח</span>: <span dir="rtl">לְפָנָיו</span> <span dir="rtl">וְאֶת&thinsp;־הָאָח</span> which had been kindled (<span dir="rtl">מְבֹעָרֶת</span>, v. 22).
 
-Thus <i>GKC</i> §117l (read Jer 36<sup>22</sup> instead of Jer 36<sup>33</sup> <i>ad loc</i> and in the 
+Thus <i>GKC</i> §117l (read Jer 36:22 instead of Jer 36:33 <i>ad loc</i> and in the 
 Index, p. 585), cf. Joüon, <i>GHB</i> §125j 
 (p. 370, ‘Remarque’); ‘The brasier before him was 
 burning’, <i>BDB</i>, 29a. Others read <span dir="rtl">וְאֵשׁ</span> ‘and the fire’ for <span dir="rtl">וְאֶת</span>  (e.g. <i>HALAT</i>, 97b; <i>BHS</i> <i>ad loc</i>; the remark ‘cf LXXPeshTg’ 

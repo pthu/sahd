@@ -105,9 +105,7 @@ Isa 42:3; 43:17 <i>šrgʾ</i> ‘lamp’, → <span dir="rtl">נֵר</span>.
 
 <b>A.1</b> 
 <span dir="rtl">פִּּשְׁתָֹּה</span> is a by-form of <span dir="rtl">פֵּּשֶׁת</span></i>, ‘flax, fibre’ (cf. König, <i>Syntax</i>, §255a, g; GK, 
-§122r, t). The latter occurs only in Hos 2:7, 11 in the singular; in the rest of its occurrences always a masculine plural of composition  <span dir="rtl">פִּּשְׁתִֹּים</span> is used (cf. <i>GBHrev</i>, §136b). Flax was a highly valued crop that yielded fibre for the manufacture of linen. The fibre is obtained by soaking the stalks to the point of putrefaction (retting) and drying them again for around two years. Before the whitish fibres within the stalks can be removed, the flax has to be combed to straighten it  (Wilkinson 1998, 61f.). It is possible that the <span dir="rtl">רָצוּצּ</span> <span dir="rtl">קָנֶה</span>  ‘crushed stalk’ of Isa 42:3 designates flax at the next production stage,
-
-The second stage in the process of preparing the flax stems for spinning is the beating or bruising of the plants to separate the fibres from the wooden parts of the stem (G. Vogelsang-Eastwood, in: <i>AEMT</i>, 271; cf. Dalman, <i>AuS</i>, Bd. 5, 27).
+§122r, t). The latter occurs only in Hos 2:7, 11 in the singular; in the rest of its occurrences always a masculine plural of composition  <span dir="rtl">פִּּשְׁתִֹּים</span> is used (cf. <i>GBHrev</i>, §136b). Flax was a highly valued crop that yielded fibre for the manufacture of linen. The fibre is obtained by soaking the stalks to the point of putrefaction (retting) and drying them again for around two years. Before the whitish fibres within the stalks can be removed, the flax has to be combed to straighten it  (Wilkinson 1998, 61f.). It is possible that the <span dir="rtl">רָצוּצּ</span> <span dir="rtl">קָנֶה</span>  ‘crushed stalk’ of Isa 42:3 designates flax at the next production stage, 'The second stage in the process of preparing the flax stems for spinning is the beating or bruising of the plants to separate the fibres from the wooden parts of the stem' (G. Vogelsang-Eastwood, in: <i>AEMT</i>, 271; cf. Dalman, <i>AuS</i>, Bd. 5, 27).
 
 
 
@@ -133,7 +131,7 @@ denotes the burning lamp itself (metonymia,
 synecdoche). As a metaphor, it is used in a 
 similar way as the lamp itself (→ <span dir="rtl">נֵר</span>, and → <span dir="rtl">נִיר</span>). In Isa 43:17 the misfortune, the total destruction of the ennemies is described as the 
 extinguishing (<span dir="rtl">דעך</span>  qal), snuffing out (<span dir="rtl">כבה</span>  qal) of the wick. The smouldering, the dimly burning 
-(<span dir="rtl">כֵּהָה</span>, derivative of <span dir="rtl">כהה</span>) wick denotes the lamp which does not burn brightly, because its oil 
+(<span dir="rtl">כֵּהָה</span>, derivative of <span dir="rtl">כהה</span> I) wick denotes the lamp which does not burn brightly, because its oil 
 is running out. As such it is a symbol of the 
 weak, the people without hope (cf. Tg<sup>J</sup>). Of this wick it is 
 said, however, that it will not be snuffed out 

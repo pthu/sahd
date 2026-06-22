@@ -43,6 +43,7 @@ For the abbreviations see the
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Yadin 1965 <br>
+Yadin, Y. <i>The Ben Sira Scroll from Masada</i>. Translated and Reprinted from <i>Eretz-Israel</i> 8, <i>The E. L. Sukenik Memoiral Volume</i>. Jerusalem: The Israel Exploration Society and The Shrine of the Book.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">

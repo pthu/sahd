@@ -4,7 +4,7 @@ word_english: cooking-stove
 word_hebrew: כִּיר   
 transcription: <i>kīr</i>    
 title: 
-semantic_fields: utensils, food preparation   
+semantic_fields: utensils, food_preparation   
 contributors: m.d._koster  
 first_published: 2014-06-28  
 last_update:    

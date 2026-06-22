@@ -121,6 +121,11 @@ T. Muraoka (ed.), <i>Semantics of Ancient Hebrew</i>
 
 ## Bibliography
 
+For the abbreviations see the 
+<a href="/store/abbreviations/">List of Abbreviations</a>.
+
+
+
 <div style="padding-left: 22px; text-indent: -22px;">
 Brettler 1989 <br>
 Marc Zvi Brettler, <i>God is King: Understanding an Israelite Metaphor</i> (JSOTSup, 76), Sheffield: JSOT.

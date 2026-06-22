@@ -49,10 +49,12 @@ For the abbreviations see the
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Yadin 1965<br>
+Yadin, Y. <i>The Ben Sira Scroll from Masada.</i> Translated and Reprinted from <i>Eretz-Israel</i> 8, <i>The E. L. Sukenik Memorial Volume</i>. Jerusalem: The Israel Exploration Society and The Shrine of the Book.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Skehan & Di Lella 1987<br>
+Shekan, P. W. and Di Lella, A. A. <i>Commentary on Ben Sira</i> (Anchor Bible 37). New York: Doubleday.
 	</div>
 
 

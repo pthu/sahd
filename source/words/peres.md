@@ -539,8 +539,9 @@ Egyptian vulture and the lammergeier emerge as plausible identification.
 
 ## Bibliography
 
-<div style="padding-left: 22px; text-indent: -22px;">
-</div>
+For the abbreviations see the 
+<a href="/store/abbreviations/">List of Abbreviations</a>.
+
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Achenbach 2011 <br>

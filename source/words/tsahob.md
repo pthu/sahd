@@ -59,10 +59,12 @@ Athalya Brenner, <i>Colour Terms in the Old Testament</i> (JSOTSup, 21), Sheffie
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Gradwohl 1963<br>
+Gradwohl, R. <i>Die Farben im Alten Testament: eine terminologische Studie</i> (Beihefte zur Zeitschrift für die alttestamentliche Wissenschaft 83). Berlin: Töpelmann.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Koch 1959<br>
+Koch, K. <i>Die Priesterschrift von Exodus 25 bis Leviticus 16: eine überlieferungsgeschichtliche und literarkritische Untersuchung</i> (Forschungen zur Religion und Literatur des Alten und Neuen Testaments, n.f. 53). G"ottingen: Vandenhoeck & Ruprecht.
 	</div>
 
 

@@ -48,10 +48,12 @@ For the abbreviations see the
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Joüon 1931 <br>
+Joüon, P. "Notes philologiques sur le texte Hébreu d'Esras et de Néhémie," <i>Biblica</i> 12: 85-89.
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 McHardy 1968 <br>
+McHardy, W. D. "The horses in Zechariah," in <i>In Memoriam Paul Kahle</i> (Beihefte zur Zeitschrift für die alttestamentliche Wissenschaft 103), edited by M. Black and G. Fohrer, pp. 174-79. Berlin: Verlag Alfred Töpelmann.
 </div>
 
 

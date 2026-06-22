@@ -52,10 +52,12 @@ For the abbreviations see the
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Rudolph 1976<br>
+Rudolph, W. <i>Commentary on Haggai, Zechariah 1-8, Zechariah 9-14 and Malachi</i> (Kommentar zum Alten Testament 13.4). Gütersloh: G. Mohn.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Schmoldt 1989<br>
+Schmoldt, G. "<span dir="rtl">קָדַר</span> <i>qāḏar</i>, <span dir="rtl">קַדְרוּת</span> <i>qaḏrûṯ</i>, <span dir="rtl">קַדֹרַנִּית</span> <i>qᵉḏorannîṯ</i>," in <i>TWAT</i> 6:1176-78.
 	</div>
 
 

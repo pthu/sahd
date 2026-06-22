@@ -42,6 +42,7 @@ For the abbreviations see the
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Wildberger 1982<br>
+Wildberger, H. <i>Commentary on Jesaja 28-39</i> (Biblischee Kommentar Altes Testament 10.3). Neukirchen-Vluyn: Neukirchener Verlag.
 	</div>
 
 

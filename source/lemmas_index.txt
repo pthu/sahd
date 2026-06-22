@@ -70,7 +70,7 @@
 כ
 כִּבְשָׁן : kiln : kibshanכִּיר : cooking-stove : kir
 
-כחל : to paint : k-ch-lכָּחֹל : dark ? : kachol 
+כחל : to paint : k-ch-lכָּחֹל : dark ? : kachol כִּיּוֹר : washing-tub : kiyyor
 כְּלִי : vessel : kli
 כִּסֵּא : throne : kisse2
 
@@ -102,7 +102,7 @@
 מִשְׁפְּתַיִם/שְׁפַתַּיִם : sack : mishpthayim 
 נ
 נָבִיא/נְבִיאָה : prophet(ess) : nabi2
-נחם : to comfort : n-ch-mנִיר : lamp : nir_1נָקֹד : speckled : naqod  נֵר : lamp : ner_1
+נחם : to comfort : n-ch-mנִיר : lamp : nir_1נָקֹד : speckled : naqod  נֵר : lamp : ner_1נֶשֶׁר : bird of prey : nesher
 נִשְׁתְּוָן : official letter : nishthwan
 ססָעִיף : cleft : sa3ip
 

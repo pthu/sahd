@@ -3,7 +3,7 @@ word_english: cherub
 word_hebrew: כְּרוּב   
 transcription: <i>k<sup>e</sup></small>rūb</i>    
 title: 
-semantic_fields: supernatural beings   
+semantic_fields: supernatural_beings   
 contributors: alice_wood  
 first_published: 2014-08-13  
 last_update: 2026-02-21 (Paul Sanders: figures)   
