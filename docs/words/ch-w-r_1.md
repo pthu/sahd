@@ -70,33 +70,40 @@ For the abbreviations see the
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Clements 1980<br>
+Clements, R. E. Commentary on <i>Isaiah 1-39</i> (New Century Bible Commentary). Grand Rapids, MI: Eerdmans/ London: Marshall, Morgan & Scott Publishers, Ltd.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Gray 1912<br>
+Gray, G. B. Commentary on <i>Isaiah 1-27</i> (International Critical Commentary). Edinburgh: T. & T. Clark, 1975.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Kaiser 1974<br>
+Kaiser, O. Commentary on <i>Isaiah 13-39</i> (Old Testament Library). Philadelphia: Westminster Press.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Marti 1900<br>
+Marti, K. Commentary on <i>Isaiah</i> (Kurzer Hand-Commentar zum Alten Testament 10). Tübingen: J. C. B. Mohr (Paul Siebeck).
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Oswalt 1986<br>
+Oswalt, J. N. Commentary on <i>Isaiah 1-39</i> (New International Commentary on the Old Testament 24). Grand Rapids, MI: Eerdmans.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Watts 2005<br>
+Watts, J. D. W. Commentary on <i>Isaiah 1-33</i> rev (Word Biblical Commentary 24). Nashville: Nelson Reference & Electronic.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Wildberger 1978<br>
+Wildberger, H. Commentary on <i>Jesaja 13-27</i> (Biblische Kommentar Altes Testament 10.2). Neukirchen-Vluyn: Neukirchener Verlag.
 	</div>
 
 

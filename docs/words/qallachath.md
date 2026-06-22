@@ -280,6 +280,11 @@ The textual evidence suggests that a <span dir="rtl">קַלַּחַת</span> is 
 
 ## Bibliography
 
+For the abbreviations see the 
+<a href="/store/abbreviations/">List of Abbreviations</a>.
+
+
+
 <div style="padding-left: 22px; text-indent: -22px;">
 Belsheim 1885<br>
 Johannes Belsheim, <i>Palimpsestus Vindobonensis antiqvissimae Veteris Testamenti: Translationis Latin fragmentaæ</i>, Christianiæ: Libraræ P.T. Mallingi. 
@@ -360,6 +365,14 @@ Philippe Hugo, Adrian Schenker (eds),
 <i>Archaeology of the Books of Samuel: The Entangling of the Textual and Literary History</i> (SVT, 132),
 Leiden: Brill.
 </div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Hutzli 2007 <br>
+Jürg Hutzli, 
+<i>Die Erzählung von Hanna und Samuel: Textkritische und literarische Analyse von 1. Samuel 1–2 unter Berücksichtigung des Kontextes</i> (ATANT, 89), Zürich: Theologischer Verlag Zürich.
+</div>
+
+
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Hutzli 2010 <br>

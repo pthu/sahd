@@ -73,7 +73,7 @@ In all instances Pesh renders <i>šrgʾ</i> --  Payne Smith (Margoliouth), <i>CS
 * Tg<sup>O</sup>, Tg<sup>PsJ</sup>, Tg<sup>N</sup> in all 
 instances <span dir="rtl">בוצינא</span>  pl. (also in Exod 27:20; Lev 24:2; sg. in MT) -- Levy, <i>CWT</i>, vol. 1, 86: ‘ein aus Linnen 
 (<span dir="rtl">בוּצּ</span>, od. Flachs) bereiteter Docht’ (cf. Greek βύσσος); ‘Leuchte’; Jastrow, <i>DTT</i>, 147: ‘wicks’; ‘candle, lamp, light’; Sokoloff, <i>DJPA</i>, 88: ‘lamp, 
-light’; Tg<sup>J</sup> 2 Sam 21:17 <span dir="rtl">מלכותא</span> → <span dir="rtl">נִיר</span>, section 5;  2 Sam 22:29 <span dir="rtl">נהורא</span>  -- Levy, <i>CWT</i>, vol. 2, 96: ‘Licht’; Jastrow, <i>DTT</i>, 881: ‘light’; Sokoloff, <i>DJPA</i>, 342: ‘light’. Zeph 1:12 <span dir="rtl">נברשתא</span>  -- Levy, <i>CWT</i>, vol. 2, 87: ‘Flamme, od. Lampe, Leuchter’; Jastrow, <i>DTT</i>, 871: 
+light’; Tg<sup>J</sup> 2 Sam 21:17 <span dir="rtl">מלכותא</span> → <span dir="rtl">נִיר</span>, section 4;  2 Sam 22:29 <span dir="rtl">נהורא</span>  -- Levy, <i>CWT</i>, vol. 2, 96: ‘Licht’; Jastrow, <i>DTT</i>, 881: ‘light’; Sokoloff, <i>DJPA</i>, 342: ‘light’. Zeph 1:12 <span dir="rtl">נברשתא</span>  -- Levy, <i>CWT</i>, vol. 2, 87: ‘Flamme, od. Lampe, Leuchter’; Jastrow, <i>DTT</i>, 871: 
 ‘lamp, candle’; Tg<sup>K</sup> 18:29; 119:105; 
 132:17; late Rabbinic Targum Job 18:6; 21:17; 29:3 (in none of the cases 11Q10 has been preserved): <span dir="rtl">שרגא</span>  -- Levy, <i>CWT</i>, vol. 2, 517: ‘Licht, Leuchte’; Jastrow, <i>DTT</i>, 1628: ‘light, lamp, 
 lantern’. No Targum of Proverbs exists, only a late Midrash. In all remaining instances the Targumim have <span dir="rtl">בוצינא</span>  (see above).
@@ -153,7 +153,7 @@ Num 8:2; Zech 4:2 the number of seven lamps occurs. With exception of Zech 4:2 (
 lamps had seven spouts [<span dir="rtl">מוּצָקֹות</span>]) no information is given about the lamp’s shape. Because in Exod 
 25:37; 37:23 it is not explicitly stated that the 
 lights are to be of gold (note also Exod 25:38; 
-37:23), it is sometimes assumed that, like common lamps (see section 8), the Tabernacle lamps were of 
+37:23), it is sometimes assumed that, like common lamps (see section 6.3), the Tabernacle lamps were of 
 ceramic (e.g. Meyers 1976, 57). It has to be 
 borne in mind, however, that metal lamps were 
 luxury items. Because YHWH’s house is furnished 

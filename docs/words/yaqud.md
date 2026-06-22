@@ -24,7 +24,7 @@ Occurrences:   1x HB (0/1/0)<!--; ??x Sir; ??x Qum; ??x Inscr.  (Total: ??)-->
 
 * Nebiim: Isa 30:14. 
 
-<b>A.1</b> 
+
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
@@ -64,11 +64,11 @@ Occurrences:   1x HB (0/1/0)<!--; ??x Sir; ??x Qum; ??x Inscr.  (Total: ??)-->
 
 
 <i>Classical Arabic</i>:
-<i>waqada</i> ‘to burn’ and ‘to ignite’; <i>waqd</i> fire’; <i>waqūd</i> ‘holocaust, burnt offering’; <i>mawqid</i> ‘hearth, place where people kindle a fire’ (Kazimirski, <i>DAF</i>, 1581-2).
+<i>waqada</i> ‘to burn’ and ‘to ignite’; <i>waqd</i> 'fire'; <i>waqūd</i> ‘holocaust, burnt offering’; <i>mawqid</i> ‘hearth, place where people kindle a fire’ (Kazimirski, <i>DAF</i>, 1581-2).
 
 
 
-<i>Modern South Arabic</i>: Mehri <i>awōq<sup>ed</sup></i>  ‘to build up a fire’ (Johnstone, <i>ML</i>,427).; Jibbāli <i>ōqud</i> ‘to build up a fire’ 
+<i>Modern South Arabic</i>: Mehri <i>awōq<sup>e</sup>d</i>  ‘to build up a fire’ (Johnstone, <i>ML</i>,427).; Jibbāli <i>ōqud</i> ‘to build up a fire’ 
 (Johnstone, <i>JL</i>, 290).
 
 

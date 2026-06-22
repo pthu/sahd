@@ -54,14 +54,17 @@ For the abbreviations see the
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Cooke 1936<br>
+Cooke, G. <i>Commentary on Ezekiel</i> (International Critical Commentary). Edinburgh: T. & T. Clark.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Fohrer 1955<br>
+Fohrer, G. <i>Commentary on Ezekiel</i> (Handbuch zum Alten Testament 13). Tübingen: J. C. B. Mohr (Paul Siebeck).
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Zimmerli 1969<br>
+Zimmerli, W. <i>Commentary on Ezekiel</i> (Biblischer Kommentar Altes Testament 13), 2 vols. Neukirchen-Vluyn: Neukirchener Verlag.
 	</div>
 
 

@@ -31,7 +31,7 @@ Occurrences:   5x HB (0/3/2)<!--; ??x Sir; ??x Qum; ??x Inscr.  (Total: ??)-->
 
 <b>A.1</b>  → <span dir="rtl">נֵר</span>.
 
-<i>Ugaritic</i>: <i>HAHAT</i>, 815, cites Ugaritic <i>nyr</i> ‘luminary’, as a cognate. This it is, but not morphologically. Because in Ugaritic the <i>y</i> is normally a consonant, this proposal is acceptable only if one emends MT (<span dir="rtl">æניָּר</span>). But nothing is gained by this operation.
+<i>Ugaritic</i>: <i>HAHAT</i>, 815, cites Ugaritic <i>nyr</i> ‘luminary’, as a cognate. This it is, but not morphologically. Because in Ugaritic the <i>y</i> is normally a consonant, this proposal is acceptable only if one emends MT (<span dir="rtl">ניָּר</span>). But nothing is gained by this operation.
 
 
 
@@ -105,7 +105,7 @@ return is made to the targumic interpretation
 (see section 4) which was based on exegesis with help of the 
 Aramaic <span dir="rtl">נִרָה</span>  ‘yoke’. However, the use of Akkadian <i>nūru</i> ‘light, lamp’ as a royal epithet (<i>CAD</i> (N) 2, 349) argues in favour of the metaphorical use.
 
-The text and sense of  <span dir="rtl">נִר</span> in Prov. 21:4b are doubtful.  <span dir="rtl">נִר</span>  is equated by some with <span dir="rtl">נֵר</span>  (‘the lamp [= happiness, delight] of the wicked is sin’), by others with <span dir="rtl">נִיר</span> (Torah: 0. Nebiim: 2. Ketubim: 1. Total: 3; Prov 21:4b: 
+The text and sense of  <span dir="rtl">נִר</span> in Prov 21:4b are doubtful.  <span dir="rtl">נִר</span>  is equated by some with <span dir="rtl">נֵר</span>  (‘the lamp [= happiness, delight] of the wicked is sin’), by others with <span dir="rtl">נִיר</span> (Torah: 0. Nebiim: 2. Ketubim: 1. Total: 3; Prov 21:4b: 
 ‘the tillage [or, ploughing] of the wicked is 
 sin’; cf. the use of <span dir="rtl">נִיר</span> [‘the tillable, untilled or fallow ground’] in Jer 4:3; Hos 
 10:12; Prov 13:23). Another possibility that might be explored is to connect the word with Akkadian <i>nīru</i> III, a mark for the identification of animals; Arab. <i>nāra</i> ‘to make a mark upon a camel with a hot iron’, <i>nār</i> ‘brand, mark made with a hot iron’. For a similar proposal see Driver 1951, 185. This would result in the translation ‘Haughty eyes and a proud heart, the hallmark of the wicked, are sin.’  However, all three interpretations remain uncertain.

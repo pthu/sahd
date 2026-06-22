@@ -66,6 +66,55 @@ For the abbreviations see the
 Brenner 1982<br>
 Athalya Brenner, <i>Colour Terms in the Old Testament</i> (JSOTSup, 21), Sheffield: JSOT Press.
 	</div>
+	
+	
+<div style="padding-left: 22px; text-indent: -22px;">
+Chary 1969<br>
+Chary, T. Commentary on <i>Haggai-Malachi</i> (Sources bibliques). Paris: J. Gabalda et Cie.
+</div>
+
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Hanhart 1998<br>
+Hanhart, R. Commentary on <i>Zechariah</i> (Biblischer Kommentar Altes Testament 14.7, 1). Neukirchen-Vluyn: Neukirchener Verlag.
+</div>
+	
+	
+<div style="padding-left: 22px; text-indent: -22px;">
+Haupt 1913<br>
+Haupt, P. "The visions of Zechariah," <i>Journal of Biblical Literature</i> 32: 107-22.
+</div>
+
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Horst 1954 <br>
+Horst, F. and Robinson, T.H. Commentary on <i>the Twelve Prophets</i> (Handbuch zum Alten Testament). Tübingen: J. C. B. Mohr (Paul Siebeck).
+</div>
+
+
+<div style="padding-left: 22px; text-indent: -22px;">
+McHardy 1968<br>
+McHardy, W. D. "The horses in Zechariah," in <i>In Memoriam Paul Kahle</i> (Beihefte zur Zeitschrift für die alttestamentliche Wissenschaft 103), edited by M. Black and G. Fohrer, pp. 174-79. Berlin: Verlag Alfred Töpelmann.
+</div>
+
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Myers and Myers 1987<br>
+Myers, C. and Myers, E. Commentary on <i>Haggai, Zechariah 1-8</i> (Anchor Bible 25B). Garden City, NY: Doubleday.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Rudolph 1976<br>
+Rudolph, W. Commentary on <i>Haggai, Zechariah 1-8, Zechariah 9-14, and Malachi</i> (Kommentar zum Alten Testament 13.4). Gütersloh: G. Mohn.
+</div>
+
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Willi-Plein 2007<br>
+Willi-Plein, I. Commentary on <i>Haggai, Zechariah</i> and <i>Malachi</i> (Zürcher Bibelkommentare: Altes Testament 24.4). Zürich: Theologischer Verlag.
+</div>
+
+
 
 
 <div style="padding-left: 22px; text-indent: -22px;">

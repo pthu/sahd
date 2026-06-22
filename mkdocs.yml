@@ -76,6 +76,7 @@ nav:
                 - כִּיר - cooking-stove: words/kir.md
                 - כחל - to paint: words/k-ch-l.md
                 - כָּחֹל - dark ?: words/kachol.md
+                - כִּיּוֹר - washing-tub: words/kiyyor.md
                 - כְּלִי - vessel: words/kli.md
                 - כִּסֵּא - throne: words/kisse2.md
                 - כַּר - saddle: words/kar_1.md
@@ -112,6 +113,7 @@ nav:
                 - נִיר - lamp: words/nir_1.md
                 - נָקֹד - speckled: words/naqod.md
                 - נֵר - lamp: words/ner_1.md
+                - נֶשֶׁר - bird of prey: words/nesher.md
                 - נִשְׁתְּוָן - official letter: words/nishthwan.md
             - ס:
                 - סָעִיף - cleft: words/sa3ip.md
@@ -195,6 +197,7 @@ nav:
             - Deliverance: semantic_fields/deliverance.md
             - Divination: semantic_fields/divination.md
             - Food Preparation: semantic_fields/food preparation.md
+            - Food Preparation: semantic_fields/food_preparation.md
             - Gemstones: semantic_fields/gemstones.md
             - Headdress: semantic_fields/headdress.md
             - Honour: semantic_fields/honour.md
@@ -204,7 +207,7 @@ nav:
             - Metals: semantic_fields/metals.md
             - Morality: semantic_fields/morality.md
             - Servitude: semantic_fields/servitude.md
-            - Supernatural Beings: semantic_fields/supernatural beings.md
+            - Supernatural Beings: semantic_fields/supernatural_beings.md
             - Textile Production: semantic_fields/textile production.md
             - Toponyms: semantic_fields/toponyms.md
             - Transport: semantic_fields/transport.md
@@ -268,6 +271,7 @@ nav:
     - Printed publications: 'store/printed_publications.md'
     - Miscellaneous:
             - Overview Deliverance: miscellaneous/overview_deliverance.md
+            - Kly History: miscellaneous/kly_history.md
     - Partners: 'store/partners.md'
     - Contribution: 'store/contribution.md'
     - Contact: 'store/contact.md'

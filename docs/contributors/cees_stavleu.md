@@ -20,4 +20,4 @@ Cees Stavleu is an independent scholar specializing in the translation of animal
 
  
 ### Contributions
-[פֶּרֶס – bird of prey](../words/peres.md)<br>
+[נֶשֶׁר – bird of prey](../words/nesher.md)<br>[פֶּרֶס – bird of prey](../words/peres.md)<br>

@@ -8,7 +8,7 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1KBCNn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># כִּבְשָׁן <i>kibšān</i> – kiln
 
 Semantic Fields:
-[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Food Preparation](../semantic_fields/food preparation.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Food Preparation](../semantic_fields/food_preparation.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Jacques T.A.G.M. van Ruiten](../contributors/jacques_t.a.g.m._van_ruiten.md)<br>
 First published: 2025-02-05<br>Last update: 2026-01-06 (Paul Sanders) <br>Citation: Jacques T.A.G.M. van Ruiten, כִּבְשָׁן <i>kibšān</i> – kiln, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2025 (update: 2026)
 (WORK IN PROGRESS)
@@ -57,7 +57,7 @@ Gen 19:28; Exod 9:8, 10; 19:18; Sir 27:5.
 
 <b>b. Peshitta (Pesh)</b>:
 
-* <span dir="rtl">ܐܬܘܢܐ</span> (<i>’attūnā</i>), ‘furnace’:
+* <span dir="rtl">ܐܬܘܢܐ</span> (<i>ʾattūnā</i>), ‘furnace’:
 Gen 19:28; Exod 9:8, 10; 19:18.
 <!--Omission in Sir?-->
 

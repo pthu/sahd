@@ -50,14 +50,17 @@ For the abbreviations see the
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dillard 1992<br>
+Dillard, R.B. Commentary on <i>Joel</i> in <i>The Minor Prophets: An Exegetical and Expository Commentary</i>, Vol. 1: <i>Hosea, Joel, and Amos</i>, edited by T. E. McComiskey. Grand Rapids, MI: Baker Book House.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Rudolph 1971<br>
+Rudolph, W. Commentary on <i>Joel, Amos, Obadiah</i>, and <i>Jonah</i> (Kommentar zum Alten Testament 13.2). Gütersloh: G. Mohn.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Wolff 1969<br>
+Wolff, H. W. Commentary on <i>Joel</i> and <i>Amos</i> (Biblische Kommentar Altes Testament 14.2). Neukirchen-Vluyn: Neukirchener Verlag.
 	</div>
 
 

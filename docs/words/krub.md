@@ -8,7 +8,7 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1KRWBin" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># כְּרוּב <i>k<sup>e</sup></small>rūb</i> – cherub
 
 Semantic Fields:
-[Supernatural Beings](../semantic_fields/supernatural beings.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Supernatural Beings](../semantic_fields/supernatural_beings.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Alice Wood](../contributors/alice_wood.md)<br>
 First published: 2014-08-13<br>Last update: 2026-02-21 (Paul Sanders: figures) <br>Citation: Alice Wood, כְּרוּב <i>k<sup>e</sup></small>rūb</i> – cherub, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2014 (update: 2026)
 

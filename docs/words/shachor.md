@@ -97,6 +97,7 @@ For the abbreviations see the
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Allegro 1968<br>
+Allegro, J. M. <i>Qumrân Cave 4: 4Q158-4Q186</i>, with the collaboration of A. A. Anderson (Discoveries in the Judean Desert 5). Oxford: Clarendon Press.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
@@ -106,53 +107,65 @@ Athalya Brenner, <i>Colour Terms in the Old Testament</i> (JSOTSup, 21), Sheffie
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Chary 1969<br>
+Chary, T. Commentary on <i>Haggai-Malachi</i> (Sources bibliques). Paris: J. Gabalda et Cie.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Dillard 1992<br>
+Dillard, R. B. Commentary on <i>Joel</i> in <i>The Minor Prophets: An Exegetical and Expository Commentary</i>, Vol. 1: <i>Hosea, Joel, and Amos</i>, edited by T. E. McComiskey. Grand Rapids, MI: Baker Book House.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 García Martínez & Tigchelaar 1997-98<br>
+García Martínez, F. and Tigchelaar, E. J. C., eds. <i>The Dead Sea Scrolls: Study Edition</i>. Leiden: Brill/ Grand Rapids, MI/ Cambridge: Eerdmans.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Hanhart 1998<br>
+Hanhart, R. Commentary on <i>Zechariah</i> (Biblischer Kommentar Altes Testament 14.7, 1). Neukirchen-Vluyn: Neukirchener Verlag.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Hertzberg 1953<br>
+Hertzberg, H. W. "'Grüne' Pferde," <i>Zeitschrift des deutschen Palästina-Vereins</i> 69: 177-80.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Lefkovits 2000<br>
+Lefkovits, J. K. <i>The Copper Scroll 3Q15: A Reevaluation. A New Reading, Translation, and Commentary</i> (Studies on the Texts of the Desert of Judah 25). Leiden: Brill.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Myers & Myers 1987<br>
+Myers, C. & Myers, E. Commentary on <i>Haggai, Zechariah 1-8</i> (Anchor Bible 25B). Garden City, NY: Doubleday.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Robinson 1954<br>
+Robinson, T. H. Commentary on <i>the Twelve Prophets</i>, 3rd ed. (Handbuch zum Alten Testament 14). Tübingen: Mohr.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Rudolph 1976<br>
+Rudolph, W. Commentary on <i>Haggai, Zechariah 1-8, Zechariah 9-14, and Malachi</i> (Kommentar zum Alten Testament 13.4). Gütersloh: G. Mohn.
 	</div>
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Sellin 1922<br>
+Sellin, D. E. Commentary on <i>the Twelve Prophets</i> (Kommentar zum Alten Testament 12). Leipzig: A. Deicherische Verlagsbuchhandlung.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Wolff 1969<br>
+Wolff, H. W. Commentary on <i>Joel and Amos</i> (Biblische Kommentar Altes Testament 14.2). Neukirchen-Vluyn: Neukirchener Verlag.
 	</div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
 Wolters 1996<br>
+Wolters, A. <i>The Copper Scroll: Overview, Text and Translation</i>. Sheffield: Sheffield Academic Press.
 	</div>
 
 

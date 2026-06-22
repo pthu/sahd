@@ -51,6 +51,11 @@ For the abbreviations see the
 
 
 <div style="padding-left: 22px; text-indent: -22px;">
+Brenner 1982 <br>
+Brenner, A. <i>Colour Terms in the Old Testament</i> (Journal for the Study of the Old Testament, Supplement Series 21). Sheffield: JSOT Press.
+</div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
 McCarter 1980 <br>
 P. Kyle McCarter, <i>1 Samuel</i> (AB), 
 Garden City NY: Doubleday.  

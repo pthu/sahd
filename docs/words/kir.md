@@ -8,7 +8,7 @@
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1KJRn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># כִּיר <i>kīr</i> – cooking-stove
 
 Semantic Fields:
-[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Food Preparation](../semantic_fields/food preparation.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
+[Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Food Preparation](../semantic_fields/food_preparation.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [M.D. Koster](../contributors/m.d._koster.md)<br>
 First published: 2014-06-28<br>Citation: M.D. Koster, כִּיר <i>kīr</i> – cooking-stove, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2014
 (WORK IN PROGRESS)
