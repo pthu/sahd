@@ -88,7 +88,7 @@ However, because MT’s reading of <span dir="rtl">קַּלַּחַת</span> its
 <span id="RCM"></span>
 ## 1 Root and Comparative Material
 
-NOONAN!
+<!--NOONAN!-->
 
 <b>A.1</b> <i>Egyptian</i>: Thomas Lambdin and Maximilian Ellenbogen 	regard <span dir="rtl">קַלַּחַת</span> as a loan from Egyptian <i>qrḥt</i>, ‘earthen pot’ 
 (<i>WÄS</i>, Bd. 5, 62-3; Hannig, 864).<sup id="fnref:9"><a href="#footnote" data-toggle="modal" onclick="show_modal('fn:9')">9</a></sup> 

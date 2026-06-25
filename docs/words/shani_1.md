@@ -17,8 +17,7 @@ First published: 2024-10-10<br>Citation: John E. Hartley, שָׁנִי <i>šān�
 ##Introduction
 Grammatical Type: noun
 
-Occurrences: ?x HB (35/5/2); 1x Sir; 8x Qum; 0x inscr. (Total:
-?).
+Occurrences: 42x HB (35/5/2); 1x Sir; 8x Qum; 0x inscr. (Total: 51).
 
 
 * Torah: Gen 38:28, 30; Exod 25:4; 26:1, 31, 36; 27:16; 28:5, 6, 8, 15, 33; 35:6, 23, 25, 35; 36:8, 35, 37; 38:18, 23; 39:1, 2, 3, 5, 8, 24, 29; Lev 14:4, 6, 49, 51, 52; Num 4:8; 19:6;

@@ -73,10 +73,10 @@ nav:
                 - יֵשַׁע - safety: words/yesha3.md
             - כ:
                 - כִּבְשָׁן - kiln: words/kibshan.md
-                - כִּיר - cooking-stove: words/kir.md
                 - כחל - to paint: words/k-ch-l.md
                 - כָּחֹל - dark ?: words/kachol.md
                 - כִּיּוֹר - washing-tub: words/kiyyor.md
+                - כִּיר - cooking-stove: words/kir.md
                 - כְּלִי - vessel: words/kli.md
                 - כִּסֵּא - throne: words/kisse2.md
                 - כַּר - saddle: words/kar_1.md
@@ -271,7 +271,7 @@ nav:
     - Printed publications: 'store/printed_publications.md'
     - Miscellaneous:
             - Overview Deliverance: miscellaneous/overview_deliverance.md
-            - Kly History: miscellaneous/kly_history.md
+            - Kly Project: miscellaneous/KLY_project.md
     - Partners: 'store/partners.md'
     - Contribution: 'store/contribution.md'
     - Contact: 'store/contact.md'

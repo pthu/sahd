@@ -1,15 +1,16 @@
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
----
-word_english: anointed one   
-word_hebrew: מָשִׁיחַ   
-transcription: <i>מָשִׁיחַ</i>   
-title: <i>māšī<small><sup>a</sup></small>ḥ</i>
-semantic_fields:    
-contributors: alison_salvesen  
-first_published:      
-last_update: 
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1MCJXn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># מָשִׁיחַ <i>מָשִׁיחַ</i> – <i>māšī<small><sup>a</sup></small>ḥ</i>
 
----
+Author(s):
+[Alison Salvesen](../contributors/alison_salvesen.md)<br>
+First published: CHECK<br>Citation: Alison Salvesen, מָשִׁיחַ <i>מָשִׁיחַ</i> – <i>māšī<small><sup>a</sup></small>ḥ</i>, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), CHECK
+
 
 
 ##Introduction

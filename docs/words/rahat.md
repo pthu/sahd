@@ -260,7 +260,7 @@ eyebrows, or mouth, do not make sense either. It is true that Prov  6:25
 warns us not to let the adulteress capture us with her eyelashes 
 (<span dir="rtl">בְּעַפְעַפֶּיהָ</span>), but these should probably be seen as giving access to the
 capturing eye itself. 
-skip
+<!--skip-->
 
 
 <b>B.1</b>  Other solutions are less attractive. 
