@@ -1,6 +1,6 @@
 ---
 word_english: to shine   
-word_hebrew: שֹׂרֵק   
+word_hebrew: שָׂרַק   
 transcription: <i>śāraq</i>   
 title:    
 semantic_fields: colours   
@@ -16,7 +16,7 @@ last_update:
 Grammatical type: verb.   
 Occurrences:   0x HB; 2x Sir; 0x Qum; 0x Inscr.  (Total: 2x).
 
-* Sira: 43.9<sup><small>Bmg,Mas</small></sup>; 50.7<sup><small>B</small></sup>
+* Sir: 43.9<sup><small>Bmg,Mas</small></sup>; 50.7<sup><small>B</small></sup>
 
 
 
