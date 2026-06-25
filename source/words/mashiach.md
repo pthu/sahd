@@ -2,8 +2,8 @@
 ---
 word_english: anointed one   
 word_hebrew: מָשִׁיחַ   
-transcription: <i>מָשִׁיחַ</i>   
-title: <i>māšī<small><sup>a</sup></small>ḥ</i>
+transcription: <i>māšī<small><sup>a</sup></small>ḥ</i>   
+title:   
 semantic_fields:    
 contributors: alison_salvesen  
 first_published:      
