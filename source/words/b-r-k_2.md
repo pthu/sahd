@@ -7,6 +7,8 @@ semantic_fields: blessing
 contributors: james_k._aitken  
 first_published: 2024-10-10     
 last_update: 
+shebanq_id: 1BRKv   
+
 
 ---
 

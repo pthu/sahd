@@ -8,6 +8,8 @@ contributors: chiara_stornaiuolo
 first_published: 2025-10-10  
 last_update: 2025-12-24 (Paul Sanders)   
 additional_info: (WORK IN PROGRESS)
+shebanq_id: 1CLGn   
+
 
 ---
 
@@ -32,7 +34,7 @@ V:7; 4Q222 (4QJub<sup><small>g</small></sup>) fr3:2 (see A.2).
 in reverse order in accordance with the rest of the manuscript. Therefore, DJD V:91 suggests reading <span dir="rtl">שלוג</span>, suggesting that it is probably connected to <span dir="rtl">שלג</span>, ‘snow’, indicating the fairness of the skin. According to Popovic (2006:59) it is impossible to decide from the context whether the word should be read ‘non-coded’ or reversed. 
 
 <b>A.2</b>  For 4Q216 V:7 scholars have suggested a reconstruction based on Jub 2:1-4. The text mentions all the natural phenomena created by God. 4Q222 fr3:2 reflects Jub 48:5. This passage lists the ten plagues sent on Egypt by God (DJD XIII).    
-SEE BALAD
+<!--SEE BALAD-->
 
 <b>A.3</b>  In Ps 68:15 the denominative verb <span dir="rtl">שׁלג</span>, ‘to snow’ is used: <span dir="rtl">תַּשְׁלֵג בְּצַלְמוֹן</span>, ‘it is snowing in Zalmon’. Because it concerns a verb, this passage is not taken into consideration for the analysis.
 
@@ -63,7 +65,7 @@ In addition, the word <i>glṯ</i> appears also in KTU 1.3(+1.8).vi:13-14; 1.92.
 In Syriac ܬܠܓܐ (<i>talgā</i>),‘snow’ is found (Sokoloff, <i>SLB</i>, 1647) and in Mandaic <i>talga</i>, ‘snow’ (MdD 478b). 
 In the Aramaic texts from Qumran <span dir="rtl">תלג</span>, ‘snow’ is found in 4Q204 fr1vi:24 and
 <span dir="rtl">תלגא</span>, ‘snow’ in 4Q204 fr1 vi:26;  4Q209 fr23:10.    
-SEE TEXT BALAD.
+<!--SEE BALAD-->
 
 <b>A.5</b>  <i>Phoenician</i>: <span dir="rtl">שׁלג</span> (Gesenius, <i>TPC</i>, 1412).
 

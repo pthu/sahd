@@ -355,7 +355,8 @@ A few times the word σφραγἰς is used figuratively: Sir 17:22 compares al
 
 
 <b>A.4</b>
-The cord in Gen 38:18 becomes a ‘cloak’ (<span dir="rtl">שושיפא</span>) in Tg<sup>O</sup> and the Palestinian Targums. In Exod 28:11, 21; 39:14 both <i>ṭarḥag<sup>O</sup></i> and <i>ṭarḥag<sup>PsJ</sup></i> <b>CHECK</b> 
+The <span dir="rtl">פָּתִיל</span>,
+‘cord’, in Gen 38:18 becomes a ‘cloak’ (<span dir="rtl">שושיפא</span>) in Tg<sup>O</sup> and Tg<sup>N</sup>. In Exod 28:11, 21, and 39:14, both Tg<sup>O</sup> and Tg<sup>PsJ</sup> 
 stipulate that the lettering should be clearly readable, like ‘the engraving on a ring’. 
 The same rendering, <span dir="rtl">עזקתא</span>, is chosen in 1 Kgs 21:8; Jer 22:24; Hag 2:23; Song 8:6 (2x), probably to specify that we are dealing with a signet ring. 
 

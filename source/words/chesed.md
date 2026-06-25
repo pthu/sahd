@@ -10,7 +10,7 @@ last_update:
 update_info:    
 contributors_footnote:     
 additional_info: (WORK IN PROGRESS)   
-shebanq_id: 
+shebanq_id: 1XSDn   
 
  
 ---
@@ -36,23 +36,39 @@ Qere/Ketiv: 4 [this refers only to number, suffixes and vav, not the word itself
 
 ## 1. <a id="RCM"></a>Root and Comparative Material
 
-<b>A.1</b> The etymology of <span dir="rtl">חֶסֶד</span> is unclear. The root appears only in Hebrew and Aramaic. According to Zobel, <span dir="rtl">חֶסֶד</span> is a Hebrew word, that found it way to Jewish Aramaic, Mandean and Syriac (Zobel, 45). He also views derivation from Arabic <i>ḥašada</i> discussed by Glueck unlikely. The root does not appear in Akkadian and Ugaritic. 
+<b>A.1</b> The etymology of <span dir="rtl">חֶסֶד</span> is unclear. The root appears only in Hebrew and Aramaic. According to Zobel, <span dir="rtl">חֶסֶד</span> is a Hebrew word, that found its way to Jewish Aramaic, Mandean and Syriac (Zobel, 45). He also views derivation from Arabic <i>ḥašada</i> discussed by Glueck unlikely. The root does not appear in Akkadian and Ugaritic. 
 
-<b>A.2</b> The opposite meaning ‘shame,’ ‘disgrace,’ ‘abuse’ (in Heb. only in Lev 20:17, Prov 14:34, Sir 41:22 and possibly 1QM 3:6) might derive from a different homonymous root. It might also be a result of divergent development of antithetical meanings of the same root. The antithetical meaning dominates in Syriac (Stoebe, 459).    
+<b>A.2</b> The opposite meaning ‘shame,’ ‘disgrace,’ ‘abuse’ (in Hebr. only in Lev 20:17, Prov 14:34, Sir 41:22 and possibly 1QM 3:6) might derive from a different homonymous root. It might also be a result of divergent development of antithetical meanings of the same root. The antithetical meaning dominates in Syriac (Stoebe, 459).    
 
 
 ## 2. Formal Characteristics
 
 <b>A.1</b> The pattern is <i>qatl</i> (pausal form חָ֑סֶד; plural חֲסָדִים; suffix חֲסָדַי).
 
-<b>A.2</b> The noun appears predominantly in singular, with 18 cases of plural in the Tanach. In most of these, the context implies specific manifestations of an attitude described as <span dir="rtl">חֶסֶד</span>.
+<b>A.2</b> The noun appears predominantly in singular, with 18 cases of plural in the Tanach. In most of the latter cases, the context implies specific manifestations of an attitude described as <span dir="rtl">חֶסֶד</span>.
 
 
 ## 3. Syntagmatics
 
-<b>A.1</b> Since the word appears almost 450x in the ancient Hebrew texts, it is subject of a variety of verbs: היה ‘be’ Ps 33:22, 119:76, אפס ‘cease’ Ps 77:9, תמם ‘cease’ Lm 3:22, מושׁ ‘depart’ Is 54:10, סור ‘turn aside’ 2 S 7:15, מוט ni. ‘be moved’ Si 40:17(B), כרת ni. ‘be cut off’ Si 40:17 (M), פרח ‘ﬂourish’ 4Q185 1.1:10 (4Q185 f1_2i:10), גבר ‘be mighty’ Ps 103:11, 117:2, אמן ni. ‘be established’ Is 55:3, Si 50:24, בנה ni. ‘be built’, Ps 893, ספר pu. ‘be recounted’ Ps 88:12, כתב pass. ‘be written’ 2 C 32:32, 35:26, קדם pi. ‘meet’ Ps 89:15, פגשׁ ni. ‘meet one another’ Ps 85:11, בוא ‘come’ Ps 119:41, סבב pol. ‘encircle’ Ps 32:10, רדף ‘pursue’ Ps 23:6, עזב ‘forsake’ Pr 3:3, נטשׁ forsake Si 47:22, נחם pi. comfort Ps 119:76, סעד ‘support’ Ps 94:18, נצר ‘guard’ Ps 40:12, 61:8, Pr 20:28.
+<b>A.1</b> Since the word <span dir="rtl">חֶסֶד</span> appears almost 450 times in the ancient Hebrew texts, it is subject of a variety of verbs: היה, ‘be’, Pss 33:22, 119:76; אפס, ‘cease’, Ps 77:9; תמם, ‘cease’, Lam 3:22; מושׁ, ‘depart’, Isa 54:10; סור, ‘turn aside’, 2 Sam 7:15; מוט <i>niph.</i>, ‘be moved’, Sir 40:17<sup><small>B</small></sup>; כרת <i>niph.</i>, ‘be cut off’, Sir 40:17<sup><small>Mas</small></sup>; פרח, ‘ﬂourish’, 4Q185 1.1:10 (4Q185 fr1-2.i:10), גבר, ‘be mighty’, Pss 103:11, 117:2; אמן <i>niph.</i>, ‘be established’, Isa 55:3, Sir 50:24; בנה <i>niph.</i>, ‘be built’, Ps 89:3; ספר <i>pu.</i>, ‘be recounted’, Ps 88:12; כתב pass., ‘be written’, 2 Chron 32:32, 35:26; קדם <i>pi.</i>, ‘meet’, Ps 89:15; פגשׁ <i>niph.</i>, ‘meet one another’, Ps 85:11; בוא, ‘come’, Ps 119:41; סבב <i>pol.</i>, ‘encircle’, Ps 32:10; רדף, ‘pursue’, Ps 23:6; עזב, ‘forsake’, Prov 3:3; נטשׁ, ‘forsake’, Sir 47:22; נחם <i>pi.</i>, ‘comfort’, Ps 119:76; סעד, ‘support’, Ps 94:18; נצר, ‘guard’, Pss 40:12, 61:8, Prov 20:28.
 
-<b>A.2</b> Most often, it is a direct object of the verb עשׂה, ‘do’, Gen 19:19, 20:13, 24:12.14.49, 32:11, 40:14, 47:29, Exod 20:6, Deut 5:10, Josh 2:12.14, Judg 1:24, 8:35, 1 S 15:6, 20:8.14, 2 S 2:5.6, 3:8, 9:1.3.7, 10:2, 1 Chron 19:2, 2 S 22:51, Pss 18:51, 2 S 15:20, 1 Kgs 2:7, 3:6, 2 Chron 1:8, 1 Kgs 3:6, Jer 9:23, 32:18, Zc 7:9, Ps 109:16, Job 10:12,  Ruth 1:8, Neh 13:14, 2 Chron 24:22, Sir 46:7, 49:3, CD 20:21, 1QH 16:9, 16:13, 4QJubf 23:31. Apart from that it also appears as an object of פלא hi. ‘make wonderful’ Ps 31:22, פלה hi., ‘make distinct’ Pss 4:4, 17:7, משׁך ‘extend’ Jr 31:3,  Pss 36:11, 109:12, נטה, ‘extend’ Gen 39:21 hi. ‘extend’ Ezra 7:29, 9:9, שׁמר, ‘keep’ Dt 7:9.12, 1 K 8:23, 2 Chron 6:14,  Hos 12:12, Ps 89:29, Dan 9:4, Neh 1:5, 9:32, CD 19:1, 1QM 14:4, 4Q370 2:6,  4Q393 3:2 4QShirb 10:10, נצר, ‘keep’ Exod 34:7, 1QH 168, קשׁר ‘bind’ Pr 3:3.
+<b>A.2</b> Most often, <span dir="rtl">חֶסֶד</span> is a direct object of the verb עשׂה: 
+
+
+* <span dir="rtl">עשׂה</span>, ‘do’, Gen 19:19; 20:13; 24:12, 14, 49; 32:11; 40:14; 47:29, Exod 20:6; Deut 5:10; Josh 2:12, 14; Judg 1:24; 8:35; 1 Sam 15:6; 20:8, 14; 2 Sam 2:5, 6; 3:8; 9:1, 3, 7; 10:2; 15:20; 22:51; 1 Kgs 2:7; 3:6; Jer 9:23; 32:18; Zech 7:9; Pss 18:51; 109:16; Job 10:12; Ruth 1:8; Neh 13:14; 
+1 Chron 19:2; 2 Chron 1:8; 24:22; 
+Sir 46:7; 49:3; CD 20:21; 1QH 16:9; 16:13, 4QJub<sup><small>f</small></sup> 23:31. 
+
+Apart from that <span dir="rtl">חֶסֶד</span> also appears as an object of the following verbs:
+
+* <span dir="rtl">פלא</span> <i>hiph</i>, ‘make wonderful’, Ps 31:22;
+* <span dir="rtl">משׁך</span> <i>hiph.</i>, ‘make distinct’, Ps 17:7;
+* <span dir="rtl">פלה</span>, ‘extend’, Jer 31:3; Pss 36:11, 109:12;
+* <span dir="rtl">שׁמר</span>, ‘keep’, Deut 7:9, 12, 1 Kgs 8:23, Hos 12:12, Ps 89:29, Dan 9:4, Neh 1:5, 9:32, 2 Chron 6:14, CD 19:1, 1QM 14:4, 4Q370 2:6,  4Q393 3:2, 4QShir<sup><small>b</small></sup> 10:10;
+* <span dir="rtl">נטה</span>, Gen 39:21; <i>hiph.</i>, Ezra 7:29, 9:9;
+* <span dir="rtl">נצר</span>, Exod 34:7, 1QH 168;
+* <span dir="rtl">כתב</span>, ‘write’, Prov 3:3; 
+* <span dir="rtl">קשׁר</span>, ‘bind’, Prov 3:3. 
 
 <b>A.3</b> Nomen regens
 
@@ -62,9 +78,9 @@ Qere/Ketiv: 4 [this refers only to number, suffixes and vav, not the word itself
 
 <b>A.6</b> Modified by adjectives
 
-<b>A.7</b> One of the most common phrases in which חֶסֶד appears is the phrase חֶסֶד וֶאֱמֶת, loyalty and faithfulness, reliable faithfulness Gn 24:27, 49; 32:11; 47:29; Exod 34:6; Num 14:18 (mss, Sam); Jos 2:14; 2 Sam 2:6; 15:20 Pss 25:10; 40:11, 12; 57:4; 61:8; 85:11; 86:15; 89:15; 115:1; Prov 3:3; 14:22; 16:6; 20:28; 1QH 16:16; 11QPs<sup>a</sup> 26:10, In some places חֶסֶד and אֱמֶת appear subsequently in a list Hos 4:1; Mic 7:20; 1QH 11:17 . Other phrases including the noun are less common. Of special note is the description of God appearing several times in the Tanach and Qumran writings אֶרֶךְ אַפַּיִם וְרַב־חֶסֶד long of, i.e. slow to, anger and great of loyalty Exod 34:6; Num 14:18; Joel 2:13; Jon 4:2 ;Pss 86:15; 103:8; Neh 9:17(Qr); 1QH 16:16 ([אר]ך) 4QShirb 52.31 (ארוך . . . החסד), var. Ps 145:8 (‏גְּדָל־חָֽסֶד great of loyalty).
+<b>A.7</b> One of the most common phrases in which חֶסֶד appears is the phrase חֶסֶד וֶאֱמֶת, ‘loyalty and faithfulness’, ‘reliable faithfulness’, Gen 24:27, 49; 32:11; 47:29; Exod 34:6; Num 14:18 (mss Sam); Josh 2:14; 2 Sam 2:6; 15:20 Pss 25:10; 40:11, 12; 57:4; 61:8; 85:11; 86:15; 89:15; 115:1; Prov 3:3; 14:22; 16:6; 20:28; 1QH 16:16; 11QPs<sup>a</sup> 26:10, In some places חֶסֶד and אֱמֶת appear subsequently in a list: Hos 4:1; Mic 7:20; 1QH 11:17. Other phrases including the noun are less common. Of special note is the description of God appearing several times in the Tanach and Qumran writings אֶרֶךְ אַפַּיִם וְרַב־חֶסֶד ‘long of’, i.e. ‘slow to, anger and great of loyalty’, Exod 34:6; Num 14:18; Joel 2:13; Jon 4:2; Pss 86:15; 103:8; Neh 9:17(Qr); 1QH 16:16 ([אר]ך) 4QShir<sup><small>b</small></sup> 52.31 (ארוך . . . החסד), var. Ps 145:8 (‏גְּדָל־חָֽסֶד, ‘great of loyalty’).
 
-<b>A.8</b> It oftentimes appears in parallel constructions as a synonym of the following nouns: בְּרִית, ‘covenant’, ‏אֱמֶת, ‘truth, stability, faithfulness’, ‏אֱמוּנָה, ‘faithfulness’, ‏חֵן, ‘grace’, ‏צֶדֶק, ‘righteousness’, ‏צְדָקָה, ‘righteousness’, ‏טוֹב, ‘goodness’, ‏טוּב, ‘goodness’, ‏מִשְׁפָּט, ‘justice’, ‏שָׁלוֹם, ‘peace’, ‏רַחֲמִים, ‘compassion’, ‏גְּבוּרָה, ‘might’, ‏נִפְלָא, ‘wonder’, ‏חַיִּים, ‘life’, תְּפִלּה, ‘prayer’.
+<b>A.8</b> <span dir="rtl">חֶסֶד</span> oftentimes appears in parallel constructions as a synonym of the following nouns: בְּרִית, ‘covenant’, ‏אֱמֶת, ‘truth, stability, faithfulness’, ‏אֱמוּנָה, ‘faithfulness’, ‏חֵן, ‘grace’, ‏צֶדֶק, ‘righteousness’, ‏צְדָקָה, ‘righteousness’, ‏טוֹב, ‘goodness’, ‏טוּב, ‘goodness’, ‏מִשְׁפָּט, ‘justice’, ‏שָׁלוֹם, ‘peace’, ‏רַחֲמִים, ‘compassion’, ‏גְּבוּרָה, ‘might’, ‏נִפְלָא, ‘wonder’, ‏חַיִּים, ‘life’, תְּפִלּה, ‘prayer’.
 
 <b>A.9</b> Prepositions
 
@@ -75,8 +91,8 @@ Qere/Ketiv: 4 [this refers only to number, suffixes and vav, not the word itself
 
 <b>a. Septuagint (LXX):</b>  
 
-The LXX usually renders <span dir="rtl">חֶסֶד</span> by means of ἔλεος, ‘mercy’ (213 times) and its cognates ἐλεημοσύνη (6 times), or eleḗmos (twice).
-Apart from that, different  we find less common renderings:
+The LXX usually renders <span dir="rtl">חֶסֶד</span> by means of ἔλεος, ‘mercy’ (213 times), or its cognates ἐλεημοσύνη (6 times) and eleḗmos (twice).
+Apart from that, we find these less common renderings:
 
 * δικαιοσύνη (8 times)
 * χάρις (twice)
@@ -100,7 +116,7 @@ In 6 other passages the LXX either has no corresponding equivalent or is transla
 
 <b>b.  Peshitta (Pesh):</b>  
 
-The usual Syriac rendering is ܛܝܒܘܬܐ.
+The usual Syriac rendering is ܛܝܒܘܬܐ (<i>ṭaybūṯā</i>), ‘kindness’.
 
 
 <b>c. Targum (Tg):</b>  
@@ -122,7 +138,7 @@ It seems that Jerome was significantly influenced by the LXX rendering of <span 
 * Words related to commitment:  בְּרִית, ‘covenant’, ‏אֱמֶת, ‘truth, stability, faithfulness’, ‏אֱמוּנָה, ‘faithfulness’;   
 * Words related to benevolence: ‏חֵן, ‘favor’, ‏טוֹב, ‘goodness’, ‏טוּב, ‘goodness’,  רַחֲמִים, ‘mercy’;    
 * Words related to justice and righteousness: ‏צֶדֶק, ‘righteousness’, ‏צְדָקָה, ‘righteousness’, מִשְׁפָּט, ‘justice’;    
-* Words related to deliverance: ‏‘ ‏שָׁלוֹםpeace’, ‏גְּבוּרָה, ‘might’, ‏נִפְלָא, ‘wonder’, ‏חַיִּים, ‘life’.
+* Words related to deliverance: ‏‘ ,‏שָׁלוֹםpeace’, ‏גְּבוּרָה, ‘might’, ‏נִפְלָא, ‘wonder’, ‏חַיִּים, ‘life’.
 
 <b>A.2</b>  In the places, where context is marked, there is usually a two-way relationship involved. Even in places, where it is God exercising benevolent action described with <span dir="rtl">חֶסֶד</span>, the wider context involves prior care about the relationship on part of the receiver of <span dir="rtl">חֶסֶד</span> and/or expectation of reciprocity of the receiving party after specific act of <span dir="rtl">חֶסֶד</span>.
 
@@ -130,7 +146,7 @@ It seems that Jerome was significantly influenced by the LXX rendering of <span 
 ## 6. Exegesis
 
 
-<b>A.1</b> 1 In many cases <span dir="rtl">חֶסֶד</span> is explicitly described as reciprocal (e.g. Gen 21:22-23). Lack of reciprocity is viewed as violation of <span dir="rtl">חֶסֶד</span> (e.g., Judg 8:35; 2Sam 16:17). Translating <span dir="rtl">חֶסֶד</span> as ‘mercy’, following LXX and Vulgate deprives the meaning of the central semantic component relating to reciprocity. As mercy is not dependent on the relationship, describing various actions characterized by <span dir="rtl">חֶסֶד</span> as mercy significantly distorts the semantics. In some cases, it disturbs semantic cohesion of the text. One example is Psalm 136, where <span dir="rtl">חֶסֶד</span> of God (‘mercy’ in KJV) involves smiting the firstborn (136:10), throwing the Pharaoh and his army into the sea (136:15) and slaying of hostile kings (136:17-20). Obviously, these actions are manifestations of covenant faithfulness towards Israel. As such, in regards to Egyptians and kings hostile to Israel <span dir="rtl">חֶסֶד</span> is certainly not an act of mercy.
+<b>A.1</b> 1 In many cases <span dir="rtl">חֶסֶד</span> is explicitly described as reciprocal (e.g., Gen 21:22-23). Lack of reciprocity is viewed as violation of <span dir="rtl">חֶסֶד</span> (e.g., Judg 8:35; 2Sam 16:17). Translating <span dir="rtl">חֶסֶד</span> as ‘mercy’, following LXX and Vulgate deprives the meaning of the central semantic component relating to reciprocity. As mercy is not dependent on the relationship, describing various actions characterized by <span dir="rtl">חֶסֶד</span> as mercy significantly distorts the semantics. In some cases, it disturbs semantic cohesion of the text. One example is Psalm 136, where <span dir="rtl">חֶסֶד</span> of God (‘mercy’ in KJV) involves smiting the firstborn (136:10), throwing the Pharaoh and his army into the sea (136:15) and slaying of hostile kings (136:17-20). Obviously, these actions are manifestations of covenant faithfulness towards Israel. As such, in regards to Egyptians and kings hostile to Israel <span dir="rtl">חֶסֶד</span> is certainly not an act of mercy.
 
 <b>A.2</b> Analysis of the parallel words and expressions suggests that action is central to the meaning of <span dir="rtl">חֶסֶד</span>. Even if the particular actions are inspired by faithfulness in a given relationship, in places where the context is marked, usually a particular action follows. Thus, <span dir="rtl">חֶסֶד</span> is not necessarily connected to a feeling. This is one distinctive semantic component, which distinguishes <span dir="rtl">חֶסֶד</span> from <span dir="rtl">אַהֲבָה</span>, <span dir="rtl">רַחֲמִים</span> and <span dir="rtl">חֵן</span>.
 

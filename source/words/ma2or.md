@@ -8,7 +8,7 @@ semantic_fields: light
 contributors: raymond_de_hoop, cornelis_houtman  
 first_published: 2011-03-24  
 last_update: 2019-11-16
-contributors_footnote: The first version of this article was published  March 24th, 2011 as Cornelis Houtman, ‘<span dir="rtl">מָאוֹר</span>, luminary, lightbearer’. For the publication in <i>Semantics of Ancient Hebrew Database</i> the article was thoroughly reworked and expanded by Raymond de Hoop. Thanks are due to Mrs Alice Deken (Amsterdam), who was so kind as to correct the English of this paper.   
+contributors_footnote: The first version of this article was published  March 24th, 2011 as Cornelis Houtman, ‘<span dir="rtl">מָאוֹר</span>, luminary, lightbearer’. For the publication in the  <i>Semantics of Ancient Hebrew Database</i>   the article was thoroughly reworked and expanded by Raymond de Hoop. Thanks are due to Mrs Alice Deken (Amsterdam), who was so kind as to correct the English of this paper.   
 update_info:  
 
 ---

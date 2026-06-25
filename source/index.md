@@ -12,7 +12,7 @@ Edinburgh, Florence,
 Leiden, Rome, PThU Utrecht.
 
 In 2017 the Dutch-Flemish 
-<a href="/miscellaneous/kly_history/">KLY project</a>
+<a href="/miscellaneous/KLY_project/">KLY project</a>
 was incorporated into the more comprehensive SAHD project. 
 
 
