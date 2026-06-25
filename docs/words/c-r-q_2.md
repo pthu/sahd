@@ -5,12 +5,12 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1FRQn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># שֹׂרֵק <i>śāraq</i> – to shine
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div># שָׂרַק <i>śāraq</i> – to shine
 
 Semantic Fields:
 [Colours](../semantic_fields/colours.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [John E. Hartley](../contributors/john_e._hartley.md)<br>
-First published: 2026-05-20<br>Citation: John E. Hartley, שֹׂרֵק <i>śāraq</i> – to shine, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
+First published: 2026-05-20<br>Citation: John E. Hartley, שָׂרַק <i>śāraq</i> – to shine, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2026
 
 
 
@@ -19,7 +19,7 @@ First published: 2026-05-20<br>Citation: John E. Hartley, שֹׂרֵק <i>śāra
 Grammatical type: verb.   
 Occurrences:   0x HB; 2x Sir; 0x Qum; 0x Inscr.  (Total: 2x).
 
-* Sira: 43.9<sup><small>Bmg,Mas</small></sup>; 50.7<sup><small>B</small></sup>
+* Sir: 43.9<sup><small>Bmg,Mas</small></sup>; 50.7<sup><small>B</small></sup>
 
 
 
