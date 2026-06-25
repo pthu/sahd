@@ -5,11 +5,11 @@
   </div>
 </div><html><body><img id="banner" src="../../images/banners/banner.png" alt="banner" /></body></html>
 
-<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1MCJXn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># מָשִׁיחַ <i>מָשִׁיחַ</i> – <i>māšī<small><sup>a</sup></small>ḥ</i>
+<div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1MCJXn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># מָשִׁיחַ <i>māšī<small><sup>a</sup></small>ḥ</i> – anointed one
 
 Author(s):
 [Alison Salvesen](../contributors/alison_salvesen.md)<br>
-First published: CHECK<br>Citation: Alison Salvesen, מָשִׁיחַ <i>מָשִׁיחַ</i> – <i>māšī<small><sup>a</sup></small>ḥ</i>, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), CHECK
+Citation: Alison Salvesen, מָשִׁיחַ <i>māšī<small><sup>a</sup></small>ḥ</i> – anointed one, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com)
 
 
 
