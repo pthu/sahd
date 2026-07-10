@@ -54,9 +54,9 @@ in 7:30, 38, while the preferable reading is
 
 ## 4. Ancient Versions
 
-<b>Septuagint (LXX)</b>[^12] 
+<b>Septuagint (LXX)</b>[^1] 
 
-[^12]: The translations of the Greek are based on <i>GELS</i>.
+[^1]: The translations of the Greek are based on <i>GELS</i>.
 
 * βάσις, ‘base’: 2 Chron 6:13; 
 * δαλός, ‘piece of burning wood’: Zech 12:6; 
@@ -72,12 +72,12 @@ LXX-Ant gelijk aan LXX
 In Field kleine 3 bekijken-->
 
 <b>A.1</b> Most of the manuscripts of the LXX do not represent each of the four terms for cooking vessels in the MT of 1 Sam 2:14 by its own distinctive term, but mention only three cooking vessels.
-LXX<sup>A</sup> and some other Greek manuscripts expanded the list at the beginning, before εἰς τὸν λέβητα τὸν μέγαν, with εἰς τὸν λουτῆρα ἢ to bring the translation more into conformity with the Hebrew text (De Hoop & Sanders forthcoming). The addition was inspired by the translation of כִּיּוֹר by λουτήρ in Exodus and Leviticus, although λουτήρ, ‘washing-tub’, was an inappropriate translation in 1Sam 2:14.
+LXX<sup>A</sup> and some other Greek manuscripts expanded the list at the beginning, before εἰς τὸν λέβητα τὸν μέγαν, with εἰς τὸν λουτῆρα ἢ to bring the translation more into conformity with the Hebrew text (De Hoop & Sanders forthcoming). The addition was inspired by the translation of כִּיּוֹר by λουτήρ in Exodus and Leviticus, although λουτήρ, ‘washing-tub’, is an inappropriate translation in 1 Sam 2:14.
 
 
-<b>Peshitta (Pesh)</b>[^13]
+<b>Peshitta (Pesh)</b>[^2]
 
-[^13]: The translations of the Syriac are based on Sokoloff, <i>SLB</i>. 
+[^2]: The translations of the Syriac are based on Sokoloff, <i>SLB</i>. 
 
 
 * <span dir="rtl">ܐܣܛܘܢܐ</span> (<i>ʾesṭōnā</i>), ‘pillar, column’: 2 Chron 6:13; 
@@ -103,9 +103,9 @@ In Tg<sup><small>PsJ</small></sup>, Tg<sup><small>N</small></sup>, and Tg<small>
 <!--Tg<small><sup>Smr</sup></small> voor Lev 8:11 niet gezien; VU-->
 
 
-<b>Vulgate (Vg)</b>[^17] 
+<b>Vulgate (Vg)</b>[^3] 
 
-[^17]: If possible, the translations of the Latin are based on <i>OLD</i>. 
+[^3]: If possible, the translations of the Latin are based on <i>OLD</i>. 
 
 
 * <i>basis</i>, ‘base’: 2 Chron 6:13; <!--OLD 226-->
@@ -113,7 +113,7 @@ In Tg<sup><small>PsJ</small></sup>, Tg<sup><small>N</small></sup>, and Tg<small>
 * <i>conca</i>, ‘object shaped like a sea-shell’, ‘vessel’: 2 Chron 4:6, 14; <!--OLD 386-->
 * <i>labium</i> = <i>labrum</i>, ‘large basin, bowl, vat’: Exod 30:18; 31:9;  
 * <i>labrum</i>, ‘large basin, bowl, vat’: Exod 35:16; 38:8; 39:39; 40:7, 11, 30 (28); Lev 8:11; <!--OLD 992--> 
-* <i>lebes</i>, ‘(metal) cauldron’: 1 Sam 2:14; 1 Kgs 7:40; <!--OLD 1012-->
+* <i>lebes</i> (< λέβης), ‘(metal) cauldron’: 1 Sam 2:14; 1 Kgs 7:40; <!--OLD 1012-->
 * <i>luter</i> (< λουτήρ), ‘washing-tub’: 1 Kgs 7:30, 38 (1, 2, 4), 43; <!--not in OLD-->
 * paraphrastic: Exod 30:28;
 * omission: 1 Kgs 7:38 (3rd); 2 Kgs 16:17.

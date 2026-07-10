@@ -4,9 +4,9 @@ word_english: anointed one
 word_hebrew: מָשִׁיחַ   
 transcription: <i>māšī<small><sup>a</sup></small>ḥ</i>   
 title:   
-semantic_fields:    
+semantic_fields: leadership, kingship   
 contributors: alison_salvesen  
-first_published:      
+first_published: 1999-00-00     
 last_update: 2026-06-25  
 additional_info: (WORK IN PROGRESS)  
 

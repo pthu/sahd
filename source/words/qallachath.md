@@ -6,7 +6,7 @@ title:
 semantic_fields: utensils, food preparation    
 contributors: johannes_c._de_moor, raymond_de_hoop, paul_sanders  
 first_published: 2011-03-24  
-last_update: 2025-11-27     
+last_update: 2026-06-28     
 update_info:    
 contributors_footnote: The first version of this article was published for the KLY project on March 24, 2011, as Johannes C. de Moor, ‘<span dir="rtl">קַלַּחַת</span> – stewpot’. For the <i>Semantics of Ancient Hebrew Database</i> the article was thoroughly reworked and expanded by his former PhD students Raymond de Hoop and Paul Sanders.  
 additional_info: (WORK IN PROGRESS)  
@@ -188,7 +188,7 @@ Elsewhere, the LXX represents both
 (Num 11:8; Judg 6:19; also 
 <span dir="rtl">פָּארוּר</span> in Joel 2:6; Nah 2:11)
 by χύτρα, while χαλκεῖον represents 
-<span dir="rtl">סִיר</span>, ‘????’ (Job 41:23; 2 Chron 35:13; cf. 1 Esd 1:13).
+<span dir="rtl">סִיר</span>, ‘sooking-pot’, ‘tub’ (Job 41:23; 2 Chron 35:13; cf. 1 Esd 1:13).
 
 
 The problem starts with the question for which Heb. word the Gr. word λέβης is the counterpart. This is important in view of the reading in 4QSam<sup><small>a</small></sup>, reading only two cooking utensils: <span dir="rtl">סיר</span> and <span dir="rtl">פרור</span> (see <a href="#TDA3">Text Doubtful A.3</a> above). Because λέβης, the first utensil in the LXX text, is used mostly as the counterpart of Heb. <span dir="rtl">סִיר</span>, scholars assume that the Heb. <i>Vorlage</i> of LXX read <span dir="rtl">סִיר</span> similarly to 4QSam<sup><small>a</small></sup> instead of MT’s <span dir="rtl">כִּיּוֹר</span>. The latter reading <span dir="rtl">כִּיּוֹר</span> may orginally have been a defective reading <span dir="rtl">כִּיֹּר</span>, which was a misreading for <span dir="rtl">סִיר</span>. However, this is not completely conclusive because λέβης is also used as rendering of <span dir="rtl">דּוּד</span>, the second utensil in MT’s list (cf. 2 Chron 35:13; 1 Esdr 1:13). 
@@ -210,7 +210,7 @@ in the <span dir="rtl">דּוּד</span>, or in the
 <span dir="rtl">קַלַּחַת</span>, or in the 
 <span dir="rtl">פָּרוּר</span>’.
 
-<b>A.2</b> In Mic 3:3 <span dir="rtl">קַלַּחַת</span> occurs in parallelism with <span dir="rtl">סִיר</span>, ‘kettle’.TRANSL? 
+<b>A.2</b> In Mic 3:3 <span dir="rtl">קַלַּחַת</span> occurs in parallelism with <span dir="rtl">סִיר</span>, ‘kettle’.<!--TRANSL?--> 
 The noun <span dir="rtl">סִיר</span> occurs also in 1 Sam 2:14 in 
 4QSam<sup><small>a</small></sup> (see <a href="#TDA3">Text Doubtful A.3</a> above).
 
