@@ -9,7 +9,7 @@ contributors:  bas_ter_haar_romeny, raymond_de_hoop
 first_published: 2026-03-31  
 last_update:    
 update_info:     
-contributors_footnote: This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY project. For the publication in <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop. 
+contributors_footnote: This article is based on an unpublished paper by Bas ter Haar Romeny, originally written for the KLY project. For the publication in <i>Semantics of Ancient Hebrew Database</i> the paper was thoroughly reworked and expanded by Raymond de Hoop.   Next to the link to Shebanq above (offering 9 hits) the following links should be consulted: <a href="https://shebanq.ancient-data.org/hebrew/word?id=1GLGLin&mr=r&qw=w" target="_blank" rel="noopener noreferrer"><span dir="rtl">גִּלגַּל</span> link-2</a>, <a href="https://shebanq.ancient-data.org/hebrew/word?id=1GLGLiin&mr=r&qw=w" target="_blank" rel="noopener noreferrer"><span dir="rtl">גַּלגַּל</span> link-3</a>, and <a href="https://shebanq.ancient-data.org/hebrew/word?id=2GLGLn&mr=r&qw=w" target="_blank" rel="noopener noreferrer"><span dir="rtl">גַּלגַּל</span> link-4</a> (BiblAram).
 additional_info: WORK IN PROGRESS  
 shebanq_id: 1GLGLn   
 
