@@ -4,4 +4,4 @@
 
 
 ### Related words
-[כִּיּוֹר – washing-tub](../words/kiyyor.md)<br>[קַלַּחַת – stewpot](../words/qallachath.md)<br>
+[כִּיּוֹר – washing-tub](../words/kiyyor.md)<br>[פָּרוּר – pot](../words/parur.md)<br>[קַלַּחַת – stewpot](../words/qallachath.md)<br>

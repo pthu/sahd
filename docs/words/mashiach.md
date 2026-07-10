@@ -7,9 +7,10 @@
 
 <div><input id="download" title="Download/print the document" type="image" onclick="print_document()" src="../../images/icons/download3.png" alt="download" /></div><div><a id="shebanq" title="Word in SHEBANQ" href="https://shebanq.ancient-data.org/hebrew/word?id=1MCJXn" target="_blank"><img src="../../images/icons/shebanq.png" alt="shebanq"></a></div># מָשִׁיחַ <i>māšī<small><sup>a</sup></small>ḥ</i> – anointed one
 
-Author(s):
+Semantic Fields:
+[Leadership](../semantic_fields/leadership.md)&nbsp;&nbsp;&nbsp;[Kingship](../semantic_fields/kingship.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Alison Salvesen](../contributors/alison_salvesen.md)<br>
-Citation: Alison Salvesen, מָשִׁיחַ <i>māšī<small><sup>a</sup></small>ḥ</i> – anointed one, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com)
+First published: 1999-00-00<br>Last update: 2026-06-25 <br>Citation: Alison Salvesen, מָשִׁיחַ <i>māšī<small><sup>a</sup></small>ḥ</i> – anointed one, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 1999 (update: 2026)
 (WORK IN PROGRESS)
 
 

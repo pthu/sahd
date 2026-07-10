@@ -38,6 +38,7 @@ nav:
                 - גֻּלָּה - bowl: words/gullah.md
                 - גִּלָּיוֹן - mirror: words/gillayon.md
             - ד:
+                - דּוּד - basket: words/dud.md
                 - דְּלִי - bucket: words/dli.md
                 - דֶּרֶךְ - road, way: words/derek.md
             - ה:
@@ -105,8 +106,8 @@ nav:
                 - מַפְתֵּחַ - key: words/maptheach.md
                 - מַקֵּל - branch, staff: words/maqqel.md
                 - מַרְאָה - vision, mirror: words/mar2ah.md
-                - מֶשֶׁךְ - bag: words/meshek_1.md
                 - מָשִׁיחַ - anointed one: words/mashiach.md
+                - מֶשֶׁךְ - bag: words/meshek_1.md
                 - מִשְׁפְּתַיִם/שְׁפַתַּיִם - sack: words/mishpthayim.md
             - נ:
                 - נָבִיא/נְבִיאָה - prophet(ess): words/nabi2.md
@@ -117,6 +118,7 @@ nav:
                 - נֶשֶׁר - bird of prey: words/nesher.md
                 - נִשְׁתְּוָן - official letter: words/nishthwan.md
             - ס:
+                - סִיר - pot: words/sir.md
                 - סָעִיף - cleft: words/sa3ip.md
                 - סֵפֶר - book: words/seper.md
                 - סִפְרָה - book: words/siprah.md
@@ -134,6 +136,7 @@ nav:
                 - פְּדוּת - redemption-action: words/pduth.md
                 - פִּדְיוֹן - ransom: words/pidyon.md
                 - פֶּלֶךְ - spindle: words/pelek.md
+                - פָּרוּר - pot: words/parur.md
                 - פֶּרֶס - bird of prey: words/peres.md
                 - פרק - to pull off: words/p-r-q.md
                 - פָּרָק - piece of meat: words/paraq.md
@@ -204,6 +207,7 @@ nav:
             - Honour: semantic_fields/honour.md
             - Kingship: semantic_fields/kingship.md
             - Knowledge: semantic_fields/knowledge.md
+            - Leadership: semantic_fields/leadership.md
             - Light: semantic_fields/light.md
             - Metals: semantic_fields/metals.md
             - Morality: semantic_fields/morality.md

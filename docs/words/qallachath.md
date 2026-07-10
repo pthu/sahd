@@ -10,7 +10,7 @@
 Semantic Fields:
 [Utensils](../semantic_fields/utensils.md)&nbsp;&nbsp;&nbsp;[Food Preparation](../semantic_fields/food preparation.md)&nbsp;&nbsp;&nbsp;<br>Author(s):
 [Johannes C. de Moor](../contributors/johannes_c._de_moor.md),&nbsp;[Raymond de Hoop](../contributors/raymond_de_hoop.md),&nbsp;[Paul Sanders](../contributors/paul_sanders.md)<sup><a href="#footnote" data-toggle="modal" onclick="show_modal('contributors_footnote')"> *</a></sup><br>
-First published: 2011-03-24<br>Last update: 2025-11-27 <br>Citation: Johannes C. de Moor,&nbsp;Raymond de Hoop,&nbsp;Paul Sanders, קַלַּחַת <i>qallàḥat</i> – stewpot, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2025)
+First published: 2011-03-24<br>Last update: 2026-06-28 <br>Citation: Johannes C. de Moor,&nbsp;Raymond de Hoop,&nbsp;Paul Sanders, קַלַּחַת <i>qallàḥat</i> – stewpot, <br>                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    Semantics of Ancient Hebrew Database (sahd-online.com), 2011 (update: 2026)
 (WORK IN PROGRESS)
 
 
@@ -188,7 +188,7 @@ Elsewhere, the LXX represents both
 (Num 11:8; Judg 6:19; also 
 <span dir="rtl">פָּארוּר</span> in Joel 2:6; Nah 2:11)
 by χύτρα, while χαλκεῖον represents 
-<span dir="rtl">סִיר</span>, ‘????’ (Job 41:23; 2 Chron 35:13; cf. 1 Esd 1:13).
+<span dir="rtl">סִיר</span>, ‘sooking-pot’, ‘tub’ (Job 41:23; 2 Chron 35:13; cf. 1 Esd 1:13).
 
 
 The problem starts with the question for which Heb. word the Gr. word λέβης is the counterpart. This is important in view of the reading in 4QSam<sup><small>a</small></sup>, reading only two cooking utensils: <span dir="rtl">סיר</span> and <span dir="rtl">פרור</span> (see <a href="#TDA3">Text Doubtful A.3</a> above). Because λέβης, the first utensil in the LXX text, is used mostly as the counterpart of Heb. <span dir="rtl">סִיר</span>, scholars assume that the Heb. <i>Vorlage</i> of LXX read <span dir="rtl">סִיר</span> similarly to 4QSam<sup><small>a</small></sup> instead of MT’s <span dir="rtl">כִּיּוֹר</span>. The latter reading <span dir="rtl">כִּיּוֹר</span> may orginally have been a defective reading <span dir="rtl">כִּיֹּר</span>, which was a misreading for <span dir="rtl">סִיר</span>. However, this is not completely conclusive because λέβης is also used as rendering of <span dir="rtl">דּוּד</span>, the second utensil in MT’s list (cf. 2 Chron 35:13; 1 Esdr 1:13). 
@@ -210,7 +210,7 @@ in the <span dir="rtl">דּוּד</span>, or in the
 <span dir="rtl">קַלַּחַת</span>, or in the 
 <span dir="rtl">פָּרוּר</span>’.
 
-<b>A.2</b> In Mic 3:3 <span dir="rtl">קַלַּחַת</span> occurs in parallelism with <span dir="rtl">סִיר</span>, ‘kettle’.TRANSL? 
+<b>A.2</b> In Mic 3:3 <span dir="rtl">קַלַּחַת</span> occurs in parallelism with <span dir="rtl">סִיר</span>, ‘kettle’.<!--TRANSL?--> 
 The noun <span dir="rtl">סִיר</span> occurs also in 1 Sam 2:14 in 
 4QSam<sup><small>a</small></sup> (see <a href="#TDA3">Text Doubtful A.3</a> above).
 
