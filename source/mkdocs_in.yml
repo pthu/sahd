@@ -20,6 +20,19 @@ nav:
 
 theme:
     name: material
+    palette:
+        - scheme: default
+          primary: black
+          accent: deep orange
+          toggle:
+              icon: material/weather-night
+              name: Switch to dark mode
+        - scheme: slate
+          primary: black
+          accent: deep orange
+          toggle:
+              icon: material/weather-sunny
+              name: Switch to light mode
     custom_dir: overrides
 
 markdown_extensions:
