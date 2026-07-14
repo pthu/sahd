@@ -382,7 +382,7 @@ def write_words(shebanq_dict, ubs_dict):
     os.mkdir(WORDS_DOCS)
 
     for word in WORDS.glob("*"):
-        word_hebrew, word_english, transcription, title, shebanq_id, contributors_footnote, first_published, last_update, additional_info = "", "", "", "", "", "", "", "", ""
+        word_hebrew, word_english, transcription, title, shebanq_id, contributors_footnote, first_published, last_update, additional_info, shebanq_id_given = "", "", "", "", "", "", "", "", "", False
         semantic_fields, contributors = [], []
         text, first_dashes, second_dashes = [], False, False
         if word.name == ".DS_Store":
@@ -419,6 +419,7 @@ def write_words(shebanq_dict, ubs_dict):
                     first_published = get_value(line)
                 elif line.startswith("shebanq_id:"):
                     shebanq_id = get_value(line)
+                    shebanq_id_given = True
                 elif line.startswith("last_update:") and line.replace("last_update:", "").strip() != "":
                     last_update = get_value(line)
                 elif line.startswith("additional_info:"):
@@ -427,11 +428,10 @@ def write_words(shebanq_dict, ubs_dict):
                     second_dashes = True
                     text.append(HEADER)
                     text.append(DOWNLOAD)
-                    if not shebanq_id:
+                    if not shebanq_id_given:
                         shebanq_id = get_shebanq_id(word_hebrew, shebanq_dict)
                     if shebanq_id:
                         text.append(SHEBANQ.replace("replace", shebanq_id))
-                    # at the moment disabled because of the change in the UBS website
                     # ubs_reference = get_ubs_reference(word_hebrew, ubs_dict)
                     # if ubs_reference:
                     #     text.append(UBS.replace("replace", ubs_reference))
