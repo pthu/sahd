@@ -32,6 +32,8 @@ function get_palette_input(scheme) {
     return document.querySelector('.md-option[data-md-color-scheme="' + scheme + '"]');
 }
 
+var settings_theme_observer = null;
+
 function set_settings_theme_label(toggle) {
     var label = toggle.querySelector(".md-ellipsis");
     if (!label) {
@@ -54,49 +56,47 @@ function toggle_color_scheme(event) {
     }
 }
 
-function add_settings_menu() {
-    var primary_nav = document.querySelector(".md-nav--primary > .md-nav__list");
+function is_settings_theme_toggle(link) {
+    var href = (link.getAttribute("href") || "").split("#")[0].split("?")[0];
+    return /(^|\/)settings\/?$/.test(href) || /(^|\/)settings\.md$/.test(href);
+}
 
-    if (!primary_nav || document.getElementById("__nav_settings")) {
+function get_settings_theme_toggles() {
+    var links = document.querySelectorAll(".md-nav a.md-nav__link");
+    return Array.prototype.slice.call(links).filter(is_settings_theme_toggle);
+}
+
+function update_settings_theme_labels() {
+    get_settings_theme_toggles().forEach(set_settings_theme_label);
+}
+
+function init_settings_theme_toggle() {
+    var toggles = get_settings_theme_toggles();
+
+    toggles.forEach(function(toggle) {
+        if (toggle.dataset.settingsThemeToggle == "true") {
+            return;
+        }
+
+        toggle.dataset.settingsThemeToggle = "true";
+        toggle.addEventListener("click", toggle_color_scheme);
+    });
+
+    update_settings_theme_labels();
+
+    if (settings_theme_observer) {
         return;
     }
 
-    var item = document.createElement("li");
-    item.className = "md-nav__item md-nav__item--nested";
-    item.innerHTML = [
-        '<input class="md-nav__toggle md-toggle" type="checkbox" id="__nav_settings">',
-        '<label class="md-nav__link" for="__nav_settings" id="__nav_settings_label" tabindex="0">',
-        '  <span class="md-ellipsis">Settings</span>',
-        '  <span class="md-nav__icon md-icon"></span>',
-        '</label>',
-        '<nav class="md-nav" data-md-level="1" aria-labelledby="__nav_settings_label" aria-expanded="false">',
-        '  <label class="md-nav__title" for="__nav_settings">',
-        '    <span class="md-nav__icon md-icon"></span>',
-        '    Settings',
-        '  </label>',
-        '  <ul class="md-nav__list" data-md-scrollfix>',
-        '    <li class="md-nav__item">',
-        '      <a href="#" class="md-nav__link" id="settings-theme-toggle">',
-        '        <span class="md-ellipsis"></span>',
-        '      </a>',
-        '    </li>',
-        '  </ul>',
-        '</nav>'
-    ].join("");
-
-    primary_nav.appendChild(item);
-
-    var toggle = document.getElementById("settings-theme-toggle");
-    toggle.addEventListener("click", toggle_color_scheme);
-    set_settings_theme_label(toggle);
-
-    var observer = new MutationObserver(function() {
-        set_settings_theme_label(toggle);
-    });
-    observer.observe(document.body, {
+    settings_theme_observer = new MutationObserver(update_settings_theme_labels);
+    settings_theme_observer.observe(document.body, {
         attributes: true,
         attributeFilter: ["data-md-color-scheme"]
     });
 }
 
-document.addEventListener("DOMContentLoaded", add_settings_menu);
+document.addEventListener("DOMContentLoaded", init_settings_theme_toggle);
+
+if (typeof document$ !== "undefined" && document$.subscribe) {
+    document$.subscribe(init_settings_theme_toggle);
+}

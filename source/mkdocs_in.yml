@@ -17,6 +17,8 @@ nav:
     - Contribution: 'store/contribution.md'
     - Contact: 'store/contact.md'
     - Abbreviations: 'store/abbreviations.md'
+    - Settings:
+        - Dark mode: 'settings.md'
 
 theme:
     name: material
@@ -46,5 +48,4 @@ extra_css:
 extra_javascript:
     - static/javascripts/extra.js
     - static/javascripts/goatcounter.js
-
 

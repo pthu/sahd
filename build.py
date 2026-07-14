@@ -376,6 +376,15 @@ def write_index_file():
         f.write("".join(text))
 
 
+def write_settings_file():
+    filename = "settings.md"
+    with open(SRC / filename, 'r') as f:
+        text = f.readlines()
+
+    with open(DOCS / filename, 'w') as f:
+        f.write("".join(text))
+
+
 def write_words(shebanq_dict, ubs_dict):
     if isdir(WORDS_DOCS):
         rmtree(WORDS_DOCS)
@@ -712,6 +721,7 @@ def make_docs():
     ubs_dict = create_ubs_references()
     words_dict, semantic_fields_dict, contributors_dict = get_relations()
     write_index_file()
+    write_settings_file()
     write_words(shebanq_dict, ubs_dict)
     write_semantic_fields(semantic_fields_dict)
     write_contributors(contributors_dict)
