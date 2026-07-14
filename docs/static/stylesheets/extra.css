@@ -12,8 +12,8 @@
 .button:hover { background-color: grey; }
 
 #banner { width: 800px; height: 115px; }
-#download { float: right;  width: 25px; height: 28px; }
-#shebanq { float: right;  margin-right: 10px; width: 25px; height: 30px; }
+#download { float: right;  width: 32px; height: 36px; }
+#shebanq { float: right;  margin-right: 10px; width: 32px; height: 38px; }
 #ubs { float: right;  margin-right: 10px; width: 30px; height: 25px; }
 
 @font-face {
