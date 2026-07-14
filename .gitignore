@@ -1,4 +1,13 @@
 .DS_Store
 .idea
 site
+docs/words/
+docs/contributors/
+docs/editorial_board/
+docs/semantic_fields/
+docs/miscellaneous/
+docs/store/
+docs/pdfs/
+docs/images/photos/
+docs/index.md
 word_list.csv
