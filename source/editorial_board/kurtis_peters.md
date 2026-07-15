@@ -1,6 +1,6 @@
 # **Kurtis Peters**
 
-![kurtis peters](../photos/kurtis_peters.jpeg)  
+![kurtis peters](../photos/Kurtis_Peters.jpeg)  
 
 Mail: <a href="mailto:kurtis.peters@ubc.ca">kurtis.peters@ubc.ca</a>
 
