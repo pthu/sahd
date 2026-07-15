@@ -1,71 +1,98 @@
-<style>
-for some reason there has to be an extra line here {}
+.button {
+    background-color: lightgrey;
+    border: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.button:hover { background-color: grey; }
 
-    .button {
-        background-color: lightgrey;
-        border: solid;
-        border-width: 1px;
-        border-radius: 3px;
-        padding: 5px 5px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-    }
-    .button:hover { background-color: grey; }
+#banner { width: 800px; height: 115px; }
+#download { float: right;  width: 32px; height: 36px; }
+#shebanq { float: right;  margin-right: 10px; width: 32px; height: 38px; }
+#ubs { float: right;  margin-right: 10px; width: 30px; height: 25px; }
 
-    #banner { width: 800px; height: 115px; }
-    #download { float: right;  width: 25px; height: 28px; }
-    #shebanq { float: right;  margin-right: 10px; width: 25px; height: 30px; }
-    #ubs { float: right;  margin-right: 10px; width: 30px; height: 25px; }
+@font-face {
+    font-family: "SBL Hebrew";
+    src: url('../fonts/SBL_Hbrw.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/SBL_Hbrw.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/SBL_Hbrw.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/SBL_Hbrw.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
 
-    @font-face {
-    	font-family: "SBL Hebrew";
-    	src: url('../fonts/SBL_Hbrw.eot'); /* IE9 Compat Modes */
-    	src: url('../fonts/SBL_Hbrw.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    	     url('../fonts/SBL_Hbrw.woff') format('woff'), /* Modern Browsers */
-    	     url('../fonts/SBL_Hbrw.ttf')  format('truetype'); /* Safari, Android, iOS */
-    }
+div { font-family: "SBL Hebrew", "Montserrat"; }
 
-    div { font-family: "SBL Hebrew", "Montserrat"; }
+#contributors_footnote { display: none }
 
-    #contributors_footnote { display: none }
+ /* MODAL WINDOW */
 
-     /* MODAL WINDOW */
-
-     /* The Modal (background) */
-    .modal {
-      display: none; /* Hidden by default */
-      position: fixed; /* Stay in place */
-      z-index: 1; /* Sit on top */
-      left: 0;
-      top: 0;
-      width: 100%; /* Full width */
-      height: 100%; /* Full height */
-      overflow: auto; /* Enable scroll if needed */
-      background-color: rgb(0,0,0); /* Fallback color */
-      background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
-    }
-    /* Modal Content/Box */
-    .modal-content {
-      background-color: #FDFDFD;
-      margin: 15% auto; /* 15% from the top and centered */
-      padding: 20px;
-      border: 1px solid #888;
-      width: 40%; /* Could be more or less, depending on screen size */
-    }
-    /* The Close Button */
-    .close {
-      color: #aaa;
-      float: right;
-      font-size: 28px;
-      font-weight: bold;
-    }
-    .close:hover,
-    .close:focus {
-      color: black;
-      text-decoration: none;
-      cursor: pointer;
-    }
-
-</style>
+ /* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+/* Modal Content/Box */
+.modal-content {
+  background-color: #FDFDFD;
+  color: #222;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 40%; /* Could be more or less, depending on screen size */
+}
+.modal-body,
+.modal-body p,
+.modal-body li,
+#contributors_footnote {
+  color: inherit;
+}
+.modal-body a,
+#contributors_footnote a,
+.md-typeset a[href="#footnote"][data-toggle="modal"] {
+  color: var(--md-accent-fg-color);
+}
+[data-md-color-scheme="slate"] .modal-content {
+  background-color: var(--md-default-bg-color);
+  color: var(--md-typeset-color);
+  border-color: var(--md-default-fg-color--lightest);
+}
+[data-md-color-scheme="slate"] .modal-body,
+[data-md-color-scheme="slate"] .modal-body p,
+[data-md-color-scheme="slate"] .modal-body li,
+[data-md-color-scheme="slate"] #contributors_footnote {
+  color: var(--md-typeset-color);
+}
+[data-md-color-scheme="slate"] .md-typeset .footnote,
+[data-md-color-scheme="slate"] .md-typeset .footnote li,
+[data-md-color-scheme="slate"] .md-typeset .footnote p {
+  color: var(--md-typeset-color);
+}
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+[data-md-color-scheme="slate"] .close:hover,
+[data-md-color-scheme="slate"] .close:focus {
+  color: var(--md-default-fg-color);
+}
