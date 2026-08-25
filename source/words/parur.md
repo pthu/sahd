@@ -88,7 +88,7 @@ Judg 6:19.
 
 <b>Targum (Tg)</b>
  
-* <span dir="rtl">מָלֵיסָא</span>, ‘cooking vessel’:
+* <span dir="rtl">מָלֵיס</span>, ‘cooking vessel’:
 1 Sam 2:14;  
 * <span dir="rtl">קדרא</span>, ‘pot’:
 Num 11:8 (Tg<sup><small>O</small></sup>); Judg 6:19. 

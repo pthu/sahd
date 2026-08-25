@@ -8,7 +8,7 @@ title: to comfort, to change one’s action, feeling or mind
 semantic_fields:  
 contributors: benjamin_m._bogerd    
 first_published: 2025-04-02   
-last_update:   
+last_update: 2026-07-05  
 update_info:   
 additional_info:  (WORK IN PROGRESS)  
 
@@ -22,7 +22,7 @@ additional_info:  (WORK IN PROGRESS)
 
 
 
-Grammatical type: verb niph. (53x); piel (74x); pual (2x);  hitp. (8x).
+Grammatical type: verb <i>niph.</i> (53x); <i>piel</i> (74x); <i>pual</i> (2x);  <i>hithp.</i> (8x).
 
 
 Occurrences:  108x HB (14/61/32); 3x Sir.; 27x Qum. 
@@ -33,7 +33,7 @@ Torah: <i>Niph.</i>: Gen 6:6,7; 24:67; 38:12; Exod 13:17; 32:12,14.
 
 <i>Piel</i>: Gen 5:29; 37:35(1); 50:21.
 
-<i>Hitp.</i>: Gen 27:42; 37:35(2); Num 23:19; Deut 32:36.
+<i>Hithp.</i>: Gen 27:42; 37:35(2); Num 23:19; Deut 32:36.
 
 
 Nebiim: <i>Niph.</i>: Judg 2:18; 21:6,15; 1 Sam 15:11,29(1,2),35; 2 Sam 13:39; 24:16; Isa 1:24; 57:6; Jer 4:28; 8:6; 15:6; 18:8,10; 20:16; 26:3,13,19; 31:15,19; 42:10; Ezek 14:22; 24:14; 31:16; 32:31; Joel 2:13,14; Amos 7:3,6; Jonah 3:9,10; 4:2; Zech 8:14.
@@ -42,14 +42,14 @@ Nebiim: <i>Niph.</i>: Judg 2:18; 21:6,15; 1 Sam 15:11,29(1,2),35; 2 Sam 13:39; 2
 
 <i>Pual</i>: Isa 54:11; 66:13(3).
 
-<i>Hitpael</i>: Ezek 5:13.
+<i>Hithpael</i>: Ezek 5:13.
 
 
 Ketubim: <i>Niph.</i>: Pss 77:3; 90:13; 106:45; 110:4; Job 42:6; 1 Chron 21:15.
 <br>
 <i>Piel</i>: Pss 23:4; 69:21; 71:21; 86:17; 119:76,82;  Job 2:11; 7:13; 16:2; 21:34; 29:25; 42:11; Ruth 2:13; Eccl 4:1(1,2); Lam 1:2,9,16,17,21; 2:13; 1 Chron 7:22; 19:2(1,2),3.
 
-<i>Hitp.</i>: Pss 119:52, 135:14.
+<i>Hithp.</i>: Pss 119:52, 135:14.
 
 
 
@@ -65,7 +65,7 @@ Qumran: <i>Niph.</i>: 4Q434 2:1; 1QHa 8:35; 17:13(2).
 
 <i>Piel</i>: 1QS 10:21; 1QHa 3:17; 10:7; 13:5; 14:10; 17:13(1); 19:35; 4Q169 3_4iii:6; 4Q176 1_2i:4(1,2); 1_2ii:2; 4Q223_224 2iii:17; 4Q260 5:1; 4Q432 3:3; 4Q434 2:4,6(1,2); 4Q435 5:2; 4Q436 1a+bi:1; 4Q437 2i:12; 4Q509 12i_13:5; 11Q13 2:20.
 
-<i>Hitp.</i>: 4Q302 3c:1.
+<i>Hithp.</i>: 4Q302 3c:1.
 
 <i>Uncertain</i>: 4Q427 8i:20.
 
@@ -185,7 +185,7 @@ Qumran: <i>Niph.</i>: 4Q434 2:1; 1QHa 8:35; 17:13(2).
 
 
 
-<i>Hitp.</i>
+<i>Hithp.</i>
 
 
 
@@ -230,7 +230,7 @@ Not attested.
 <span dir="rtl">כָּל־חָרְבֹתֶיהָ</span>, ‘all her waste places’: Isa 51:3(2).
 
 
-<span dir="rtl">עַמֹּו</span>, ‘his people’: Isa 40:1(2) and 4Q176 1_2i:4(<span dir="rtl">עַמִּי</span>, my people); 49:13; 52:9; 4Q176 1_2ii:2.
+<span dir="rtl">עַמֹּו</span>, ‘his people’: Isa 40:1(2) and 4Q176 1\_2i:4 (<span dir="rtl">עַמִּי</span>, my people); 49:13; 52:9; 4Q176 1_2ii:2.
 
 
 <span dir="rtl">צִיֹּון</span>, ‘Zion’: Isa 51:3(1); Zech 1:17.
@@ -242,7 +242,7 @@ Not attested.
 
 
 
-<i>Hitp.</i>
+<i>Hithp.</i>
 
 
 *Object Pronouns*: Ps 119:52 (psalmist).
@@ -271,7 +271,7 @@ Not attested.
 
 
 
-<span dir="rtl">ל</span>: Gen 27:42; Judg 21:15; Lam 1:9,17,21. *Niph., Piel and Hitp.*
+<span dir="rtl">ל</span>: Gen 27:42; Judg 21:15; Lam 1:9,17,21. <i>Niph., Piel and Hithp.</i>
 
 
 
@@ -285,7 +285,7 @@ Not attested.
 
 <span dir="rtl">עַל</span>: Exod 32:12,14; Deut 32:36; 2 Sam 13:39; Isa 22:4; Jer 8:6; 16:7; 18:8; 31:15; Ezek 14:22; 32:31; Joel 2:13; Amos 7:3,6; Jonah 3:10; 4:2; 
 Zech 10:2; Ps 90:13; Job 42:6,11; 1 Chron 19:2(1); 21:15; 1QHa 8:35; 14:10; 17:13(2).[^6] 
-*Niph., Piel and Hitp.*
+*Niph., Piel and Hithp.*
 
 
 
@@ -305,7 +305,7 @@ Zech 10:2; Ps 90:13; Job 42:6,11; 1 Chron 19:2(1); 21:15; 1QHa 8:35; 14:10; 17:1
 
 
 
-<span dir="rtl">נחם</span> functions as *nomen regens* for <span dir="rtl">עָמָל</span>, ‘trouble, labor, toil’: <span dir="rtl">מְנַחֲמֵי עָמָל</span>, ‘miserable comforters’: Job 16:2.   
+<span dir="rtl">נחם</span> functions as <i>nomen regens</i> for <span dir="rtl">עָמָל</span>, ‘trouble, labor, toil’: <span dir="rtl">מְנַחֲמֵי עָמָל</span>, ‘miserable comforters’: Job 16:2.   
 
 
 <span dir="rtl">נחם</span> is sometimes followed by a <span dir="rtl">כִּי</span>-clause: Gen 6:6,7; Deut 32:36;
@@ -313,7 +313,7 @@ Zech 10:2; Ps 90:13; Job 42:6,11; 1 Chron 19:2(1); 21:15; 1QHa 8:35; 14:10; 17:1
 
 
 
-The <span dir="rtl">כִּי</span>-clause can indicate what is regretted by the subject or can give the reason for their repentance. Sometimes a niphal form of <span dir="rtl">נחם</span> “is followed by a <span dir="rtl">כִּי</span>-clause, but a complement starting with <span dir="rtl">עַל</span> is standing between the verb and the subordinate clause. The verb then means “to be comforted over someone.””[^7]
+The <span dir="rtl">כִּי</span>-clause can indicate what is regretted by the subject or can give the reason for their repentance. Sometimes a <i>niphal</i> form of <span dir="rtl">נחם</span> “is followed by a <span dir="rtl">כִּי</span>-clause, but a complement starting with <span dir="rtl">עַל</span> is standing between the verb and the subordinate clause. The verb then means “to be comforted over someone.””[^7]
 
 
 
@@ -445,7 +445,7 @@ Jer 31:13 (LXX Jer 38).
 
 
 
-<i>Hitp.</i>
+<i>Hithp.</i>
 
 
 ἀπειλέω, ‘to threaten’:[^34] 
@@ -464,24 +464,24 @@ Gen 37:35(2); Deut 32:36;  Ezek 5:13<sup>scr</sup>θ´; Ps 119:52; 135:14.
 
 
 
-Van Staalduine-Sulman notes that the Septuagint “translates the verb with various expressions," in contrast to the Targumim which use more standardized translations.[^36] The translations of the LXX can be grouped according to the Hebrew stem formations that are used for <span dir="rtl">נחם</span>. The primary translations of the piel, as well as for some of the occurrences in other stem formations, is παρακαλέω . In the other Greek versions, especially in Aquila, this translation is often used for the niphal as well, while the LXX uses other translations for the niphal, for example μετανοέω  and μεταμέλομαι . ἐλεέω  is used only once for the niphal and three times for the piel. παρηγορέω  is also used for different stem formations, but primarily for the piel and exclusively in Symmachus and Theodotion. 
+Van Staalduine-Sulman notes that the Septuagint “translates the verb with various expressions," in contrast to the Targumim which use more standardized translations.[^36] The translations of the LXX can be grouped according to the Hebrew stem formations that are used for <span dir="rtl">נחם</span>. The primary translations of the <i>piel</i>, as well as for some of the occurrences in other stem formations, is παρακαλέω . In the other Greek versions, especially in Aquila, this translation is often used for the <i>niphal</i> as well, while the LXX uses other translations for the <i>niphal</i>, for example μετανοέω  and μεταμέλομαι . ἐλεέω  is used only once for the <i>niphal</i> and three times for the <i>piel</i>. παρηγορέω  is also used for different stem formations, but primarily for the <i>piel</i> and exclusively in Symmachus and Theodotion. 
 
 
-The most variation in translation occurs for the niphal forms of <span dir="rtl">נחם</span>. Both μετανοέω  and μεταμέλομαι  are used to state that God does not change nor will relent from doing harm. μεταμέλομαι  is more frequently used in the other Greek versions, indicating that God regrets actions or that people change their minds. In the LXX in Gen 6 certain reluctance can be seen for attributing repentance or regret to God, so the LXX translates these instances with ἐνθυμἑομαι, ‘to lay to heart, to ponder’. In 1 Sam 15 the same tendency is visible. Three different words are used for <span dir="rtl">נחם</span>. The two verbs in 1 Sam 15:11 and 35 “primarily refer to
+The most variation in translation occurs for the <i>niphal</i> forms of <span dir="rtl">נחם</span>. Both μετανοέω  and μεταμέλομαι  are used to state that God does not change nor will relent from doing harm. μεταμέλομαι  is more frequently used in the other Greek versions, indicating that God regrets actions or that people change their minds. In the LXX in Gen 6 certain reluctance can be seen for attributing repentance or regret to God, so the LXX translates these instances with ἐνθυμἑομαι, ‘to lay to heart, to ponder’. In 1 Sam 15 the same tendency is visible. Three different words are used for <span dir="rtl">נחם</span>. The two verbs in 1 Sam 15:11 and 35 “primarily refer to
 God’s emotions and do not suggest in any way that God is unreliable or breaking his
 promise to Saul."[^37] In Jeremiah <span dir="rtl">נחם</span> refers to “a change in action."[^38] The LXX translates these instances with παύω . In JOb 42  ἡγέομαι, ‘to belief, hold’, is used. Job does not ‘repent in dust and ashes' but ἥγημαι δὲ ἐμαυτὸν γῆν καὶ σποδόν, ‘I esteem myself as dust and ashes’. ὀργίζω  is also a translation that is contextually filled in. God asks the question whether he should relent. In the Septuagint the question is whether he should be angry about the idols or not. In Jer 15:6 ἀνίημι, ‘to let go, withhold' is used to render the meaning ‘to spare' or ‘to relent' for <span dir="rtl">נחם</span>.
 
 
-For the piel of <span dir="rtl">נחם</span> in the piel the translations show only a few variations, often induced by the context and used to explain or strengthen Hebrew expressions. In Gen 5:29 the Hebrew expression ‘<span dir="rtl">יְנַחֲמֵנוּ מִמַּעֲשֵׂנוּ</span>' is given for the explanation of the name of Noah. In the Septuagint the translation is οὗτος διαναπαύσει ἡμᾶς ἀπὸ τῶν ἔργων ἡμῶν, ‘this one will cause us to take a rest from our works’, a translation that is closer to the Hebrew root <span dir="rtl">נוּחַ</span>. In Symmachus παραμῡθέομαι  is used which has the same field of meaning as παρακαλέω . In Ezek 16:54 παροργίζω  is the translation of the piel of <span dir="rtl">נחם</span>. The LXX changes the object of the verb from ‘them' to ‘me' referring to God. This explains why the translation ‘to provoke to anger' is chosen rather than ‘to comfort’.   
+For the <i>piel</i> of <span dir="rtl">נחם</span> in the <i>piel</i> the translations show only a few variations, often induced by the context and used to explain or strengthen Hebrew expressions. In Gen 5:29 the Hebrew expression ‘<span dir="rtl">יְנַחֲמֵנוּ מִמַּעֲשֵׂנוּ</span>' is given for the explanation of the name of Noah. In the Septuagint the translation is οὗτος διαναπαύσει ἡμᾶς ἀπὸ τῶν ἔργων ἡμῶν, ‘this one will cause us to take a rest from our works’, a translation that is closer to the Hebrew root <span dir="rtl">נוּחַ</span>. In Symmachus παραμῡθέομαι  is used which has the same field of meaning as παρακαλέω . In Ezek 16:54 παροργίζω  is the translation of the <i>piel</i> of <span dir="rtl">נחם</span>. The LXX changes the object of the verb from ‘them' to ‘me' referring to God. This explains why the translation ‘to provoke to anger' is chosen rather than ‘to comfort’.   
 
 
-The hitpael of <span dir="rtl">נחם</span> is translated differently in the LXX on two occasions, instead of the usual translation παρακαλέω . In Gen 27:42 and Num 23:19 <span dir="rtl">נחם</span> is translated with ἀπειλέω, ‘to threaten’, either to explain the Hebrew expression as in Gen 27 or as in Num 23 to state that God is not to be threatened, rather than that God does not repent. This reflects the same reluctance to attribute repentance to God as seen elsewhere. 
+The <i>hithpael</i> of <span dir="rtl">נחם</span> is translated differently in the LXX on two occasions, instead of the usual translation παρακαλέω . In Gen 27:42 and Num 23:19 <span dir="rtl">נחם</span> is translated with ἀπειλέω, ‘to threaten’, either to explain the Hebrew expression as in Gen 27 or as in Num 23 to state that God is not to be threatened, rather than that God does not repent. This reflects the same reluctance to attribute repentance to God as seen elsewhere. 
 
 
 In Ezek 5:13 <span dir="rtl">נחם</span> is not translated. The enumeration with three parts in the Hebrew text has become a two-part enumeration in the LXX.
 
 
-This survey shows that in the LXX the piel of <span dir="rtl">נחם</span> is most commonly interpreted to mean: ‘to comfort' or ‘to console’. The translations of the niphal show more variation. In the other Greek versions and especially in Aquila, the translators use a more standardized translation and sometimes render the niphal with παρακαλέω  as well. In the LXX the niphal of <span dir="rtl">נחם</span> has different nuances, either one of turning away evil, stopping evil, to change one's mind or to anger. The hitpael is often translated with παρακαλέω, but on two occassions a different word is chosen to explain the meaning of <span dir="rtl">נחם</span> in context, namely as ‘to threaten’.
+This survey shows that in the LXX the <i>piel</i> of <span dir="rtl">נחם</span> is most commonly interpreted to mean: ‘to comfort' or ‘to console’. The translations of the <i>niphal</i> show more variation. In the other Greek versions and especially in Aquila, the translators use a more standardized translation and sometimes render the <i>niphal</i> with παρακαλέω  as well. In the LXX the <i>niphal</i> of <span dir="rtl">נחם</span> has different nuances, either one of turning away evil, stopping evil, to change one's mind or to anger. The <i>hithpael</i> is often translated with παρακαλέω, but on two occassions a different word is chosen to explain the meaning of <span dir="rtl">נחם</span> in context, namely as ‘to threaten’.
 
 
 
@@ -617,7 +617,7 @@ Isa 54:11; 66:13(3).
 
 
 
-<i>Hitp.</i>
+<i>Hithp.</i>
 
 
 ܒܝܐ (<i>baya</i>), ‘to console’:[^59]
@@ -637,16 +637,16 @@ Num 23:19.
 
 
 
-In the Peshitta the most common translation of <span dir="rtl">נחם</span> in the Peshitta is ܒܝܐ  (<i>baya</i>), ‘to console’, which accounts for most occurrences of <span dir="rtl">נחם</span> in the piel, apart from three exceptions. In Ezek 16:54 a similar shift in the object of the verb can be seen as in the LXX. The object is changed from ‘them' to ‘me’, referring to God. This explains why the translator chose not to use ܒܝܐ  (<i>baya</i>) here. In Job 21 a verb with almost a similar meaning is chosen. The piel of <span dir="rtl">נחם</span> in the second occurrences in Eccl 4:1 is rendered as noun phrase. The verbatim parallelism is translated with two different phrases.
+In the Peshitta the most common translation of <span dir="rtl">נחם</span> in the Peshitta is ܒܝܐ  (<i>baya</i>), ‘to console’, which accounts for most occurrences of <span dir="rtl">נחם</span> in the <i>piel</i>, apart from three exceptions. In Ezek 16:54 a similar shift in the object of the verb can be seen as in the LXX. The object is changed from ‘them' to ‘me’, referring to God. This explains why the translator chose not to use ܒܝܐ  (<i>baya</i>) here. In Job 21 a verb with almost a similar meaning is chosen. The <i>piel</i> of <span dir="rtl">נחם</span> in the second occurrences in Eccl 4:1 is rendered as noun phrase. The verbatim parallelism is translated with two different phrases.
 
 
-For the niphal of <span dir="rtl">נחם</span> ܒܝܐ  (<i>baya</i>) can also be used in a few occasions, though more variation is seen in translations compared to the piel. In Exod 13:17, the Hebrew text is <span dir="rtl">פֶּן־יִנָּחֵם הָעָם בִּרְאֹתָם מִלְחָמָה</span>, ‘lest the people change their mind when they see war’. The Syriac translation interprets <span dir="rtl">נחם</span> here as ‘to fear’. In one case in Jer the Peshitta translated <span dir="rtl">נחם</span> similar to the LXX as'to cease’. In Isa 1:24 the verb <span dir="rtl">נחם</span> has the connotation of avenging enemies, which is reflected in the rendering of the verb in the the Peshitta. In Jer 15 ܫܒܩ  (*šbāq*) likely means ‘to forgive' given the context in which God proclaims that he will not relent again, hence not forgive the people again. In Jer 26 the Syriac translation uses ܫܠܐ  (*šlā*) in the meaning of ‘to relent' or ‘to cease’. ܗܦܟ  (*hpāk*), ‘to turn, change' is used for some of the niphal occurrences of <span dir="rtl">נחם</span>. The turn or change is figurative and means a change of mind. In 1 Sam 15:29(1,2) the phrase <span dir="rtl">לֹא אָדָם הוּא</span> is used to explain why God does not repent. In these cases the Peshitta renders <span dir="rtl">נחם</span> with ܡܠܟ  (*mlāk*), (Etphe.) ‘to take counsel’.
+For the <i>niphal</i> of <span dir="rtl">נחם</span> ܒܝܐ  (<i>baya</i>) can also be used in a few occasions, though more variation is seen in translations compared to the <i>piel</i>. In Exod 13:17, the Hebrew text is <span dir="rtl">פֶּן־יִנָּחֵם הָעָם בִּרְאֹתָם מִלְחָמָה</span>, ‘lest the people change their mind when they see war’. The Syriac translation interprets <span dir="rtl">נחם</span> here as ‘to fear’. In one case in Jer the Peshitta translated <span dir="rtl">נחם</span> similar to the LXX as'to cease’. In Isa 1:24 the verb <span dir="rtl">נחם</span> has the connotation of avenging enemies, which is reflected in the rendering of the verb in the the Peshitta. In Jer 15 ܫܒܩ  (*šbāq*) likely means ‘to forgive' given the context in which God proclaims that he will not relent again, hence not forgive the people again. In Jer 26 the Syriac translation uses ܫܠܐ  (*šlā*) in the meaning of ‘to relent' or ‘to cease’. ܗܦܟ  (*hpāk*), ‘to turn, change' is used for some of the <i>niphal</i> occurrences of <span dir="rtl">נחם</span>. The turn or change is figurative and means a change of mind. In 1 Sam 15:29(1,2) the phrase <span dir="rtl">לֹא אָדָם הוּא</span> is used to explain why God does not repent. In these cases the Peshitta renders <span dir="rtl">נחם</span> with ܡܠܟ  (*mlāk*), (Etphe.) ‘to take counsel’.
 
 
-The usual rendering for the hitpael of <span dir="rtl">נחם</span> is ܒܝܐ  (<i>baya</i>) with two exceptions. In Gen 27:42 the Peshitta opts for the meaning ‘to threaten' to explain the expression, similar to the LXX. In Num 23:19 the same reasoning applies as for 1 Sam 15:29. 
+The usual rendering for the <i>hithpael</i> of <span dir="rtl">נחם</span> is ܒܝܐ  (<i>baya</i>) with two exceptions. In Gen 27:42 the Peshitta opts for the meaning ‘to threaten' to explain the expression, similar to the LXX. In Num 23:19 the same reasoning applies as for 1 Sam 15:29. 
 
 
-Overall, the Peshitta shows some variation in translating <span dir="rtl">נחם</span>. The translations have connotations of ‘regret’, ‘comfort' and can indicate a change of mind. In most cases in which ܒܝܐ  (<i>baya</i>), ‘to console’, is not chosen as translation, the alternative is chosen based on the context in which ‘to console' as translation is not fitting, which is especially the case for the niphal.
+Overall, the Peshitta shows some variation in translating <span dir="rtl">נחם</span>. The translations have connotations of ‘regret’, ‘comfort' and can indicate a change of mind. In most cases in which ܒܝܐ  (<i>baya</i>), ‘to console’, is not chosen as translation, the alternative is chosen based on the context in which ‘to console' as translation is not fitting, which is especially the case for the <i>niphal</i>.
 
 
 
@@ -717,7 +717,7 @@ Isa 54:11; Isa 66:13(3).
 
 
 
-<i>Hitp.</i>
+<i>Hithp.</i>
 
 
 <span dir="rtl">יעט</span>, ‘to advise’, ‘to counsel’:[^73] 
@@ -757,19 +757,19 @@ Num 23:19Tg<sup>Smr</sup><sup>AJ</sup>.
 
 
 
-In the translations of the Targumim the situation differs from the LXX and the Peshitta. First of all, the Targumim frequently use <span dir="rtl">נחם</span> in the Itpeel, ‘to be comforted' for all occurrences in the piel and sometimes for the niphal and hitpael. The Targumim sometimes use Aramaic equivalents of the parallel verbs that are mentioned in the *Lexical/semantical field*. These variants are <span dir="rtl">פרע</span>, <span dir="rtl">רחם</span> and <span dir="rtl">תוב</span>. 
+In the translations of the Targumim the situation differs from the LXX and the Peshitta. First of all, the Targumim frequently use <span dir="rtl">נחם</span> in the Itpeel, ‘to be comforted' for all occurrences in the <i>piel</i> and sometimes for the <i>niphal</i> and <i>hithpael</i>. The Targumim sometimes use Aramaic equivalents of the parallel verbs that are mentioned in the <i>Lexical/semantical field</i>. These variants are <span dir="rtl">פרע</span>, <span dir="rtl">רחם</span> and <span dir="rtl">תוב</span>. 
 In Isa 40:1 the translation for the two occurrences of <span dir="rtl">נחם</span> combined is: ‘<span dir="rtl">נְבִיַיָא אִתנַבוֹ תַנחוּמִין עַל</span>. 
 
 
-In the niphal a few different renderings of <span dir="rtl">נחם</span> are chosen. 
-The verb <span dir="rtl">תוב</span> is often used for the niphal of <span dir="rtl">נחם</span>, indicating a change in action of either God or people. According to Van Staalduine-Sulman: “The use of the level of deeds in connection with God – and the lack
+In the <i>niphal</i> a few different renderings of <span dir="rtl">נחם</span> are chosen. 
+The verb <span dir="rtl">תוב</span> is often used for the <i>niphal</i> of <span dir="rtl">נחם</span>, indicating a change in action of either God or people. According to Van Staalduine-Sulman: “The use of the level of deeds in connection with God – and the lack
 of the level of feelings in those cases – is typical for Targumic literature. It safeguards
 God’s objective fairness and his omnipotence."[^80] <span dir="rtl">תוב</span> is used, for example, in the expression "the Lord returned from the evil".[^81]   1 Sam 15:11 the translation is “I turned in my Memra that I made Saul king over Israel".[^82]  
 In Exod 13:17 <span dir="rtl">זוע</span> is used to indicate that the people might tremble because of the sight of war, which alligns with the connotation of fear rendered in the Peshitta's translation. In Gen 27:42, all Targumim translate  <span dir="rtl">נחם</span> differently, explaining the Hebrew phrase <span dir="rtl">מִתְנַחֵם לְךָ לְהָרְגֶךָ</span>, ‘he comforts himself concerning you, to kill you’, emphasizing that Esau plots to kill Jacob. In a few cases, <span dir="rtl">תהו</span>, ‘regret' is used to translate <span dir="rtl">נחם</span>. In Gen 6:6 and 7 the Memra of God regrets the creation of humans. Because of the use of ‘the Memra of God' God is not acting directly, which explains why the idea of a God who regrets was not problematic in Tg<sup>N</sup>. In Tg<sup>O</sup> Tg<sup>PsJ</sup> on Gen 6:6 the verb <span dir="rtl">תוב</span> is used. In Deut 32:12 and 14 Moses pleads with God not to abandon his people, because there will be regret because of that action.     
 
-In the hitpael a few different translations appear. In Ezek 5:13 <span dir="rtl">סוף</span>, ‘to perish’, ‘to destroy’, is used to convey the connotation of retribution of <span dir="rtl">נחם</span>. Tg<sup>O</sup> uses <span dir="rtl">פרע</span> in Deut 32:36 to translate <span dir="rtl">נחם</span>. In the Hebrew text a connotation of compassion might be present. In the translation this is interpreted or altered into retribution. In Tg<sup>PsJ</sup>  this is translated with ‘having regret’. It is not entirely clear what the translation of the Targumim of <span dir="rtl">נחם</span> is in Num 23:19. 
+In the <i>hithpael</i> a few different translations appear. In Ezek 5:13 <span dir="rtl">סוף</span>, ‘to perish’, ‘to destroy’, is used to convey the connotation of retribution of <span dir="rtl">נחם</span>. Tg<sup>O</sup> uses <span dir="rtl">פרע</span> in Deut 32:36 to translate <span dir="rtl">נחם</span>. In the Hebrew text a connotation of compassion might be present. In the translation this is interpreted or altered into retribution. In Tg<sup>PsJ</sup>  this is translated with ‘having regret’. It is not entirely clear what the translation of the Targumim of <span dir="rtl">נחם</span> is in Num 23:19. 
 
-The Targumim translate the piel of <span dir="rtl">נחם</span> consistenly <span dir="rtl">נחם</span> in the itpeel. For the niphal different connotations of <span dir="rtl">נחם</span> are made visible in the translations. Either the connotation of ‘regret' or the connotation of ‘change of mind or action' are given to the verb. In the hitpael the translations are interpretative and sometimes the connotation of ‘retribution' is rendered.
+The Targumim translate the <i>piel</i> of <span dir="rtl">נחם</span> consistenly <span dir="rtl">נחם</span> in the itpeel. For the <i>niphal</i> different connotations of <span dir="rtl">נחם</span> are made visible in the translations. Either the connotation of ‘regret' or the connotation of ‘change of mind or action' are given to the verb. In the <i>hithpael</i> the translations are interpretative and sometimes the connotation of ‘retribution' is rendered.
 
 
 
@@ -885,7 +885,7 @@ Isa 54:11; 66:13(3).
 
 
 
-<i>Hitp.</i>
+<i>Hithp.</i>
 
 
 *consolor*, ‘to console, encourage, relieve’:[^104]
@@ -911,19 +911,19 @@ Ps 135:14.
 
 
 
-In the Vulgate <span dir="rtl">נחם</span> is most commonly translated with *consolor*, ‘to comfort’, ‘to ease’. For the piel of <span dir="rtl">נחם</span> there are four exceptions. *Consolor* is sometimes used for the niphal and hitpael as well. 
+In the Vulgate <span dir="rtl">נחם</span> is most commonly translated with <i>consolor</i>, ‘to comfort’, ‘to ease’. For the <i>piel</i> of <span dir="rtl">נחם</span> there are four exceptions. <i>Consolor</i> is sometimes used for the <i>niphal</i> and <i>hithpael</i> as well. 
 
 
-For the niphal *misereor* is the translation for several occurrences and for one hitpael form. *Paeniteo* is also frequently used, either as a verb or as a combination with other verbs such as *ago* or *duco*. *Ago paenitentiam* is used to describe situation of repentance, for example in Job and to describe that God is no man that he would repent. The translation *doleo*, ‘to be sad' is used in Judg 21:16, reflecting the grief of the people for Benjamin. A few verses earlier they are moved with repentance, *ductique paenitentia*. The Vulgate uses a range of translations for the different connotations of <span dir="rtl">נחם</span>, depending on the context. In Ps 90 (Vg 89) for example <span dir="rtl">נחם</span> is translated with *exorabilis esto*  ‘be entreated in favour’. Sometimes *misereor* is used to convey the connotation of pity in  <span dir="rtl">נחם</span>. In the book of Joel, *ignosco* ‘to forgive' is used, reflecting the meaning of forgiveness of <span dir="rtl">נחם</span>. Change of heart or reconciliation are further meanings that the Vulgate induces from the context of <span dir="rtl">נחם</span>.
+For the <i>niphal</i> <i>misereor</i> is the translation for several occurrences and for one <i>hithpael</i> form. <i>Paeniteo</i> is also frequently used, either as a verb or as a combination with other verbs such as <i>ago</i> or <i>duco</i>. <i>Ago paenitentiam</i> is used to describe situation of repentance, for example in Job and to describe that God is no man that he would repent. The translation <i>doleo</i>, ‘to be sad' is used in Judg 21:16, reflecting the grief of the people for Benjamin. A few verses earlier they are moved with repentance, <i>ductique paenitentia</i>. The Vulgate uses a range of translations for the different connotations of <span dir="rtl">נחם</span>, depending on the context. In Ps 90 (Vg 89) for example <span dir="rtl">נחם</span> is translated with <i>exorabilis esto</i>  ‘be entreated in favour’. Sometimes <i>misereor</i> is used to convey the connotation of pity in  <span dir="rtl">נחם</span>. In the book of Joel, <i>ignosco</i> ‘to forgive' is used, reflecting the meaning of forgiveness of <span dir="rtl">נחם</span>. Change of heart or reconciliation are further meanings that the Vulgate induces from the context of <span dir="rtl">נחם</span>.
 
 
-For the piel, translations other than *consolor* are often induced by the context or can be explained by the translation techniques of the Vulgate. In Eccl 4:1 <span dir="rtl">נחם</span> appears twice and the second occurrence is translated with a more general *auxilium*. The Vulgate does not maintain the parallelism by translating with the same word. In Isa 66:13 the repetition of <span dir="rtl">נחם</span> is also not kept in the Latin text, translating the first occurrence differently than the subsequent occurrences. In Gen 37:35 and Ben Sira 48:24 a verb with a similar meaning to *consolor* is rendered. 
+For the <i>piel</i>, translations other than <i>consolor</i> are often induced by the context or can be explained by the translation techniques of the Vulgate. In Eccl 4:1 <span dir="rtl">נחם</span> appears twice and the second occurrence is translated with a more general <i>auxilium</i>. The Vulgate does not maintain the parallelism by translating with the same word. In Isa 66:13 the repetition of <span dir="rtl">נחם</span> is also not kept in the Latin text, translating the first occurrence differently than the subsequent occurrences. In Gen 37:35 and Ben Sira 48:24 a verb with a similar meaning to <i>consolor</i> is rendered. 
 
 
-In the hitpael there are different renderings as well. In Gen 27:42 the Vulgate translates similar to the other ancient versions as ‘to threaten’. In Num 23:19 a passive of *muto* is chosen to state the inchangeability of God. Occassionaly the translation of the hitpael form of <span dir="rtl">נחם</span> is combined with a translation for a niphal form.
+In the <i>hithpael</i> there are different renderings as well. In Gen 27:42 the Vulgate translates similar to the other ancient versions as ‘to threaten’. In Num 23:19 a passive of <i>muto</i> is chosen to state the inchangeability of God. Occassionaly the translation of the <i>hithpael</i> form of <span dir="rtl">נחם</span> is combined with a translation for a <i>niphal</i> form.
 
 
-This survey shows that there are many possible ways to translate or interpret <span dir="rtl">נחם</span>. The Vulgate does not choose a few translations, but gives many to grasp many nuances, such as remorse, pity or grief. For the translation of the piel, a more standardized translation is used . 
+This survey shows that there are many possible ways to translate or interpret <span dir="rtl">נחם</span>. The Vulgate does not choose a few translations, but gives many to grasp many nuances, such as remorse, pity or grief. For the translation of the <i>piel</i>, a more standardized translation is used . 
 
 
 
@@ -934,13 +934,13 @@ This survey shows that there are many possible ways to translate or interpret <s
 **e.**  Conclusions Ancient Versions
 
 
-From the survey of the ancient versions above, several conclusions can be drawn about the field of meaning of <span dir="rtl">נחם</span> in different stem formations. A key similarity between all the ancient translations is the standardized translation of the piel of <span dir="rtl">נחם</span>, with only a few exceptions. This suggests that either its meaning is straigthforward and one word can suffice to translate the piel forms adequately or that the translations in the different languages contain the same nuances. In either case, the meaning of the piel of <span dir="rtl">נחם</span> according to the ancient versions is most often ‘to console’.
+From the survey of the ancient versions above, several conclusions can be drawn about the field of meaning of <span dir="rtl">נחם</span> in different stem formations. A key similarity between all the ancient translations is the standardized translation of the <i>piel</i> of <span dir="rtl">נחם</span>, with only a few exceptions. This suggests that either its meaning is straigthforward and one word can suffice to translate the <i>piel</i> forms adequately or that the translations in the different languages contain the same nuances. In either case, the meaning of the <i>piel</i> of <span dir="rtl">נחם</span> according to the ancient versions is most often ‘to console’.
 
 
-All translations translate with ‘to console' for the niphal of <span dir="rtl">נחם</span> in Gen 38:12, 2 Sam 13:39, Ezek 31:16, 32:31 and Ps 77:3, as well as Ben Sira 38:17, 23. In most of these cases, the context indicates that the meaning is ‘to console’. In Gen 38:12, for example, Judah is consoled after the death of his wife and in 2 Sam 13:39 David is consoled about the death of Amnon. These occurrences are, however, clear niphal occurrences, but the niphal may indicate a passive form in these instances. In a few other verses <span dir="rtl">נחם</span> is also frequently translated with ‘to console' in multiple translations, for example, Judg 2:18, 21:6, 15, Jer 31:15 and Ezek 14:22.
+All translations translate with ‘to console' for the <i>niphal</i> of <span dir="rtl">נחם</span> in Gen 38:12, 2 Sam 13:39, Ezek 31:16, 32:31 and Ps 77:3, as well as Ben Sira 38:17, 23. In most of these cases, the context indicates that the meaning is ‘to console’. In Gen 38:12, for example, Judah is consoled after the death of his wife and in 2 Sam 13:39 David is consoled about the death of Amnon. These occurrences are, however, clear <i>niphal</i> occurrences, but the <i>niphal</i> may indicate a passive form in these instances. In a few other verses <span dir="rtl">נחם</span> is also frequently translated with ‘to console' in multiple translations, for example, Judg 2:18, 21:6, 15, Jer 31:15 and Ezek 14:22.
 
 
-The situation for the niphal forms in the ancient translations is more complex. Several verbs are used to translate the niphal occurrences of <span dir="rtl">נחם</span>, but a few patterns emerge from the survey. When God is the subject of the verb, most translations tend to either translate the niphal with ‘to change action' to safeguard God's immovability or with ‘to change one's mind’. The latter translation is also used when people repent. Repentance is a common translation for the niphal. A few occurrences of <span dir="rtl">נחם</span> are translated similarily in many ancient versions. In Exod 13:17, for example, <span dir="rtl">נחם</span> is often translated with ‘to fear' and in Gen 27:42, a hitpael form of <span dir="rtl">נחם</span> is translated as ‘to threaten’. Other hitpael occurrences of <span dir="rtl">נחם</span> are translated differently in the ancient translations.
+The situation for the <i>niphal</i> forms in the ancient translations is more complex. Several verbs are used to translate the <i>niphal</i> occurrences of <span dir="rtl">נחם</span>, but a few patterns emerge from the survey. When God is the subject of the verb, most translations tend to either translate the <i>niphal</i> with ‘to change action' to safeguard God's immovability or with ‘to change one's mind’. The latter translation is also used when people repent. Repentance is a common translation for the <i>niphal</i>. A few occurrences of <span dir="rtl">נחם</span> are translated similarily in many ancient versions. In Exod 13:17, for example, <span dir="rtl">נחם</span> is often translated with ‘to fear' and in Gen 27:42, a <i>hithpael</i> form of <span dir="rtl">נחם</span> is translated as ‘to threaten’. Other <i>hithpael</i> occurrences of <span dir="rtl">נחם</span> are translated differently in the ancient translations.
 
 
 
@@ -949,7 +949,7 @@ The situation for the niphal forms in the ancient translations is more complex. 
 ##<span id="LSF">Lexical/Semantic Fields</span>
 
 
-**A.1** One way of approaching the semantic field of a verb is by looking at the parallel verbs. For <span dir="rtl">נחם</span> verbs used in *parallelismus membrorum* or enumerations in poetry or prose are:
+**A.1** One way of approaching the semantic field of a verb is by looking at the parallel verbs. For <span dir="rtl">נחם</span> verbs used in <i>parallelismus membrorum</i> or enumerations in poetry or prose are:
 
 
 
@@ -1008,7 +1008,7 @@ The situation for the niphal forms in the ancient translations is more complex. 
 
 
 
-<i>Hitp.</i>
+<i>Hithp.</i>
 
 
 <span dir="rtl">כזב</span>, ‘to lie’: Num 23:19.
@@ -1031,7 +1031,7 @@ The situation for the niphal forms in the ancient translations is more complex. 
 
 
 
-**A.3** The semantic field[^109] of <span dir="rtl">נחם</span> in the niphal is ‘change’. It indicates that the actions or mind of the subject of the verb changes. For the piel the semantic field is ‘Grief and Joy’, because of the meaning ‘to comfort’.
+**A.3** The semantic field[^109] of <span dir="rtl">נחם</span> in the <i>niphal</i> is ‘change’. It indicates that the actions or mind of the subject of the verb changes. For the <i>piel</i> the semantic field is ‘Grief and Joy’, because of the meaning ‘to comfort’.
 
 
 
@@ -1045,21 +1045,20 @@ The situation for the niphal forms in the ancient translations is more complex. 
  
 
 
-###<span id="Exe-lit">Literal Use</span>
 
 
+<!--
+
+All ancient translation translate the occurrences of <span dir="rtl">נחם</span> in the <i>piel</i> with ‘to console' or ‘to comfort’. This meaning is also listed in the dictionaries for the <i>piel</i> of <span dir="rtl">נחם</span>.[^110] In many instances, God is the subject of the verb. Especially in deutero-Isaiah the promise and prophecies are given that there will be consolation for Jerusalem. In Isa 40:1 <span dir="rtl">נחם</span> is used in the verse to state that there will be consolation for the people of God. In Isa 61:2, ‘all who mourn' are comforted. God comforts his people and saves them. This meaning of <span dir="rtl">נחם</span> can be combined with several verbs, such as <span dir="rtl">רחם</span>, ‘to have compassion’, <span dir="rtl">גאל</span>, ‘to redeem' or <span dir="rtl">בחר</span>, ‘to chose’. All these verbs imply that  there will be forgiveness or redemption, because God chooses Jerusalem again.
 
 
-All ancient translation translate the occurrences of <span dir="rtl">נחם</span> in the piel with ‘to console' or ‘to comfort’. This meaning is also listed in the dictionaries for the piel of <span dir="rtl">נחם</span>.[^110] In many instances, God is the subject of the verb. Especially in deutero-Isaiah the promise and prophecies are given that there will be consolation for Jerusalem. In Isa 40:1 <span dir="rtl">נחם</span> is used in the verse to state that there will be consolation for the people of God. In Isa 61:2, ‘all who mourn' are comforted. God comforts his people and saves them. This meaning of <span dir="rtl">נחם</span> can be combined with several verbs, such as <span dir="rtl">רחם</span>, ‘to have compassion’, <span dir="rtl">גאל</span>, ‘to redeem' or <span dir="rtl">בחר</span>, ‘to chose’. All these verbs imply that  there will be forgiveness or redemption, because God chooses Jerusalem again.
+Consolation is not only offered by God, but also by other people. The object of the verb is most often animate, indicating that a possible translation is ‘to comfort someone’. In Job 42, for example, Job is comforted by his brothers and sisters. In Job 42:11 the parallel verb <span dir="rtl">נוּד</span>, ‘to console' is used.  After the death of a family member, someone may be comforted by others, signaling that the period of mourning has finished and normal life can continue again.[^111] This meaning is not only limited to the <i>piel</i> but can in some instances also be found in the <i>niphal</i>. In Gen 24:67 Isaac is comforted after the death of his mother and takes Rebekah as his wife, a signal that the period of mourning is over.[^112] In Gen 38 and 2 Sam 13 the <i>niphal</i> is also used for this reason. The question arises why the <i>niphal</i> is used instead of the <i>piel</i>. It is likely that the <i>niphal</i> functions in these instances as a normal passive. According to Natsis, the use of the <i>niphal</i> signifies the end of the process, whilst the <i>hithpael</i> focuses on the process of mourning or comforting itself.[^113] The <i>hithpael</i> can be closely connected to the meaning of <span dir="rtl">נחם</span> in the <i>piel</i>, for instance in Gen 37:35 in which in the same sentence both <i>piel</i> and <i>hithpael</i> are of used. The <i>hithpael</i> has its usual reflexive meaning. Jacob refuses to be comforted. In Deut 32:36 and its parallel in Ps 135:14, the <i>hithpael</i> has a similar meaning as the <i>piel</i>.
 
 
-Consolation is not only offered by God, but also by other people. The object of the verb is most often animate, indicating that a possible translation is ‘to comfort someone’. In Job 42, for example, Job is comforted by his brothers and sisters. In Job 42:11 the parallel verb <span dir="rtl">נוּד</span>, ‘to console' is used.  After the death of a family member, someone may be comforted by others, signaling that the period of mourning has finished and normal life can continue again.[^111] This meaning is not only limited to the piel but can in some instances also be found in the niphal. In Gen 24:67 Isaac is comforted after the death of his mother and takes Rebekah as his wife, a signal that the period of mourning is over.[^112] In Gen 38 and 2 Sam 13 the niphal is also used for this reason. The question arises why the niphal is used instead of the piel. It is likely that the niphal functions in these instances as a normal passive. According to Natsis, the use of the niphal signifies the end of the process, whilst the hitpael focuses on the process of mourning or comforting itself.[^113] The hitpael can be closely connected to the meaning of <span dir="rtl">נחם</span> in the piel, for instance in Gen 37:35 in which in the same sentence both piel and hitpael are of used. The hitpael has its usual reflexive meaning. Jacob refuses to be comforted. In Deut 32:36 and its parallel in Ps 135:14, the hitpael has a similar meaning as the piel.
+The meaning and aspect of the use of the <i>niphal</i> of <span dir="rtl">נחם</span> is more complicated than the <i>piel</i>, as can be seen in the ancient translations and the dictionaries. The latter often divide its meaning in multiple points, for example  ‘to be sorry for, to regret’, ‘to relent’,  ‘to avenge' and  ‘to console’. These translations of the <i>niphal</i> of <span dir="rtl">נחם</span> can be summarized in ‘to change action or feeling’. 
 
 
-The meaning and aspect of the use of the niphal of <span dir="rtl">נחם</span> is more complicated than the piel, as can be seen in the ancient translations and the dictionaries. The latter often divide its meaning in multiple points, for example  ‘to be sorry for, to regret’, ‘to relent’,  ‘to avenge' and  ‘to console’. These translations of the niphal of <span dir="rtl">נחם</span> can be summarized in ‘to change action or feeling’. 
-
-
-God is often the subject of <span dir="rtl">נחם</span> in the niphal. A few times the verb is used to indicate that God regrets doing something. In Gen 6:6,7 God regrets making humans and in 1 Sam 15 God regrets making Saul the king of Israel. Especially the latter occurrence of <span dir="rtl">נחם</span> is interesting, because it raises a theological question: can God regret his actions? In 1 Sam 15:29 the phrase ‘the glory of Israel does not lie or change his mind, for he's not a man that he should change his mind' is used. The question is whether God does change his mind or that something else is at play. Some scholars argue that this contradiction in the Hebrew text is  unacceptable and therefore suggest that 1 Sam 15:29 is a gloss.[^114] Tsumura, however, argues that the scribes of Samuel where not concerned with Biblical theology and that therefore this contradiction in the text is not problematic. In the LXX as well as in the Targum the reliability of God is stressed in these verses. In Num 23:19 a similar statement that God does not repent is made in the hitpael.
+God is often the subject of <span dir="rtl">נחם</span> in the <i>niphal</i>. A few times the verb is used to indicate that God regrets doing something. In Gen 6:6,7 God regrets making humans and in 1 Sam 15 God regrets making Saul the king of Israel. Especially the latter occurrence of <span dir="rtl">נחם</span> is interesting, because it raises a theological question: can God regret his actions? In 1 Sam 15:29 the phrase ‘the glory of Israel does not lie or change his mind, for he's not a man that he should change his mind' is used. The question is whether God does change his mind or that something else is at play. Some scholars argue that this contradiction in the Hebrew text is  unacceptable and therefore suggest that 1 Sam 15:29 is a gloss.[^114] Tsumura, however, argues that the scribes of Samuel where not concerned with Biblical theology and that therefore this contradiction in the text is not problematic. In the LXX as well as in the Targum the reliability of God is stressed in these verses. In Num 23:19 a similar statement that God does not repent is made in the <i>hithpael</i>.
 
 
 An expression that is often used in Jeremiah is that God does not ‘relent from doing evil' if the addressees of the prophecy do not change their ways. The ancient translations sometimes translate <span dir="rtl">נחם</span> with ‘to stop’, to signify that a change of action is meant rather than a change of mind. The expression is often combined with <span dir="rtl">שׁוּב</span> in enumerations. God can not relent from doing harm or can relent from doing good (Jer 18:10). In Joel 2:13 it is stated that God does relent from doing harm, because of his kindness. In all these instances, God's actions change as a result of the action of humans. It is probably best to see these particular instances, in agreement with the ancient translations, as God who changes his actions, and not necessarily his mind. 
@@ -1068,64 +1067,65 @@ An expression that is often used in Jeremiah is that God does not ‘relent from
 Not only God does change his action, but <span dir="rtl">נחם</span> is also used with people as subject of the verb. In Jer 8:6 it is stated that no one relents from their evil ways, implying a chance in action rather than a change in mind, although mind and action cannot be fully seperated.  
 
 
-In one instance in the niphal and two hitpael forms of <span dir="rtl">נחם</span> a more specific meaning for the verb emerges. In Isaiah 1:24 God is the subject of <span dir="rtl">נחם</span> and the verb is followed by <span dir="rtl">נקם</span>, ‘to take vengance’. This raises the question how this relates to the more general meaning of <span dir="rtl">נחם</span>, which can be understood as to change action, feeling or mind. It could be argued that by avenging, one's own feelings are changed and perhaps even comforted in knowing that justice will be brought upon the enemies.[^115] This is demonstrated in Gen 27:42 in which Esau ‘comforts himself' in killing his brother Jacob. In Ezek 5:13, God is the subject. In the clause before it God says that he will rest his anger (<span dir="rtl">הֲנִחֹותִי חֲמָתִי</span>). He will be avenged, which means that by avenging, God is comforted. Avenging is the consolation for the harm that is done, according to these texts.
+In one instance in the <i>niphal</i> and two <i>hithpael</i> forms of <span dir="rtl">נחם</span> a more specific meaning for the verb emerges. In Isaiah 1:24 God is the subject of <span dir="rtl">נחם</span> and the verb is followed by <span dir="rtl">נקם</span>, ‘to take vengance’. This raises the question how this relates to the more general meaning of <span dir="rtl">נחם</span>, which can be understood as to change action, feeling or mind. It could be argued that by avenging, one's own feelings are changed and perhaps even comforted in knowing that justice will be brought upon the enemies.[^115] This is demonstrated in Gen 27:42 in which Esau ‘comforts himself' in killing his brother Jacob. In Ezek 5:13, God is the subject. In the clause before it God says that he will rest his anger (<span dir="rtl">הֲנִחֹותִי חֲמָתִי</span>). He will be avenged, which means that by avenging, God is comforted. Avenging is the consolation for the harm that is done, according to these texts.
 
 
-In Judges, amongst others, the niphal of <span dir="rtl">נחם</span> adopts a meaning of ‘to be sorry for' or ‘to pity’. In Judges 2:18 God is the subject and is moved to pity because he hears the groaning. Later in Judges the sons of Israel are moved to pity, because of the fate of Benjamin. 
+In Judges, amongst others, the <i>niphal</i> of <span dir="rtl">נחם</span> adopts a meaning of ‘to be sorry for' or ‘to pity’. In Judges 2:18 God is the subject and is moved to pity because he hears the groaning. Later in Judges the sons of Israel are moved to pity, because of the fate of Benjamin. 
 
 
 [Will be expanded later]
  
-
+-->
 
 
 
 ##<span id="Con">Conclusions</span>
 
+<!--
 
-The piel of <span dir="rtl">נחם</span> means ‘to comfort, console' in all instances. The hitpael sometimes follows this meaning. The niphal has a more complex field of meaning. Firstly, the niphal of <span dir="rtl">נחם</span> can simply be used as a passive, meaning: ‘to be comforted’. Secondly, the niphal means to change one's mind, feeling or action. These nuances can be translated with ‘to regret’, ‘to relent’, often followed by ‘evil' or ‘good’, ‘to be moved to pity' and lastly in a few particular instances ‘to avenge’. The hitpael can be used to indicate the reflexive use of the niphal and piel.
+The <i>piel</i> of <span dir="rtl">נחם</span> means ‘to comfort, console' in all instances. The <i>hithpael</i> sometimes follows this meaning. The <i>niphal</i> has a more complex field of meaning. Firstly, the <i>niphal</i> of <span dir="rtl">נחם</span> can simply be used as a passive, meaning: ‘to be comforted’. Secondly, the <i>niphal</i> means to change one's mind, feeling or action. These nuances can be translated with ‘to regret’, ‘to relent’, often followed by ‘evil' or ‘good’, ‘to be moved to pity' and lastly in a few particular instances ‘to avenge’. The <i>hithpael</i> can be used to indicate the reflexive use of the <i>niphal</i> and <i>piel</i>.
+
+-->
+
+## Bibliography
+
+For the abbreviations see the 
+<a href="/store/abbreviations/">List of Abbreviations</a>.
 
 
-
-
-
-**<span id="Bibl">Bibliography**</span>
-
-
-
-Brown, Francis, S. R. Driver and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament*. Oxford:
+Brown, Francis, S. R. Driver and Charles A. Briggs. <i>A Hebrew and English Lexicon of the Old Testament</i>. Oxford:
 Clarendon Press, 1979.
 
 
 
-Clines, David J.A. (ed.). *The Dictionary of Classical Hebrew*. Vol. 1-5. Sheffield: Sheffield Academic Press 1993-2001. Vol. 6-9, Sheffield: Sheffield Phoenix Press, 2007-16.
+Clines, David J.A. (ed.). <i>The Dictionary of Classical Hebrew</i>. Vol. 1-5. Sheffield: Sheffield Academic Press 1993-2001. Vol. 6-9, Sheffield: Sheffield Phoenix Press, 2007-16.
 
 
 
-Clines, David J.A. (ed.). *The Dictionary of Classical Hebrew Revised*. Vol. 1. Sheffield: Sheffield Academic Press 2018.
+Clines, David J.A. (ed.). <i>The Dictionary of Classical Hebrew Revised</i>. Vol. 1. Sheffield: Sheffield Academic Press 2018.
 
 
 
-Jastrow, M. *A Dictionary of the Targumim, the Talmud Babli and Yerushalmi, and the
-Midrashic Literature* 2 vols. London: Luzac / New York: Putnam, 1886-1903. Repr.
+Jastrow, M. <i>A Dictionary of the Targumim, the Talmud Babli and Yerushalmi, and the
+Midrashic Literature</i> 2 vols. London: Luzac / New York: Putnam, 1886-1903. Repr.
 Peabody [MA]: Hendrickson Publishers, 2003.
 
 
 
-Koehler, Ludwig, Walter Baumgartner and Johann J. Stamm. *The Hebrew and Aramaic
-Lexicon of the Old Testament*. Translated and edited by Mervyn E.J. Richardson. Leiden: Brill,
+Koehler, Ludwig, Walter Baumgartner and Johann J. Stamm. <i>The Hebrew and Aramaic
+Lexicon of the Old Testament</i>. Translated and edited by Mervyn E.J. Richardson. Leiden: Brill,
 1994-2000.
 
 
 
 
 
-Lewis, Charlton T. and Charles Short. *A Latin Dictionary*. Oxford: Clarendon Press,
+Lewis, Charlton T. and Charles Short. <i>A Latin Dictionary</i>. Oxford: Clarendon Press,
 1879 (repr. 2002).
 
 
 
-Liddell, Henry G., Robert Scott and Henry S. Jones. *A Greek-English Lexicon*.
+Liddell, Henry G., Robert Scott and Henry S. Jones. <i>A Greek-English Lexicon</i>.
 Oxford<sup>9</sup>:
 Oxford University Press, 1940; Peter G.W. Glare, Revised Supplement, Oxford: Oxford
 University Press, 1996.
@@ -1136,12 +1136,12 @@ University Press, 1996.
 
 
 
-Lust, Johan, Erik Eynikel and Katrin Hauspie. *A Greek-English Lexicon of the Septuagint*.
+Lust, Johan, Erik Eynikel and Katrin Hauspie. <i>A Greek-English Lexicon of the Septuagint</i>.
 Stuttgart: Deutsche Bibelgesellschaft, 2003<sup>2</sup>.
 
 
 
-Merwe, C.H. J. van der, J. A. Naudé and Jan Kroeze. *A Biblical Hebrew Reference Grammar*. London: Bloomsbury, T&T Clark, 2018.
+Merwe, C.H. J. van der, J. A. Naudé and Jan Kroeze. <i>A Biblical Hebrew Reference Grammar</i>. London: Bloomsbury, T&T Clark, 2018.
 
 
 
@@ -1151,19 +1151,19 @@ Natsis, Jared ‘The Value of Linguistics for Exegesis: A Demonstration of Lexic
 
 
 
-Payne Smith, Jessie (Mrs. Margoliouth; ed.). *A Compendious Syriac Dictionary: founded upon the Thesaurus Syriacus of R. Payne Smith*. Oxford: Clarendon Press, 1903.
+Payne Smith, Jessie (Mrs. Margoliouth; ed.). <i>A Compendious Syriac Dictionary: founded upon the Thesaurus Syriacus of R. Payne Smith</i>. Oxford: Clarendon Press, 1903.
 Repr. Winona Lake [IN]: Eisenbrauns, 1998.
 
 
 
 
 
-Sokoloff, Michael. *A Dictionary of Jewish Palestinian Aramaic of the Byzantine Period*.
+Sokoloff, Michael. <i>A Dictionary of Jewish Palestinian Aramaic of the Byzantine Period</i>.
 Ramat-Gan: Bar Ilan University Press, 2002<sup>2</sup>.
 
 
 
-Staalduine-Sulman, Eveline van. ‘The Niphal of the Hebrew Verb <span dir="rtl">נחם</span> and Its Reception in Early Jewish Sources.' *Judaica Ukrainica* 4(2015): 5-17.
+Staalduine-Sulman, Eveline van. ‘The Niphal of the Hebrew Verb <span dir="rtl">נחם</span> and Its Reception in Early Jewish Sources.' <i>Judaica Ukrainica</i> 4(2015): 5-17.
 
 
 
@@ -1175,10 +1175,6 @@ Tsumura, David Toshio. <i>The First Book of Samuel: The New International Commen
 
 
 
-For the abbreviations applied  
-<a href=http://www.otw-site.eu/wp-content/uploads/2018/03/Abbreviations_KLY.pdf target="_blank">→ List of Abbreviations</a> 
-
-
 
  
 
@@ -1193,9 +1189,6 @@ For the abbreviations applied
 
 
 
-<span id="citation"></span>
-This article should be cited as:<br>B.M. Bogerd, ‘<span dir="rtl">נחם</span> to comfort someone, to change one's action, feeling or mind’, 
-<span style="text-transform:uppercase;">pdf</span> downloaded from: 
 
 
 
@@ -1209,37 +1202,37 @@ This article should be cited as:<br>B.M. Bogerd, ‘<span dir="rtl">נחם</span
 [^2]:        {#2
 [^3]: Some of the occurrences of <span dir="rtl">נחם</span> are found in direct speech. Not all the subjects are directly marked. When it is possible to infer the subjects from the context, they are mentioned below as well.
 [^4]: The nouns in brackets indicate to whom or what these object pronouns refer.
-[^5]: After the preposition the reason for the repenting of the subject follows. Eveline van Staalduine-Sulman, ‘The Niphal of the Hebrew Verb <span dir="rtl">נחם</span> and Its Reception in Early Jewish Sources' *Judaica Ukrainica* 4 (2015): 9.
+[^5]: After the preposition the reason for the repenting of the subject follows. Eveline van Staalduine-Sulman, ‘The Niphal of the Hebrew Verb <span dir="rtl">נחם</span> and Its Reception in Early Jewish Sources' <i>Judaica Ukrainica</i> 4 (2015): 9.
 [^6]: The preposition indicates towards whom or what the ‘feeling' of the subject is changing.  There is no clear difference between the use of the preposition <span dir="rtl">עַל</span> and <span dir="rtl">אֶל</span>.  Van Staalduine-Sulman, ‘The Niphal of <span dir="rtl">נחם</span>’,  7.
 [^7]: Van Staalduine-Sulman, ‘The Niphal of <span dir="rtl">נחם</span>’,  8.
-[^8]: <i>LSJ</i>, 115; *GELS-L<sup>2*</sup>, 160.
-[^9]: <i>LSJ</i>, 122; *GELS-L<sup>2*</sup>, 164.
-[^10]: <i>LSJ</i>, 143; *GELS-L<sup>2*</sup>, 177-8.
-[^11]: <i>LSJ</i>, 220*GELS-L<sup>2*</sup>, 222.
-[^12]: <i>LSJ</i>, 531; *GELS-L<sup>2*</sup>, 431.
-[^13]: *GELS-L<sup>2*</sup>, 453.
-[^14]: <i>LSJ</i>, 763; *GELS-L<sup>2*</sup>, 570-1.
-[^15]: *GELS-L<sup>2*</sup>, 453, 599.
-[^16]: <i>LSJ</i>, 828; *GELS-L<sup>2*</sup>, 611.
+[^8]: <i>LSJ</i>, 115; <i>GELS-L<sup>2</i></sup>, 160.
+[^9]: <i>LSJ</i>, 122; <i>GELS-L<sup>2</i></sup>, 164.
+[^10]: <i>LSJ</i>, 143; <i>GELS-L<sup>2</i></sup>, 177-8.
+[^11]: <i>LSJ</i>, 220; <i>GELS-L<sup>2</i></sup>, 222.
+[^12]: <i>LSJ</i>, 531; <i>GELS-L<sup>2</i></sup>, 431.
+[^13]: <i>GELS-L<sup>2</i></sup>, 453.
+[^14]: <i>LSJ</i>, 763; <i>GELS-L<sup>2</i></sup>, 570-1.
+[^15]: <i>GELS-L<sup>2</i></sup>, 453, 599.
+[^16]: <i>LSJ</i>, 828; <i>GELS-L<sup>2</i></sup>, 611.
 [^17]: <i>LSJ</i>, 1112.
-[^18]: <i>LSJ</i>, 1112; *GELS-L<sup>2*</sup>, 796.
-[^19]: <i>LSJ</i>, 1114; *GELS-L<sup>2*</sup>, 798.
-[^20]: *GELS-L<sup>2*</sup>, 798.
-[^21]: <i>LSJ</i>, 1246; *GELS-L<sup>2*</sup>, 875-6.
-[^22]: <i>LSJ</i>, 1350; *GELS-L<sup>2*</sup>, 932-3.
-[^23]: *GELS-L<sup>2*</sup>, 911.
-[^24]: <i>LSJ</i>, 1338; *GELS-L<sup>2*</sup>, 924.
-[^25]: <i>LSJ</i>, 404; *GELS-L<sup>2*</sup>, 340.
-[^26]: <i>LSJ</i>, 531; *GELS-L<sup>2*</sup>, 431.
-[^27]: *GELS-L<sup>2*</sup>, 911.
-[^28]: <i>LSJ</i>, 1318; *GELS-L<sup>2*</sup>, 914-5.
-[^29]: <i>LSJ</i>, 1338; *GELS-L<sup>2*</sup>, 924.
-[^30]: <i>LSJ</i>, 1343; *GELS-L<sup>2*</sup>, 928.
+[^18]: <i>LSJ</i>, 1112; <i>GELS-L<sup>2</i></sup>, 796.
+[^19]: <i>LSJ</i>, 1114; <i>GELS-L<sup>2</i></sup>, 798.
+[^20]: <i>GELS-L<sup>2</i></sup>, 798.
+[^21]: <i>LSJ</i>, 1246; <i>GELS-L<sup>2</i></sup>, 875-6.
+[^22]: <i>LSJ</i>, 1350; <i>GELS-L<sup>2</i></sup>, 932-3.
+[^23]: <i>GELS-L<sup>2</i></sup>, 911.
+[^24]: <i>LSJ</i>, 1338; <i>GELS-L<sup>2</i></sup>, 924.
+[^25]: <i>LSJ</i>, 404; <i>GELS-L<sup>2</i></sup>, 340.
+[^26]: <i>LSJ</i>, 531; <i>GELS-L<sup>2</i></sup>, 431.
+[^27]: <i>GELS-L<sup>2</i></sup>, 911.
+[^28]: <i>LSJ</i>, 1318; <i>GELS-L<sup>2</i></sup>, 914-5.
+[^29]: <i>LSJ</i>, 1338; <i>GELS-L<sup>2</i></sup>, 924.
+[^30]: <i>LSJ</i>, 1343; <i>GELS-L<sup>2</i></sup>, 928.
 [^31]: <i>LSJ</i>, 737.
-[^32]: *GELS-L<sup>2*</sup>, 911.
-[^33]: <i>LSJ</i>, 1338; *GELS-L<sup>2*</sup>, 924.
+[^32]: <i>GELS-L<sup>2</i></sup>, 911.
+[^33]: <i>LSJ</i>, 1338; <i>GELS-L<sup>2</i></sup>, 924.
 [^34]: <i>LSJ</i>, 33-34.
-[^35]: *GELS-L<sup>2*</sup>, 911.
+[^35]: <i>GELS-L<sup>2</i></sup>, 911.
 [^36]: Van Staalduine-Sulman, ‘The Niphal of <span dir="rtl">נחם</span>’, 11.
 [^37]: Van Staalduine-Sulman, ‘The Niphal of <span dir="rtl">נחם</span>’, 14.
 [^38]: Van Staalduine-Sulman, ‘The Niphal of <span dir="rtl">נחם</span>’, 12.
@@ -1315,10 +1308,10 @@ This article should be cited as:<br>B.M. Bogerd, ‘<span dir="rtl">נחם</span
 [^106]: Lewis & Short, <i>LD</i>, 1150.
 [^107]: Lewis & Short, <i>LD</i>, 1180-1.
 [^108]: Lewis & Short, <i>LD</i>, 1381.
-[^109]: The semantic categories are chosen from *DCHR*, 69-79.
-[^110]: Francis Brown, S. R. Driver, Charles A. Briggs, *A Hebrew and English Lexicon of the Old Testament*, (Oxford: Clarendon Press, 1979), 636. *DCH*, 664 also adds “perhaps vindicate" for the piel and mentions the particple seperatly as well. *HALOT*, 688-9. See also Jared Natsis, ‘The Value of Linguistics for Exegesis: A Demonstration of Lexical Semantics and the Hebrew <span dir="rtl">נחם</span>' (Thesis: Wisconsin Luterhan Seminary, 2019), 30-1.
-[^111]: *HALOT*, 688.
-[^112]: *HALOT*, 688.
-[^113]: Natsis, ‘The Value of Linguistics’, 24; C.H. J. Van Der Merwe, J. A. Naudé, and Jan Kroeze, *A Biblical Hebrew Reference Grammar* (London: Bloomsbury, T&T Clark, 2018), 85.
-[^114]: For example McCarter, mentioned in  David Toshio Tsumura, *The First Book of Samuel: The New International Commentary on the Old Testament* (Grand Rapids, Michigan: William B Eerdmans Publishing, 2007), 395-6.
+[^109]: The semantic categories are chosen from <i>DCHR</i>, 69-79.
+[^110]: Francis Brown, S. R. Driver, Charles A. Briggs, <i>A Hebrew and English Lexicon of the Old Testament</i>, (Oxford: Clarendon Press, 1979), 636. <i>DCH</i>, 664 also adds “perhaps vindicate" for the <i>piel</i> and mentions the particple seperately as well. <i>HALOT</i>, 688-9. See also Jared Natsis, ‘The Value of Linguistics for Exegesis: A Demonstration of Lexical Semantics and the Hebrew <span dir="rtl">נחם</span>' (Thesis: Wisconsin Luterhan Seminary, 2019), 30-1.
+[^111]: <i>HALOT</i>, 688.
+[^112]: <i>HALOT</i>, 688.
+[^113]: Natsis, ‘The Value of Linguistics’, 24; C.H. J. Van Der Merwe, J. A. Naudé, and Jan Kroeze, <i>A Biblical Hebrew Reference Grammar</i> (London: Bloomsbury, T&T Clark, 2018), 85.
+[^114]: For example McCarter, mentioned in  David Toshio Tsumura, <i>The First Book of Samuel: The New International Commentary on the Old Testament</i> (Grand Rapids, Michigan: William B Eerdmans Publishing, 2007), 395-6.
 [^115]: Natsis, ‘The Value of Linguistics’, 24.

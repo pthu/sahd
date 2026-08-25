@@ -138,22 +138,27 @@ bBat/bSanh, however, compares the heat to which the
 
 <b>Septuagint (LXX)</b>[^12] 
  
-* χαλκίον, ‘copper cauldron’,[^21] or κ/χύθ/τρα, ‘earthen pot’:[^22] 1 Sam 2:14; see A.1 below;
-* χύτρα, ‘<i>earthen pot</i>: receptacle for meat’:[^23] Mic 3:3. 
+* χαλκίον, ‘bronze cauldron’, or κ/χύθ/τρα, ‘earthen pot’: 1 Sam 2:14; see A.1 below;
+* χύτρα, ‘earthen pot’: Mic 3:3. 
 
 [^12]: The translations of the Greek are based on <i>GELS</i>.
+
+<!--
 [^21]: <i>LEH</i><sup><small>3</small></sup>, 659; <i>GELS</i>, 728.
 [^22]: <i>LEH</i><sup><small>3</small></sup>, 359; <i>GELS</i>,  417, κύθρας is a spelling variant of χύτρας.
 [^23]: <i>GELS</i>, 738; <i>LEH</i><sup><small>1</small></sup>, 521: ‘earthen pot’; <i>LEH</i><sup><small>3</small></sup>, 670: ‘earthen pot’; LSJ, 2013: ‘earthen pot, pipkin’.
+-->
 
-<b>Peshitta (Pesh)</b> 
+<b>Peshitta (Pesh)</b>[^13] 
 
-* <span dir="rtl">ܩܪܕܠܐ</span> (<i>qerd<sup>e</sup>lā</i>), ‘large hanging pot</i>’:[^24] 1 Sam 2:14; 
-* <span dir="rtl">ܩܕܪܐ</span> (<i>qedrā</i>), ‘pot’:[^25] Mic 3:3 (in 1 Sam 2:14 used for <span dir="rtl">פָּרוּר</span>).
+[^13]: The translations of the Syriac are based on Sokoloff, <i>SLB</i>. 
 
-[^24]: Payne Smith, <i>CSD</i>, 518; Sokoloff, <i>SLB</i>, 1402: ‘pot’.
+* <span dir="rtl">ܩܪܕܠܐ</span> (<i>qardālā</i>), ‘pot’: 1 Sam 2:14; 
+* <span dir="rtl">ܩܕܪܐ</span> (<i>qedrā</i>), ‘pot’: Mic 3:3 (in 1 Sam 2:14 used for <span dir="rtl">פָּרוּר</span>).
+
+<!--
 [^25]: Payne Smith, <i>CSD</i>, 491; Sokoloff, <i>SLB</i>, 1321–22. The latter lexicon does not take <span dir="rtl">קַלַּחַת</span> as the Hebrew counterpart but <span dir="rtl">סִּיר</span> from the preceding clause. 
-<!--PRECEDING CLAUSE?-->
+-->
 
 <b>Targum (Tg)</b>
  
@@ -162,11 +167,11 @@ bBat/bSanh, however, compares the heat to which the
 
 [^26]: Sokoloff, <i>DJPA</i>, 476: ‘pot’ (of earthenware or bronze, put on a stove); Levy, <i>CWT</i>, 2:346: ‘Kochgeschirr, Kessel, Topf’.
 
-<b>Vulgate (Vg)</b> 
+<b>Vulgate (Vg)</b>[^27] 
 
-* <i>olla</i>, ‘pot or jar (esp. for cooking)’:[^27] 1 Sam 2:14; Mic 3:3.
+* <i>olla</i>, ‘pot or jar (esp. for cooking)’: 1 Sam 2:14; Mic 3:3.
 
-[^27]: <i>OLD</i>, 1246; similarly Lewis & Short, <i>LD</i>, 1263.
+[^27]: The translation is based on <i>OLD</i>, 1246.
 
 <b>A.1</b><a id="AVA1"></a> It is questionable
 whether each of the three cooking vessels mentioned in the LXX of 1 Sam 2:14 (1 Kgdms 2:14) can be identified with one of the four cooking vessels mentioned in MT. 

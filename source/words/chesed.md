@@ -169,5 +169,5 @@ It seems that Jerome was significantly influenced by the LXX rendering of <span 
 For the abbreviations see the 
 <a href="/store/abbreviations/">List of Abbreviations</a>.
 
-
-
+<!--Karen Nelson
+Ḥesed and the New Testament: An Intertextual Categorization Study-->

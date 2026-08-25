@@ -6,7 +6,7 @@ title:
 semantic_fields: commitment   
 contributors: paul_sanders, michaël_n._van_der_meer   
 first_published: 2025-06-16  
-last_update:  
+last_update: 2026-07-31 
 update_info:    
 contributors_footnote:     
 additional_info: (WORK IN PROGRESS)   
@@ -24,11 +24,11 @@ Occurrences: 287 HB (82/138/67); 10x Sir; 187x Qum; 1x Inscr. (Total: 485)
 
 * Torah: Gen 6:18; 9:9, 11, 12, 13, 15, 16, 17; 14:13; 15:18; 17:2, 4, 7 (2x), 9, 10, 11, 13 (2x), 14, 19 (2x), 21; 21:27, 32; 26:28; 31:44; Exod 2:24; 6:4, 5; 19:5; 23:32; 24:7, 8; 31:16; 34:10, 12, 15, 27, 28; Lev 2:13; 24:8; 26:9, 15, 25, 42 (3x), 44, 45; Num 10:33; 14:44; 18:19; 25:12, 13; Deut 4:13, 23, 31; 5:2, 3; 7:2, 9, 12; 8:18; 9:9, 11, 15; 10:8; 17:2; 28:69 (2x); 29:8, 11, 13, 20, 24; 31:9, 16, 20, 25, 26; 33:9; 
 
-* Nebiim: Josh 3:3, 6 (2x), 8, 11, 14, 17; 4:7, 9, 18; 6:6, 8; 7:11, 15; 8:33; 9:6, 7, 11, 15, 16; 23:16; 24:25; Judg 2:1, 2, 20; 8:33; 9:4, 46; 20:27; 1 Sam 4:3, 4 (2x), 5; 11:1; 18:3; 20:8; 23:18; 2 Sam 3:12, 13, 21; 5:3; 15:24; 23:5; 1 Kgs 3:15; 5:26; 6:19; 8:1, 6, 21, 23; 11:11; 15:19 (2x); 19:10, 14; 20:34 (2x); 2 Kgs 11:4, 17; 13:23; 17:15, 35, 38; 18:12; 23:2, 3 (3x), 21; Isa 24:5; 28:15, 18; 33:8; 42:6; 49:8; 54:10; 55:3; 56:4, 6; 59:21; 61:8; Jer 3:16; 11:2, 3, 6, 8, 10; 14:21; 22:9; 31:31, 32 (2x), 33; 32:40; 33:20 (2x), 21, 25; 34:8, 10, 13, 15, 18 (2x); 50:5; Ezek 16:8, 59, 60 (2x), 61, 62; 17:13, 14, 15, 16, 18, 19; 20:37; 30:5; 34:25; 37:26 (2x); 44:7; Hos 2:20; 6:7; 8:1; 10:4; 12:2; Amos 1:9; Obad 1:7; Zech 9:11; 11:10; Mal 2:4, 5, 8, 10, 14; 3:1; 
+* Nebiim: Josh 3:3, 6 (2x), 8, 11, 14, 17; 4:7, 9, 18; 6:6, 8; 7:11, 15; 8:33; 9:6, 7, 11, 15, 16; 23:16; 24:25; Judg 2:1, 2, 20; 8:33; 9:4, 46; 20:27; 1 Sam 4:3, 4 (2x), 5; 11:1; 18:3; 20:8; 23:18; 2 Sam 3:12, 13, 21; 5:3; 15:24; 23:5; 1 Kgs 3:15; 5:26; 6:19; 8:1, 6, 21, 23; 11:11; 15:19 (2x); 19:10, 14; 20:34 (2x); 2 Kgs 11:4, 17; 13:23; 17:15, 35, 38; 18:12; 23:2, 3 (3x), 21; Isa 24:5; 28:15, 18; 33:8; 42:6; 49:8; 54:10; 55:3; 56:4, 6; 59:21; 61:8; Jer 3:16; 11:2, 3, 6, 8, 10; 14:21; 22:9; 31:31, 32 (2x), 33; 32:40; 33:20 (2x), 21, 25; 34:8, 10, 13, 15, 18 (2x); 50:5; Ezek 16:8, 59, 60 (2x), 61, 62; 17:13, 14, 15, 16, 18, 19; 20:37; 30:5; 34:25; 37:26 (2x); 44:7; Hos 2:20 (transl. 2:18); 6:7; 8:1; 10:4; 12:2; Amos 1:9; Obad 1:7; Zech 9:11; 11:10; Mal 2:4, 5, 8, 10, 14; 3:1; 
 
 * Ketubim: Pss 25:10, 14; 44:18; 50:5, 16; 55:21; 74:20; 78:10, 37; 83:6; 89:4, 29, 35, 40; 103:18; 105:8, 10; 106:45; 111:5, 9; 132:12; Job 5:23; 31:1; 40:28; Prov 2:17; Dan 9:4, 27; 11:22, 28, 30 (2x), 32; Ezra 10:3; Neh 1:5; 9:8, 32; 13:29; 1 Chron 11:3; 15:25, 26, 28, 29; 16:6, 15, 17, 37; 17:1; 22:19; 28:2, 18; 2 Chron 5:2, 7; 6:11, 14; 13:5; 15:12; 16:3 (2x); 21:7; 23:1, 3, 16; 29:10; 34:30, 31 (2x), 32;
 
-* Sira: 11:34<sup><small>A</small></sup>; 41:19<sup><small>B,Mas</small></sup>; 44:12<sup><small>Mas</small></sup>; 44:17<sup><small>B,Mas</small></sup>;
+* Sira: 11:34<sup><small>A</small></sup>; 41:19<sup><small>B,Mas</small></sup>; 44:12<sup><small>Mas</small></sup>; 44:17<sup><small>B</small></sup>;
 44:20<sup><small>B</small></sup>;
 44:22<sup><small>B</small></sup>;
 45:15<sup><small>B</small></sup>;
@@ -64,6 +64,10 @@ in 1 Kgs 8:9 and 2 Chron 5:10.
 <span id="RCM"></span>
 ## 1. Root and Comparative Material
 
+
+<!--VEERWERKEN Tadmor 1982, 137-138-->
+
+
 The etymology of <span dir="rtl">בְּרִית</span> is disputed. The most important derivations and proposed cognates are described hereafter.
 
 <b>A.1</b> The noun <span dir="rtl">בְּרִית</span> has been derived from the Akkadian noun <i>birītu</i> (sometimes <i>barītu</i>, <i>bi/ertu</i>), which means ‘in-between terrain, alley (between houses)’, etc. (<i>CAD</i> B, 252-54), or ‘space between, distance’, etc. (Black et al. 2000:45), but which can also mean ‘fetter’ (<i>CAD</i> B, 254: <i>birītu</i> 4.; Black et al. 2000:45: <i>birītu</i> II). 
@@ -86,7 +90,7 @@ Scholars pointed out that covenantal ceremonies often included a festive meal. W
 ‘enter into a <span dir="rtl">בְּרִית</span> with someone’.
 <!--Is dit niet ook vreemd met KRT?-->
 
-<b>A.5</b> Two texts form Ugarit possibly contain the word <i>brt</i>, ‘covenant’:  
+<b>A.5</b> Three texts form Ugarit possibly contain the word <i>brt</i>, ‘covenant’:  
 
 * The Ugaritic incantation <i>KTU</i> 1.82 contains the following
 text in line 5: <i>hm tġrm lmt <b>brt</b>k</i>. De Moor and Spronk interpreted <i>brt</i> as a cognate of Hebrew <span dir="rtl">בְּרִית</span> and
@@ -105,7 +109,11 @@ Black et al. 2000:40). Assuming that this etymology is correct, the following tw
 Dijkstra, however, pointed out that the <i>nomina recta</i> after <i>ʾil</i> in the rest of this text are not Ugaritic but Hurrian words, also <i>dn</i>, which he translated as ‘powerful’. However, he
 interpreted <i>ʾilb</i><sup>15</sup><i>rt</i> as the divine name Ilabrat
 (Dijkstra 1993:161). It seems natural to regard <i>brt</i> as a Hurrian and not as an Ugaritic word, but the preceding word <i>ʾil</i> can best be interpreted as the divine name El, just like the other occurrences of <i>ʾil</i> in the text.
-<!--Aan KTU 1.128 later meer doen-->
+<!--Aan KTU 1.128 later meer doen. More literature in Koopmans 403 n. 231.-->
+* It has been suggested to read <i>brt</i>, ‘covenant’ (with <i>br</i> uncertain), in KTU 1.3:I.28 (De Moor and Spronk 1987:2; cf. De Moor 1987:4), but the reading is <i>mrt</i>
+(with <i>mr</i> uncertain) according to KTU<small><sup>1</sup></small>,
+KTU<small><sup>2</sup></small>, and KTU<small><sup>3</sup></small>.
+
 
 <b>A.6</b> <!--DNWSI only bottom p. 31: uncertain; HATRA 3rd BCE - 3rd CE-->
 The suggestion that <span dir="rtl">בְּרִית</span> is a Canaanite word is based on the expression <i>ʾilbrt</i> in <i>KTU</i> 1.128 (see A.5) and
@@ -146,25 +154,213 @@ Bauer and Leander (BL, 604-05) regard <span dir="rtl">בְּרִית</span> as a
 Meyer (<i>HG</i>, 22-23) regards <span dir="rtl">בְּרִית</span> as a <i>qatl</i> form. However, since the derivation of <span dir="rtl">בְּרִית</span> is questionable, these interpretations are also uncertain.
 
 
+
 ##<span id="Syn">3. Syntagmatics</span> 
 
-<b>A.1</b> 
-Among the verbs of which <span dir="rtl">בְּרִית</span> is frequently the object are <span dir="rtl">כרת</span>, <span dir="rtl">קום</span>, <span dir="rtl">נתן</span>:
 
-* <span dir="rtl">כרת</span> <i>qal</i>, ‘to cut’, occurs with <span dir="rtl">בְּרִית</span> as its object in 
-Gen 15:18; 21:27, 32; 26:28; 31:44; Exod 23:32; 24:8; 34:10, 12, 15, 27; Deut 4:23; 5:2, 3; 7:2; 9:9; 28:69 (2x); 29:11, 13, 24; 31:16; Josh 9:6, 7, 11, 15, 16; 24:25; Judg 2:2; 1 Sam 11:1; 18:3; 23:18; 2 Sam 3:12, 13, 21; 5:3; 1 Kgs 5:26; 8:21; 20:34; 2 Kgs 11:4, 17; 17:15, 35, 38; 23:3; Isa 28:15; 55:3; 61:8; Jer 11:10; 31:31, 32, 33; 32:40; 34:8, 13, 15, 18; Ezek 17:13; 34:25; 37:26; Hos 2:20; 10:4; 12:2; Zech 11:10; Pss 50:5; 83:6; 89:4; Job 31:1; 40:28; Ezra 10:3; Neh 9:8; 1 Chron 11:3; 2 Chron 6:11; 21:7; 23:3, 16; 29:10; 34:31.
-* <span dir="rtl">קום</span> <i>hiph.</i>, ‘to establish’, occurs with <span dir="rtl">בְּרִית</span> as its object in 
+Among the verbs of which <span dir="rtl">בְּרִית</span> is frequently the object are <span dir="rtl">כרת</span> (A.1), <span dir="rtl">קום</span> <i>hiph.</i> (A.2), <span dir="rtl">פרר</span> <i>hiph.</i> (A.3):
+
+<b>A.1</b>
+<span dir="rtl">כרת</span> <i>qal</i>, ‘to cut’, occurs 78 times with <span dir="rtl">בְּרִית</span> as its object: 
+Gen 15:18; 21:27, 32; 26:28; 31:44; Exod 23:32; 24:8; 34:10, 12, 15, 27; Deut 4:23; 5:2, 3; 7:2; 9:9; 28:69 (2x); 29:11, 13, 24; 31:16; Josh 9:6, 7, 11, 15, 16; 24:25; Judg 2:2; 1 Sam 11:1; 18:3; 23:18; 2 Sam 3:12, 13, 21; 5:3; 1 Kgs 5:26; 8:21; 20:34; 2 Kgs 11:4, 17; 17:15, 35, 38; 23:3; Isa 28:15; 55:3; 61:8; Jer 11:10; 31:31, 32, 33; 32:40; 34:8, 13, 15, 18; Ezek 17:13; 34:25; 37:26; Hos 2:20; 10:4; 12:2; Zech 11:10; Pss 50:5; 83:6; 89:4; Job 31:1; 40:28; Ezra 10:3; Neh 9:8; 1 Chron 11:3; 2 Chron 6:11; 21:7; 23:3, 16; 29:10; 34:31.   
+The combination of <span dir="rtl">כרת</span> and <span dir="rtl">בְּרִית</span> can be accompanied by the prepostion <span dir="rtl">ל</span> to indicate with whom the <span dir="rtl">בְּרִית</span> was made (28 times; Exod 23:32 (2x); 34:12, 15; Deut 7:2; Josh 9:6, 7, 11, 15, 16; 24:25; Judg 2:2; 1 Sam 11:1; 2 Sam 5:3; 1 Kgs 20:34; 2 Kgs 11:4; Isa 55:3; 61:8; Jer 32:40; Ezek 34:25; 37:26; Hos 2:20; Ps 89:4; Job 31:1; Ezra 10:3; 1 Chron 11:3; 2 Chron 21:7; 29:10). 
+Instead of <span dir="rtl">ל</span>, the preposition <span dir="rtl">עִם</span> can be used to indicate with whom the <span dir="rtl">בְּרִית</span> was made (15 times;
+Gen 26:28; Exod 24:8; Deut 4:23; 5:2; 9:9; 29:11, 24; 1 Kgs 8:21; Hos 2:20 (2x); 12:2; Job 40:28; Neh 9:8; 2 Chron 6:11; 23:3).
+The preposition <span dir="rtl">אֵת</span> is also used to indicate with whom the <span dir="rtl">בְּרִית</span> was made (25 times;
+Gen 15:18; Exod 34:27 (2x); Deut 5:3 (2x); 28:69 (2x); 29:13; 31:16; 2 Sam 3:12, 13, 21; 2 Kgs 17:15, 35, 38; Isa 28:15; Jer 11:10; 31:31 (2x), 32, 33; 34:8, 13; Ezek 17:13; Zech 11:10). In 2 Kgs 11:17 and 2 Chron 23:16 the covenant partners are identified after repeated <span dir="rtl">בֵּין</span>, ‘between’. In Ps 83:6, the preposition <span dir="rtl">עַל</span> is used to indicate against whom the <span dir="rtl">בְּרִית</span> was made (<span dir="rtl">כרת</span>).
+
+<b>A.2</b>
+<span dir="rtl">קום</span> <i>hiph.</i>, ‘to establish’, occurs 14 times with <span dir="rtl">בְּרִית</span> as its object: 
 Gen 6:18; 9:9, 11, 17; 17:7, 19, 21; Exod 6:4; Lev 26:9; Deut 8:18; <!--2 Kgs 23:3;-->
-Ezek 16:60, 62; Sir 45:24; 50:24.
-* <span dir="rtl">נתן</span> <i>qal</i>, ‘to give’, occurs with <span dir="rtl">בְּרִית</span> as its object in 
-Gen 9:12; 17:2; Num 25:12; Sir 44:22.
+Ezek 16:60, 62; Sir 45:24; 50:24.    
+The combination of <span dir="rtl">קום</span> <i>hiph.</i> and <span dir="rtl">בְּרִית</span> can be accompanied by the prepostion <span dir="rtl">ל</span> to indicate with whom the <span dir="rtl">בְּרִית</span> was made (3 times; Ezek 16:60; Sir 45:24; 50:24), 
+or with the preposition <span dir="rtl">אֵת</span>
+(9 times; Gen 6:18; 9:9 (2x), 11; 17:19, 21; Exod 6:4; Lev 26:9; Ezek 16:62),
+or with 
+repeated <span dir="rtl">בֵּין</span>, ‘between’ 
+(Gen 9:17; 17:7).
 
-<b>A.2</b> 
+<b>A.3</b> 
 The most frequent verb expressing the breaking of a <span dir="rtl">בְּרִית</span>
-is <span dir="rtl">פרר</span>:
-
-* <span dir="rtl">פרר</span> <i>hiph.</i>, ‘to break’, occurs with <span dir="rtl">בְּרִית</span> as its object in 
+is <span dir="rtl">פרר</span> <i>hiph.</i>, ‘to break’, which occurs 22 times with <span dir="rtl">בְּרִית</span> as its object: 
 Gen 17:14; Lev 26:15, 44; Deut 31:16, 20; Judg 2:1; 1 Kgs 15:19; Isa 24:5; 33:8; Jer 11:10; 14:21; 31:32; 33:20; Ezek 16:59; 17:15, 16, 18, 19; 44:7; Zech 11:10; 2 Chron 16:3; Sir 41:19.
+
+
+<b>A.4</b>
+The other verbs that occur with <span dir="rtl">בְּרִית</span> as its object are:
+
+* <span dir="rtl">גבר</span> <i>hiph.</i>, ‘to make strong’:
+Dan 9:27.
+* <span dir="rtl">זכר</span> <i>qal</i>, ‘to remember’:
+Gen 9:15, 16; Exod 2:24; 6:5; Lev 26:42 (2x), 45; Ezek 16:60; Amos 1:9; Pss 105:8; 106:45; 111:5; 1 Chron 16:15.
+* <span dir="rtl">חלל</span> <i>piel</i>, ‘to profane’:
+Mal 2:10; Ps 55:21; 89:35.
+* <span dir="rtl">ידע</span> <i>hiph.</i>, ‘to make known’:
+Ps 25:14??
+* <span dir="rtl">לוה</span> <i>qal</i>, ‘to join’:
+Jer 50:5.
+* <span dir="rtl">מאס</span> <i>qal</i>, ‘to reject’:
+2 Kgs 17:15.
+* <span dir="rtl">נאר</span> <i>qal</i>, ‘to abhor’:
+Ps 89:40.
+* <span dir="rtl">נגד</span> <i>hiph.</i>, ‘to tell, declare’:
+Deut 4:13.
+* <span dir="rtl">נצר</span> <i>qal</i>, ‘to watch, keep’:
+Deut 33:9; Ps 25:10.
+* <span dir="rtl">נשׂא</span> <i>qal</i>, ‘to carry’:
+Ps 50:16.
+* <span dir="rtl">נתן</span> <i>qal</i>, ‘to give’: 
+Gen 9:12; 17:2; Num 25:12; Sir 44:22.
+<!--also Ezek 17:19?-->
+The combination of <span dir="rtl">נתן</span> and <span dir="rtl">בְּרִית</span> can be accompanied by the preposition <span dir="rtl">ל</span> to indicate with whom the <span dir="rtl">בְּרִית</span> was made (Num 25:12), 
+or with 
+repeated <span dir="rtl">בֵּין</span>, ‘between’ 
+(Gen 9:12; 17:2), or the object is indicated by the 3rd pers. masc. sing. sf. <span dir="rtl">ֵוֹ</span>- (Sir 44:22: <span dir="rtl">נתנו</span>).
+* <span dir="rtl">עבר</span> <i>qal</i>, ‘to pass over’:
+Deut 17:2; Josh 7:11; 23:16; Judg 2:20; 2 Kgs 18:12; Jer 34:18; Hos 6:7; 8:1.
+* <span dir="rtl">עזב</span> <i>qal</i>, ‘to forsake’:
+Deut 29:24; 1 Kgs 19:10, 14; Jer 22:9.
+* <span dir="rtl">עשׂה</span> <i>qal</i>, ‘to make’:
+Deut 4:13 ???
+* <span dir="rtl">צוה</span> <i>piel</i>, ‘to command’:
+Deut 4:13 ???; Josh 7:11, 15; 23:16; 1 Kgs 11:11; Ps 111:9. 
+* <span dir="rtl">רשׁע</span> <i>hiph.</i>, ‘to make wicked’??:
+Dan 11:32.
+* <span dir="rtl">שׂים</span> <i>qal</i>, ‘to put, set’:
+2 Sam 23:5; Jer 33:25??
+* <span dir="rtl">שׁבע</span> <i>niph.</i>, ‘to swear’:
+Deut 4:31; 7:12; 8:18.
+* <span dir="rtl">שׁחת</span> <i>piel</i>, ‘to destroy’:
+Mal 2:8.
+* <span dir="rtl">שׁכח</span> <i>qal</i>, ‘to forget’:
+Deut 4:23, 31; 2 Kgs 17:38; Prov 2:17.
+* <span dir="rtl">שׁמר</span> <i>qal</i>, ‘to keep’:
+Gen 17:9, 10; Exod 19:5; Deut 7:9, 12; 1 Kgs 8:23; 11:11; Ezek 17:14; Pss 78:10; 103:18; 132:12; Dan 9:4; Neh 1:5; 9:32; 2 Chron 6:14.
+
+
+
+
+<!--ook na ww prep.le bijv. Ps 74:20-->
+
+
+
+
+
+
+<!--BRYT subject o.a. Isa 28:18; 54:10; Jer 33:21-->
+
+
+
+<b>A.5</b> <span dir="rtl">בְּרִית</span> is 13 times supplemented with <span dir="rtl">בֵּין</span> ... <span dir="rtl">בֵּין</span> (... <span dir="rtl">בֵּין</span>), ‘between’, with reference to the <span dir="rtl">בְּרִית</span> partners:
+Gen 9:12, 13, 15, 16, 17; 17:2, 7, 10, 11; 1 Kgs 15:19; 2 Kgs 11:17; 2 Chron 16:3; 23:16.
+
+
+<b>A.6</b> Personal suffixes are attached to <span dir="rtl">בְּרִית</span> in the following cases:
+
+* 1st pers. sing. sf. <span dir="rtl">ִי</span>-, ‘my’ (52x), always in speech (on behalf) of God and always with reference to God: 
+Gen 6:18; 9:9, 11, 15; 17:2, 4, 7, 9, 10, 13, 14, 19, 21; Exod 6:4, 5; 19:5; Lev 26:9, 15, 42 (3x), 44; Num 25:12; Deut 31:16, 20; Josh 7:11; Judg 2:1, 20; 1 Kgs 11:11; Isa 56:4, 6; 59:21; Jer 11:10; 31:32; 33:20 (2x), 21, 25; 34:18; Ezek 16:60, 62; 17:19; 44:7; Hos 8:1; Zech 11:10; Mal 2:4, 5; Pss 50:5, 16; 89:29, 35; 132:12.  
+* 2nd pers. masc. sing. sf. <span dir="rtl">ךָ</span>-, ‘your’ (12x), 5 times with reference to God (Deut 33:9; 1 Kgs 19:10, 14; Jer 14:21; Ps 44:18) and 7 times with reference to a human:
+2 Sam 3:12 (Abner to David); 1 Kgs 15:19 / 2 Chron 16:3 (Asa to Ben-Hadad); Obad 7 (God to Edom); Job 5:23 (Elifaz to Job); Mal 2:14 (prophet to husband); Sir 11:34 (to reader).  
+* 2nd pers. fem. sing. sf. <span dir="rtl">ֵךְ</span>-, ‘your’ (2x): Ezek 16:61 (God to Jerusalem); Zech 9:11 (God to Jerusalem).    
+* 3rd pers. masc. sing. sf. <span dir="rtl">וֹ</span>-, ‘his’ (21x). It refers 17 times to God (Exod 2:24; Deut 4:13; 8:18; 17:2; 2 Kgs 13:23; 17:15; 18:12; Pss 25:10, 14; 78:37; 103:18; 105:8; 106:45; 111:5, 9; 1 Chron 16:15; Sir 45:25), 
+2 times to the king of Babel (Ezek 17:14, 16), once to an evil person (Ps 55:21), and once to Noah (Sir 44:17). 
+* 2nd pers. masc. plur. sf. <span dir="rtl">כֶם</span>-, ‘your’ (1x): Isa 28:18, where it refers to the leaders of Jerusalem.  
+* 3rd pers. masc. plur. sf. <span dir="rtl">ֵָם</span>-, ‘their’ (1x): Sir 44:12.
+
+
+<b>A.7</b> <span dir="rtl">בְּרִית</span> is 42 times
+the <i> nomen rectum</i> after the <i>nomen regens</i>
+<span dir="rtl">אֲרוֹן</span>, ‘ark’:
+
+* <span dir="rtl">אֲרוֹן בְּרִית יְהוָה</span> (27x): Num 10:33; 14:44; Deut 10:8; 31:9, 25; Josh 3:17 (<span dir="rtl">הָאָרוֹן</span>); 4:7, 18; 6:8; 8:33; 1 Sam 4:3, 5; 1 Kgs 6:19; 8:1, 6; Jer 3:16; 1 Chron 15:25, 26, 28, 29; 16:37; 17:1; 22:19; 28:2, 18; 2 Chron 5:2, 7.
+* <span dir="rtl">אֲרוֹן בְּרִית יְהוָה אֱלֹהֵיכֶם</span> (2x): Deut 31:26; Josh 3:3.
+* <span dir="rtl">אֲרוֹן בְּרִית יְהוָה צְבָאוֹת</span> (1x): 1 Sam 4:4.
+* <span dir="rtl">אֲרוֹן בְּרִית אֲדֹנָי</span> (1x): 1 Kgs 3:15.
+* <span dir="rtl">אֲרוֹן בְּרִית הָאֱלֹהִים</span> (4x): Judg 20:27; 1 Sam 4:4; 2 Sam 15:24; 1 Chron 16:6.
+* <span dir="rtl">אֲרוֹן הַבְּרִית אֲדוֹן כָּל־הָאָרֶץ</span> (1x): Josh 3:11. <!--h voor berith is vreemd-->
+* <span dir="rtl">אֲרוֹן הַבְּרִית</span> (6x): Josh 3:6 (2x), 8, 14 (<span dir="rtl">הָאָרוֹן</span>); 4:9; 6:6.
+
+<!-- cf. 1 Kgs 8:21; 2 Chron 6:11 -->
+
+
+<b>A.8</b> The construct chain <span dir="rtl">בְּרִית יְהוָה</span> occurs 30 times in the expression
+<span dir="rtl">אֲרוֹן בְּרִית יְהוָה</span> (see A.7), but <span dir="rtl">בְּרִית יְהוָה</span> is also attested in the following verses:
+Deut 4:23; 29:11, 24; Josh 7:15; 23:16; 1 Sam 20:8; 1 Kgs 8:21; Jer. 22:9; 2 Chron 6:11.   
+The construct chain <span dir="rtl">בְּרִית אֱלֹהִים</span> occurs 2 times, in 
+Ps 78:10 and 2 Chron 34:32.  
+The construct chain <span dir="rtl">בְּרִית אֱלֹהֶיךָ</span> occurs in Lev 2:13.  
+The construct chain <span dir="rtl">בְּרִית אֱלֹהֶיהָ</span> occurs in Prov 2:17.
+
+
+
+<b>A.9</b> In the following construct chains, <span dir="rtl">בְּרִית</span> is also the <i> nomen regens</i>.
+
+* <span dir="rtl">בְּרִית אָבוֹת</span>: Deut 4:31 (<span dir="rtl">בְּרִית אֲבֹתֶיךָ</span>); Mal 2:10 (<span dir="rtl">בְּרִית אֲבֹתֵינוּ</span>).
+* <span dir="rtl">בְּרִיתִי אַבְרָהָם</span>: Lev 26:42.
+* <span dir="rtl">בְּרִית אַבְרָם</span>: Gen 14:13 (<span dir="rtl">בַּעֲלֵי בְרִית אַבְרָם</span>).
+* <span dir="rtl">בְּרִית אַחִים</span>: Amos 1:9. 
+* <span dir="rtl">בְּרִיתִי הַיּוֹם</span>: Jer 33:20.
+* <span dir="rtl">בְּרִיתִי יוֹמָם וָלָיְלָה</span>: Jer 33:25.
+* <span dir="rtl">בְּרִיתִי יַעֲקוֹב</span>: Lev 26:42.
+* <span dir="rtl">בְּרִיתִי יִצְחָק</span>: Lev 26:42.
+* <span dir="rtl">בְּרִית כְּהֻנַּת עוֹלָם</span>: Num 25:13.
+* <span dir="rtl">בְּרִית הַכְּהֻנָּה וְהַלְוִיִּם</span>: Neh 13:29.
+* <span dir="rtl">בְּרִית הַלֵּוִי</span>: Mal 2:8.
+* <span dir="rtl">בְּרִיתִי הַלָּיְלָה</span>: Jer 33:20.
+* <span dir="rtl">בְּרִית מֶלַח</span>: 2 Chron 13:5.
+* <span dir="rtl">בְּרִית מֶלַח עוֹלָם</span>: Num 18:19.
+* <span dir="rtl">בְּרִית עַבְדֶּךָ</span>: Ps 89:40.
+* <span dir="rtl">בְּרִית עוֹלָם</span>: Gen 9:16; 17:7, 13, 19; Exod 31:16; Lev 24:8; 2 Sam 23:5; Isa 24:5; 55:3; 61:8; Jer 32:40; 50:5; Ezek 16:60; 37:26; Ps 105:10; 1 Chron 16:17; Sir 45:15.
+* <span dir="rtl">בְּרִית עָם</span>: Isa 42:6; 49:8.
+* <span dir="rtl">ברית פינחס</span>: Sir 50:24.
+* <span dir="rtl">בְּרִית קֹדֶשׁ</span>: Dan 11:28, 30 (2x).
+* <span dir="rtl">בְּרִית רִאשֹׁנִים</span>: Lev 26:45.
+* <span dir="rtl">ברית כל ראשון</span>: Sir 44:22.
+* <span dir="rtl">בְּרִית שָׁלוֹם</span>: Num 25:12 (<span dir="rtl">בְּרִיתִי שָׁלוֹם</span>); Isa 54:10 (<span dir="rtl">בְּרִית שְׁלוֹמִי</span>); Ezek 34:25; 37:26; Sir 45:24.
+
+
+
+
+
+<b>A.10</b> The construct chain <span dir="rtl">אֲרוֹן בְּרִית</span> occurs 35 times in the expressions
+<span dir="rtl">אֲרוֹן בְּרִית יְהוָה</span>,
+<span dir="rtl">אֲרוֹן בְּרִית אֲדֹנָי</span>, and
+<span dir="rtl">אֲרוֹן בְּרִית הָאֱלֹהִים</span>
+(see A.7).
+The construct chain <span dir="rtl">אֲרוֹן הַבְּרִית</span> occurs 7 times:
+Josh 3:6 (2x), 8, 11, 14; 4:9; 6:6; (see also A.7). 
+
+
+<b>A.11</b> In the following construct chains, <span dir="rtl">בְּרִית</span> is also the <i> nomen rectum</i>.
+
+* <span dir="rtl">אוֹת בְּרִית</span>: Gen 9:13; 17:11.
+* <span dir="rtl">אוֹת הַבְּרִית</span>: Gen 9:12, 17.
+* <span dir="rtl">אֵל בְּרִית</span>: Judg 9:46.
+* <span dir="rtl">אָלוֹת הַבְּרִית</span>: Deut 29:20.
+* <span dir="rtl">אַנְשֵׁי בְּרִית</span>: Obad 7.
+* <span dir="rtl">אֵשֶׁת בְּרִית</span>: Mal 2:14.
+* <span dir="rtl">בְּנֵי אֶרֶץ הַבְּרִית</span>: Ezek 30:5.
+* <span dir="rtl">בַּעַל בְּרִית</span>: Judg 8:33; 9:4.
+* <span dir="rtl">בַּעֲלֵי בְרית</span>: Gen 14:13.
+* <span dir="rtl">דִּבְרֵי הַבְּרִית</span>: Exod 34:28; Deut 28:69; 29:8; 2 Kgs 23:3; Jer 11:2, 3, 6, 8; 34:18; 2 Chron 34:31.
+* <span dir="rtl">דִּבְרֵי סֵפֶר הַבְּרִית</span>: 2 Kgs 23:2; 2 Chron 34:30.
+* <span dir="rtl">דַּם הַבְּרִית</span>: Exod 24:8.
+* <span dir="rtl">דַּם בְּרִיתֵךְ</span>: Zech 9:11.
+* <span dir="rtl">כֹּרְתֵי בְרִיתִי</span>: Ps 50:5.
+* <span dir="rtl">לֻחוֹת הַבְּרִית</span>: Deut 9:9, 11, 15.
+* <span dir="rtl">מַלְאַךְ הַבְּרִית</span>: Mal 3:1.
+* <span dir="rtl">מֶלַח בְּרִית</span>: Lev 2:13.
+* <span dir="rtl">מָסֹרֶת הַבְּרִית</span>: Ezek 20:37.
+* <span dir="rtl">נְגִיד בְּרִית</span>: Dan 11:22.
+* <span dir="rtl">נֹצְרֵי בְרִיתוֹ</span>: Ps 25:10.
+* <span dir="rtl">נְקַם בְּרִית</span>: Lev 26:25.
+* <span dir="rtl">סֵפֶר הַבְּרִית</span>: Exod 24:7; 2 Kgs 23:2, 21; 2 Chron 34:30.
+* <span dir="rtl">מַרְשִׁיעֵי בְרִית</span>: Dan 11:32.
+* <span dir="rtl">שֹׁמְרֵי בְרִיתוֹ</span>: Ps 103:18.
+
+
+<b>A.12</b> Only in Sira: 11:34<sup><small>A</small></sup> is the plural of <span dir="rtl">בְּרִית</span> attested: 
+<span dir="rtl">מבריתיך</span>, ‘from your alliances’.
 
 
 
@@ -178,7 +374,7 @@ In the LXX the noun διαθήκη is by far the most common rendering of Hebrew
 For the few exceptional renderings of <span dir="rtl">בְּרִית</span>, see A.3 below.
 Since some occurences of <span dir="rtl">בְּרִית</span> in MT lack a counterpart in LXX (see A.4 below), διαθήκη is the LXX's translation in more 
 than 95% of the instances.    
-Although the Hebrew term <span dir="rtl">בְּרִית</span> and the Greek term διαθήκη overlap semantically in as far as both concepts refer to an official arrangement, they differ with respect to the authority of the parties involved. Hebrew <span dir="rtl">בְּרִית</span> refers to an ‘agreement’, a ‘covenant’, something which implies consent from each of the parties involved. The Greek term διαθήκη (< διατίθημι, ‘to arrange’), however, occurs in ancient Greek documents outside the Jewish-Christian tradition — including the so-called apocryphal Jewish Testament literature, such as the Testament of the Twelve Patriarchs, the Testament of Abraham, Job etc. — almost exclusively in the sense of a ‘testament’, or ‘will’. This implies a unilateral arrangement devised by a higher authority for subordinate recipients, usually a disposition of property by a will provided by a testator to her or his heirs 
+Although the Hebrew term <span dir="rtl">בְּרִית</span> and the Greek term διαθήκη overlap semantically in as far as both concepts refer to an official arrangement, they differ with respect to the authority of the parties involved. Hebrew <span dir="rtl">בְּרִית</span> usually refers to an ‘agreement’, a ‘covenant’, something which implies consent from each of the parties involved. The Greek term διαθήκη (< διατίθημι, ‘to arrange’), however, occurs in ancient Greek documents outside the Jewish-Christian tradition — including the so-called apocryphal Jewish Testament literature, such as the Testament of the Twelve Patriarchs, the Testament of Abraham, Job, etc. — almost exclusively in the sense of a ‘testament’, or ‘will’. This implies a unilateral arrangement devised by a higher authority for subordinate recipients, usually a disposition of property by a will provided by a testator to her or his heirs 
 (<a href="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aalphabetic+letter%3D*d%3Aentry+group%3D34%3Aentry%3Ddiaqh%2Fkh" target="_blank" rel="noopener noreferrer">LSJ</a>, 394b-395a; Adrados, 
 <a href="http://dge.cchs.csic.es/xdge/διαθήκη" target="_blank" rel="noopener noreferrer"><i>DGE</i> V</a>, 975a-b). 
 The use of this Greek word διαθήκη in the sense of ‘covenant’ is therefore typically ‘biblical Greek’, an example of ‘Greek words, Hebrew meanings’ (Hill 1967; Tov 1999:92-93), one of the best examples of a ‘calque’: 
@@ -212,7 +408,8 @@ For further discussion of the Greek term διαθήκη, see van der Meer 2024 a
 In the LXX διαθήκη occurs also without a counterpart in MT, especially in references to the <span dir="rtl">אֲרוֹן</span>, ‘ark’.
 In many cases, MT designates the ark of the sanctuary as 
 <span dir="rtl">אֲרוֹן בְּרִית יְהוָה</span>, ‘ark of the covenant of YHWH’, or
-<span dir="rtl">אֲרוֹן הַבְּרִית</span>, ‘ark of the covenant’. 
+<span dir="rtl">אֲרוֹן הַבְּרִית</span>, ‘ark of the covenant’ (see
+<a href="#Syn">3. Syntagmatics</a>). 
 In the LXX <span dir="rtl">אֲרוֹן</span> is translated as κιβωτός.
 Even when in MT the word <span dir="rtl">בְּרִית</span> is missing after <span dir="rtl">אֲרוֹן</span>,
 the LXX often adds (τῆς) διαθήκης after κιβωτός; see
@@ -365,7 +562,7 @@ Ezra 10:3 (plur); Neh 9:8 (plur), 32 (plur); 1 Chron 11:3; 2 Chron 15:12 (plur);
 * Free: Sir 45:24, 25 (beide omission?); 50:24 (omission?)--> 
 
 
-<b>c. Targumim</b>:  
+<b>Targumim</b>:  
 
 <span id="targum"><b>A.1</b> <span dir="rtl">קְיָם</span> as dominant rendering of <span dir="rtl">בְּרִית</span>   
 In the Jewish Targumim, the noun <span dir="rtl">קְיָם</span>
@@ -496,10 +693,19 @@ Vulgate PsG altijd testamentum, in PsH pactum, behalve in 83:6; 89:4;-->
 
 ## 5. Lexical/Semantic Fields
 
+Among the words that belong to the semantic field of 
+<span dir="rtl">בְּרִית</span> are the nouns
+<span dir="rtl">חֶסֶד</span> and
+<span dir="rtl">אָלָה</span> and the verb
+<span dir="rtl">שׁבע</span>.
+
 
 ## 6. Exegesis 
 
-
+<b>A.1</b> The idea that a <span dir="rtl">בְּרִית</span> was made <span dir="rtl">לִפְנֵי יְהוָה</span>, 
+‘before YHWH’ (<span dir="rtl">לְפָנַי</span>, ‘before Me’, in divine speech),
+occurs in 
+1 Sam 23:18; 2 Sam 5:3; 2 Kgs 23:3; Jer 34:15, 18; 1 Chron 11:3; 2 Chron 34:31 (always with <span dir="rtl">כרת</span>); cf. Num 18:19.
 
 ## 7. Conclusion
 
@@ -545,8 +751,15 @@ Boston & Berlin: De Gruyter.
 
 <div style="padding-left: 22px; text-indent: -22px;">
 De Moor 1987 <br>
-Johannes C. de Moor, <i>An Anthology of Religious Texts from Ugarit</i>, Leiden: Brill.
+Johannes C. de Moor, <i>An Anthology of Religious Texts from Ugarit</i> (NISABA, 16), Leiden: Brill.
 </div>
+
+<div style="padding-left: 22px; text-indent: -22px;">
+De Moor and Spronk 1987
+<br>
+Johannes C. de Moor and Klaas Spronk, <i>A Cuneiform Anthology of Religious Texts from Ugarit</i> (SSS.NS, 6), Leiden: Brill.
+</div>
+
 
 <div style="padding-left: 22px; text-indent: -22px;">
 De Moor & Spronk 1984 <br>
@@ -611,6 +824,12 @@ Wolf Leslau, <i>Comparative Dictionary of Ge‘ez (Classical Ehiopic): Ge‘ez-E
 </div>
 
 <div style="padding-left: 22px; text-indent: -22px;">
+Lewis 1996 <br>
+Theodore J. Lewis, ‘The Identity and Function of El/Baal Berith’, <i>JBL</i> 115/3:401-423.
+</div>
+
+
+<div style="padding-left: 22px; text-indent: -22px;">
 Noth 1957 <br>
 Martin Noth, 
 ‘Das alttestamentliche Bundesschließen im Lichte eines Mari-Textes’,
@@ -621,6 +840,14 @@ in: <i>Gesammelte Studien zum Alten Testament</i>, München: Chr. Kaiser Verlag,
 <div style="padding-left: 22px; text-indent: -22px;">
 Siegert 2001 <br>
 Folker Siegert, <i>Zwischen Hebräischer Bibel und Altem Testament: Eine Einführung in die Septuaginta</i> (Münsteraner Judaistische Studien 9), Münster: <b>Lit</b>.
+</div>
+
+
+<div style="padding-left: 22px; text-indent: -22px;">
+Tadmor 1982 <br>
+Hayim Tadmor, ‘Treaty and Oath in the Ancient Near East: A Historian's Approach’, 
+Gene M. Tucker, Douglas A. Knight (eds.), 
+<i>Humanizing America's Iconic Book: Society of Biblical Literature Centennial Addresses 1980</i>, Chico, CA: Scholars Press, 127-52.
 </div>
 
 
