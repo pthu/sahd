@@ -26,6 +26,26 @@
 
 div { font-family: "SBL Hebrew", "Montserrat"; }
 
+/* Keep desktop navigation links and expandable headings evenly spaced. */
+@media screen and (min-width: 76.25em) {
+  /* Remove the theme's compensating submenu margins and list padding:
+     collapsed sections must occupy the same space as ordinary links. */
+  .md-sidebar--primary .md-nav {
+    margin-bottom: 0;
+  }
+
+  .md-sidebar--primary .md-nav__list {
+    padding-bottom: 0;
+  }
+
+  .md-sidebar--primary .md-nav__link {
+    align-items: center;
+    line-height: 1.2;
+    margin-top: 0;
+    padding-block: .2rem;
+  }
+}
+
 #contributors_footnote { display: none }
 
  /* MODAL WINDOW */
