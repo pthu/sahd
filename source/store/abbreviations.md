@@ -7,7 +7,7 @@ Atlanta, GA: SBL Press, <small><sup>2</sup></small>2014.
 
 <style>
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid var(--sahd-table-border, black);
   border-collapse: collapse;
 }
 td:nth-child(odd) {
@@ -15,7 +15,7 @@ td:nth-child(odd) {
   width:15%;
 }
 th:nth-child(even),td:nth-child(even) {
-  background-color: #D6EEEE;
+  background-color: var(--sahd-table-stripe-bg, #D6EEEE);
   text-align: left;
   width:35%;
 }
@@ -142,7 +142,7 @@ th:nth-child(even),td:nth-child(even) {
 
 <style>
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid var(--sahd-table-border, black);
   border-collapse: collapse;
 }
 td:nth-child(odd) {
@@ -150,7 +150,7 @@ td:nth-child(odd) {
   width:15%;
 }
 th:nth-child(even),td:nth-child(even) {
-  background-color: #D6EEEE;
+  background-color: var(--sahd-table-stripe-bg, #D6EEEE);
   text-align: left;
   width:35%;
 }
@@ -218,14 +218,14 @@ th:nth-child(even),td:nth-child(even) {
 
 <style>
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid var(--sahd-table-border, black);
   border-collapse: collapse;
 }
 td:nth-child(odd) {
   text-align: left;
   width:15%;}
 th:nth-child(even),td:nth-child(even) {
-  background-color: #D6EEEE;
+  background-color: var(--sahd-table-stripe-bg, #D6EEEE);
   text-align: left;
   width:35%;}
 </style>
@@ -308,7 +308,7 @@ th:nth-child(even),td:nth-child(even) {
 <style>
 <!--table, th, td {-->
 table, td {
-  border: 1px solid black;
+  border: 1px solid var(--sahd-table-border, black);
   border-collapse: collapse;
 }
 td:nth-child(odd) {
@@ -316,7 +316,7 @@ td:nth-child(odd) {
   width:15%;
 }
 <!--th:nth-child(even),td:nth-child(even) {
-  background-color: #D6EEEE;
+  background-color: var(--sahd-table-stripe-bg, #D6EEEE);
   text-align: left;
   width:35%;
 }

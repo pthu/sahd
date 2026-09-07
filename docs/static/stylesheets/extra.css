@@ -46,6 +46,12 @@ div { font-family: "SBL Hebrew", "Montserrat"; }
   }
 }
 
+/* Theme-aware colors for the Abbreviations tables. */
+[data-md-color-scheme="slate"] {
+  --sahd-table-stripe-bg: #2b4145;
+  --sahd-table-border: #607579;
+}
+
 #contributors_footnote { display: none }
 
  /* MODAL WINDOW */
