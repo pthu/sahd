@@ -22,6 +22,7 @@ nav:
                 - אַרְגַּז - box: words/2argaz.md
                 - אַרְגָּמָן - bright purple: words/2argaman.md
                 - ארר - to curse: words/2-r-r.md
+                - אָלָה - curse: words/2alah.md
             - ב:
                 - בַּד - pole: words/bad_2.md
                 - בֶּקַע - beka: words/beqa3.md
@@ -150,6 +151,8 @@ nav:
                 - צַחַר - white ?: words/tsachar.md
                 - צָחֹר - light grey: words/tsachor.md
                 - צלה - to roast: words/ts-l-h.md
+                - ְלֹחִית - bowl ?: words/tslochith.md
+                - ַלַּחַת - bowl: words/tsallachath.md
                 - צִפֹּרֶן - nail: words/tsipporen.md
                 - צְרוֹר - pouch: words/tsror_1.md
             - ק:
@@ -234,6 +237,7 @@ nav:
             - Kees den Hertog: contributors/kees_den_hertog.md
             - Karel Deurloo: contributors/karel_deurloo.md
             - Meindert Dijkstra: contributors/meindert_dijkstra.md
+            - Margaretha Folmer: contributors/margaretha_folmer.md
             - Alison Gray: contributors/alison_gray.md
             - John E. Hartley: contributors/john_e._hartley.md
             - Cornelis Houtman: contributors/cornelis_houtman.md
